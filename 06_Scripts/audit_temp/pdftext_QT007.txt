@@ -1,0 +1,826 @@
+RESEARCH Open Access
+© The Author(s) 2023. Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, 
+sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and 
+the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this 
+article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included 
+in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will 
+need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/. The 
+Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available 
+in this article, unless otherwise stated in a credit line to the data.
+Chen et al. BMC Psychiatry          (2023) 23:580 
+https://doi.org/10.1186/s12888-023-05068-1
+BMC Psychiatry
+*Correspondence:
+Xiaogang Chen
+chenxiaogang@csu.edu.cn
+Jinsong Tang
+tangjinsong@zju.edu.cn
+1Department of Psychiatry, National Clinical Research Center for Mental 
+Disorders, The Second Xiangya Hospital of Central South University, 
+Changsha, Hunan, China
+2Department of Nursing, Sichuan Vocational College of Health and 
+Rehabilitation, Zigong, Sichuan, China
+3Department of Psychiatry, Zigong Mental Health Center, Zigong, 
+Sichuan, China
+4Department of Psychiatry, Sir Run Run Shaw Hospital, Zhejiang 
+University School of Medicine, Hangzhou, Zhejiang, China
+Abstract
+Background Depressive and anxiety symptoms affect about one-fourth of Chinese secondary school students. 
+However, the prevalence and correlates of mental distress among secondary school students from Western China 
+remain largely unexplored. This study aimed to examine the prevalence and associations of depressive and anxiety 
+symptoms with demographic, family, school, life, and behavior factors in a large, representative sample of secondary 
+school students in Zigong, a city in Western China.
+Methods Secondary school students were recruited using cluster sampling. The 9-item Patient Health Questionnaire, 
+the 7-item Generalized Anxiety Disorder Questionnaire, Multidimensional Peer-Victimization Scale, the Pittsburgh 
+Sleep Quality Index, and Nine-Item Internet Gaming Disorder Scale-Short Form were used. Descriptive statistic was 
+used to describe the sociodemographic characteristics of participants. The clustering effect was adjusted by the 
+“survey” package of R to calculate weighted prevalence. Univariate and multivariate logistic regression were used to 
+explore associated factors of depression and anxiety, respectively.
+Results A total of 63,205 participants were involved, in which the weighted prevalence of depression in all subjects 
+was 23.0% (95% CI: 19.6- 27.0%), and the weighted prevalence of anxiety was 13.9% (95% CI: 11.2- 17.0%). Logistic 
+regression results showed girls, being single-child, non-nuclear family, peer bullying, sleep disturbance, and internet 
+gaming disorder symptoms were positively associated with depressive and anxiety symptoms.
+Conclusion Depressive and anxiety symptoms were prevalent among secondary school students in Western China. 
+Our results can guide policy strategies for the assessment, prevention, and intervention of psychological status 
+among Chinese secondary school students.
+Keywords Adolescents, Mental health, Peer bullying, Internet gaming disorder
+Prevalence and associated factors 
+of depressive and anxiety symptoms among 
+Chinese secondary school students
+Zhangming Chen1, Silan Ren2, Ruini He3, Yudiao Liang3, Youguo Tan3, Yi Liu4, Fanglan Wang4, Xu Shao4, 
+Shanshan Chen4, Yanhui Liao4, Ying He1, Jin-guang Li1, Xiaogang Chen1* and Jinsong Tang3,4*
+Page 2 of 9
+Chen et al. BMC Psychiatry          (2023) 23:580 
+Background
+Based on the World Health Organization report [ 1], 
+one-seventh of adolescents aged 10–19 years old experi -
+ence a mental disorder, and depression and anxiety are 
+the primary causes of disease and disability among this 
+age group. During adolescence, all kinds of physical, 
+mental, and interpersonal demands are required. When 
+teens do not complete a specific requirement, worry and 
+anxiety arise, leading to mental disorders like depres -
+sion and anxiety. For example, depression increased from 
+2% in beginning puberty to around 18% in late puberty 
+[2]. Based on a meta-analysis of the Chinese adolescent 
+sample, the prevalence rate of depression was 24.3% [ 3], 
+and rate of anxiety was 24.0% [ 4]. In response to these 
+concerns, the Chinese government has introduced the 
+Healthy China Action (2019-30) plan, which aims to 
+enhance the mental well-being of Chinese adolescents. 
+The plan emphasizes the establishment of a compre -
+hensive mental health service network encompassing 
+schools, communities, families, media, and medical insti -
+tutions [ 5]. Specifically, schools are required to develop 
+psychological service platforms or rely on school doctors 
+to provide mental health support to students in distress.
+Examining risk factors for depressive and anxiety 
+symptoms in adolescents holds significant importance, 
+as it enables parents, schools, and policymakers to iden -
+tify at-risk individuals and provide timely interventions. 
+A series of demographic, family, school, life, and behav -
+ior factors were found to be associated with mental dis -
+tress among adolescents. For example, female gender 
+was a stable predictor of depression and anxiety [ 6]. The 
+higher grade may have a larger rate of depression and 
+anxiety [ 6]. Although urban residence was an influenc -
+ing factor of anxiety, its impact was controversial [ 7, 8], 
+and findings of depression were likewise [ 9– 11]. As to 
+family factors, non-single child and non-intact families 
+predicted stronger probability of persistent depression 
+[12]. Children from single-parent families were more 
+possible to suffer from depression [ 13] and anxiety [ 14]. 
+Left-behind children experienced more depression and 
+anxiety than non-left-behind [ 15]. Studies revealed that 
+bullying victimization and physical abuse were associ -
+ated with depressive and anxiety among adolescents 
+[16]. Regarding life factors, sleep structure undergoes a 
+dramatic change during adolescence, and teenagers are 
+susceptible to sleep problems due to delayed biological 
+circadian [17]. Sleep disturbance among adolescents was 
+commonly found to be associated with depression [18] or 
+anxiety [19]. As to behavioral factors, with the popular -
+ization of digital devices, students nowadays can easily 
+get access to internet use, and online gaming can become 
+addictive to adolescents [ 20]. Studies showed that ado -
+lescents with internet gaming disorder (IGD) had more 
+severe depression and anxiety symptoms [21].
+Despite extensive research, several knowledge gaps 
+persist. Firstly, prior studies have highlighted significant 
+regional disparities in the prevalence of mental distress 
+among Chinese adolescents, attributed to economic and 
+living conditions, with Western China recording higher 
+rates [22]. However, focused research on the prevalence 
+and factors associated with depressive and anxiety symp -
+toms in Western Chinese adolescents is scarce; only 9 out 
+of 51 publications in a meta-analysis on Chinese adoles -
+cents’ depression involved Western China [ 3]. Second, 
+findings regarding the association of mental distress 
+with demographic factors such as sex (boys versus girls) 
+and study phase (middle school versus high school) have 
+been inconsistent [ 3]. Third, previous studies have often 
+utilized narrow measurement instruments that fail to 
+comprehensively capture the impact of school, life, and 
+behavioral factors on mental distress. For example, peer 
+bullying, verbal or physical, exists in various forms but 
+was not differentiated in previous studies. Simple ques -
+tions were asked about sleep hours or internet gaming 
+durations. Dimensions of sleep and degree of IGD are in 
+lack of investigation. Taken together, a further large-scale 
+study on the prevalence and associated factors of depres -
+sive and anxiety symptoms in adolescents from Western 
+China is still warranted.
+The present study aimed to: (1) assess the prevalence 
+of depressive and anxiety symptoms in a large, repre -
+sentative sample of secondary schools in Zigong, a city 
+in Western China; and (2) comprehensively evaluate the 
+association of depressive and anxiety symptoms with 
+demographic (sex, age, study phase, residence), family 
+(single-child, left-behind children, family type), school 
+bullying, sleep disturbance, and IGD symptoms.
+Methods
+Study design and participants
+A school-based cross-sectional survey was conducted 
+from September to December 2020 in Zigong City, 
+situated in the southern part of Sichuan, China. At this 
+time, Zigong was experiencing a remission phase of the 
+COVID-19 pandemic. The school lockdown policy was 
+ended and students went back to campus on April 2020. 
+Through a cluster sampling approach, two districts and 
+one county were selected from four districts and two 
+counties in Zigong. The study encompassed all secondary 
+schools (middle and high school) within these areas.
+Investigators were meticulously trained in the study 
+protocol and data collection standards to ensure the 
+quality of the survey. Students completed an electronic 
+questionnaire in the school computer rooms. Prior to the 
+survey, both students and their parents were comprehen-
+sively informed about the survey’s purpose, procedures, 
+and measurements, and provided their consent. A total 
+of 63,487 junior high and senior high school students 
+Page 3 of 9
+Chen et al. BMC Psychiatry          (2023) 23:580 
+finished the investigation, and 282 were excluded due to 
+missing data for critical items, leaving 63,205 subjects for 
+the study, with an effective response proportion of 99.6%. 
+The protocol was approved by the Ethics Committee of 
+Zigong Mental Health Center [No. 2020-8-01].
+Measurement
+A self-report questionnaire was applied in this study. 
+Data were collected using a self-developed questionnaire. 
+The questionnaire contained several parts: Socio-demo -
+graphic information, including age, gender, study phase 
+(middle school/ high school), residence (urban/rural), 
+family type (non-nuclear family/ nuclear family), single-
+child (yes/ no), and left-behind children (yes/ no), depres-
+sive symptom, anxiety symptom, peer bullying, sleep 
+disturbance, and internet gaming disorder (IGD). Par -
+ticipants were requested to report whether they belonged 
+to a nuclear family or a non-nuclear family (single-par -
+ent family or reconstituted family). Left-behind children 
+refer to children who are separated from one or both of 
+their parents due to migration of their parents for work 
+or other reasons.
+Anxiety symptom was measured via the 7-item Gen -
+eralized Anxiety Disorder Questionnaire (GAD-7) [ 23]. 
+The scale contains 7 items, and each item is rated from 
+0 to 3, yielding a total score from 0 to 21. In this study, 
+a total score of ≥ 10 represents positive for anxiety. The 
+Chinese version of GAD-7 has demonstrated reliability 
+and validity in the Chinese adolescents [24].
+The 9-item Patient Health Questionnaire (PHQ-9) [ 25] 
+was applied to assess depressive symptoms. The response 
+option on each item ranges from “not at all” (0 points) to 
+“nearly every day” (3 points), yielding a total score from 0 
+to 27. A score of ≥ 10 represents positive for depression. 
+The PHQ-9 has been validated and widely used across 
+different Chinese samples [26– 29].
+The multidimensional Peer-Victimization Scale 
+(MPVS) measures peer bullying suitable for adolescents 
+aged 11–16 [ 30, 31]. It has 16 items, each asking individ -
+uals how often they experienced each event over the past 
+year, with response options ranging from 0 (not at all), 1 
+(once), to 2 (more than once). This instrument has four 
+factors (four items each), namely physical victimization, 
+verbal victimization, social manipulation, and property 
+attacks. In the current analysis, factor score ≥ 1 represents 
+the experience of respective subtypes of peer bullying.
+Sleep disturbance was measured by the Pittsburgh 
+Sleep Quality Index (PSQI) [ 32]. It has seven factors, 
+rated from 0 to 3, yielding a global score from 0 to 21. 
+A higher score indicates worse sleeping quality. A global 
+score > 5 indicates ‘poor sleep’ and was considered posi -
+tive for sleep disturbance in this study. This questionnaire 
+is a structure-validated and globally recognized instru -
+ment with good reliability and validity [33].
+IGD symptoms were assessed through the Nine-Item 
+Internet Gaming Disorder Scale-Short Form (IGDS9-
+SF), which was developed by Pontes, Halley, M., Griffiths, 
+Mark and D. [ 34]. Items are rated by a five-point Likert-
+type scale ranging from 1 (never) to 5 (very often), yield -
+ing a total score from 9 to 45. This instrument has been 
+introduced to the Chinese samples, and a total score ≥ 32 
+was considered positive for Internet gaming addiction in 
+the Chinese samples [35].
+Statistical analysis
+Descriptive statistics were employed to summarize par -
+ticipant characteristics. Based on PHQ-9 and GAD-7 
+scores, participants were categorized into four groups: 
+non-mental distress, anxiety symptoms only, depressive 
+symptoms only, and both depressive and anxiety symp -
+toms. Given the high co-occurrence of depressive and 
+anxiety symptoms among our participants, a further clas-
+sification was made into the non-distress group and dis -
+tress group (participants displaying either depressive or 
+anxiety symptoms).
+Chi-square tests and t-tests were used to examine dif -
+ferences between the distress and non-distress groups in 
+demographics, family-related information, sleep distur -
+bance, school bullying, and IGD symptoms. Consider -
+ing the recruitment method of the participants and the 
+design of the study involved cluster sampling, the “sur -
+vey” package of R was applied to get weighted prevalence 
+based on cluster. A multivariate logistic regression model 
+was applied to identify factors independently associated 
+with mental distress. Variables that were statistically sig -
+nificant in univariate analysis were included. Consistent 
+with a previous study [ 36], adjusted odds ratios (ORs) 
+were used to evaluate effect size, with ORs < 1.5, between 
+1.5 and 4, and > 4 indicating weak, moderate, and strong 
+associations, respectively.
+We further performed a subgroup analysis to examine 
+potential differences in the factors associated with mental 
+distress between middle school and high school students.
+Statistics were performed using R software (Ver -
+sion 3.3.3, The R Foundation for Statistical Comput -
+ing, Vienna, Austria). The “survey” package was used to 
+adjust the clustering effect. Given the very large sample 
+size [36], the significance level was set at less than 0.001 
+(two-tailed).
+Results
+Major characteristics of the participants
+A total of 63,205 subjects were included in the analysis, 
+and their major characteristics are shown in Table  1. The 
+mean age of all the participants was 14.3 years old, and 
+49.36% were boys. Junior high school students accounted 
+for 68.62%. Among all the study subjects, 22.00% were 
+single-child, and 35.13% were left-behind children. As 
+Page 4 of 9
+Chen et al. BMC Psychiatry          (2023) 23:580 
+for peer bullying, verbal victimization was reported the 
+highest form (61%), followed by property attacks (59%), 
+social manipulation (45%), and physical victimization 
+(29%), respectively. Of all the participants, 30% reported 
+sleep disturbance, and 2.9% were qualified as IGD.
+Weighted prevalence of depression and anxiety symptoms
+The weighted prevalence of depressive and anxiety symp-
+toms was 23.0% ( 95% CI : 19.6- 27.0%) and 13.9% ( 95% 
+CI: 11.2- 17.0%), respectively. 11.5% ( 95% CI: 9.0- 15.0%) 
+of secondary school students suffered from both depres -
+sive and anxiety symptoms. Approximately one-fourth of 
+the participants (25.5%, 95% CI : 21.8- 30.0%) displayed 
+either depressive or anxiety symptoms and were classi -
+fied into the distress group.
+Compared to non-distress group, adolescents with 
+mental distress were older (14.37 vs. 14.32). They were 
+more likely to be girls (58% vs. 48%), single-child (23% vs. 
+22%), and left-behind children (36% vs. 35%). They were 
+more likely to live in the urban (35% vs. 33%) and belong 
+to a non-nuclear family (26% vs. 18%) (all p < 0.001). 
+Notably, adolescents with mental distress were at a much 
+higher risk for IGD symptoms (8.3% vs. 1.0%), sleep dis -
+turbance (66% vs. 17%), physical victimization (48% vs. 
+23%), verbal victimization (83% vs. 54%), social manipu -
+lation (72% vs. 36%), and property attacks (80% vs. 52%) 
+(all p < 0.001).
+Associated factors of depression and anxiety symptoms
+We performed multiple regression models to identify 
+the independent factors associated with mental distress 
+(Table  2). The following variables were selected in the 
+regression model: gender, residence, age, being single-
+child, being left-behind children, family type, school bul -
+lying experience, sleep disturbance, and IGD symptoms. 
+The model suggested that girls (OR: 1.55, 95% CI: 1.49–
+1.62, p < 0.001), belonging to a non-nuclear family (OR: 
+1.31, 95% CI: 1.25–1.38, p < 0.001), being single-child 
+(OR, 1.06, 95%CI, 1.01–1.12, p = 0.025), living in urban 
+(OR, 1.11; 95%CI, 1.06–1.17, p < 0.001), physical victim -
+ization (OR: 1.51, 95% CI: 1.44–1.59, p < 0.001), verbal 
+victimization (OR: 1.70, 95% CI: 1.60–1.80, p < 0.001), 
+social manipulation (OR: 1.97, 95% CI: 1.87–2.08, 
+p < 0.001), property attacks (OR: 1.25, 95% CI: 1.18–1.32, 
+p < 0.001), sleep disturbance (OR: 6.99, 95% CI: 6.69–
+7.30, p < 0.001), and IGD symptoms (OR: 5.00, 95% CI: 
+4.42–5.66, p < 0.001) was independently associated with 
+mental problems.
+A subsequent subgroup analysis was conducted to 
+investigate potential differences in factors associated with 
+mental distress between middle school and high school 
+students (Tables 3 and 4). The regression model revealed 
+that school bullying victimization, IGD symptoms, sleep 
+disturbance, family types, and being female consistently 
+showed positive associations with mental problems in 
+both middle school and high school students. However, 
+Table 1 Sample Characteristics
+Characteristic Distress p-value2
+Overall, N = 63,2051 Without distress, N = 47,1071 With distress, N = 16,0981
+Gender < 0.001
+ Girl 32,007 (51%) 22,676 (48%) 9,331 (58%)
+ Boy 31,198 (49%) 24,431 (52%) 6,767 (42%)
+Study phase 0.007
+ High school 19,832 (31%) 14,644 (31%) 5,188 (32%)
+ Middle school 43,373 (69%) 32,463 (69%) 10,910 (68%)
+Age, years 14.33 (1.65) 14.32 (1.66) 14.37 (1.61) < 0.001
+Residence < 0.001
+ Country 42, 059 (67%) 31, 640 (67%) 10,419 (65%)
+ Urban 21,146 (33%) 15,467 (33%) 5,679 (35%)
+Single child, yes 13,904 (22%) 10,132 (22%) 3,772 (23%) < 0.001
+Left-behind children, yes 22,202 (35%) 16,366 (35%) 5,836 (36%) < 0.001
+Family type < 0.001
+ Nuclear family 50,414 (80%) 38,425 (82%) 11,989 (74%)
+ Non-nuclear family 12, 791(20%) 8, 682 (18%) 4, 109 (26%)
+IGD symptoms, yes 1,813 (2.9%) 474 (1.0%) 1,339 (8.3%) < 0.001
+Sleep Disturbance, yes 18,647 (30%) 7,946 (17%) 10,701 (66%) < 0.001
+Physical victimization 18,548 (29%) 10,812 (23%) 7,736 (48%) < 0.001
+Verbal victimization 38,660 (61%) 25,234 (54%) 13,426 (83%) < 0.001
+Social manipulation 28,544 (45%) 16,982 (36%) 11,562 (72%) < 0.001
+Property attacks 37,259 (59%) 24,369 (52%) 12,890 (80%) < 0.001
+1n (%); Mean (SD)
+2Pearson’s Chi-squared test; Welch Two Sample t-test
+Page 5 of 9
+Chen et al. BMC Psychiatry          (2023) 23:580 
+Table 2 Univariate and multivariate analysis of influencing factors for mental distress in secondary school students (N = 63, 205)
+Variables Without distress With distress OR (univariable) OR (multivariable)
+Gender Boy 24,431 (78.3) 6767 (21.7) - -
+Girl 22,676 (70.8) 9331 (29.2) 1.49 (1.43–1.54, p < 0.001) 1.55 (1.49–1.62, p < 0.001)
+School Middle school students 32,463 (74.8) 10,910 (25.2) - -
+High school students 14,644 (73.8) 5188 (26.2) 1.05 (1.01–1.10, p = 0.007) -
+Age Mean (SD) 14.3 (1.7) 14.4 (1.6) 1.02 (1.01–1.03, p < 0.001) 0.99 (0.98-1.00, p = 0.148)
+Residence Country 31,640 (75.2) 10,419 (24.8) - -
+Urban 15,467 (73.1) 5679 (26.9) 1.12 (1.07–1.16, p < 0.001) 1.11 (1.06–1.17, p < 0.001)
+Single-child No 36,975 (75.0) 12,326 (25.0) - -
+Yes 10,132 (72.9) 3772 (27.1) 1.12 (1.07–1.17, p < 0.001) 1.06 (1.01–1.12, p = 0.025)
+Left-behind child No 30,741 (75.0) 10,262 (25.0) - -
+Yes 16,366 (73.7) 5836 (26.3) 1.07 (1.03–1.11, p = 0.001) 1.02 (0.97–1.07, p = 0.457)
+Family type Nuclear 38,425 (76.2) 11,989 (23.8) - -
+Non-nuclear 8682 (67.9) 4109 (32.1) 1.52 (1.45–1.58, p < 0.001) 1.31 (1.25–1.38, p < 0.001)
+IGD No 46,633 (76.0) 14,759 (24.0) - -
+Yes 474 (26.1) 1339 (73.9) 8.93 (8.03–9.94, p < 0.001) 5.00 (4.42–5.66, p < 0.001)
+Sleep Disturbance No 39,161 (87.9) 5397 (12.1) - -
+Yes 7946 (42.6) 10,701 (57.4) 9.77 (9.38–10.18, p < 0.001) 6.99 (6.69–7.30, p < 0.001)
+Physical victimization No 36,295 (81.3) 8362 (18.7) - -
+Yes 10,812 (58.3) 7736 (41.7) 3.11 (2.99–3.22, p < 0.001) 1.51 (1.44–1.59, p < 0.001)
+Verbal victimization No 21,873 (89.1) 2672 (10.9) - -
+Yes 25,234 (65.3) 13,426 (34.7) 4.36 (4.16–4.56, p < 0.001) 1.70 (1.60–1.80, p < 0.001)
+Social manipulation No 30,125 (86.9) 4536 (13.1) - -
+Yes 16,982 (59.5) 11,562 (40.5) 4.52 (4.35–4.70, p < 0.001) 1.97 (1.87–2.08, p < 0.001)
+Property attacks No 22,738 (87.6) 3208 (12.4) - -
+Yes 24,369 (65.4) 12,890 (34.6) 3.75 (3.59–3.91, p < 0.001) 1.25 (1.18–1.33, p < 0.001)
+Table 3 Univariate and multivariate analysis of influencing factors for mental distress in middle school students
+Variables Without distress With distress OR (univariable) OR (multivariable)
+Gender Boy 17,503 (78.4) 4819 (21.6) - -
+Girl 14,960 (71.1) 6091 (28.9) 1.48 (1.42–1.54, p < 0.001) 1.56 (1.48–1.65, p < 0.001)
+Age Mean (SD) 13.4 (1.0) 13.5 (1.0) 1.07 (1.05–1.09, p < 0.001) 1.06 (1.03–1.09, p < 0.001)
+Residence Country 22,468 (75.2) 7428 (24.8) - -
+Urban 9995 (74.2) 3482 (25.8) 1.05 (1.01–1.10, p = 0.028) -
+Single-child No 25,708 (75.3) 8411 (24.7) - -
+Yes 6755 (73.0) 2499 (27.0) 1.13 (1.07–1.19, p < 0.001) 1.10 (1.03–1.17, p = 0.005)
+Left-behind child No 21,269 (75.7) 6845 (24.3) - -
+Yes 11,194 (73.4) 4065 (26.6) 1.13 (1.08–1.18, p < 0.001) 1.02 (0.97–1.08, p = 0.411)
+Family type Nuclear 26,077 (76.8) 7894 (23.2) - -
+Non-nuclear 6386 (67.9) 3016 (32.1) 1.56 (1.48–1.64, p < 0.001) 1.32 (1.24–1.40, p < 0.001)
+IGD No 32,096 (76.4) 9890 (23.6) - -
+Yes 367 (26.5) 1020 (73.5) 9.02 (8.00-10.20, p < 0.001) 4.92 (4.27–5.68, p < 0.001)
+Sleep Disturbance No 28,158 (87.4) 4077 (12.6) - -
+Yes 4305 (38.7) 6833 (61.3) 10.96 (10.43–11.53, p < 0.001) 7.29 (6.91–7.69, p < 0.001)
+Verbal victimization No 14,411 (90.7) 1484 (9.3) - -
+Yes 18,052 (65.7) 9426 (34.3) 5.07 (4.78–5.38, p < 0.001) 1.61 (1.51–1.71, p < 0.001)
+Physical victimization No 24,210 (83.0) 4943 (17.0) - -
+Yes 8253 (58.0) 5967 (42.0) 3.54 (3.38–3.71, p < 0.001) 1.74 (1.61–1.88, p < 0.001)
+Social manipulation No 20,396 (88.2) 2733 (11.8) - -
+Yes 12,067 (59.6) 8177 (40.4) 5.06 (4.82–5.31, p < 0.001) 2.04 (1.91–2.18, p < 0.001)
+Property attacks No 15,502 (88.8) 1961 (11.2) - -
+Yes 16,961 (65.5) 8949 (34.5) 4.17 (3.95–4.40, p < 0.001) 1.22 (1.13–1.31, p < 0.001)
+Page 6 of 9
+Chen et al. BMC Psychiatry          (2023) 23:580 
+age (OR, 1.06, 95%CI: 1.03–1.09, p < 0.001) and being a 
+single-child (OR1.10, 95%CI: 1.03–1.17, p = 0.005) were 
+only associated with mental distress in middle school stu-
+dents, while living in urban (OR, 1.24, 95%CI, 1.15–1.34, 
+p < 0.001) was only associated with mental distress in 
+high school students.
+Discussion
+Our study is, to our knowledge, the largest of its kind to 
+examine the prevalence and correlates of depression and 
+anxiety among secondary school students in Western 
+China. The major findings included: (1) Depressive and 
+anxiety symptoms affected 23% and 14% of the students, 
+respectively. About one-fourth of the students expe -
+rienced mental distress; (2) Mental distress was inde -
+pendently associated with sex, family type, single-child 
+status, residence, school bullying, sleep disturbance, and 
+IGD symptoms; and (3) The prevalence of mental distress 
+did not differ significantly between middle school and 
+high school students, but some demographic and family 
+factors had different associations with mental distress in 
+the two groups. Our findings underscore the urgent need 
+for formal assessments and interventions for mental dis -
+tress in Chinese secondary school students. Our results 
+can inform the early detection and timely intervention 
+for students at risk of mental distress.
+Prevalence of depression and anxiety
+We found that approximately one-fourth of the sec -
+ondary school students suffered from depressive and/
+or anxiety symptoms. This was slightly lower than the 
+global prevalence of 30% among adolescents during the 
+COVID-19 pandemic reported by a recent meta-analysis 
+[37]. A possible explanation could be the timing of our 
+study. We recruited adolescents in the remission phase 
+of the pandemic, when they had returned to campus for 
+about half a year.
+Compared to previous studies in the non-pandemic 
+period, the prevalence of depression (23%) was fairly 
+close to that in western China (22.7-24.8%) but slightly 
+higher than that in Northeast (14.5%) and Southern 
+China (17.8%) [22, 38, 39]. It was also in line with a previ-
+ous meta-analysis, which demonstrated 24.3% of the Chi-
+nese secondary school students suffered from depressive 
+symptoms [3]. Similarly, the prevalence of anxiety symp -
+toms also coincided with previous research among Chi -
+nese secondary students (13.7 to 24.5%) [40, 41]. Notably, 
+the prevalence of depressive and anxiety symptoms was 
+much higher than that in the Chinese general population 
+(8.6% for depressive symptoms and 6% for anxiety symp -
+toms) [ 42]. There might be a few possible explanations 
+for the high risk of mental distress in Chinese second -
+ary school students. First, the Chinese education system 
+is very competitive, and secondary school students are 
+under great pressure. Many studies have shown that aca -
+demic problems and depression in Chinese adolescents 
+Table 4 Univariate and multivariate analysis of influencing factors for mental distress in high school students
+Variables Without distress With distress OR (univariable) OR (multivariable)
+Gender Boy 6928 (78.1) 1948 (21.9) - -
+Girl 7716 (70.4) 3240 (29.6) 1.49 (1.40–1.59, p < 0.001) 1.58 (1.47–1.71, p < 0.001)
+Age Mean (SD) 16.3 (1.0) 16.2 (1.0) 0.93 (0.90–0.96, p < 0.001) 0.97 (0.93–1.01, p = 0.096)
+Residence Country 9172 (75.4) 2991 (24.6) - -
+Urban 5472 (71.4) 2197 (28.6) 1.23 (1.15–1.31, p < 0.001) 1.24 (1.15–1.34, p < 0.001)
+Single-child No 11,267 (74.2) 3915 (25.8) - -
+Yes 3377 (72.6) 1273 (27.4) 1.08 (1.01–1.17, p = 0.031) -
+Left-behind child No 9472 (73.5) 3417 (26.5) - -
+Yes 5172 (74.5) 1771 (25.5) 0.95 (0.89–1.01, p = 0.125) -
+Family type Nuclear 12,348 (75.1) 4095 (24.9) - -
+Non-nuclear 2296 (67.7) 1093 (32.3) 1.44 (1.32–1.56, p < 0.001) 1.26 (1.15–1.39, p < 0.001)
+IGD No 14,537 (74.9) 4869 (25.1) - -
+Yes 107 (25.1) 319 (74.9) 8.90 (7.16–11.15, p < 0.001) 4.94 (3.85–6.39, p < 0.001)
+Sleep Disturbance No 11,003 (89.3) 1320 (10.7) - -
+Yes 3641 (48.5) 3868 (51.5) 8.86 (8.24–9.53, p < 0.001) 6.58 (6.10–7.10, p < 0.001)
+Physical victimization No 12,085 (77.9) 3419 (22.1) - -
+Yes 2559 (59.1) 1769 (40.9) 2.44 (2.27–2.62, p < 0.001) 1.25 (1.14–1.37, p < 0.001)
+Verbal victimization No 7462 (86.3) 1188 (13.7) - -
+Yes 7182 (64.2) 4000 (35.8) 3.50 (3.25–3.76, p < 0.001) 1.64 (1.49–1.81, p < 0.001)
+Social manipulation No 9729 (84.4) 1803 (15.6) - -
+Yes 4915 (59.2) 3385 (40.8) 3.72 (3.48–3.97, p < 0.001) 1.84 (1.69-2.00, p < 0.001)
+Property attacks No 7236 (85.3) 1247 (14.7) - -
+Yes 7408 (65.3) 3941 (34.7) 3.09 (2.87–3.32, p < 0.001) 1.29 (1.18–1.42, p < 0.001)
+Page 7 of 9
+Chen et al. BMC Psychiatry          (2023) 23:580 
+are highly correlated [ 43]. Second, Chinese secondary 
+school students suffer from lots of interpersonal stress, 
+and their parents are more likely to have high expecta -
+tions of them and less likely to be satisfied with their aca -
+demic performance [3].
+Associated factors of depressive and anxiety symptoms
+Most demographic and family factors exhibited a rather 
+weak association with mental distress, with sex and fam -
+ily structure being notable exceptions. Consistent with 
+prior national studies [ 44], we found girls are at a higher 
+risk for mental distress. Both biological (e.g., higher 
+cortisol levels in girls when facing stressful events) and 
+social-cultural factors (e.g., social stressors and gender 
+intensification) might play a role in the sex difference of 
+mental distress [ 45]. Another associated factor for men -
+tal distress is belonging to a non-nuclear family, which 
+was consistent with previous studies [ 46]. Lower social 
+support and higher parental stress such as financial and 
+emotional stresses might contribute to the higher risk 
+for mental distress among adolescents in non-nuclear 
+family. Interestingly, we found several demographic and 
+family factors (i.e., being single-child, residence, and 
+age) exhibited varied levels of association with mental 
+distress among middle school and high school students. 
+Further studies are warranted to determine the potential 
+mechanism.
+We found all subtypes of school bullying were posi -
+tively associated with mental distress. Social manipu -
+lation seemed to be the most harmful form of school 
+bullying, which doubled the risk of mental distress in 
+adolescents. Previous studies have found that the rate of 
+school bullying varies from 9.00 to 61.6% [ 47], of which 
+35% are victims of traditional school bullying and 15% are 
+victims of cyber school bullying. One Chinese research 
+including 1252 high school students showed that 42.43% 
+of students reported school bullying [ 16]. The previously 
+reported incidence of school bullying among Chinese 
+teenagers and vocational school students varied from 9.4 
+to 30.4% [48– 50]. This suggests that bullying is a common 
+appearance in schools. The result of our study is coinci -
+dent with a previous study that found a significant cor -
+relation between bullying victimization and depression 
+among high school students in China [ 16]. Our study is 
+consistent with the stress theory, which states that suffer-
+ing from bullying and being unable to cope with it may 
+lead to stress, influencing mental health, and resulting 
+in emotions like fear, depression, and anger. Wherefore, 
+schools should strengthen the prevention of school bully-
+ing and better the school atmosphere to help reduce the 
+level of depression in students.
+Similar to other studies, we found that sleep distur -
+bances were associated with students’ depressive and 
+anxiety symptoms. Lots of studies showed that sleep has 
+a significant impact on both physical and psychological 
+health [51]. Facing major crises, good sleep can play a key 
+role in addressing negative impacts [ 51]. In turn, poor 
+sleep may exacerbate negative impacts and result in more 
+vulnerability to anxiety [ 52]. Therefore, it is important to 
+take steps to improve sleep in adolescents.
+We found that students with IGD symptoms were more 
+likely to suffer from anxiety and depression symptoms. 
+Previous studies have found that most gaming-addicted 
+students had experienced stressful life events [ 53]. Fur-
+thermore, C Bonnaire and O Phan [54] reported that bad 
+family relationships have a strong impact on the preva -
+lence of adolescent gaming addiction. The relationship 
+between internet gaming addiction and boredom tenden-
+cies, thrill-seeking, and schizophrenic character has been 
+found in some studies, including non-clinical samples 
+[55].
+Implications of the findings
+Our study holds two significant implications. First, our 
+study highlights the high prevalence of mental distress, 
+school bullying, and sleep disturbance in secondary 
+school students in Western China, which calls for regular 
+screening. Second, our study comprehensively evaluated 
+the associated factors of depressive and anxiety symp -
+toms. Specifically, school bullying, sleep disturbance, and 
+IGD symptoms were closely associated with mental dis -
+tress. The findings could help parents, teachers, and poli-
+cymakers identify students at risk and develop targeted 
+interventions. For example, schools and parents should 
+promote sleep hygiene education, create a conducive 
+sleeping environment, and help set a regular sleep sched -
+ule for secondary school students. Regarding bullying, 
+teachers and schools should consider implementing anti-
+bullying programs that educate students about the con -
+sequences of bullying and promote a culture of respect 
+and inclusion. Also, early detection of school bullying is 
+of importance.
+Strength and limitation
+Our study has several strengths, such as being the larg -
+est study on depressive and anxiety symptoms among 
+secondary school students in Western China and assess -
+ing a comprehensive range of demographic, family, life, 
+and behavior factors. However, several limitations should 
+be acknowledged. First, the cross-sectional study design 
+could not establish the causal relationship. Second, the 
+survey was conducted after the outbreak of the pandemic. 
+Although the school lockdown policy was ended and 
+adolescents returned to school in April 2020, the cross-
+sectional nature of our study made it hard to determine 
+the impact of the pandemic on our results. Third, despite 
+the large sample size, all participants were recruited from 
+one single city in western China. The generalizability of 
+Page 8 of 9
+Chen et al. BMC Psychiatry          (2023) 23:580 
+our findings to other regions of China requires further 
+studies to confirm. Forth, depressive and anxiety symp -
+toms are associated with addiction problems such as 
+smoking and alcohol. However, the present study only 
+focused on IGD symptoms. Future research could benefit 
+from a more comprehensive analysis encompassing vari -
+ous forms of addiction among adolescents.
+Conclusion
+In summary, one-fourth of the secondary school students 
+in Western China suffered from depressive and anxiety 
+symptoms. Sex, family type, being single-child, residence, 
+school bullying, sleep disturbance, and IGD symptoms 
+were independently associated with mental distress. Par -
+ents, schools, and policymakers should be aware of the 
+high prevalence of mental distress in secondary school 
+students. Our findings can help identify students at risk 
+and provide tailored interventions.
+Abbreviations
+IGD  Internet gaming disorder
+PHQ-9  9-item Patient Health Questionnaire
+GAD-7  7-item Generalized Anxiety Disorder Questionnaire
+PSQI  Pittsburgh Sleep Quality Index
+MPVS  Multidimensional Peer-Victimization Scale
+IGDS9-SF  Nine-Item Internet Gaming Disorder Scale-Short Form
+Acknowledgements
+We show the greatest attitudes to all the participants and volunteers who 
+help the study procedure.
+Authors’ contributions
+Jinsong Tang and Xiaogang Chen contributed to all aspects of the study. Ying 
+He, Jin-guang Li, Zhangming Chen, and Shanshan Chen contributed to the 
+study design. Zhangming Chen, Yi Liu, Fanglan Wang, Xu Shao contributed 
+to the analysis and interpretation of data, statistical analysis, and the drafting 
+of the manuscript. Zhangming Chen, Silan Ren, Youguo Tan, Ruini He, and 
+Yudiao Liao contributed to the data acquisition. All authors have revised and 
+approved the final manuscript.
+Funding
+This study was supported by the STI 2030—Major Projects - “Brain Science 
+and Brain-like Research” Project (Grant No. 2022ZD0211200 to Y.L), Zhejiang 
+Provincial Natural Science Foundation of China (Grant No. LBD23H090001 to 
+J.T). Key Technology Program of Zigong (Grant No. 2020YLSF09 to J.T). The 
+funders had no role in study design, data collection, and analysis, writing the 
+manuscript, or the decision to submit the paper for publication.
+Data Availability
+The datasets used and/or analyzed during the current study are available from 
+the corresponding author on reasonable request.
+Declarations
+Ethics approval and consent to participate
+The study procedures were carried out in accordance with the Declaration 
+of Helsinki. The protocol was approved by the Ethics Committee of Zigong 
+Mental Health Center [No. 2020-8-01]. Before the start of the survey, 
+participants gave informed consent. Parents’ informed consent was also 
+obtained for those younger than 18 years old.
+Consent for publication
+Not applicable.
+Competing interests
+The authors declare that they have no competing interests.
+Received: 20 April 2023 / Accepted: 31 July 2023
+References
+1. Mental health of adolescents [https://www.who.int/news-room/fact-sheets/
+detail/adolescent-mental-health].
+2. Oldehinkel AJ, Ormel J. A longitudinal perspective on childhood adversities 
+and onset risk of various psychiatric disorders. Eur Child Adolesc Psychiatry. 
+2015;24(6):641–50.
+3. Tang X, Tang S, Ren Z, Wong DFK. Prevalence of depressive symptoms among 
+adolescents in secondary school in mainland China: a systematic review and 
+meta-analysis. J Affect Disord. 2019;245:498–507.
+4. Zhang Y, Bao X, Yan J, Miao H, Guo C. Anxiety and depression in chinese stu-
+dents during the COVID-19 pandemic: a Meta-analysis. Front Public Health. 
+2021;9:697642.
+5. Wang C, Zhang P , Zhang N. Adolescent mental health in China requires more 
+attention. Lancet Public Health. 2020;5(12):e637.
+6. Zhou SJ, Zhang LG, Wang LL, Guo ZC, Wang JQ, Chen JC, Liu M, Chen X, Chen 
+JX. Prevalence and socio-demographic correlates of psychological health 
+problems in chinese adolescents during the outbreak of COVID-19. Eur Child 
+Adolesc Psychiatry. 2020;29(6):749–58.
+7. Xu Q, Mao Z, Wei D, Liu P , Fan K, Wang J, Wang X, Lou X, Lin H, Wang C, et 
+al. Prevalence and risk factors for anxiety symptoms during the outbreak 
+of COVID-19: a large survey among 373216 junior and senior high school 
+students in China. J Affect Disord. 2021;288:17–22.
+8. Mohammadi MR, Ahmadi N, Yazdi FR, Khaleghi A, Mostafavi SA, Hooshyari Z, 
+Molavi P , Sarraf N, Hojjat SK, Mohammadzadeh S, et al. Prevalence, comorbid-
+ity and predictors of anxiety disorders among children and adolescents. 
+Asian J Psychiatr. 2020;53:102059.
+9. Anjum A, Hossain S, Hasan MT, Alin SI, Uddin ME, Sikder MT. Depressive 
+Symptom and Associated factors among School Adolescents of Urban, Semi-
+Urban and Rural Areas in Bangladesh: a scenario prior to COVID-19. Front 
+Psychiatry. 2021;12:708909.
+10. Girma S, Tsehay M, Mamaru A, Abera M. Depression and its determinants 
+among adolescents in Jimma town, Southwest Ethiopia. PLoS ONE. 
+2021;16(5):e0250927.
+11. Moeini B, Bashirian S, Soltanian AR, Ghaleiha A, Taheri M. Prevalence of 
+depression and its associated sociodemographic factors among iranian 
+female adolescents in secondary schools. BMC Psychol. 2019;7(1):25.
+12. Chi X, Becker B, Yu Q, Hossain MM, Lin J, Yeung A, Seiler-Ramadas R, Grabovac 
+I, Bu H, Xie F, et al. Persistence and remission of depressive symptoms and 
+psycho-social correlates in chinese early adolescents. BMC Psychiatry. 
+2020;20(1):406.
+13. Abdul Latiff L, Tajik E, Ibrahim N, Abubakar AS, Ali SS. Depression and its 
+associated factors among secondary school students in Malaysia. Southeast 
+Asian J Trop Med Public Health. 2016;47(1):131–41.
+14. Hafstad GS, Sætren SS, Wentzel-Larsen T, Augusti EM. Adolescents’ symptoms 
+of anxiety and depression before and during the Covid-19 outbreak - A pro-
+spective population-based study of teenagers in Norway. Lancet Reg Health 
+Eur. 2021;5:100093.
+15. Fellmeth G, Rose-Clarke K, Zhao C, Busert LK, Zheng Y, Massazza A, Sonmez 
+H, Eder B, Blewitt A, Lertgrai W, et al. Health impacts of parental migration on 
+left-behind children and adolescents: a systematic review and meta-analysis. 
+Lancet. 2018;392(10164):2567–82.
+16. Guo J, Li M, Wang X, Ma S, Ma J. Being bullied and depressive symptoms 
+in chinese high school students: the role of social support. Psychiatry Res. 
+2020;284:112676.
+17. Colrain IM, Baker FC. Changes in sleep as a function of adolescent develop-
+ment. Neuropsychol Rev. 2011;21(1):5–21.
+18. Tolêdo J, Batista J, Lyra MCA, Júnior M, Santos M, Heimer MV. Sleep distur-
+bance and depression in adolescence: an integrative review of literature. Int J 
+Adolesc Med Health. 2020;33(6):299–303.
+19. Brown WJ, Wilkerson AK, Boyd SJ, Dewey D, Mesa F, Bunnell BE. A review 
+of sleep disturbance in children and adolescents with anxiety. J Sleep Res. 
+2018;27(3):e12635.
+Page 9 of 9
+Chen et al. BMC Psychiatry          (2023) 23:580 
+20. Kuss DJ, Griffiths MD. Online gaming addiction in children and adolescents: a 
+review of empirical research. J Behav Addict. 2012;1(1):3–22.
+21. Torres-Rodríguez A, Griffiths MD, Carbonell X, Oberst U. Internet gaming 
+disorder in adolescence: psychological characteristics of a clinical sample. J 
+Behav Addict. 2018;7(3):707–18.
+22. Rao WW, Xu DD, Cao XL, Wen SY, Che WI, Ng CH, Ungvari GS, He F, Xiang YT. 
+Prevalence of depressive symptoms in children and adolescents in China: a 
+meta-analysis of observational studies. Psychiatry Res. 2019;272:790–6.
+23. Spitzer RL, Kroenke K, Williams JB, Lowe B. A brief measure for assessing gen-
+eralized anxiety disorder: the GAD-7. Arch Intern Med. 2006;166(10):1092–7.
+24. Sun J, Liang K, Chi X, Chen S. Psychometric Properties of the generalized anxi-
+ety disorder Scale-7 item (GAD-7) in a large sample of chinese adolescents. 
+Healthc (Basel) 2021, 9(12).
+25. Spitzer RL, Kroenke K, Williams JB. Validation and utility of a self-report version 
+of PRIME-MD: the PHQ primary care study. Primary care evaluation of Mental 
+Disorders. Patient Health Questionnaire Jama. 1999;282(18):1737–44.
+26. Wang W, Bian Q, Zhao Y, Li X, Wang W, Du J, Zhang G, Zhou Q, Zhao M. Reli-
+ability and validity of the chinese version of the Patient Health Questionnaire 
+(PHQ-9) in the general population. Gen Hosp Psychiatry. 2014;36(5):539–44.
+27. Peng P , Chen S, Hao Y, He L, Wang Q, Zhou Y, Tang YY, Yang WF, Wu Q, Liu T. 
+Network of burnout, depression, anxiety, and dropout intention in medical 
+undergraduates. Int J Soc Psychiatry 2023:207640231166629.
+28. Peng P , Liang M, Wang Q, Lu L, Wu Q, Chen Q. Night shifts, insomnia, anxiety, 
+and depression among chinese nurses during the COVID-19 pandemic 
+remission period: a network approach. Front Public Health. 2022;10:1040298.
+29. Peng P , Yang WF, Liu Y, Chen S, Wang Y, Yang Q, Wang X, Li M, Wang Y, Hao Y, 
+et al. High prevalence and risk factors of dropout intention among chinese 
+medical postgraduates. Med Educ Online. 2022;27(1):2058866.
+30. Mynard H, Joseph S. Development of the multidimensional peer-victimiza-
+tion scale. Aggressive Behav. 2000;26(2):169–78.
+31. Zhao K, Tong S, Hong L, Yang S, Yang W, Xu Y, Fan Z, Zheng J, Yao K, Zheng 
+T. Childhood trauma, peer victimization, and non-suicidal self-injury among 
+chinese adolescents: a latent variable mediation analysis. BMC Psychiatry. 
+2023;23(1):436.
+32. Buysse DJ, Reynolds CF 3rd, Monk TH, Berman SR, Kupfer DJ. The Pittsburgh 
+Sleep Quality Index: a new instrument for psychiatric practice and research. 
+Psychiatry Res. 1989;28(2):193–213.
+33. Tsai PS, Wang SY, Wang MY, Su CT, Yang TT, Huang CJ, Fang SC. Psycho-
+metric evaluation of the chinese version of the Pittsburgh Sleep Quality 
+Index (CPSQI) in primary insomnia and control subjects. Qual Life Res. 
+2005;14(8):1943–52.
+34. Pontes, Halley M, Griffiths, Mark D. Measuring DSM-5 internet gaming 
+disorder: development and validation of a short psychometric scale. Comput 
+Hum Behav. 2015;45(Apr):137–43.
+35. Qin L, Cheng L, Hu M, Liu Q, Tong J, Hao W, Luo T, Liao Y. Clarification of the 
+cut-off score for nine-item internet gaming disorder scale-short form (IGDS9-
+SF) in a chinese context. Front Psychiatry. 2020;11:470.
+36. Wang D, Chen H, Chen Z, Liu W, Wu L, Chen Y, Sun M, Fan F. Current 
+psychotic-like experiences among adolescents in China: identifying risk and 
+protective factors. Schizophr Res. 2022;244:111–7.
+37. Deng J, Zhou F, Hou W, Heybati K, Lohit S, Abbas U, Silver Z, Wong CY, Chang 
+O, Huang E, et al. Prevalence of mental health symptoms in children and 
+adolescents during the COVID-19 pandemic: a meta-analysis. Ann N Y Acad 
+Sci. 2023;1520(1):53–73.
+38. Wang L, Feng Z, Yang G, Yang Y, Wang K, Dai Q, Zhao M, Hu C, Zhang R, Liu 
+K, et al. Depressive symptoms among children and adolescents in western 
+china: an epidemiological survey of prevalence and correlates. Psychiatry Res. 
+2016;246:267–74.
+39. Wang L, Feng Z, Yang G, Yang Y, Dai Q, Hu C, Liu K, Guang Y, Zhang R, Xia 
+F, et al. The epidemiological characteristics of depressive symptoms in the 
+left-behind children and adolescents of Chongqing in China. J Affect Disord. 
+2015;177:36–41.
+40. Ming HU, Zheng L, Xia Q, Deng YX. An investigation into the prevalence and 
+related factors of anxiety in middle school students of Hunan Province. Chin J 
+Clin Psychol 2007.
+41. Wan PF, Sun YJ, Yuan J. Characteristics of anxiety and the related risk factors 
+among adolescent students in Dalian City. Chin J Behav Med Sci 2005.
+42. Xu WQ, Tan WY, Li XL, Huang ZH, Zheng HR, Hou CL, Jia FJ, Wang SB. Preva-
+lence and correlates of depressive and anxiety symptoms among adults in 
+Guangdong Province of China: a population-based study. J Affect Disord. 
+2022;308:535–44.
+43. Hu W, Fang X, Chen H, Deng L, Lin X. The relationship between three-domain 
+Competences and Internalizing and externalizing problems in Chinese High 
+School Students. Child Indic Res. 2015;8(4):943–59.
+44. Ma L, Gao L, Chiu DT, Ding Y, Wang W, Wang Y. Depressive symptoms preva-
+lence, associated family factors, and gender differences: a national cohort 
+study of middle school students in China. J Affect Disord. 2020;274:545–52.
+45. Chen W, Huang Y, Riad A. Gender differences in depressive traits among rural 
+and urban chinese adolescent students: secondary data analysis of Nation-
+wide Survey CFPS. Int J Environ Res Public Health 2021, 18(17).
+46. Tso WWY, Wong RS, Tung KTS, Rao N, Fu KW, Yam JCS, Chua GT, Chen EYH, 
+Lee TMC, Chan SKW, et al. Vulnerability and resilience in children during the 
+COVID-19 pandemic. Eur Child Adolesc Psychiatry. 2022;31(1):161–76.
+47. Modecki KL, Minchin J, Harbaugh AG, Guerra NG, Runions KC. Bullying 
+prevalence across contexts: a meta-analysis measuring cyber and traditional 
+bullying. J Adolesc Health. 2014;55(5):602–11.
+48. Gong Z, Han Z, Zhang H, Zhang G. Weight status and school bullying Experi-
+ences in Urban China: the difference between boys and girls. J Interpers 
+Violence. 2020;35(15–16):2663–86.
+49. Han Z, Zhang G, Zhang H. School bullying in Urban China: prevalence and 
+correlation with School Climate. Int J Environ Res Public Health 2017, 14(10).
+50. Xu S, Ren J, Li F, Wang L, Wang S. School bullying among Vocational School 
+students in China: Prevalence and Associations with Personal, Relational, and 
+School factors. J Interpers Violence. 2022;37(1–2):NP104–24.
+51. Morin CM, Carrier J, Bastien C, Godbout R, Canadian S, Circadian N. Sleep and 
+circadian rhythm in response to the COVID-19 pandemic. Can J Public Health. 
+2020;111(5):654–7.
+52. Becker SP , Gregory AM. Editorial perspective: perils and promise for child 
+and adolescent sleep and associated psychopathology during the COVID-19 
+pandemic. J Child Psychol Psychiatry. 2020;61(7):757–9.
+53. Yan W, Li Y, Sui N. The relationship between recent stressful life events, 
+personality traits, perceived family functioning and internet addiction among 
+college students. Stress Health. 2014;30(1):3–11.
+54. Bonnaire C, Phan O. Relationships between parental attitudes, family 
+functioning and internet gaming disorder in adolescents attending school. 
+Psychiatry Res. 2017;255:104–10.
+55. Zadra S, Bischof G, Besser B, Bischof A, Meyer C, John U, Rumpf HJ. The 
+association between internet addiction and personality disorders in a general 
+population-based sample. J Behav Addict. 2016;5(4):691–9.
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in 
+published maps and institutional affiliations.

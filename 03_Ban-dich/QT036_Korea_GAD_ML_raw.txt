@@ -1,0 +1,565 @@
+PAGE 1 (4503 chars):
+Frontiers in Public Health
+01
+frontiersin.org
+Key risk factors of generalized 
+anxiety disorder in adolescents: 
+machine learning study
+Yonghwan Moon 1 and Hyekyung Woo 1,2*
+1 Department of Health Administration, Kongju National University of Nursing and Health, Kongju, 
+Republic of Korea, 2 Institute of Health and Environment of Kongju National University, Kongju, 
+Republic of Korea
+Adolescents worldwide are increasingly affected by mental health disorders, with anxiety 
+disorders, including Generalized Anxiety Disorder (GAD), being particularly prevalent. 
+Despite its significant impact, GAD in adolescents often remains underdiagnosed due 
+to vague symptoms and delayed medical attention, highlighting the need for early 
+diagnosis and prevention strategies. This study utilized data from the Korea Youth 
+Risk Behavior Web-based Survey (KYRBS) from 2020 to 2023 to analyze factors 
+influencing GAD in adolescents. Using machine learning techniques such as Lasso 
+Regression, SelectKBest, and XGBoost, we identified key variables, including health 
+behaviors such as sleep, smoking, and fast-food intake, as significant factors associated 
+with GAD. Predictive models using Random Forest and Artificial Neural Networks 
+demonstrated that the XGBoost feature selection method effectively identified key 
+factors and showed strong performance. These findings emphasize the need for 
+educational programs focusing on sleep management, smoking prevention, and 
+balanced nutrition to reduce the risk of GAD in adolescents, providing crucial insights 
+for early diagnosis and intervention efforts.
+KEYWORDS
+adolescent, mental health, generalized anxiety disorder, machine learning, health 
+behaviors
+1 Introduction
+According to mental health data from the World Health Organization (WHO), 14% of 
+adolescents worldwide experience mental disorders (1). Inadequate management of these 
+disorders can lead to severe disruptions in social functioning, with serious consequences, such 
+as suicide (2). Among mental disorders, anxiety disorders are particularly prevalent, affecting 
+an estimated 3.6% of the individuals aged 10–14 years and 4.6% of those aged 15–19 years (1), 
+a higher prevalence compared to attention deficit hyperactivity disorder and depression (3). 
+Generalized Anxiety Disorder (GAD), a subtype of anxiety disorders, often manifests during 
+adolescence and is characterized by persistent worry and anxiety in daily life (4). According 
+to the Diagnostic and Statistical Manual o
+===
+PAGE 2 (6819 chars):
+Moon and Woo
+10.3389/fpubh.2024.1504739
+Frontiers in Public Health
+02
+frontiersin.org
+refusal, substance abuse, and reduced quality of life (6, 8). If 
+mental health issues such as GAD are not properly managed 
+during adolescence, they can hinder healthy growth and 
+development throughout life, highlighting the importance of 
+early diagnosis and intervention to prevent chronicity (9).
+Several factors influencing GAD in adolescents have been 
+reported, including sex, socioeconomic status, stress, and 
+subjective 
+health 
+perceptions 
+(7). 
+Sociodemographic 
+characteristics, health behaviors, and health perceptions, such as 
+stress, feelings of hopelessness, subjective health status, and 
+recovery from fatigue after sleep, have been analyzed in relation 
+to GAD (10). In addition, studies have explored the association 
+between secondhand smoke exposure and GAD (11), as well as 
+the impact of habitual substance use (12). While ongoing research 
+continues to explore these associations, previous data may not 
+fully capture changes in adolescent health behaviors due to 
+evolving living environments. Therefore, a focused examination 
+of adolescent health behaviors is necessary.
+Recently, machine learning (ML) has emerged as a transformative 
+tool in mental health research, utilizing large-scale datasets to 
+develop predictive models that go beyond human recognition. These 
+models are effective not only in identifying known variables but also 
+in discovering complex patterns, showing superior accuracy over 
+traditional methods. For instance, ML has differentiated between 
+anxiety subtypes like generalized anxiety disorder (GAD) and social 
+anxiety disorder (SAD) using functional magnetic resonance imaging 
+data with accuracy up to 94% (13). Additionally, it has been applied 
+to predict anxiety and depression based on sociodemographic, 
+lifestyle, and nutritional data, uncovering key predictors such as 
+potassium and vitamin E intake (14, 15). ML has also been used to 
+predict treatment outcomes, such as cognitive behavioral therapy 
+success (16). However, the application of ML in understanding 
+GAD-specific risk factors, especially in adolescents, remains 
+underexplored. This study seeks to address this gap, emphasizing the 
+need for systematic comparisons of ML algorithms to identify 
+optimal approaches for risk prediction and intervention strategies 
+tailored to adolescents.
+This study investigated the factors associated with GAD in 
+adolescents using data from 
+===
+PAGE 3 (4656 chars):
+Moon and Woo
+10.3389/fpubh.2024.1504739
+Frontiers in Public Health
+03
+frontiersin.org
+2.5 SMOTE algorithms
+SMOTE was applied to address the class imbalance problem. 
+SMOTE is an algorithm that improves data imbalance and enhances 
+the model’s ability to learn from the minority class by generating 
+synthetic samples for the underrepresented class (19). However, 
+SMOTE may lead to overfitting due to the introduction of synthetic 
+samples. To address this potential drawback, we  evaluated 
+performance metrics such as sensitivity and precision, and employed 
+regularization methods like Lasso and ensemble techniques such as 
+Random Forest to mitigate overfitting risks (20).
+2.6 Feature-selection algorithms
+We selected LASSO, SelectKBest, and XGBoost as feature 
+selection methods due to their proven effectiveness and alignment 
+with the goals of our analysis. LASSO was chosen for its strength in 
+addressing multicollinearity while simplifying the model by reducing 
+less relevant feature coefficients to zero, making it highly interpretable 
+(21). SelectKBest was used to prioritize features that exhibited the 
+strongest statistical correlation with the target variable, ensuring the 
+model concentrated on the most impactful variables (22). XGBoost, 
+with its robust ensemble learning framework, was particularly 
+advantageous for identifying non-linear relationships and interactions 
+among features (23). While alternative methods such as Recursive 
+Feature Elimination and mutual information-based selection were 
+considered, they were deemed less suitable due to their computational 
+inefficiency and limitations when applied to high-dimensional 
+datasets (24, 25). The chosen methods not only optimized model 
+performance but also supported a clear interpretation of the variables 
+influencing GAD in adolescents.
+2.7 Model algorithms
+Two model algorithms, Random Forest (RF) and Artificial Neural 
+Network (ANN), were utilized in this study. RF is an ensemble model 
+designed to mitigate overfitting and generalization issues in traditional 
+decision trees by constructing multiple decision trees to enhance 
+predictive performance (26). ANN consists of an input layer, hidden 
+layers, and an output layer, with nodes connected through weights and 
+activation functions, enabling accurate pattern recognition and 
+prediction (27). Hyperparameters for both models were optimized 
+using grid search. For RF, the best parameters were: 
+max_depth = None, max_features = “sqrt,” min_sampl
+===
+PAGE 4 (4596 chars):
+Moon and Woo
+10.3389/fpubh.2024.1504739
+Frontiers in Public Health
+04
+frontiersin.org
+rated their subjective economic status as “middle” (47.4%), while 
+the most common rating for subjective academic performance was 
+“high” (37.5%). Most of the students lived with their families 
+(95.2%), and both fathers and mothers predominantly had a 
+university education (44.4 and 44.2%, respectively). Regarding 
+subjective health status, 65.7% of the participants rated their health 
+as “high,” while 25.1% reported it as “middle,” and 9.3% as “low.” 
+Recovery from sleep-related fatigue was reported as “insufficient” 
+by 41.1% of the participants. The frequency of consumption of fast 
+food was highest at 1–2 times per week (56.9%), and 38.2% of the 
+participants reported drinking more than five cups of water daily. 
+Alcohol consumption was reported by 33.2% of the participants, 
+smoking by 9.3, and 9.4% had sought treatment due to violence. 
+Allergic rhinitis was diagnosed in 41.6% of the participants. 
+Notably, 81.2% reported experiencing high levels of stress, 52.6% 
+experienced loneliness, and 27% reported having had sexual 
+intercourse. The prevalence of GAD in the study population 
+was 17.9%.
+3.3 Analysis
+The performance results of the RF and ANN models using 
+selected features are shown in Table 3 and Figure 2. For the RF model, 
+the XGBoost feature-selection method demonstrated accuracy of 
+78% ± 0.0011, AUC of 82% ± 0.0004, sensitivity of 64% ± 0.0026, 
+precision of 43% ± 0.0017, and specificity of 81% ± 0.0017. The higher 
+sensitivity of XGBoost may be attributed to its ability to capture 
+complex feature interactions and reduce overfitting through gradient-
+boosted decision trees. In contrast, SelectKBest achieved the highest 
+accuracy (81% ± 0.0003) and specificity (90% ± 0.0007), making it 
+ideal for scenarios where minimizing false positives is critical.
+For the ANN model, XGBoost continued to excel with a sensitivity 
+of 56% ± 0.0043 and AUC of 81% ± 0.0012, reflecting its robustness 
+in handling nonlinear relationships. Meanwhile, SelectKBest achieved 
+balanced performance with accuracy (82% ± 0.0005) and specificity 
+(90% ± 0.0072), while LASSO offered slightly lower predictive 
+performance but added value in reducing model complexity by 
+selecting key features in high-dimensional datasets.
+Overall, the standard errors for all algorithms were low, indicating 
+stable performance across iterations. However, the superior sensitivity 
+of XGBoost suggests it
+===
+PAGE 5 (1774 chars):
+Moon and Woo
+10.3389/fpubh.2024.1504739
+Frontiers in Public Health
+05
+frontiersin.org
+TABLE 2  General characteristics (n = 213,820).
+Variables
+Category
+n (%)
+Sex
+Male
+132,211 (61.8)
+Female
+81,609 (38.2)
+Grade
+Middle school
+114,966 (53.8)
+High school
+98,854 (46.2)
+Subjective economic status
+High
+25,603 (12.0)
+Medium
+101,295 (47.4)
+Low
+86,922 (40.7)
+Subjective academic performance
+High
+80,466 (37.5)
+Medium
+64,331 (30.0)
+Low
+69,015 (32.2)
+Living situation
+Living with family
+204,146 (95.2)
+Other
+10,194 (4.8)
+Father’s education
+Below middle school
+2,225 (1.0)
+High school graduate
+34,508 (16.2)
+College graduate or higher
+95,029 (44.4)
+Unknown
+82,058 (38.4)
+Mother’s education
+Below middle school
+1,789 (0.8)
+High school graduate
+39,699 (18.6)
+College graduate or higher
+94,538 (44.2)
+Unknown
+77,794 (36.4)
+Subjective health status
+High
+140,428 (65.7)
+Medium
+53,570 (25.1)
+Low
+19,822 (9.3)
+Fatigue recovery from sleep
+Adequate
+55,090 (25.8)
+Average
+70,809 (33.1)
+Inadequate
+87,921 (41.1)
+Fast food intake
+None in the last 7 Days
+36,565 (17.1)
+1–2 times a week
+121,576 (56.9)
+3–4 times a week
+44,273 (20.7)
+5–6 times a week
+7,461 (03.5)
+Daily 1 times
+2,546 (1.2)
+Daily 2 times
+674 (0.3)
+Daily 3 times
+725 (0.3)
+Water intake
+Less than 1 cup daily
+7,989 (3.7)
+1–2 cups daily
+38,912 (18.2)
+3 cups daily
+47,480 (22.2)
+4 cups daily
+37,764 (17.7)
+5 or more cups daily
+81,675 (38.2)
+Smoking
+Smoker
+19,985 (90.7)
+Non-smoker
+193,835 (9.3)
+Experience of treatment due to violence
+Yes
+20,035 (9.4)
+No
+193,785 (90.6)
+Lifetime diagnosis of allergic rhinitis
+Yes
+88,989 (41.6)
+No
+124,831 (58.4)
+Stress
+Yes
+173,975 (81.2)
+No
+40,365 (18.8)
+Loneliness experience
+Yes
+112,367 (52.6)
+No
+101,453 (47.4)
+Generalized anxiety disorder
+High-risk group
+38,288 (17.9)
+Low-risk group
+175,532 (82.1)
+
+===
+PAGE 6 (2624 chars):
+Moon and Woo
+10.3389/fpubh.2024.1504739
+Frontiers in Public Health
+06
+frontiersin.org
+emotional stability and increase the long-term risk of GAD. Similarly, 
+stress emerged as another major contributing factor, corroborating 
+earlier findings that stress, particularly related to school life, increases 
+anxiety (7). Stress from peer relationships, academic pressures, and 
+perceived discrimination from teachers was found to significantly 
+elevate the risk of GAD (30). Unlike many prior studies that 
+predominantly utilized linear models, this research employed both 
+linear (e.g., Lasso) and non-linear (e.g., XGBoost) approaches to 
+validate the significance of loneliness and stress as predictors of 
+GAD. By incorporating non-linear models like XGBoost, this study 
+was able to identify complex interactions and relationships between 
+variables that may have been overlooked in earlier studies relying 
+solely on linear models. The findings demonstrate that the effects of 
+loneliness and stress on GAD are robust across different analytical 
+methods, suggesting that both linear and non-linear relationships play 
+a crucial role in adolescent anxiety. This mixed modeling approach 
+provides a more comprehensive understanding of how social factors, 
+such as loneliness and stress, interact to impact adolescent mental 
+health, emphasizing the importance of these variables regardless of the 
+modeling technique used.
+Furthermore, experiences of violence were shown to influence the 
+development of GAD. Adolescents who have experienced violence 
+often suffer from both physical trauma and mental health challenges, 
+with previous studies confirming a strong association between 
+violence victimization and increased anxiety (31, 32). Such adolescents 
+may also display emotional instability, manifesting in behaviors such 
+as aggression toward others (33). Consequently, emotional support 
+programs are essential for adolescents who have been victims of 
+violence to mitigate the psychological damage and prevent the 
+development of GAD.
+TABLE 3  Model performance.
+Lasso
+SelectKBest
+XGBoost
+%
+SE
+%
+SE
+%
+SE
+Random forest
+Accuracy
+79
+0.0008
+81
+0.0003
+78
+0.0011
+AUC
+35
+0.0009
+78
+0.0003
+82
+0.0004
+Sensitivity
+72
+0.0006
+39
+0.0006
+64
+0.0026
+Precision
+40
+0.0007
+46
+0.0007
+43
+0.0017
+Specificity
+88
+0.0006
+90
+0.0007
+81
+0.0017
+ANN
+Accuracy
+80
+0.0006
+82
+0.0005
+80
+0.0021
+AUC
+74
+0.0006
+81
+0.0004
+81
+0.0012
+Sensitivity
+31
+0.0053
+44
+0.0079
+56
+0.0043
+Precision
+41
+0.0055
+51
+0.0039
+45
+0.0038
+Specificity
+90
+
+===
+PAGE 7 (7426 chars):
+Moon and Woo
+10.3389/fpubh.2024.1504739
+Frontiers in Public Health
+07
+frontiersin.org
+Subjective health perception was another significant factor 
+influencing GAD. Adolescents with a negative perception of their 
+health are more likely to experience mental stress and anxiety (30). 
+This reinforces the importance of promoting positive health 
+perceptions through regular health education programs to support 
+mental and emotional well-being. Similarly, subjective economic 
+status was identified as a contributing factor. Adolescents from lower 
+economic backgrounds are more prone to psychological difficulties, 
+leading to anxious thoughts about their future (34). This highlights the 
+need for psychological counseling for adolescents experiencing 
+economic hardship to help alleviate anxiety.
+Differences in the variables selected by each algorithm were noted, 
+with XGBoost selecting female sex and daily intake of fast food as 
+significant predictors. The high risk of anxiety among female 
+adolescents is well-documented, irrespective of their household, 
+economic, or academic conditions (10). This suggests that female 
+students are generally more vulnerable to anxiety, potentially due to 
+psychological and physiological factors. Social pressures, concerns 
+about appearance, and high academic expectations may increase this 
+vulnerability, while hormonal fluctuations, such as changes in estrogen 
+levels, can also influence emotional and behavioral responses, 
+increasing anxiety risk (10, 35). Addressing GAD in female students, 
+therefore, requires interventions tailored to both psychological and 
+physiological factors.
+Among the selected features, health behaviors such as recovery 
+from sleep fatigue, weekend sleep, smoking experience, and fast food 
+intake were notably associated with GAD. Previous research on the 
+relationship between sleep quality and anxiety among Korean 
+adolescents has demonstrated that lower sleep quality is correlated 
+with a higher risk of GAD (36). Insufficient weekend sleep further 
+compounds this issue by preventing recovery from weekday sleep 
+deprivation, potentially leading to chronic sleep deficiency, which may 
+result in GAD (37). As such, sleep recovery and weekend sleep play a 
+critical role in managing GAD, highlighting the importance of 
+incorporating sleep-focused strategies into adolescent mental 
+health interventions.
+Smoking during adolescence presents more severe physical and 
+mental health risks compared to smoking in ad
+===
+PAGE 8 (5902 chars):
+Moon and Woo
+10.3389/fpubh.2024.1504739
+Frontiers in Public Health
+08
+frontiersin.org
+genetic data to better clarify the underlying mechanisms of 
+GAD. Public health strategies focusing on improving sleep hygiene, 
+preventing smoking, and promoting balanced nutrition may 
+effectively reduce the risk of GAD in adolescents.
+Data availability statement
+Publicly available datasets were analyzed in this study. This data 
+can be found here: https://www.kdca.go.kr/yhs/.
+Ethics statement
+The studies involving humans were approved by Kongju National 
+University Institutional Review Board (IRB No.: KNU_IRB_2024-
+045). The studies were conducted in accordance with the local 
+legislation and institutional requirements. Written informed consent 
+for participation was not required from the participants or the 
+participants' legal guardians/next of kin in accordance with the 
+national legislation and institutional requirements.
+Author contributions
+YM: Formal analysis, Methodology, Writing  – original draft, 
+Writing – review & editing. HW: Conceptualization, Methodology, 
+Validation, Writing – original draft, Writing – review & editing.
+Funding
+The author(s) declare that financial support was received for the 
+research, authorship, and/or publication of this article. This work was 
+supported by a 2024 research grant from Kongju National University 
+(KNU) and the National Research Foundation (NFR) of Korea grant 
+funded by the Korea government (MSIT) (RS-2024–00350688).
+Acknowledgments
+This study was conducted based on the public data provided by 
+the Korea Disease Control and Prevention Agency (KDCA). 
+We  would like to express our deep gratitude to the KDCA for 
+providing the data.
+Conflict of interest
+The authors declare that the research was conducted in the 
+absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+Generative AI statement
+The authors declare that no Gen AI was used in the creation of 
+this manuscript.
+Publisher’s note
+All claims expressed in this article are solely those of the 
+authors and do not necessarily represent those of their affiliated 
+organizations, or those of the publisher, the editors and the 
+reviewers. Any product that may be evaluated in this article, or 
+claim that may be made by its manufacturer, is not guaranteed or 
+endorsed by the publisher.
+References
+	1.	World Health Organization. Mental health of adolescents (2021). Available at: 
+https://www.who.int/news-room/fact-sh
+===
+PAGE 9 (5579 chars):
+Moon and Woo
+10.3389/fpubh.2024.1504739
+Frontiers in Public Health
+09
+frontiersin.org
+	19.	Han YJ, Joe IH. Imbalanced data improvement techniques based on SMOTE and 
+light GBM. KIPS Trans Comput Commun Syst. (2022) 11:445–52. doi: 10.3745/
+KTCCS.2022.11.12.445
+	20.	Shrivastava S, Jeyanthi PM, Singh S. Failure prediction of Indian banks using 
+SMOTE, Lasso regression, bagging and boosting. Cogent Econ Finance. (2020) 
+8:1729569. doi: 10.1080/23322039.2020.1729569
+	21.	Muthukrishnan R, Rohini R, editors. LASSO: a feature selection technique in 
+predictive modeling for machine learning. 2016 IEEE international conference on 
+advances in computer applications (ICACA). IEEE. (2016) 18–20.
+	22.	Maftoun M, Joloudari JH, Zare O, Khademi M, Atashi A, Nematollahi MA, et al. 
+Improving prediction of mortality in ICU via fusion of SelectKBest with SMOTE 
+method and extra tree classifier In: Editors International Work-Conference on the 
+Interplay Between Natural and Artificial Computation Springer (2024). 68–77.
+	23.	Sang X, Xiao W, Zheng H, Yang Y, Liu T. HMMPred: accurate prediction of DNA-
+binding proteins based on HMM profiles and XGBoost feature selection. Comput Math 
+Methods Med. (2020) 2020:1384749–10. doi: 10.1155/2020/1384749
+	24.	Jeon H, Oh S. Hybrid-recursive feature elimination for efficient feature selection. 
+Appl Sci. (2020) 10:3211. doi: 10.3390/app10093211
+	25.	Ahn CK, Kim D. Efficient variable selection method using conditional mutual 
+information. J Kor Data Informat Sci Soc. (2014) 25:1079–94. doi: 10.7465/jkdi.2014.25.5.1079
+	26.	Fernández-Delgado M, Cernadas E, Barro S, Amorim D. Do we need hundreds of 
+classifiers to solve real world classification problems? J Mach Learn Res. (2014) 
+15:3133–81. doi: 10.5555/2627435.2697065
+	27.	Way TW, Sahiner B, Hadjiiski LM, Chan HP. Effect of finite sample size on feature 
+selection and classification: a simulation study. Med Phys. (2010) 37:907–20. doi: 
+10.1118/1.3284974
+	28.	Ebesutani C, Fierstein M, Viana AG, Trent L, Young J, Sprung M. The role of 
+loneliness in the relationship between anxiety and depression in clinical and school-
+based youth. Psychol Sch. (2015) 52:223–34. doi: 10.1002/pits.21818
+	29.	Kim JW, Kim YH. Effects of social support and self-esteem on adolescents' 
+loneliness. Korea J Couns. (2009) 10:2287–301. doi: 10.15703/kjc.10.4.200912.2287
+	30.	Lee JH, Cho YT. The analysis on the causal relationship of the self-esteem, 
+problem-solving ability, stress, and generalized anxiety disorde
+===

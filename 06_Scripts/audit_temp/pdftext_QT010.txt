@@ -1,0 +1,833 @@
+Journal of Affective Disorders 288 (2021) 17–22
+Available online 3 April 2021
+0165-0327/© 2021 Elsevier B.V. All rights reserved.
+Research paper 
+Prevalence and risk factors for anxiety symptoms during the outbreak of 
+COVID-19: A large survey among 373216 junior and senior high school 
+students in China 
+Qingqing Xu
+a , 1
+, Zhenxing Mao
+a , 1
+, Dandan Wei
+a
+, Pengling Liu
+a
+, Keliang Fan
+a
+, Juan Wang
+a
+, 
+Xian Wang
+a
+, Xiaomin Lou
+a
+, Hualiang Lin
+b
+, Chongjian Wang
+a
+, Cuiping Wu
+a , * 
+a
+Department of Epidemiology and Biostatistics, College of Public Health, Zhengzhou University, Zhengzhou, Henan, PR China 
+b
+Sun Yat Sen University Sun Yat Sen Univ, Sch Publ Hlth, Dept Epidemiol, Guangzhou 510080, Peoples R China   
+ARTICLE INFO  
+Keywords: 
+Anxiety 
+COVID-19 
+China 
+Factors 
+Prevalence 
+Students 
+ABSTRACT  
+Background: The increasing menace of the COVID-19 epidemic led to an atmosphere of anxiety around the world, 
+however the evidence among Chinese students aged 12 to 18 years has been limited. 
+Methods: A total of 373216 junior and senior high school students were recruited using a cluster sampling method 
+in Zhengzhou, Xinxiang, Xinyang city of Henan Province, China, during February 4-12, 2020. Presence of anxiety 
+symptoms was determined by Generalized Anxiety Disorder tool (GAD-7). Multiple logistic regression was 
+performed to estimate the potential risk factors. 
+Results: Among the participants, junior and senior high school students were found to have anxiety symptoms, 
+producing an overall prevalence of 9.89%. The prevalence was lower in female than in male (9.66% vs. 10.11%) 
+and the prevalence was higher for junior high school students than senior high school students (13.89% vs. 
+12.93%). The prevalence of anxiety symptoms was highest among rural students and lowest among urban stu -
+dents (11.33% vs. 8.77%). The cognitive level was negatively associated with the prevalence of anxiety symp -
+toms. After adjusting for potential confounders, age, gender, residential location, worried level, fear level and 
+behavior status were found to be associated with anxiety symptoms. 
+Limitations: Prevalence may be skewed by assessing anxiety symptoms using self-reported scales rather than 
+clinical interviews. 
+Conclusions: This large-scale study assesses the prevalence of anxiety symptoms and its potential influencing 
+factors in junior and senior high school students. These findings suggest that governments need to pay more 
+attention to the mental health of young people in combating COVID-19.   
+1. Introduction 
+In December 2019, a novel coronavirus (COVID-19) has been iden -
+tified ( Lu et al., 2020 ), which raised global concern ( Wang et al., 2020a ). 
+It spreads widely and rapidly and causes an outbreak of acute infectious 
+pneumonia ( Bao et al., 2020 ). Given its high person-to-person trans -
+mission rate, multiple appropriate measures (including social 
+distancing, quarantine, and isolation) were implemented in many cities 
+and rural areas in China during the Spring Festival. Although many 
+measures might have moderated the spread of severe acute respiratory 
+syndrome coronavirus Type 2 (SARS-COV-2), which causes COVID-19, 
+they can also have a negative impact on the economy, employment, 
+and public health ( Brooks et al., 2020 ). The increasing menace of the 
+epidemic led to an atmosphere of anxiety around the world due to dis -
+rupted travel plans, social isolation, media information overload and 
+panic buying of necessity goods ( Ho et al., 2020 ). 
+Anxiety disorders are one of the most common and disabling mental 
+health conditions that are distributed across the globe ( Baxter et al., 
+2013, 2014; Kessler et al., 2007; Whiteford et al., 2010; Wittchen et al., 
+2010 ). In addition, the previous study had reported anxiety disorders 
+* Correspondence author. Cuiping Wu, Department of Epidemiology and Biostatistics, College of Public Health, Zhengzhou University, 100 Kexue Avenue, 
+Zhengzhou, 450001, Henan, PR China 
+E-mail address: wucuiping@zzu.edu.cn (C. Wu).   
+1 
+Qingqing Xu and Zhenxing Mao contributed equally to this article. 
+Contents lists available at ScienceDirect 
+Journal of Affective Disorders 
+journal homep age: www.elsevi er.com/locate /jad 
+https://doi.org/10.1016/j.jad.2021.03.080 
+Received 11 January 2021; Received in revised form 23 March 2021; Accepted 26 March 2021   
+Journal of Affective Disorders 288 (2021) 17–22
+18
+may increase the risk of cancer, cardiovascular disease and some forms 
+of anxiety have been associated with a lower risk of death ( Batelaan 
+et al., 2016 ; Eaton et al., 2013 ; Miloyan et al., 2016 ; Mykletun et al., 
+2009 ; Wang et al., 2020c ). It is already evident that the direct and in -
+direct psychological and social effects of the COVID-19 pandemic are 
+widespread and could affect mental health now and future 
+( Gonz ´alez-Sanguino et al., 2020 ; Holmes et al., 2020 ; Khadse et al., 
+2020 ; Mattila et al., 2021 ; Stepowicz et al., 2020 ). The increasing 
+number of confirmed cases and the growing number of provinces and 
+countries affected by the outbreak have contributed to the increasing 
+prevalence of public anxiety ( Li et al., 2020 ). However, the effects of the 
+COVID-19 pandemic on mental health could differ between population 
+groups ( Pan et al., 2020 ). Although there is growing empirical evidence 
+of mental health complications of COVID-19 in adults, our knowledge of 
+the impact of the pandemic on the mental health of young people re -
+mains very limited ( Nearchou et al., 2020 ). In particular, adolescents are 
+a vulnerable group that is presenting with more and more complex is -
+sues ( Membride, 2016 ). Additionally, there is more and more evidence 
+that the prevalence of adolescent emotional disorders is increasing 
+( Glowinski and D ’ Amelio, 2016 ). The study indicated that most uni -
+versal, selective, and indicated prevention programs are effective in 
+reducing symptoms of anxiety in adolescents ( Neil and Christensen, 
+2009 ). 
+As a province with the largest educational population in China, 
+Henan province has an educational population of 28.53 million. It has a 
+border with Hubei province and the two provinces have close exchanges 
+with each other. The situation of epidemic prevention and control in the 
+education system is very serious. Therefore, the present study included 
+373216 junior and senior high school students in Henan Province during 
+the COVID-19 outbreak and aimed to assess the prevalence of anxiety 
+symptoms and identify the potential risk and protective factors 
+contributing to anxiety. According to past experience, winter and spring 
+are likely to be the peak of the outbreak. Therefore, from the perspective 
+of current global epidemic prevention and control, the Spring Festival in 
+2021 will still be affected by COVID-19. This may assist government 
+agencies and healthcare professionals in safeguarding the psychological 
+well-being of the junior and senior high school students in the face of 
+COVID-19 outbreak expansion in China and different parts of the world. 
+2. Methods 
+2.1. Study participants 
+We conducted this cross-sectional study in order to investigate the 
+impact of the COVID-19 pandemic on the anxiety symptoms from 
+February 4, 2020 and February 12, 2020. Junior and senior high school 
+students aged 12-18 years were recruited by using a cluster sampling 
+method in Zhengzhou, Xinxiang, Xinyang city of Henan Province, China, 
+and invited to participate in the online survey through an online survey 
+platform ( “ SurveyStar ” , Changsha Ranxing Science and Technology, 
+Shanghai, China). After excluding the data of participants aged < 12 
+years or aged > 18 years or those who took ≤ 100 s to fully respond to the 
+questions (n = 34276), finally, a total of 373216 participants were 
+included in the analysis. These regions can represent the overall con -
+ditions of Henan Province. 
+2.2. Data collection 
+A standard questionnaire was designed to collect basic socio- 
+demographic information (sex, age, grade, and residential location), 
+the cognitive level was reflected to the subjects ’ understanding of the 
+epidemic characteristics of the COVID-19, including “ will it be passed 
+from person to person ” , “ route of transmission ” , and “ quarantine for 
+several days after exposure ” , each of these questions was divided into 
+two groups: correct and wrong, mental state (worry and fear), a specific 
+anxiety symptoms and other factors. Residential location was divided 
+into 3 categories: city, rural and country-level city. The worried and fear 
+levels (including “ extremely ” “ very ” “ somewhat ’” “ not so ” and “ not at 
+all ” ), assigned a score to each response on 5-point Likert scale ( Gupta 
+and Maity, 2021 ). High level was defined as 4-5 points, moderate level 
+was defined as 3 points, and low or none level was defined as 1-2 points. 
+Behavioral status reflected the change of people ’ s lifestyle after knowing 
+about the epidemic, which including “ whether to increase the frequency 
+of hand washing ” , “ going out wearing a mask ” , “ whether to give up the 
+Spring Festival to visit relatives or travel because of the epidemic ” , and 
+“ going out for dinner ” . Behavioral status was divided into 3 levels: all 
+correct, not all correct and all wrong ( Li et al., 2020 ). 
+Anxiety symptoms were assessed by using the Chinese version of 
+Generalized Anxiety Disorder tool (GAD-7) which is a simple and highly 
+effective self-assessment tool for anxiety symptoms ( L ¨owe et al., 2008 ). 
+Participants were asked how often seven symptoms had appeared in 
+your life over the past two weeks on a 21-point scale ranging from “ not 
+at all ” (0 points), “ several days ” (1 points), “ more than half the days ” (2 
+points) and “ nearly every day ” (3 points). The scores for symptom 
+severity were 5 – 9 for mild, 10 – 14 for moderate, and 15 – 21 for severe 
+( Spitzer et al., 2006 ). A score of 10 or greater on the GAD-7 represents a 
+reasonable cut point for identifying cases of GAD ( Li et al., 2020 ). 
+2.3. Statistical analysis 
+Continuous variables were shown as means ± standard deviation 
+Table 1 
+Characteristics of the study participants by anxiety status.  
+Characteristics All participants 
+n = 373216 
+No-anxiety 
+n = 336298 
+Anxiety 
+n = 36918 
+P value 
+Age (years) 15.24 ± 1.59 15.26 ± 1.60 15.06 ± 1.58 0.009 
+Gender (%)    < 0.001 
+Male 193507(51.85) 173943 
+(51.72) 
+19564 
+(52.99)  
+Female 179709(48.15) 162355 
+(48.28) 
+17354 
+(47.01)  
+Grade (%)    < 0.001 
+Junior 244193(65.43) 217703 
+(64.74) 
+26490 
+(71.75)  
+Senior 129023(34.57) 118595 
+(35.26) 
+10428 
+(28.25)  
+Residential 
+location    
+< 0.001 
+City 161576(43.29) 147405 
+(43.83) 
+14171 
+(38.39)  
+Rural 140737(37.71) 124794 
+(37.11) 
+15943 
+(43.18)  
+Country-level 
+city 
+70903(19.00) 64099(19.06) 6804(18.43)  
+Worried level 
+(%)    
+< 0.001 
+High 284399(76.20) 250130 
+(74.38) 
+34269 
+(92.82)  
+Moderate 66182(17.73) 64195(19.09) 1987(5.38)  
+Low/none 22635(6.06) 21973(6.53) 662(1.79)  
+Fear level (%)    < 0.001 
+High 194047(51.99) 162755 
+(48.40) 
+31292 
+(84.76)  
+Moderate 128397(34.40) 124308 
+(36.96) 
+4089(11.08)  
+Low/none 50772(13.60) 49235(14.64) 1537(4.16)  
+Behavior status 
+(%)    
+< 0.001 
+All correct 185958(49.83) 167570 
+(49.83) 
+18388 
+(49.81)  
+Not all correct 186662(50.01) 168222 
+(50.02) 
+18440 
+(49.95)  
+All wrong 596(0.16) 506(0.15) 90(0.24)  
+Data were presented as mean (SD) normal distribution continuous variables and 
+numbers (percentages) for categorical variables; P values calculated using stu -
+dent ’ s t-test and chi-square. 
+Compared with No-anxiety, P < 0.05 
+Q. Xu et al.                                                                                                                                                                                                                                       
+Journal of Affective Disorders 288 (2021) 17–22
+19
+(SD), and categorical variables were expressed as frequencies (%). Stu -
+dent ’ s t-tests were performed to examine the difference in continuous 
+variables, and the significance of the difference in categorical variables 
+was assessed by chi-squared test. 
+The logistic regression model was used to estimate odds ratios (ORs) 
+and 95% confidence intervals (CIs). Multivariable adjustment modelling 
+was performed in this study: Model 1 was crude model. Model 2 was 
+adjusted for age, gender, residential location, worried level, fear level 
+and behavior status. All data were analyzed using SPSS and Excel and 
+software version 21.0 (SPSS Inc., Chicago) and two-tailed P values 
+< 0.05 were considered statistically significant. 
+3. Results 
+3.1. Basic characteristics of participants 
+Among 373216 participants included 244193 junior high school 
+students and 129023 senior high school students (12-18 years old) were 
+invited to participate in the online survey during the outbreak of COVID- 
+19 in China. Table 1 showed the characteristics of participants and their 
+associations with anxiety status. As compared to participants without 
+anxiety symptoms, participants with anxiety symptoms were different 
+from the proportion of sex, grade, residential location, worried level, 
+fear level and behavior status (all P < 0.05). 
+3.2. Prevalence of anxiety symptoms 
+The overall anxiety symptoms prevalence was 9.89% among junior 
+and senior high school students during COVID-19 pandemic in China. 
+The prevalence was lower in females than males (9.66% vs. 10.11%). 
+Fig. 1 showed the prevalence of anxiety symptoms in participants by 
+residential location and grade. The highest prevalence of anxiety 
+symptoms was 12.80% found in participant lived in rural among junior 
+high school students, and 8.40% found in participant lived in rural 
+among senior high school students. The lowest prevalence of anxiety 
+symptoms was 9.30% found in participant lived in city among junior 
+high school students, and 7.80% found in participant lived in city among 
+senior high school students. In brief, during the COVID-19 period, the 
+Fig. 1.  
+Fig. 2.  
+Q. Xu et al.                                                                                                                                                                                                                                       
+Journal of Affective Disorders 288 (2021) 17–22
+20
+proportion of junior high school students with anxiety symptoms was 
+higher than that of senior high school students. Participants lived in city 
+have the lowest prevalence of anxiety symptoms and participants lived 
+in rural have the highest prevalence of anxiety symptoms among junior 
+and senior high school students. 
+Fig. 2 showed the three most basic cognitive problems associated 
+with the COVID-19. As can be seen from the figure, there is a difference 
+in the prevalence of anxiety symptoms between those who answered the 
+cognitive questions correctly and those who answered them incorrectly, 
+in junior and senior high school students respectively. Students who 
+lacked correct recognition of the COVID-19 were more prone to anxiety 
+symptoms. 
+3.3. Anxiety symptoms 
+The proportion of students with different levels of anxiety symptoms 
+were shown in Table 2 . Mild and moderate anxiety were most common. 
+In junior high school students, the rate of mild anxiety was 28.06%, and 
+that of moderate anxiety was 7.35%. Similarly, in senior high school 
+students, the rate of mild anxiety was 29.43%, and that of moderate 
+anxiety was 5.72%. 
+Fig. 3 showed there was a difference in response rates among the 
+seven GAD symptoms in anxiety participants. Obviously, being so rest -
+less that it is hard to sit still (41.2%), becoming easily annoyed or 
+irritable (49.1%), feeling afraid as if something awful might happen 
+(39.4%) are the most common symptoms. 
+3.4. The positive or risk factors of anxiety symptoms 
+Table 3 presented the results of multivariable logistic regression 
+analysis. Compared with male among junior and senior high school 
+students, female had 8% [OR 0.92 (95% CI; 0.89-0.94)] and 16% [OR 
+0.84 (95% CI; 0.81-0.88)] reduced odds of anxiety. In junior high school 
+students, compared with participants lived in city, participants lived in 
+rural had 30% increased likelihood (OR 1.30 [95% CI 1.26 – 1.34]), just 
+like participants lived in country-level city had 11% increased likelihood 
+(OR 1.11[95% CI 1.07-1.15]). Compared with high worry level among 
+junior and senior high school students, moderate worry level had 40% 
+[OR 0.60 (95% CI; 0.56-0.64)] and 34% [OR 0.66 (95% CI; 0.61-0.73)] 
+reduced odds of anxiety, low/none worry level had 39% [OR 0.61 (95% 
+CI; 0.55-0.68)] and 22% [OR 0.78 (95% CI; 0.67-0.92)] reduced odds of 
+anxiety. Similarly, compared with high fear level among junior and se -
+nior high school students, moderate fear level had 79% [OR 0.21 (95% 
+CI; 0.20-0.22)] and 80% [OR 0.20 (95% CI; 0.19-0.21)] reduced odds of 
+anxiety, low/none fear level had 79% [OR 0.21 (95% CI; 0.20-0.23)] 
+and 81% [OR 0.19 (95% CI; 0.17-0.21)] reduced odds of anxiety. 
+However, compared with high behavior status level among junior and 
+senior high school students, moderate behavior status level had 4% 
+increased likelihood (OR 1.04 [95% CI 1.01-1.07]) and 6% increased 
+likelihood (OR 1.06 [95% CI 1.01-1.10]), just like low behavior status 
+level had 172% increased likelihood (OR 2.72[95% CI 2.01-3.68]) and 
+193% increased likelihood (OR 2.93[95% CI 1.97-4.35]). 
+4. Discussion 
+This was a large-scale cross-sectional epidemiological study based in 
+Henan Province, which has the largest educational population in China, 
+investigating the prevalence of anxiety symptoms in 373,216 junior and 
+Table 2 
+The rate of different severities of anxiety symptoms.  
+Anxiety level All participants Junior students Senior students 
+n % n % n % 
+None 229811 61.58 149193 61.10 80618 62.48 
+Mild 106487 28.53 68510 28.06 37977 29.43 
+Moderate 25332 6.79 17949 7.35 7383 5.72 
+Severe 11586 3.10 8541 3.50 3045 2.36 
+Mild to serve 143405 38.42 95000 38.90 48405 37.51  
+Fig. 3.  
+Q. Xu et al.                                                                                                                                                                                                                                       
+Journal of Affective Disorders 288 (2021) 17–22
+21
+senior high school students during the COVID-19 outbreak. Our study 
+showed that the overall prevalence of anxiety symptoms in junior and 
+senior high school students was 9.89% (10.85% for junior high school 
+students and 8.08% for senior high school students). Age, gender, grade, 
+residential location, worried level, fear level and behavior status were 
+found to be associated with anxiety symptoms among junior and senior 
+high school students. 
+Given an overall global prevalence of anxiety disorders estimated to 
+be normally around 7.3% ( Santab ´arbara et al., 2020 ), however, our 
+results suggest that anxiety symptoms prevalence in junior and senior 
+high school students was 9.89% during the COVID-19 outbreak. It might 
+be caused by epidemic prevention and control measures during 
+COVID-19 period. At the beginning of the COVID-19 outbreak in China, 
+about one-third reported moderate-to-severe anxiety. Female gender, 
+student status, and specific physical symptoms were associated with a 
+greater psychological impact of the outbreak and higher levels of stress, 
+anxiety, and depression ( Wang et al., 2020b ). Another data showed that 
+a large-scale survey of college students in China demonstrates that about 
+45% students have probable acute stress, anxiety or depressive symp -
+toms during the COVID-19 epidemic ( Ma et al., 2020 ). As is supposed 
+above, the anxiety symptoms are likely to affect more populations 
+during this pandemic, and we should try to assess the impact of 
+COVID-19 on other vulnerable populations, such as adolescents, to 
+maintain the mental health of vulnerable populations. 
+Our study showed that participants who lived in city have the lowest 
+prevalence of anxiety and participants who lived in rural have the 
+highest prevalence of anxiety among junior and senior high school 
+students. It may be because the high level of socioeconomic status of 
+urban student ’ s parents. A large body of study have shown that socio -
+economic status has a strong protective effect on physical and mental 
+health outcomes ( Burgard et al., 2013 ; Dowd et al., 2011 ; Morris et al., 
+1994 ). Parents ’ emotions can affect their children. Meanwhile, the 
+prevalence of anxiety in junior high school students is higher than that in 
+senior high school students. Therefore, we should pay more attention to 
+protect the psychological status of rural students, by developing in -
+terventions and prevention and control measures. The prevalence of 
+anxiety was also significantly higher among students with low cogni -
+tion. This suggests that we need to strengthen the promotion of 
+COVID-19 knowledge, especially in the transmission route, where the 
+awareness rate is low. Through publicity and education, students can 
+have a more comprehensive understanding of COVID-19, so as to protect 
+themselves from life habits such as hand washing, exercise and nutri -
+tion, and reduce the influence of COVID-19 on anxiety among students. 
+Moreover, we subdivided the level of anxiety, and the results showed 
+that most students were mild anxiety, while only a few students were 
+moderate to severe anxiety. Of note, among the anxious students, being 
+so restless that it is hard to sit still (41.2%), becoming easily annoyed or 
+irritable (49.1%), feeling afraid as if something awful might happen 
+(39.4%) are the most common symptoms. So, we suggested that the 
+health department could provide an online psychological intervention 
+platform where students can seek online psychological support when 
+they have the above three symptoms. 
+To our knowledge, this is a large sample study of the prevalence of 
+anxiety symptoms in junior and senior high school students. Secondly, as 
+a province with the largest education population in China, Henan 
+province has a border with Hubei province and close contacts between 
+the two provinces, which is representative of students ’ anxiety during 
+the period of the COVID-19. Thirdly, we used the standardized ques -
+tionnaire (GAD-7) to diagnose anxiety. Finally, we excluded the par -
+ticipants who not meeting the requirements of this study to make our 
+results more realistic. 
+Nevertheless, there are some limitations that should be considered 
+when interpreting our results. First, although many important variables 
+were already considered and adjusted, the possibility of other potential 
+confounding factors remain cannot be ruled out. Second, prevalence 
+may be skewed by assessing anxiety symptoms using self-reported scales 
+rather than clinical interviews. Third, the presence of anxiety symptoms 
+was determined by Generalized Anxiety Disorder tool (GAD-7), which is 
+a simple and highly effective self-assessment tool for anxiety symptoms. 
+However, a single screening tool does not guarantee the reliability and 
+validity of the study. Fourth, the cognitive level reflected the subjects ’ 
+understanding of the epidemic characteristics of the COVID-19, but the 
+validity of the cognitive level has not been guaranteed. Finally, the 
+participants in this study were junior and senior high school students, 
+which may limit the extension of our findings to other grade students. 
+In conclusion, among junior and senior high school students in 
+China, rate of anxiety symptoms was not optimal during the COVID-19 
+epidemic, especially for students living in rural areas. These findings 
+suggest that governments need to pay more attention to the mental 
+health of young people in combating COVID-19. In the follow-up work, 
+factors including age, gender, grade, residential location, cognitive 
+level, worried level, fear level, and behavior status may be considered as 
+Table 3 
+Independent association of characteristics of study participants and anxiety 
+during the COVID-19 epidemic in Henan province.  
+Characteristics All participants OR 
+(95%CI) 
+Junior students OR 
+(95%CI) 
+Senior students OR 
+(95%CI) 
+Model 
+1 
+Model 
+2 
+Model 
+1 
+Model 
+2 
+Model 
+1 
+Model 
+2 
+Gender       
+Male 1.00 
+(ref) 
+1.00 
+(ref) 
+1.00 
+(ref) 
+1.00 
+(ref) 
+1.00 
+(ref) 
+1.00 
+(ref) 
+Female 0.95 
+(0.93- 
+0.97) * 
+0.89 
+(0.87- 
+0.91) * 
+0.96 
+(0.93- 
+0.98) * 
+0.92 
+(0.89- 
+0.94) * 
+0.94 
+(0.90- 
+0.98) * 
+0.84 
+(0.81- 
+0.88) * 
+Residential 
+location       
+City 1.00 
+(ref) 
+1.00 
+(ref) 
+1.00 
+(ref) 
+1.00 
+(ref) 
+1.00 
+(ref) 
+1.00 
+(ref) 
+Rural 1.33 
+(1.30- 
+1.36) * 
+1.20 
+(1.17- 
+1.23) * 
+1.44 
+(1.40- 
+1.48) * 
+1.30 
+(1.26- 
+1.34) * 
+1.08 
+(1.03- 
+1.13) * 
+0.97 
+(0.93- 
+1.02) 
+Country-level 
+city 
+1.10 
+(1.07- 
+1.14) * 
+1.06 
+(1.03- 
+1.10) * 
+1.15 
+(1.11- 
+1.20) * 
+1.11 
+(1.07- 
+1.15) * 
+1.03 
+(0.98- 
+1.09) 
+1.00 
+(0.94- 
+1.05) 
+Worried level       
+High 1.00 
+(ref) 
+1.00 
+(ref) 
+1.00 
+(ref) 
+1.00 
+(ref) 
+1.00 
+(ref) 
+1.00 
+(ref) 
+Moderate 0.23 
+(0.22- 
+024) * 
+0.62 
+(0.59- 
+0.65) * 
+0.22 
+(0.21- 
+0.23) * 
+0.60 
+(0.56- 
+0.64) * 
+0.24 
+(0.22- 
+0.26) * 
+0.66 
+(0.61- 
+0.73) * 
+Low/none 0.22 
+(0.20- 
+0.24) * 
+0.66 
+(0.60- 
+0.72) * 
+0.20 
+(0.18- 
+0.22) * 
+0.61 
+(0.55- 
+0.68) * 
+0.26 
+(0.23- 
+0.30) * 
+0.78 
+(0.67- 
+0.92) * 
+Fear level       
+High 1.00 
+(ref) 
+1.00 
+(ref) 
+1.00 
+(ref) 
+1.00 
+(ref) 
+1.00 
+(ref) 
+1.00 
+(ref) 
+Moderate 0.17 
+(0.17- 
+0.18) * 
+0.20 
+(0.20- 
+0.21) * 
+0.17 
+(0.17- 
+0.18) * 
+0.21 
+(0.20- 
+0.22) * 
+0.18 
+(0.17- 
+0.19) * 
+0.20 
+(0.19- 
+0.21) * 
+Low/none 0.16 
+(0.15- 
+0.17) * 
+0.20 
+(0.19- 
+0.21) * 
+0.16 
+(0.15- 
+0.17) * 
+0.21 
+(0.20- 
+0.23) * 
+0.17 
+(0.15- 
+0.18) * 
+0.19 
+(0.17- 
+0.21) * 
+Behavior 
+status       
+All correct 1.00 
+(ref) 
+1.00 
+(ref) 
+1.00 
+(ref) 
+1.00 
+(ref) 
+1.00 
+(ref) 
+1.00 
+(ref) 
+Not all correct 1.00 
+(0.98- 
+1.02) 
+1.04 
+(1.02- 
+1.07) * 
+1.00 
+(0.97- 
+1.02) 
+1.04 
+(1.01- 
+1.07) * 
+1.00 
+(0.96- 
+1.04) 
+1.06 
+(1.01- 
+1.10) * 
+All wrong 1.62 
+(1.29- 
+2.03) * 
+2.80 
+(2.20- 
+3.56) * 
+1.53 
+(1.16- 
+2.03) * 
+2.72 
+(2.01- 
+3.68) * 
+1.87 
+(1.28- 
+2.72) * 
+2.93 
+(1.97- 
+4.35) * 
+Abbreviation: OR, odds ratio; CI, confidence interval. 
+Model 1: no adjustment. 
+Model 2: adjusted for age, gender, residential location, worried level, fear level 
+and behavior status. 
+*
+P < 0.05. 
+Q. Xu et al.                                                                                                                                                                                                                                       
+Journal of Affective Disorders 288 (2021) 17–22
+22
+part of the overall management of anxiety symptoms. 
+Declaration of Competing Interest 
+The authors declare that they have no conflict of interest. 
+Acknowledgements 
+The authors thank the participants for their supports during the 
+study. 
+Author statement 
+Qingqing Xu and Zhenxing Mao designed research; Hualiang Lin, 
+Xian Wang, Xiaomin Lou, Chongjian Wang, Dandan Wei and Juan Wang 
+collected the data; Qingqing Xu analyzed the data and drafted the 
+manuscript; Zhenxing Mao, Cuiping Wu, Pengling Liu and Keliang Fan 
+revised the manuscript. Cuiping Wu had primary responsibility for final 
+content. All authors read and approved the final manuscript. 
+Role of funding source 
+This work was supported by the National Natural Science Foundation 
+of China (82041021). 
+References 
+Bao, Y., Sun, Y., Meng, S., Shi, J., Lu, L., 2020. 2019-nCoV epidemic: address mental 
+health care to empower society. Lancet 395 e37-e38 .  
+Batelaan, N.M., Seldenrijk, A., Bot, M., van Balkom, A.J., Penninx, B.W., 2016. Anxiety 
+and new onset of cardiovascular disease: critical review and meta-analysis. Br. J. 
+Psychiatry 208, 223 – 231 . 
+Baxter, A.J., Scott, K.M., Vos, T., Whiteford, H.A., 2013. Global prevalence of anxiety 
+disorders: a systematic review and meta-regression. Psychol. Med. 43, 897 – 910 . 
+Baxter, A.J., Vos, T., Scott, K.M., Ferrari, A.J., Whiteford, H.A., 2014. The global burden 
+of anxiety disorders in 2010. Psychol. Med. 44, 2363 – 2374 . 
+Brooks, S.K., Webster, R.K., Smith, L.E., Woodland, L., Wessely, S., Greenberg, N., 
+Rubin, G.J., 2020. The psychological impact of quarantine and how to reduce it: 
+rapid review of the evidence. Lancet 395, 912 – 920 . 
+Burgard, S.A., Elliott, M.R., Zivin, K., House, J.S., 2013. Working conditions and 
+depressive symptoms: a prospective study of US adults. J. Occup. Environ. Med. 55, 
+1007 – 1014 . 
+Dowd, J.B., Albright, J., Raghunathan, T.E., Schoeni, R.F., Leclere, F., Kaplan, G.A., 
+2011. Deeper and wider: income and mortality in the USA over three decades. Int. J. 
+Epidemiol. 40, 183 – 188 . 
+Eaton, W.W., Roth, K.B., Bruce, M., Cottler, L., Wu, L., Nestadt, G., Ford, D., Bienvenu, O. 
+J., Crum, R.M., Rebok, G., Anthony, J.C., Mu ˜noz, A., 2013. The relationship of 
+mental and behavioral disorders to all-cause mortality in a 27-year follow-up of 4 
+epidemiologic catchment area samples. Am. J. Epidemiol. 178, 1366 – 1377 . 
+Glowinski, A.L., D ’ Amelio, G., 2016. Depression Is a Deadly Growing Threat to Our 
+Youth: Time to Rally. Pediatrics 138 . 
+Gonz ´alez-Sanguino, C., Ausín, B., Castellanos, M.A., Mu ˜noz, M., 2020. Mental health 
+consequences of the Covid-19 outbreak in Spain. A longitudinal study of the alarm 
+situation and return to the new normality. Prog. Neuropsychopharmacol. Biol. 
+Psychiatry, 110219 . 
+Gupta, A.K., Maity, C., 2021. Efficacy and safety of Bacillus coagulans LBSC in irritable 
+bowel syndrome: A prospective, interventional, randomized, double-blind, placebo- 
+controlled clinical study [CONSORT Compliant]. Medicine (Baltimore). 100, 
+e23641 . 
+Ho, C.S., Chee, C.Y., Ho, R.C., 2020. Mental Health Strategies to Combat the 
+Psychological Impact of COVID-19 Beyond Paranoia and Panic. Ann. Acad. Med. 
+Singap. 49, 155 – 160 . 
+Holmes, E.A., O ’ Connor, R.C., Perry, V.H., Tracey, I., Wessely, S., Arseneault, L., 
+Ballard, C., Christensen, H., Cohen Silver, R., Everall, I., Ford, T., John, A., Kabir, T., 
+King, K., Madan, I., Michie, S., Przybylski, A.K., Shafran, R., Sweeney, A., 
+Worthman, C.M., Yardley, L., Cowan, K., Cope, C., Hotopf, M., Bullmore, E., 2020. 
+Multidisciplinary research priorities for the COVID-19 pandemic: a call for action for 
+mental health science. Lancet Psychiatry 7, 547 – 560 . 
+Kessler, R.C., Angermeyer, M., Anthony, J.C., R, D.E.G., Demyttenaere, K., Gasquet, I., 
+G, D.E.G., Gluzman, S., Gureje, O., Haro, J.M., Kawakami, N., Karam, A., 
+Levinson, D., Medina Mora, M.E., Oakley Browne, M.A., Posada-Villa, J., Stein, D.J., 
+Adley Tsang, C.H., Aguilar-Gaxiola, S., Alonso, J., Lee, S., Heeringa, S., Pennell, B.E., 
+Berglund, P., Gruber, M.J., Petukhova, M., Chatterji, S., Ustün, T.B., 2007. Lifetime 
+prevalence and age-of-onset distributions of mental disorders in the World Health 
+Organization ’ s World Mental Health Survey Initiative. World Psychiatry 6, 168 – 176 . 
+Khadse, P.A., Gowda, G.S., Ganjekar, S., Desai, G., Murthy, P., 2020. Mental Health 
+Impact of COVID-19 on Police Personnel in India. Indian J. Psychol. Med. 42, 
+580 – 582 . 
+Li, Q., Miao, Y., Zeng, X., Tarimo, C.S., Wu, C., Wu, J., 2020. Prevalence and factors for 
+anxiety during the coronavirus disease 2019 (COVID-19) epidemic among the 
+teachers in China. J. Affect. Disord. 277, 153 – 158 . 
+L ¨owe, B., Decker, O., Müller, S., Br ¨ahler, E., Schellberg, D., Herzog, W., Herzberg, P.Y., 
+2008. Validation and standardization of the Generalized Anxiety Disorder Screener 
+(GAD-7) in the general population. Med. Care 46, 266 – 274 . 
+Lu, H., Stratton, C.W., Tang, Y.W., 2020. Outbreak of pneumonia of unknown etiology in 
+Wuhan, China: The mystery and the miracle. J. Med. Virol. 92, 401 – 402 . 
+Ma, Z., Zhao, J., Li, Y., Chen, D., Wang, T., Zhang, Z., Chen, Z., Yu, Q., Jiang, J., Fan, F., 
+Liu, X., 2020. Mental health problems and correlates among 746 217 college 
+students during the coronavirus disease 2019 outbreak in China. Epidemiol. 
+Psychiatr. Sci. 29 e181 .  
+Mattila, E., Peltokoski, J., Neva, M.H., Kaunonen, M., Helminen, M., Parkkila, A.K., 
+2021. COVID-19: anxiety among hospital staff and associated factors. Ann. Med. 53, 
+237 – 246 . 
+Membride, H., 2016. Mental health: early intervention and prevention in children and 
+young people. Br. J. Nurs. 25, 556 – 557, 552-554 .  
+Miloyan, B., Bulley, A., Bandeen-Roche, K., Eaton, W.W., Gonçalves-Bradley, D.C., 2016. 
+Anxiety disorders and all-cause mortality: systematic review and meta-analysis. Soc. 
+Psychiatry Psychiatr. Epidemiol. 51, 1467 – 1475 . 
+Morris, J.K., Cook, D.G., Shaper, A.G., 1994. Loss of employment and mortality. BMJ 
+308, 1135 – 1139 . 
+Mykletun, A., Bjerkeset, O., Overland, S., Prince, M., Dewey, M., Stewart, R., 2009. 
+Levels of anxiety and depression as predictors of mortality: the HUNT study. Br. J. 
+Psychiatry 195, 118 – 125 . 
+Nearchou, F., Flinn, C., Niland, R., Subramaniam, S.S., Hennessy, E., 2020. Exploring the 
+Impact of COVID-19 on Mental Health Outcomes in Children and Adolescents: A 
+Systematic Review. Int. J. Environ. Res. Public Health 17 . 
+Neil, A.L., Christensen, H., 2009. Efficacy and effectiveness of school-based prevention 
+and early intervention programs for anxiety. Clin. Psychol. Rev. 29, 208 – 215 . 
+Pan, K.Y., Kok, A.A.L., Eikelenboom, M., Horsfall, M., J ¨org, F., Luteijn, R.A., 
+Rhebergen, D., Oppen, P.V., Giltay, E.J., Penninx, B., 2020. The mental health 
+impact of the COVID-19 pandemic on people with and without depressive, anxiety, 
+or obsessive-compulsive disorders: a longitudinal study of three Dutch case-control 
+cohorts. Lancet Psychiatry . 
+Santab ´arbara, J., Lasheras, I., Lipnicki, D.M., Bueno-Notivol, J., Moreno, M.P., L ´opez- 
+Ant ´on, R., De la C ´amara, C., Lobo, A., Gracia-García, P., 2020. Prevalence of anxiety 
+in the COVID-19 pandemic: An updated meta-analysis of community-based studies. 
+Prog. Neuropsychopharmacol. Biol. Psychiatry, 110207 . 
+Spitzer, R.L., Kroenke, K., Williams, J.B., L ¨owe, B., 2006. A brief measure for assessing 
+generalized anxiety disorder: the GAD-7. Arch. Intern. Med. 166, 1092 – 1097 . 
+Stepowicz, A., Wencka, B., Bie ´nkiewicz, J., Horzelski, W., Grzesiak, M., 2020. Stress and 
+Anxiety Levels in Pregnant and Post-Partum Women during the COVID-19 Pandemic. 
+Int. J. Environ. Res. Public Health 17 . 
+Wang, C., Horby, P.W., Hayden, F.G., Gao, G.F., 2020a. A novel coronavirus outbreak of 
+global health concern. Lancet 395, 470 – 473 . 
+Wang, C., Pan, R., Wan, X., Tan, Y., Xu, L., Ho, C.S., Ho, R.C., 2020b. Immediate 
+Psychological Responses and Associated Factors during the Initial Stage of the 2019 
+Coronavirus Disease (COVID-19) Epidemic among the General Population in China. 
+Int. J. Environ. Res. Public Health 17 . 
+Wang, Y.H., Li, J.Q., Shi, J.F., Que, J.Y., Liu, J.J., Lappin, J.M., Leung, J., Ravindran, A. 
+V., Chen, W.Q., Qiao, Y.L., Shi, J., Lu, L., Bao, Y.P., 2020c. Depression and anxiety in 
+relation to cancer incidence and mortality: a systematic review and meta-analysis of 
+cohort studies. Mol. Psychiatry 25, 1487 – 1499 . 
+Whiteford, H.A., Degenhardt, L., Rehm, J., Baxter, A.J., Ferrari, A.J., Erskine, H.E., 
+Charlson, F.J., Norman, R.E., Flaxman, A.D., Johns, N., Burstein, R., Murray, C.J., 
+Vos, T., 2010. Global burden of disease attributable to mental and substance use 
+disorders: findings from the Global Burden of Disease Study. Lancet 382, 1575 – 1586 . 
+Wittchen, H.U., Jacobi, F., Rehm, J., Gustavsson, A., Svensson, M., J ¨onsson, B., 
+Olesen, J., Allgulander, C., Alonso, J., Faravelli, C., Fratiglioni, L., Jennum, P., 
+Lieb, R., Maercker, A., van Os, J., Preisig, M., Salvador-Carulla, L., Simon, R., 
+Steinhausen, H.C., 2010. The size and burden of mental disorders and other 
+disorders of the brain in Europe. Eur. Neuropsychopharmacol. 21, 655 – 679 . 
+Q. Xu et al.                                                                                                                                                                                                                                       

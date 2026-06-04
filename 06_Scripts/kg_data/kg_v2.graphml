@@ -1,0 +1,2609 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d9" for="edge" attr.name="rel" attr.type="string"/>
+<key id="d8" for="node" attr.name="context" attr.type="string"/>
+<key id="d7" for="node" attr.name="paper" attr.type="string"/>
+<key id="d6" for="node" attr.name="value" attr.type="double"/>
+<key id="d5" for="node" attr.name="es_type" attr.type="string"/>
+<key id="d4" for="node" attr.name="name" attr.type="string"/>
+<key id="d3" for="node" attr.name="value" attr.type="long"/>
+<key id="d2" for="node" attr.name="title" attr.type="string"/>
+<key id="d1" for="node" attr.name="descriptor" attr.type="string"/>
+<key id="d0" for="node" attr.name="type" attr.type="string"/>
+<graph edgedefault="directed"><node id="QT001">
+  <data key="d0">Paper</data>
+  <data key="d1">Jenkins_2023_USA_SanDiego</data>
+  <data key="d2"></data>
+</node>
+<node id="Year::2023">
+  <data key="d0">Year</data>
+  <data key="d3">2023</data>
+</node>
+<node id="Country::Vietnam">
+  <data key="d0">Country</data>
+  <data key="d4">Vietnam</data>
+</node>
+<node id="Outcome::Generalized Anxiety (GAD)">
+  <data key="d0">Outcome</data>
+  <data key="d4">Generalized Anxiety (GAD)</data>
+</node>
+<node id="Outcome::Anxiety">
+  <data key="d0">Outcome</data>
+  <data key="d4">Anxiety</data>
+</node>
+<node id="Outcome::Depression">
+  <data key="d0">Outcome</data>
+  <data key="d4">Depression</data>
+</node>
+<node id="Scale::PHQ-9">
+  <data key="d0">Scale</data>
+  <data key="d4">PHQ-9</data>
+</node>
+<node id="VN001">
+  <data key="d0">Paper</data>
+  <data key="d1">Hoa_2024_Frontiers_HaNoi</data>
+  <data key="d2"></data>
+</node>
+<node id="Year::2024">
+  <data key="d0">Year</data>
+  <data key="d3">2024</data>
+</node>
+<node id="Country::UK">
+  <data key="d0">Country</data>
+  <data key="d4">UK</data>
+</node>
+<node id="Scale::GAD-7">
+  <data key="d0">Scale</data>
+  <data key="d4">GAD-7</data>
+</node>
+<node id="ES::VN001::1">
+  <data key="d0">EffectSize</data>
+  <data key="d5">OR</data>
+  <data key="d6">11.6</data>
+  <data key="d7">VN001</data>
+  <data key="d8">ID, phân biệt đối xử) và Wen 2020 (áp lực học tập OR=11,6). Kết luận Lo âu 40,6% ở 3.910 HS THPT Hà Nội sau</data>
+</node>
+<node id="QT012">
+  <data key="d0">Paper</data>
+  <data key="d1">GBD_ASEAN_2025_Lancet</data>
+  <data key="d2"></data>
+</node>
+<node id="Year::2025">
+  <data key="d0">Year</data>
+  <data key="d3">2025</data>
+</node>
+<node id="Country::Southeast Asia (scope)">
+  <data key="d0">Country</data>
+  <data key="d4">Southeast Asia (scope)</data>
+</node>
+<node id="Country::ASEAN (scope)">
+  <data key="d0">Country</data>
+  <data key="d4">ASEAN (scope)</data>
+</node>
+<node id="QT013">
+  <data key="d0">Paper</data>
+  <data key="d1">Zhameden_2025_PLOSONE_LMIC</data>
+  <data key="d2"></data>
+</node>
+<node id="QT014">
+  <data key="d0">Paper</data>
+  <data key="d1">Anderson_2025_Wiley_Narrative</data>
+  <data key="d2"></data>
+</node>
+<node id="Method::CBT">
+  <data key="d0">Method</data>
+  <data key="d4">CBT</data>
+</node>
+<node id="Method::SSRI">
+  <data key="d0">Method</data>
+  <data key="d4">SSRI</data>
+</node>
+<node id="Outcome::Stress">
+  <data key="d0">Outcome</data>
+  <data key="d4">Stress</data>
+</node>
+<node id="VN002">
+  <data key="d0">Paper</data>
+  <data key="d1">VNAMHS_2022_National</data>
+  <data key="d2"></data>
+</node>
+<node id="Year::2022">
+  <data key="d0">Year</data>
+  <data key="d3">2022</data>
+</node>
+<node id="Scale::DASS-21">
+  <data key="d0">Scale</data>
+  <data key="d4">DASS-21</data>
+</node>
+<node id="QT015">
+  <data key="d0">Paper</data>
+  <data key="d1">Zhu_2025_BMC_China</data>
+  <data key="d2"></data>
+</node>
+<node id="Country::China">
+  <data key="d0">Country</data>
+  <data key="d4">China</data>
+</node>
+<node id="ES::QT015::1">
+  <data key="d0">EffectSize</data>
+  <data key="d5">AOR</data>
+  <data key="d6">13.71</data>
+  <data key="d7">QT015</data>
+  <data key="d8">ở Trung Quốc. PHÁT HIỆN THEN CHỐT: Ngủ &lt; 5 giờ có AOR = 13,71 cho "trầm cảm chắc chắn" — yếu tố nguy cơ mạnh nh</data>
+</node>
+<node id="ES::QT015::2">
+  <data key="d0">EffectSize</data>
+  <data key="d5">AOR</data>
+  <data key="d6">13.71</data>
+  <data key="d7">QT015</data>
+  <data key="d8">giai đoạn COVID. BMC Public Health Q1. Phát hiện AOR=13,71 cho giấc ngủ &lt; 5h là CON SỐ ĐÁNG NHỚ — dễ ứng dụn</data>
+</node>
+<node id="ES::QT015::3">
+  <data key="d0">EffectSize</data>
+  <data key="d5">AOR</data>
+  <data key="d6">13.71</data>
+  <data key="d7">QT015</data>
+  <data key="d8">chất lượng: ⭐⭐⭐⭐ Cao. BMC Q1, mẫu lớn, phát hiện AOR=13,71 giấc ngủ rất quan trọng cho thực hành. Yếu tố AOR</data>
+</node>
+<node id="QT016">
+  <data key="d0">Paper</data>
+  <data key="d1">Mudunna_2025_LancetSEA_SouthAsia</data>
+  <data key="d2"></data>
+</node>
+<node id="QT017">
+  <data key="d0">Paper</data>
+  <data key="d1">Puyat_2025_Filipino_Youth</data>
+  <data key="d2"></data>
+</node>
+<node id="SampleSize::19178">
+  <data key="d0">SampleSize</data>
+  <data key="d3">19178</data>
+</node>
+<node id="Country::Philippines">
+  <data key="d0">Country</data>
+  <data key="d4">Philippines</data>
+</node>
+<node id="Scale::CES-D">
+  <data key="d0">Scale</data>
+  <data key="d4">CES-D</data>
+</node>
+<node id="VN003">
+  <data key="d0">Paper</data>
+  <data key="d1">Pham_2024_Hue_SocialSupport</data>
+  <data key="d2"></data>
+</node>
+<node id="Country::Australia">
+  <data key="d0">Country</data>
+  <data key="d4">Australia</data>
+</node>
+<node id="ES::VN003::1">
+  <data key="d0">EffectSize</data>
+  <data key="d5">OR</data>
+  <data key="d6">0.3</data>
+  <data key="d7">VN003</data>
+  <data key="d8">022: nuôi dạy tích cực giảm 70% nguy cơ trầm cảm (OR = 0,30) và 68% lo âu (OR = 0,32). Cả hai đều nhấn mạnh y</data>
+</node>
+<node id="ES::VN003::2">
+  <data key="d0">EffectSize</data>
+  <data key="d5">OR</data>
+  <data key="d6">0.32</data>
+  <data key="d7">VN003</data>
+  <data key="d8">ảm 70% nguy cơ trầm cảm (OR = 0,30) và 68% lo âu (OR = 0,32). Cả hai đều nhấn mạnh yếu tố gia đình/chăm sóc c</data>
+</node>
+<node id="QT002">
+  <data key="d0">Paper</data>
+  <data key="d1">Saikia_2023_India_Assam</data>
+  <data key="d2"></data>
+</node>
+<node id="QT008">
+  <data key="d0">Paper</data>
+  <data key="d1">Wen_2020_China_Rural_LPA</data>
+  <data key="d2"></data>
+</node>
+<node id="Year::2020">
+  <data key="d0">Year</data>
+  <data key="d3">2020</data>
+</node>
+<node id="ES::QT008::1">
+  <data key="d0">EffectSize</data>
+  <data key="d5">OR</data>
+  <data key="d6">0.562</data>
+  <data key="d7">QT008</data>
+  <data key="d8">có dịch vụ SKTT đầy đủ, nguy cơ lo âu nặng giảm (OR = 0,562), gợi ý can thiệp hiệu quả dựa trên trường học. K</data>
+</node>
+<node id="ES::QT008::2">
+  <data key="d0">EffectSize</data>
+  <data key="d5">OR</data>
+  <data key="d6">11.6</data>
+  <data key="d7">QT008</data>
+  <data key="d8">, với áp lực học tập là yếu tố nguy cơ mạnh nhất (OR = 11,6). Hỗ trợ SKTT tại trường giảm nguy cơ lo âu nặng</data>
+</node>
+<node id="ES::QT008::3">
+  <data key="d0">EffectSize</data>
+  <data key="d5">OR</data>
+  <data key="d6">0.562</data>
+  <data key="d7">QT008</data>
+  <data key="d8">. Hỗ trợ SKTT tại trường giảm nguy cơ lo âu nặng (OR = 0,562). Nữ sinh có nguy cơ cao gấp gần 4 lần nam sinh.</data>
+</node>
+<node id="QT010">
+  <data key="d0">Paper</data>
+  <data key="d1">Xu_2021_China_LargestEpi</data>
+  <data key="d2"></data>
+</node>
+<node id="Year::2021">
+  <data key="d0">Year</data>
+  <data key="d3">2021</data>
+</node>
+<node id="ES::QT010::1">
+  <data key="d0">EffectSize</data>
+  <data key="d5">OR</data>
+  <data key="d6">1.3</data>
+  <data key="d7">QT010</data>
+  <data key="d8">Khoảng cách nông thôn-thành thị (11,33% vs 8,77%, OR = 1,30) phản ánh bất bình đẳng trong tiếp cận dịch vụ SK</data>
+</node>
+<node id="VN014">
+  <data key="d0">Paper</data>
+  <data key="d1">HoangTrungHoc_2025_VN_COVID</data>
+  <data key="d2"></data>
+</node>
+<node id="Method::Physical Exercise">
+  <data key="d0">Method</data>
+  <data key="d4">Physical Exercise</data>
+</node>
+<node id="ES::VN014::1">
+  <data key="d0">EffectSize</data>
+  <data key="d5">OR</data>
+  <data key="d6">0.3</data>
+  <data key="d7">VN014</data>
+  <data key="d8">Trung Quốc: nuôi dạy tích cực giảm 70% trầm cảm (OR = 0,30). *Sử dụng thiết bị điện tử.* Thời gian dùng máy</data>
+</node>
+<node id="ES::VN014::2">
+  <data key="d0">EffectSize</data>
+  <data key="d5">OR</data>
+  <data key="d6">5.0</data>
+  <data key="d7">VN014</data>
+  <data key="d8">cộng sự (2023) tại Trung Quốc (rối loạn chơi game OR = 5,00) và Nature Human Behaviour (2025): VTN có rối loạ</data>
+</node>
+<node id="ES::VN014::3">
+  <data key="d0">EffectSize</data>
+  <data key="d5">AOR</data>
+  <data key="d6">13.71</data>
+  <data key="d7">VN014</data>
+  <data key="d8">ảo vệ, phù hợp với Zhu và cộng sự (2025): ngủ &lt;5h AOR = 13,71 cho trầm cảm, hoạt động ngoài trời 2–3h AOR = 0,5</data>
+</node>
+<node id="ES::VN014::4">
+  <data key="d0">EffectSize</data>
+  <data key="d5">AOR</data>
+  <data key="d6">0.557</data>
+  <data key="d7">VN014</data>
+  <data key="d8">R = 13,71 cho trầm cảm, hoạt động ngoài trời 2–3h AOR = 0,557 bảo vệ. Kết luận Dữ liệu của chúng tôi, cho thấy</data>
+</node>
+<node id="VN015">
+  <data key="d0">Paper</data>
+  <data key="d1">NgoAnhVinh_2024_LangSon_DTTS</data>
+  <data key="d2"></data>
+</node>
+<node id="Country::USA">
+  <data key="d0">Country</data>
+  <data key="d4">USA</data>
+</node>
+<node id="ES::VN015::1">
+  <data key="d0">EffectSize</data>
+  <data key="d5">OR</data>
+  <data key="d6">1.29</data>
+  <data key="d7">VN015</data>
+  <data key="d8">g phân tích giới tính chi tiết cho lo âu — chỉ có OR = 1,29 cho căng thẳng ở nữ, không đạt ý nghĩa (P &gt; 0,05)</data>
+</node>
+<node id="ES::VN015::2">
+  <data key="d0">EffectSize</data>
+  <data key="d5">OR</data>
+  <data key="d6">6.84</data>
+  <data key="d7">VN015</data>
+  <data key="d8">Bạn bè kém (Poor) tăng nguy cơ trầm cảm cực mạnh: OR = 6,84 (KTC 2,03–23,02). Trong bối cảnh trường nội trú —</data>
+</node>
+<node id="ES::VN015::3">
+  <data key="d0">EffectSize</data>
+  <data key="d5">OR</data>
+  <data key="d6">0.43</data>
+  <data key="d7">VN015</data>
+  <data key="d8">ụng internet hàng ngày (5h) bảo vệ hơn cuối tuần (OR = 0,43) — có thể do sử dụng đều đặn giúp kết nối xã hội</data>
+</node>
+<node id="ES::VN015::4">
+  <data key="d0">EffectSize</data>
+  <data key="d5">OR</data>
+  <data key="d6">6.84</data>
+  <data key="d7">VN015</data>
+  <data key="d8">= 0,16 — Dương, có ý nghĩa Bạn bè kém → trầm cảm OR = 6,84*** 2,03–23,02 RẤT MẠNH Bạn bè kém → lo âu Coef. =</data>
+</node>
+<node id="ES::VN015::5">
+  <data key="d0">EffectSize</data>
+  <data key="d5">OR</data>
+  <data key="d6">0.51</data>
+  <data key="d7">VN015</data>
+  <data key="d8">–1,46 — Fair/Poor đều tăng Sống ≥10 người → lo âu OR = 0,51*** 0,33–0,77 Bảo vệ Hoạt động thể chất → lo âu OR</data>
+</node>
+<node id="ES::VN015::6">
+  <data key="d0">EffectSize</data>
+  <data key="d5">OR</data>
+  <data key="d6">0.72</data>
+  <data key="d7">VN015</data>
+  <data key="d8">51*** 0,33–0,77 Bảo vệ Hoạt động thể chất → lo âu OR = 0,72** 0,51–1,00 Bảo vệ Internet 5h/ngày → lo âu OR =</data>
+</node>
+<node id="ES::VN015::7">
+  <data key="d0">EffectSize</data>
+  <data key="d5">OR</data>
+  <data key="d6">0.43</data>
+  <data key="d7">VN015</data>
+  <data key="d8">0,72** 0,51–1,00 Bảo vệ Internet 5h/ngày → lo âu OR = 0,43** 0,21–0,86 Bảo vệ (vs cuối tuần) TT từ bạn bè →</data>
+</node>
+<node id="ES::VN015::8">
+  <data key="d0">EffectSize</data>
+  <data key="d5">OR</data>
+  <data key="d6">0.57</data>
+  <data key="d7">VN015</data>
+  <data key="d8">1–0,86 Bảo vệ (vs cuối tuần) TT từ bạn bè → lo âu OR = 0,57* — Bảo vệ</data>
+</node>
+<node id="VN016">
+  <data key="d0">Paper</data>
+  <data key="d1">BaoQuyen_2025_YHCD</data>
+  <data key="d2"></data>
+</node>
+<node id="Scale::DASS-Y">
+  <data key="d0">Scale</data>
+  <data key="d4">DASS-Y</data>
+</node>
+<node id="VN017">
+  <data key="d0">Paper</data>
+  <data key="d1">NguyenDanhLam_2022_YHVN</data>
+  <data key="d2"></data>
+</node>
+<node id="VN018">
+  <data key="d0">Paper</data>
+  <data key="d1">AnGiang_2025_YHVN</data>
+  <data key="d2"></data>
+</node>
+<node id="VN019">
+  <data key="d0">Paper</data>
+  <data key="d1">HoThiTrucQuynh_2025_Hue_TLH</data>
+  <data key="d2"></data>
+</node>
+<node id="Scale::LOT-R">
+  <data key="d0">Scale</data>
+  <data key="d4">LOT-R</data>
+</node>
+<node id="VN020">
+  <data key="d0">Paper</data>
+  <data key="d1">TranHoVinhLoc_2024_TPHCM_DASS-Y</data>
+  <data key="d2"></data>
+</node>
+<node id="Scale::ESSA">
+  <data key="d0">Scale</data>
+  <data key="d4">ESSA</data>
+</node>
+<node id="ES::VN020::1">
+  <data key="d0">EffectSize</data>
+  <data key="d5">OR</data>
+  <data key="d6">11.6</data>
+  <data key="d7">VN020</data>
+  <data key="d8">ăng nguy cơ cả 3 chỉ số. Phù hợp Wen 2020 (áp lực OR = 11,6), Norway 2025 (bất mãn trường giải thích chính).</data>
+</node>
+<node id="QT021">
+  <data key="d0">Paper</data>
+  <data key="d1">Norway_Brunborg_2025_SocSciMed</data>
+  <data key="d2"></data>
+</node>
+<node id="Country::Norway">
+  <data key="d0">Country</data>
+  <data key="d4">Norway</data>
+</node>
+<node id="ES::QT021::1">
+  <data key="d0">EffectSize</data>
+  <data key="d5">g</data>
+  <data key="d6">0.46</data>
+  <data key="d7">QT021</data>
+  <data key="d8">2025 (Fassi et al.: VTN SKTT dùng MXH nhiều hơn, g = 0,46). Tuy nhiên, bằng chứng vẫn lẫn lộn — Li 2025 (BJ</data>
+</node>
+<node id="QT022">
+  <data key="d0">Paper</data>
+  <data key="d1">ScreenTime_Li_2025_BJCP</data>
+  <data key="d2"></data>
+</node>
+<node id="ES::QT022::1">
+  <data key="d0">EffectSize</data>
+  <data key="d5">OR</data>
+  <data key="d6">5.0</data>
+  <data key="d7">QT022</data>
+  <data key="d8">liên bài Thiết kế dọc bổ sung cho Chen 2023 (game OR = 5,00 — cắt ngang), Hoàng Trung Học 2025 (điện tử Beta</data>
+</node>
+<node id="QT023">
+  <data key="d0">Paper</data>
+  <data key="d1">JAACAP_USA_Mojtabai_Trends_2024</data>
+  <data key="d2"></data>
+</node>
+<node id="ES::QT023::1">
+  <data key="d0">EffectSize</data>
+  <data key="d5">AOR</data>
+  <data key="d6">2.17</data>
+  <data key="d7">QT023</data>
+  <data key="d8">quả chính Đối chiếu liên bài Lo âu tăng gấp đôi (AOR = 2,17) — xu hướng nhất quán toàn cầu: Norway 2025 (13 n</data>
+</node>
+<node id="ES::QT023::2">
+  <data key="d0">EffectSize</data>
+  <data key="d5">AOR</data>
+  <data key="d6">2.17</data>
+  <data key="d7">QT023</data>
+  <data key="d8">uả nghiên cứu *Lo âu — rối loạn tăng nhanh nhất.* AOR = 2,17 vượt trội trầm cảm (1,20) và sang chấn (1,31). Lo</data>
+</node>
+<node id="ES::QT023::3">
+  <data key="d0">EffectSize</data>
+  <data key="d5">AOR</data>
+  <data key="d6">2.93</data>
+  <data key="d7">QT023</data>
+  <data key="d8">phương Tây. *Lo âu tăng mạnh nhất ở 15–17 tuổi* (AOR = 2,93 — gần gấp BA). *Lưỡng cực giảm 8 lần* — phản ánh</data>
+</node>
+<node id="ES::QT023::4">
+  <data key="d0">EffectSize</data>
+  <data key="d5">AOR</data>
+  <data key="d6">2.17</data>
+  <data key="d7">QT023</data>
+  <data key="d8">u hồ sơ lâm sàng Mỹ, cho thấy lo âu tăng gấp đôi (AOR = 2,17) trong 8 năm — xu hướng mạnh nhất, đặc biệt ở 15–</data>
+</node>
+<node id="QT024">
+  <data key="d0">Paper</data>
+  <data key="d1">WHO_Europe_2025_LancetRegional</data>
+  <data key="d2"></data>
+</node>
+<node id="ES::QT024::1">
+  <data key="d0">EffectSize</data>
+  <data key="d5">OR</data>
+  <data key="d6">0.562</data>
+  <data key="d7">QT024</data>
+  <data key="d8">T vào giáo dục* — phù hợp Wen 2020 (hỗ trợ trường OR = 0,562) và Zhameden 2025 (can thiệp trường LMIC). *Lo âu</data>
+</node>
+<node id="ES::QT024::2">
+  <data key="d0">EffectSize</data>
+  <data key="d5">OR</data>
+  <data key="d6">0.562</data>
+  <data key="d7">QT024</data>
+  <data key="d8">học SKTT vào giáo dục MindMatters, SEAL Wen 2020: OR = 0,562 bảo vệ MXH Yếu tố nguy cơ Kiểm soát nội dung Norw</data>
+</node>
+<node id="ES::QT024::3">
+  <data key="d0">EffectSize</data>
+  <data key="d5">OR</data>
+  <data key="d6">0.562</data>
+  <data key="d7">QT024</data>
+  <data key="d8">N Trường học Tích hợp SKTT vào giáo dục Wen 2020: OR = 0,562 Dịch vụ Phát triển cộng đồng VN: 8,4% tiếp cận MX</data>
+</node>
+<node id="QT025">
+  <data key="d0">Paper</data>
+  <data key="d1">EpiPsychSci_Crisp_Australia_2025</data>
+  <data key="d2"></data>
+</node>
+<node id="SampleSize::3721">
+  <data key="d0">SampleSize</data>
+  <data key="d3">3721</data>
+</node>
+<node id="Scale::MHC-SF">
+  <data key="d0">Scale</data>
+  <data key="d4">MHC-SF</data>
+</node>
+<node id="QT026">
+  <data key="d0">Paper</data>
+  <data key="d1">UK_NHS_Parliament_2025</data>
+  <data key="d2"></data>
+</node>
+<node id="ES::QT026::1">
+  <data key="d0">EffectSize</data>
+  <data key="d5">AOR</data>
+  <data key="d6">2.17</data>
+  <data key="d7">QT026</data>
+  <data key="d8">24 Bài này Hoa Kỳ (JAACAP) 2013–2021 Lo âu +100% (AOR=2,17) QT23 Hoa Kỳ (NSCH) 2016–2023 Lo âu +61% Bài 04 N</data>
+</node>
+<node id="QT027">
+  <data key="d0">Paper</data>
+  <data key="d1">NatureHumanBehav_Fassi_SocialMedia_2025</data>
+  <data key="d2"></data>
+</node>
+<node id="SampleSize::3340">
+  <data key="d0">SampleSize</data>
+  <data key="d3">3340</data>
+</node>
+<node id="ES::QT027::1">
+  <data key="d0">EffectSize</data>
+  <data key="d5">OR</data>
+  <data key="d6">5.0</data>
+  <data key="d7">QT027</data>
+  <data key="d8">n time cải thiện SKTT (RCT); (4) Chen 2023 — game OR = 5,00; (5) Norway 2025 — MXH giải thích xu hướng tăng;</data>
+</node>
+<node id="ES::QT027::2">
+  <data key="d0">EffectSize</data>
+  <data key="d5">OR</data>
+  <data key="d6">5.0</data>
+  <data key="d7">QT027</data>
+  <data key="d8">n 2023 (bài 07) Cắt ngang, n=63.205 Rối loạn game OR = 5,00 4,4 Norway 2025 (QT21) Xu hướng 13 năm MXH giải t</data>
+</node>
+<node id="QT028">
+  <data key="d0">Paper</data>
+  <data key="d1">AJP_Zugman_PediatricAnxiety_2024</data>
+  <data key="d2"></data>
+</node>
+<node id="Method::iCBT">
+  <data key="d0">Method</data>
+  <data key="d4">iCBT</data>
+</node>
+<node id="Method::gCBT">
+  <data key="d0">Method</data>
+  <data key="d4">gCBT</data>
+</node>
+<node id="ES::QT028::1">
+  <data key="d0">EffectSize</data>
+  <data key="d5">OR</data>
+  <data key="d6">0.562</data>
+  <data key="d7">QT028</data>
+  <data key="d8">nhất Ít LMIC Wen 2020 Quan sát Hỗ trợ SKTT trường OR=0,562 Cắt ngang Hoàng Trung Học VN Hồi quy Gia đình Bet</data>
+</node>
+<node id="QT029">
+  <data key="d0">Paper</data>
+  <data key="d1">BMC_Li_CBT_NMA_2025</data>
+  <data key="d2"></data>
+</node>
+<node id="Method::Relaxation">
+  <data key="d0">Method</data>
+  <data key="d4">Relaxation</data>
+</node>
+<node id="Outcome::Social Anxiety (SAD)">
+  <data key="d0">Outcome</data>
+  <data key="d4">Social Anxiety (SAD)</data>
+</node>
+<node id="ES::QT029::1">
+  <data key="d0">EffectSize</data>
+  <data key="d5">OR</data>
+  <data key="d6">0.562</data>
+  <data key="d7">QT029</data>
+  <data key="d8">, 0 VN Wen 2020 Quan sát nông thôn TQ SKTT trường OR = 0,562 Không can thiệp</data>
+</node>
+<node id="QT030">
+  <data key="d0">Paper</data>
+  <data key="d1">GBD_Trends_10-24y_2025</data>
+  <data key="d2"></data>
+</node>
+<node id="QT031">
+  <data key="d0">Paper</data>
+  <data key="d1">Islam_59Countries_2025</data>
+  <data key="d2"></data>
+</node>
+<node id="ES::QT031::1">
+  <data key="d0">EffectSize</data>
+  <data key="d5">OR</data>
+  <data key="d6">1.51</data>
+  <data key="d7">QT031</data>
+  <data key="d8">ất quán liên quốc gia, phù hợp Chen 2023 (bắt nạt OR = 1,51–1,97) và Ngo Anh Vinh 2024 (bạn bè kém OR = 6,84)</data>
+</node>
+<node id="ES::QT031::2">
+  <data key="d0">EffectSize</data>
+  <data key="d5">OR</data>
+  <data key="d6">6.84</data>
+  <data key="d7">QT031</data>
+  <data key="d8">OR = 1,51–1,97) và Ngo Anh Vinh 2024 (bạn bè kém OR = 6,84). *Hỗ trợ cha mẹ bảo vệ.* Phù hợp Pham 2024 VN (c</data>
+</node>
+<node id="ES::QT031::3">
+  <data key="d0">EffectSize</data>
+  <data key="d5">OR</data>
+  <data key="d6">0.3</data>
+  <data key="d7">QT031</data>
+  <data key="d8">xúc beta = –0,40) và Qiu 2022 (nuôi dạy tích cực OR = 0,30). Kết luận Dữ liệu GSHS từ 59 quốc gia, cho thấy</data>
+</node>
+<node id="QT032">
+  <data key="d0">Paper</data>
+  <data key="d1">Ireland_Fitzgerald_MyWorld_2024</data>
+  <data key="d2"></data>
+</node>
+<node id="Country::Ireland">
+  <data key="d0">Country</data>
+  <data key="d4">Ireland</data>
+</node>
+<node id="ES::QT032::1">
+  <data key="d0">EffectSize</data>
+  <data key="d5">AOR</data>
+  <data key="d6">2.17</data>
+  <data key="d7">QT032</data>
+  <data key="d8">ecomposition Hoa Kỳ (QT23) 2013–2021 Lo âu +100% (AOR=2,17) Hồ sơ lâm sàng Hàn Quốc (QT34) 2006–2022 Giảm tr</data>
+</node>
+<node id="QT033">
+  <data key="d0">Paper</data>
+  <data key="d1">JAMA_SchmidtPersson_ScreenMedia_2024</data>
+  <data key="d2"></data>
+</node>
+<node id="Journal::JAMA Network Open">
+  <data key="d0">Journal</data>
+  <data key="d4">JAMA Network Open</data>
+</node>
+<node id="ES::QT033::1">
+  <data key="d0">EffectSize</data>
+  <data key="d5">OR</data>
+  <data key="d6">5.0</data>
+  <data key="d7">QT033</data>
+  <data key="d8">ọc 2025 (điện tử Beta = 0,176) và Chen 2023 (game OR = 5,00), cung cấp cơ sở mạnh cho can thiệp quản lý thời</data>
+</node>
+<node id="ES::QT033::2">
+  <data key="d0">EffectSize</data>
+  <data key="d5">OR</data>
+  <data key="d6">5.0</data>
+  <data key="d7">QT033</data>
+  <data key="d8">bình Chen 2023 (bài 07) Cắt ngang, n=63.205 Game OR = 5,00 Trung bình Hoàng Trung Học VN Cắt ngang, n=8.473</data>
+</node>
+<node id="QT034">
+  <data key="d0">Paper</data>
+  <data key="d1">Korea_Cho_MH_Trends_NatSciRep_2024</data>
+  <data key="d2"></data>
+</node>
+<node id="Country::Korea">
+  <data key="d0">Country</data>
+  <data key="d4">Korea</data>
+</node>
+<node id="QT035">
+  <data key="d0">Paper</data>
+  <data key="d1">Jefferies_SocialAnxiety_7Countries_2020</data>
+  <data key="d2"></data>
+</node>
+<node id="Country::Thailand">
+  <data key="d0">Country</data>
+  <data key="d4">Thailand</data>
+</node>
+<node id="Country::Indonesia">
+  <data key="d0">Country</data>
+  <data key="d4">Indonesia</data>
+</node>
+<node id="Country::Canada">
+  <data key="d0">Country</data>
+  <data key="d4">Canada</data>
+</node>
+<node id="Scale::SIAS">
+  <data key="d0">Scale</data>
+  <data key="d4">SIAS</data>
+</node>
+<node id="VN021">
+  <data key="d0">Paper</data>
+  <data key="d1">TranThaoVi_2024_JRuralMed_Hue</data>
+  <data key="d2"></data>
+</node>
+<node id="ES::VN021::1">
+  <data key="d0">EffectSize</data>
+  <data key="d5">OR</data>
+  <data key="d6">11.58</data>
+  <data key="d7">VN021</data>
+  <data key="d8">ọc thêm β = 4,73 — phù hợp Wen 2020 (QT08, áp lực OR = 11,58 TQ nông thôn), Norway 2025 (QT21, bất mãn trường</data>
+</node>
+<node id="ES::VN021::2">
+  <data key="d0">EffectSize</data>
+  <data key="d5">AOR</data>
+  <data key="d6">1.51</data>
+  <data key="d7">VN021</data>
+  <data key="d8">iải thích chính). Nữ &gt; nam — phù hợp 59 Countries AOR = 1,51 (Islam 2025, QT31), Ireland 2024 (QT32, nữ tăng n</data>
+</node>
+<node id="ES::VN021::3">
+  <data key="d0">EffectSize</data>
+  <data key="d5">beta</data>
+  <data key="d6">4.73</data>
+  <data key="d7">VN021</data>
+  <data key="d8">ẳng (hồi quy đa biến) Đối chiếu liên bài Học thêm β = 4,73 — phù hợp Wen 2020 (QT08, áp lực OR = 11,58 TQ nô</data>
+</node>
+<node id="ES::VN021::4">
+  <data key="d0">EffectSize</data>
+  <data key="d5">beta</data>
+  <data key="d6">4.73</data>
+  <data key="d7">VN021</data>
+  <data key="d8">O stress 3 năm sau. *Học thêm = yếu tố mạnh nhất (β = 4,73).* 92,1% HS học thêm — tỷ lệ cực cao. Cha mẹ cho</data>
+</node>
+<node id="ES::VN021::5">
+  <data key="d0">EffectSize</data>
+  <data key="d5">beta</data>
+  <data key="d6">4.73</data>
+  <data key="d7">VN021</data>
+  <data key="d8">46,4) đến lớp 9 (M = 53,5, +15,3%), với học thêm (β = 4,73), cha học vấn cao (β = 3,20), và nhiều anh chị em</data>
+</node>
+<node id="ES::VN021::6">
+  <data key="d0">EffectSize</data>
+  <data key="d5">beta</data>
+  <data key="d6">3.2</data>
+  <data key="d7">VN021</data>
+  <data key="d8">15,3%), với học thêm (β = 4,73), cha học vấn cao (β = 3,20), và nhiều anh chị em (β = 2,24) là yếu tố dự báo</data>
+</node>
+<node id="ES::VN021::7">
+  <data key="d0">EffectSize</data>
+  <data key="d5">beta</data>
+  <data key="d6">2.24</data>
+  <data key="d7">VN021</data>
+  <data key="d8">cha học vấn cao (β = 3,20), và nhiều anh chị em (β = 2,24) là yếu tố dự báo mạnh nhất, gợi ý rằng giảm khối</data>
+</node>
+<node id="ES::VN021::8">
+  <data key="d0">EffectSize</data>
+  <data key="d5">SUCRA</data>
+  <data key="d6">0.51</data>
+  <data key="d7">VN021</data>
+  <data key="d8">học thêm + thể chất tại trường (BMC NMA QT29: PE SUCRA = 0,51). Đánh giá: ⭐⭐⭐⭐ Cao. NC dọc đầu tiên tại VN cho</data>
+</node>
+<node id="QT036">
+  <data key="d0">Paper</data>
+  <data key="d1">Moon_Korea_GAD_ML_2025</data>
+  <data key="d2"></data>
+</node>
+<node id="SampleSize::213820">
+  <data key="d0">SampleSize</data>
+  <data key="d3">213820</data>
+</node>
+<node id="ES::QT036::1">
+  <data key="d0">EffectSize</data>
+  <data key="d5">AOR</data>
+  <data key="d6">1.28</data>
+  <data key="d7">QT036</data>
+  <data key="d8">32, OGA bảo vệ), Islam 2025 (QT31, không bạn thân AOR=1,28). Giấc ngủ — phù hợp Zhu 2025 (QT05, &lt;5h AOR=13,7</data>
+</node>
+<node id="ES::QT036::2">
+  <data key="d0">EffectSize</data>
+  <data key="d5">AOR</data>
+  <data key="d6">13.71</data>
+  <data key="d7">QT036</data>
+  <data key="d8">AOR=1,28). Giấc ngủ — phù hợp Zhu 2025 (QT05, &lt;5h AOR=13,71). GAD-7 — phù hợp Hoa 2024 (VN01, 40,6% nhưng ≥5)</data>
+</node>
+<node id="ES::QT036::3">
+  <data key="d0">EffectSize</data>
+  <data key="d5">AOR</data>
+  <data key="d6">13.71</data>
+  <data key="d7">QT036</data>
+  <data key="d8">c ngủ phục hồi kém 0,10 5.081 0,02 Zhu 2025 QT05: AOR=13,71 5 Bạo lực 0,10 5.117 0,01 VN15: ACEs→lo âu Chỉ số</data>
+</node>
+<node id="VN022">
+  <data key="d0">Paper</data>
+  <data key="d1">UNICEF_VN_2022_SchoolFactors</data>
+  <data key="d2"></data>
+</node>
+<node id="ES::VN022::1">
+  <data key="d0">EffectSize</data>
+  <data key="d5">OR</data>
+  <data key="d6">11.58</data>
+  <data key="d7">VN022</data>
+  <data key="d8">à mọi thứ.” Phù hợp VN21 (beta=4,73) và Wen 2020 (OR=11,58). *Kỳ thị SKTT vẫn phổ biến.* Gia đình miễn cưỡng</data>
+</node>
+<node id="ES::VN022::2">
+  <data key="d0">EffectSize</data>
+  <data key="d5">OR</data>
+  <data key="d6">11.58</data>
+  <data key="d7">VN022</data>
+  <data key="d8">&gt;3h/tuần; 15% &gt;9h/tuần VN21: beta=4,73; Wen QT08: OR=11,58 Gắn kết trường Thấp → SKTT kém hơn Nữ ít gắn kết</data>
+</node>
+<node id="ES::VN022::3">
+  <data key="d0">EffectSize</data>
+  <data key="d5">AOR</data>
+  <data key="d6">1.68</data>
+  <data key="d7">VN022</data>
+  <data key="d8">u tố nguy cơ nghiêm trọng THCS &gt; THPT Islam QT31: AOR=1,68 Quan hệ thầy-trò HS không thoải mái tìm GV Rào cả</data>
+</node>
+<node id="ES::VN022::4">
+  <data key="d0">EffectSize</data>
+  <data key="d5">AOR</data>
+  <data key="d6">1.51</data>
+  <data key="d7">VN022</data>
+  <data key="d8">ảm xúc &gt; Nam; Nam hành vi &gt; SDQ-25 Islam QT31: nữ AOR=1,51 Lĩnh vực Khuyến nghị then chốt Liên bài Giáo dục</data>
+</node>
+<node id="VN023">
+  <data key="d0">Paper</data>
+  <data key="d1">NguyenLX_VN_COVID_Medicine_2023</data>
+  <data key="d2"></data>
+</node>
+<node id="VN024">
+  <data key="d0">Paper</data>
+  <data key="d1">NguyenThanhTruyen_VinhLong_YHVN_2024</data>
+  <data key="d2"></data>
+</node>
+<node id="QT037">
+  <data key="d0">Paper</data>
+  <data key="d1">Praptomojati_CA-CBT_SEA_AJP_2024</data>
+  <data key="d2"></data>
+</node>
+<node id="Method::CA-CBT">
+  <data key="d0">Method</data>
+  <data key="d4">CA-CBT</data>
+</node>
+<node id="QT038">
+  <data key="d0">Paper</data>
+  <data key="d1">DeSilva_SriLanka_RCT_2024</data>
+  <data key="d2"></data>
+</node>
+<node id="Country::Sri Lanka">
+  <data key="d0">Country</data>
+  <data key="d4">Sri Lanka</data>
+</node>
+<node id="QT039">
+  <data key="d0">Paper</data>
+  <data key="d1">Xian_NMA_SAD_JAD_2024</data>
+  <data key="d2"></data>
+</node>
+<node id="Method::IPT">
+  <data key="d0">Method</data>
+  <data key="d4">IPT</data>
+</node>
+<node id="ES::QT039::1">
+  <data key="d0">EffectSize</data>
+  <data key="d5">SUCRA</data>
+  <data key="d6">71.2</data>
+  <data key="d7">QT039</data>
+  <data key="d8">ghiên cứu iCBT (CBT qua internet) đứng HẠNG 1 với SUCRA = 71,2 % — bằng chứng mạnh nhất cho can thiệp SAD ở VTN.</data>
+</node>
+<node id="ES::QT039::2">
+  <data key="d0">EffectSize</data>
+  <data key="d5">SUCRA</data>
+  <data key="d6">68.4</data>
+  <data key="d7">QT039</data>
+  <data key="d8">thiệp SAD ở VTN. gCBT (CBT nhóm) đứng hạng 2 với SUCRA = 68,4 %. Hai phát hiện phụ quan trọng: (1) iCBT cho hiệ</data>
+</node>
+<node id="QT040">
+  <data key="d0">Paper</data>
+  <data key="d1">Walder_JMIR_DMHI_SAD_2025</data>
+  <data key="d2"></data>
+</node>
+<node id="Method::DMHI">
+  <data key="d0">Method</data>
+  <data key="d4">DMHI</data>
+</node>
+<node id="Method::VR Therapy">
+  <data key="d0">Method</data>
+  <data key="d4">VR Therapy</data>
+</node>
+<node id="ES::QT040::1">
+  <data key="d0">EffectSize</data>
+  <data key="d5">g</data>
+  <data key="d6">0.508</data>
+  <data key="d7">QT040</data>
+  <data key="d8">hiệu lực TRUNG BÌNH so với bất kỳ đối chứng nào (g = 0,508; KTC 95 %: 0,308–0,707). Hai phát hiện cốt lõi: (</data>
+</node>
+<node id="ES::QT040::2">
+  <data key="d0">EffectSize</data>
+  <data key="d5">g</data>
+  <data key="d6">0.878</data>
+  <data key="d7">QT040</data>
+  <data key="d8">HI thiết kế ĐẶC THÙ cho SAD có hiệu lực LỚN NHẤT (g = 0,878), gần gấp đôi DMHI tổng quát; (2) DMHI có HƯỚNG D</data>
+</node>
+<node id="ES::QT040::3">
+  <data key="d0">EffectSize</data>
+  <data key="d5">g</data>
+  <data key="d6">0.825</data>
+  <data key="d7">QT040</data>
+  <data key="d8">đôi DMHI tổng quát; (2) DMHI có HƯỚNG DẪN người (g = 0,825) hiệu lực gần gấp đôi DMHI không hướng dẫn (g ≈ 0</data>
+</node>
+<node id="VN025">
+  <data key="d0">Paper</data>
+  <data key="d1">PhamThiNgoc_HaiPhong_VinhBao_2024</data>
+  <data key="d2"></data>
+</node>
+<node id="QT041">
+  <data key="d0">Paper</data>
+  <data key="d1">Zheng_China_MXH_PRBM_2025</data>
+  <data key="d2"></data>
+</node>
+<node id="Scale::PSQI">
+  <data key="d0">Scale</data>
+  <data key="d4">PSQI</data>
+</node>
+<node id="ES::QT041::1">
+  <data key="d0">EffectSize</data>
+  <data key="d5">AOR</data>
+  <data key="d6">13.71</data>
+  <data key="d7">QT041</data>
+  <data key="d8">không trực tiếp. Phù hợp Zhu QT05 (giấc ngủ &lt; 5h AOR = 13,71). GAD-7 cùng công cụ với Hoa 2024 và A8 VN COVID.</data>
+</node>
+<node id="ES::QT041::2">
+  <data key="d0">EffectSize</data>
+  <data key="d5">beta</data>
+  <data key="d6">0.615</data>
+  <data key="d7">QT041</data>
+  <data key="d8">= 0,505, MXH r = 0,415. Hồi quy đa biến: giấc ngủ β = 0,615 (mạnh nhất), áp lực β = 0,223, MXH β = 0,153. PHÁ</data>
+</node>
+<node id="ES::QT041::3">
+  <data key="d0">EffectSize</data>
+  <data key="d5">beta</data>
+  <data key="d6">0.223</data>
+  <data key="d7">QT041</data>
+  <data key="d8">y đa biến: giấc ngủ β = 0,615 (mạnh nhất), áp lực β = 0,223, MXH β = 0,153. PHÁT HIỆN QUAN TRỌNG: self-effica</data>
+</node>
+<node id="ES::QT041::4">
+  <data key="d0">EffectSize</data>
+  <data key="d5">beta</data>
+  <data key="d6">0.153</data>
+  <data key="d7">QT041</data>
+  <data key="d8">ngủ β = 0,615 (mạnh nhất), áp lực β = 0,223, MXH β = 0,153. PHÁT HIỆN QUAN TRỌNG: self-efficacy là biến TRUN</data>
+</node>
+<node id="VN026">
+  <data key="d0">Paper</data>
+  <data key="d1">TranDucSi_LongAn_PNT_2025</data>
+  <data key="d2"></data>
+</node>
+<node id="QT042">
+  <data key="d0">Paper</data>
+  <data key="d1">BrownCarter_UK_School_JMH_2025</data>
+  <data key="d2"></data>
+</node>
+<node id="Method::Mindfulness">
+  <data key="d0">Method</data>
+  <data key="d4">Mindfulness</data>
+</node>
+<node id="QT043">
+  <data key="d0">Paper</data>
+  <data key="d1">Bress_JAMA_Maya_App_2024</data>
+  <data key="d2"></data>
+</node>
+<node id="Scale::HAM-A">
+  <data key="d0">Scale</data>
+  <data key="d4">HAM-A</data>
+</node>
+<node id="Scale::LSAS">
+  <data key="d0">Scale</data>
+  <data key="d4">LSAS</data>
+</node>
+<node id="Scale::ASI">
+  <data key="d0">Scale</data>
+  <data key="d4">ASI</data>
+</node>
+<node id="ES::QT043::1">
+  <data key="d0">EffectSize</data>
+  <data key="d5">Cohen_d</data>
+  <data key="d6">0.93</data>
+  <data key="d7">QT043</data>
+  <data key="d8">Trên các thang đo phụ: ASI (anxiety sensitivity) Cohen d = 0,93 (tuần 6); LSAS (lo âu xã hội) d = 1,07 (tuần 12).</data>
+</node>
+<node id="ES::QT043::2">
+  <data key="d0">EffectSize</data>
+  <data key="d5">Cohen_d</data>
+  <data key="d6">1.04</data>
+  <data key="d7">QT043</data>
+  <data key="d8">ợng cực cao. RCT đăng ký pre-registered. Hiệu lực Cohen d = 1,04 là RẤT LỚN cho can thiệp app — gần như tương đươn</data>
+</node>
+<node id="ES::QT043::3">
+  <data key="d0">EffectSize</data>
+  <data key="d5">Cohen_d</data>
+  <data key="d6">1.04</data>
+  <data key="d7">QT043</data>
+  <data key="d8">chất lượng: ⭐⭐⭐⭐⭐ Rất cao. RCT JAMA Q1, hiệu lực Cohen d = 1,04 cho mobile app CBT. Thời điểm Chênh lệch HAM-A KT</data>
+</node>
+<node id="ES::QT043::4">
+  <data key="d0">EffectSize</data>
+  <data key="d5">d</data>
+  <data key="d6">0.93</data>
+  <data key="d7">QT043</data>
+  <data key="d8">các thang đo phụ: ASI (anxiety sensitivity) Cohen d = 0,93 (tuần 6); LSAS (lo âu xã hội) d = 1,07 (tuần 12).</data>
+</node>
+<node id="ES::QT043::5">
+  <data key="d0">EffectSize</data>
+  <data key="d5">d</data>
+  <data key="d6">1.07</data>
+  <data key="d7">QT043</data>
+  <data key="d8">ity) Cohen d = 0,93 (tuần 6); LSAS (lo âu xã hội) d = 1,07 (tuần 12). Giả thuyết chính (gain-frame + social</data>
+</node>
+<node id="ES::QT043::6">
+  <data key="d0">EffectSize</data>
+  <data key="d5">d</data>
+  <data key="d6">1.04</data>
+  <data key="d7">QT043</data>
+  <data key="d8">c cao. RCT đăng ký pre-registered. Hiệu lực Cohen d = 1,04 là RẤT LỚN cho can thiệp app — gần như tương đươn</data>
+</node>
+<node id="ES::QT043::7">
+  <data key="d0">EffectSize</data>
+  <data key="d5">d</data>
+  <data key="d6">1.04</data>
+  <data key="d7">QT043</data>
+  <data key="d8">lượng: ⭐⭐⭐⭐⭐ Rất cao. RCT JAMA Q1, hiệu lực Cohen d = 1,04 cho mobile app CBT. Thời điểm Chênh lệch HAM-A KT</data>
+</node>
+<node id="QT044">
+  <data key="d0">Paper</data>
+  <data key="d1">Cai_Resilience_Frontiers_2025</data>
+  <data key="d2"></data>
+</node>
+<node id="Method::Resilience training">
+  <data key="d0">Method</data>
+  <data key="d4">Resilience training</data>
+</node>
+<node id="QT045">
+  <data key="d0">Paper</data>
+  <data key="d1">Sasaki_Japan_iCBT_JMIR_2024</data>
+  <data key="d2"></data>
+</node>
+<node id="SampleSize::38">
+  <data key="d0">SampleSize</data>
+  <data key="d3">38</data>
+</node>
+<node id="Country::Japan">
+  <data key="d0">Country</data>
+  <data key="d4">Japan</data>
+</node>
+<node id="QT046">
+  <data key="d0">Paper</data>
+  <data key="d1">Jagiello_AcademicStress_SR_2025</data>
+  <data key="d2"></data>
+</node>
+<node id="Method::Yoga">
+  <data key="d0">Method</data>
+  <data key="d4">Yoga</data>
+</node>
+<node id="ES::QT046::1">
+  <data key="d0">EffectSize</data>
+  <data key="d5">OR</data>
+  <data key="d6">11.58</data>
+  <data key="d7">QT046</data>
+  <data key="d8">1 Trần Thảo Vi (β = 4,73 cho học thêm), Wen QT08 (OR = 11,58 cho áp lực HT), Norway QT21, UNICEF VN22 (47 % HS</data>
+</node>
+<node id="ES::QT046::2">
+  <data key="d0">EffectSize</data>
+  <data key="d5">beta</data>
+  <data key="d6">4.73</data>
+  <data key="d7">QT046</data>
+  <data key="d8">châu Á — đã được xác nhận bởi VN21 Trần Thảo Vi (β = 4,73 cho học thêm), Wen QT08 (OR = 11,58 cho áp lực HT</data>
+</node>
+<node id="VN027">
+  <data key="d0">Paper</data>
+  <data key="d1">Dinh_SchoolFactors_VN_2021</data>
+  <data key="d2"></data>
+</node>
+<node id="QT047">
+  <data key="d0">Paper</data>
+  <data key="d1">Dong_PLOS_DASS_YaAn_2025</data>
+  <data key="d2"></data>
+</node>
+<node id="SampleSize::1844">
+  <data key="d0">SampleSize</data>
+  <data key="d3">1844</data>
+</node>
+<node id="QT048">
+  <data key="d0">Paper</data>
+  <data key="d1">Chen_COVID_Meta141_JAD_2025_ABSTRACT</data>
+  <data key="d2"></data>
+</node>
+<node id="Method::ACT">
+  <data key="d0">Method</data>
+  <data key="d4">ACT</data>
+</node>
+<node id="QT049">
+  <data key="d0">Paper</data>
+  <data key="d1">Zhang_Bayesian_CBT_JCP_2026_ABSTRACT</data>
+  <data key="d2"></data>
+</node>
+<node id="Year::2026">
+  <data key="d0">Year</data>
+  <data key="d3">2026</data>
+</node>
+<node id="SampleSize::19865">
+  <data key="d0">SampleSize</data>
+  <data key="d3">19865</data>
+</node>
+<node id="QT050">
+  <data key="d0">Paper</data>
+  <data key="d1">Qiaochu_MobileCBT_CPP_2025_ABSTRACT</data>
+  <data key="d2"></data>
+</node>
+<node id="SampleSize::2479">
+  <data key="d0">SampleSize</data>
+  <data key="d3">2479</data>
+</node>
+<node id="Method::Mobile CBT">
+  <data key="d0">Method</data>
+  <data key="d4">Mobile CBT</data>
+</node>
+<node id="ES::QT050::1">
+  <data key="d0">EffectSize</data>
+  <data key="d5">g</data>
+  <data key="d6">0.878</data>
+  <data key="d7">QT050</data>
+  <data key="d8">trung tâm dương tính cho SAD) và Walder DMHI MA (g = 0,878 cho SAD-specific). Lý do: các app trong Qiaochu c</data>
+</node>
+<node id="QT051">
+  <data key="d0">Paper</data>
+  <data key="d1">Menon_LMIC_SEA_Pacific_APJPH_2025_ABSTRACT</data>
+  <data key="d2"></data>
+</node>
+<node id="ES::QT051::1">
+  <data key="d0">EffectSize</data>
+  <data key="d5">OR</data>
+  <data key="d6">0.22</data>
+  <data key="d7">QT051</data>
+  <data key="d8">với phát hiện Dong QT47 (kênh giao tiếp gia đình OR = 0,22) và UNICEF VN22 + đề cương VN. Cảnh báo: TQ + ĐNA</data>
+</node>
+<node id="VN028">
+  <data key="d0">Paper</data>
+  <data key="d1">DaoThiNgoan_TCNCYH_SVY4_HMU_2025</data>
+  <data key="d2"></data>
+</node>
+<node id="SampleSize::195">
+  <data key="d0">SampleSize</data>
+  <data key="d3">195</data>
+</node>
+<node id="ES::VN028::1">
+  <data key="d0">EffectSize</data>
+  <data key="d5">d</data>
+  <data key="d6">0.05</data>
+  <data key="d7">VN028</data>
+  <data key="d8">o công thức ước tính tỷ lệ quần thể với p = 0,85, d = 0,05, α = 0,05 → n_min = 195. Sinh viên trả lời trực t</data>
+</node>
+<node id="VN029">
+  <data key="d0">Paper</data>
+  <data key="d1">Duong_SocPsychiatry_2631HS_TPHCM_2025</data>
+  <data key="d2"></data>
+</node>
+<node id="Scale::YBRS">
+  <data key="d0">Scale</data>
+  <data key="d4">YBRS</data>
+</node>
+<edge source="QT001" target="Year::2023" id="0">
+  <data key="d9">HAS_YEAR</data>
+</edge>
+<edge source="QT001" target="Country::Vietnam" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="QT001" target="Outcome::Generalized Anxiety (GAD)" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT001" target="Outcome::Anxiety" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT001" target="Outcome::Depression" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT001" target="Scale::PHQ-9" id="0">
+  <data key="d9">USED_SCALE</data>
+</edge>
+<edge source="VN001" target="Year::2024" id="0">
+  <data key="d9">HAS_YEAR</data>
+</edge>
+<edge source="VN001" target="Country::Vietnam" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="VN001" target="Country::UK" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="VN001" target="Outcome::Generalized Anxiety (GAD)" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="VN001" target="Outcome::Anxiety" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="VN001" target="Scale::GAD-7" id="0">
+  <data key="d9">USED_SCALE</data>
+</edge>
+<edge source="VN001" target="ES::VN001::1" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="QT012" target="Year::2025" id="0">
+  <data key="d9">HAS_YEAR</data>
+</edge>
+<edge source="QT012" target="Country::Southeast Asia (scope)" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="QT012" target="Country::ASEAN (scope)" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="QT012" target="Outcome::Anxiety" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT012" target="Outcome::Depression" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT013" target="Year::2025" id="0">
+  <data key="d9">HAS_YEAR</data>
+</edge>
+<edge source="QT013" target="Country::UK" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="QT013" target="Outcome::Anxiety" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT013" target="Outcome::Depression" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT014" target="Year::2025" id="0">
+  <data key="d9">HAS_YEAR</data>
+</edge>
+<edge source="QT014" target="Method::CBT" id="0">
+  <data key="d9">USED_METHOD</data>
+</edge>
+<edge source="QT014" target="Method::SSRI" id="0">
+  <data key="d9">USED_METHOD</data>
+</edge>
+<edge source="QT014" target="Outcome::Anxiety" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT014" target="Outcome::Stress" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="VN002" target="Year::2022" id="0">
+  <data key="d9">HAS_YEAR</data>
+</edge>
+<edge source="VN002" target="Country::Vietnam" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="VN002" target="Country::UK" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="VN002" target="Outcome::Generalized Anxiety (GAD)" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="VN002" target="Outcome::Anxiety" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="VN002" target="Outcome::Depression" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="VN002" target="Scale::DASS-21" id="0">
+  <data key="d9">USED_SCALE</data>
+</edge>
+<edge source="VN002" target="Scale::GAD-7" id="0">
+  <data key="d9">USED_SCALE</data>
+</edge>
+<edge source="QT015" target="Year::2025" id="0">
+  <data key="d9">HAS_YEAR</data>
+</edge>
+<edge source="QT015" target="Country::China" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="QT015" target="Outcome::Generalized Anxiety (GAD)" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT015" target="Outcome::Anxiety" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT015" target="Outcome::Depression" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT015" target="Scale::GAD-7" id="0">
+  <data key="d9">USED_SCALE</data>
+</edge>
+<edge source="QT015" target="Scale::PHQ-9" id="0">
+  <data key="d9">USED_SCALE</data>
+</edge>
+<edge source="QT015" target="ES::QT015::1" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="QT015" target="ES::QT015::2" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="QT015" target="ES::QT015::3" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="QT016" target="Year::2025" id="0">
+  <data key="d9">HAS_YEAR</data>
+</edge>
+<edge source="QT016" target="Country::Southeast Asia (scope)" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="QT016" target="Method::CBT" id="0">
+  <data key="d9">USED_METHOD</data>
+</edge>
+<edge source="QT016" target="Outcome::Anxiety" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT016" target="Outcome::Depression" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT017" target="Year::2025" id="0">
+  <data key="d9">HAS_YEAR</data>
+</edge>
+<edge source="QT017" target="SampleSize::19178" id="0">
+  <data key="d9">HAS_N</data>
+</edge>
+<edge source="QT017" target="Country::Philippines" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="QT017" target="Country::UK" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="QT017" target="Outcome::Generalized Anxiety (GAD)" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT017" target="Outcome::Anxiety" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT017" target="Outcome::Depression" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT017" target="Scale::GAD-7" id="0">
+  <data key="d9">USED_SCALE</data>
+</edge>
+<edge source="QT017" target="Scale::CES-D" id="0">
+  <data key="d9">USED_SCALE</data>
+</edge>
+<edge source="VN003" target="Year::2024" id="0">
+  <data key="d9">HAS_YEAR</data>
+</edge>
+<edge source="VN003" target="Country::Vietnam" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="VN003" target="Country::Australia" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="VN003" target="Country::UK" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="VN003" target="Outcome::Anxiety" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="VN003" target="Outcome::Depression" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="VN003" target="ES::VN003::1" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="VN003" target="ES::VN003::2" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="QT002" target="Year::2023" id="0">
+  <data key="d9">HAS_YEAR</data>
+</edge>
+<edge source="QT002" target="Country::UK" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="QT002" target="Outcome::Anxiety" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT002" target="Outcome::Depression" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT002" target="Outcome::Stress" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT002" target="Scale::DASS-21" id="0">
+  <data key="d9">USED_SCALE</data>
+</edge>
+<edge source="QT008" target="Year::2020" id="0">
+  <data key="d9">HAS_YEAR</data>
+</edge>
+<edge source="QT008" target="Country::China" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="QT008" target="Outcome::Generalized Anxiety (GAD)" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT008" target="Outcome::Anxiety" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT008" target="Scale::DASS-21" id="0">
+  <data key="d9">USED_SCALE</data>
+</edge>
+<edge source="QT008" target="Scale::GAD-7" id="0">
+  <data key="d9">USED_SCALE</data>
+</edge>
+<edge source="QT008" target="ES::QT008::1" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="QT008" target="ES::QT008::2" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="QT008" target="ES::QT008::3" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="QT010" target="Year::2021" id="0">
+  <data key="d9">HAS_YEAR</data>
+</edge>
+<edge source="QT010" target="Country::China" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="QT010" target="Outcome::Generalized Anxiety (GAD)" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT010" target="Outcome::Anxiety" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT010" target="Scale::GAD-7" id="0">
+  <data key="d9">USED_SCALE</data>
+</edge>
+<edge source="QT010" target="ES::QT010::1" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="VN014" target="Year::2025" id="0">
+  <data key="d9">HAS_YEAR</data>
+</edge>
+<edge source="VN014" target="Country::Vietnam" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="VN014" target="Country::UK" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="VN014" target="Method::Physical Exercise" id="0">
+  <data key="d9">USED_METHOD</data>
+</edge>
+<edge source="VN014" target="Outcome::Anxiety" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="VN014" target="Outcome::Depression" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="VN014" target="Outcome::Stress" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="VN014" target="Scale::DASS-21" id="0">
+  <data key="d9">USED_SCALE</data>
+</edge>
+<edge source="VN014" target="ES::VN014::1" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="VN014" target="ES::VN014::2" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="VN014" target="ES::VN014::3" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="VN014" target="ES::VN014::4" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="VN015" target="Year::2024" id="0">
+  <data key="d9">HAS_YEAR</data>
+</edge>
+<edge source="VN015" target="Country::Vietnam" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="VN015" target="Country::USA" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="VN015" target="Country::UK" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="VN015" target="Method::Physical Exercise" id="0">
+  <data key="d9">USED_METHOD</data>
+</edge>
+<edge source="VN015" target="Outcome::Anxiety" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="VN015" target="Outcome::Depression" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="VN015" target="Outcome::Stress" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="VN015" target="Scale::DASS-21" id="0">
+  <data key="d9">USED_SCALE</data>
+</edge>
+<edge source="VN015" target="ES::VN015::1" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="VN015" target="ES::VN015::2" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="VN015" target="ES::VN015::3" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="VN015" target="ES::VN015::4" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="VN015" target="ES::VN015::5" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="VN015" target="ES::VN015::6" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="VN015" target="ES::VN015::7" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="VN015" target="ES::VN015::8" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="VN016" target="Year::2025" id="0">
+  <data key="d9">HAS_YEAR</data>
+</edge>
+<edge source="VN016" target="Country::Vietnam" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="VN016" target="Country::UK" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="VN016" target="Outcome::Generalized Anxiety (GAD)" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="VN016" target="Outcome::Anxiety" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="VN016" target="Outcome::Depression" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="VN016" target="Outcome::Stress" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="VN016" target="Scale::DASS-21" id="0">
+  <data key="d9">USED_SCALE</data>
+</edge>
+<edge source="VN016" target="Scale::DASS-Y" id="0">
+  <data key="d9">USED_SCALE</data>
+</edge>
+<edge source="VN016" target="Scale::GAD-7" id="0">
+  <data key="d9">USED_SCALE</data>
+</edge>
+<edge source="VN017" target="Year::2022" id="0">
+  <data key="d9">HAS_YEAR</data>
+</edge>
+<edge source="VN017" target="Country::Vietnam" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="VN017" target="Country::UK" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="VN017" target="Outcome::Generalized Anxiety (GAD)" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="VN017" target="Outcome::Anxiety" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="VN017" target="Outcome::Depression" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="VN017" target="Outcome::Stress" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="VN017" target="Scale::DASS-21" id="0">
+  <data key="d9">USED_SCALE</data>
+</edge>
+<edge source="VN017" target="Scale::GAD-7" id="0">
+  <data key="d9">USED_SCALE</data>
+</edge>
+<edge source="VN018" target="Year::2025" id="0">
+  <data key="d9">HAS_YEAR</data>
+</edge>
+<edge source="VN018" target="Country::Vietnam" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="VN018" target="Country::UK" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="VN018" target="Outcome::Anxiety" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="VN018" target="Outcome::Depression" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="VN018" target="Outcome::Stress" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="VN018" target="Scale::DASS-21" id="0">
+  <data key="d9">USED_SCALE</data>
+</edge>
+<edge source="VN019" target="Year::2025" id="0">
+  <data key="d9">HAS_YEAR</data>
+</edge>
+<edge source="VN019" target="Country::Vietnam" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="VN019" target="Country::Australia" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="VN019" target="Country::UK" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="VN019" target="Outcome::Generalized Anxiety (GAD)" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="VN019" target="Outcome::Anxiety" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="VN019" target="Outcome::Depression" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="VN019" target="Scale::DASS-21" id="0">
+  <data key="d9">USED_SCALE</data>
+</edge>
+<edge source="VN019" target="Scale::DASS-Y" id="0">
+  <data key="d9">USED_SCALE</data>
+</edge>
+<edge source="VN019" target="Scale::GAD-7" id="0">
+  <data key="d9">USED_SCALE</data>
+</edge>
+<edge source="VN019" target="Scale::LOT-R" id="0">
+  <data key="d9">USED_SCALE</data>
+</edge>
+<edge source="VN020" target="Year::2024" id="0">
+  <data key="d9">HAS_YEAR</data>
+</edge>
+<edge source="VN020" target="Country::Vietnam" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="VN020" target="Country::UK" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="VN020" target="Outcome::Generalized Anxiety (GAD)" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="VN020" target="Outcome::Anxiety" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="VN020" target="Outcome::Depression" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="VN020" target="Outcome::Stress" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="VN020" target="Scale::DASS-21" id="0">
+  <data key="d9">USED_SCALE</data>
+</edge>
+<edge source="VN020" target="Scale::DASS-Y" id="0">
+  <data key="d9">USED_SCALE</data>
+</edge>
+<edge source="VN020" target="Scale::GAD-7" id="0">
+  <data key="d9">USED_SCALE</data>
+</edge>
+<edge source="VN020" target="Scale::ESSA" id="0">
+  <data key="d9">USED_SCALE</data>
+</edge>
+<edge source="VN020" target="ES::VN020::1" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="QT021" target="Year::2025" id="0">
+  <data key="d9">HAS_YEAR</data>
+</edge>
+<edge source="QT021" target="Country::Norway" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="QT021" target="Country::UK" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="QT021" target="Outcome::Anxiety" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT021" target="Outcome::Stress" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT021" target="ES::QT021::1" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="QT022" target="Year::2025" id="0">
+  <data key="d9">HAS_YEAR</data>
+</edge>
+<edge source="QT022" target="Country::Australia" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="QT022" target="Country::UK" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="QT022" target="Outcome::Anxiety" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT022" target="Outcome::Depression" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT022" target="ES::QT022::1" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="QT023" target="Year::2024" id="0">
+  <data key="d9">HAS_YEAR</data>
+</edge>
+<edge source="QT023" target="Country::USA" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="QT023" target="Outcome::Generalized Anxiety (GAD)" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT023" target="Outcome::Anxiety" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT023" target="Outcome::Depression" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT023" target="Outcome::Stress" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT023" target="Scale::GAD-7" id="0">
+  <data key="d9">USED_SCALE</data>
+</edge>
+<edge source="QT023" target="ES::QT023::1" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="QT023" target="ES::QT023::2" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="QT023" target="ES::QT023::3" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="QT023" target="ES::QT023::4" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="QT024" target="Year::2025" id="0">
+  <data key="d9">HAS_YEAR</data>
+</edge>
+<edge source="QT024" target="Country::UK" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="QT024" target="Outcome::Anxiety" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT024" target="Outcome::Depression" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT024" target="ES::QT024::1" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="QT024" target="ES::QT024::2" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="QT024" target="ES::QT024::3" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="QT025" target="Year::2025" id="0">
+  <data key="d9">HAS_YEAR</data>
+</edge>
+<edge source="QT025" target="SampleSize::3721" id="0">
+  <data key="d9">HAS_N</data>
+</edge>
+<edge source="QT025" target="Country::Australia" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="QT025" target="Outcome::Anxiety" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT025" target="Outcome::Depression" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT025" target="Outcome::Stress" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT025" target="Scale::MHC-SF" id="0">
+  <data key="d9">USED_SCALE</data>
+</edge>
+<edge source="QT026" target="Year::2025" id="0">
+  <data key="d9">HAS_YEAR</data>
+</edge>
+<edge source="QT026" target="Country::UK" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="QT026" target="Outcome::Anxiety" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT026" target="ES::QT026::1" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="QT027" target="Year::2025" id="0">
+  <data key="d9">HAS_YEAR</data>
+</edge>
+<edge source="QT027" target="SampleSize::3340" id="0">
+  <data key="d9">HAS_N</data>
+</edge>
+<edge source="QT027" target="Country::UK" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="QT027" target="Outcome::Anxiety" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT027" target="Outcome::Depression" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT027" target="ES::QT027::1" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="QT027" target="ES::QT027::2" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="QT028" target="Year::2024" id="0">
+  <data key="d9">HAS_YEAR</data>
+</edge>
+<edge source="QT028" target="Country::USA" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="QT028" target="Method::CBT" id="0">
+  <data key="d9">USED_METHOD</data>
+</edge>
+<edge source="QT028" target="Method::iCBT" id="0">
+  <data key="d9">USED_METHOD</data>
+</edge>
+<edge source="QT028" target="Method::gCBT" id="0">
+  <data key="d9">USED_METHOD</data>
+</edge>
+<edge source="QT028" target="Method::SSRI" id="0">
+  <data key="d9">USED_METHOD</data>
+</edge>
+<edge source="QT028" target="Outcome::Anxiety" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT028" target="Outcome::Depression" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT028" target="ES::QT028::1" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="QT029" target="Year::2025" id="0">
+  <data key="d9">HAS_YEAR</data>
+</edge>
+<edge source="QT029" target="Country::UK" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="QT029" target="Method::CBT" id="0">
+  <data key="d9">USED_METHOD</data>
+</edge>
+<edge source="QT029" target="Method::iCBT" id="0">
+  <data key="d9">USED_METHOD</data>
+</edge>
+<edge source="QT029" target="Method::gCBT" id="0">
+  <data key="d9">USED_METHOD</data>
+</edge>
+<edge source="QT029" target="Method::Relaxation" id="0">
+  <data key="d9">USED_METHOD</data>
+</edge>
+<edge source="QT029" target="Method::SSRI" id="0">
+  <data key="d9">USED_METHOD</data>
+</edge>
+<edge source="QT029" target="Outcome::Social Anxiety (SAD)" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT029" target="Outcome::Generalized Anxiety (GAD)" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT029" target="Outcome::Anxiety" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT029" target="ES::QT029::1" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="QT030" target="Year::2025" id="0">
+  <data key="d9">HAS_YEAR</data>
+</edge>
+<edge source="QT030" target="Country::UK" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="QT030" target="Country::China" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="QT030" target="Outcome::Anxiety" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT030" target="Outcome::Depression" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT031" target="Year::2025" id="0">
+  <data key="d9">HAS_YEAR</data>
+</edge>
+<edge source="QT031" target="Country::UK" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="QT031" target="Outcome::Generalized Anxiety (GAD)" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT031" target="Outcome::Anxiety" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT031" target="Scale::DASS-21" id="0">
+  <data key="d9">USED_SCALE</data>
+</edge>
+<edge source="QT031" target="Scale::GAD-7" id="0">
+  <data key="d9">USED_SCALE</data>
+</edge>
+<edge source="QT031" target="ES::QT031::1" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="QT031" target="ES::QT031::2" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="QT031" target="ES::QT031::3" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="QT032" target="Year::2024" id="0">
+  <data key="d9">HAS_YEAR</data>
+</edge>
+<edge source="QT032" target="Country::Ireland" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="QT032" target="Country::UK" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="QT032" target="Outcome::Anxiety" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT032" target="Outcome::Depression" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT032" target="Scale::DASS-21" id="0">
+  <data key="d9">USED_SCALE</data>
+</edge>
+<edge source="QT032" target="ES::QT032::1" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="QT033" target="Year::2024" id="0">
+  <data key="d9">HAS_YEAR</data>
+</edge>
+<edge source="QT033" target="Journal::JAMA Network Open" id="0">
+  <data key="d9">PUBLISHED_IN</data>
+</edge>
+<edge source="QT033" target="Country::UK" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="QT033" target="Outcome::Anxiety" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT033" target="ES::QT033::1" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="QT033" target="ES::QT033::2" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="QT034" target="Year::2024" id="0">
+  <data key="d9">HAS_YEAR</data>
+</edge>
+<edge source="QT034" target="Country::UK" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="QT034" target="Country::Korea" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="QT034" target="Outcome::Generalized Anxiety (GAD)" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT034" target="Outcome::Anxiety" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT034" target="Outcome::Stress" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT034" target="Scale::GAD-7" id="0">
+  <data key="d9">USED_SCALE</data>
+</edge>
+<edge source="QT035" target="Year::2020" id="0">
+  <data key="d9">HAS_YEAR</data>
+</edge>
+<edge source="QT035" target="Country::Thailand" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="QT035" target="Country::Indonesia" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="QT035" target="Country::Canada" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="QT035" target="Country::China" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="QT035" target="Country::Vietnam" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="QT035" target="Country::USA" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="QT035" target="Country::UK" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="QT035" target="Outcome::Social Anxiety (SAD)" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT035" target="Outcome::Generalized Anxiety (GAD)" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT035" target="Outcome::Anxiety" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT035" target="Scale::DASS-21" id="0">
+  <data key="d9">USED_SCALE</data>
+</edge>
+<edge source="QT035" target="Scale::GAD-7" id="0">
+  <data key="d9">USED_SCALE</data>
+</edge>
+<edge source="QT035" target="Scale::SIAS" id="0">
+  <data key="d9">USED_SCALE</data>
+</edge>
+<edge source="VN021" target="Year::2024" id="0">
+  <data key="d9">HAS_YEAR</data>
+</edge>
+<edge source="VN021" target="Country::Vietnam" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="VN021" target="Country::UK" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="VN021" target="Outcome::Generalized Anxiety (GAD)" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="VN021" target="Outcome::Anxiety" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="VN021" target="Outcome::Stress" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="VN021" target="Scale::DASS-21" id="0">
+  <data key="d9">USED_SCALE</data>
+</edge>
+<edge source="VN021" target="Scale::GAD-7" id="0">
+  <data key="d9">USED_SCALE</data>
+</edge>
+<edge source="VN021" target="Scale::ESSA" id="0">
+  <data key="d9">USED_SCALE</data>
+</edge>
+<edge source="VN021" target="ES::VN021::1" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="VN021" target="ES::VN021::2" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="VN021" target="ES::VN021::3" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="VN021" target="ES::VN021::4" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="VN021" target="ES::VN021::5" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="VN021" target="ES::VN021::6" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="VN021" target="ES::VN021::7" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="VN021" target="ES::VN021::8" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="QT036" target="Year::2025" id="0">
+  <data key="d9">HAS_YEAR</data>
+</edge>
+<edge source="QT036" target="SampleSize::213820" id="0">
+  <data key="d9">HAS_N</data>
+</edge>
+<edge source="QT036" target="Country::Korea" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="QT036" target="Outcome::Generalized Anxiety (GAD)" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT036" target="Outcome::Anxiety" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT036" target="Outcome::Stress" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT036" target="Scale::GAD-7" id="0">
+  <data key="d9">USED_SCALE</data>
+</edge>
+<edge source="QT036" target="ES::QT036::1" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="QT036" target="ES::QT036::2" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="QT036" target="ES::QT036::3" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="VN022" target="Year::2022" id="0">
+  <data key="d9">HAS_YEAR</data>
+</edge>
+<edge source="VN022" target="Country::Vietnam" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="VN022" target="Country::Australia" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="VN022" target="Country::UK" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="VN022" target="Outcome::Social Anxiety (SAD)" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="VN022" target="Outcome::Generalized Anxiety (GAD)" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="VN022" target="Outcome::Anxiety" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="VN022" target="Outcome::Stress" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="VN022" target="Scale::DASS-21" id="0">
+  <data key="d9">USED_SCALE</data>
+</edge>
+<edge source="VN022" target="Scale::GAD-7" id="0">
+  <data key="d9">USED_SCALE</data>
+</edge>
+<edge source="VN022" target="Scale::ESSA" id="0">
+  <data key="d9">USED_SCALE</data>
+</edge>
+<edge source="VN022" target="ES::VN022::1" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="VN022" target="ES::VN022::2" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="VN022" target="ES::VN022::3" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="VN022" target="ES::VN022::4" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="VN023" target="Year::2023" id="0">
+  <data key="d9">HAS_YEAR</data>
+</edge>
+<edge source="VN023" target="Country::Vietnam" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="VN023" target="Outcome::Generalized Anxiety (GAD)" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="VN023" target="Outcome::Anxiety" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="VN023" target="Scale::DASS-21" id="0">
+  <data key="d9">USED_SCALE</data>
+</edge>
+<edge source="VN023" target="Scale::GAD-7" id="0">
+  <data key="d9">USED_SCALE</data>
+</edge>
+<edge source="VN024" target="Year::2024" id="0">
+  <data key="d9">HAS_YEAR</data>
+</edge>
+<edge source="VN024" target="Country::Vietnam" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="VN024" target="Country::UK" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="VN024" target="Outcome::Generalized Anxiety (GAD)" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="VN024" target="Outcome::Anxiety" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="VN024" target="Outcome::Depression" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="VN024" target="Outcome::Stress" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="VN024" target="Scale::DASS-21" id="0">
+  <data key="d9">USED_SCALE</data>
+</edge>
+<edge source="VN024" target="Scale::GAD-7" id="0">
+  <data key="d9">USED_SCALE</data>
+</edge>
+<edge source="VN024" target="Scale::CES-D" id="0">
+  <data key="d9">USED_SCALE</data>
+</edge>
+<edge source="VN024" target="Scale::ESSA" id="0">
+  <data key="d9">USED_SCALE</data>
+</edge>
+<edge source="QT037" target="Year::2024" id="0">
+  <data key="d9">HAS_YEAR</data>
+</edge>
+<edge source="QT037" target="Country::Southeast Asia (scope)" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="QT037" target="Method::CBT" id="0">
+  <data key="d9">USED_METHOD</data>
+</edge>
+<edge source="QT037" target="Method::CA-CBT" id="0">
+  <data key="d9">USED_METHOD</data>
+</edge>
+<edge source="QT037" target="Outcome::Anxiety" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT038" target="Year::2024" id="0">
+  <data key="d9">HAS_YEAR</data>
+</edge>
+<edge source="QT038" target="Country::Sri Lanka" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="QT038" target="Method::CBT" id="0">
+  <data key="d9">USED_METHOD</data>
+</edge>
+<edge source="QT038" target="Outcome::Anxiety" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT039" target="Year::2024" id="0">
+  <data key="d9">HAS_YEAR</data>
+</edge>
+<edge source="QT039" target="Method::CBT" id="0">
+  <data key="d9">USED_METHOD</data>
+</edge>
+<edge source="QT039" target="Method::iCBT" id="0">
+  <data key="d9">USED_METHOD</data>
+</edge>
+<edge source="QT039" target="Method::gCBT" id="0">
+  <data key="d9">USED_METHOD</data>
+</edge>
+<edge source="QT039" target="Method::IPT" id="0">
+  <data key="d9">USED_METHOD</data>
+</edge>
+<edge source="QT039" target="Outcome::Social Anxiety (SAD)" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT039" target="Outcome::Generalized Anxiety (GAD)" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT039" target="Outcome::Anxiety" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT039" target="ES::QT039::1" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="QT039" target="ES::QT039::2" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="QT040" target="Year::2025" id="0">
+  <data key="d9">HAS_YEAR</data>
+</edge>
+<edge source="QT040" target="Method::CBT" id="0">
+  <data key="d9">USED_METHOD</data>
+</edge>
+<edge source="QT040" target="Method::iCBT" id="0">
+  <data key="d9">USED_METHOD</data>
+</edge>
+<edge source="QT040" target="Method::DMHI" id="0">
+  <data key="d9">USED_METHOD</data>
+</edge>
+<edge source="QT040" target="Method::VR Therapy" id="0">
+  <data key="d9">USED_METHOD</data>
+</edge>
+<edge source="QT040" target="Outcome::Social Anxiety (SAD)" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT040" target="Outcome::Anxiety" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT040" target="ES::QT040::1" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="QT040" target="ES::QT040::2" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="QT040" target="ES::QT040::3" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="VN025" target="Year::2024" id="0">
+  <data key="d9">HAS_YEAR</data>
+</edge>
+<edge source="VN025" target="Country::Vietnam" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="VN025" target="Outcome::Anxiety" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="VN025" target="Outcome::Depression" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="VN025" target="Outcome::Stress" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="VN025" target="Scale::DASS-21" id="0">
+  <data key="d9">USED_SCALE</data>
+</edge>
+<edge source="QT041" target="Year::2025" id="0">
+  <data key="d9">HAS_YEAR</data>
+</edge>
+<edge source="QT041" target="Outcome::Generalized Anxiety (GAD)" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT041" target="Outcome::Anxiety" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT041" target="Outcome::Stress" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT041" target="Scale::GAD-7" id="0">
+  <data key="d9">USED_SCALE</data>
+</edge>
+<edge source="QT041" target="Scale::PSQI" id="0">
+  <data key="d9">USED_SCALE</data>
+</edge>
+<edge source="QT041" target="ES::QT041::1" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="QT041" target="ES::QT041::2" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="QT041" target="ES::QT041::3" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="QT041" target="ES::QT041::4" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="VN026" target="Year::2025" id="0">
+  <data key="d9">HAS_YEAR</data>
+</edge>
+<edge source="VN026" target="Country::Vietnam" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="VN026" target="Outcome::Anxiety" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="VN026" target="Scale::DASS-21" id="0">
+  <data key="d9">USED_SCALE</data>
+</edge>
+<edge source="QT042" target="Year::2025" id="0">
+  <data key="d9">HAS_YEAR</data>
+</edge>
+<edge source="QT042" target="Country::UK" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="QT042" target="Method::CBT" id="0">
+  <data key="d9">USED_METHOD</data>
+</edge>
+<edge source="QT042" target="Method::Mindfulness" id="0">
+  <data key="d9">USED_METHOD</data>
+</edge>
+<edge source="QT042" target="Outcome::Anxiety" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT042" target="Outcome::Depression" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT042" target="Outcome::Stress" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT043" target="Year::2024" id="0">
+  <data key="d9">HAS_YEAR</data>
+</edge>
+<edge source="QT043" target="Country::UK" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="QT043" target="Method::CBT" id="0">
+  <data key="d9">USED_METHOD</data>
+</edge>
+<edge source="QT043" target="Outcome::Social Anxiety (SAD)" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT043" target="Outcome::Generalized Anxiety (GAD)" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT043" target="Outcome::Anxiety" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT043" target="Scale::HAM-A" id="0">
+  <data key="d9">USED_SCALE</data>
+</edge>
+<edge source="QT043" target="Scale::LSAS" id="0">
+  <data key="d9">USED_SCALE</data>
+</edge>
+<edge source="QT043" target="Scale::ASI" id="0">
+  <data key="d9">USED_SCALE</data>
+</edge>
+<edge source="QT043" target="ES::QT043::1" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="QT043" target="ES::QT043::2" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="QT043" target="ES::QT043::3" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="QT043" target="ES::QT043::4" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="QT043" target="ES::QT043::5" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="QT043" target="ES::QT043::6" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="QT043" target="ES::QT043::7" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="QT044" target="Year::2025" id="0">
+  <data key="d9">HAS_YEAR</data>
+</edge>
+<edge source="QT044" target="Method::CBT" id="0">
+  <data key="d9">USED_METHOD</data>
+</edge>
+<edge source="QT044" target="Method::Resilience training" id="0">
+  <data key="d9">USED_METHOD</data>
+</edge>
+<edge source="QT044" target="Outcome::Stress" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT045" target="Year::2024" id="0">
+  <data key="d9">HAS_YEAR</data>
+</edge>
+<edge source="QT045" target="SampleSize::38" id="0">
+  <data key="d9">HAS_N</data>
+</edge>
+<edge source="QT045" target="Country::Japan" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="QT045" target="Method::CBT" id="0">
+  <data key="d9">USED_METHOD</data>
+</edge>
+<edge source="QT045" target="Method::iCBT" id="0">
+  <data key="d9">USED_METHOD</data>
+</edge>
+<edge source="QT045" target="Method::DMHI" id="0">
+  <data key="d9">USED_METHOD</data>
+</edge>
+<edge source="QT045" target="Outcome::Social Anxiety (SAD)" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT045" target="Outcome::Anxiety" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT045" target="Outcome::Depression" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT045" target="Scale::PHQ-9" id="0">
+  <data key="d9">USED_SCALE</data>
+</edge>
+<edge source="QT045" target="Scale::SIAS" id="0">
+  <data key="d9">USED_SCALE</data>
+</edge>
+<edge source="QT046" target="Year::2025" id="0">
+  <data key="d9">HAS_YEAR</data>
+</edge>
+<edge source="QT046" target="Method::CBT" id="0">
+  <data key="d9">USED_METHOD</data>
+</edge>
+<edge source="QT046" target="Method::Mindfulness" id="0">
+  <data key="d9">USED_METHOD</data>
+</edge>
+<edge source="QT046" target="Method::Physical Exercise" id="0">
+  <data key="d9">USED_METHOD</data>
+</edge>
+<edge source="QT046" target="Method::Yoga" id="0">
+  <data key="d9">USED_METHOD</data>
+</edge>
+<edge source="QT046" target="Method::Relaxation" id="0">
+  <data key="d9">USED_METHOD</data>
+</edge>
+<edge source="QT046" target="Outcome::Stress" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT046" target="ES::QT046::1" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="QT046" target="ES::QT046::2" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="VN027" target="Year::2021" id="0">
+  <data key="d9">HAS_YEAR</data>
+</edge>
+<edge source="VN027" target="Country::Vietnam" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="VN027" target="Outcome::Generalized Anxiety (GAD)" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="VN027" target="Outcome::Anxiety" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="VN027" target="Scale::DASS-Y" id="0">
+  <data key="d9">USED_SCALE</data>
+</edge>
+<edge source="VN027" target="Scale::GAD-7" id="0">
+  <data key="d9">USED_SCALE</data>
+</edge>
+<edge source="QT047" target="Year::2025" id="0">
+  <data key="d9">HAS_YEAR</data>
+</edge>
+<edge source="QT047" target="SampleSize::1844" id="0">
+  <data key="d9">HAS_N</data>
+</edge>
+<edge source="QT047" target="Country::China" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="QT047" target="Outcome::Anxiety" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT047" target="Outcome::Depression" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT047" target="Outcome::Stress" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT047" target="Scale::DASS-21" id="0">
+  <data key="d9">USED_SCALE</data>
+</edge>
+<edge source="QT048" target="Year::2025" id="0">
+  <data key="d9">HAS_YEAR</data>
+</edge>
+<edge source="QT048" target="Method::ACT" id="0">
+  <data key="d9">USED_METHOD</data>
+</edge>
+<edge source="QT048" target="Outcome::Anxiety" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT049" target="Year::2026" id="0">
+  <data key="d9">HAS_YEAR</data>
+</edge>
+<edge source="QT049" target="SampleSize::19865" id="0">
+  <data key="d9">HAS_N</data>
+</edge>
+<edge source="QT049" target="Method::CBT" id="0">
+  <data key="d9">USED_METHOD</data>
+</edge>
+<edge source="QT049" target="Method::ACT" id="0">
+  <data key="d9">USED_METHOD</data>
+</edge>
+<edge source="QT049" target="Outcome::Anxiety" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT049" target="Outcome::Depression" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT050" target="Year::2025" id="0">
+  <data key="d9">HAS_YEAR</data>
+</edge>
+<edge source="QT050" target="SampleSize::2479" id="0">
+  <data key="d9">HAS_N</data>
+</edge>
+<edge source="QT050" target="Method::CBT" id="0">
+  <data key="d9">USED_METHOD</data>
+</edge>
+<edge source="QT050" target="Method::iCBT" id="0">
+  <data key="d9">USED_METHOD</data>
+</edge>
+<edge source="QT050" target="Method::Mobile CBT" id="0">
+  <data key="d9">USED_METHOD</data>
+</edge>
+<edge source="QT050" target="Method::DMHI" id="0">
+  <data key="d9">USED_METHOD</data>
+</edge>
+<edge source="QT050" target="Method::ACT" id="0">
+  <data key="d9">USED_METHOD</data>
+</edge>
+<edge source="QT050" target="Outcome::Social Anxiety (SAD)" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT050" target="Outcome::Anxiety" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT050" target="Outcome::Depression" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="QT050" target="ES::QT050::1" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="QT051" target="Year::2025" id="0">
+  <data key="d9">HAS_YEAR</data>
+</edge>
+<edge source="QT051" target="Method::ACT" id="0">
+  <data key="d9">USED_METHOD</data>
+</edge>
+<edge source="QT051" target="ES::QT051::1" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="VN028" target="Year::2025" id="0">
+  <data key="d9">HAS_YEAR</data>
+</edge>
+<edge source="VN028" target="SampleSize::195" id="0">
+  <data key="d9">HAS_N</data>
+</edge>
+<edge source="VN028" target="Country::Vietnam" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="VN028" target="Country::UK" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="VN028" target="Outcome::Anxiety" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="VN028" target="Outcome::Depression" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="VN028" target="Outcome::Stress" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="VN028" target="Scale::DASS-21" id="0">
+  <data key="d9">USED_SCALE</data>
+</edge>
+<edge source="VN028" target="Scale::DASS-Y" id="0">
+  <data key="d9">USED_SCALE</data>
+</edge>
+<edge source="VN028" target="ES::VN028::1" id="0">
+  <data key="d9">REPORTED_ES</data>
+</edge>
+<edge source="VN029" target="Year::2025" id="0">
+  <data key="d9">HAS_YEAR</data>
+</edge>
+<edge source="VN029" target="Country::Vietnam" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="VN029" target="Country::UK" id="0">
+  <data key="d9">CONDUCTED_IN</data>
+</edge>
+<edge source="VN029" target="Method::CBT" id="0">
+  <data key="d9">USED_METHOD</data>
+</edge>
+<edge source="VN029" target="Outcome::Anxiety" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="VN029" target="Outcome::Depression" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="VN029" target="Outcome::Stress" id="0">
+  <data key="d9">MEASURED</data>
+</edge>
+<edge source="VN029" target="Scale::DASS-21" id="0">
+  <data key="d9">USED_SCALE</data>
+</edge>
+<edge source="VN029" target="Scale::YBRS" id="0">
+  <data key="d9">USED_SCALE</data>
+</edge>
+</graph></graphml>

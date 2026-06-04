@@ -1,0 +1,108 @@
+============================================================
+[QT066] RAG SUMMARY:
+QT066 — Tóm tắt bài nghiên cứu
+Phương pháp
+• Scoping review (Arksey & O'Malley framework)
+• Mẫu: 15 nghiên cứu gốc, 13 interventions peer support trong primary youth MH care
+• Công cụ: GAD-7, DASS-21, recovery-related outcomes, self-efficacy scales
+Kết quả nghiên cứu
+• Định nghĩa peer support: "hỗ trợ xã hội + cảm xúc giữa cá nhân có TRẢI NGHIỆM CHUNG về khó khăn MH"
+• 8/13 interventions nhắm youth có khó khăn MH NHẸ-VỪA (trầm cảm, lo âu, distress)
+• Phân bố tuổi: 9/13 nhắm 16-25 (thanh niên); 1 nhắm 13-19; 1 nhắm 11-18 (gần HS THCS); 1 nhắm 12-25
+• Phát hiện: peer support có TIỀM NĂNG cải thiện outcome PHỤC HỒI (recovery)
+• Rào cản: lo ngại bảo mật + peer worker thiếu tự tin
+• Yếu tố thúc đẩy: nhân viên chuyên môn HỖ TRỢ + vai trò peer được ĐỊNH NGHĨA RÕ
+• Khuyến nghị: nghiên cứu sau cần báo cáo CHI TIẾT HƠN nội dung intervention
+Điểm mạnh
+• Scoping review chuẩn methodology (Arksey & O'Malley)
+• Bài đầu tiên tổng hợp peer support trong primary youth MH care
+• Wiley J Community Psychology — peer-reviewed
+• Định nghĩa peer support rõ ràng
+• Phân tích cả barrier + facilitator
+Hạn chế
+• ⚠ Đa số 9/13 interventions cho 16-25 (thanh niên), CHỈ 2/13 có HS THCS-THPT
+• Scoping (không phải systematic + MA) — không đo effect size
+• Nội dung intervention thiếu chi tiết → khó nhân rộng
+• Bias bối cảnh: chủ yếu Ireland (Jigsaw) — không đại diện toàn cầu
+• Không có RCT nào trong 13 interventions test riêng peer support cho HS THCS
+Phản biện ngắn
+Bài tổng quan QUÝ về peer support — nhưng đối tượng gốc đa số THANH NIÊN 16-25. Để áp dụng cho HS THCS-THPT VN, cần adapt mạnh: (1) phù hợp tuổi 11-15; (2) bảo mật + parental consent; (3) đào tạo peer worker tuổi gần. Mô hình peer support khả thi cho VN vì: HS VN ưu thích NON-PROFESSIONAL trước (gia đình, bạn bè) — peer support đáp ứng đúng preference này.
+Hướng nghiên cứu tiếp theo
+Tổng quan systematic + MA định lượng cho peer support ở HS THCS-THPT. RCT VN: 2-3 trường thí điểm peer support (HS lớp 11 đào tạo làm peer leader cho HS lớp 7-8) + đo GAD-7 + DASS-21.
+Đánh giá: ⭐⭐⭐⭐ (4/5)
+Key fact cho RAG: Murphy 2024 scoping review 15 NC peer support youth MH. Đa số 16-25 tuổi. Khuyến nghị peer worker được hỗ trợ + vai trò rõ. Thích hợp adapt cho VN vì HS VN ưu thích non-professional.
+⚠ Lưu ý: Tóm tắt này dựa trên metadata (PubMed + abstract + thông tin cào web), 
+Tên (VN) | Tổng quan phạm vi hệ thống về can thiệp hỗ trợ ngang hàng (peer support) trong c
+Tên (EN) | A systematic scoping review of peer support interventions in integrated primary 
+Tác giả | Murphy R, Huggard L, Fitzgerald A, Hennessy E, Booth A
+Lead author email | rachel.murphy@ucd.ie (Rachel Murphy, University College Dublin)
+Đơn vị | University College Dublin (Ireland) + Jigsaw national youth MH service
+Tạp chí | Journal of Community Psychology, vol. 52(1):154-180 (2024)
+Năm | 2024
+DOI | 10.1002/jcop.23090
+PubMed | https://pubmed.ncbi.nlm.nih.gov/37740958/
+Mẫu + công cụ | 15 nghiên cứu gốc, 13 interventions peer support trong primary youth MH care | C
+
+============================================================
+[QT067] RAG SUMMARY:
+QT067 — Pascoe, Hetrick & Parker (2020)
+The impact of stress on students in secondary school and higher education
+International Journal of Adolescence and Youth, 25(1), 104–112.
+DOI: 10.1080/02673843.2019.1596823
+1. Thông tin định danh
+2. Tóm tắt (Abstract)
+Nội dung tổng quan này khảo sát các tác động của stress học đường (academic stress / academic-related stress) lên học sinh trung học và sinh viên đại học theo 6 trục:
+Sức khỏe tâm thần (anxiety, depression).
+Sử dụng chất gây nghiện (rượu bia, ma túy, thuốc lá).
+Giấc ngủ (mất ngủ, chất lượng giảm).
+Sức khỏe thể chất (đau đầu, đau dạ dày, hệ miễn dịch).
+Thành tích học tập (giảm kết quả học, giảm khả năng tập trung).
+Tỷ lệ bỏ học (drop-out).
+Stress học đường không chỉ ảnh hưởng tâm lý mà còn lan tỏa sang hành vi sức khỏe và kết quả giáo dục. Nhóm tác giả đề xuất các chiến lược can thiệp toàn trường (whole-school) bao gồm chánh niệm (mindfulness), CBT, và cải thiện môi trường học.
+3. Phát hiện chính
+3.1. Sức khỏe tâm thần
+Stress học đường liên quan trực tiếp đến lo âu (anxiety) và trầm cảm (depression) ở thanh thiếu niên.
+Áp lực thi cử (high-stakes exams) là yếu tố nguy cơ độc lập với rối loạn lo âu.
+Sinh viên đại học báo cáo mức stress học đường cao tương đương stress công việc của người trưởng thành.
+3.2. Sử dụng chất gây nghiện
+Học sinh stress cao có xu hướng dùng rượu/ma túy/thuốc lá để self-medicate.
+Liên kết hai chiều: stress → sử dụng chất, và sử dụng chất → stress tăng.
+3.3. Giấc ngủ
+Stress làm giảm chất lượng giấc ngủ; thanh thiếu niên ngủ < 7h/đêm có nguy cơ trầm cảm cao gấp 2-3 lần.
+Mất ngủ vòng xoáy: thiếu ngủ → kém tập trung → kết quả học giảm → stress tăng.
+3.4. Sức khỏe thể chất
+Triệu chứng cơ thể: đau đầu, đau dạ dày, mệt mỏi mãn tính.
+Stress mãn tính làm suy giảm hệ miễn dịch (cortisol kéo dài).
+3.5. Thành tích học tập
+Stress quá mức làm giảm working memory và khả năng giải quyết vấn đề.
+Mối quan hệ hình chữ U ngược: stress thấp → động lực thấp; stress vừa → tối ưu; stress cao → giảm hiệu suất.
+3.6. Bỏ học (drop-out)
+Stress không kiểm soát + hỗ trợ kém → tăng nguy cơ bỏ học.
+Sinh viên đại học bỏ học vì lý do tâm lý/stress chiếm tỷ lệ đáng kể trong nhóm bỏ học không hoàn cảnh.
+4. Phương pháp
+Đây là TỔNG QUAN TƯỜNG THUẬT (narrative review), KHÔNG PHẢI hệ thống (systematic) hay meta-analysis:
+Không có PRISMA flow.
+Không có tiêu chí lựa chọn rõ ràng (no inclusion/exclusion criteria).
+Không có đánh giá chất lượng từng nghiên cứu (no risk-of-bias assessment).
+Tổng hợp định tính theo 6 chủ đề; không có effect size pooled.
+Dữ liệu trích dẫn từ ~80 nghiên cứu trước đó, phần lớn từ USA, UK, Úc.
+5. Điểm mạnh
+Khung tổng hợp 6-trục giúp người đọc hình dung tác động đa chiều của stress học đường.
+Open access (CC BY 4.0) — tiếp cận miễn phí, được trích dẫn rộng rãi (>1500 lần tính đến 2025).
+Ngôn ngữ dễ tiếp cận, phù hợp giáo viên, phụ huynh, người làm chính sách.
+Đề xuất can thiệp cụ thể (mindfulness, CBT, cải thiện môi trường học).
+6. Hạn chế
+KHÔNG phải systematic review → không thể dùng làm "evidence summary" tin cậy cho meta-analysis.
+Thiếu dữ liệu Châu Á (chỉ vài trích dẫn Trung Quốc, Hàn Quốc, Nhật) — không có Việt Nam, Đông Nam Á.
+Không phân biệt rõ stress học đường vs stress chung; nhiều nghiên cứu trích dẫn dùng PSS (Perceived Stress Scale) chứ không phải thang đo academic stress chuyên biệt.
+Mối quan hệ nhân quả vs tương quan thường bị mờ trong narrative; người đọc cần thận trọng khi suy luận.
+Không cập nhật được các nghiên cứu sau 2018 (ngày submit).
+7. Liên hệ với đề tài Lo âu HS THCS/THPT Việt Nam
+QT067 KHÔNG có dữ liệu Việt Nam, nhưng cung cấp framework tham khảo:
+Khung 6-trục (mental health / substance use / sleep / physical health / achievement / drop-out) → áp dụng được khi viết bối cảnh trong báo cáo CTH; lưu ý rằng "substance use" ở VN có hình thái khác (game online, mạng xã hội thay vì rượu/ma túy như phương Tây).
+Mối quan hệ stress ↔ giấc ngủ → liên hệ với QT001 Jenkins (sleep hygiene), VN002 VNAMHS (rối loạn giấc ngủ trẻ VN).
+Mối quan hệ U-ngược giữa stress và performance → có thể giải thích vì sao một số HS THPT có stress cao nhưng vẫn học giỏi (cho tới ngưỡng tới hạn).
+Đề xuất whole-school intervention → liên kết với QT065 EACP (cấp lớp), QT066 peer support (cấp trường), CBT mobile app QT062 (cấp cá nhân).
+Cảnh báo khi trích dẫn:
+Không trích QT067 như một "evidence summary" — đây là narrative, không có effect size pooled.
+Trích để minh họa khung khái niệm hoặc làm rationale; số liệu cụ thể phải lấy từ nghiên cứu gốc (ví dụ Pascoe trích Caldwe

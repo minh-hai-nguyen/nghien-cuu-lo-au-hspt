@@ -1,0 +1,9 @@
+{
+  "collection": "rag_v7_bgem3",
+  "n_chunks": 2409,
+  "n_sources": 130,
+  "embedding_model": "BAAI/bge-m3",
+  "embedding_dim": 1024,
+  "source_report": "v4",
+  "smoke_test_pass_rate": "10/10 (100%)"
+}

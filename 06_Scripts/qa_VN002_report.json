@@ -1,0 +1,38 @@
+{
+  "document": "VN002_VNAMHS_2022_National_FULL.docx",
+  "timestamp": "2026-04-14",
+  "methods_count": 13,
+  "total_issues": 8,
+  "issues_by_method": {
+    "KG": [
+      "sample_size=5996: NOT in translation",
+      "age_range=10-17: NOT in translation"
+    ],
+    "RAG": [],
+    "verify_numbers": [],
+    "human_reviewer": [
+      "Causal language \"dẫn đến\": ể hộ có VTN gặp vấn đề SKTT nhẹ từ chối với tỷ lệ cao hơn (do kỳ thị gia đình), dẫn đến underestimate. Công bố phân tích sensitivity về non-response là cần thiết cho b",
+      "Causal language \"khiến\":  nhận và đề xuất adapt câu hỏi cho VTN trong wave tiếp theo.\n5. Loại 18–19 tuổi khiến thiếu \"late adolescence\" Cũng lưu ý: V-NAMHS không phát hiện khác biệt về tỷ lệ",
+      "Causal language \"khiến\": o khai rõ \"tests of statistical significance are not included in this report\" — khiến người đọc phải tin vào việc \"only statistically significant differences are dis",
+      "Only 1 mentions of limitation — may be insufficient"
+    ],
+    "external": [],
+    "cross_research": [
+      "VN022 peer verify: partial (26,1 hit: False)"
+    ],
+    "AEP": [],
+    "provenance": [
+      "5.996: broken at ['pdf']"
+    ],
+    "ontology": [],
+    "contradictions": [],
+    "claim_strength": []
+  },
+  "kg_facts_count": 35,
+  "coverage_summary": {
+    "pdf_chars": 133133,
+    "translation_chars": 123318,
+    "summary_chars": 8097,
+    "critique_chars": 42612
+  }
+}

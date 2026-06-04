@@ -1,0 +1,142 @@
+{
+  "report": "Bao cao Can thiep tam ly RLLA VTN - 10042026 v2.docx",
+  "total_citations": 28,
+  "matched": [
+    {
+      "author": "Bress",
+      "year": "2024",
+      "canonical_id": "QT043",
+      "descriptor": "Bress_JAMA_Maya_App_2024"
+    },
+    {
+      "author": "Bress et al",
+      "year": "2024",
+      "canonical_id": "QT043",
+      "descriptor": "Bress_JAMA_Maya_App_2024"
+    },
+    {
+      "author": "Carter",
+      "year": "2025",
+      "canonical_id": "QT042",
+      "descriptor": "BrownCarter_UK_School_JMH_2025"
+    },
+    {
+      "author": "Menon",
+      "year": "2025",
+      "canonical_id": "QT051",
+      "descriptor": "Menon_LMIC_SEA_Pacific_APJPH_2025_ABSTRACT"
+    },
+    {
+      "author": "Menon et al",
+      "year": "2025",
+      "canonical_id": "QT051",
+      "descriptor": "Menon_LMIC_SEA_Pacific_APJPH_2025_ABSTRACT"
+    },
+    {
+      "author": "Sasaki",
+      "year": "2024",
+      "canonical_id": "QT045",
+      "descriptor": "Sasaki_Japan_iCBT_JMIR_2024"
+    },
+    {
+      "author": "Sasaki et al",
+      "year": "2024",
+      "canonical_id": "QT045",
+      "descriptor": "Sasaki_Japan_iCBT_JMIR_2024"
+    },
+    {
+      "author": "Silva",
+      "year": "2024",
+      "canonical_id": "QT038",
+      "descriptor": "DeSilva_SriLanka_RCT_2024"
+    },
+    {
+      "author": "Silva et al",
+      "year": "2024",
+      "canonical_id": "QT038",
+      "descriptor": "DeSilva_SriLanka_RCT_2024"
+    },
+    {
+      "author": "Walder",
+      "year": "2025",
+      "canonical_id": "QT040",
+      "descriptor": "Walder_JMIR_DMHI_SAD_2025"
+    },
+    {
+      "author": "Walder et al",
+      "year": "2025",
+      "canonical_id": "QT040",
+      "descriptor": "Walder_JMIR_DMHI_SAD_2025"
+    }
+  ],
+  "unmatched": [
+    {
+      "author": "Brown",
+      "year": "2024"
+    },
+    {
+      "author": "Cao",
+      "year": "2025"
+    },
+    {
+      "author": "Cao et al",
+      "year": "2025"
+    },
+    {
+      "author": "Fitzgerald",
+      "year": "2024"
+    },
+    {
+      "author": "Fitzgerald et al",
+      "year": "2024"
+    },
+    {
+      "author": "Hartanto",
+      "year": "2024"
+    },
+    {
+      "author": "Jiang",
+      "year": "2024"
+    },
+    {
+      "author": "Kang",
+      "year": "2026"
+    },
+    {
+      "author": "Kuyken",
+      "year": "2022"
+    },
+    {
+      "author": "Li",
+      "year": "2025"
+    },
+    {
+      "author": "Li et al",
+      "year": "2025"
+    },
+    {
+      "author": "Ngọc",
+      "year": "2018"
+    },
+    {
+      "author": "Walkup",
+      "year": "2008"
+    },
+    {
+      "author": "Walkup et al",
+      "year": "2008"
+    },
+    {
+      "author": "Wang",
+      "year": "2025"
+    },
+    {
+      "author": "Zugman",
+      "year": "2024"
+    },
+    {
+      "author": "Zugman et al",
+      "year": "2024"
+    }
+  ]
+}

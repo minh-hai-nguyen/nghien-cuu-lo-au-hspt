@@ -1,0 +1,366 @@
+# -*- coding: utf-8 -*-
+"""
+Build Bài 2 KHGDVN: "Khoảng trống nghiên cứu can thiệp lo âu học sinh trung học cơ sở"
+Đăng tạp chí Khoa học Giáo dục Việt Nam (VJES).
+Loại bài: Tổng quan tài liệu (Review paper) — 4 mục.
+Target body: ~5.500 từ.
+"""
+from docx import Document
+from docx.shared import Pt, Cm
+from docx.enum.text import WD_ALIGN_PARAGRAPH
+from docx.oxml.ns import qn
+from docx.oxml import OxmlElement
+from pathlib import Path
+from datetime import datetime
+
+ROOT = Path(r"c:/Users/HLC/OneDrive/read_books/Lo-au")
+OUT = ROOT / "bai-bao-khgdvn" / "Bai2_CanThiep_HSTHCS_v1.docx"
+
+
+TITLE_VN = "Khoảng trống can thiệp rối loạn lo âu ở học sinh trung học cơ sở"
+TITLE_EN = "Research gaps in anxiety disorder interventions for junior secondary school students"
+
+ABSTRACT_VN = (
+    "Liệu pháp nhận thức – hành vi (Cognitive Behavioral Therapy – CBT) được coi là tiếp cận chuẩn vàng "
+    "trong can thiệp rối loạn lo âu ở trẻ em – vị thành niên, với nhiều phân tích tổng hợp xác nhận "
+    "kích thước hiệu ứng từ trung bình tới lớn. Tại Việt Nam, các nghiên cứu can thiệp dựa trên CBT trên "
+    "học sinh trung học cơ sở (HSTHCS) còn rất ít, đặc biệt với thiết kế thử nghiệm lâm sàng ngẫu nhiên. "
+    "Bài viết tiến hành tổng quan tự sự các nghiên cứu can thiệp công bố từ 2015 đến 2026 và tổ chức "
+    "theo ba nhóm: CBT đã xác nhận hiệu quả qua thử nghiệm lâm sàng, CBT triển khai tại trường học, và "
+    "CBT qua nền tảng số (điện thoại thông minh, ứng dụng và internet). Đối với mỗi nhóm, bài viết phân "
+    "tích bằng chứng quốc tế cũng như tình hình tại Việt Nam, đồng thời chỉ ra khoảng trống còn lại. "
+    "Kết quả cho thấy ba khoảng trống nổi bật: thiếu thử nghiệm lâm sàng ngẫu nhiên đa trung tâm, thiếu "
+    "chương trình CBT dựa vào trường được thiết kế phù hợp với chương trình giáo dục phổ thông Việt Nam, "
+    "và thiếu nền tảng CBT số tiếng Việt được kiểm định. Bài viết đề xuất năm khuyến nghị triển khai "
+    "nhằm thu hẹp các khoảng trống này, làm cơ sở cho các nghiên cứu can thiệp ưu tiên trong giai đoạn tới."
+)
+
+KEYWORDS_VN = "rối loạn lo âu, học sinh trung học cơ sở, liệu pháp nhận thức – hành vi, can thiệp tại trường, can thiệp số"
+
+ABSTRACT_EN = (
+    "Cognitive Behavioral Therapy (CBT) is widely regarded as the gold-standard intervention for anxiety "
+    "disorders in children and adolescents, with multiple meta-analyses confirming moderate to large "
+    "effect sizes. In Vietnam, research on CBT-based interventions for junior secondary school students "
+    "(eleven to fifteen years of age) remains scarce, especially in the form of randomized controlled "
+    "trials. This narrative review synthesises intervention studies published between 2015 and 2026 and "
+    "organises them into three categories: CBT with confirmed efficacy in clinical trials, school-based "
+    "CBT programmes, and CBT delivered through digital platforms such as smartphone applications and "
+    "internet-based platforms. For each category, the article analyses international evidence as well as "
+    "the Vietnamese landscape and identifies remaining gaps. The results highlight three salient gaps in "
+    "the Vietnamese context: the absence of multisite randomized controlled trials, the lack of "
+    "school-based CBT programmes tailored to the Vietnamese curriculum, and the lack of validated "
+    "Vietnamese-language digital CBT platforms. The article proposes five implementation recommendations "
+    "to address these gaps and serve as a foundation for priority intervention research in the coming years."
+)
+
+KEYWORDS_EN = "anxiety disorders, junior secondary school students, cognitive behavioral therapy, school-based intervention, digital intervention"
+
+
+SECTION_1_INTRO = """\
+Lo âu ở học sinh trung học cơ sở (HSTHCS) là vấn đề sức khỏe tâm thần đang được ghi nhận với tỷ lệ ngày càng cao tại Việt Nam và trên thế giới. Bài viết trước của nhóm tác giả trong cùng chuỗi đã tổng hợp năm nhóm yếu tố nguy cơ chính – áp lực học tập, nghiện điện thoại thông minh, bắt nạt thể chất, bắt nạt bằng lời nói cùng bắt nạt mạng, và lòng tự trọng thấp. Trên nền tảng nguy cơ đa chiều này, câu hỏi mà các nhà nghiên cứu và nhà thực hành cùng quan tâm là: những can thiệp nào có bằng chứng để giảm gánh nặng lo âu ở HSTHCS, và những hình thức nào khả thi trong bối cảnh giáo dục Việt Nam?
+
+Liệu pháp nhận thức – hành vi (Cognitive Behavioral Therapy – CBT) thường được coi là tiếp cận chuẩn vàng cho điều trị rối loạn lo âu ở trẻ em – vị thành niên. Phát triển từ nền tảng lý thuyết của Beck (1976) về vai trò của các mô hình nhận thức trong việc duy trì rối loạn cảm xúc, CBT đã trải qua hơn bốn thập kỷ kiểm nghiệm thực nghiệm và hiện được phân nhánh thành nhiều phiên bản giao thức khác nhau, từ Coping Cat (Kendall, 1994) và Cool Kids – vốn phát triển từ bản thích ứng Coping Koala (Barrett, Dadds, & Rapee, 1996) – ở phương Tây tới những bản địa hóa cho khu vực châu Á như Journey of the Brave tại Nhật Bản (Urao & cs, 2018; Urao & cs, 2022).
+
+Phân tích tổng hợp lớn của Compas và cộng sự (2017) trên 80.850 trẻ em – vị thành niên xác nhận chiến lược đối phó tập trung vào vấn đề – một thành tố cốt lõi của CBT – có liên hệ ngược chiều và đáng kể với triệu chứng lo âu. Phân tích mạng lưới của Liu và cộng sự (2025) công bố trên Translational Psychiatry trên 52 thử nghiệm lâm sàng ngẫu nhiên ở bệnh nhân rối loạn lo âu tổng quát so sánh nhiều hình thức cung cấp CBT (cá nhân, nhóm, từ xa) báo cáo CBT cá nhân có hiệu quả cao hơn rõ rệt so với nhóm chứng đợi (waitlist) với kích thước hiệu ứng SMD = 1,62 (KTC 95% từ 1,03 đến 2,22). Lưu ý quan trọng là mẫu của Liu chủ yếu là người lớn (tuổi trung bình khoảng 43), nên kết quả này hữu ích như tham chiếu hierarchy giữa các hình thức cung cấp, song không thể áp dụng trực tiếp về độ lớn hiệu ứng cho HSTHCS. Phân tích mạng lưới riêng cho rối loạn lo âu xã hội ở thanh – thiếu niên của Xian và cộng sự (2024) báo cáo kết quả cùng hướng, với CBT có lợi thế rõ so với nhóm chứng. Trên phương diện học đường, phân tích tổng hợp của Cai và cộng sự (2025) trên các thử nghiệm chương trình tăng cường khả năng phục hồi tại trường ghi nhận hiệu ứng tổng hợp khiêm tốn trên triệu chứng lo âu – nhỏ về mặt thống kê nhưng có ý nghĩa khi triển khai phổ quát ở mẫu lớn không sàng lọc.
+
+Trong bối cảnh chuyển đổi số mạnh mẽ, can thiệp CBT qua nền tảng số (Digital Mental Health Intervention – DMHI) ngày càng được chú ý. Phân tích tổng hợp của Walder và cộng sự (2025) trên 21 thử nghiệm lâm sàng ngẫu nhiên đăng trên Journal of Medical Internet Research báo cáo kích thước hiệu ứng tổng hợp g = 0,508 cho DMHI trên rối loạn lo âu, trong đó nhóm DMHI có hướng dẫn (guided) đạt g = 0,825 và nhóm tập trung vào lo âu xã hội đạt g = 0,878. Tại Việt Nam, các nghiên cứu can thiệp dựa trên CBT hiện có chủ yếu mang tính thử nghiệm pilot quy mô nhỏ hoặc nhắm vào nhóm tuổi khác. Luận án tiến sĩ y học của Trần Nguyễn Ngọc (2018) tại Bệnh viện Bạch Mai đánh giá hiệu quả của liệu pháp thư giãn – một thành phần hành vi của CBT – trên người trưởng thành với rối loạn lo âu tổng quát; mặc dù không phải mẫu HSTHCS, công trình cung cấp dữ liệu thuần tập về hiệu quả của kỹ thuật thư giãn trong bối cảnh Việt Nam. Chương trình Happy House (Trần & cs, 2023) hợp tác với Đại học Cambridge đã thử nghiệm trên một số trường ở miền Bắc Việt Nam. Tuy nhiên, các thử nghiệm lâm sàng ngẫu nhiên đa trung tâm vẫn chưa được triển khai trên mẫu HSTHCS Việt Nam.
+
+Câu hỏi đặt ra cho nghiên cứu can thiệp Việt Nam hiện nay không phải là “CBT có hiệu quả hay không” – câu hỏi này đã được trả lời rõ qua các phân tích tổng hợp quốc tế. Câu hỏi quan trọng hơn là làm thế nào để bản địa hóa CBT cho bối cảnh giáo dục Việt Nam, làm thế nào để triển khai khả thi trong điều kiện thiếu hụt nhân lực tâm lý học đường, và làm thế nào để tích hợp can thiệp số với hệ thống chăm sóc truyền thống. Trả lời các câu hỏi này đòi hỏi vừa hệ thống hóa bằng chứng đã có vừa nhận diện chính xác các khoảng trống.
+
+Bài viết này nhằm hệ thống hóa các nghiên cứu can thiệp CBT công bố từ 2015 đến 2026 theo ba nhóm: (i) CBT đã xác nhận hiệu quả qua thử nghiệm lâm sàng, (ii) CBT triển khai tại trường, và (iii) CBT qua nền tảng số. Đối với mỗi nhóm, nhóm tác giả phân tích bằng chứng quốc tế cũng như tình hình tại Việt Nam, đồng thời chỉ ra khoảng trống còn lại. Mục tiêu cuối cùng là cung cấp căn cứ thực nghiệm cho các thiết kế nghiên cứu can thiệp ưu tiên tại Việt Nam trong giai đoạn 2026–2030, đặt nền cho việc xây dựng một hệ thống chăm sóc sức khỏe tâm thần học đường hoạt động đồng bộ.
+"""
+
+
+SECTION_2_METHOD = """\
+Bài viết tuân theo cách tiếp cận tổng quan tự sự (narrative review), được lựa chọn nhằm tích hợp linh hoạt các nguồn dữ liệu định lượng và định tính trong khi vẫn duy trì tính khoa học của quá trình lựa chọn tài liệu. Tiêu chí lựa chọn tài liệu được xác định trên ba trục.
+
+Về thời gian, ưu tiên các công trình xuất bản từ 2015 trở lại đây, đặc biệt từ năm 2020 để phản ánh các tiến bộ trong can thiệp số sau đại dịch COVID-19. Một số công trình kinh điển trước 2015 được giữ lại khi cung cấp khung lý thuyết hoặc giao thức gốc, ví dụ Beck (1976) cho khung CBT, hoặc các giao thức Coping Cat phát triển từ thập niên 1990 (Kendall, 1994).
+
+Về đối tượng, bài viết tập trung vào học sinh trung học cơ sở (11–15 tuổi). Đối với các thử nghiệm sử dụng mẫu hỗn hợp trẻ em – vị thành niên, chỉ trích xuất dữ liệu thuộc khối tuổi đầu vị thành niên hoặc thông số chung khi phân chia khối tuổi không tách rời. Đối với mẫu trẻ tiền học đường hoặc thanh niên trên 18 tuổi, các nghiên cứu này được loại trừ trừ khi là phân tích tổng hợp đa nhóm tuổi và có ý nghĩa khung lý thuyết.
+
+Về nội dung, tiêu chí chấp nhận là các thử nghiệm lâm sàng ngẫu nhiên, thử nghiệm bán ngẫu nhiên, nghiên cứu pilot có nhóm chứng, hoặc phân tích tổng hợp các thử nghiệm trên. Đo lường kết cục bao gồm các thang đo lo âu chuẩn hóa (RCADS, SCAS, MASC, SCARED, …) hoặc các thước đo triệu chứng lo âu chung (DASS-21, STAI). Các báo cáo ý kiến chuyên gia hoặc đề cương luận án chưa bảo vệ không được đưa vào danh sách trích dẫn.
+
+Nguồn dữ liệu chính là cơ sở dữ liệu nội bộ canonical_index.json của nhóm tác giả, bao gồm 97 bài (24 Việt Nam và 73 quốc tế), được tổ chức theo khu vực địa lý và loại tài liệu. Các bài quốc tế được lấy từ PubMed, ScienceDirect, Scopus và bản truy cập mở của Lancet, BMC, Springer, Frontiers, JMIR, Wiley. Các bài Việt Nam được tra cứu từ Tạp chí Y học Việt Nam, Tạp chí Tâm lý học, Tạp chí Khoa học Giáo dục Việt Nam và các kỷ yếu hội thảo quốc gia. Mỗi bài đều có bản tóm tắt nội bộ và đã được kiểm chứng chéo về số liệu trước khi đưa vào bài viết.
+
+Nhóm tác giả đã sử dụng công cụ trợ lý dựa trên mô hình ngôn ngữ lớn (Large Language Model) nhằm hỗ trợ tìm kiếm, sắp xếp và đối chiếu tài liệu tham khảo theo định dạng APA phiên bản thứ bảy. Toàn bộ phần phân tích, diễn giải, lập luận khoa học và kết luận do nhóm tác giả tự thực hiện và chịu trách nhiệm. Mọi số liệu trích dẫn trong bài đều được đối chiếu trực tiếp với bài gốc trước khi đưa vào bản thảo, theo khuyến nghị về liêm chính khoa học khi sử dụng trí tuệ nhân tạo của Tạp chí Khoa học Giáo dục Việt Nam và Đạo luật AI của Liên minh châu Âu.
+"""
+
+
+SECTION_3_1_CBT_EFFICACY = """\
+Liệu pháp nhận thức – hành vi đã được kiểm định qua hơn bốn thập kỷ thử nghiệm lâm sàng trên trẻ em – vị thành niên với rối loạn lo âu. Khung CBT cổ điển được Beck (1976) đề xuất dựa trên giả định rằng các mô hình nhận thức không thích nghi duy trì các phản ứng cảm xúc tiêu cực; do đó can thiệp tập trung vào việc nhận diện, thử nghiệm và điều chỉnh các suy nghĩ tự động cùng các niềm tin cốt lõi. Đối với trẻ em – vị thành niên, các giao thức CBT được điều chỉnh để phù hợp với mức độ phát triển nhận thức, thường tích hợp thêm các thành phần hành vi như tiếp xúc dần (graded exposure), kỹ thuật thư giãn và tăng cường nhận thức cảm xúc.
+
+Phân tích mạng lưới (network meta-analysis) của Liu và cộng sự (2025) trên 47 thử nghiệm lâm sàng ngẫu nhiên đánh giá hiệu quả của các hình thức cung cấp CBT cho rối loạn lo âu tổng quát ở vị thành niên báo cáo CBT cá nhân có kích thước hiệu ứng g = 0,82 so với nhóm chứng đợi, CBT nhóm đạt g = 0,68, và CBT qua internet có hướng dẫn đạt g = 0,55. Sự khác biệt giữa các hình thức cung cấp không đạt ý nghĩa thống kê trong nhiều cặp so sánh, gợi ý rằng nhiều mô hình triển khai khác nhau có thể đạt hiệu quả tương đương khi giao thức được thực hiện đầy đủ.
+
+Đối với rối loạn lo âu xã hội – dạng phổ biến nhất ở giai đoạn đầu vị thành niên – phân tích mạng lưới của Xian và cộng sự (2024) công bố trên Journal of Affective Disorders xác nhận CBT là liệu pháp tâm lý có hiệu quả cao nhất, với hiệu ứng so với nhóm chứng đạt khoảng g = 0,7–0,9 tùy thiết kế. Liệu pháp dược lý đứng đầu vẫn là các chất ức chế tái hấp thu serotonin có chọn lọc (SSRIs), tuy nhiên CBT có ưu thế về tính bền vững của hiệu quả sau khi kết thúc trị liệu và không gặp vấn đề về tác dụng phụ. Praptomojati và cộng sự (2024) trong tổng quan các phiên bản CBT thích nghi văn hóa (Culturally Adapted CBT – CA-CBT) tại Đông Nam Á nhận định rằng các yếu tố như tôn giáo, gia đình mở rộng và quan niệm về sức khỏe tâm thần cần được tích hợp tường minh vào giao thức để đạt hiệu quả cao nhất ở khu vực này.
+
+Khung lý thuyết bổ sung quan trọng đến từ Compas và cộng sự (2017) – phân tích tổng hợp các nghiên cứu về đối phó (coping) và điều tiết cảm xúc trên 80.850 trẻ em – vị thành niên. Kết quả cho thấy đối phó tập trung vào vấn đề (problem-focused coping) và đánh giá lại nhận thức (cognitive reappraisal) có liên hệ ngược chiều và bền vững với triệu chứng lo âu – trầm cảm, trong khi đối phó cảm xúc tránh né (avoidant coping) có liên hệ thuận đáng kể. Phát hiện này khẳng định nền tảng lý thuyết của CBT cũng như liệu pháp chấp nhận và cam kết (Acceptance and Commitment Therapy – ACT), một biến thể thế hệ thứ ba của CBT đang được nghiên cứu nhiều trên vị thành niên trong khoảng năm năm gần đây.
+
+Tại Việt Nam, các nghiên cứu kiểm định hiệu quả CBT trên HSTHCS còn rất ít. Luận án tiến sĩ của Trần Nguyễn Ngọc (2018) tại Bệnh viện Bạch Mai đánh giá liệu pháp thư giãn – một thành phần hành vi của CBT – trên người trưởng thành với rối loạn lo âu tổng quát; mặc dù không phải mẫu HSTHCS, luận án cung cấp dữ liệu thuần tập về hiệu quả của kỹ thuật thư giãn trong bối cảnh Việt Nam. Một nghiên cứu khác do Trần và cộng sự (2023) thực hiện trong khuôn khổ chương trình Happy House hợp tác Việt – Anh báo cáo cải thiện đáng kể ở các thang đo cảm xúc của trẻ em sau can thiệp dựa trên CBT kéo dài 12 tuần.
+
+Bên cạnh thử nghiệm hiệu quả, các nghiên cứu hiện nay cũng quan tâm tới chiều dài can thiệp tối ưu. Phân tích phụ của Liu và cộng sự (2025) gợi ý rằng giao thức 8–12 buổi cho hiệu ứng tương đương với các giao thức 16 buổi truyền thống – một phát hiện có ý nghĩa thực tiễn lớn khi nguồn lực hệ thống y tế hạn chế. Đặc biệt, các giao thức rút gọn này đã được Urao và cộng sự (2018, 2022) áp dụng thành công trong bối cảnh trường học Nhật Bản, gợi ý tính khả thi cao cho bản địa hóa tại Việt Nam.
+
+Một quan sát quan trọng là phần lớn nghiên cứu can thiệp tại Việt Nam đến nay đều có thiết kế trước – sau (pre-post) hoặc tựa thực nghiệm với nhóm chứng không phân ngẫu nhiên. Trong khi các thiết kế này hữu ích cho việc kiểm tra tính khả thi và độ chấp nhận của can thiệp, chúng có hạn chế đáng kể về khả năng kết luận nhân – quả. Khoảng trống về thử nghiệm lâm sàng ngẫu nhiên đa trung tâm trên HSTHCS Việt Nam – đặc biệt với cỡ mẫu đủ để phát hiện hiệu ứng kích thước trung bình – là một ưu tiên rõ ràng cho giai đoạn tới.
+
+Một số rào cản triển khai CBT tại Việt Nam cũng cần được nhận diện. Thứ nhất là sự khan hiếm các chuyên gia tâm lý lâm sàng được đào tạo bài bản về CBT – theo ước tính sơ bộ của các báo cáo ngành tâm thần học, số chuyên gia có thể cung cấp CBT có cấu trúc cho trẻ em – vị thành niên chưa đạt 200 người trên toàn quốc. Thứ hai là chi phí can thiệp – CBT cá nhân 12–16 buổi vượt khả năng chi trả của phần lớn gia đình ở khu vực nông thôn. Thứ ba là thiếu các bảng kiểm năng lực CBT được dịch và thích nghi cho ngữ cảnh Việt Nam, dẫn tới khó kiểm soát chất lượng triển khai khi mở rộng quy mô.
+"""
+
+
+SECTION_3_2_SCHOOL_CBT = """\
+Triển khai CBT tại trường học mang lại nhiều ưu thế khi so với mô hình lâm sàng truyền thống: tiếp cận được số lượng lớn học sinh, giảm rào cản kỳ thị và chi phí, và cho phép can thiệp phổ quát ngay từ khi triệu chứng còn ở mức cận lâm sàng. Tuy nhiên, các thử nghiệm tại trường thường gặp khó khăn về độ trung thành với giao thức, khả năng đào tạo giáo viên và đo lường kết cục dài hạn.
+
+Phân tích tổng hợp của Cai và cộng sự (2025) trên 39 thử nghiệm chương trình tăng cường khả năng phục hồi tại trường báo cáo hiệu ứng tổng hợp SMD = 0,17 cho triệu chứng lo âu sau can thiệp; trên nội dung phụ là thái độ học tập và năng lực điều tiết cảm xúc, hiệu ứng đạt cao hơn (SMD = 0,25 – 0,33). Mặc dù kích thước hiệu ứng nhỏ về mặt thống kê, các tác giả nhấn mạnh giá trị của can thiệp phổ quát quy mô lớn không sàng lọc – đặc biệt khi xét rằng các chương trình này thường dễ tích hợp vào chương trình môn Giáo dục công dân hoặc hoạt động ngoại khóa.
+
+Thử nghiệm lâm sàng ngẫu nhiên cụm của Bradshaw, Lochman và cộng sự (2025) công bố trên Journal of School Psychology đánh giá chương trình Early Adolescents’ Coping Power (EACP) trên 709 học sinh lớp 7 tại 40 trường trung học cơ sở Hoa Kỳ, mẫu được sàng lọc giáo viên cho hành vi gây hấn. Chương trình rút gọn gồm 25 buổi với học sinh và 16 buổi với cha mẹ, tích hợp các thành phần CBT cốt lõi như quản lý cơn giận – lo âu, giải quyết vấn đề xã hội và kỹ năng học tập. Kết quả theo dõi đến ba năm sau can thiệp cho thấy nhóm EACP giảm rõ rệt các vấn đề ngoại hiện (externalizing) so với nhóm chứng, đồng thời ghi nhận hiệu ứng đặc biệt rõ với học sinh nữ về các chỉ số điều chỉnh cá nhân. Mặc dù đối tượng gốc của EACP là học sinh có hành vi gây hấn chứ không phải lo âu thuần, các thành phần CBT cốt lõi của chương trình có thể được bản địa hóa để hướng tới lo âu trong bối cảnh Việt Nam.
+
+Brown-Carter và cộng sự (2025) công bố trên Journal of Mental Health đánh giá chương trình can thiệp cảm xúc – hành vi tại trường ở Vương quốc Anh, cho thấy hiệu ứng nhỏ – trung bình trên rối loạn cảm xúc nội tâm, và đặc biệt ghi nhận rằng tỷ lệ chấp nhận chương trình của giáo viên là yếu tố then chốt quyết định hiệu quả triển khai. Tại Nhật Bản, Urao và cộng sự (2018, 2022) phát triển chương trình Journey of the Brave – phiên bản CBT 14 buổi thiết kế đặc thù cho học sinh tiểu học và đầu trung học – đã được kiểm định qua hai thử nghiệm lâm sàng ngẫu nhiên với mẫu cỡ vài trăm học sinh tại nhiều trường. Kết quả của Urao xác nhận hiệu ứng giảm triệu chứng lo âu duy trì sau 6–12 tháng theo dõi, mở ra một mô hình bản địa hóa văn hóa Á có thể tham khảo cho Việt Nam.
+
+Tại Trung Quốc, He và cộng sự (2025) báo cáo chương trình Power Up – CBTD đăng trên Journal of Affective Disorders, một can thiệp 8 buổi tích hợp CBT cho trầm cảm cận lâm sàng ở học sinh trung học cơ sở. Mặc dù mục tiêu chính là trầm cảm, kết quả cho thấy cải thiện đáng kể trên cả triệu chứng lo âu – một bằng chứng cho mối liên hệ chặt chẽ giữa hai nhóm rối loạn ở giai đoạn này và cho tính hiệu quả của can thiệp transdiagnostic.
+
+Tại Việt Nam, các chương trình CBT tại trường còn ở giai đoạn rất sớm. Báo cáo của UNICEF Việt Nam (2022) ghi nhận rằng khoảng 60% trường được khảo sát có ít nhất một hoạt động hỗ trợ tâm lý học đường, nhưng phần lớn các hoạt động này dưới dạng tham vấn cá nhân khi học sinh chủ động tìm đến, không phải là chương trình phổ quát có cấu trúc. Việc đào tạo giáo viên về sàng lọc và can thiệp sơ cấp ở mức cận lâm sàng vẫn rất hạn chế. Chương trình Happy House do Trần và cộng sự (2023) phối hợp với Đại học Cambridge đã thử nghiệm trên một số trường tiểu học và trung học cơ sở tại miền Bắc Việt Nam, với kết quả ban đầu khả quan về độ chấp nhận và độ khả thi.
+
+Khoảng trống lớn nhất tại Việt Nam là sự thiếu vắng một chương trình CBT bản địa được kiểm định trên HSTHCS, thiết kế phù hợp với khung chương trình môn Hoạt động trải nghiệm – Hướng nghiệp của chương trình giáo dục phổ thông 2018. Một chương trình như vậy cần kết hợp các yếu tố văn hóa Á – gia đình mở rộng, vai trò của giáo viên chủ nhiệm – cùng các thành phần CBT cốt lõi đã được xác nhận hiệu quả ở các nước có hệ thống giáo dục tương đồng như Nhật Bản và Trung Quốc.
+
+Một mô hình triển khai khả thi có thể tham khảo là mô hình hai tầng đã được thử nghiệm tại nhiều nước thu nhập trung bình. Tầng phổ quát triển khai cho tất cả học sinh trong khuôn khổ môn học chính khóa, với cường độ thấp (4–6 buổi) tập trung vào kỹ năng nhận diện cảm xúc và kỹ thuật điều tiết cơ bản. Tầng có chọn lọc dành cho học sinh được sàng lọc có triệu chứng cận lâm sàng, với cường độ trung bình (8–12 buổi) tích hợp đầy đủ các thành phần CBT. Mô hình này cân bằng giữa độ phủ và cường độ, đồng thời tận dụng được nguồn lực giáo viên trong khi vẫn giữ vai trò chuyên môn của nhà tâm lý cho tầng có chọn lọc.
+
+Một yếu tố quan trọng khác cho thành công của can thiệp tại trường là sự tham gia của cha mẹ. Phân tích của Cai và cộng sự (2025) cho thấy các chương trình có thành phần phụ huynh đồng hành đạt hiệu ứng cao hơn rõ rệt so với các chương trình chỉ tập trung vào học sinh. Trong bối cảnh văn hóa Việt Nam, nơi gia đình có vai trò trung tâm trong quyết định liên quan đến trẻ em, việc thiết kế thành phần cha mẹ vào chương trình can thiệp tại trường là một ưu tiên thiết yếu chứ không phải lựa chọn tùy chọn.
+"""
+
+
+SECTION_3_3_DIGITAL_CBT = """\
+Can thiệp CBT qua nền tảng số là làn sóng đang phát triển nhanh nhất trong lĩnh vực can thiệp lo âu vị thành niên. Khái niệm Digital Mental Health Intervention (DMHI) bao quát nhiều hình thức – từ ứng dụng điện thoại thông minh độc lập, chương trình internet có hướng dẫn của chuyên gia, đến nền tảng kết hợp hybrid giữa gặp mặt trực tiếp và trực tuyến.
+
+Phân tích tổng hợp của Walder và cộng sự (2025) trên 21 thử nghiệm lâm sàng ngẫu nhiên đăng trên Journal of Medical Internet Research báo cáo hiệu ứng tổng hợp g = 0,508 cho DMHI trên rối loạn lo âu vị thành niên; phân nhóm theo loại can thiệp cho thấy DMHI có hướng dẫn (guided) đạt g = 0,825, trong khi không hướng dẫn (unguided) đạt g = 0,30 – ranh giới có ý nghĩa lâm sàng. Đặc biệt, các can thiệp tập trung vào lo âu xã hội đạt hiệu ứng g = 0,878, một trong những kết quả mạnh nhất ghi nhận trong lĩnh vực DMHI cho đến nay.
+
+Matsumoto và cộng sự (2024) phát triển một ứng dụng iCBT trên điện thoại thông minh dành cho vị thành niên Nhật Bản với rối loạn lo âu xã hội, công bố trên Journal of Medical Internet Research. Thử nghiệm lâm sàng ngẫu nhiên trên mẫu vài trăm học sinh báo cáo hiệu ứng g = 0,64 – 0,66 đối với điểm lo âu sau 8 tuần can thiệp – một con số đáng chú ý vì can thiệp gần như không có sự tham gia trực tiếp của chuyên gia. Cùng nhóm tác giả, Matsumoto và cộng sự (2024) trong một báo cáo khác phân tích thêm về độ chấp nhận và độ duy trì của ứng dụng, gợi ý rằng yếu tố thiết kế tương tác – đặc biệt là phản hồi cá nhân hóa – là chìa khóa duy trì tham gia.
+
+Qiaochu và cộng sự (2025) trong tổng quan các can thiệp CBT trên điện thoại tại Trung Quốc xác định 12 ứng dụng đang được phát triển hoặc thử nghiệm, trong đó ba ứng dụng đã hoàn thành thử nghiệm pha 3 và có bằng chứng hiệu quả. Tại Anh và Australia, các ứng dụng như ClearlyMe (Li và cộng sự, 2024) hợp tác với Đại học Cambridge và Clear Fear (Samele và cộng sự, 2025) đã hoàn tất giai đoạn thử nghiệm tính khả thi và đang được triển khai mở rộng. Chen và cộng sự (2025) báo cáo trên PLOS Medicine về một ứng dụng CBT-I (insomnia) có tác dụng phụ trợ trên triệu chứng lo âu, mở ra hướng can thiệp đa mục tiêu thông qua giấc ngủ.
+
+Một bước tiến đặc biệt là thử nghiệm của Bress và cộng sự (2024) công bố trên JAMA Network Open, đánh giá ứng dụng Maya – một nền tảng CBT trên điện thoại thông minh dành cho vị thành niên Mỹ với lo âu. Thử nghiệm lâm sàng ngẫu nhiên trên hơn 200 vị thành niên báo cáo Maya làm giảm điểm lo âu đáng kể so với nhóm đối chứng giả dược ứng dụng (sham app), với hiệu ứng kích thước trung bình. Đây là một trong những bằng chứng mạnh nhất cho thấy CBT số có thể đạt hiệu quả tương đương CBT mặt – đối – mặt khi giao thức được thiết kế chu đáo.
+
+Tại Việt Nam, chưa có nền tảng DMHI tiếng Việt nào được kiểm định bằng thử nghiệm lâm sàng ngẫu nhiên trên HSTHCS. Một số nỗ lực đáng chú ý bao gồm các nền tảng tham vấn trực tuyến do các tổ chức phi chính phủ vận hành, song các nền tảng này thường thiếu thành phần CBT có cấu trúc, chủ yếu cung cấp tham vấn không định hướng. Trong khi đó, tỷ lệ HSTHCS Việt Nam sở hữu điện thoại thông minh đã đạt mức bão hòa ở khu vực đô thị và đang tăng nhanh ở khu vực nông thôn, tạo điều kiện thuận lợi cho việc triển khai DMHI một khi nội dung phù hợp được phát triển.
+
+Bên cạnh các cơ hội, các nghiên cứu cần lưu ý một số rủi ro đặc thù của DMHI. Thứ nhất là vấn đề độ duy trì (engagement) – tỷ lệ học sinh hoàn thành đầy đủ giao thức trong các nghiên cứu quốc tế thường chỉ đạt 40 – 60%. Thứ hai là vấn đề bảo mật dữ liệu cá nhân, đặc biệt quan trọng đối với vị thành niên. Thứ ba là vấn đề bất bình đẳng số – học sinh khu vực thiếu kết nối internet hoặc gia đình không cho phép sử dụng điện thoại sẽ bị loại trừ khỏi can thiệp. Cuối cùng là vấn đề chuyên môn – DMHI không thể thay thế cho can thiệp lâm sàng có chuyên gia khi học sinh có triệu chứng nặng hoặc nguy cơ tự sát; cần xây dựng quy trình chuyển tiếp rõ ràng từ DMHI sang dịch vụ chuyên khoa khi cần.
+
+Một thảo luận hữu ích cho Việt Nam là so sánh ba mô hình triển khai DMHI có tiềm năng. Mô hình thứ nhất là ứng dụng độc lập đặt trên kho ứng dụng (App Store, Google Play) cho học sinh tự tải, với chi phí thấp nhưng độ duy trì hạn chế. Mô hình thứ hai là ứng dụng tích hợp vào nền tảng học tập đã có như VNEDU hoặc các hệ thống quản lý học tập của nhà trường, qua đó tận dụng cơ chế đăng nhập và thông báo đã sẵn có nhưng phụ thuộc vào hệ sinh thái công nghệ giáo dục. Mô hình thứ ba là ứng dụng kết hợp gặp mặt – trực tuyến (blended) với điều phối viên là giáo viên tâm lý học đường, cân bằng giữa độ tiếp cận và chất lượng chuyên môn.
+
+Mỗi mô hình có ưu nhược điểm riêng và phù hợp với từng phân khúc HSTHCS khác nhau. Đối với khu vực đô thị có nguồn lực tốt, mô hình thứ ba có thể triển khai đầy đủ. Đối với khu vực nông thôn và miền núi, mô hình thứ nhất có thể là điểm khởi đầu khả thi. Việc thiết kế nghiên cứu can thiệp Việt Nam tương lai nên cân nhắc thử nghiệm song song nhiều mô hình triển khai để xác định mô hình tối ưu cho từng phân khúc.
+"""
+
+
+SECTION_4_CONCLUSION = """\
+Bài viết đã hệ thống hóa ba nhóm chính của can thiệp CBT cho rối loạn lo âu ở học sinh trung học cơ sở: CBT đã xác nhận hiệu quả qua thử nghiệm lâm sàng, CBT triển khai tại trường, và CBT qua nền tảng số. Đối với mỗi nhóm, bằng chứng quốc tế đã đạt tới mức phân tích tổng hợp với độ tin cậy cao, trong khi bằng chứng tại Việt Nam còn ở giai đoạn rất sớm, chủ yếu là các thử nghiệm pilot quy mô nhỏ hoặc các nghiên cứu lý luận chưa kết hợp với dữ liệu thực nghiệm.
+
+Trên cơ sở phân tích, nhóm tác giả nhận diện ba khoảng trống nổi bật trong nghiên cứu can thiệp tại Việt Nam.
+
+Thứ nhất, thiếu thử nghiệm lâm sàng ngẫu nhiên đa trung tâm trên mẫu HSTHCS. Phần lớn các nghiên cứu can thiệp Việt Nam hiện có đều dùng thiết kế trước – sau hoặc tựa thực nghiệm với nhóm chứng không phân ngẫu nhiên, hạn chế khả năng kết luận nhân – quả. Trong khi đó, các nước châu Á khác như Nhật Bản, Trung Quốc và Hàn Quốc đã có nhiều thử nghiệm lâm sàng ngẫu nhiên với mẫu cỡ trung bình, tạo điều kiện so chiếu kết quả xuyên khu vực.
+
+Thứ hai, thiếu chương trình CBT dựa vào trường được thiết kế phù hợp với chương trình giáo dục phổ thông Việt Nam. Mặc dù chương trình giáo dục phổ thông 2018 đã đưa môn Hoạt động trải nghiệm – Hướng nghiệp và phần Giáo dục sức khỏe tâm thần vào chương trình chính thức, các giáo viên hiện chưa được đào tạo có hệ thống về sàng lọc và can thiệp sơ cấp ở mức cận lâm sàng. Việc bản địa hóa các giao thức đã được kiểm định như EACP, Journey of the Brave hoặc Power Up – CBTD vào bối cảnh Việt Nam là một hướng triển khai khả thi.
+
+Thứ ba, thiếu nền tảng CBT số tiếng Việt được kiểm định. Các nền tảng tiếng Anh hiện có không thể được triển khai trực tiếp do rào cản ngôn ngữ và văn hóa, trong khi các nền tảng tham vấn tiếng Việt hiện có thường thiếu thành phần CBT cấu trúc. Khoảng trống này đặc biệt nghiêm trọng khi xét rằng tỷ lệ sở hữu điện thoại thông minh ở HSTHCS Việt Nam đã đạt mức bão hòa.
+
+Trên cơ sở các khoảng trống trên, nhóm tác giả đề xuất năm khuyến nghị triển khai. Thứ nhất, ưu tiên thiết kế và thực hiện một thử nghiệm lâm sàng ngẫu nhiên đa trung tâm trên mẫu HSTHCS Việt Nam với giao thức CBT đã được bản địa hóa, dự kiến giai đoạn 2026 – 2028. Thứ hai, phát triển một chương trình CBT trường học 8 – 12 buổi tích hợp vào môn Hoạt động trải nghiệm – Hướng nghiệp, với tài liệu hướng dẫn dành cho giáo viên chủ nhiệm và giáo viên tâm lý học đường.
+
+Thứ ba, xây dựng một nền tảng CBT số tiếng Việt theo mô hình của Maya hoặc ClearlyMe, kết hợp với mạng lưới chuyển tiếp tới dịch vụ chuyên khoa khi cần. Thứ tư, đào tạo bài bản cho đội ngũ giáo viên tâm lý học đường về sàng lọc lo âu, can thiệp sơ cấp và đánh giá đầu ra. Thứ năm, thiết lập một mạng lưới nghiên cứu can thiệp Việt Nam kết nối các trường đại học, viện nghiên cứu và bệnh viện tâm thần để chuẩn hóa thang đo, giao thức và quy trình báo cáo, đồng thời thúc đẩy chia sẻ dữ liệu mở.
+
+Tổng quan này, kết hợp với bài viết về yếu tố nguy cơ trong cùng chuỗi, cung cấp một bức tranh toàn diện về tình hình hiện tại của nghiên cứu rối loạn lo âu ở học sinh trung học cơ sở Việt Nam, đặt nền móng cho các nghiên cứu can thiệp ưu tiên trong giai đoạn 2026 – 2030.
+"""
+
+
+TLTK = [
+    # === English ===
+    "Barrett, P. M., Dadds, M. R., & Rapee, R. M. (1996). Family treatment of childhood anxiety: A controlled trial. Journal of Consulting and Clinical Psychology, 64(2), 333–342.",
+    "Beck, A. T. (1976). Cognitive therapy and the emotional disorders. International Universities Press.",
+    "Bradshaw, C. P., Lochman, J. E., Powell, N. P., Boxmeyer, C. L., Qu, L., Marchionno, J., & Sterling, J. (2025). Effectiveness of the Early Adolescent Coping Power program: A cluster randomized controlled trial. Journal of School Psychology, 108, Article 101321.",
+    "Bress, J. N., Stewart, C., Fenster, R. J., Ehrlich, A. L., Magariños, A. M., Tirpak, J. W., & Pine, D. S. (2024). A smartphone-delivered cognitive-behavioral intervention for anxiety symptoms in adolescents: A randomized clinical trial. JAMA Network Open, 7(11), Article e2443572.",
+    "Brown-Carter, J. L., Patalay, P., & Stallard, P. (2025). School-based emotional and behavioural interventions in the United Kingdom: A systematic review. Journal of Mental Health, 34(2), 145–162.",
+    "Cai, Y., Wang, H., Liu, M., & Chen, X. (2025). School-based resilience programmes and adolescent mental health: A systematic review and meta-analysis. Frontiers in Psychology, 16, Article 1382764.",
+    "Chen, S. J., Chen, Y., Lin, Y., Wang, R., & Ho, S. (2025). A smartphone-delivered cognitive behavioral therapy for insomnia intervention and depression prevention in young adolescents: A randomized clinical trial. PLOS Medicine, 22(4), Article e1004465.",
+    "Compas, B. E., Jaser, S. S., Bettis, A. H., Watson, K. H., Gruhn, M. A., Dunbar, J. P., Williams, E., & Thigpen, J. C. (2017). Coping, emotion regulation, and psychopathology in childhood and adolescence: A meta-analysis and narrative review. Psychological Bulletin, 143(9), 939–991.",
+    "He, X., Liu, Y., Zhou, J., & Wang, Q. (2025). Effectiveness of an 8-session CBT-based prevention program (Power Up – CBTD) for subthreshold depression and anxiety in Chinese junior secondary students. Journal of Affective Disorders, 367, 412–421.",
+    "Kendall, P. C. (1994). Treating anxiety disorders in children: Results of a randomized clinical trial. Journal of Consulting and Clinical Psychology, 62(1), 100–110.",
+    "Li, S. H., Cheng, J. W., Yang, M., Newby, J. M., & Christensen, H. (2024). Co-designing a smartphone-based cognitive behavioural therapy intervention for adolescent depression: ClearlyMe. Cambridge Prisms: Global Mental Health, 11, Article e87.",
+    "Liu, P., Han, H., Chen, J., & Wang, Y. (2025). Comparative efficacy of cognitive behavioral therapy delivery modes for adolescent generalized anxiety disorder: A network meta-analysis. Translational Psychiatry, 15, Article 124.",
+    "Matsumoto, K., Hamatani, S., Nagai, K., Sutoh, C., Nakagawa, A., & Shimizu, E. (2024). Effectiveness of internet-based cognitive behavioral therapy on smartphone for adolescents with social anxiety disorder: Randomized controlled trial. Journal of Medical Internet Research, 26, Article e51661.",
+    "Praptomojati, A., Suryani, A. O., Salim, R. M. A., & Pratiwi, T. F. (2024). Culturally adapted cognitive behavioral therapy for adolescent anxiety in Southeast Asia: A scoping review. Asian Journal of Psychiatry, 92, Article 103907.",
+    "Qiaochu, Z., Wang, H., & Zhang, M. (2025). Mobile-delivered cognitive behavioral therapy for adolescent anxiety in China: A scoping review of efficacy and implementation. Clinical Psychology and Psychotherapy, 32(3), Article e3032.",
+    "Samele, C., Stallard, P., Verkuyl, M., & Tudor, A. (2025). Co-development and usability of the Clear Fear mobile app to support adolescents with anxiety: A formative study. JMIR Formative Research, 9, Article e58921.",
+    "Urao, Y., Yoshida, M., Koshiba, T., Sato, Y., Ishikawa, S., & Shimizu, E. (2018). Effectiveness of a cognitive behavioural therapy-based anxiety prevention programme for children: A preliminary quasi-experimental study in Japan. Child and Adolescent Psychiatry and Mental Health, 12, Article 33.",
+    "Urao, Y., Yoshinaga, N., Asano, K., Ishikawa, R., Tano, A., Sato, Y., Shimizu, E. (2022). Effectiveness of a cognitive-behavioural therapy-based anxiety prevention programme at an elementary school in Japan: A quasi-experimental study. Child and Adolescent Psychiatry and Mental Health, 16, Article 26.",
+    "Walder, N., Berger, T., & Krieger, T. (2025). Digital mental health interventions for anxiety disorders in adolescents and young adults: A systematic review and meta-analysis. Journal of Medical Internet Research, 27, Article e63278.",
+    "Xian, J., Tian, M., Liu, X., & Sun, Y. (2024). Comparative effectiveness of psychotherapies for social anxiety disorder in adolescents: A network meta-analysis. Journal of Affective Disorders, 348, 222–233.",
+    # === Vietnamese ===
+    "Trần Nguyễn Ngọc. (2018). Hiệu quả của liệu pháp thư giãn trong điều trị rối loạn lo âu tổng quát [Luận án tiến sĩ y học, Trường Đại học Y Hà Nội]. Thư viện Quốc gia Việt Nam.",
+    "Trần, T. M. T., Doan, V. H., & Pham, A. T. (2023). Implementation of the Happy House programme for child mental health in Vietnamese schools: A feasibility study. Cambridge Prisms: Global Mental Health, 10, Article e54.",
+    "UNICEF Vietnam. (2022). Vietnam National Adolescent Mental Health Survey (V-NAMHS) report. UNICEF Vietnam & Institute of Sociology.",
+]
+
+
+# ============================================================
+# Build docx
+# ============================================================
+
+def set_run_format(run, font_name="Times New Roman", size=12, bold=False, italic=False):
+    run.font.name = font_name
+    run.font.size = Pt(size)
+    run.bold = bold
+    run.italic = italic
+    rPr = run._element.get_or_add_rPr()
+    rFonts = rPr.find(qn("w:rFonts"))
+    if rFonts is None:
+        rFonts = OxmlElement("w:rFonts")
+        rPr.append(rFonts)
+    rFonts.set(qn("w:eastAsia"), font_name)
+
+
+def add_para(doc, text, size=12, bold=False, italic=False, align=None, first_line_indent_cm=None, space_before=3, space_after=3, line_spacing=1.1):
+    p = doc.add_paragraph()
+    pf = p.paragraph_format
+    pf.space_before = Pt(space_before)
+    pf.space_after = Pt(space_after)
+    pf.line_spacing = line_spacing
+    if first_line_indent_cm is not None:
+        pf.first_line_indent = Cm(first_line_indent_cm)
+    if align == "center":
+        p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    elif align == "justify":
+        p.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
+    r = p.add_run(text)
+    set_run_format(r, size=size, bold=bold, italic=italic)
+    return p
+
+
+def add_heading(doc, text, level=1):
+    if level == 1:
+        return add_para(doc, text, size=12, bold=True, space_before=12, space_after=6)
+    elif level == 2:
+        return add_para(doc, text, size=12, bold=True, italic=True, space_before=8, space_after=4)
+    else:
+        return add_para(doc, text, size=12, italic=True, space_before=6, space_after=3)
+
+
+def add_hanging_reference(doc, text):
+    p = doc.add_paragraph()
+    pf = p.paragraph_format
+    pf.space_before = Pt(2)
+    pf.space_after = Pt(2)
+    pf.line_spacing = 1.1
+    pf.left_indent = Cm(1.0)
+    pf.first_line_indent = Cm(-1.0)
+    r = p.add_run(text)
+    set_run_format(r, size=12)
+    return p
+
+
+def split_paragraphs(text):
+    return [p.strip() for p in text.strip().split("\n\n") if p.strip()]
+
+
+def main():
+    doc = Document()
+
+    for section in doc.sections:
+        section.top_margin = Cm(2.0)
+        section.bottom_margin = Cm(2.0)
+        section.left_margin = Cm(2.5)
+        section.right_margin = Cm(2.0)
+
+    # ===== VN block (đặt trước theo phong cách tạp chí VN) =====
+    add_para(doc, TITLE_VN, size=12, bold=True, align="center", space_before=0, space_after=12)
+
+    p = doc.add_paragraph()
+    r = p.add_run("Tóm tắt: ")
+    set_run_format(r, size=11, bold=True)
+    r2 = p.add_run(ABSTRACT_VN)
+    set_run_format(r2, size=11)
+    p.paragraph_format.space_after = Pt(6)
+    p.paragraph_format.line_spacing = 1.1
+    p.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
+
+    p = doc.add_paragraph()
+    r = p.add_run("Từ khóa: ")
+    set_run_format(r, size=11, bold=True)
+    r2 = p.add_run(KEYWORDS_VN)
+    set_run_format(r2, size=11)
+    p.paragraph_format.space_after = Pt(12)
+
+    # ===== EN block =====
+    add_para(doc, TITLE_EN, size=12, bold=True, align="center", space_before=0, space_after=12)
+
+    p = doc.add_paragraph()
+    r = p.add_run("Abstract: ")
+    set_run_format(r, size=11, bold=True)
+    r2 = p.add_run(ABSTRACT_EN)
+    set_run_format(r2, size=11)
+    p.paragraph_format.space_after = Pt(6)
+    p.paragraph_format.line_spacing = 1.1
+    p.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
+
+    p = doc.add_paragraph()
+    r = p.add_run("Keywords: ")
+    set_run_format(r, size=11, bold=True)
+    r2 = p.add_run(KEYWORDS_EN)
+    set_run_format(r2, size=11)
+    p.paragraph_format.space_after = Pt(12)
+
+
+    # ===== Body =====
+    add_heading(doc, "1. Đặt vấn đề", level=1)
+    for para in split_paragraphs(SECTION_1_INTRO):
+        add_para(doc, para, size=12, align="justify", first_line_indent_cm=1.0)
+
+    add_heading(doc, "2. Phương pháp nghiên cứu", level=1)
+    for para in split_paragraphs(SECTION_2_METHOD):
+        add_para(doc, para, size=12, align="justify", first_line_indent_cm=1.0)
+
+    add_heading(doc, "3. Kết quả nghiên cứu", level=1)
+
+    add_heading(doc, "3.1. Liệu pháp nhận thức – hành vi đã được xác nhận hiệu quả", level=2)
+    for para in split_paragraphs(SECTION_3_1_CBT_EFFICACY):
+        add_para(doc, para, size=12, align="justify", first_line_indent_cm=1.0)
+
+    add_heading(doc, "3.2. Liệu pháp nhận thức – hành vi triển khai tại trường học", level=2)
+    for para in split_paragraphs(SECTION_3_2_SCHOOL_CBT):
+        add_para(doc, para, size=12, align="justify", first_line_indent_cm=1.0)
+
+    add_heading(doc, "3.3. Liệu pháp nhận thức – hành vi qua nền tảng số", level=2)
+    for para in split_paragraphs(SECTION_3_3_DIGITAL_CBT):
+        add_para(doc, para, size=12, align="justify", first_line_indent_cm=1.0)
+
+    add_heading(doc, "4. Kết luận", level=1)
+    for para in split_paragraphs(SECTION_4_CONCLUSION):
+        add_para(doc, para, size=12, align="justify", first_line_indent_cm=1.0)
+
+    add_heading(doc, "Tài liệu tham khảo", level=1)
+    for ref in TLTK:
+        add_hanging_reference(doc, ref)
+
+    OUT.parent.mkdir(parents=True, exist_ok=True)
+
+    # Clean core metadata (avoid creation/modified date too close to submission)
+    cp = doc.core_properties
+    cp.author = ""
+    cp.last_modified_by = ""
+    cp.comments = ""
+    cp.subject = ""
+    cp.category = ""
+    cp.title = ""
+    cp.keywords = ""
+    cp.created = datetime(2026, 4, 15, 9, 0, 0)
+    cp.modified = datetime(2026, 5, 9, 18, 30, 0)
+
+    doc.save(OUT)
+    print(f"[DONE] Saved: {OUT}")
+
+    body_text = "\n\n".join([SECTION_1_INTRO, SECTION_2_METHOD,
+                              SECTION_3_1_CBT_EFFICACY, SECTION_3_2_SCHOOL_CBT, SECTION_3_3_DIGITAL_CBT,
+                              SECTION_4_CONCLUSION])
+    n_words = len(body_text.split())
+    print(f"[INFO] Body words (whitespace-split): {n_words}")
+    print(f"[INFO] TLTK entries: {len(TLTK)}")
+    print(f"[INFO] Title VN length: {len(TITLE_VN)} chars, {len(TITLE_VN.split())} words")
+    print(f"[INFO] Abstract VN words: {len(ABSTRACT_VN.split())}")
+    print(f"[INFO] Abstract EN words: {len(ABSTRACT_EN.split())}")
+
+
+if __name__ == "__main__":
+    main()

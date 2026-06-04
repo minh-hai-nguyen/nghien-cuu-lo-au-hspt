@@ -1,0 +1,4970 @@
+{
+  "meta": {
+    "created": "2026-04-24",
+    "version": "questions-kg-v1",
+    "n_nodes": 323,
+    "n_edges": 620,
+    "node_types": {
+      "Question": 36,
+      "Concept": 182,
+      "Topic": 19,
+      "Doc": 38,
+      "Paper": 48
+    },
+    "edge_relations": {
+      "EXPLAINS": 189,
+      "BELONGS_TO": 64,
+      "ANSWERED_IN": 33,
+      "CITES": 117,
+      "RELATED_TO": 217
+    },
+    "updated": "2026-05-10"
+  },
+  "nodes": [
+    {
+      "id": "QA_01",
+      "type": "Question",
+      "label": "Cohen's d, hoặc Hedges g gọi là gì? Chỉ số hay thước đo, hay công thức? Khi nào ",
+      "topic": "Effect size",
+      "date_asked": "2026-04-20"
+    },
+    {
+      "id": "QA_02",
+      "type": "Question",
+      "label": "Walder et al. (2025) — Meta-analysis 21 RCT về DMHI cho lo âu xã hội. Các tác gi",
+      "topic": "SR/MA methodology",
+      "date_asked": "2026-04-20"
+    },
+    {
+      "id": "QA_03",
+      "type": "Question",
+      "label": "Waitlist cũng đạt tiêu chuẩn chọn lọc nhưng vì sao phải chờ?",
+      "topic": "RCT design",
+      "date_asked": "2026-04-20"
+    },
+    {
+      "id": "QA_04",
+      "type": "Question",
+      "label": "CAMS là RCT đa trung tâm 488 trẻ 7–17 tuổi, từ 'đa trung tâm' này nghĩa là gì?",
+      "topic": "RCT design",
+      "date_asked": "2026-04-20"
+    },
+    {
+      "id": "QA_05",
+      "type": "Question",
+      "label": "ACT ra đời như thế nào? Vì sao chỉ có một nghiên cứu xếp hiệu quả can thiệp của ",
+      "topic": "Psychotherapy history",
+      "date_asked": "2026-04-20"
+    },
+    {
+      "id": "QA_06",
+      "type": "Question",
+      "label": "NNT diễn giải cụ thể như thế nào? Vì sao chỉ số này càng nhỏ thì can thiệp càng ",
+      "topic": "Clinical statistics",
+      "date_asked": "2026-04-20"
+    },
+    {
+      "id": "QA_07",
+      "type": "Question",
+      "label": "Bài Jenkins 2023: 'học sinh nữ có điểm GAD10 cao hơn học sinh nam (p=0,016, kiểm",
+      "topic": "Statistical test",
+      "date_asked": "2026-04-20"
+    },
+    {
+      "id": "QA_08",
+      "type": "Question",
+      "label": "AOR (Adjusted Odds Ratio) — tỷ số chênh lệch đã điều chỉnh được tính toán như th",
+      "topic": "Regression",
+      "date_asked": "2026-04-20"
+    },
+    {
+      "id": "QA_09",
+      "type": "Question",
+      "label": "Đọc PRISMA flow là đọc như thế nào?",
+      "topic": "SR methodology",
+      "date_asked": "2026-04-22"
+    },
+    {
+      "id": "QA_10",
+      "type": "Question",
+      "label": "Chi bình phương là hồi quy đơn biến, phân tích logistic là hồi quy đa biến — các",
+      "topic": "Statistical terminology",
+      "date_asked": "2026-04-22"
+    },
+    {
+      "id": "QA_11",
+      "type": "Question",
+      "label": "Trong Chen 2023: 'Hiệu ứng cụm được điều chỉnh bằng gói survey của R để tính tỷ ",
+      "topic": "Survey methodology",
+      "date_asked": "2026-04-22"
+    },
+    {
+      "id": "QA_12",
+      "type": "Question",
+      "label": "SE có phải là 'size' không? DEFF có phải là 'design effect' không?",
+      "topic": "Statistical terminology",
+      "date_asked": "2026-04-23"
+    },
+    {
+      "id": "QA_13",
+      "type": "Question",
+      "label": "Câu: 'Bỏ qua cấu trúc phân cấp của dữ liệu dẫn đến sai số chuẩn bị đánh giá thấp",
+      "topic": "Statistical interpretation",
+      "date_asked": "2026-04-23"
+    },
+    {
+      "id": "QA_14",
+      "type": "Question",
+      "label": "Tỷ lệ có trọng số (weighted prevalence) nghĩa là như thế nào?",
+      "topic": "Survey methodology",
+      "date_asked": "2026-04-23"
+    },
+    {
+      "id": "QA_15",
+      "type": "Question",
+      "label": "Trong bài 07 có câu: 'khoảng tin cậy khá rộng cho trầm cảm (19,6–27,0%) và lo âu",
+      "topic": "Statistical interpretation",
+      "date_asked": "2026-04-24"
+    },
+    {
+      "id": "CONCEPT_COHEN_S_D",
+      "type": "Concept",
+      "label": "Cohen's d"
+    },
+    {
+      "id": "CONCEPT_HEDGES_G",
+      "type": "Concept",
+      "label": "Hedges' g"
+    },
+    {
+      "id": "CONCEPT_SMD",
+      "type": "Concept",
+      "label": "SMD"
+    },
+    {
+      "id": "CONCEPT_EFFECT_SIZE",
+      "type": "Concept",
+      "label": "Effect size"
+    },
+    {
+      "id": "CONCEPT_COCHRANE",
+      "type": "Concept",
+      "label": "Cochrane"
+    },
+    {
+      "id": "CONCEPT_PICOS",
+      "type": "Concept",
+      "label": "PICOS"
+    },
+    {
+      "id": "CONCEPT_ELIGIBILITY_CRITERIA",
+      "type": "Concept",
+      "label": "Eligibility criteria"
+    },
+    {
+      "id": "CONCEPT_PRISMA_FLOW",
+      "type": "Concept",
+      "label": "PRISMA flow"
+    },
+    {
+      "id": "CONCEPT_SR_VS_MA",
+      "type": "Concept",
+      "label": "SR vs MA"
+    },
+    {
+      "id": "CONCEPT_WAITLIST",
+      "type": "Concept",
+      "label": "Waitlist"
+    },
+    {
+      "id": "CONCEPT_CONTROL_GROUP",
+      "type": "Concept",
+      "label": "Control group"
+    },
+    {
+      "id": "CONCEPT_RCT",
+      "type": "Concept",
+      "label": "RCT"
+    },
+    {
+      "id": "CONCEPT_MULTICENTER_RCT",
+      "type": "Concept",
+      "label": "Multicenter RCT"
+    },
+    {
+      "id": "CONCEPT_CAMS",
+      "type": "Concept",
+      "label": "CAMS"
+    },
+    {
+      "id": "CONCEPT_GENERALIZABILITY",
+      "type": "Concept",
+      "label": "Generalizability"
+    },
+    {
+      "id": "CONCEPT_PROSPERO",
+      "type": "Concept",
+      "label": "PROSPERO"
+    },
+    {
+      "id": "CONCEPT_ACT",
+      "type": "Concept",
+      "label": "ACT"
+    },
+    {
+      "id": "CONCEPT_CBT",
+      "type": "Concept",
+      "label": "CBT"
+    },
+    {
+      "id": "CONCEPT_RFT",
+      "type": "Concept",
+      "label": "RFT"
+    },
+    {
+      "id": "CONCEPT_STEVEN_HAYES",
+      "type": "Concept",
+      "label": "Steven Hayes"
+    },
+    {
+      "id": "CONCEPT_HEXAFLEX",
+      "type": "Concept",
+      "label": "Hexaflex"
+    },
+    {
+      "id": "CONCEPT_THIRD_WAVE",
+      "type": "Concept",
+      "label": "Third wave"
+    },
+    {
+      "id": "CONCEPT_BAYESIAN_NMA",
+      "type": "Concept",
+      "label": "Bayesian NMA"
+    },
+    {
+      "id": "CONCEPT_NNT",
+      "type": "Concept",
+      "label": "NNT"
+    },
+    {
+      "id": "CONCEPT_ARR",
+      "type": "Concept",
+      "label": "ARR"
+    },
+    {
+      "id": "CONCEPT_RESPONSE_RATE",
+      "type": "Concept",
+      "label": "Response rate"
+    },
+    {
+      "id": "CONCEPT_MANN_WHITNEY",
+      "type": "Concept",
+      "label": "Mann-Whitney"
+    },
+    {
+      "id": "CONCEPT_HODGES_LEHMANN",
+      "type": "Concept",
+      "label": "Hodges-Lehmann"
+    },
+    {
+      "id": "CONCEPT_MEDIAN_DIFFERENCE",
+      "type": "Concept",
+      "label": "Median difference"
+    },
+    {
+      "id": "CONCEPT_NON_PARAMETRIC",
+      "type": "Concept",
+      "label": "Non-parametric"
+    },
+    {
+      "id": "CONCEPT_GAD_10",
+      "type": "Concept",
+      "label": "GAD-10"
+    },
+    {
+      "id": "CONCEPT_AOR",
+      "type": "Concept",
+      "label": "AOR"
+    },
+    {
+      "id": "CONCEPT_OR",
+      "type": "Concept",
+      "label": "OR"
+    },
+    {
+      "id": "CONCEPT_LOGISTIC_REGRESSION",
+      "type": "Concept",
+      "label": "Logistic regression"
+    },
+    {
+      "id": "CONCEPT_MULTIVARIABLE",
+      "type": "Concept",
+      "label": "Multivariable"
+    },
+    {
+      "id": "CONCEPT_CONFOUNDING",
+      "type": "Concept",
+      "label": "Confounding"
+    },
+    {
+      "id": "CONCEPT_Β_COEFFICIENT",
+      "type": "Concept",
+      "label": "β coefficient"
+    },
+    {
+      "id": "CONCEPT_PRISMA",
+      "type": "Concept",
+      "label": "PRISMA"
+    },
+    {
+      "id": "CONCEPT_FLOW_DIAGRAM",
+      "type": "Concept",
+      "label": "Flow diagram"
+    },
+    {
+      "id": "CONCEPT_SCREENING",
+      "type": "Concept",
+      "label": "Screening"
+    },
+    {
+      "id": "CONCEPT_ELIGIBILITY",
+      "type": "Concept",
+      "label": "Eligibility"
+    },
+    {
+      "id": "CONCEPT_RISK_OF_BIAS",
+      "type": "Concept",
+      "label": "Risk of bias"
+    },
+    {
+      "id": "CONCEPT_CHI_SQUARE",
+      "type": "Concept",
+      "label": "Chi-square"
+    },
+    {
+      "id": "CONCEPT_UNIVARIABLE",
+      "type": "Concept",
+      "label": "Univariable"
+    },
+    {
+      "id": "CONCEPT_HYPOTHESIS_TESTING",
+      "type": "Concept",
+      "label": "Hypothesis testing"
+    },
+    {
+      "id": "CONCEPT_CLUSTER_EFFECT",
+      "type": "Concept",
+      "label": "Cluster effect"
+    },
+    {
+      "id": "CONCEPT_ICC",
+      "type": "Concept",
+      "label": "ICC"
+    },
+    {
+      "id": "CONCEPT_WEIGHTED_PREVALENCE",
+      "type": "Concept",
+      "label": "Weighted prevalence"
+    },
+    {
+      "id": "CONCEPT_SURVEY_PACKAGE_R",
+      "type": "Concept",
+      "label": "survey package R"
+    },
+    {
+      "id": "CONCEPT_DESIGN_EFFECT",
+      "type": "Concept",
+      "label": "Design effect"
+    },
+    {
+      "id": "CONCEPT_SE",
+      "type": "Concept",
+      "label": "SE"
+    },
+    {
+      "id": "CONCEPT_DEFF",
+      "type": "Concept",
+      "label": "DEFF"
+    },
+    {
+      "id": "CONCEPT_SAMPLE_SIZE",
+      "type": "Concept",
+      "label": "Sample size"
+    },
+    {
+      "id": "CONCEPT_STANDARD_ERROR",
+      "type": "Concept",
+      "label": "Standard error"
+    },
+    {
+      "id": "CONCEPT_UNDERESTIMATION",
+      "type": "Concept",
+      "label": "Underestimation"
+    },
+    {
+      "id": "CONCEPT_INFLATED_SIGNIFICANCE",
+      "type": "Concept",
+      "label": "Inflated significance"
+    },
+    {
+      "id": "CONCEPT_TYPE_I_ERROR",
+      "type": "Concept",
+      "label": "Type I error"
+    },
+    {
+      "id": "CONCEPT_SAMPLING_WEIGHT",
+      "type": "Concept",
+      "label": "Sampling weight"
+    },
+    {
+      "id": "CONCEPT_NON_RESPONSE",
+      "type": "Concept",
+      "label": "Non-response"
+    },
+    {
+      "id": "CONCEPT_POST_STRATIFICATION",
+      "type": "Concept",
+      "label": "Post-stratification"
+    },
+    {
+      "id": "CONCEPT_CONFIDENCE_INTERVAL",
+      "type": "Concept",
+      "label": "Confidence interval"
+    },
+    {
+      "id": "CONCEPT_CI_WIDTH",
+      "type": "Concept",
+      "label": "CI width"
+    },
+    {
+      "id": "CONCEPT_PRECISION",
+      "type": "Concept",
+      "label": "Precision"
+    },
+    {
+      "id": "CONCEPT_EFFECTIVE_SAMPLE_SIZE",
+      "type": "Concept",
+      "label": "Effective sample size"
+    },
+    {
+      "id": "TOPIC_EFFECT_SIZE",
+      "type": "Topic",
+      "label": "Effect size"
+    },
+    {
+      "id": "TOPIC_SR_MA_METHODOLOGY",
+      "type": "Topic",
+      "label": "SR/MA methodology"
+    },
+    {
+      "id": "TOPIC_RCT_DESIGN",
+      "type": "Topic",
+      "label": "RCT design"
+    },
+    {
+      "id": "TOPIC_PSYCHOTHERAPY_HISTORY",
+      "type": "Topic",
+      "label": "Psychotherapy history"
+    },
+    {
+      "id": "TOPIC_CLINICAL_STATISTICS",
+      "type": "Topic",
+      "label": "Clinical statistics"
+    },
+    {
+      "id": "TOPIC_STATISTICAL_TEST",
+      "type": "Topic",
+      "label": "Statistical test"
+    },
+    {
+      "id": "TOPIC_REGRESSION",
+      "type": "Topic",
+      "label": "Regression"
+    },
+    {
+      "id": "TOPIC_SR_METHODOLOGY",
+      "type": "Topic",
+      "label": "SR methodology"
+    },
+    {
+      "id": "TOPIC_STATISTICAL_TERMINOLOGY",
+      "type": "Topic",
+      "label": "Statistical terminology"
+    },
+    {
+      "id": "TOPIC_SURVEY_METHODOLOGY",
+      "type": "Topic",
+      "label": "Survey methodology"
+    },
+    {
+      "id": "TOPIC_STATISTICAL_INTERPRETATION",
+      "type": "Topic",
+      "label": "Statistical interpretation"
+    },
+    {
+      "id": "DOC_glossary_json_v3_1",
+      "type": "Doc",
+      "label": "glossary.json (v3.1)"
+    },
+    {
+      "id": "DOC_01_Bao_cao_QT040_Walder_2025_Quy_trinh_loc_22_vs_2",
+      "type": "Doc",
+      "label": "01_Bao-cao/QT040_Walder_2025_Quy_trinh_loc_22_vs_21.docx"
+    },
+    {
+      "id": "DOC_01_Bao_cao_CAMS_RCT_da_trung_tam_la_gi_docx",
+      "type": "Doc",
+      "label": "01_Bao-cao/CAMS_RCT_da_trung_tam_la_gi.docx"
+    },
+    {
+      "id": "DOC_01_Bao_cao_ACT_ra_doi_va_vi_sao_xep_hang_cao_hon_C",
+      "type": "Doc",
+      "label": "01_Bao-cao/ACT_ra_doi_va_vi_sao_xep_hang_cao_hon_CBT.docx"
+    },
+    {
+      "id": "DOC_01_Bao_cao_NNT_dien_giai_va_vi_sao_cang_nho_cang_h",
+      "type": "Doc",
+      "label": "01_Bao-cao/NNT_dien_giai_va_vi_sao_cang_nho_cang_hieu_qua.docx"
+    },
+    {
+      "id": "DOC_01_Bao_cao_NNT_va_MannWhitney_chenh_lech_trung_vi_",
+      "type": "Doc",
+      "label": "01_Bao-cao/NNT_va_MannWhitney_chenh_lech_trung_vi.docx"
+    },
+    {
+      "id": "DOC_01_Bao_cao_AOR_Adjusted_Odds_Ratio_cach_tinh_docx",
+      "type": "Doc",
+      "label": "01_Bao-cao/AOR_Adjusted_Odds_Ratio_cach_tinh.docx"
+    },
+    {
+      "id": "DOC_01_Bao_cao_PRISMA_flow_cach_doc_tung_buoc_docx",
+      "type": "Doc",
+      "label": "01_Bao-cao/PRISMA_flow_cach_doc_tung_buoc.docx"
+    },
+    {
+      "id": "DOC_01_Bao_cao_Weighted_prevalence_ty_le_co_trong_so_d",
+      "type": "Doc",
+      "label": "01_Bao-cao/Weighted_prevalence_ty_le_co_trong_so.docx"
+    },
+    {
+      "id": "DOC_01_Bao_cao_KTC_rong_hep_vua_du_Chen_2023_docx",
+      "type": "Doc",
+      "label": "01_Bao-cao/KTC_rong_hep_vua_du_Chen_2023.docx"
+    },
+    {
+      "id": "PAPER_QT049",
+      "type": "Paper",
+      "label": "QT049"
+    },
+    {
+      "id": "PAPER_QT029",
+      "type": "Paper",
+      "label": "QT029"
+    },
+    {
+      "id": "PAPER_QT040",
+      "type": "Paper",
+      "label": "QT040"
+    },
+    {
+      "id": "PAPER_QT028",
+      "type": "Paper",
+      "label": "QT028"
+    },
+    {
+      "id": "PAPER_CAMS_Walkup_2008",
+      "type": "Paper",
+      "label": "CAMS_Walkup_2008"
+    },
+    {
+      "id": "PAPER_QT001",
+      "type": "Paper",
+      "label": "QT001"
+    },
+    {
+      "id": "PAPER_QT05_Zhu",
+      "type": "Paper",
+      "label": "QT05_Zhu"
+    },
+    {
+      "id": "PAPER_QT23_JAACAP",
+      "type": "Paper",
+      "label": "QT23_JAACAP"
+    },
+    {
+      "id": "PAPER_QT31_Islam",
+      "type": "Paper",
+      "label": "QT31_Islam"
+    },
+    {
+      "id": "PAPER_QT007_Chen_2023",
+      "type": "Paper",
+      "label": "QT007_Chen_2023"
+    },
+    {
+      "id": "QA_16",
+      "type": "Question",
+      "label": "I² (I-squared / I bình phương) là gì? Khác Cochran Q và τ² thế nào? Ngưỡng diễn ",
+      "topic": "Heterogeneity",
+      "date_asked": "2026-04-27"
+    },
+    {
+      "id": "TOPIC_HETEROGENEITY",
+      "type": "Topic",
+      "label": "Heterogeneity"
+    },
+    {
+      "id": "CONCEPT_I",
+      "type": "Concept",
+      "label": "I²"
+    },
+    {
+      "id": "CONCEPT_COCHRAN_Q",
+      "type": "Concept",
+      "label": "Cochran Q"
+    },
+    {
+      "id": "CONCEPT_TAU_SQUARED",
+      "type": "Concept",
+      "label": "τ² (tau-squared)"
+    },
+    {
+      "id": "CONCEPT_HETEROGENEITY",
+      "type": "Concept",
+      "label": "Heterogeneity"
+    },
+    {
+      "id": "CONCEPT_RANDOM_EFFECTS",
+      "type": "Concept",
+      "label": "Random-effects"
+    },
+    {
+      "id": "CONCEPT_FIXED_EFFECTS",
+      "type": "Concept",
+      "label": "Fixed-effects"
+    },
+    {
+      "id": "CONCEPT_PRISMA_2020",
+      "type": "Concept",
+      "label": "PRISMA 2020"
+    },
+    {
+      "id": "DOC_I_BINH_PHUONG_GIAI_THICH_CHO_THAY_270420",
+      "type": "Doc",
+      "label": "I_binh_phuong_giai_thich_cho_thay_27042026.docx"
+    },
+    {
+      "id": "QA_17",
+      "type": "Question",
+      "label": "Bình luận mức độ 4 OR (parenting tiêu cực/tích cực + resilience thấp ↔ lo âu/trầ",
+      "topic": "Statistical interpretation",
+      "date_asked": "2026-05-02"
+    },
+    {
+      "id": "CONCEPT_ODDS_RATIO",
+      "type": "Concept",
+      "label": "Odds Ratio"
+    },
+    {
+      "id": "CONCEPT_OR_MAGNITUDE",
+      "type": "Concept",
+      "label": "OR magnitude"
+    },
+    {
+      "id": "CONCEPT_PARENTING_STYLE",
+      "type": "Concept",
+      "label": "Parenting style"
+    },
+    {
+      "id": "CONCEPT_RESILIENCE",
+      "type": "Concept",
+      "label": "Resilience"
+    },
+    {
+      "id": "CONCEPT_PROTECTIVE_FACTOR",
+      "type": "Concept",
+      "label": "Protective factor"
+    },
+    {
+      "id": "CONCEPT_RISK_FACTOR",
+      "type": "Concept",
+      "label": "Risk factor"
+    },
+    {
+      "id": "PAPER_QT008",
+      "type": "Paper",
+      "label": "QT008"
+    },
+    {
+      "id": "PAPER_QT067",
+      "type": "Paper",
+      "label": "QT067"
+    },
+    {
+      "id": "DOC_OR_MUC_DO_BINH_LUAN_PARENTING_RESILIENCE",
+      "type": "Doc",
+      "label": "OR_muc_do_binh_luan_parenting_resilience.docx"
+    },
+    {
+      "id": "QA_18",
+      "type": "Question",
+      "label": "Diễn đạt OR=11,579 (Wen 2020) là \"nguy cơ cao gấp 11,5 lần\" có đúng không?",
+      "topic": "Statistical interpretation",
+      "date_asked": "2026-05-02"
+    },
+    {
+      "id": "CONCEPT_RISK_RATIO",
+      "type": "Concept",
+      "label": "Risk Ratio"
+    },
+    {
+      "id": "CONCEPT_OR_VS_RR",
+      "type": "Concept",
+      "label": "OR vs RR"
+    },
+    {
+      "id": "CONCEPT_OUTCOME_PREVALENCE",
+      "type": "Concept",
+      "label": "Outcome prevalence"
+    },
+    {
+      "id": "CONCEPT_STATISTICAL_MAGNITUDE",
+      "type": "Concept",
+      "label": "Statistical magnitude"
+    },
+    {
+      "id": "CONCEPT_WEN_2020",
+      "type": "Concept",
+      "label": "Wen 2020"
+    },
+    {
+      "id": "DOC_OR_WEN_2020_DIEN_DAT_NGUY_CO_VS_ODDS_DOC",
+      "type": "Doc",
+      "label": "OR_Wen_2020_dien_dat_nguy_co_vs_odds.docx"
+    },
+    {
+      "id": "QA_19",
+      "type": "Question",
+      "label": "Tỷ lệ HS có vấn đề SKTT chủ động tìm gặp bác sĩ tâm lý ở trường là bao nhiêu? Có",
+      "topic": "Help-seeking",
+      "date_asked": "2026-05-02"
+    },
+    {
+      "id": "TOPIC_HELP_SEEKING",
+      "type": "Topic",
+      "label": "Help-seeking"
+    },
+    {
+      "id": "CONCEPT_HELP_SEEKING",
+      "type": "Concept",
+      "label": "Help-seeking"
+    },
+    {
+      "id": "CONCEPT_TREATMENT_GAP",
+      "type": "Concept",
+      "label": "Treatment gap"
+    },
+    {
+      "id": "CONCEPT_SCHOOL_COUNSELOR",
+      "type": "Concept",
+      "label": "School counselor"
+    },
+    {
+      "id": "CONCEPT_SCHOOL_STAFF",
+      "type": "Concept",
+      "label": "School staff"
+    },
+    {
+      "id": "CONCEPT_MENTAL_HEALTH_SERVICE",
+      "type": "Concept",
+      "label": "Mental health service"
+    },
+    {
+      "id": "CONCEPT_V_NAMHS_2022",
+      "type": "Concept",
+      "label": "V-NAMHS 2022"
+    },
+    {
+      "id": "CONCEPT_SERVICE_UTILIZATION",
+      "type": "Concept",
+      "label": "Service utilization"
+    },
+    {
+      "id": "PAPER_VN002",
+      "type": "Paper",
+      "label": "VN002"
+    },
+    {
+      "id": "PAPER_VN022",
+      "type": "Paper",
+      "label": "VN022"
+    },
+    {
+      "id": "PAPER_QT066",
+      "type": "Paper",
+      "label": "QT066"
+    },
+    {
+      "id": "DOC_TY_LE_HS_TIM_GAP_BAC_SI_TAM_LY_O_TRUONG_",
+      "type": "Doc",
+      "label": "Ty_le_HS_tim_gap_bac_si_tam_ly_o_truong.docx"
+    },
+    {
+      "id": "QA_20",
+      "type": "Question",
+      "label": "VTN là gì?",
+      "topic": "Statistical terminology",
+      "date_asked": "2026-05-02"
+    },
+    {
+      "id": "CONCEPT_VTN",
+      "type": "Concept",
+      "label": "VTN"
+    },
+    {
+      "id": "CONCEPT_ADOLESCENT",
+      "type": "Concept",
+      "label": "Adolescent"
+    },
+    {
+      "id": "CONCEPT_WHO_AGE_GROUPS",
+      "type": "Concept",
+      "label": "WHO age groups"
+    },
+    {
+      "id": "CONCEPT_VIETNAMESE_TERMINOLOGY",
+      "type": "Concept",
+      "label": "Vietnamese terminology"
+    },
+    {
+      "id": "TOPIC_DIGITAL_ADDICTION",
+      "type": "Topic",
+      "label": "Digital addiction"
+    },
+    {
+      "id": "CONCEPT_PROBLEMATIC_SMARTPHONE_USE",
+      "type": "Concept",
+      "label": "Problematic smartphone use (PSU)"
+    },
+    {
+      "id": "CONCEPT_SMARTPHONE_ADDICTION",
+      "type": "Concept",
+      "label": "Smartphone addiction"
+    },
+    {
+      "id": "CONCEPT_SOCIAL_MEDIA_ADDICTION",
+      "type": "Concept",
+      "label": "Social media addiction"
+    },
+    {
+      "id": "CONCEPT_SCREEN_TIME",
+      "type": "Concept",
+      "label": "Screen time"
+    },
+    {
+      "id": "CONCEPT_FOMO",
+      "type": "Concept",
+      "label": "FOMO (Fear of Missing Out)"
+    },
+    {
+      "id": "CONCEPT_INTERNET_GAMING_DISORDER",
+      "type": "Concept",
+      "label": "Internet Gaming Disorder (IGD)"
+    },
+    {
+      "id": "CONCEPT_SAS_SV",
+      "type": "Concept",
+      "label": "SAS-SV (Smartphone Addiction Scale)"
+    },
+    {
+      "id": "CONCEPT_BSMAS",
+      "type": "Concept",
+      "label": "BSMAS (Bergen Social Media Addiction Scale)"
+    },
+    {
+      "id": "CONCEPT_R_SQUARED",
+      "type": "Concept",
+      "label": "r² (coefficient of determination)"
+    },
+    {
+      "id": "CONCEPT_PARENT_CHILD_RELATIONSHIP",
+      "type": "Concept",
+      "label": "Parent-child relationship"
+    },
+    {
+      "id": "CONCEPT_COPING",
+      "type": "Concept",
+      "label": "Coping (ứng phó)"
+    },
+    {
+      "id": "CONCEPT_SELF_ESTEEM",
+      "type": "Concept",
+      "label": "Self-esteem (lòng tự trọng)"
+    },
+    {
+      "id": "PAPER_VN004_NguyenThiVan_2020",
+      "type": "Paper",
+      "label": "VN004 Nguyễn Thị Vân (2020)"
+    },
+    {
+      "id": "PAPER_VN014_HoangTrungHoc_2025",
+      "type": "Paper",
+      "label": "VN014 Hoàng Trung Học (2025)"
+    },
+    {
+      "id": "PAPER_QT022_Li_2025",
+      "type": "Paper",
+      "label": "QT022 Li (2025) BJCP"
+    },
+    {
+      "id": "PAPER_QT027_Fassi_2025",
+      "type": "Paper",
+      "label": "QT027 Fassi (2025) Nature Hum Behav"
+    },
+    {
+      "id": "PAPER_QT033_SchmidtPersson_2024",
+      "type": "Paper",
+      "label": "QT033 Schmidt-Persson (2024) JAMA Network Open"
+    },
+    {
+      "id": "PAPER_QT041_Zheng_2025",
+      "type": "Paper",
+      "label": "QT041 Zheng & Peng (2025) PRBM"
+    },
+    {
+      "id": "PAPER_Sohn_2019_BMC_Psychiatry",
+      "type": "Paper",
+      "label": "Sohn et al. (2019) BMC Psychiatry meta-analysis"
+    },
+    {
+      "id": "PAPER_Compas_2017_Psych_Bulletin",
+      "type": "Paper",
+      "label": "Compas et al. (2017) Psychological Bulletin meta-analysis"
+    },
+    {
+      "id": "DOC_VN004_85_4_KHONG_KHOP",
+      "type": "Doc",
+      "label": "01_Bao-cao/VN004_85_4_khong_khop_giai_thich.docx"
+    },
+    {
+      "id": "DOC_GT_NGHIEN_DIEN_THOAI",
+      "type": "Doc",
+      "label": "01_Bao-cao/Gia_thuyet_nghien_dien_thoai_yeu_to_nguy_co_RLLA.docx"
+    },
+    {
+      "id": "DOC_PHAN_BIEN_VN014_QUAN_HE_CHA_ME",
+      "type": "Doc",
+      "label": "01_Bao-cao/Phan_bien_VN014_quan_he_cha_me_rong_qua.docx"
+    },
+    {
+      "id": "DOC_UNG_PHO_YEU_TO_BAO_VE",
+      "type": "Doc",
+      "label": "01_Bao-cao/Ung_pho_yeu_to_bao_ve_bang_chung_va_ham_y.docx"
+    },
+    {
+      "id": "DOC_PHAN_BIEN_VN004_BAN_THAN_HS",
+      "type": "Doc",
+      "label": "01_Bao-cao/Phan_bien_VN004_NguyenThiVan_yeu_to_ban_than_HS.docx"
+    },
+    {
+      "id": "DOC_TONG_QUAN_SELF_ESTEEM",
+      "type": "Doc",
+      "label": "01_Bao-cao/Tong_quan_self_esteem_va_lo_au_6_NC_QT.docx"
+    },
+    {
+      "id": "QA_21",
+      "type": "Question",
+      "label": "Trong VN004, \"85,4% giải thích\" công bố không khớp với r²=0,1764 từ r=0,42 — phép toán giải thích",
+      "topic": "Statistical interpretation",
+      "date_asked": "2026-05-08"
+    },
+    {
+      "id": "QA_22",
+      "type": "Question",
+      "label": "Phát biểu và luận chứng giả thuyết: Nghiện điện thoại là yếu tố nguy cơ với rối loạn lo âu của HS",
+      "topic": "Digital addiction",
+      "date_asked": "2026-05-08"
+    },
+    {
+      "id": "TOPIC_GENDER_PSYCHOPATHOLOGY",
+      "type": "Topic",
+      "label": "Gender differences in psychopathology"
+    },
+    {
+      "id": "TOPIC_SCHOOL_BULLYING",
+      "type": "Topic",
+      "label": "School bullying"
+    },
+    {
+      "id": "CONCEPT_GENDER_DIFFERENCES",
+      "type": "Concept",
+      "label": "Gender differences in anxiety"
+    },
+    {
+      "id": "CONCEPT_SEX_RATIO",
+      "type": "Concept",
+      "label": "Sex ratio (female:male)"
+    },
+    {
+      "id": "CONCEPT_HPG_AXIS",
+      "type": "Concept",
+      "label": "HPG axis (hypothalamic-pituitary-gonadal)"
+    },
+    {
+      "id": "CONCEPT_RUMINATION",
+      "type": "Concept",
+      "label": "Rumination (Nolen-Hoeksema)"
+    },
+    {
+      "id": "CONCEPT_SCHOOL_BULLYING",
+      "type": "Concept",
+      "label": "School bullying / peer victimization"
+    },
+    {
+      "id": "CONCEPT_OBVQ",
+      "type": "Concept",
+      "label": "OBVQ (Olweus Bully/Victim Questionnaire)"
+    },
+    {
+      "id": "CONCEPT_SCHOOL_REFUSAL",
+      "type": "Concept",
+      "label": "School refusal"
+    },
+    {
+      "id": "CONCEPT_SEPARATION_ANXIETY",
+      "type": "Concept",
+      "label": "Separation Anxiety Disorder (RLLAC)"
+    },
+    {
+      "id": "CONCEPT_SOCIAL_ANXIETY_DISORDER",
+      "type": "Concept",
+      "label": "Social Anxiety Disorder (SAD/RLLAXH)"
+    },
+    {
+      "id": "CONCEPT_GENERALIZED_ANXIETY_DISORDER",
+      "type": "Concept",
+      "label": "Generalized Anxiety Disorder (GAD/RLLATQ)"
+    },
+    {
+      "id": "CONCEPT_OBPP",
+      "type": "Concept",
+      "label": "Olweus Bullying Prevention Program (OBPP)"
+    },
+    {
+      "id": "CONCEPT_RCADS",
+      "type": "Concept",
+      "label": "RCADS (Revised Children Anxiety Depression Scale)"
+    },
+    {
+      "id": "PAPER_QT009_Qiu_2022",
+      "type": "Paper",
+      "label": "QT009 Qiu (2022) Frontiers Public Health"
+    },
+    {
+      "id": "PAPER_Salk_2017_Psych_Bulletin",
+      "type": "Paper",
+      "label": "Salk, Hyde & Abramson (2017) Psych Bulletin meta-analysis 1.7M"
+    },
+    {
+      "id": "PAPER_McLean_2011_J_Psychiatr_Res",
+      "type": "Paper",
+      "label": "McLean et al. (2011) J Psychiatr Res — gender anxiety adults"
+    },
+    {
+      "id": "PAPER_Olweus_1996_OBVQ",
+      "type": "Paper",
+      "label": "Olweus (1996) OBVQ-R bullying questionnaire"
+    },
+    {
+      "id": "PAPER_NolenHoeksema_2012_Annu_Rev",
+      "type": "Paper",
+      "label": "Nolen-Hoeksema (2012) Annu Rev Clin Psychol — emotion regulation gender"
+    },
+    {
+      "id": "DOC_H4_GENDER_LOAI_RLLA",
+      "type": "Doc",
+      "label": "01_Bao-cao/Gia_thuyet_khac_biet_gioi_tinh_theo_loai_RLLA.docx"
+    },
+    {
+      "id": "DOC_BNHD_BAT_NAT_HOC_DUONG",
+      "type": "Doc",
+      "label": "01_Bao-cao/Dien_giai_yeu_to_bat_nat_hoc_duong.docx"
+    },
+    {
+      "id": "DOC_AUDIT_5_VONG_H4_BNHD",
+      "type": "Doc",
+      "label": "01_Bao-cao/AUDIT_5_vong_H4_gender_va_BNHD.docx"
+    },
+    {
+      "id": "QA_23",
+      "type": "Question",
+      "label": "Phát biểu giả thuyết về sự khác biệt giới tính theo loại RLLA: nữ > nam ở RLLATQ + RLLAXH; KHÔNG khác biệt ở RLLAC",
+      "topic": "Gender differences in psychopathology",
+      "date_asked": "2026-05-08"
+    },
+    {
+      "id": "QA_24",
+      "type": "Question",
+      "label": "Diễn giải yếu tố bắt nạt học đường (BNHĐ) — tác động đến RLLA HS THCS theo chương 3 luận án",
+      "topic": "School bullying",
+      "date_asked": "2026-05-08"
+    },
+    {
+      "id": "TOPIC_RISK_PROTECTIVE_MODEL",
+      "type": "Topic",
+      "label": "Risk-protective factor model"
+    },
+    {
+      "id": "TOPIC_COPING",
+      "type": "Topic",
+      "label": "Coping strategies"
+    },
+    {
+      "id": "CONCEPT_YTNC_TONG",
+      "type": "Concept",
+      "label": "Yếu tố nguy cơ tổng (YTNC)"
+    },
+    {
+      "id": "CONCEPT_YTBV_TONG",
+      "type": "Concept",
+      "label": "Yếu tố bảo vệ tổng (YTBV)"
+    },
+    {
+      "id": "CONCEPT_GBTH_SCHOOL_CONNECTEDNESS",
+      "type": "Concept",
+      "label": "GBTH (school connectedness)"
+    },
+    {
+      "id": "CONCEPT_PSSM",
+      "type": "Concept",
+      "label": "PSSM (Psychological Sense of School Membership, Goodenow 1993)"
+    },
+    {
+      "id": "CONCEPT_TEACHER_STUDENT_RELATION",
+      "type": "Concept",
+      "label": "Quan hệ giáo viên-học sinh"
+    },
+    {
+      "id": "CONCEPT_HTCM_PARENT_SUPPORT",
+      "type": "Concept",
+      "label": "HTCM (parent support)"
+    },
+    {
+      "id": "CONCEPT_HTBB_PEER_SUPPORT",
+      "type": "Concept",
+      "label": "HTBB (peer support)"
+    },
+    {
+      "id": "CONCEPT_MSPSS",
+      "type": "Concept",
+      "label": "MSPSS (Multidimensional Scale Perceived Social Support, Zimet 1988)"
+    },
+    {
+      "id": "CONCEPT_BPDP_COPING",
+      "type": "Concept",
+      "label": "BPĐP (biện pháp đối phó)"
+    },
+    {
+      "id": "CONCEPT_BRIEF_COPE",
+      "type": "Concept",
+      "label": "Brief-COPE (Carver 1997, 14 nhân tố)"
+    },
+    {
+      "id": "CONCEPT_MALADAPTIVE_COPING_ESCALATION",
+      "type": "Concept",
+      "label": "Maladaptive coping escalation (Compas 2017)"
+    },
+    {
+      "id": "CONCEPT_AVOIDANCE_COPING",
+      "type": "Concept",
+      "label": "Avoidance coping (tránh né)"
+    },
+    {
+      "id": "CONCEPT_PROBLEM_FOCUSED_COPING",
+      "type": "Concept",
+      "label": "Problem-focused coping"
+    },
+    {
+      "id": "CONCEPT_SUPPORT_SEEKING",
+      "type": "Concept",
+      "label": "Support-seeking coping"
+    },
+    {
+      "id": "PAPER_Goodenow_1993_PSSM",
+      "type": "Paper",
+      "label": "Goodenow (1993) PSSM scale"
+    },
+    {
+      "id": "PAPER_Zimet_1988_MSPSS",
+      "type": "Paper",
+      "label": "Zimet et al. (1988) MSPSS"
+    },
+    {
+      "id": "PAPER_Carver_1997_Brief_COPE",
+      "type": "Paper",
+      "label": "Carver (1997) Brief-COPE"
+    },
+    {
+      "id": "DOC_DG_YTNC_YTBV_TICH_HOP",
+      "type": "Doc",
+      "label": "01_Bao-cao/Dien_giai_yeu_to_LON_YTNC_YTBV_mo_hinh_tich_hop.docx"
+    },
+    {
+      "id": "DOC_DG_GBTH",
+      "type": "Doc",
+      "label": "01_Bao-cao/Dien_giai_yeu_to_GBTH_gan_bo_truong_hoc.docx"
+    },
+    {
+      "id": "DOC_DG_HTCM",
+      "type": "Doc",
+      "label": "01_Bao-cao/Dien_giai_yeu_to_HTCM_ho_tro_cha_me.docx"
+    },
+    {
+      "id": "DOC_DG_HTBB",
+      "type": "Doc",
+      "label": "01_Bao-cao/Dien_giai_yeu_to_HTBB_ho_tro_ban_be.docx"
+    },
+    {
+      "id": "DOC_DG_BPDP",
+      "type": "Doc",
+      "label": "01_Bao-cao/Dien_giai_yeu_to_BPDP_bien_phap_doi_pho.docx"
+    },
+    {
+      "id": "QA_25",
+      "type": "Question",
+      "label": "Diễn giải yếu tố LỚN — YTNC + YTBV + Mô hình tích hợp (chương 3)",
+      "topic": "Risk-protective factor model",
+      "date_asked": "2026-05-08"
+    },
+    {
+      "id": "QA_26",
+      "type": "Question",
+      "label": "Diễn giải các yếu tố NHỎ còn lại: GBTH, HTCM, HTBB, BPĐP",
+      "topic": "Risk-protective factor model",
+      "date_asked": "2026-05-08"
+    },
+    {
+      "id": "CONCEPT_PERCENT_CONVERSION",
+      "type": "Concept",
+      "label": "Quy đổi điểm số sang tỷ lệ %"
+    },
+    {
+      "id": "CONCEPT_RCADS_CUTOFF",
+      "type": "Concept",
+      "label": "RCADS cutoff (T-score 65 borderline / 70 clinical)"
+    },
+    {
+      "id": "CONCEPT_Z_SCORE",
+      "type": "Concept",
+      "label": "Z-score (chuẩn hóa thống kê)"
+    },
+    {
+      "id": "CONCEPT_NORMAL_DISTRIBUTION",
+      "type": "Concept",
+      "label": "Phân phối chuẩn (normal distribution)"
+    },
+    {
+      "id": "CONCEPT_SKEWED_DISTRIBUTION",
+      "type": "Concept",
+      "label": "Phân phối lệch (skewed)"
+    },
+    {
+      "id": "CONCEPT_PREVALENCE",
+      "type": "Concept",
+      "label": "Prevalence (tỷ lệ hiện mắc)"
+    },
+    {
+      "id": "CONCEPT_CONTINUOUS_VS_CATEGORICAL",
+      "type": "Concept",
+      "label": "Thang đo liên tục vs phân loại"
+    },
+    {
+      "id": "DOC_DANH_GIA_BANLUAN_QUY_PHAN_TRAM",
+      "type": "Doc",
+      "label": "01_Bao-cao/Danh_gia_banluan_3_6_va_cach_quy_ve_phan_tram.docx"
+    },
+    {
+      "id": "QA_27",
+      "type": "Question",
+      "label": "Đánh giá phần Bàn luận 3.6 của các bạn trợ lý + cách quy điểm số RCADS sang tỷ lệ %",
+      "topic": "Statistical interpretation",
+      "date_asked": "2026-05-09"
+    },
+    {
+      "id": "CONCEPT_ESSA",
+      "type": "Concept",
+      "label": "ESSA (Educational Stress Scale for Adolescents, Sun 2011)"
+    },
+    {
+      "id": "CONCEPT_CTAS",
+      "type": "Concept",
+      "label": "CTAS (Cognitive Test Anxiety Scale, Cassady & Johnson 2002)"
+    },
+    {
+      "id": "CONCEPT_TAI",
+      "type": "Concept",
+      "label": "TAI (Test Anxiety Inventory, Spielberger 1980)"
+    },
+    {
+      "id": "CONCEPT_TEST_ANXIETY",
+      "type": "Concept",
+      "label": "Test anxiety (lo âu thi cử)"
+    },
+    {
+      "id": "CONCEPT_ACADEMIC_PRESSURE_DIMENSIONS",
+      "type": "Concept",
+      "label": "Sáu chiều con của áp lực học tập"
+    },
+    {
+      "id": "PAPER_Sun_2011_ESSA",
+      "type": "Paper",
+      "label": "Sun et al. (2011) ESSA J Psychoeduc Assess"
+    },
+    {
+      "id": "PAPER_Cassady_2002_CTAS",
+      "type": "Paper",
+      "label": "Cassady & Johnson (2002) CTAS Contemp Educ Psychol"
+    },
+    {
+      "id": "PAPER_Spielberger_1980_TAI",
+      "type": "Paper",
+      "label": "Spielberger (1980) TAI manual"
+    },
+    {
+      "id": "PAPER_Putwain_2008",
+      "type": "Paper",
+      "label": "Putwain (2008) The Psychologist examination stress"
+    },
+    {
+      "id": "DOC_PHAN_BIEN_VN004_HOC_TAP",
+      "type": "Doc",
+      "label": "01_Bao-cao/Phan_bien_VN004_yeu_to_hoc_tap.docx"
+    },
+    {
+      "id": "QA_28",
+      "type": "Question",
+      "label": "Phản biện VN004 yếu tố HỌC TẬP — khái niệm rộng quá, không phân chiều, theo style đã làm với VN014",
+      "topic": "Statistical interpretation",
+      "date_asked": "2026-05-09"
+    },
+    {
+      "id": "TOPIC_INTERVENTION_DESIGN",
+      "type": "Topic",
+      "label": "Thiết kế can thiệp phòng ngừa lo âu học đường"
+    },
+    {
+      "id": "CONCEPT_DMHI",
+      "type": "Concept",
+      "label": "DMHI (Digital Mental Health Intervention)"
+    },
+    {
+      "id": "CONCEPT_iCBT",
+      "type": "Concept",
+      "label": "iCBT (internet-delivered CBT)"
+    },
+    {
+      "id": "CONCEPT_MOBILE_CBT",
+      "type": "Concept",
+      "label": "Mobile CBT"
+    },
+    {
+      "id": "CONCEPT_CLEAR_FEAR_APP",
+      "type": "Concept",
+      "label": "Clear Fear app — 6 modules CBT"
+    },
+    {
+      "id": "CONCEPT_EACP",
+      "type": "Concept",
+      "label": "EACP (Early Adolescent Coping Power)"
+    },
+    {
+      "id": "CONCEPT_PSYCHOEDUCATION",
+      "type": "Concept",
+      "label": "Psychoeducation (tâm lý giáo dục)"
+    },
+    {
+      "id": "CONCEPT_EXPOSURE_LADDER",
+      "type": "Concept",
+      "label": "Exposure ladder (thang phơi nhiễm)"
+    },
+    {
+      "id": "CONCEPT_COGNITIVE_CHALLENGES",
+      "type": "Concept",
+      "label": "Cognitive challenges (thử thách suy nghĩ)"
+    },
+    {
+      "id": "CONCEPT_BEHAVIORAL_ACTIVATION",
+      "type": "Concept",
+      "label": "Behavioral activation (kích hoạt hành vi)"
+    },
+    {
+      "id": "CONCEPT_RELAXATION_TOOLS",
+      "type": "Concept",
+      "label": "Relaxation tools (thở 4-7-8, grounding 5-4-3-2-1)"
+    },
+    {
+      "id": "CONCEPT_GUIDED_VS_UNGUIDED_DMHI",
+      "type": "Concept",
+      "label": "Guided vs unguided DMHI"
+    },
+    {
+      "id": "CONCEPT_SAD_SPECIFIC_APP",
+      "type": "Concept",
+      "label": "SAD-specific app (Walder 2025 g=0,878)"
+    },
+    {
+      "id": "CONCEPT_WHOLE_SCHOOL_APPROACH",
+      "type": "Concept",
+      "label": "Whole-school approach"
+    },
+    {
+      "id": "PAPER_QT050_Qiaochu_2025",
+      "type": "Paper",
+      "label": "QT050 Qiaochu & Wang (2025) Mobile CBT systematic review"
+    },
+    {
+      "id": "PAPER_QT062_Samele_2025",
+      "type": "Paper",
+      "label": "QT062 Samele et al. (2025) Clear Fear app evaluation"
+    },
+    {
+      "id": "PAPER_QT065_Lochman_2025",
+      "type": "Paper",
+      "label": "QT065 Lochman et al. (2025) EACP RCT 40 trường"
+    },
+    {
+      "id": "PAPER_VN003_Pham_2024",
+      "type": "Paper",
+      "label": "VN003 Pham et al. (2024) Hue social support"
+    },
+    {
+      "id": "DOC_KHUNG_TAP_HUAN_V2",
+      "type": "Doc",
+      "label": "01_Bao-cao/bang-so-lieu-binh-luan/00_Khung tập huấn-v2.docx"
+    },
+    {
+      "id": "QA_29",
+      "type": "Question",
+      "label": "Sửa Khung tập huấn 8 chủ đề theo CBT 8-12 buổi + DMHI/iCBT + whole-school + số liệu chương 3",
+      "topic": "Thiết kế can thiệp phòng ngừa lo âu học đường",
+      "date_asked": "2026-05-09"
+    },
+    {
+      "id": "CONCEPT_OMITTED_VARIABLE_BIAS",
+      "type": "Concept",
+      "label": "Omitted variable bias (thiên lệch do bỏ biến)"
+    },
+    {
+      "id": "CONCEPT_R_SQUARED_INTERPRETATION",
+      "type": "Concept",
+      "label": "Diễn giải R² + effect size"
+    },
+    {
+      "id": "CONCEPT_DASS21",
+      "type": "Concept",
+      "label": "DASS-21 (Lovibond 1995)"
+    },
+    {
+      "id": "DOC_PHAN_BIEN_VN014_THIEU_ALHT",
+      "type": "Doc",
+      "label": "01_Bao-cao/Phan_bien_VN014_thieu_yeu_to_ap_luc_hoc_tap.docx"
+    },
+    {
+      "id": "QA_30",
+      "type": "Question",
+      "label": "Phản biện VN014 H.T. Học không nghiên cứu áp lực học tập — hậu quả về R² và diễn giải",
+      "topic": "Statistical interpretation",
+      "date_asked": "2026-05-09"
+    },
+    {
+      "id": "CONCEPT_DASS_Y",
+      "type": "Concept",
+      "label": "DASS-Y (Depression Anxiety Stress Scales for Youth, Szabó 2010)"
+    },
+    {
+      "id": "CONCEPT_LOGISTIC_VS_SEM",
+      "type": "Concept",
+      "label": "Hồi quy logistic vs SEM — so sánh phương pháp phân tích"
+    },
+    {
+      "id": "CONCEPT_DICHOTOMIZATION_BIAS",
+      "type": "Concept",
+      "label": "Dichotomization bias (mất thông tin liên tục khi dùng ngưỡng cắt)"
+    },
+    {
+      "id": "CONCEPT_SAMPLING_DESIGN",
+      "type": "Concept",
+      "label": "Thiết kế lấy mẫu (PPS, ngẫu nhiên đa bậc, thuận tiện)"
+    },
+    {
+      "id": "PAPER_VN020_TranHoVinhLoc_2024",
+      "type": "Paper",
+      "label": "VN020 Trần Hồ Vĩnh Lộc et al. (2024) DASS-Y + ESSA TPHCM"
+    },
+    {
+      "id": "PAPER_VN029_Truc_2025",
+      "type": "Paper",
+      "label": "VN029 Trúc Thanh Thái et al. (2025) Q1 Soc Psychiatry n=2.631"
+    },
+    {
+      "id": "PAPER_Szabo_2010_DASS_Y",
+      "type": "Paper",
+      "label": "Szabó (2010) DASS-Y phiên bản VTN"
+    },
+    {
+      "id": "DOC_PHAN_BIEN_VN020_ALHT",
+      "type": "Doc",
+      "label": "01_Bao-cao/Phan_bien_VN020_TranHoVinhLoc_2024_ALHT.docx"
+    },
+    {
+      "id": "QA_31",
+      "type": "Question",
+      "label": "Phản biện VN020 Trần Hồ Vĩnh Lộc (2024) về cách đo áp lực học tập — 7 hạn chế phương pháp luận",
+      "topic": "Statistical interpretation",
+      "date_asked": "2026-05-09"
+    },
+    {
+      "id": "CONCEPT_F_TEST",
+      "type": "Concept",
+      "label": "F-test (Fisher's test) trong ANOVA"
+    },
+    {
+      "id": "CONCEPT_ANOVA",
+      "type": "Concept",
+      "label": "ANOVA (Analysis of Variance)"
+    },
+    {
+      "id": "CONCEPT_COHEN_D_RATIO",
+      "type": "Concept",
+      "label": "Tỷ số Cohen d giữa các nhóm/biến"
+    },
+    {
+      "id": "CONCEPT_BETA_RATIO",
+      "type": "Concept",
+      "label": "Tỷ số |β| để so sánh cường độ tác động"
+    },
+    {
+      "id": "CONCEPT_RAW_VS_STANDARDIZED",
+      "type": "Concept",
+      "label": "Chênh lệch raw vs effect size chuẩn hóa"
+    },
+    {
+      "id": "CONCEPT_VARIANCE_EXPLAINED",
+      "type": "Concept",
+      "label": "Variance explained (phương sai được giải thích)"
+    },
+    {
+      "id": "CONCEPT_GUARDIAN_BARRIER_RATIO",
+      "type": "Concept",
+      "label": "Tỷ số yếu tố bảo vệ / nguy cơ — đánh giá sức mạnh tương đối"
+    },
+    {
+      "id": "CONCEPT_T_SCORE_CUTOFF",
+      "type": "Concept",
+      "label": "T-score cutoff (60/65/70/80) cho phân loại lâm sàng"
+    },
+    {
+      "id": "CONCEPT_GIA_DUC_HOI_DONG_VN",
+      "type": "Concept",
+      "label": "Yêu cầu của Hội đồng VN về tỷ lệ % trong báo cáo luận án"
+    },
+    {
+      "id": "DOC_F_TEST_ANOVA_GIOI",
+      "type": "Doc",
+      "label": "01_Bao-cao/F_test_ANOVA_gioi_la_gi.docx"
+    },
+    {
+      "id": "DOC_CHENH_LECH_GIOI_LAXH_LATQ",
+      "type": "Doc",
+      "label": "01_Bao-cao/Chenh_lech_gioi_LAXH_vs_LATQ_2_goc_nhin.docx"
+    },
+    {
+      "id": "DOC_R_SQUARED_YTBV",
+      "type": "Doc",
+      "label": "01_Bao-cao/R_squared_YTBV_la_gi.docx"
+    },
+    {
+      "id": "DOC_TTR_NGANG_ALHT_85_89",
+      "type": "Doc",
+      "label": "01_Bao-cao/Tu_trong_ngang_ALHT_85_89_phan_tram_giai_thich.docx"
+    },
+    {
+      "id": "DOC_GIAI_PHAP_QUY_PHAN_TRAM",
+      "type": "Doc",
+      "label": "01_Bao-cao/Giai_phap_quy_ra_phan_tram_de_HoiDong_VN_OK.docx"
+    },
+    {
+      "id": "QA_32",
+      "type": "Question",
+      "label": "F-test ANOVA giới là gì? Áp dụng vào Bảng 3.20",
+      "topic": "Statistical interpretation",
+      "date_asked": "2026-05-09"
+    },
+    {
+      "id": "QA_33",
+      "type": "Question",
+      "label": "Chênh lệch giới ở RLLAXH so với RLLATQ — hai góc nhìn (raw vs Cohen d)",
+      "topic": "Statistical interpretation",
+      "date_asked": "2026-05-09"
+    },
+    {
+      "id": "QA_34",
+      "type": "Question",
+      "label": "R² YTBV gọi là gì? Hệ số xác định = 12,4% phương sai RLLA giải thích bởi YTBV",
+      "topic": "Statistical interpretation",
+      "date_asked": "2026-05-09"
+    },
+    {
+      "id": "QA_35",
+      "type": "Question",
+      "label": "Lòng tự trọng có cường độ tác động ngang ALHT 85-89% nghĩa là gì?",
+      "topic": "Statistical interpretation",
+      "date_asked": "2026-05-09"
+    },
+    {
+      "id": "QA_36",
+      "type": "Question",
+      "label": "Giải pháp quy ra tỷ lệ % để Hội đồng VN OK — 7 phương án",
+      "topic": "Statistical interpretation",
+      "date_asked": "2026-05-09"
+    },
+    {
+      "id": "PAPER_QT068_Urao_2018",
+      "type": "Paper",
+      "label": "QT068 Urao (2018) BMC Journey of the Brave Japan 10 sessions"
+    },
+    {
+      "id": "PAPER_QT069_Urao_2022",
+      "type": "Paper",
+      "label": "QT069 Urao (2022) BMC Psychiatry 14 sessions × 20 min"
+    },
+    {
+      "id": "PAPER_QT070_Moore_2017_BullyingMeta",
+      "type": "Paper",
+      "label": "QT070 Moore (2017) Meta-analysis bullying → anxiety OR=1,77"
+    },
+    {
+      "id": "PAPER_QT071_MatsumotoK_2024_iCBT",
+      "type": "Paper",
+      "label": "QT071 Matsumoto K (2024) JMIR Unguided iCBT smartphone SAD"
+    },
+    {
+      "id": "CONCEPT_JOURNEY_OF_THE_BRAVE",
+      "type": "Concept",
+      "label": "Journey of the Brave (CBT Nhật adolescents)"
+    },
+    {
+      "id": "CONCEPT_BRIEF_CBT_FORMAT",
+      "type": "Concept",
+      "label": "Brief CBT format (14 sessions × 20 min ngắn-cực ngắn)"
+    },
+    {
+      "id": "CONCEPT_BULLYING_ANXIETY_OR",
+      "type": "Concept",
+      "label": "Bullying → anxiety OR (Moore 2017: 1,77)"
+    },
+    {
+      "id": "CONCEPT_SCAS",
+      "type": "Concept",
+      "label": "SCAS (Spence Children Anxiety Scale)"
+    },
+    {
+      "id": "CONCEPT_LSAS",
+      "type": "Concept",
+      "label": "LSAS (Liebowitz Social Anxiety Scale)"
+    },
+    {
+      "id": "CONCEPT_CLARK_WELLS_MODEL",
+      "type": "Concept",
+      "label": "Clark & Wells cognitive model SAD"
+    },
+    {
+      "id": "PAPER_QT072_Lee_2025_CyberbullyingMeta",
+      "type": "Paper",
+      "label": "QT072 Lee (2025) Cyberbullying meta-analysis longitudinal r=0,229 anxiety"
+    },
+    {
+      "id": "PAPER_QT073_He_2025_PowerUpCBTD",
+      "type": "Paper",
+      "label": "QT073 He (2025) Power Up-CBTD pilot RCT China brief CBGT"
+    },
+    {
+      "id": "CONCEPT_CYBERBULLYING",
+      "type": "Concept",
+      "label": "Cyberbullying victimization (online bullying)"
+    },
+    {
+      "id": "CONCEPT_BRIEF_CBGT",
+      "type": "Concept",
+      "label": "Brief CBGT (Cognitive Behavioral Group Therapy)"
+    },
+    {
+      "id": "CONCEPT_CESD_R",
+      "type": "Concept",
+      "label": "CESD-R (Center for Epidemiologic Studies Depression-Revised)"
+    },
+    {
+      "id": "CONCEPT_SCARED",
+      "type": "Concept",
+      "label": "SCARED (Screen for Child Anxiety Related Emotional Disorders)"
+    }
+  ],
+  "edges": [
+    {
+      "source": "QA_01",
+      "target": "CONCEPT_COHEN_S_D",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_01",
+      "target": "CONCEPT_HEDGES_G",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_01",
+      "target": "CONCEPT_SMD",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_01",
+      "target": "CONCEPT_EFFECT_SIZE",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_01",
+      "target": "CONCEPT_COCHRANE",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_02",
+      "target": "CONCEPT_PICOS",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_02",
+      "target": "CONCEPT_ELIGIBILITY_CRITERIA",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_02",
+      "target": "CONCEPT_PRISMA_FLOW",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_02",
+      "target": "CONCEPT_SR_VS_MA",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_03",
+      "target": "CONCEPT_WAITLIST",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_03",
+      "target": "CONCEPT_CONTROL_GROUP",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_03",
+      "target": "CONCEPT_RCT",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_03",
+      "target": "CONCEPT_EFFECT_SIZE",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_04",
+      "target": "CONCEPT_MULTICENTER_RCT",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_04",
+      "target": "CONCEPT_CAMS",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_04",
+      "target": "CONCEPT_GENERALIZABILITY",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_04",
+      "target": "CONCEPT_PROSPERO",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_05",
+      "target": "CONCEPT_ACT",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_05",
+      "target": "CONCEPT_CBT",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_05",
+      "target": "CONCEPT_RFT",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_05",
+      "target": "CONCEPT_STEVEN_HAYES",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_05",
+      "target": "CONCEPT_HEXAFLEX",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_05",
+      "target": "CONCEPT_THIRD_WAVE",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_05",
+      "target": "CONCEPT_BAYESIAN_NMA",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_06",
+      "target": "CONCEPT_NNT",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_06",
+      "target": "CONCEPT_ARR",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_06",
+      "target": "CONCEPT_RESPONSE_RATE",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_06",
+      "target": "CONCEPT_CAMS",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_06",
+      "target": "CONCEPT_EFFECT_SIZE",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_07",
+      "target": "CONCEPT_MANN_WHITNEY",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_07",
+      "target": "CONCEPT_HODGES_LEHMANN",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_07",
+      "target": "CONCEPT_MEDIAN_DIFFERENCE",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_07",
+      "target": "CONCEPT_NON_PARAMETRIC",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_07",
+      "target": "CONCEPT_GAD_10",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_08",
+      "target": "CONCEPT_AOR",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_08",
+      "target": "CONCEPT_OR",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_08",
+      "target": "CONCEPT_LOGISTIC_REGRESSION",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_08",
+      "target": "CONCEPT_MULTIVARIABLE",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_08",
+      "target": "CONCEPT_CONFOUNDING",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_08",
+      "target": "CONCEPT_Β_COEFFICIENT",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_09",
+      "target": "CONCEPT_PRISMA",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_09",
+      "target": "CONCEPT_FLOW_DIAGRAM",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_09",
+      "target": "CONCEPT_SCREENING",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_09",
+      "target": "CONCEPT_ELIGIBILITY",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_09",
+      "target": "CONCEPT_RISK_OF_BIAS",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_10",
+      "target": "CONCEPT_CHI_SQUARE",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_10",
+      "target": "CONCEPT_LOGISTIC_REGRESSION",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_10",
+      "target": "CONCEPT_UNIVARIABLE",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_10",
+      "target": "CONCEPT_MULTIVARIABLE",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_10",
+      "target": "CONCEPT_HYPOTHESIS_TESTING",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_11",
+      "target": "CONCEPT_CLUSTER_EFFECT",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_11",
+      "target": "CONCEPT_ICC",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_11",
+      "target": "CONCEPT_WEIGHTED_PREVALENCE",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_11",
+      "target": "CONCEPT_SURVEY_PACKAGE_R",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_11",
+      "target": "CONCEPT_DESIGN_EFFECT",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_12",
+      "target": "CONCEPT_SE",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_12",
+      "target": "CONCEPT_DEFF",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_12",
+      "target": "CONCEPT_DESIGN_EFFECT",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_12",
+      "target": "CONCEPT_SAMPLE_SIZE",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_12",
+      "target": "CONCEPT_EFFECT_SIZE",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_12",
+      "target": "CONCEPT_ICC",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_13",
+      "target": "CONCEPT_STANDARD_ERROR",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_13",
+      "target": "CONCEPT_UNDERESTIMATION",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_13",
+      "target": "CONCEPT_INFLATED_SIGNIFICANCE",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_13",
+      "target": "CONCEPT_TYPE_I_ERROR",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_13",
+      "target": "CONCEPT_CLUSTER_EFFECT",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_14",
+      "target": "CONCEPT_WEIGHTED_PREVALENCE",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_14",
+      "target": "CONCEPT_SAMPLING_WEIGHT",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_14",
+      "target": "CONCEPT_NON_RESPONSE",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_14",
+      "target": "CONCEPT_POST_STRATIFICATION",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_14",
+      "target": "CONCEPT_SURVEY_PACKAGE_R",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_15",
+      "target": "CONCEPT_CONFIDENCE_INTERVAL",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_15",
+      "target": "CONCEPT_CI_WIDTH",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_15",
+      "target": "CONCEPT_PRECISION",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_15",
+      "target": "CONCEPT_DESIGN_EFFECT",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_15",
+      "target": "CONCEPT_EFFECTIVE_SAMPLE_SIZE",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_01",
+      "target": "TOPIC_EFFECT_SIZE",
+      "relation": "BELONGS_TO"
+    },
+    {
+      "source": "QA_02",
+      "target": "TOPIC_SR_MA_METHODOLOGY",
+      "relation": "BELONGS_TO"
+    },
+    {
+      "source": "QA_03",
+      "target": "TOPIC_RCT_DESIGN",
+      "relation": "BELONGS_TO"
+    },
+    {
+      "source": "QA_04",
+      "target": "TOPIC_RCT_DESIGN",
+      "relation": "BELONGS_TO"
+    },
+    {
+      "source": "QA_05",
+      "target": "TOPIC_PSYCHOTHERAPY_HISTORY",
+      "relation": "BELONGS_TO"
+    },
+    {
+      "source": "QA_06",
+      "target": "TOPIC_CLINICAL_STATISTICS",
+      "relation": "BELONGS_TO"
+    },
+    {
+      "source": "QA_07",
+      "target": "TOPIC_STATISTICAL_TEST",
+      "relation": "BELONGS_TO"
+    },
+    {
+      "source": "QA_08",
+      "target": "TOPIC_REGRESSION",
+      "relation": "BELONGS_TO"
+    },
+    {
+      "source": "QA_09",
+      "target": "TOPIC_SR_METHODOLOGY",
+      "relation": "BELONGS_TO"
+    },
+    {
+      "source": "QA_10",
+      "target": "TOPIC_STATISTICAL_TERMINOLOGY",
+      "relation": "BELONGS_TO"
+    },
+    {
+      "source": "QA_11",
+      "target": "TOPIC_SURVEY_METHODOLOGY",
+      "relation": "BELONGS_TO"
+    },
+    {
+      "source": "QA_12",
+      "target": "TOPIC_STATISTICAL_TERMINOLOGY",
+      "relation": "BELONGS_TO"
+    },
+    {
+      "source": "QA_13",
+      "target": "TOPIC_STATISTICAL_INTERPRETATION",
+      "relation": "BELONGS_TO"
+    },
+    {
+      "source": "QA_14",
+      "target": "TOPIC_SURVEY_METHODOLOGY",
+      "relation": "BELONGS_TO"
+    },
+    {
+      "source": "QA_15",
+      "target": "TOPIC_STATISTICAL_INTERPRETATION",
+      "relation": "BELONGS_TO"
+    },
+    {
+      "source": "QA_01",
+      "target": "DOC_glossary_json_v3_1",
+      "relation": "ANSWERED_IN"
+    },
+    {
+      "source": "QA_02",
+      "target": "DOC_01_Bao_cao_QT040_Walder_2025_Quy_trinh_loc_22_vs_2",
+      "relation": "ANSWERED_IN"
+    },
+    {
+      "source": "QA_04",
+      "target": "DOC_01_Bao_cao_CAMS_RCT_da_trung_tam_la_gi_docx",
+      "relation": "ANSWERED_IN"
+    },
+    {
+      "source": "QA_05",
+      "target": "DOC_01_Bao_cao_ACT_ra_doi_va_vi_sao_xep_hang_cao_hon_C",
+      "relation": "ANSWERED_IN"
+    },
+    {
+      "source": "QA_06",
+      "target": "DOC_01_Bao_cao_NNT_dien_giai_va_vi_sao_cang_nho_cang_h",
+      "relation": "ANSWERED_IN"
+    },
+    {
+      "source": "QA_07",
+      "target": "DOC_01_Bao_cao_NNT_va_MannWhitney_chenh_lech_trung_vi_",
+      "relation": "ANSWERED_IN"
+    },
+    {
+      "source": "QA_08",
+      "target": "DOC_01_Bao_cao_AOR_Adjusted_Odds_Ratio_cach_tinh_docx",
+      "relation": "ANSWERED_IN"
+    },
+    {
+      "source": "QA_09",
+      "target": "DOC_01_Bao_cao_PRISMA_flow_cach_doc_tung_buoc_docx",
+      "relation": "ANSWERED_IN"
+    },
+    {
+      "source": "QA_14",
+      "target": "DOC_01_Bao_cao_Weighted_prevalence_ty_le_co_trong_so_d",
+      "relation": "ANSWERED_IN"
+    },
+    {
+      "source": "QA_15",
+      "target": "DOC_01_Bao_cao_KTC_rong_hep_vua_du_Chen_2023_docx",
+      "relation": "ANSWERED_IN"
+    },
+    {
+      "source": "QA_01",
+      "target": "PAPER_QT049",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_01",
+      "target": "PAPER_QT029",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_01",
+      "target": "PAPER_QT040",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_02",
+      "target": "PAPER_QT040",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_03",
+      "target": "PAPER_QT040",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_04",
+      "target": "PAPER_QT028",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_04",
+      "target": "PAPER_CAMS_Walkup_2008",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_05",
+      "target": "PAPER_QT029",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_05",
+      "target": "PAPER_QT028",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_06",
+      "target": "PAPER_QT028",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_06",
+      "target": "PAPER_CAMS_Walkup_2008",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_07",
+      "target": "PAPER_QT001",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_08",
+      "target": "PAPER_QT05_Zhu",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_08",
+      "target": "PAPER_QT23_JAACAP",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_08",
+      "target": "PAPER_QT31_Islam",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_09",
+      "target": "PAPER_QT040",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_09",
+      "target": "PAPER_QT029",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_11",
+      "target": "PAPER_QT007_Chen_2023",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_13",
+      "target": "PAPER_QT007_Chen_2023",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_14",
+      "target": "PAPER_QT007_Chen_2023",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_15",
+      "target": "PAPER_QT007_Chen_2023",
+      "relation": "CITES"
+    },
+    {
+      "source": "CONCEPT_COCHRANE",
+      "target": "CONCEPT_COHEN_S_D",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_COCHRANE",
+      "target": "CONCEPT_EFFECT_SIZE",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_COCHRANE",
+      "target": "CONCEPT_HEDGES_G",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_COCHRANE",
+      "target": "CONCEPT_SMD",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_COHEN_S_D",
+      "target": "CONCEPT_EFFECT_SIZE",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_COHEN_S_D",
+      "target": "CONCEPT_HEDGES_G",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_COHEN_S_D",
+      "target": "CONCEPT_SMD",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_EFFECT_SIZE",
+      "target": "CONCEPT_HEDGES_G",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_EFFECT_SIZE",
+      "target": "CONCEPT_SMD",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_HEDGES_G",
+      "target": "CONCEPT_SMD",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_ELIGIBILITY_CRITERIA",
+      "target": "CONCEPT_PICOS",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_ELIGIBILITY_CRITERIA",
+      "target": "CONCEPT_PRISMA_FLOW",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_ELIGIBILITY_CRITERIA",
+      "target": "CONCEPT_SR_VS_MA",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_PICOS",
+      "target": "CONCEPT_PRISMA_FLOW",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_PICOS",
+      "target": "CONCEPT_SR_VS_MA",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_PRISMA_FLOW",
+      "target": "CONCEPT_SR_VS_MA",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_CONTROL_GROUP",
+      "target": "CONCEPT_EFFECT_SIZE",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_CONTROL_GROUP",
+      "target": "CONCEPT_RCT",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_CONTROL_GROUP",
+      "target": "CONCEPT_WAITLIST",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_EFFECT_SIZE",
+      "target": "CONCEPT_RCT",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_EFFECT_SIZE",
+      "target": "CONCEPT_WAITLIST",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_RCT",
+      "target": "CONCEPT_WAITLIST",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_CAMS",
+      "target": "CONCEPT_GENERALIZABILITY",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_CAMS",
+      "target": "CONCEPT_MULTICENTER_RCT",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_CAMS",
+      "target": "CONCEPT_PROSPERO",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_GENERALIZABILITY",
+      "target": "CONCEPT_MULTICENTER_RCT",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_GENERALIZABILITY",
+      "target": "CONCEPT_PROSPERO",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_MULTICENTER_RCT",
+      "target": "CONCEPT_PROSPERO",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_ACT",
+      "target": "CONCEPT_BAYESIAN_NMA",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_ACT",
+      "target": "CONCEPT_CBT",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_ACT",
+      "target": "CONCEPT_HEXAFLEX",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_ACT",
+      "target": "CONCEPT_RFT",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_ACT",
+      "target": "CONCEPT_STEVEN_HAYES",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_ACT",
+      "target": "CONCEPT_THIRD_WAVE",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_BAYESIAN_NMA",
+      "target": "CONCEPT_CBT",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_BAYESIAN_NMA",
+      "target": "CONCEPT_HEXAFLEX",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_BAYESIAN_NMA",
+      "target": "CONCEPT_RFT",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_BAYESIAN_NMA",
+      "target": "CONCEPT_STEVEN_HAYES",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_BAYESIAN_NMA",
+      "target": "CONCEPT_THIRD_WAVE",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_CBT",
+      "target": "CONCEPT_HEXAFLEX",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_CBT",
+      "target": "CONCEPT_RFT",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_CBT",
+      "target": "CONCEPT_STEVEN_HAYES",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_CBT",
+      "target": "CONCEPT_THIRD_WAVE",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_HEXAFLEX",
+      "target": "CONCEPT_RFT",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_HEXAFLEX",
+      "target": "CONCEPT_STEVEN_HAYES",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_HEXAFLEX",
+      "target": "CONCEPT_THIRD_WAVE",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_RFT",
+      "target": "CONCEPT_STEVEN_HAYES",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_RFT",
+      "target": "CONCEPT_THIRD_WAVE",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_STEVEN_HAYES",
+      "target": "CONCEPT_THIRD_WAVE",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_ARR",
+      "target": "CONCEPT_CAMS",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_ARR",
+      "target": "CONCEPT_EFFECT_SIZE",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_ARR",
+      "target": "CONCEPT_NNT",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_ARR",
+      "target": "CONCEPT_RESPONSE_RATE",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_CAMS",
+      "target": "CONCEPT_EFFECT_SIZE",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_CAMS",
+      "target": "CONCEPT_NNT",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_CAMS",
+      "target": "CONCEPT_RESPONSE_RATE",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_EFFECT_SIZE",
+      "target": "CONCEPT_NNT",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_EFFECT_SIZE",
+      "target": "CONCEPT_RESPONSE_RATE",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_NNT",
+      "target": "CONCEPT_RESPONSE_RATE",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_GAD_10",
+      "target": "CONCEPT_HODGES_LEHMANN",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_GAD_10",
+      "target": "CONCEPT_MANN_WHITNEY",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_GAD_10",
+      "target": "CONCEPT_MEDIAN_DIFFERENCE",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_GAD_10",
+      "target": "CONCEPT_NON_PARAMETRIC",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_HODGES_LEHMANN",
+      "target": "CONCEPT_MANN_WHITNEY",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_HODGES_LEHMANN",
+      "target": "CONCEPT_MEDIAN_DIFFERENCE",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_HODGES_LEHMANN",
+      "target": "CONCEPT_NON_PARAMETRIC",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_MANN_WHITNEY",
+      "target": "CONCEPT_MEDIAN_DIFFERENCE",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_MANN_WHITNEY",
+      "target": "CONCEPT_NON_PARAMETRIC",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_MEDIAN_DIFFERENCE",
+      "target": "CONCEPT_NON_PARAMETRIC",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_AOR",
+      "target": "CONCEPT_CONFOUNDING",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_AOR",
+      "target": "CONCEPT_LOGISTIC_REGRESSION",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_AOR",
+      "target": "CONCEPT_MULTIVARIABLE",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_AOR",
+      "target": "CONCEPT_OR",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_AOR",
+      "target": "CONCEPT_Β_COEFFICIENT",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_CONFOUNDING",
+      "target": "CONCEPT_LOGISTIC_REGRESSION",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_CONFOUNDING",
+      "target": "CONCEPT_MULTIVARIABLE",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_CONFOUNDING",
+      "target": "CONCEPT_OR",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_CONFOUNDING",
+      "target": "CONCEPT_Β_COEFFICIENT",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_LOGISTIC_REGRESSION",
+      "target": "CONCEPT_MULTIVARIABLE",
+      "relation": "RELATED_TO",
+      "weight": 2
+    },
+    {
+      "source": "CONCEPT_LOGISTIC_REGRESSION",
+      "target": "CONCEPT_OR",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_LOGISTIC_REGRESSION",
+      "target": "CONCEPT_Β_COEFFICIENT",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_MULTIVARIABLE",
+      "target": "CONCEPT_OR",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_MULTIVARIABLE",
+      "target": "CONCEPT_Β_COEFFICIENT",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_OR",
+      "target": "CONCEPT_Β_COEFFICIENT",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_ELIGIBILITY",
+      "target": "CONCEPT_FLOW_DIAGRAM",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_ELIGIBILITY",
+      "target": "CONCEPT_PRISMA",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_ELIGIBILITY",
+      "target": "CONCEPT_RISK_OF_BIAS",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_ELIGIBILITY",
+      "target": "CONCEPT_SCREENING",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_FLOW_DIAGRAM",
+      "target": "CONCEPT_PRISMA",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_FLOW_DIAGRAM",
+      "target": "CONCEPT_RISK_OF_BIAS",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_FLOW_DIAGRAM",
+      "target": "CONCEPT_SCREENING",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_PRISMA",
+      "target": "CONCEPT_RISK_OF_BIAS",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_PRISMA",
+      "target": "CONCEPT_SCREENING",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_RISK_OF_BIAS",
+      "target": "CONCEPT_SCREENING",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_CHI_SQUARE",
+      "target": "CONCEPT_HYPOTHESIS_TESTING",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_CHI_SQUARE",
+      "target": "CONCEPT_LOGISTIC_REGRESSION",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_CHI_SQUARE",
+      "target": "CONCEPT_MULTIVARIABLE",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_CHI_SQUARE",
+      "target": "CONCEPT_UNIVARIABLE",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_HYPOTHESIS_TESTING",
+      "target": "CONCEPT_LOGISTIC_REGRESSION",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_HYPOTHESIS_TESTING",
+      "target": "CONCEPT_MULTIVARIABLE",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_HYPOTHESIS_TESTING",
+      "target": "CONCEPT_UNIVARIABLE",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_LOGISTIC_REGRESSION",
+      "target": "CONCEPT_UNIVARIABLE",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_MULTIVARIABLE",
+      "target": "CONCEPT_UNIVARIABLE",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_CLUSTER_EFFECT",
+      "target": "CONCEPT_DESIGN_EFFECT",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_CLUSTER_EFFECT",
+      "target": "CONCEPT_ICC",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_CLUSTER_EFFECT",
+      "target": "CONCEPT_SURVEY_PACKAGE_R",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_CLUSTER_EFFECT",
+      "target": "CONCEPT_WEIGHTED_PREVALENCE",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_DESIGN_EFFECT",
+      "target": "CONCEPT_ICC",
+      "relation": "RELATED_TO",
+      "weight": 2
+    },
+    {
+      "source": "CONCEPT_DESIGN_EFFECT",
+      "target": "CONCEPT_SURVEY_PACKAGE_R",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_DESIGN_EFFECT",
+      "target": "CONCEPT_WEIGHTED_PREVALENCE",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_ICC",
+      "target": "CONCEPT_SURVEY_PACKAGE_R",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_ICC",
+      "target": "CONCEPT_WEIGHTED_PREVALENCE",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_SURVEY_PACKAGE_R",
+      "target": "CONCEPT_WEIGHTED_PREVALENCE",
+      "relation": "RELATED_TO",
+      "weight": 2
+    },
+    {
+      "source": "CONCEPT_DEFF",
+      "target": "CONCEPT_DESIGN_EFFECT",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_DEFF",
+      "target": "CONCEPT_EFFECT_SIZE",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_DEFF",
+      "target": "CONCEPT_ICC",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_DEFF",
+      "target": "CONCEPT_SAMPLE_SIZE",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_DEFF",
+      "target": "CONCEPT_SE",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_DESIGN_EFFECT",
+      "target": "CONCEPT_EFFECT_SIZE",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_DESIGN_EFFECT",
+      "target": "CONCEPT_SAMPLE_SIZE",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_DESIGN_EFFECT",
+      "target": "CONCEPT_SE",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_EFFECT_SIZE",
+      "target": "CONCEPT_ICC",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_EFFECT_SIZE",
+      "target": "CONCEPT_SAMPLE_SIZE",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_EFFECT_SIZE",
+      "target": "CONCEPT_SE",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_ICC",
+      "target": "CONCEPT_SAMPLE_SIZE",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_ICC",
+      "target": "CONCEPT_SE",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_SAMPLE_SIZE",
+      "target": "CONCEPT_SE",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_CLUSTER_EFFECT",
+      "target": "CONCEPT_INFLATED_SIGNIFICANCE",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_CLUSTER_EFFECT",
+      "target": "CONCEPT_STANDARD_ERROR",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_CLUSTER_EFFECT",
+      "target": "CONCEPT_TYPE_I_ERROR",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_CLUSTER_EFFECT",
+      "target": "CONCEPT_UNDERESTIMATION",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_INFLATED_SIGNIFICANCE",
+      "target": "CONCEPT_STANDARD_ERROR",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_INFLATED_SIGNIFICANCE",
+      "target": "CONCEPT_TYPE_I_ERROR",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_INFLATED_SIGNIFICANCE",
+      "target": "CONCEPT_UNDERESTIMATION",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_STANDARD_ERROR",
+      "target": "CONCEPT_TYPE_I_ERROR",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_STANDARD_ERROR",
+      "target": "CONCEPT_UNDERESTIMATION",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_TYPE_I_ERROR",
+      "target": "CONCEPT_UNDERESTIMATION",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_NON_RESPONSE",
+      "target": "CONCEPT_POST_STRATIFICATION",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_NON_RESPONSE",
+      "target": "CONCEPT_SAMPLING_WEIGHT",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_NON_RESPONSE",
+      "target": "CONCEPT_SURVEY_PACKAGE_R",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_NON_RESPONSE",
+      "target": "CONCEPT_WEIGHTED_PREVALENCE",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_POST_STRATIFICATION",
+      "target": "CONCEPT_SAMPLING_WEIGHT",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_POST_STRATIFICATION",
+      "target": "CONCEPT_SURVEY_PACKAGE_R",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_POST_STRATIFICATION",
+      "target": "CONCEPT_WEIGHTED_PREVALENCE",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_SAMPLING_WEIGHT",
+      "target": "CONCEPT_SURVEY_PACKAGE_R",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_SAMPLING_WEIGHT",
+      "target": "CONCEPT_WEIGHTED_PREVALENCE",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_CI_WIDTH",
+      "target": "CONCEPT_CONFIDENCE_INTERVAL",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_CI_WIDTH",
+      "target": "CONCEPT_DESIGN_EFFECT",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_CI_WIDTH",
+      "target": "CONCEPT_EFFECTIVE_SAMPLE_SIZE",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_CI_WIDTH",
+      "target": "CONCEPT_PRECISION",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_CONFIDENCE_INTERVAL",
+      "target": "CONCEPT_DESIGN_EFFECT",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_CONFIDENCE_INTERVAL",
+      "target": "CONCEPT_EFFECTIVE_SAMPLE_SIZE",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_CONFIDENCE_INTERVAL",
+      "target": "CONCEPT_PRECISION",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_DESIGN_EFFECT",
+      "target": "CONCEPT_EFFECTIVE_SAMPLE_SIZE",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_DESIGN_EFFECT",
+      "target": "CONCEPT_PRECISION",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "CONCEPT_EFFECTIVE_SAMPLE_SIZE",
+      "target": "CONCEPT_PRECISION",
+      "relation": "RELATED_TO",
+      "weight": 1
+    },
+    {
+      "source": "QA_16",
+      "target": "TOPIC_HETEROGENEITY",
+      "relation": "BELONGS_TO"
+    },
+    {
+      "source": "QA_16",
+      "target": "CONCEPT_I",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_16",
+      "target": "CONCEPT_COCHRAN_Q",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_16",
+      "target": "CONCEPT_TAU_SQUARED",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_16",
+      "target": "CONCEPT_HETEROGENEITY",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_16",
+      "target": "CONCEPT_RANDOM_EFFECTS",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_16",
+      "target": "CONCEPT_FIXED_EFFECTS",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_16",
+      "target": "CONCEPT_COCHRANE",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_16",
+      "target": "CONCEPT_PRISMA_2020",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_16",
+      "target": "PAPER_QT049",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_16",
+      "target": "PAPER_QT040",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_16",
+      "target": "DOC_I_BINH_PHUONG_GIAI_THICH_CHO_THAY_270420",
+      "relation": "ANSWERED_IN"
+    },
+    {
+      "source": "QA_17",
+      "target": "TOPIC_STATISTICAL_INTERPRETATION",
+      "relation": "BELONGS_TO"
+    },
+    {
+      "source": "QA_17",
+      "target": "CONCEPT_ODDS_RATIO",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_17",
+      "target": "CONCEPT_OR_MAGNITUDE",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_17",
+      "target": "CONCEPT_PARENTING_STYLE",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_17",
+      "target": "CONCEPT_RESILIENCE",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_17",
+      "target": "CONCEPT_PROTECTIVE_FACTOR",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_17",
+      "target": "CONCEPT_RISK_FACTOR",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_17",
+      "target": "CONCEPT_EFFECT_SIZE",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_17",
+      "target": "PAPER_QT008",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_17",
+      "target": "PAPER_QT067",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_17",
+      "target": "DOC_OR_MUC_DO_BINH_LUAN_PARENTING_RESILIENCE",
+      "relation": "ANSWERED_IN"
+    },
+    {
+      "source": "QA_18",
+      "target": "TOPIC_STATISTICAL_INTERPRETATION",
+      "relation": "BELONGS_TO"
+    },
+    {
+      "source": "QA_18",
+      "target": "CONCEPT_ODDS_RATIO",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_18",
+      "target": "CONCEPT_RISK_RATIO",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_18",
+      "target": "CONCEPT_OR_VS_RR",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_18",
+      "target": "CONCEPT_OUTCOME_PREVALENCE",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_18",
+      "target": "CONCEPT_STATISTICAL_MAGNITUDE",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_18",
+      "target": "CONCEPT_WEN_2020",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_18",
+      "target": "PAPER_QT008",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_18",
+      "target": "DOC_OR_WEN_2020_DIEN_DAT_NGUY_CO_VS_ODDS_DOC",
+      "relation": "ANSWERED_IN"
+    },
+    {
+      "source": "QA_19",
+      "target": "TOPIC_HELP_SEEKING",
+      "relation": "BELONGS_TO"
+    },
+    {
+      "source": "QA_19",
+      "target": "CONCEPT_HELP_SEEKING",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_19",
+      "target": "CONCEPT_TREATMENT_GAP",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_19",
+      "target": "CONCEPT_SCHOOL_COUNSELOR",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_19",
+      "target": "CONCEPT_SCHOOL_STAFF",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_19",
+      "target": "CONCEPT_MENTAL_HEALTH_SERVICE",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_19",
+      "target": "CONCEPT_V_NAMHS_2022",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_19",
+      "target": "CONCEPT_SERVICE_UTILIZATION",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_19",
+      "target": "PAPER_VN002",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_19",
+      "target": "PAPER_VN022",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_19",
+      "target": "PAPER_QT066",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_19",
+      "target": "PAPER_QT008",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_19",
+      "target": "DOC_TY_LE_HS_TIM_GAP_BAC_SI_TAM_LY_O_TRUONG_",
+      "relation": "ANSWERED_IN"
+    },
+    {
+      "source": "QA_20",
+      "target": "TOPIC_STATISTICAL_TERMINOLOGY",
+      "relation": "BELONGS_TO"
+    },
+    {
+      "source": "QA_20",
+      "target": "CONCEPT_VTN",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_20",
+      "target": "CONCEPT_ADOLESCENT",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_20",
+      "target": "CONCEPT_WHO_AGE_GROUPS",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_20",
+      "target": "CONCEPT_VIETNAMESE_TERMINOLOGY",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_20",
+      "target": "PAPER_VN002",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_20",
+      "target": "PAPER_VN022",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_22",
+      "target": "TOPIC_DIGITAL_ADDICTION",
+      "relation": "BELONGS_TO"
+    },
+    {
+      "source": "QA_21",
+      "target": "TOPIC_STATISTICAL_INTERPRETATION",
+      "relation": "BELONGS_TO"
+    },
+    {
+      "source": "QA_21",
+      "target": "CONCEPT_R_SQUARED",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_21",
+      "target": "PAPER_VN004_NguyenThiVan_2020",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_21",
+      "target": "DOC_VN004_85_4_KHONG_KHOP",
+      "relation": "ANSWERED_IN"
+    },
+    {
+      "source": "QA_22",
+      "target": "CONCEPT_PROBLEMATIC_SMARTPHONE_USE",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_22",
+      "target": "CONCEPT_SMARTPHONE_ADDICTION",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_22",
+      "target": "CONCEPT_SOCIAL_MEDIA_ADDICTION",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_22",
+      "target": "CONCEPT_SCREEN_TIME",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_22",
+      "target": "CONCEPT_FOMO",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_22",
+      "target": "CONCEPT_INTERNET_GAMING_DISORDER",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_22",
+      "target": "CONCEPT_SAS_SV",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_22",
+      "target": "CONCEPT_BSMAS",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_22",
+      "target": "PAPER_Sohn_2019_BMC_Psychiatry",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_22",
+      "target": "PAPER_QT007_Chen_2023",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_22",
+      "target": "PAPER_QT022_Li_2025",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_22",
+      "target": "PAPER_QT027_Fassi_2025",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_22",
+      "target": "PAPER_QT033_SchmidtPersson_2024",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_22",
+      "target": "PAPER_QT041_Zheng_2025",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_22",
+      "target": "PAPER_VN014_HoangTrungHoc_2025",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_22",
+      "target": "DOC_GT_NGHIEN_DIEN_THOAI",
+      "relation": "ANSWERED_IN"
+    },
+    {
+      "source": "CONCEPT_PROBLEMATIC_SMARTPHONE_USE",
+      "target": "TOPIC_DIGITAL_ADDICTION",
+      "relation": "BELONGS_TO"
+    },
+    {
+      "source": "CONCEPT_SMARTPHONE_ADDICTION",
+      "target": "TOPIC_DIGITAL_ADDICTION",
+      "relation": "BELONGS_TO"
+    },
+    {
+      "source": "CONCEPT_SOCIAL_MEDIA_ADDICTION",
+      "target": "TOPIC_DIGITAL_ADDICTION",
+      "relation": "BELONGS_TO"
+    },
+    {
+      "source": "CONCEPT_SCREEN_TIME",
+      "target": "TOPIC_DIGITAL_ADDICTION",
+      "relation": "BELONGS_TO"
+    },
+    {
+      "source": "CONCEPT_FOMO",
+      "target": "TOPIC_DIGITAL_ADDICTION",
+      "relation": "BELONGS_TO"
+    },
+    {
+      "source": "CONCEPT_INTERNET_GAMING_DISORDER",
+      "target": "TOPIC_DIGITAL_ADDICTION",
+      "relation": "BELONGS_TO"
+    },
+    {
+      "source": "PAPER_QT007_Chen_2023",
+      "target": "CONCEPT_INTERNET_GAMING_DISORDER",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "PAPER_QT022_Li_2025",
+      "target": "CONCEPT_SCREEN_TIME",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "PAPER_QT027_Fassi_2025",
+      "target": "CONCEPT_SOCIAL_MEDIA_ADDICTION",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "PAPER_QT033_SchmidtPersson_2024",
+      "target": "CONCEPT_SCREEN_TIME",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "PAPER_QT041_Zheng_2025",
+      "target": "CONCEPT_SOCIAL_MEDIA_ADDICTION",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "PAPER_VN014_HoangTrungHoc_2025",
+      "target": "CONCEPT_SCREEN_TIME",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "PAPER_Sohn_2019_BMC_Psychiatry",
+      "target": "CONCEPT_PROBLEMATIC_SMARTPHONE_USE",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "DOC_VN004_85_4_KHONG_KHOP",
+      "target": "PAPER_VN004_NguyenThiVan_2020",
+      "relation": "CITES"
+    },
+    {
+      "source": "DOC_GT_NGHIEN_DIEN_THOAI",
+      "target": "PAPER_QT007_Chen_2023",
+      "relation": "CITES"
+    },
+    {
+      "source": "DOC_GT_NGHIEN_DIEN_THOAI",
+      "target": "PAPER_QT022_Li_2025",
+      "relation": "CITES"
+    },
+    {
+      "source": "DOC_GT_NGHIEN_DIEN_THOAI",
+      "target": "PAPER_QT027_Fassi_2025",
+      "relation": "CITES"
+    },
+    {
+      "source": "DOC_GT_NGHIEN_DIEN_THOAI",
+      "target": "PAPER_QT033_SchmidtPersson_2024",
+      "relation": "CITES"
+    },
+    {
+      "source": "DOC_GT_NGHIEN_DIEN_THOAI",
+      "target": "PAPER_QT041_Zheng_2025",
+      "relation": "CITES"
+    },
+    {
+      "source": "DOC_GT_NGHIEN_DIEN_THOAI",
+      "target": "PAPER_VN014_HoangTrungHoc_2025",
+      "relation": "CITES"
+    },
+    {
+      "source": "DOC_GT_NGHIEN_DIEN_THOAI",
+      "target": "PAPER_Sohn_2019_BMC_Psychiatry",
+      "relation": "CITES"
+    },
+    {
+      "source": "DOC_PHAN_BIEN_VN014_QUAN_HE_CHA_ME",
+      "target": "PAPER_VN014_HoangTrungHoc_2025",
+      "relation": "CITES"
+    },
+    {
+      "source": "DOC_PHAN_BIEN_VN014_QUAN_HE_CHA_ME",
+      "target": "CONCEPT_PARENT_CHILD_RELATIONSHIP",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "DOC_PHAN_BIEN_VN014_QUAN_HE_CHA_ME",
+      "target": "CONCEPT_PARENTING_STYLE",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "DOC_UNG_PHO_YEU_TO_BAO_VE",
+      "target": "PAPER_Compas_2017_Psych_Bulletin",
+      "relation": "CITES"
+    },
+    {
+      "source": "DOC_UNG_PHO_YEU_TO_BAO_VE",
+      "target": "CONCEPT_COPING",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "DOC_UNG_PHO_YEU_TO_BAO_VE",
+      "target": "CONCEPT_RESILIENCE",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "DOC_PHAN_BIEN_VN004_BAN_THAN_HS",
+      "target": "PAPER_VN004_NguyenThiVan_2020",
+      "relation": "CITES"
+    },
+    {
+      "source": "DOC_PHAN_BIEN_VN004_BAN_THAN_HS",
+      "target": "CONCEPT_SELF_ESTEEM",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "DOC_TONG_QUAN_SELF_ESTEEM",
+      "target": "CONCEPT_SELF_ESTEEM",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_23",
+      "target": "TOPIC_GENDER_PSYCHOPATHOLOGY",
+      "relation": "BELONGS_TO"
+    },
+    {
+      "source": "QA_24",
+      "target": "TOPIC_SCHOOL_BULLYING",
+      "relation": "BELONGS_TO"
+    },
+    {
+      "source": "QA_23",
+      "target": "CONCEPT_GENDER_DIFFERENCES",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_23",
+      "target": "CONCEPT_SEX_RATIO",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_23",
+      "target": "CONCEPT_HPG_AXIS",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_23",
+      "target": "CONCEPT_RUMINATION",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_23",
+      "target": "CONCEPT_SOCIAL_ANXIETY_DISORDER",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_23",
+      "target": "CONCEPT_GENERALIZED_ANXIETY_DISORDER",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_23",
+      "target": "CONCEPT_SEPARATION_ANXIETY",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_23",
+      "target": "PAPER_Salk_2017_Psych_Bulletin",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_23",
+      "target": "PAPER_McLean_2011_J_Psychiatr_Res",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_23",
+      "target": "PAPER_NolenHoeksema_2012_Annu_Rev",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_23",
+      "target": "PAPER_QT007_Chen_2023",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_23",
+      "target": "PAPER_QT008",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_23",
+      "target": "PAPER_QT009_Qiu_2022",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_23",
+      "target": "DOC_H4_GENDER_LOAI_RLLA",
+      "relation": "ANSWERED_IN"
+    },
+    {
+      "source": "QA_24",
+      "target": "CONCEPT_SCHOOL_BULLYING",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_24",
+      "target": "CONCEPT_OBVQ",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_24",
+      "target": "CONCEPT_SCHOOL_REFUSAL",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_24",
+      "target": "CONCEPT_OBPP",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_24",
+      "target": "PAPER_Olweus_1996_OBVQ",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_24",
+      "target": "PAPER_QT007_Chen_2023",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_24",
+      "target": "PAPER_QT067",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_24",
+      "target": "DOC_BNHD_BAT_NAT_HOC_DUONG",
+      "relation": "ANSWERED_IN"
+    },
+    {
+      "source": "CONCEPT_GENDER_DIFFERENCES",
+      "target": "TOPIC_GENDER_PSYCHOPATHOLOGY",
+      "relation": "BELONGS_TO"
+    },
+    {
+      "source": "CONCEPT_SEX_RATIO",
+      "target": "TOPIC_GENDER_PSYCHOPATHOLOGY",
+      "relation": "BELONGS_TO"
+    },
+    {
+      "source": "CONCEPT_HPG_AXIS",
+      "target": "TOPIC_GENDER_PSYCHOPATHOLOGY",
+      "relation": "BELONGS_TO"
+    },
+    {
+      "source": "CONCEPT_RUMINATION",
+      "target": "TOPIC_GENDER_PSYCHOPATHOLOGY",
+      "relation": "BELONGS_TO"
+    },
+    {
+      "source": "CONCEPT_SCHOOL_BULLYING",
+      "target": "TOPIC_SCHOOL_BULLYING",
+      "relation": "BELONGS_TO"
+    },
+    {
+      "source": "CONCEPT_OBVQ",
+      "target": "TOPIC_SCHOOL_BULLYING",
+      "relation": "BELONGS_TO"
+    },
+    {
+      "source": "CONCEPT_SCHOOL_REFUSAL",
+      "target": "TOPIC_SCHOOL_BULLYING",
+      "relation": "BELONGS_TO"
+    },
+    {
+      "source": "CONCEPT_OBPP",
+      "target": "TOPIC_SCHOOL_BULLYING",
+      "relation": "BELONGS_TO"
+    },
+    {
+      "source": "PAPER_QT009_Qiu_2022",
+      "target": "CONCEPT_RESILIENCE",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "PAPER_QT009_Qiu_2022",
+      "target": "CONCEPT_PARENTING_STYLE",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "PAPER_QT009_Qiu_2022",
+      "target": "CONCEPT_GENDER_DIFFERENCES",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "PAPER_Salk_2017_Psych_Bulletin",
+      "target": "CONCEPT_GENDER_DIFFERENCES",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "PAPER_McLean_2011_J_Psychiatr_Res",
+      "target": "CONCEPT_GENDER_DIFFERENCES",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "PAPER_McLean_2011_J_Psychiatr_Res",
+      "target": "CONCEPT_SOCIAL_ANXIETY_DISORDER",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "PAPER_NolenHoeksema_2012_Annu_Rev",
+      "target": "CONCEPT_RUMINATION",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "PAPER_Olweus_1996_OBVQ",
+      "target": "CONCEPT_OBVQ",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "PAPER_QT007_Chen_2023",
+      "target": "CONCEPT_SCHOOL_BULLYING",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "PAPER_VN004_NguyenThiVan_2020",
+      "target": "CONCEPT_GENERALIZED_ANXIETY_DISORDER",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "DOC_H4_GENDER_LOAI_RLLA",
+      "target": "PAPER_Salk_2017_Psych_Bulletin",
+      "relation": "CITES"
+    },
+    {
+      "source": "DOC_H4_GENDER_LOAI_RLLA",
+      "target": "PAPER_McLean_2011_J_Psychiatr_Res",
+      "relation": "CITES"
+    },
+    {
+      "source": "DOC_H4_GENDER_LOAI_RLLA",
+      "target": "PAPER_QT007_Chen_2023",
+      "relation": "CITES"
+    },
+    {
+      "source": "DOC_H4_GENDER_LOAI_RLLA",
+      "target": "PAPER_QT008",
+      "relation": "CITES"
+    },
+    {
+      "source": "DOC_H4_GENDER_LOAI_RLLA",
+      "target": "PAPER_QT009_Qiu_2022",
+      "relation": "CITES"
+    },
+    {
+      "source": "DOC_BNHD_BAT_NAT_HOC_DUONG",
+      "target": "PAPER_Olweus_1996_OBVQ",
+      "relation": "CITES"
+    },
+    {
+      "source": "DOC_BNHD_BAT_NAT_HOC_DUONG",
+      "target": "PAPER_QT007_Chen_2023",
+      "relation": "CITES"
+    },
+    {
+      "source": "DOC_BNHD_BAT_NAT_HOC_DUONG",
+      "target": "PAPER_QT067",
+      "relation": "CITES"
+    },
+    {
+      "source": "DOC_AUDIT_5_VONG_H4_BNHD",
+      "target": "DOC_H4_GENDER_LOAI_RLLA",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "DOC_AUDIT_5_VONG_H4_BNHD",
+      "target": "DOC_BNHD_BAT_NAT_HOC_DUONG",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "QA_25",
+      "target": "TOPIC_RISK_PROTECTIVE_MODEL",
+      "relation": "BELONGS_TO"
+    },
+    {
+      "source": "QA_26",
+      "target": "TOPIC_RISK_PROTECTIVE_MODEL",
+      "relation": "BELONGS_TO"
+    },
+    {
+      "source": "QA_25",
+      "target": "CONCEPT_YTNC_TONG",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_25",
+      "target": "CONCEPT_YTBV_TONG",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_25",
+      "target": "DOC_DG_YTNC_YTBV_TICH_HOP",
+      "relation": "ANSWERED_IN"
+    },
+    {
+      "source": "QA_26",
+      "target": "CONCEPT_GBTH_SCHOOL_CONNECTEDNESS",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_26",
+      "target": "CONCEPT_HTCM_PARENT_SUPPORT",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_26",
+      "target": "CONCEPT_HTBB_PEER_SUPPORT",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_26",
+      "target": "CONCEPT_BPDP_COPING",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_26",
+      "target": "CONCEPT_PSSM",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_26",
+      "target": "CONCEPT_MSPSS",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_26",
+      "target": "CONCEPT_BRIEF_COPE",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_26",
+      "target": "CONCEPT_MALADAPTIVE_COPING_ESCALATION",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_26",
+      "target": "DOC_DG_GBTH",
+      "relation": "ANSWERED_IN"
+    },
+    {
+      "source": "QA_26",
+      "target": "DOC_DG_HTCM",
+      "relation": "ANSWERED_IN"
+    },
+    {
+      "source": "QA_26",
+      "target": "DOC_DG_HTBB",
+      "relation": "ANSWERED_IN"
+    },
+    {
+      "source": "QA_26",
+      "target": "DOC_DG_BPDP",
+      "relation": "ANSWERED_IN"
+    },
+    {
+      "source": "CONCEPT_YTNC_TONG",
+      "target": "TOPIC_RISK_PROTECTIVE_MODEL",
+      "relation": "BELONGS_TO"
+    },
+    {
+      "source": "CONCEPT_YTBV_TONG",
+      "target": "TOPIC_RISK_PROTECTIVE_MODEL",
+      "relation": "BELONGS_TO"
+    },
+    {
+      "source": "CONCEPT_BPDP_COPING",
+      "target": "TOPIC_COPING",
+      "relation": "BELONGS_TO"
+    },
+    {
+      "source": "CONCEPT_BRIEF_COPE",
+      "target": "TOPIC_COPING",
+      "relation": "BELONGS_TO"
+    },
+    {
+      "source": "CONCEPT_AVOIDANCE_COPING",
+      "target": "TOPIC_COPING",
+      "relation": "BELONGS_TO"
+    },
+    {
+      "source": "CONCEPT_PROBLEM_FOCUSED_COPING",
+      "target": "TOPIC_COPING",
+      "relation": "BELONGS_TO"
+    },
+    {
+      "source": "CONCEPT_SUPPORT_SEEKING",
+      "target": "TOPIC_COPING",
+      "relation": "BELONGS_TO"
+    },
+    {
+      "source": "PAPER_Goodenow_1993_PSSM",
+      "target": "CONCEPT_PSSM",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "PAPER_Goodenow_1993_PSSM",
+      "target": "CONCEPT_GBTH_SCHOOL_CONNECTEDNESS",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "PAPER_Zimet_1988_MSPSS",
+      "target": "CONCEPT_MSPSS",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "PAPER_Zimet_1988_MSPSS",
+      "target": "CONCEPT_HTCM_PARENT_SUPPORT",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "PAPER_Zimet_1988_MSPSS",
+      "target": "CONCEPT_HTBB_PEER_SUPPORT",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "PAPER_Carver_1997_Brief_COPE",
+      "target": "CONCEPT_BRIEF_COPE",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "PAPER_Compas_2017_Psych_Bulletin",
+      "target": "CONCEPT_MALADAPTIVE_COPING_ESCALATION",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "DOC_DG_GBTH",
+      "target": "PAPER_Goodenow_1993_PSSM",
+      "relation": "CITES"
+    },
+    {
+      "source": "DOC_DG_HTCM",
+      "target": "PAPER_Zimet_1988_MSPSS",
+      "relation": "CITES"
+    },
+    {
+      "source": "DOC_DG_HTBB",
+      "target": "PAPER_Zimet_1988_MSPSS",
+      "relation": "CITES"
+    },
+    {
+      "source": "DOC_DG_HTBB",
+      "target": "PAPER_QT027_Fassi_2025",
+      "relation": "CITES"
+    },
+    {
+      "source": "DOC_DG_HTBB",
+      "target": "PAPER_QT066",
+      "relation": "CITES"
+    },
+    {
+      "source": "DOC_DG_BPDP",
+      "target": "PAPER_Carver_1997_Brief_COPE",
+      "relation": "CITES"
+    },
+    {
+      "source": "DOC_DG_BPDP",
+      "target": "PAPER_Compas_2017_Psych_Bulletin",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_27",
+      "target": "TOPIC_STATISTICAL_INTERPRETATION",
+      "relation": "BELONGS_TO"
+    },
+    {
+      "source": "QA_27",
+      "target": "CONCEPT_PERCENT_CONVERSION",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_27",
+      "target": "CONCEPT_RCADS_CUTOFF",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_27",
+      "target": "CONCEPT_Z_SCORE",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_27",
+      "target": "CONCEPT_NORMAL_DISTRIBUTION",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_27",
+      "target": "CONCEPT_PREVALENCE",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_27",
+      "target": "CONCEPT_CONTINUOUS_VS_CATEGORICAL",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_27",
+      "target": "CONCEPT_RCADS",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_27",
+      "target": "PAPER_VN002",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_27",
+      "target": "PAPER_VN014_HoangTrungHoc_2025",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_27",
+      "target": "DOC_DANH_GIA_BANLUAN_QUY_PHAN_TRAM",
+      "relation": "ANSWERED_IN"
+    },
+    {
+      "source": "QA_28",
+      "target": "TOPIC_STATISTICAL_INTERPRETATION",
+      "relation": "BELONGS_TO"
+    },
+    {
+      "source": "QA_28",
+      "target": "CONCEPT_ESSA",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_28",
+      "target": "CONCEPT_CTAS",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_28",
+      "target": "CONCEPT_TAI",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_28",
+      "target": "CONCEPT_TEST_ANXIETY",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_28",
+      "target": "CONCEPT_ACADEMIC_PRESSURE_DIMENSIONS",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_28",
+      "target": "PAPER_VN004_NguyenThiVan_2020",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_28",
+      "target": "PAPER_Sun_2011_ESSA",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_28",
+      "target": "PAPER_Cassady_2002_CTAS",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_28",
+      "target": "PAPER_Spielberger_1980_TAI",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_28",
+      "target": "PAPER_Putwain_2008",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_28",
+      "target": "PAPER_QT067",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_28",
+      "target": "DOC_PHAN_BIEN_VN004_HOC_TAP",
+      "relation": "ANSWERED_IN"
+    },
+    {
+      "source": "PAPER_Sun_2011_ESSA",
+      "target": "CONCEPT_ESSA",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "PAPER_Cassady_2002_CTAS",
+      "target": "CONCEPT_CTAS",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "PAPER_Spielberger_1980_TAI",
+      "target": "CONCEPT_TAI",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "PAPER_VN004_NguyenThiVan_2020",
+      "target": "CONCEPT_ACADEMIC_PRESSURE_DIMENSIONS",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "DOC_PHAN_BIEN_VN004_HOC_TAP",
+      "target": "PAPER_VN004_NguyenThiVan_2020",
+      "relation": "CITES"
+    },
+    {
+      "source": "DOC_PHAN_BIEN_VN004_HOC_TAP",
+      "target": "PAPER_Sun_2011_ESSA",
+      "relation": "CITES"
+    },
+    {
+      "source": "DOC_PHAN_BIEN_VN004_HOC_TAP",
+      "target": "PAPER_Cassady_2002_CTAS",
+      "relation": "CITES"
+    },
+    {
+      "source": "DOC_PHAN_BIEN_VN004_HOC_TAP",
+      "target": "PAPER_Spielberger_1980_TAI",
+      "relation": "CITES"
+    },
+    {
+      "source": "DOC_PHAN_BIEN_VN004_HOC_TAP",
+      "target": "PAPER_Putwain_2008",
+      "relation": "CITES"
+    },
+    {
+      "source": "DOC_PHAN_BIEN_VN004_HOC_TAP",
+      "target": "PAPER_QT067",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_29",
+      "target": "TOPIC_INTERVENTION_DESIGN",
+      "relation": "BELONGS_TO"
+    },
+    {
+      "source": "QA_29",
+      "target": "CONCEPT_DMHI",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_29",
+      "target": "CONCEPT_iCBT",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_29",
+      "target": "CONCEPT_CLEAR_FEAR_APP",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_29",
+      "target": "CONCEPT_EACP",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_29",
+      "target": "CONCEPT_WHOLE_SCHOOL_APPROACH",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_29",
+      "target": "CONCEPT_GUIDED_VS_UNGUIDED_DMHI",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_29",
+      "target": "PAPER_QT040",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_29",
+      "target": "PAPER_QT050_Qiaochu_2025",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_29",
+      "target": "PAPER_QT062_Samele_2025",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_29",
+      "target": "PAPER_QT065_Lochman_2025",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_29",
+      "target": "PAPER_QT066",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_29",
+      "target": "PAPER_QT033_SchmidtPersson_2024",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_29",
+      "target": "PAPER_VN014_HoangTrungHoc_2025",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_29",
+      "target": "PAPER_VN004_NguyenThiVan_2020",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_29",
+      "target": "PAPER_VN003_Pham_2024",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_29",
+      "target": "DOC_KHUNG_TAP_HUAN_V2",
+      "relation": "ANSWERED_IN"
+    },
+    {
+      "source": "CONCEPT_DMHI",
+      "target": "TOPIC_INTERVENTION_DESIGN",
+      "relation": "BELONGS_TO"
+    },
+    {
+      "source": "CONCEPT_iCBT",
+      "target": "TOPIC_INTERVENTION_DESIGN",
+      "relation": "BELONGS_TO"
+    },
+    {
+      "source": "CONCEPT_MOBILE_CBT",
+      "target": "TOPIC_INTERVENTION_DESIGN",
+      "relation": "BELONGS_TO"
+    },
+    {
+      "source": "CONCEPT_EACP",
+      "target": "TOPIC_INTERVENTION_DESIGN",
+      "relation": "BELONGS_TO"
+    },
+    {
+      "source": "CONCEPT_WHOLE_SCHOOL_APPROACH",
+      "target": "TOPIC_INTERVENTION_DESIGN",
+      "relation": "BELONGS_TO"
+    },
+    {
+      "source": "PAPER_QT040",
+      "target": "CONCEPT_DMHI",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "PAPER_QT040",
+      "target": "CONCEPT_iCBT",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "PAPER_QT040",
+      "target": "CONCEPT_SAD_SPECIFIC_APP",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "PAPER_QT050_Qiaochu_2025",
+      "target": "CONCEPT_MOBILE_CBT",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "PAPER_QT062_Samele_2025",
+      "target": "CONCEPT_CLEAR_FEAR_APP",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "PAPER_QT062_Samele_2025",
+      "target": "CONCEPT_EXPOSURE_LADDER",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "PAPER_QT065_Lochman_2025",
+      "target": "CONCEPT_EACP",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "PAPER_QT065_Lochman_2025",
+      "target": "CONCEPT_WHOLE_SCHOOL_APPROACH",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "DOC_KHUNG_TAP_HUAN_V2",
+      "target": "PAPER_QT040",
+      "relation": "CITES"
+    },
+    {
+      "source": "DOC_KHUNG_TAP_HUAN_V2",
+      "target": "PAPER_QT050_Qiaochu_2025",
+      "relation": "CITES"
+    },
+    {
+      "source": "DOC_KHUNG_TAP_HUAN_V2",
+      "target": "PAPER_QT062_Samele_2025",
+      "relation": "CITES"
+    },
+    {
+      "source": "DOC_KHUNG_TAP_HUAN_V2",
+      "target": "PAPER_QT065_Lochman_2025",
+      "relation": "CITES"
+    },
+    {
+      "source": "DOC_KHUNG_TAP_HUAN_V2",
+      "target": "PAPER_QT066",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_30",
+      "target": "TOPIC_STATISTICAL_INTERPRETATION",
+      "relation": "BELONGS_TO"
+    },
+    {
+      "source": "QA_30",
+      "target": "CONCEPT_OMITTED_VARIABLE_BIAS",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_30",
+      "target": "CONCEPT_R_SQUARED_INTERPRETATION",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_30",
+      "target": "CONCEPT_DASS21",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_30",
+      "target": "CONCEPT_ESSA",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_30",
+      "target": "PAPER_VN014_HoangTrungHoc_2025",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_30",
+      "target": "PAPER_QT067",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_30",
+      "target": "PAPER_Sun_2011_ESSA",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_30",
+      "target": "DOC_PHAN_BIEN_VN014_THIEU_ALHT",
+      "relation": "ANSWERED_IN"
+    },
+    {
+      "source": "PAPER_VN014_HoangTrungHoc_2025",
+      "target": "CONCEPT_OMITTED_VARIABLE_BIAS",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "QA_31",
+      "target": "TOPIC_STATISTICAL_INTERPRETATION",
+      "relation": "BELONGS_TO"
+    },
+    {
+      "source": "QA_31",
+      "target": "CONCEPT_DASS_Y",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_31",
+      "target": "CONCEPT_LOGISTIC_VS_SEM",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_31",
+      "target": "CONCEPT_DICHOTOMIZATION_BIAS",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_31",
+      "target": "CONCEPT_SAMPLING_DESIGN",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_31",
+      "target": "CONCEPT_ESSA",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_31",
+      "target": "PAPER_VN020_TranHoVinhLoc_2024",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_31",
+      "target": "PAPER_VN029_Truc_2025",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_31",
+      "target": "PAPER_Szabo_2010_DASS_Y",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_31",
+      "target": "PAPER_Sun_2011_ESSA",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_31",
+      "target": "DOC_PHAN_BIEN_VN020_ALHT",
+      "relation": "ANSWERED_IN"
+    },
+    {
+      "source": "PAPER_VN020_TranHoVinhLoc_2024",
+      "target": "CONCEPT_ESSA",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "PAPER_VN020_TranHoVinhLoc_2024",
+      "target": "CONCEPT_DASS_Y",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "PAPER_Szabo_2010_DASS_Y",
+      "target": "CONCEPT_DASS_Y",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "DOC_PHAN_BIEN_VN020_ALHT",
+      "target": "PAPER_VN020_TranHoVinhLoc_2024",
+      "relation": "CITES"
+    },
+    {
+      "source": "DOC_PHAN_BIEN_VN020_ALHT",
+      "target": "PAPER_VN029_Truc_2025",
+      "relation": "CITES"
+    },
+    {
+      "source": "DOC_PHAN_BIEN_VN020_ALHT",
+      "target": "PAPER_Sun_2011_ESSA",
+      "relation": "CITES"
+    },
+    {
+      "source": "DOC_PHAN_BIEN_VN020_ALHT",
+      "target": "PAPER_QT040",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_32",
+      "target": "TOPIC_STATISTICAL_INTERPRETATION",
+      "relation": "BELONGS_TO"
+    },
+    {
+      "source": "QA_32",
+      "target": "CONCEPT_F_TEST",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_32",
+      "target": "CONCEPT_ANOVA",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_32",
+      "target": "CONCEPT_COHEN_S_D",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_32",
+      "target": "DOC_F_TEST_ANOVA_GIOI",
+      "relation": "ANSWERED_IN"
+    },
+    {
+      "source": "QA_33",
+      "target": "TOPIC_STATISTICAL_INTERPRETATION",
+      "relation": "BELONGS_TO"
+    },
+    {
+      "source": "QA_33",
+      "target": "TOPIC_GENDER_PSYCHOPATHOLOGY",
+      "relation": "BELONGS_TO"
+    },
+    {
+      "source": "QA_33",
+      "target": "CONCEPT_RAW_VS_STANDARDIZED",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_33",
+      "target": "CONCEPT_COHEN_S_D",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_33",
+      "target": "CONCEPT_F_TEST",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_33",
+      "target": "DOC_CHENH_LECH_GIOI_LAXH_LATQ",
+      "relation": "ANSWERED_IN"
+    },
+    {
+      "source": "QA_34",
+      "target": "TOPIC_STATISTICAL_INTERPRETATION",
+      "relation": "BELONGS_TO"
+    },
+    {
+      "source": "QA_34",
+      "target": "CONCEPT_R_SQUARED",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_34",
+      "target": "CONCEPT_VARIANCE_EXPLAINED",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_34",
+      "target": "CONCEPT_R_SQUARED_INTERPRETATION",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_34",
+      "target": "CONCEPT_YTBV_TONG",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_34",
+      "target": "DOC_R_SQUARED_YTBV",
+      "relation": "ANSWERED_IN"
+    },
+    {
+      "source": "QA_35",
+      "target": "TOPIC_STATISTICAL_INTERPRETATION",
+      "relation": "BELONGS_TO"
+    },
+    {
+      "source": "QA_35",
+      "target": "CONCEPT_BETA_RATIO",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_35",
+      "target": "CONCEPT_GUARDIAN_BARRIER_RATIO",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_35",
+      "target": "CONCEPT_SELF_ESTEEM",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_35",
+      "target": "DOC_TTR_NGANG_ALHT_85_89",
+      "relation": "ANSWERED_IN"
+    },
+    {
+      "source": "QA_36",
+      "target": "TOPIC_STATISTICAL_INTERPRETATION",
+      "relation": "BELONGS_TO"
+    },
+    {
+      "source": "QA_36",
+      "target": "CONCEPT_PERCENT_CONVERSION",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_36",
+      "target": "CONCEPT_RCADS_CUTOFF",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_36",
+      "target": "CONCEPT_T_SCORE_CUTOFF",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_36",
+      "target": "CONCEPT_GIA_DUC_HOI_DONG_VN",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_36",
+      "target": "CONCEPT_Z_SCORE",
+      "relation": "EXPLAINS"
+    },
+    {
+      "source": "QA_36",
+      "target": "PAPER_VN002",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_36",
+      "target": "PAPER_VN014_HoangTrungHoc_2025",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_36",
+      "target": "PAPER_VN020_TranHoVinhLoc_2024",
+      "relation": "CITES"
+    },
+    {
+      "source": "QA_36",
+      "target": "DOC_GIAI_PHAP_QUY_PHAN_TRAM",
+      "relation": "ANSWERED_IN"
+    },
+    {
+      "source": "CONCEPT_F_TEST",
+      "target": "CONCEPT_ANOVA",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "CONCEPT_BETA_RATIO",
+      "target": "CONCEPT_GUARDIAN_BARRIER_RATIO",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "CONCEPT_RAW_VS_STANDARDIZED",
+      "target": "CONCEPT_COHEN_S_D",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "PAPER_QT068_Urao_2018",
+      "target": "CONCEPT_JOURNEY_OF_THE_BRAVE",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "PAPER_QT068_Urao_2018",
+      "target": "CONCEPT_SCAS",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "PAPER_QT069_Urao_2022",
+      "target": "CONCEPT_JOURNEY_OF_THE_BRAVE",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "PAPER_QT069_Urao_2022",
+      "target": "CONCEPT_BRIEF_CBT_FORMAT",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "PAPER_QT070_Moore_2017_BullyingMeta",
+      "target": "CONCEPT_BULLYING_ANXIETY_OR",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "PAPER_QT070_Moore_2017_BullyingMeta",
+      "target": "CONCEPT_SCHOOL_BULLYING",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "PAPER_QT071_MatsumotoK_2024_iCBT",
+      "target": "CONCEPT_iCBT",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "PAPER_QT071_MatsumotoK_2024_iCBT",
+      "target": "CONCEPT_LSAS",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "PAPER_QT071_MatsumotoK_2024_iCBT",
+      "target": "CONCEPT_CLARK_WELLS_MODEL",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "PAPER_QT071_MatsumotoK_2024_iCBT",
+      "target": "CONCEPT_GUIDED_VS_UNGUIDED_DMHI",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "PAPER_QT072_Lee_2025_CyberbullyingMeta",
+      "target": "CONCEPT_CYBERBULLYING",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "PAPER_QT072_Lee_2025_CyberbullyingMeta",
+      "target": "CONCEPT_SCHOOL_BULLYING",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "PAPER_QT072_Lee_2025_CyberbullyingMeta",
+      "target": "CONCEPT_SOCIAL_MEDIA_ADDICTION",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "PAPER_QT073_He_2025_PowerUpCBTD",
+      "target": "CONCEPT_BRIEF_CBGT",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "PAPER_QT073_He_2025_PowerUpCBTD",
+      "target": "CONCEPT_CESD_R",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "PAPER_QT073_He_2025_PowerUpCBTD",
+      "target": "CONCEPT_SCARED",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "PAPER_QT073_He_2025_PowerUpCBTD",
+      "target": "TOPIC_INTERVENTION_DESIGN",
+      "relation": "BELONGS_TO"
+    }
+  ]
+}

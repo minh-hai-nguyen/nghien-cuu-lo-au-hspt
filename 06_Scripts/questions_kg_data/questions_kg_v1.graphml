@@ -1,0 +1,1590 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d5" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d4" for="edge" attr.name="relation" attr.type="string"/>
+<key id="d3" for="node" attr.name="date_asked" attr.type="string"/>
+<key id="d2" for="node" attr.name="topic" attr.type="string"/>
+<key id="d1" for="node" attr.name="label" attr.type="string"/>
+<key id="d0" for="node" attr.name="type" attr.type="string"/>
+<graph edgedefault="directed"><node id="QA_01">
+  <data key="d0">Question</data>
+  <data key="d1">Cohen's d, hoặc Hedges g gọi là gì? Chỉ số hay thước đo, hay công thức? Khi nào </data>
+  <data key="d2">Effect size</data>
+  <data key="d3">2026-04-20</data>
+</node>
+<node id="QA_02">
+  <data key="d0">Question</data>
+  <data key="d1">Walder et al. (2025) — Meta-analysis 21 RCT về DMHI cho lo âu xã hội. Các tác gi</data>
+  <data key="d2">SR/MA methodology</data>
+  <data key="d3">2026-04-20</data>
+</node>
+<node id="QA_03">
+  <data key="d0">Question</data>
+  <data key="d1">Waitlist cũng đạt tiêu chuẩn chọn lọc nhưng vì sao phải chờ?</data>
+  <data key="d2">RCT design</data>
+  <data key="d3">2026-04-20</data>
+</node>
+<node id="QA_04">
+  <data key="d0">Question</data>
+  <data key="d1">CAMS là RCT đa trung tâm 488 trẻ 7–17 tuổi, từ 'đa trung tâm' này nghĩa là gì?</data>
+  <data key="d2">RCT design</data>
+  <data key="d3">2026-04-20</data>
+</node>
+<node id="QA_05">
+  <data key="d0">Question</data>
+  <data key="d1">ACT ra đời như thế nào? Vì sao chỉ có một nghiên cứu xếp hiệu quả can thiệp của </data>
+  <data key="d2">Psychotherapy history</data>
+  <data key="d3">2026-04-20</data>
+</node>
+<node id="QA_06">
+  <data key="d0">Question</data>
+  <data key="d1">NNT diễn giải cụ thể như thế nào? Vì sao chỉ số này càng nhỏ thì can thiệp càng </data>
+  <data key="d2">Clinical statistics</data>
+  <data key="d3">2026-04-20</data>
+</node>
+<node id="QA_07">
+  <data key="d0">Question</data>
+  <data key="d1">Bài Jenkins 2023: 'học sinh nữ có điểm GAD10 cao hơn học sinh nam (p=0,016, kiểm</data>
+  <data key="d2">Statistical test</data>
+  <data key="d3">2026-04-20</data>
+</node>
+<node id="QA_08">
+  <data key="d0">Question</data>
+  <data key="d1">AOR (Adjusted Odds Ratio) — tỷ số chênh lệch đã điều chỉnh được tính toán như th</data>
+  <data key="d2">Regression</data>
+  <data key="d3">2026-04-20</data>
+</node>
+<node id="QA_09">
+  <data key="d0">Question</data>
+  <data key="d1">Đọc PRISMA flow là đọc như thế nào?</data>
+  <data key="d2">SR methodology</data>
+  <data key="d3">2026-04-22</data>
+</node>
+<node id="QA_10">
+  <data key="d0">Question</data>
+  <data key="d1">Chi bình phương là hồi quy đơn biến, phân tích logistic là hồi quy đa biến — các</data>
+  <data key="d2">Statistical terminology</data>
+  <data key="d3">2026-04-22</data>
+</node>
+<node id="QA_11">
+  <data key="d0">Question</data>
+  <data key="d1">Trong Chen 2023: 'Hiệu ứng cụm được điều chỉnh bằng gói survey của R để tính tỷ </data>
+  <data key="d2">Survey methodology</data>
+  <data key="d3">2026-04-22</data>
+</node>
+<node id="QA_12">
+  <data key="d0">Question</data>
+  <data key="d1">SE có phải là 'size' không? DEFF có phải là 'design effect' không?</data>
+  <data key="d2">Statistical terminology</data>
+  <data key="d3">2026-04-23</data>
+</node>
+<node id="QA_13">
+  <data key="d0">Question</data>
+  <data key="d1">Câu: 'Bỏ qua cấu trúc phân cấp của dữ liệu dẫn đến sai số chuẩn bị đánh giá thấp</data>
+  <data key="d2">Statistical interpretation</data>
+  <data key="d3">2026-04-23</data>
+</node>
+<node id="QA_14">
+  <data key="d0">Question</data>
+  <data key="d1">Tỷ lệ có trọng số (weighted prevalence) nghĩa là như thế nào?</data>
+  <data key="d2">Survey methodology</data>
+  <data key="d3">2026-04-23</data>
+</node>
+<node id="QA_15">
+  <data key="d0">Question</data>
+  <data key="d1">Trong bài 07 có câu: 'khoảng tin cậy khá rộng cho trầm cảm (19,6–27,0%) và lo âu</data>
+  <data key="d2">Statistical interpretation</data>
+  <data key="d3">2026-04-24</data>
+</node>
+<node id="CONCEPT_COHEN_S_D">
+  <data key="d0">Concept</data>
+  <data key="d1">Cohen's d</data>
+</node>
+<node id="CONCEPT_HEDGES_G">
+  <data key="d0">Concept</data>
+  <data key="d1">Hedges' g</data>
+</node>
+<node id="CONCEPT_SMD">
+  <data key="d0">Concept</data>
+  <data key="d1">SMD</data>
+</node>
+<node id="CONCEPT_EFFECT_SIZE">
+  <data key="d0">Concept</data>
+  <data key="d1">Effect size</data>
+</node>
+<node id="CONCEPT_COCHRANE">
+  <data key="d0">Concept</data>
+  <data key="d1">Cochrane</data>
+</node>
+<node id="CONCEPT_PICOS">
+  <data key="d0">Concept</data>
+  <data key="d1">PICOS</data>
+</node>
+<node id="CONCEPT_ELIGIBILITY_CRITERIA">
+  <data key="d0">Concept</data>
+  <data key="d1">Eligibility criteria</data>
+</node>
+<node id="CONCEPT_PRISMA_FLOW">
+  <data key="d0">Concept</data>
+  <data key="d1">PRISMA flow</data>
+</node>
+<node id="CONCEPT_SR_VS_MA">
+  <data key="d0">Concept</data>
+  <data key="d1">SR vs MA</data>
+</node>
+<node id="CONCEPT_WAITLIST">
+  <data key="d0">Concept</data>
+  <data key="d1">Waitlist</data>
+</node>
+<node id="CONCEPT_CONTROL_GROUP">
+  <data key="d0">Concept</data>
+  <data key="d1">Control group</data>
+</node>
+<node id="CONCEPT_RCT">
+  <data key="d0">Concept</data>
+  <data key="d1">RCT</data>
+</node>
+<node id="CONCEPT_MULTICENTER_RCT">
+  <data key="d0">Concept</data>
+  <data key="d1">Multicenter RCT</data>
+</node>
+<node id="CONCEPT_CAMS">
+  <data key="d0">Concept</data>
+  <data key="d1">CAMS</data>
+</node>
+<node id="CONCEPT_GENERALIZABILITY">
+  <data key="d0">Concept</data>
+  <data key="d1">Generalizability</data>
+</node>
+<node id="CONCEPT_PROSPERO">
+  <data key="d0">Concept</data>
+  <data key="d1">PROSPERO</data>
+</node>
+<node id="CONCEPT_ACT">
+  <data key="d0">Concept</data>
+  <data key="d1">ACT</data>
+</node>
+<node id="CONCEPT_CBT">
+  <data key="d0">Concept</data>
+  <data key="d1">CBT</data>
+</node>
+<node id="CONCEPT_RFT">
+  <data key="d0">Concept</data>
+  <data key="d1">RFT</data>
+</node>
+<node id="CONCEPT_STEVEN_HAYES">
+  <data key="d0">Concept</data>
+  <data key="d1">Steven Hayes</data>
+</node>
+<node id="CONCEPT_HEXAFLEX">
+  <data key="d0">Concept</data>
+  <data key="d1">Hexaflex</data>
+</node>
+<node id="CONCEPT_THIRD_WAVE">
+  <data key="d0">Concept</data>
+  <data key="d1">Third wave</data>
+</node>
+<node id="CONCEPT_BAYESIAN_NMA">
+  <data key="d0">Concept</data>
+  <data key="d1">Bayesian NMA</data>
+</node>
+<node id="CONCEPT_NNT">
+  <data key="d0">Concept</data>
+  <data key="d1">NNT</data>
+</node>
+<node id="CONCEPT_ARR">
+  <data key="d0">Concept</data>
+  <data key="d1">ARR</data>
+</node>
+<node id="CONCEPT_RESPONSE_RATE">
+  <data key="d0">Concept</data>
+  <data key="d1">Response rate</data>
+</node>
+<node id="CONCEPT_MANN_WHITNEY">
+  <data key="d0">Concept</data>
+  <data key="d1">Mann-Whitney</data>
+</node>
+<node id="CONCEPT_HODGES_LEHMANN">
+  <data key="d0">Concept</data>
+  <data key="d1">Hodges-Lehmann</data>
+</node>
+<node id="CONCEPT_MEDIAN_DIFFERENCE">
+  <data key="d0">Concept</data>
+  <data key="d1">Median difference</data>
+</node>
+<node id="CONCEPT_NON_PARAMETRIC">
+  <data key="d0">Concept</data>
+  <data key="d1">Non-parametric</data>
+</node>
+<node id="CONCEPT_GAD_10">
+  <data key="d0">Concept</data>
+  <data key="d1">GAD-10</data>
+</node>
+<node id="CONCEPT_AOR">
+  <data key="d0">Concept</data>
+  <data key="d1">AOR</data>
+</node>
+<node id="CONCEPT_OR">
+  <data key="d0">Concept</data>
+  <data key="d1">OR</data>
+</node>
+<node id="CONCEPT_LOGISTIC_REGRESSION">
+  <data key="d0">Concept</data>
+  <data key="d1">Logistic regression</data>
+</node>
+<node id="CONCEPT_MULTIVARIABLE">
+  <data key="d0">Concept</data>
+  <data key="d1">Multivariable</data>
+</node>
+<node id="CONCEPT_CONFOUNDING">
+  <data key="d0">Concept</data>
+  <data key="d1">Confounding</data>
+</node>
+<node id="CONCEPT_Β_COEFFICIENT">
+  <data key="d0">Concept</data>
+  <data key="d1">β coefficient</data>
+</node>
+<node id="CONCEPT_PRISMA">
+  <data key="d0">Concept</data>
+  <data key="d1">PRISMA</data>
+</node>
+<node id="CONCEPT_FLOW_DIAGRAM">
+  <data key="d0">Concept</data>
+  <data key="d1">Flow diagram</data>
+</node>
+<node id="CONCEPT_SCREENING">
+  <data key="d0">Concept</data>
+  <data key="d1">Screening</data>
+</node>
+<node id="CONCEPT_ELIGIBILITY">
+  <data key="d0">Concept</data>
+  <data key="d1">Eligibility</data>
+</node>
+<node id="CONCEPT_RISK_OF_BIAS">
+  <data key="d0">Concept</data>
+  <data key="d1">Risk of bias</data>
+</node>
+<node id="CONCEPT_CHI_SQUARE">
+  <data key="d0">Concept</data>
+  <data key="d1">Chi-square</data>
+</node>
+<node id="CONCEPT_UNIVARIABLE">
+  <data key="d0">Concept</data>
+  <data key="d1">Univariable</data>
+</node>
+<node id="CONCEPT_HYPOTHESIS_TESTING">
+  <data key="d0">Concept</data>
+  <data key="d1">Hypothesis testing</data>
+</node>
+<node id="CONCEPT_CLUSTER_EFFECT">
+  <data key="d0">Concept</data>
+  <data key="d1">Cluster effect</data>
+</node>
+<node id="CONCEPT_ICC">
+  <data key="d0">Concept</data>
+  <data key="d1">ICC</data>
+</node>
+<node id="CONCEPT_WEIGHTED_PREVALENCE">
+  <data key="d0">Concept</data>
+  <data key="d1">Weighted prevalence</data>
+</node>
+<node id="CONCEPT_SURVEY_PACKAGE_R">
+  <data key="d0">Concept</data>
+  <data key="d1">survey package R</data>
+</node>
+<node id="CONCEPT_DESIGN_EFFECT">
+  <data key="d0">Concept</data>
+  <data key="d1">Design effect</data>
+</node>
+<node id="CONCEPT_SE">
+  <data key="d0">Concept</data>
+  <data key="d1">SE</data>
+</node>
+<node id="CONCEPT_DEFF">
+  <data key="d0">Concept</data>
+  <data key="d1">DEFF</data>
+</node>
+<node id="CONCEPT_SAMPLE_SIZE">
+  <data key="d0">Concept</data>
+  <data key="d1">Sample size</data>
+</node>
+<node id="CONCEPT_STANDARD_ERROR">
+  <data key="d0">Concept</data>
+  <data key="d1">Standard error</data>
+</node>
+<node id="CONCEPT_UNDERESTIMATION">
+  <data key="d0">Concept</data>
+  <data key="d1">Underestimation</data>
+</node>
+<node id="CONCEPT_INFLATED_SIGNIFICANCE">
+  <data key="d0">Concept</data>
+  <data key="d1">Inflated significance</data>
+</node>
+<node id="CONCEPT_TYPE_I_ERROR">
+  <data key="d0">Concept</data>
+  <data key="d1">Type I error</data>
+</node>
+<node id="CONCEPT_SAMPLING_WEIGHT">
+  <data key="d0">Concept</data>
+  <data key="d1">Sampling weight</data>
+</node>
+<node id="CONCEPT_NON_RESPONSE">
+  <data key="d0">Concept</data>
+  <data key="d1">Non-response</data>
+</node>
+<node id="CONCEPT_POST_STRATIFICATION">
+  <data key="d0">Concept</data>
+  <data key="d1">Post-stratification</data>
+</node>
+<node id="CONCEPT_CONFIDENCE_INTERVAL">
+  <data key="d0">Concept</data>
+  <data key="d1">Confidence interval</data>
+</node>
+<node id="CONCEPT_CI_WIDTH">
+  <data key="d0">Concept</data>
+  <data key="d1">CI width</data>
+</node>
+<node id="CONCEPT_PRECISION">
+  <data key="d0">Concept</data>
+  <data key="d1">Precision</data>
+</node>
+<node id="CONCEPT_EFFECTIVE_SAMPLE_SIZE">
+  <data key="d0">Concept</data>
+  <data key="d1">Effective sample size</data>
+</node>
+<node id="TOPIC_EFFECT_SIZE">
+  <data key="d0">Topic</data>
+  <data key="d1">Effect size</data>
+</node>
+<node id="TOPIC_SR_MA_METHODOLOGY">
+  <data key="d0">Topic</data>
+  <data key="d1">SR/MA methodology</data>
+</node>
+<node id="TOPIC_RCT_DESIGN">
+  <data key="d0">Topic</data>
+  <data key="d1">RCT design</data>
+</node>
+<node id="TOPIC_PSYCHOTHERAPY_HISTORY">
+  <data key="d0">Topic</data>
+  <data key="d1">Psychotherapy history</data>
+</node>
+<node id="TOPIC_CLINICAL_STATISTICS">
+  <data key="d0">Topic</data>
+  <data key="d1">Clinical statistics</data>
+</node>
+<node id="TOPIC_STATISTICAL_TEST">
+  <data key="d0">Topic</data>
+  <data key="d1">Statistical test</data>
+</node>
+<node id="TOPIC_REGRESSION">
+  <data key="d0">Topic</data>
+  <data key="d1">Regression</data>
+</node>
+<node id="TOPIC_SR_METHODOLOGY">
+  <data key="d0">Topic</data>
+  <data key="d1">SR methodology</data>
+</node>
+<node id="TOPIC_STATISTICAL_TERMINOLOGY">
+  <data key="d0">Topic</data>
+  <data key="d1">Statistical terminology</data>
+</node>
+<node id="TOPIC_SURVEY_METHODOLOGY">
+  <data key="d0">Topic</data>
+  <data key="d1">Survey methodology</data>
+</node>
+<node id="TOPIC_STATISTICAL_INTERPRETATION">
+  <data key="d0">Topic</data>
+  <data key="d1">Statistical interpretation</data>
+</node>
+<node id="DOC_glossary_json_v3_1">
+  <data key="d0">Doc</data>
+  <data key="d1">glossary.json (v3.1)</data>
+</node>
+<node id="DOC_01_Bao_cao_QT040_Walder_2025_Quy_trinh_loc_22_vs_2">
+  <data key="d0">Doc</data>
+  <data key="d1">01_Bao-cao/QT040_Walder_2025_Quy_trinh_loc_22_vs_21.docx</data>
+</node>
+<node id="DOC_01_Bao_cao_CAMS_RCT_da_trung_tam_la_gi_docx">
+  <data key="d0">Doc</data>
+  <data key="d1">01_Bao-cao/CAMS_RCT_da_trung_tam_la_gi.docx</data>
+</node>
+<node id="DOC_01_Bao_cao_ACT_ra_doi_va_vi_sao_xep_hang_cao_hon_C">
+  <data key="d0">Doc</data>
+  <data key="d1">01_Bao-cao/ACT_ra_doi_va_vi_sao_xep_hang_cao_hon_CBT.docx</data>
+</node>
+<node id="DOC_01_Bao_cao_NNT_dien_giai_va_vi_sao_cang_nho_cang_h">
+  <data key="d0">Doc</data>
+  <data key="d1">01_Bao-cao/NNT_dien_giai_va_vi_sao_cang_nho_cang_hieu_qua.docx</data>
+</node>
+<node id="DOC_01_Bao_cao_NNT_va_MannWhitney_chenh_lech_trung_vi_">
+  <data key="d0">Doc</data>
+  <data key="d1">01_Bao-cao/NNT_va_MannWhitney_chenh_lech_trung_vi.docx</data>
+</node>
+<node id="DOC_01_Bao_cao_AOR_Adjusted_Odds_Ratio_cach_tinh_docx">
+  <data key="d0">Doc</data>
+  <data key="d1">01_Bao-cao/AOR_Adjusted_Odds_Ratio_cach_tinh.docx</data>
+</node>
+<node id="DOC_01_Bao_cao_PRISMA_flow_cach_doc_tung_buoc_docx">
+  <data key="d0">Doc</data>
+  <data key="d1">01_Bao-cao/PRISMA_flow_cach_doc_tung_buoc.docx</data>
+</node>
+<node id="DOC_01_Bao_cao_Weighted_prevalence_ty_le_co_trong_so_d">
+  <data key="d0">Doc</data>
+  <data key="d1">01_Bao-cao/Weighted_prevalence_ty_le_co_trong_so.docx</data>
+</node>
+<node id="DOC_01_Bao_cao_KTC_rong_hep_vua_du_Chen_2023_docx">
+  <data key="d0">Doc</data>
+  <data key="d1">01_Bao-cao/KTC_rong_hep_vua_du_Chen_2023.docx</data>
+</node>
+<node id="PAPER_QT049">
+  <data key="d0">Paper</data>
+  <data key="d1">QT049</data>
+</node>
+<node id="PAPER_QT029">
+  <data key="d0">Paper</data>
+  <data key="d1">QT029</data>
+</node>
+<node id="PAPER_QT040">
+  <data key="d0">Paper</data>
+  <data key="d1">QT040</data>
+</node>
+<node id="PAPER_QT028">
+  <data key="d0">Paper</data>
+  <data key="d1">QT028</data>
+</node>
+<node id="PAPER_CAMS_Walkup_2008">
+  <data key="d0">Paper</data>
+  <data key="d1">CAMS_Walkup_2008</data>
+</node>
+<node id="PAPER_QT001">
+  <data key="d0">Paper</data>
+  <data key="d1">QT001</data>
+</node>
+<node id="PAPER_QT05_Zhu">
+  <data key="d0">Paper</data>
+  <data key="d1">QT05_Zhu</data>
+</node>
+<node id="PAPER_QT23_JAACAP">
+  <data key="d0">Paper</data>
+  <data key="d1">QT23_JAACAP</data>
+</node>
+<node id="PAPER_QT31_Islam">
+  <data key="d0">Paper</data>
+  <data key="d1">QT31_Islam</data>
+</node>
+<node id="PAPER_QT007_Chen_2023">
+  <data key="d0">Paper</data>
+  <data key="d1">QT007_Chen_2023</data>
+</node>
+<edge source="QA_01" target="CONCEPT_COHEN_S_D">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_01" target="CONCEPT_HEDGES_G">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_01" target="CONCEPT_SMD">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_01" target="CONCEPT_EFFECT_SIZE">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_01" target="CONCEPT_COCHRANE">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_01" target="TOPIC_EFFECT_SIZE">
+  <data key="d4">BELONGS_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_01" target="DOC_glossary_json_v3_1">
+  <data key="d4">ANSWERED_IN</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_01" target="PAPER_QT049">
+  <data key="d4">CITES</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_01" target="PAPER_QT029">
+  <data key="d4">CITES</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_01" target="PAPER_QT040">
+  <data key="d4">CITES</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_02" target="CONCEPT_PICOS">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_02" target="CONCEPT_ELIGIBILITY_CRITERIA">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_02" target="CONCEPT_PRISMA_FLOW">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_02" target="CONCEPT_SR_VS_MA">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_02" target="TOPIC_SR_MA_METHODOLOGY">
+  <data key="d4">BELONGS_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_02" target="DOC_01_Bao_cao_QT040_Walder_2025_Quy_trinh_loc_22_vs_2">
+  <data key="d4">ANSWERED_IN</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_02" target="PAPER_QT040">
+  <data key="d4">CITES</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_03" target="CONCEPT_WAITLIST">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_03" target="CONCEPT_CONTROL_GROUP">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_03" target="CONCEPT_RCT">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_03" target="CONCEPT_EFFECT_SIZE">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_03" target="TOPIC_RCT_DESIGN">
+  <data key="d4">BELONGS_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_03" target="PAPER_QT040">
+  <data key="d4">CITES</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_04" target="CONCEPT_MULTICENTER_RCT">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_04" target="CONCEPT_CAMS">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_04" target="CONCEPT_GENERALIZABILITY">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_04" target="CONCEPT_PROSPERO">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_04" target="TOPIC_RCT_DESIGN">
+  <data key="d4">BELONGS_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_04" target="DOC_01_Bao_cao_CAMS_RCT_da_trung_tam_la_gi_docx">
+  <data key="d4">ANSWERED_IN</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_04" target="PAPER_QT028">
+  <data key="d4">CITES</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_04" target="PAPER_CAMS_Walkup_2008">
+  <data key="d4">CITES</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_05" target="CONCEPT_ACT">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_05" target="CONCEPT_CBT">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_05" target="CONCEPT_RFT">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_05" target="CONCEPT_STEVEN_HAYES">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_05" target="CONCEPT_HEXAFLEX">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_05" target="CONCEPT_THIRD_WAVE">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_05" target="CONCEPT_BAYESIAN_NMA">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_05" target="TOPIC_PSYCHOTHERAPY_HISTORY">
+  <data key="d4">BELONGS_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_05" target="DOC_01_Bao_cao_ACT_ra_doi_va_vi_sao_xep_hang_cao_hon_C">
+  <data key="d4">ANSWERED_IN</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_05" target="PAPER_QT029">
+  <data key="d4">CITES</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_05" target="PAPER_QT028">
+  <data key="d4">CITES</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_06" target="CONCEPT_NNT">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_06" target="CONCEPT_ARR">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_06" target="CONCEPT_RESPONSE_RATE">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_06" target="CONCEPT_CAMS">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_06" target="CONCEPT_EFFECT_SIZE">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_06" target="TOPIC_CLINICAL_STATISTICS">
+  <data key="d4">BELONGS_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_06" target="DOC_01_Bao_cao_NNT_dien_giai_va_vi_sao_cang_nho_cang_h">
+  <data key="d4">ANSWERED_IN</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_06" target="PAPER_QT028">
+  <data key="d4">CITES</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_06" target="PAPER_CAMS_Walkup_2008">
+  <data key="d4">CITES</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_07" target="CONCEPT_MANN_WHITNEY">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_07" target="CONCEPT_HODGES_LEHMANN">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_07" target="CONCEPT_MEDIAN_DIFFERENCE">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_07" target="CONCEPT_NON_PARAMETRIC">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_07" target="CONCEPT_GAD_10">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_07" target="TOPIC_STATISTICAL_TEST">
+  <data key="d4">BELONGS_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_07" target="DOC_01_Bao_cao_NNT_va_MannWhitney_chenh_lech_trung_vi_">
+  <data key="d4">ANSWERED_IN</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_07" target="PAPER_QT001">
+  <data key="d4">CITES</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_08" target="CONCEPT_AOR">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_08" target="CONCEPT_OR">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_08" target="CONCEPT_LOGISTIC_REGRESSION">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_08" target="CONCEPT_MULTIVARIABLE">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_08" target="CONCEPT_CONFOUNDING">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_08" target="CONCEPT_Β_COEFFICIENT">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_08" target="TOPIC_REGRESSION">
+  <data key="d4">BELONGS_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_08" target="DOC_01_Bao_cao_AOR_Adjusted_Odds_Ratio_cach_tinh_docx">
+  <data key="d4">ANSWERED_IN</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_08" target="PAPER_QT05_Zhu">
+  <data key="d4">CITES</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_08" target="PAPER_QT23_JAACAP">
+  <data key="d4">CITES</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_08" target="PAPER_QT31_Islam">
+  <data key="d4">CITES</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_09" target="CONCEPT_PRISMA">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_09" target="CONCEPT_FLOW_DIAGRAM">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_09" target="CONCEPT_SCREENING">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_09" target="CONCEPT_ELIGIBILITY">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_09" target="CONCEPT_RISK_OF_BIAS">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_09" target="TOPIC_SR_METHODOLOGY">
+  <data key="d4">BELONGS_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_09" target="DOC_01_Bao_cao_PRISMA_flow_cach_doc_tung_buoc_docx">
+  <data key="d4">ANSWERED_IN</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_09" target="PAPER_QT040">
+  <data key="d4">CITES</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_09" target="PAPER_QT029">
+  <data key="d4">CITES</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_10" target="CONCEPT_CHI_SQUARE">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_10" target="CONCEPT_LOGISTIC_REGRESSION">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_10" target="CONCEPT_UNIVARIABLE">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_10" target="CONCEPT_MULTIVARIABLE">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_10" target="CONCEPT_HYPOTHESIS_TESTING">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_10" target="TOPIC_STATISTICAL_TERMINOLOGY">
+  <data key="d4">BELONGS_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_11" target="CONCEPT_CLUSTER_EFFECT">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_11" target="CONCEPT_ICC">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_11" target="CONCEPT_WEIGHTED_PREVALENCE">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_11" target="CONCEPT_SURVEY_PACKAGE_R">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_11" target="CONCEPT_DESIGN_EFFECT">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_11" target="TOPIC_SURVEY_METHODOLOGY">
+  <data key="d4">BELONGS_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_11" target="PAPER_QT007_Chen_2023">
+  <data key="d4">CITES</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_12" target="CONCEPT_SE">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_12" target="CONCEPT_DEFF">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_12" target="CONCEPT_DESIGN_EFFECT">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_12" target="CONCEPT_SAMPLE_SIZE">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_12" target="CONCEPT_EFFECT_SIZE">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_12" target="CONCEPT_ICC">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_12" target="TOPIC_STATISTICAL_TERMINOLOGY">
+  <data key="d4">BELONGS_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_13" target="CONCEPT_STANDARD_ERROR">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_13" target="CONCEPT_UNDERESTIMATION">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_13" target="CONCEPT_INFLATED_SIGNIFICANCE">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_13" target="CONCEPT_TYPE_I_ERROR">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_13" target="CONCEPT_CLUSTER_EFFECT">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_13" target="TOPIC_STATISTICAL_INTERPRETATION">
+  <data key="d4">BELONGS_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_13" target="PAPER_QT007_Chen_2023">
+  <data key="d4">CITES</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_14" target="CONCEPT_WEIGHTED_PREVALENCE">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_14" target="CONCEPT_SAMPLING_WEIGHT">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_14" target="CONCEPT_NON_RESPONSE">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_14" target="CONCEPT_POST_STRATIFICATION">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_14" target="CONCEPT_SURVEY_PACKAGE_R">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_14" target="TOPIC_SURVEY_METHODOLOGY">
+  <data key="d4">BELONGS_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_14" target="DOC_01_Bao_cao_Weighted_prevalence_ty_le_co_trong_so_d">
+  <data key="d4">ANSWERED_IN</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_14" target="PAPER_QT007_Chen_2023">
+  <data key="d4">CITES</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_15" target="CONCEPT_CONFIDENCE_INTERVAL">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_15" target="CONCEPT_CI_WIDTH">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_15" target="CONCEPT_PRECISION">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_15" target="CONCEPT_DESIGN_EFFECT">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_15" target="CONCEPT_EFFECTIVE_SAMPLE_SIZE">
+  <data key="d4">EXPLAINS</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_15" target="TOPIC_STATISTICAL_INTERPRETATION">
+  <data key="d4">BELONGS_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_15" target="DOC_01_Bao_cao_KTC_rong_hep_vua_du_Chen_2023_docx">
+  <data key="d4">ANSWERED_IN</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="QA_15" target="PAPER_QT007_Chen_2023">
+  <data key="d4">CITES</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_COHEN_S_D" target="CONCEPT_EFFECT_SIZE">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_COHEN_S_D" target="CONCEPT_HEDGES_G">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_COHEN_S_D" target="CONCEPT_SMD">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_HEDGES_G" target="CONCEPT_SMD">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_EFFECT_SIZE" target="CONCEPT_HEDGES_G">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_EFFECT_SIZE" target="CONCEPT_SMD">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_EFFECT_SIZE" target="CONCEPT_RCT">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_EFFECT_SIZE" target="CONCEPT_WAITLIST">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_EFFECT_SIZE" target="CONCEPT_NNT">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_EFFECT_SIZE" target="CONCEPT_RESPONSE_RATE">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_EFFECT_SIZE" target="CONCEPT_ICC">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_EFFECT_SIZE" target="CONCEPT_SAMPLE_SIZE">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_EFFECT_SIZE" target="CONCEPT_SE">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_COCHRANE" target="CONCEPT_COHEN_S_D">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_COCHRANE" target="CONCEPT_EFFECT_SIZE">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_COCHRANE" target="CONCEPT_HEDGES_G">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_COCHRANE" target="CONCEPT_SMD">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_PICOS" target="CONCEPT_PRISMA_FLOW">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_PICOS" target="CONCEPT_SR_VS_MA">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_ELIGIBILITY_CRITERIA" target="CONCEPT_PICOS">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_ELIGIBILITY_CRITERIA" target="CONCEPT_PRISMA_FLOW">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_ELIGIBILITY_CRITERIA" target="CONCEPT_SR_VS_MA">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_PRISMA_FLOW" target="CONCEPT_SR_VS_MA">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_CONTROL_GROUP" target="CONCEPT_EFFECT_SIZE">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_CONTROL_GROUP" target="CONCEPT_RCT">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_CONTROL_GROUP" target="CONCEPT_WAITLIST">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_RCT" target="CONCEPT_WAITLIST">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_MULTICENTER_RCT" target="CONCEPT_PROSPERO">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_CAMS" target="CONCEPT_GENERALIZABILITY">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_CAMS" target="CONCEPT_MULTICENTER_RCT">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_CAMS" target="CONCEPT_PROSPERO">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_CAMS" target="CONCEPT_EFFECT_SIZE">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_CAMS" target="CONCEPT_NNT">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_CAMS" target="CONCEPT_RESPONSE_RATE">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_GENERALIZABILITY" target="CONCEPT_MULTICENTER_RCT">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_GENERALIZABILITY" target="CONCEPT_PROSPERO">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_ACT" target="CONCEPT_BAYESIAN_NMA">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_ACT" target="CONCEPT_CBT">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_ACT" target="CONCEPT_HEXAFLEX">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_ACT" target="CONCEPT_RFT">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_ACT" target="CONCEPT_STEVEN_HAYES">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_ACT" target="CONCEPT_THIRD_WAVE">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_CBT" target="CONCEPT_HEXAFLEX">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_CBT" target="CONCEPT_RFT">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_CBT" target="CONCEPT_STEVEN_HAYES">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_CBT" target="CONCEPT_THIRD_WAVE">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_RFT" target="CONCEPT_STEVEN_HAYES">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_RFT" target="CONCEPT_THIRD_WAVE">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_STEVEN_HAYES" target="CONCEPT_THIRD_WAVE">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_HEXAFLEX" target="CONCEPT_RFT">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_HEXAFLEX" target="CONCEPT_STEVEN_HAYES">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_HEXAFLEX" target="CONCEPT_THIRD_WAVE">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_BAYESIAN_NMA" target="CONCEPT_CBT">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_BAYESIAN_NMA" target="CONCEPT_HEXAFLEX">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_BAYESIAN_NMA" target="CONCEPT_RFT">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_BAYESIAN_NMA" target="CONCEPT_STEVEN_HAYES">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_BAYESIAN_NMA" target="CONCEPT_THIRD_WAVE">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_NNT" target="CONCEPT_RESPONSE_RATE">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_ARR" target="CONCEPT_CAMS">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_ARR" target="CONCEPT_EFFECT_SIZE">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_ARR" target="CONCEPT_NNT">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_ARR" target="CONCEPT_RESPONSE_RATE">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_MANN_WHITNEY" target="CONCEPT_MEDIAN_DIFFERENCE">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_MANN_WHITNEY" target="CONCEPT_NON_PARAMETRIC">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_HODGES_LEHMANN" target="CONCEPT_MANN_WHITNEY">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_HODGES_LEHMANN" target="CONCEPT_MEDIAN_DIFFERENCE">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_HODGES_LEHMANN" target="CONCEPT_NON_PARAMETRIC">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_MEDIAN_DIFFERENCE" target="CONCEPT_NON_PARAMETRIC">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_GAD_10" target="CONCEPT_HODGES_LEHMANN">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_GAD_10" target="CONCEPT_MANN_WHITNEY">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_GAD_10" target="CONCEPT_MEDIAN_DIFFERENCE">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_GAD_10" target="CONCEPT_NON_PARAMETRIC">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_AOR" target="CONCEPT_CONFOUNDING">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_AOR" target="CONCEPT_LOGISTIC_REGRESSION">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_AOR" target="CONCEPT_MULTIVARIABLE">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_AOR" target="CONCEPT_OR">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_AOR" target="CONCEPT_Β_COEFFICIENT">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_OR" target="CONCEPT_Β_COEFFICIENT">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_LOGISTIC_REGRESSION" target="CONCEPT_MULTIVARIABLE">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">2</data>
+</edge>
+<edge source="CONCEPT_LOGISTIC_REGRESSION" target="CONCEPT_OR">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_LOGISTIC_REGRESSION" target="CONCEPT_Β_COEFFICIENT">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_LOGISTIC_REGRESSION" target="CONCEPT_UNIVARIABLE">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_MULTIVARIABLE" target="CONCEPT_OR">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_MULTIVARIABLE" target="CONCEPT_Β_COEFFICIENT">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_MULTIVARIABLE" target="CONCEPT_UNIVARIABLE">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_CONFOUNDING" target="CONCEPT_LOGISTIC_REGRESSION">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_CONFOUNDING" target="CONCEPT_MULTIVARIABLE">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_CONFOUNDING" target="CONCEPT_OR">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_CONFOUNDING" target="CONCEPT_Β_COEFFICIENT">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_PRISMA" target="CONCEPT_RISK_OF_BIAS">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_PRISMA" target="CONCEPT_SCREENING">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_FLOW_DIAGRAM" target="CONCEPT_PRISMA">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_FLOW_DIAGRAM" target="CONCEPT_RISK_OF_BIAS">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_FLOW_DIAGRAM" target="CONCEPT_SCREENING">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_ELIGIBILITY" target="CONCEPT_FLOW_DIAGRAM">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_ELIGIBILITY" target="CONCEPT_PRISMA">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_ELIGIBILITY" target="CONCEPT_RISK_OF_BIAS">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_ELIGIBILITY" target="CONCEPT_SCREENING">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_RISK_OF_BIAS" target="CONCEPT_SCREENING">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_CHI_SQUARE" target="CONCEPT_HYPOTHESIS_TESTING">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_CHI_SQUARE" target="CONCEPT_LOGISTIC_REGRESSION">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_CHI_SQUARE" target="CONCEPT_MULTIVARIABLE">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_CHI_SQUARE" target="CONCEPT_UNIVARIABLE">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_HYPOTHESIS_TESTING" target="CONCEPT_LOGISTIC_REGRESSION">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_HYPOTHESIS_TESTING" target="CONCEPT_MULTIVARIABLE">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_HYPOTHESIS_TESTING" target="CONCEPT_UNIVARIABLE">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_CLUSTER_EFFECT" target="CONCEPT_DESIGN_EFFECT">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_CLUSTER_EFFECT" target="CONCEPT_ICC">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_CLUSTER_EFFECT" target="CONCEPT_SURVEY_PACKAGE_R">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_CLUSTER_EFFECT" target="CONCEPT_WEIGHTED_PREVALENCE">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_CLUSTER_EFFECT" target="CONCEPT_INFLATED_SIGNIFICANCE">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_CLUSTER_EFFECT" target="CONCEPT_STANDARD_ERROR">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_CLUSTER_EFFECT" target="CONCEPT_TYPE_I_ERROR">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_CLUSTER_EFFECT" target="CONCEPT_UNDERESTIMATION">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_ICC" target="CONCEPT_SURVEY_PACKAGE_R">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_ICC" target="CONCEPT_WEIGHTED_PREVALENCE">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_ICC" target="CONCEPT_SAMPLE_SIZE">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_ICC" target="CONCEPT_SE">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_SURVEY_PACKAGE_R" target="CONCEPT_WEIGHTED_PREVALENCE">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">2</data>
+</edge>
+<edge source="CONCEPT_DESIGN_EFFECT" target="CONCEPT_ICC">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">2</data>
+</edge>
+<edge source="CONCEPT_DESIGN_EFFECT" target="CONCEPT_SURVEY_PACKAGE_R">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_DESIGN_EFFECT" target="CONCEPT_WEIGHTED_PREVALENCE">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_DESIGN_EFFECT" target="CONCEPT_EFFECT_SIZE">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_DESIGN_EFFECT" target="CONCEPT_SAMPLE_SIZE">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_DESIGN_EFFECT" target="CONCEPT_SE">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_DESIGN_EFFECT" target="CONCEPT_EFFECTIVE_SAMPLE_SIZE">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_DESIGN_EFFECT" target="CONCEPT_PRECISION">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_DEFF" target="CONCEPT_DESIGN_EFFECT">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_DEFF" target="CONCEPT_EFFECT_SIZE">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_DEFF" target="CONCEPT_ICC">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_DEFF" target="CONCEPT_SAMPLE_SIZE">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_DEFF" target="CONCEPT_SE">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_SAMPLE_SIZE" target="CONCEPT_SE">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_STANDARD_ERROR" target="CONCEPT_TYPE_I_ERROR">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_STANDARD_ERROR" target="CONCEPT_UNDERESTIMATION">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_INFLATED_SIGNIFICANCE" target="CONCEPT_STANDARD_ERROR">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_INFLATED_SIGNIFICANCE" target="CONCEPT_TYPE_I_ERROR">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_INFLATED_SIGNIFICANCE" target="CONCEPT_UNDERESTIMATION">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_TYPE_I_ERROR" target="CONCEPT_UNDERESTIMATION">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_SAMPLING_WEIGHT" target="CONCEPT_SURVEY_PACKAGE_R">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_SAMPLING_WEIGHT" target="CONCEPT_WEIGHTED_PREVALENCE">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_NON_RESPONSE" target="CONCEPT_POST_STRATIFICATION">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_NON_RESPONSE" target="CONCEPT_SAMPLING_WEIGHT">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_NON_RESPONSE" target="CONCEPT_SURVEY_PACKAGE_R">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_NON_RESPONSE" target="CONCEPT_WEIGHTED_PREVALENCE">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_POST_STRATIFICATION" target="CONCEPT_SAMPLING_WEIGHT">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_POST_STRATIFICATION" target="CONCEPT_SURVEY_PACKAGE_R">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_POST_STRATIFICATION" target="CONCEPT_WEIGHTED_PREVALENCE">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_CONFIDENCE_INTERVAL" target="CONCEPT_DESIGN_EFFECT">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_CONFIDENCE_INTERVAL" target="CONCEPT_EFFECTIVE_SAMPLE_SIZE">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_CONFIDENCE_INTERVAL" target="CONCEPT_PRECISION">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_CI_WIDTH" target="CONCEPT_CONFIDENCE_INTERVAL">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_CI_WIDTH" target="CONCEPT_DESIGN_EFFECT">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_CI_WIDTH" target="CONCEPT_EFFECTIVE_SAMPLE_SIZE">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_CI_WIDTH" target="CONCEPT_PRECISION">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="CONCEPT_EFFECTIVE_SAMPLE_SIZE" target="CONCEPT_PRECISION">
+  <data key="d4">RELATED_TO</data>
+  <data key="d5">1</data>
+</edge>
+</graph></graphml>

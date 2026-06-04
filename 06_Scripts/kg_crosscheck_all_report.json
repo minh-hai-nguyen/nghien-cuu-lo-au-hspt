@@ -1,0 +1,148 @@
+{
+  "total_papers": 68,
+  "summaries_loaded": 68,
+  "translations_loaded": 61,
+  "kg_papers_with_es": 30,
+  "total_issues": 17,
+  "summary_vs_translation": 17,
+  "kg_vs_source": 0,
+  "cross_paper": 0,
+  "issues": [
+    {
+      "type": "summary_not_in_translation",
+      "paper": "QT015",
+      "metric": "beta",
+      "value": "0.149",
+      "sum_context": "Học 2025 đã ghi nhận giấc ngủ β = −0,149). Nghiên cứu dọc theo dõi cùn",
+      "note": "beta=0.149 in summary but not found in translation"
+    },
+    {
+      "type": "summary_not_in_translation",
+      "paper": "QT021",
+      "metric": "g",
+      "value": "0.46",
+      "sum_context": "VTN SKTT dùng MXH nhiều hơn, g = 0,46). Tuy nhiên, bằng chứng vẫn l",
+      "note": "g=0.46 in summary but not found in translation"
+    },
+    {
+      "type": "summary_not_in_translation",
+      "paper": "QT022",
+      "metric": "OR",
+      "value": "5.00",
+      "sum_context": "c bổ sung cho Chen 2023 (game OR = 5,00 — cắt ngang), Hoàng Trung Học",
+      "note": "OR=5.00 in summary but not found in translation"
+    },
+    {
+      "type": "summary_not_in_translation",
+      "paper": "QT026",
+      "metric": "OR",
+      "value": "2.17",
+      "sum_context": ") | 2013–2021 | Lo âu +100% (AOR=2,17) | QT23 Hoa Kỳ (NSCH) | 2016–",
+      "note": "OR=2.17 in summary but not found in translation"
+    },
+    {
+      "type": "summary_not_in_translation",
+      "paper": "QT026",
+      "metric": "AOR",
+      "value": "2.17",
+      "sum_context": "P) | 2013–2021 | Lo âu +100% (AOR=2,17) | QT23 Hoa Kỳ (NSCH) | 2016–",
+      "note": "AOR=2.17 in summary but not found in translation"
+    },
+    {
+      "type": "summary_not_in_translation",
+      "paper": "QT027",
+      "metric": "OR",
+      "value": "5.00",
+      "sum_context": "T (RCT); (4) Chen 2023 — game OR = 5,00; (5) Norway 2025 — MXH giải t",
+      "note": "OR=5.00 in summary but not found in translation"
+    },
+    {
+      "type": "summary_not_in_translation",
+      "paper": "QT027",
+      "metric": "OR",
+      "value": "5.00",
+      "sum_context": "ang, n=63.205 | Rối loạn game OR = 5,00 | 4,4 Norway 2025 (QT21) | Xu",
+      "note": "OR=5.00 in summary but not found in translation"
+    },
+    {
+      "type": "summary_not_in_translation",
+      "paper": "QT028",
+      "metric": "OR",
+      "value": "0.562",
+      "sum_context": "Quan sát | Hỗ trợ SKTT trường OR=0,562 | Cắt ngang Hoàng Trung Học V",
+      "note": "OR=0.562 in summary but not found in translation"
+    },
+    {
+      "type": "summary_not_in_translation",
+      "paper": "QT029",
+      "metric": "OR",
+      "value": "0.562",
+      "sum_context": "át nông thôn TQ | SKTT trường OR = 0,562 | Không can thiệp",
+      "note": "OR=0.562 in summary but not found in translation"
+    },
+    {
+      "type": "summary_not_in_translation",
+      "paper": "QT031",
+      "metric": "OR",
+      "value": "6.84",
+      "sum_context": "Ngo Anh Vinh 2024 (bạn bè kém OR = 6,84). *Hỗ trợ cha mẹ bảo vệ.* Phù",
+      "note": "OR=6.84 in summary but not found in translation"
+    },
+    {
+      "type": "summary_not_in_translation",
+      "paper": "QT031",
+      "metric": "OR",
+      "value": "0.30",
+      "sum_context": "à Qiu 2022 (nuôi dạy tích cực OR = 0,30). Kết luận Dữ liệu GSHS từ 59",
+      "note": "OR=0.30 in summary but not found in translation"
+    },
+    {
+      "type": "summary_not_in_translation",
+      "paper": "QT033",
+      "metric": "OR",
+      "value": "5.00",
+      "sum_context": "a = 0,176) và Chen 2023 (game OR = 5,00), cung cấp cơ sở mạnh cho can",
+      "note": "OR=5.00 in summary but not found in translation"
+    },
+    {
+      "type": "summary_not_in_translation",
+      "paper": "QT033",
+      "metric": "OR",
+      "value": "5.00",
+      "sum_context": "| Cắt ngang, n=63.205 | Game OR = 5,00 | Trung bình Hoàng Trung Học",
+      "note": "OR=5.00 in summary but not found in translation"
+    },
+    {
+      "type": "summary_not_in_translation",
+      "paper": "QT050",
+      "metric": "g",
+      "value": "0.878",
+      "sum_context": "h cho SAD) và Walder DMHI MA (g = 0,878 cho SAD-specific). Lý do: các",
+      "note": "g=0.878 in summary but not found in translation"
+    },
+    {
+      "type": "summary_not_in_translation",
+      "paper": "VN003",
+      "metric": "OR",
+      "value": "0.32",
+      "sum_context": "cảm (OR = 0,30) và 68% lo âu (OR = 0,32). Cả hai đều nhấn mạnh yếu tố",
+      "note": "OR=0.32 in summary but not found in translation"
+    },
+    {
+      "type": "summary_not_in_translation",
+      "paper": "VN014",
+      "metric": "OR",
+      "value": "0.557",
+      "sum_context": "m, hoạt động ngoài trời 2–3h AOR = 0,557 bảo vệ. Kết luận Dữ liệu của",
+      "note": "OR=0.557 in summary but not found in translation"
+    },
+    {
+      "type": "summary_not_in_translation",
+      "paper": "VN014",
+      "metric": "AOR",
+      "value": "0.557",
+      "sum_context": "ảm, hoạt động ngoài trời 2–3h AOR = 0,557 bảo vệ. Kết luận Dữ liệu của",
+      "note": "AOR=0.557 in summary but not found in translation"
+    }
+  ]
+}

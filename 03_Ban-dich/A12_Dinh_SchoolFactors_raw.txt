@@ -1,0 +1,1426 @@
+PAGE 1:
+PSYCHOLOGY AND EDUCATION (2021) 58(1): 883-894                              ISSN: 0033-3077 
+ 
+ 
+ 
+www/psychologyandeducation.net 
+883 
+ 
+School factors causing Vietnamese adolescents’ anxiety in secondary schools  
+ 
+Hong-Van Thi Dinh1, Le-Hang Thi Do2*, Mai-Huong Thi Phan3 
+1. PhD, Vice-Dean, Department of Psychology and Education, University of Education, Hue University, No 
+32, Le Loi st, Hue city, Vietnam; Email: dthvan@hueuni.edu.vn or dinhthihongvan@dhsphue.edu.vn; 
+ORCID: https://orcid.org/0000-0002-1665-9083    
+2. PhD, Senior Researcher, Insitute of Psychology, Viet Nam Academy of Social Sciences, No 37, Kim Ma 
+Thuong St, Hanoi city, Vietnam; Email of the corresponding author: dothilehang@gmail.com or 
+dolehang2020@gmail.com; ORCID: https://orcid.org/0000-0002-0038-9306  
+3. PhD, Associate Professor, Advanced Researcher, Insitute of Psychology, Viet Nam Academy of Social 
+Sciences, No 37, Kim Ma Thuong St, Hanoi city, Vietnam. E-mail: huongphanmai@gmail.com; ORCID: 
+https://orcid.org/0000-0001-5759-2906  
+ 
+ABSTRACT 
+Anxiety is regarded as an emotion characterized by feelings of tension, worried thoughts, and physical changes like increased 
+blood pressure, and it is a common phenomenon for people in general and adolescents in particular. The study aimed to 
+determine the factors that cause anxiety among adolescents in Vietnam under the influence of gender and grade. A group of 
+749 Vietnamese secondary school students participated in the survey. Results showed that scores and exams caused the most 
+anxiety for participants. Factors related to scores and exams created more anxiety for females than males. Factors related to 
+communicating with friends, teachers, school/classroom facilities, and school safety caused more anxiety for students in 
+grades 6, 7, and 8 than those in grade 9. Our study suggests that prevention and intervention programs should be promoted to 
+minimize anxiety for adolescents from the pressure of scores, exams, and the impact of gender and grade. 
+ 
+Keywords: adolescents, anxiety, grade, secondary school, scores, gender 
+Article Received: 23 October 2020, Revised: 03 November 2020, Accepted: 24 December 2020 
+ 
+INTRODUCTION 
+Adolescence is a crucial developmental stage in 
+the life of every human being. This transition 
+period from childhood to adult is marked with 
+significant physiological and psychological 
+changes (Grant, 2013). The development of the 
+ego, the need for equal rights in adult 
+relationships, and the expansion of social 
+relations have made adolescents live in a mental 
+world filled with emotions. It can be said that 
+this is the stage with the most emotional and 
+behavioral 
+disorders 
+(Silk 
+et 
+al., 
+2003). 
+Emotions such as anger, boredom, and anxiety 
+that persist in mild or severe forms can start at 
+this age (Langelier, 2011). Anxiety is of of the 
+most common phenomenon in teenagers’ age 
+(Dinh, 2014). 
+ 
+Anxiety is the painful feeling that we typically 
+recognize as uneasiness, apprehension, or worry 
+(Seligman et al., 2001). Spielberger et al. (1970) 
+
+===
+PAGE 2:
+PSYCHOLOGY AND EDUCATION (2021) 58(1): 883-894                              ISSN: 0033-3077 
+ 
+ 
+ 
+www/psychologyandeducation.net 
+884 
+ 
+clarified two different statuses of anxiety: state 
+anxiety and trait anxiety. State anxiety (A-State) 
+reflects a “transitory emotional state or condition 
+of the human organism that is characterized by 
+subjective, consciously perceived feelings of 
+tension and apprehension, and heightened 
+autonomic nervous system activity” (Spielberger 
+et al., 1970, p. 3). In contrast, trait anxiety 
+denotes “relatively stable individual differences 
+in anxiety proneness and refers to a general 
+tendency to respond with anxiety to perceived 
+threats in the environment” (Spielberger et al., 
+1970, p. 3).  
+ 
+Uncontrolled anxiety can result in anxiety 
+disorders. In children and adolescents, anxiety is 
+considered 
+one 
+of 
+the 
+most 
+common 
+psychological disorders (Costello et al., 2003). 
+The rate of anxiety disorder among adolescents 
+in the population ranged from 9 to 21% 
+(Mardomingo, 2005). The prevalence of anxiety 
+disorders among children and adolescents with 
+chronic illness was about 20-50% (Cobham et 
+al., 2019). Liu et al. (2018) conducted a study on 
+50,361 children and adolescents in rural areas of 
+China from 2008 to 2015. Findings from this 
+study revealed that seven percent of students 
+were at risk for overall anxiety. However, over 
+half of the students were at risk for at least one 
+subcategory of anxiety. Students at higher risk 
+for anxiety included students from poorer 
+counties 
+and 
+families, 
+female 
+students, 
+secondary school students, and students with 
+lower academic performance levels. Another 
+study from Deb et al. (2000) on 460 adolescents 
+(220 boys and 240 girls), aged 13-17 years in 
+India showed that anxiety was prevalent in the 
+sample with 20.1% of boys and 17.9% of girls 
+suffering from high anxiety.  
+ 
+A cross-cultural study was conducted by Essau 
+et al. (2008) to compare the level of anxiety 
+among adolescents in German and Hong Kong. 
+A total of 1,022 adolescents (594 from Germany 
+and 428 from Hong Kong) between the ages of 
+12 and 17 were investigated. Results showed 
+that adolescents in Hong Kong reported 
+significantly higher levels of anxiety symptoms 
+than adolescents in Germany. Anxiety symptoms 
+showed differences across cultures. Individually, 
+academic motivational goals to compete to get 
+good grades and be rewarded for their 
+performance 
+correlated 
+significantly 
+with 
+anxiety symptoms in Hong Kong. In Germany, 
+anxiety symptoms were markedly correlated 
+with reinforcement received for anxiety-related 
+problems (i.e., instrumental learning) and 
+parental verbal transmission about the danger of 
+anxiety (i.e., informational knowledge). The 
+findings underscored the importance of cultural 
+factors on adolescent’s anxiety.  
+ 
+In Vietnam, the proportion of adolescents with 
+anxiety disorders was reported relatively high. A 
+study by Nguyen et al. (2013) on 1161 
+secondary students in Can Tho City, Vietnam, 
+showed an anxiety disorder rate of 22.8%. 
+Nguyen's (2018) study on 923 adolescents in Ho 
+Chi Minh City showed that 12% of participants 
+had anxiety disorders. 
+ 
+Evidence has shown that some groups of 
+adolescents were at higher risk of having anxiety 
+than other groups. For example, regarding 
+gender, females were more anxious than males 
+(Mendle et al., 2019; Shen et al., 2015). 
+However, some other studies showed that males 
+were at a higher level of anxiety than females 
+(Deb et al., 2010). Xing (2008) found that older 
+students and female students had higher rates of 
+anxiety than younger and male students. 
+Children in rural areas were more anxious than 
+those in urban areas (Jin et al., 2014). Deb et al. 
+(2010) revealed that adolescents belonging to the 
+middle socio-economic group suffered more 
+anxiety than those from high or low socio-
+economic groups. Adolescents with working 
+mothers were found to be more anxious.  
+Some research results also showed that there 
+were plenty of risk factors that led to anxiety 
+among 
+adolescents, 
+such 
+as 
+physical 
+or 
+
+===
+PAGE 3:
+PSYCHOLOGY AND EDUCATION (2021) 58(1): 883-894                              ISSN: 0033-3077 
+ 
+ 
+ 
+www/psychologyandeducation.net 
+885 
+ 
+emotional abuse by the family, high educational 
+stress (Mendle et al., 2019; Nguyen et al., 2013). 
+Grant (2013) generalized the etiological factors 
+that led to anxiety among adolescents: “(1) 
+Biological Factors (changes in adolescence such 
+as 
+increased 
+hormone 
+levels 
+via 
+the 
+hypothalamus and the pituitary gland and the 
+physical changes), (2) Interpersonal Stress 
+(problems in relationships with parents and 
+friends), (3) Cognitive Factors (Cognitive 
+vulnerabilities, anxiety sensitivity)” (p. 45).  
+Some studies also revealed the relationship 
+between high anxiety and low academic 
+performance (Liu et al., 2018; Yousefi et al., 
+2010; Owens et al., 2008) and low self-esteem 
+(Nguyen et al., 2019). Pine et al. (1999) said that 
+anxiety could interfere negatively with social 
+life, general well-being, development of social 
+skills, and academic performance (Pine et al., 
+1999). To develop intervention programs to 
+reduce the risk of anxiety, it is essential to 
+understand school factors that are believed to be 
+the core environment that an adolescent interacts 
+in everyday life, affecting anxiety among 
+adolescents.   
+This study, therefore, aimed to answer the 
+following two questions:  
+1. What school factors create anxiety feeling for 
+adolescents at secondary schools in the two 
+biggest cities in Vietnam? 
+2. How gender and grade-related factors create 
+anxiety among those adolescents?  
+ 
+METHODS 
+ 
+Study design  
+A cross-sectional study design was applied. All 
+data were collected from March to April 2019.  
+ 
+Sampling and Participants  
+ 
+The sample was purposively selected from four 
+secondary schools in Ha Noi capital city và Ho 
+Chi Minh city, Vietnam, of which two schools 
+are from each city. These two cities represent the 
+Northern and Southern areas as the two biggest 
+cities in Vietnam. Four selected secondary 
+schools were public ones that were neither 
+special nor schools in deprived areas. We 
+randomly selected one class of each grade from 
+grade six to grade nine, making up a total of 16 
+classes for the study. The convenience sampling 
+method was used to recruit students who 
+volunteered to help with the research and to 
+administer the survey. The survey instrument 
+was distributed to 780 Vietnamese students. 
+Among these, 749 participants (response rate of 
+96.1%) 
+completed 
+and 
+returned 
+the 
+questionnaire. All these data were included in 
+the analysis. Table 1 shows the general 
+characteristics of the study sample.  
+Table 1. Characteristics of participants 
+Variables 
+ 
+Value – N* [%] 
+Individual characteristics 
+Gender 
+Male 
+392 [52.3%] 
+Female 
+357 [47.7%] 
+Grade 
+Grade 6 
+189 [25.2%] 
+Grade 7 
+192 [25.6%] 
+Grade 8 
+207 [27.6%] 
+Grade 9 
+161 [21.5%] 
+
+===
+PAGE 4:
+PSYCHOLOGY AND EDUCATION (2021) 58(1): 883-894                              ISSN: 0033-3077 
+ 
+ 
+ 
+www/psychologyandeducation.net 
+886 
+ 
+Environmental characteristics 
+ 
+Living area 
+Hanoi 
+363 [49.3%] 
+Ho Chi Minh city  
+386 [51.7%] 
+Total 
+ 
+749 [100%] 
+ 
+Tool for data collection 
+The self-completed questionnaire was used to 
+collect data that included questions about the 
+school's factors impact students' anxiety. These 
+questions were developed from the results of a 
+qualitative study among 90 students in Hanoi. 
+Participants in this were asked to answer the 
+question: "What factors at school make you feel 
+anxious?". Data-driven codes were developed 
+after repeated analysis of the raw information. 
+Using conventional coding, we collected six 
+school factors from 186 answers that led to 
+anxiety among students. The six factors were: 
+1. Scores and exams: are factors related to 
+achievement evaluation, test pressure (taking 
+tests, oral examination, low test scores, failing 
+tests, worrying about failing from excellent 
+students, worrying about not achieving high 
+scores…)  
+2. Relationship with friends in class: relating to 
+the connection with classmates such as being 
+misunderstood, 
+being 
+badly 
+talked, 
+being 
+ostracized. 
+3. Communication with teachers: the connection 
+between students and teachers related to 
+exchanging exercises, asking for help.  
+4. School/class facilities relate to cleanliness, 
+crowded canteen, low and slow services quality, 
+dirty and smelly toilet.  
+5. School safety: relating the safe feeling of 
+students at school such as bullying, being 
+attacked with weapons.  
+6. Factors related to studying: including students' 
+attitude in obeying school rules, the connection 
+between teachers and parents, being punished by 
+teachers, not doing homework, being late for 
+school, etc.  
+ 
+Based on the results of the qualitative study, we 
+developed an official survey questionnaire, 
+which listed six above factors. Each factor has 
+two options, in which “1” indicates the factor 
+was the cause of anxiety while “0” did not. 
+Other demographic information was included, 
+such as gender and grade. 
+ 
+Data analysis 
+ 
+We used SPSS 22.0 to analyze descriptive and 
+inference statistics (Corp, 2012). Descriptive 
+statistics with prevalence to describe school 
+factors that caused anxiety among adolescents. 
+Then, binary logistic regression modeling was 
+carried out, in which six dependent variables 
+were included. Factors related to scores and 
+exams, relationship with friends in class, 
+communication 
+with 
+teachers, 
+school/class 
+facilities, school safety, factors related to 
+subjects were binary variables, and independent 
+variables were gender (Boy – Girl) and grade (6-
+7-8-9). 95% confidence interval (CI) for 
+statistics 
+of 
+interest 
+were 
+calculated. 
+A 
+significance level of .05 was used. 
+ 
+RESULTS 
+ 
+Factors causing anxiety among adolescents  
+ 
+Table 2 illustrate factors of anxiety among 
+adolescents. Findings showed that 91.1% of 
+adolescents reported that their anxiety related to 
+scores and exams at school, while only 57.9% 
+reported the cause of subjects studying at school. 
+47.9% of participants mentioned school safety as 
+a reason for their anxiety. The factor that was 
+
+===
+PAGE 5:
+PSYCHOLOGY AND EDUCATION (2021) 58(1): 883-894                              ISSN: 0033-3077 
+ 
+ 
+ 
+www/psychologyandeducation.net 
+887 
+ 
+least mentioned was school/class facilities, with 
+one-third of the students.  
+ 
+Table 2. Factors of anxiety among 
+adolescents 
+School factors 
+N 
+Percentage 
+Scores and exams 
+656 
+91.1 
+Relationship 
+with 
+friends in class 
+292 
+40.6 
+Communication 
+with teachers 
+309 
+42.9 
+School/Class 
+facilities 
+251 
+34.9 
+School safety 
+345 
+47.9 
+Factors related to 
+subjects 
+417 
+57.9 
+ 
+Prediction of gender and grade for factors 
+causing anxiety among adolescents 
+Table 3 reported outcomes from binary logistic 
+regression models of gender and grade for six 
+school-based factors caused anxiety for students. 
+For each school factor, there were three models, 
+in which models A (A1 to A6) and B (B1 to B6) 
+described statistics of prediction of separate 
+gender and grade tương ứng; models C (C1 to 
+C6) included both variables as independent 
+variables. 
+Odds 
+ratios 
+(ORs) 
+and 
+95% 
+confidence interval (95% CI) for ORs were 
+reported in this table.  
+ 
+The model results showed that gender and grade 
+associated with school factors cause anxiety for 
+students according to the following trends. 
+ 
+Prediction of Gender  
+ 
+Results in A models (A1 to A6), where gender 
+was as a single predictor for dependent 
+variables, revealed that gender was statistically 
+significantly associated with anxiety caused by 
+scores and examinations (OR = .565, p = .022, 
+95% CI [.347-.920]) but was not statistically 
+significantly correlated with the remaining five 
+other factors (p > .2). The result inferred that 
+males were more anxious about exams and 
+scores than females. However, both sexes were 
+at the same risk of having anxiety in relationship 
+with classmates, communication with teachers, 
+school/class facilities, school safety, and factors 
+related to studying.  
+ 
+Prediction of Grade 
+The B models (B1 to B6), which examined the 
+association of grade and anxiety, showed that 
+students from grades 6 to 8 might have twice to 
+three times more anxious in relationship with 
+classmates than those in grade 9 (ORgrade6=2.28, 
+p=.001, 95% CI [1.430-3.655], ORgrade7=3.12, 
+p=.000, 95% CI [1.969-4.961], ORgrade8=2.20, 
+p=.001, 95% CI 1.390-3.489]); Communication 
+with teachers (ORgrade6=2.39, p=.000, 95% CI 
+[1.526-3.766], ORgrade7=2.45, p=.000, 95% CI 
+[1.571-3.837], ORgrade8=1.73, p=.016, 95% CI 
+[1.109-2.701]); 
+School/class 
+facilities 
+(ORgrade6=3.13, p=.000, 95% CI [1.937-5.083], 
+ORgrade7=2.19, p=.001, 95% CI [1.351-3.554], 
+ORgrade8=1.83, p=.014, 95% CI [1.134-2.981]); 
+School safety (ORgrade6=2.69, p=.000, 95% CI 
+[1.728-4.194], ORgrade7=1.85, p=.006, 95% CI 
+[1.199-2.871], ORgrade 8=1.92, p=.003, 95% CI 
+[1.248-2.957]). 
+ 
+Prediction of both gender and grade 
+ 
+Adding the gender factor to the model, the C 
+models (C1 to C6) showed that excepting factors 
+related to studying, all other factors were 
+significantly 
+related 
+to 
+students’ 
+anxiety. 
+However, in five models from C1 to C5, only 
+one dependent factor was a predictor of 
+independent factor. Model C1 revealed that 
+gender was a predictor factor for anxiety 
+(OR=.551, p = .018, 95% CI [.336-.903]. This 
+seemed to be consistent across all grades. 
+ 
+
+===
+PAGE 6:
+PSYCHOLOGY AND EDUCATION (2021) 58(1): 883-894                              ISSN: 0033-3077 
+ 
+ 
+ 
+www/psychologyandeducation.net 
+888 
+ 
+ 
+After controlling sex, finding indicated that 
+grade statistically significantly predicted anxiety 
+in scores and exams, relationship with friends in 
+class, communication with teachers, school/class 
+facilities, school safety, factors related to 
+studying. Specifically, the Odds of having 
+anxiety caused by those factors for students in 
+grades 6,7,8 were about 2-3 times higher than 
+that of grade 9. 
+The predictive role of gender and grade was 
+controlled by other factors in multiple binary 
+regression models (C models) that were 
+consistent with its role in the models with the 
+single independent variable (A and B models). 
+
+===
+PAGE 7:
+PSYCHOLOGY AND EDUCATION (2021) 58(1): 883-894                              ISSN: 0033-3077 
+ 
+ 
+ 
+www/psychologyandeducation.net 
+889 
+ 
+ 
+Table 3. Models of prediction for school factors causing anxiety among students (Binary logistic regression) 
+ 
+Independent 
+variable 
+Dependent variables: School factors causing anxiety 
+OR [CI 95%] 
+Scores and exams 
+Relationship with friends in class 
+Communication with teachers 
+Model  A1 
+Model B1 
+Model C1 
+Model A2 
+Model B2 
+Model C2 
+Model A3 
+Model B3 
+Model C3 
+Sex 
+Male 
+.565* [.347-
+.920] 
+ 
+.551* [.336-
+.903] 
+.831 [.617-
+1.118] 
+ 
+.875 [.645-
+1.187] 
+1.144 [.852-
+1.536] 
+ 
+1.226 
+[.906-
+1.659] 
+Female 
+1 
+ 
+1 
+1 
+ 
+1 
+1 
+ 
+1 
+Grade 
+6 
+ 
+.742 
+[.385-1.43] 
+.715  
+[.369-
+1.384] 
+ 
+2.286*** 
+[1.430-
+3.655] 
+2.355*** 
+[1.468-
+3.779] 
+ 
+2.397*** 
+[1.526-
+3.766] 
+2.512*** 
+[1.593-
+3.962] 
+7 
+ 
+1.016 
+[.513-2.01] 
+.940 
+[.472-
+1.872] 
+ 
+3.125*** 
+[1.969-
+4.961] 
+3.162*** 
+[1.982-
+5.045] 
+ 
+2.455*** 
+[1.571-
+3.837] 
+2.579*** 
+[1.640-
+4.054] 
+8 
+ 
+1.382 
+[.675-2.83] 
+1.511 
+[.728-
+3.138] 
+ 
+2.203*** 
+[1.390-
+3.489] 
+2.268*** 
+[1.426-
+3.609] 
+ 
+1.731* 
+[1.109-
+2.701] 
+1.752** 
+[1.119-
+2.743] 
+9 
+ 
+1 
+1 
+ 
+1 
+1 
+ 
+1 
+1 
+Constant 
+2.45*** 
+2.13*** 
+2.48*** 
+-.321** 
+-1.150*** 
+-1.105 
+-3.91*** 
+-.930*** 
+-1.067*** 
+p 
+.020 
+.323 
+.042 
+.221 
+.000 
+.000 
+.371 
+.000 
+.000 
+Nagelkerke R2 
+.015 
+.010 
+.028 
+.003 
+.047 
+.050 
+.001 
+.037 
+.042 
+-2 Log likelihood 
+490.55 
+493.64 
+481.60 
+975.583 
+985.93 
+948.627 
+989.859 
+977.815 
+966.563 
+% 
+of 
+correct 
+Prediction 
+89.3 
+89.4 
+89.4 
+60.2 
+60.1 
+60.7 
+58.0 
+57.8 
+57.9 
+N (% of the sample) 729 (97.3) 
+734 (98.0) 
+728 (97.2) 
+727 (97.1) 
+732 (97.7) 
+726 (96.9) 
+728 (97.2) 
+733 (97.9) 
+727 (97.1) 
+ 
+Exponentiated coefficients; 95% confidence intervals in brackets 
+*p< .05, **p< .01, ***p< .001 
+
+===
+PAGE 8:
+PSYCHOLOGY AND EDUCATION (2021) 58(1): 883-894                              ISSN: 0033-3077 
+ 
+ 
+ 
+www/psychologyandeducation.net 
+890 
+ 
+ 
+ (Table continued) 
+Independent 
+variable 
+Dependent variables: School factors of anxiety  
+OR [CI 95%] 
+School/Class facilities 
+School safety 
+Factors related to subjects 
+Model A4 
+Model B4 
+Model C4 
+Model A5 
+Model B5 
+Model C5 
+Model A6 
+Model B6 
+Model C6 
+Sex 
+Male 
+1.131  
+[.833-1.537] 
+ 
+1.197 [.874-
+1.640] 
+.917 [.685-
+1.227] 
+ 
+.931 [.691-
+1.254] 
+.975 [.727-
+1.308] 
+ 
+.976 [.725-
+1.313] 
+Female 1 
+ 
+1 
+1 
+ 
+1 
+1 
+ 
+1 
+Grade 
+6 
+ 
+3.137*** 
+[1.937-
+5.083] 
+3.307*** 
+[2.031-
+5.385] 
+ 
+2.692*** 
+[1.728-
+4.194] 
+2.771*** 
+[1.774-
+4.328] 
+ 
+.888 
+[.579-
+1.363] 
+.888 [.578-
+1.364] 
+7 
+ 
+2.191*** 
+[1.351-
+3.554] 
+2.351*** 
+[1.440-
+3.837] 
+ 
+1.855** 
+[1.199-
+2.871] 
+1.914** 
+[1.232-
+2.974] 
+ 
+1.190 
+[.777-
+1.823] 
+1.205 
+[.784-
+1.853] 
+8 
+ 
+1.838* 
+[1.134-
+2.981] 
+1.911** 
+[1.173-
+3.114] 
+ 
+1.921** 
+[1.248-
+2.957] 
+1.964** 
+[1.272-
+3.032] 
+ 
+1.073 
+[.705-
+1.634] 
+ 1.113 
+[.730-
+1.697] 
+9 
+ 
+1 
+1 
+ 
+1 
+1 
+ 
+1 
+1 
+Constant 
+-.710*** 
+-1.332*** 
+-1.463*** 
+-.068*** 
+-.712*** 
+-.693*** 
+.293** 
+.240 
+.242 
+p 
+.430 
+.000 
+.000 
+.559 
+.000 
+.000 
+.862 
+.560 
+.659 
+Nagelkerke R2 
+.001 
+.044 
+.049 
+.001 
+.036 
+.039 
+.000 
+.004 
+.004 
+-2 Log likelihood 
+935.136 
+917.514 
+908.416 
+1005.182 
+991.868 
+982.338 
+993.731 
+999.003 
+990.209 
+% 
+of 
+correct 
+prediction 
+65.6 
+65.7 
+65.6 
+52.8 
+56.4 
+56.5 
+56.9 
+56.8 
+56.9 
+N (% of sample) 
+727 (97.1) 
+732 (97.7) 
+726 (96.9) 
+727 (97.1) 
+732 (97.7) 
+726 (96.9) 
+727 (97.1) 
+732 (97.7) 
+726 (96.9) 
+Exponentiated coefficients; 95% confidence intervals in brackets 
+*p< .05, **p< .01, ***p< .001 
+ 
+ 
+ 
+
+===
+PAGE 9:
+PSYCHOLOGY AND EDUCATION (2021) 58(1): 883-894                              ISSN: 0033-3077 
+ 
+ 
+ 
+www/psychologyandeducation.net 
+891 
+ 
+ 
+DISCUSSION 
+ 
+School factors of anxiety among adolescents 
+ 
+Scores and exams were the factors that caused 
+the most anxiety among adolescents. In 
+Vietnam, it is evident that scores and exams 
+cause pressure for most of the students. The 
+ultimate purpose of students at school is to pass 
+the exams with as higher marks as possible. For 
+junior students, the essential exam is the 
+graduate junior school exam, which will decide 
+which high school they are in while that for high 
+school students is the university entrance exam. 
+In big cities like Hanoi and Ho Chi Minh, there 
+is higher competition for a public school due to 
+the limited number of high-quality public 
+schools. Private schools are usually with high 
+school fee that prevents many students from 
+midle or lower income families. Therefore, 
+parents typically put pressure on their children in 
+studying and exams. A study of Dinh (2014) 
+revealed that it was not the subjects at school, 
+the stout curriculum, but the pressure from 
+family created negative emotions for adolescents 
+(including anxiety). Tran et al. (2014) và 
+Nguyen (2018) revealed that studying was the 
+core factor that created stress and anxiety among 
+adolescents. In a study conducted by Do and 
+Dinh (2020), scores played an essential meaning 
+to students. The ranking was standard for 
+students to compare themselves with other 
+students. Therefore, low scores in academics 
+meant shame to friends. Besides, students with 
+low scores usually received word violence and 
+physical 
+punishment 
+from 
+parents 
+and 
+sometimes teachers (Do & Dinh, 2020).  
+ 
+Students were always in a high pressure of study 
+harder and harder. However, the more parents 
+put pressure on their children, the higher risk 
+that students had anxiety, which negatively 
+impacted their academic performance. The 
+negative 
+correlation 
+between 
+anxiety 
+and 
+academic 
+achievement 
+was 
+confirmed 
+in 
+previous studies (Liu et al., 2018; Owens et al., 
+2008; Yousefi et al., 2010). It is necessary to 
+reduce the pressure in scores and exams for 
+adolescents in Vietnam. 
+ 
+The association between gender, grade and 
+school factors of anxiety among adolescents in 
+secondary schools (binary regression) 
+ 
+Scores and grades created more anxiety in 
+females than in males 
+ 
+In this study, factors related to scores and grades 
+created anxiety higher among female students 
+than their counterparts. Some previous studies 
+shared the same finding (Shen et al., 2015). 
+However, the reasons for this finding were not 
+appropriately explained (Liu et al., 2018). 
+Regarding 
+physical 
+development, 
+females 
+usually experienced puberty earlier than males 
+(Marceau et al., 2011; Mendle et al., 2019) and 
+were more sensitive than males. When compared 
+to boys, adolescent girls’ self-esteem tended to 
+be more influenced by poor body image, self-
+consciousness, and academic adjustment. These 
+factors may put girls at higher risk than boys 
+(Denmark et al., 2000). 
+ 
+Regarding the cultural aspect, Vietnam was 
+under the influence of Confucianism, in which 
+the role of females was limited in comparison to 
+males. Hence, females were more likely to study 
+harder to confirm their role in class and society. 
+Data showed that females were more anxious 
+than males in scores and exams. However,  the 
+data also showed that the correct prediction rates 
+of all regression models and the relative 
+amplitude of gender impact on this factor were 
+quite small. Understandably, there were many 
+other school factors that might caused the 
+anxiety among adolescents. 
+ 
+
+===
+PAGE 10:
+PSYCHOLOGY AND EDUCATION (2021) 58(1): 883-894                              ISSN: 0033-3077 
+ 
+ 
+ 
+www/psychologyandeducation.net 
+892 
+ 
+ 
+Factors related to the association with friends, 
+communication with teachers, school/class 
+facilities and school safety created higher 
+anxiety among students in grade 6,7 and 8 than 
+those in grade 9. 
+ 
+The handling of problems in relationships with 
+friends, communication with teachers and 
+school/classroom facilities, and school safety 
+among 
+adolescents 
+depended 
+heavily 
+on 
+emotional-social capacity. Students at lower 
+grades were more limited in psychological, 
+social, and emotional abilities (Tran et al., 
+2019). This might explain why students at lower 
+grades were more anxious in relationships with 
+friends, 
+communication 
+with 
+teachers, 
+school/classroom facilities, and school safety. 
+However, the correct forecasting rate of all 
+regression models and the relative amplitude of 
+the grade on the anxiety factors were quite small. 
+Perhaps, individual psychological factors or 
+familial factors might have a more substantial 
+impact on adolescents than school factors that 
+caused anxiety for adolescents. 
+ 
+Limitations 
+ 
+The study has several limitations. First, the 
+primary evidence defects arise from the 
+sampling process used. The random selection of 
+participants alleviates this concern significantly 
+but does not entirely remedy that shortcoming. 
+Second, this is a cross-sectional study that 
+cannot explain the causes and results associated 
+with 
+all 
+school-related 
+factors. 
+Third, 
+psychological and social factors specific to each 
+gender and class were not included in this study. 
+Fourth, participants were students in the two 
+biggest cities in Vietnam. Therefore, it can not 
+represent the adolescent samples in different 
+geographical locations in Vietnam. Future 
+studies should address these limitations.  
+ 
+CONCLUSION 
+ 
+The current research explored the anxiety of 
+secondary school students in four secondary 
+schools in Ha Noi Capital City and Ho Chi Minh 
+City, Vietnam. It is amongst the first studies 
+investigating the school factors causing anxiety 
+for secondary school students related to their 
+academic achievements in Ha Noi City and Ho 
+Chi Minh City, Vietnam, to the best of authors' 
+knowledge. According to the research results, 
+scores and exams were the most important 
+factors that cause anxiety among adolescents in 
+Vietnam. Females were more likely to be 
+anxious in scores and exams than males. 
+Relationship with friends, communication with 
+teachers, school/class facilities, and school 
+safety caused more anxiety among students in 
+lower grades. The results of this research are 
+necessary for Vietnamese educational leaders 
+and 
+teachers 
+to 
+provide 
+prevention 
+and 
+intervention programs to reduce anxiety among 
+adolescents in Vietnamese secondary schools. 
+Further research is recommended to identify the 
+underlying reasons for no gender differences in 
+self-control ability among secondary school 
+students in Northern and Southern Vietnam. It is 
+also suggested that research will be conducted 
+involving students from more different areas in 
+Vietnam so that the research results can be 
+generalized. 
+ 
+Acknowledgments 
+ 
+We would like to thank all adolescents in four 
+secondary schools in Ha Noi Capital City and 
+Ho Chi Minh City, who agreed to participate in 
+this study. We express our thanks to the support 
+of school directors, teachers, and colleagues in 
+collecting data process. We would also like to 
+thank the Vietnam Academy of Social Sciences, 
+Hanoi, Vietnam, for providing funds to this 
+study. 
+ 
+
+===
+PAGE 11:
+PSYCHOLOGY AND EDUCATION (2021) 58(1): 883-894                              ISSN: 0033-3077 
+ 
+ 
+ 
+www/psychologyandeducation.net 
+893 
+ 
+ 
+Scope of work of authors 
+D. T. H.V – Study design 
+D.T.H.V., D.T.L.H., & P.T.M.H – Data 
+collection 
+D.T.H.V., D.T.L.H., & P.T.M.H – Statistical 
+analysis 
+D.T.H.V., D.T.L.H – Data interpretation 
+D.T.H.V., D.T.L.H – Manuscript preparation 
+D.T.L.H – Literature search 
+P.T.M.H – Funds collection 
+ 
+REFERENCES 
+[1] Cobham, V. E., Hickling, A., Kimball, H., 
+Thomas, 
+H. 
+J., 
+Scott, 
+J. 
+G., 
+& 
+Middeldorp, C. M. (2019). Systematic 
+Review: 
+Anxiety 
+in 
+Children 
+and 
+Adolescents 
+With 
+Chronic 
+Medical 
+Conditions. Journal of the American 
+Academy 
+of 
+Child 
+& 
+Adolescent 
+Psychiatry.   
+[2] Corp. I. (2012). SPSS Statistics for Windows, 
+version 22.0. IBM Corp. 
+[3] Costello, E. J., Mustillo, S., Erkanli, A., 
+Keeler, G., & Angold A. (2003). 
+Prevalence 
+and 
+development 
+of 
+psychiatric disorders in childhood and 
+adolescence. Arch Gen Psychiatry, 60(3), 
+837-844.  
+[4] Denmark, F., Rabinowitz, V., Sechzer, J.  
+(2000). 
+Engendering 
+Psychology: 
+Bringing Women into Focus. Allyn & 
+Bacon. 
+[5] Dillman, D. A. (2000). Mail and Internet 
+surveys: The tailored design method. 
+John Wiley & Sons. 
+[6] Dinh, T. H. V. (2014). Negative emotions in 
+the 
+social 
+relationship 
+among 
+adolescents. Journal of Psychology, 5, 
+53-66. (Vietnamese) 
+[7] Do, T. L. H., & Dinh, T. H. V. (2020). 
+School factors created anxiety among 
+junior 
+high 
+school 
+students: 
+the 
+relationship with gender and grade. 
+Journal of Psychology, 6(255), 31-42.  
+[8] Deb, S., Chatterjee, P., & Walsh, K. (2010). 
+Anxiety among high school students in 
+India: 
+Comparisons 
+across 
+gender, 
+school type, social strata, and perceptions 
+of quality time with parents. Australian 
+Journal of Educational & Developmental 
+Psychology, 10(7), 18-31  
+[9] Essau, C. A., Leung, P. W. L., Conradt, J., 
+Cheng, H., & Wong, T. (2008). Anxiety 
+symptoms in Chinese and german 
+adolescents: their relationship with early 
+learning experiences, perfectionism, and 
+learning motivation. Depression and 
+anxiety, 25(6), 801–810  
+[10] 
+Grant, 
+D.M. 
+ 
+(2013). 
+Anxiety 
+in 
+Adolescence. 
+In 
+O’Donohue, 
+W., 
+Benuto, L., & Tolle, L. W. (Eds.), 
+Handbook 
+of 
+Adolescent 
+Health 
+Psychology (pp. 507-519). Springer. 
+[11] Jin, Y., He, L., Kang, Y., Chen, Y., Lu, W., 
+Ren, X., Song, X., Wang, L., Nie, Z., 
+Guo, D. (2014). Prevalence and Risk 
+Factors 
+of 
+Anxiety 
+Status 
+among 
+Students Aged 13-26 Years. Int. J. Clin. 
+Exp. Med, 7(3), 4420-4432. 
+[12] 
+Langelier, 
+C. 
+A. 
+(2011). 
+Mood 
+Management: A Cognitive Behavioral 
+Skills Building Program for Adolescents. 
+SAGE Publications, Inc. 
+[13] Liu, H., Shi, Y., Auden, E., & Rozelle, S. 
+(2018). 
+Anxiety 
+in 
+Rural 
+Chinese 
+Children and Adolescents: Comparisons 
+across Provinces and among Subgroups. 
+Int. J. Environ. Res. Public Health, 15, 
+2087.   
+[14] Marceau, K., Ram, N., Houts, R. M., 
+Grimm, K, J., & Susman, E. J. (2011). 
+Individual Differences in Boys’ and 
+Girls’ Timing and Tempo of Puberty: 
+Modeling Development With Nonlinear 
+Growth Models. Dev Psychol, 47(5), 
+1389-1409.  
+
+===
+PAGE 12:
+PSYCHOLOGY AND EDUCATION (2021) 58(1): 883-894                              ISSN: 0033-3077 
+ 
+ 
+ 
+www/psychologyandeducation.net 
+894 
+ 
+ 
+[15] Mardomingo, M. J. (2005). Trastornos de 
+ansiedad en el adolescente. [Anxiety 
+disorders in the adolescent.] Pediatr 
+Integral, 9(2), 125-134.  
+[16] Mendle, J., Beltz, A. M.,  & Carter, R. 
+(2019). Understanding Puberty and Its 
+Measurement: Ideas for Research in a 
+New Generation. Journal of research on 
+adolescence, 29(1), 82-95  
+[17] Nguyen, T. V. (2018). The status of anxiety 
+disorders among high school students in 
+Ho Chi Minh city-based on STAI. 
+Journal of Education, 425(6), 19-22. 
+(Vietnamese) 
+[18] Nguyen, T. T., Dedding, C., Pham, T. T., 
+Wright, P., & Bunders. J. (2013). 
+Depression, 
+anxiety, 
+and 
+suicidal 
+ideation among Vietnamese secondary 
+school students and proposed solutions: a 
+cross-sectional 
+study. 
+BMC 
+Public 
+Health, 13(5), 1195-1207. 
+[19] Nguyen, D. T,. Wright, E. P., Dedding, C., 
+Pham, T. T., & Bunders, J. (2019). Low 
+Self-Esteem and Its Association With 
+Anxiety, 
+Depression, 
+and 
+Suicidal 
+Ideation 
+in 
+Vietnamese 
+Secondary 
+School Students: A Cross-Sectional 
+Study. Front Psychiatry, 10, 689-695. 
+[20] Owens, M., Stevenson, J., Norgate, R., & 
+Hadwin, 
+J. 
+A. 
+(2008). 
+Processing 
+Efficiency Theory in Children: Working 
+Memory as a Mediator between Trait 
+Anxiety and Academic Performance. 
+Anxiety Stress Coping, 21(3), 417-430.  
+[21] Pine, D. S., Wasserman, G. A. & Workman, 
+S. B. (1999). Memory and anxiety in 
+prepubertal boys at risk for delinquency. 
+Journal of the American Academy of 
+Child Adolescent Psychiatry, 38, 1024-
+1031.  
+[22] Seligman, M. E., Walker, E. F., & 
+Rosenhan, D. L. (2001). Abnormal 
+Psychology. Norton Publisher. 
+[23] Shen, M., Gao, J., Liang, Z., Wang, Y., Du,  
+Y., &Stallones, L. (2015). Parental 
+Migration 
+Patterns 
+and 
+Risk 
+of 
+Depression and Anxiety Disorder among 
+Rural Children Aged 10-18 Years in 
+China: A Cross-Sectional Study. BMJ 
+Open 2015, 5(6), 78-92. 
+[24] Silk, J. S., Steinberg, L., & Morris, A. S. 
+(2003). Adolescents’ emotion regulation 
+in 
+daily 
+life: 
+links 
+to 
+depressive 
+symptoms and problem behavior. Child 
+development, 74(6), 1869-80. 
+[25] Spielberger, C. D., Gorsuch, R. L., & 
+Lushene, R. E. (1970). Manual for the 
+State-Trait Anxiety Inventory. Consulting 
+Psychologists Press. 
+[26] Tran, T. T. A, Dinh, T. H. V, Nguyen, P. C. 
+T., & Dau, M. L. (2019). The current 
+status 
+of 
+social-emotional 
+capacity 
+among adolescents. Vietnam Journal of 
+Educational 
+Science, 
+19, 
+110-114. 
+(Vietnamese) 
+[27] Xing, Y. (2008). The Stdy on the 
+Difference of Anxiety across Rural 
+Chinese Children. J. Nanchang Coll., 
+1(4), 119-121.  
+[28] Yousefi, F., Talib, M. A., Mansor, M. B., 
+Juhari, R. B., & Redzuan, M. (2010). The 
+Relationship between Test-Anxiety and 
+Academic Achievement among Iranian 
+Adolescents. Asian Soc. Sci., 6(3), 100-
+115. 
+
+===

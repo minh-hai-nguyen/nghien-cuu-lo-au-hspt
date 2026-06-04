@@ -1,0 +1,21 @@
+FROM python:3.11-slim
+
+WORKDIR /app
+
+# Install torch CPU-only first (smaller, faster)
+RUN pip install --no-cache-dir --root-user-action=ignore \
+    torch --index-url https://download.pytorch.org/whl/cpu
+
+# Install other dependencies
+COPY requirements.txt .
+RUN pip install --no-cache-dir --root-user-action=ignore -r requirements.txt
+
+# Pre-download model during build (not at runtime)
+# Pre-download smaller model (80MB vs 420MB, fits 512MB RAM)
+RUN python -c "from sentence_transformers import SentenceTransformer; SentenceTransformer('all-MiniLM-L6-v2')"
+
+# Copy app + data
+COPY . .
+
+EXPOSE 10000
+CMD uvicorn app:app --host 0.0.0.0 --port ${PORT:-10000}

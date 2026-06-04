@@ -1,0 +1,1197 @@
+----- VN021 page 1 -----
+©2024 The Japanese Association of Rural Medicine
+Journal of Rural Medicine
+| 279
+Original article
+Academic stress among students in Vietnam:  
+a three-year longitudinal study on the impact  
+of family, lifestyle, and academic factors
+Thao Vi Tran1, 2, Hoang Thuy Linh Nguyen3, Xuan Minh Tri Tran1, 3, Yuri Tashiro1,  
+Kaoruko Seino1, Thang Van Vo3, and Keiko Nakamura1
+1
+Department of Global Health Entrepreneurship, Division of Public Health, Tokyo Medical and Dental University, Japan
+2
+Institute for Community Health Research, Hue University of Medicine and Pharmacy, Hue University, Vietnam
+3
+Faculty of Public Health, Hue University of Medicine and Pharmacy, Hue University, Vietnam
+Abstract
+Objective: Academic stress is associated with mental health disorders, notably depression and anxiety among students. Mitigating 
+stress can decrease the incidence of mental health disorders and improve student well-being. This study explored factors influenc -
+ing academic stress among secondary school students in Vietnam.
+Materials and Methods:  A three-year longitudinal study was conducted using a self-reported questionnaire with 611 students 
+from four secondary schools in Hue City, Vietnam. Academic stress was evaluated using the Educational Stress Scale for Adoles -
+cents (ESSA). Family factors, including the number of siblings and parental educational levels; lifestyle factors, including physical 
+activity and sleep; and academic factors, including grade point average and attending extra classes were evaluated. Linear regres -
+sion models were used to analyze the associations between the ESSA scores at follow-up and family, lifestyle, and academic factors 
+at baseline.
+Results: A total of 341 students completed both the baseline and follow-up surveys and answered the questions required for this 
+analysis. The mean ESSA score of 341 students increased from 46.4 ± 7.6 (mean ± SD) to 53.5 ± 10.8, from 2018 to 2021. The mul-
+tivariate model revealed that the number of siblings, higher father’s educational attainment level, female gender, lower academic 
+scores, and attending extra classes were associated with overall academic stress. In contrast, no associations were observed be -
+tween the variables of lifestyle, parental concentration, and parental acceptance and overall academic stress.
+Conclusion: The findings highlight the impact of family factors and study workload on academic stress, emphasizing the need for 
+proper care from family and school to reduce or prevent student academic stress and provide them with a comfortable and healthy 
+learning environment.
+Key words: academic stress, Educational Stress Scale for Adolescents (ESSA), secondary school students
+(J Rural Med 2024; 19(4): 279–290)
+Introduction
+Recently, the substantial impact of academic burdens 
+on learners has been increasingly acknowledged, leading to 
+heightened societal concern. A study revealed that across 
+the Organization for Economic Co-operation and Develop -
+ment countries, 66% of students aged 15–16 years expe -
+rienced stress regarding poor grades and 59% frequently 
+worried about test-taking difficulties1). Multiple studies have 
+emphasized the correlation between academic stress and 
+the emergence of mental health issues such as depression, 
+anxiety, and suicidal tendencies. Excessive stress is recog -
+nized as a factor related to diminishing academic perfor -
+mance and increased student drop-out rates 2–5). The school 
+environment is a major stressor for children and adoles -
+cents owing to social and academic pressures, particularly 
+the intense competition for academic success 6). This stress 
+is compounded by several factors, including a demanding 
+doi: 10.2185/jrm.2024-012
+Received: March 11, 2024
+Accepted: July 5, 2024
+Correspondence: Keiko Nakamura, Department of Global Health 
+Entrepreneurship, Division of Public Health, Graduate School of 
+Medical and Dental Sciences, Tokyo Medical and Dental Univer -
+sity, 1-5-45 Yushima, Bunkyo-ku, Tokyo 113-8510, Japan
+E-mail: nakamura.ith@tmd.ac.jp
+This is an open-access article distributed under the terms of the 
+Creative Commons Attribution Non-Commercial No Derivatives 
+(by-nc-nd) License <http://creativecommons.org/
+licenses/by-nc-nd/4.0/>.
+----- VN021 page 2 -----
+Journal of Rural Medicine
+280|| doi: 10.2185/jrm.2024-012J Rural Med 2024; 19(4): 279–290 
+workload, an overwhelming volume of materials to cover, 
+and the expectation of consistent peak performance. Aca -
+demic pressure is further intensified by parental, school, 
+and peer expectations; inadequate resources for academic 
+achievement; and the influence of cultural factors 7–9). Aca-
+demic stress is characterized as the psychological state of a 
+student arising from ongoing social and self-imposed pres -
+sures within a school environment that depletes students’ 
+psychological reserves 10). Furthermore, academic stress is 
+defined as anxiety and stress stemming from schooling and 
+education11).
+Due to the potential consequences of academic stress, 
+gaining insights into the factors that can decrease the likeli -
+hood of adolescents facing academic stress is important in 
+both scholarly and clinical contexts. Academic performance 
+refers to the extent of the comprehension, proficiency, and 
+application of knowledge in a particular subject, which is 
+typically evaluated by educators through test scores on an -
+nual examinations. A significant source of stress for many 
+students stems from the intense pressure to excel in exami -
+nations, which creates a highly stressful learning environ -
+ment. The fear of achieving outcomes below expectations is 
+a prevalent concern, leading some individuals to associate 
+their self-worth with academic accomplishments. Height -
+ened stress levels can cause students to doubt their capabili -
+ties and future potential 12, 13).
+Several studies have suggested that siblings shape vari -
+ous aspects of children’s development14–16). In addition, the 
+number of siblings influences children’s academic stress. 
+Numerous studies have highlighted the influence of sib -
+ling count on children’s academic performance. A study 
+conducted in China revealed that students without siblings 
+experienced lower stress levels than those with siblings 17). 
+In contrast, a study in India indicated that adolescents with 
+fewer siblings faced heightened academic stress than those 
+with a greater number of siblings18).
+Parental expectations were ranked among the crucial 
+family factors linked to students’ educational stress 19, 20). In 
+India, approximately 66% of students reported that experi -
+encing parental pressure enhanced academic performance21). 
+Other studies have confirmed that exceedingly elevated 
+parental expectations can amplify academic stress among 
+students9, 22). Such heightened expectations often lead to ex -
+cessive parental involvement and control in their children’s 
+lives, causing students to allocate more time to their studies 
+and confront more academic stress compared to their peers. 
+The extent of parental expectations and pressure differ nota-
+bly based on parents’ educational backgrounds and mothers’ 
+occupations. The extant literature indicates that parents’ 
+educational levels influence the academic stress levels of 
+children21, 23).
+Maintaining a regular and healthy exercise regimen has 
+been shown to yield positive psychological effects, includ -
+ing stress reduction 24). A study analyzing U.S. data revealed 
+that individuals who did not engage in any physical activity 
+throughout the week were more than twice as likely to ex -
+perience anxiety and depression than those who participated 
+in at least 60 min of daily exercise 25). Moreover, adhering 
+to the regular physical activity guidelines suggested by the 
+World Health Organization has been found to be effective 
+in preventing and alleviating stress 26, 27). Data from the Na -
+tional Comorbidity Survey Adolescent Supplement indicate 
+a significant correlation between inadequate sleep patterns 
+and various adverse psychological outcomes such as anxi -
+ety, behavioral disorders, and diminished subjective men -
+tal well-being 28). Insufficient levels of physical activity and 
+sleep among young individuals suggest that they may not 
+fully experience the psychological advantages associated 
+with health-related behaviors.
+In Vietnam, societal attention to academic achievement 
+has increased. While there are various expectations of stu -
+dent academic achievements, there is concern over some of 
+the negative influences of pursuing academic achievements 
+with respect to students’ mental health. Findings from a 
+study of 1,296 secondary school students in Hanoi reported 
+that the rate of depression among students was 27%, with 
+9.5% and 4.9% of them having mild/moderate and extreme-
+ly severe depression, respectively 29). Another study of 1,161 
+secondary school students in Vietnam reported that the 
+estimates of the prevalence of anxiety and risk of depres -
+sion were 22.8% and 41.1%, respectively 30). Among these 
+students, 26.3% had seriously contemplated suicide, 12.9% 
+had formulated a suicide plan, and 3.8% had attempted 
+suicide30). Some studies in Vietnam have investigated the 
+relationship between mental health and the academic pres -
+sure that students endure 30–32). According to a 2019 study, 
+Vietnamese students considered academic scores and ex -
+aminations to be closely related to anxiety 33). The pressure 
+to achieve better academic performance could be perceived 
+not only by high school and university students but also by 
+secondary school students. This is because the latter must 
+prepare for their graduation examinations, the results of 
+which are a prerequisite for admission to high school. The 
+scores attained in this examination are used to gauge their 
+academic proficiency and determine the level of high school 
+the student can attend. Higher scores allow entrance into 
+more prestigious high schools, fostering a competitive en -
+vironment that exacerbates the stress and pressure students 
+encounter throughout their educational journey. Although 
+some studies have explored adolescent mental health in 
+Vietnam, studies on educational stress and its associated 
+risk factors for students, particularly secondary school stu -
+dents, are scarce. Therefore, this study aimed to investigate 
+the factors affecting academic stress among secondary 
+school students.
+----- VN021 page 3 -----
+Journal of Rural Medicine
+281|| doi: 10.2185/jrm.2024-012J Rural Med 2024; 19(4): 279–290 
+Materials and Methods
+Survey participants and procedures
+Data were collected from the Hue Healthy Adoles -
+cent Cohort Study, a three-year school-based cohort study 
+(2018–2021) that included students attending secondary 
+schools in urban areas of Vietnam. The cohort study was 
+approved by the Institutional Review Board of the Medical 
+Schools of Tokyo Medical and Dental University, Japan, and 
+Hue University of Medicine and Pharmacy, Vietnam. The 
+Department of Education and Training in Thua Thien Hue 
+Province, Vietnam granted permission to recruit secondary 
+school students.
+The baseline and follow-up surveys were conducted in 
+2018 and 2021, respectively. Five junior high schools from 
+among 23 public junior high schools in Hue City were select-
+ed using a multistage, stratified, cluster-random-sampling 
+design. Depending on the size of each school, 4–5 classes 
+of students in the 6th grade (11 years old) were randomly 
+selected. All students in those classes who could communi -
+cate or read and were willing to participate in the study were 
+recruited. Students who were absent on the survey day were 
+excluded. During the study period, the novel coronavirus 
+2019 (COVID-19) epidemic prevailed in Hue City. Among 
+the five schools selected, four schools completed baseline 
+and follow-up surveys. The participants in the four schools 
+were regarded as the study sample for this analysis. At the 
+four schools, prior to conducting the baseline survey, 611 
+students were invited to participate in the survey. At the 
+baseline and the follow-up surveys in 2018 and 2021, 517 
+and 479 students participated in the surveys, respectively. 
+After excluding the data that did not record the key vari -
+ables, the records of 341 students were used in the analysis. 
+The reasons for exclusion were the unavailability of the fa -
+ther’s or mother’s educational levels, which were important 
+variables for this analysis.
+The research team collected the data through face-to-
+face interviews using structured questionnaires. The pur -
+pose of the study was explained to the students on the day 
+of data collection. The students were told that the data be -
+ing collected would remain anonymous and confidential 
+and that they could stop the interview at any time. Students 
+whose parents granted permission for them to participate in 
+the study were interviewed in the survey room. The inter -
+views took approximately 20–30 min to complete.
+Measures
+Academic stress
+Academic stress was evaluated by using the Educational 
+Stress Scale for Adolescents (ESSA) questionnaire, which 
+was developed by Dunne et al 34). The final version of the 
+ESSA is a 16-item questionnaire with five domains: “pres -
+sure from study”, “worry about grades”, “despondency”, 
+“self-expectations,” and “workload”. “Pressure from study” 
+occurs from thinking about what will be needed for fur -
+ther education and jobs in the future and what parents and 
+schools expect. “Worry about grades” reflects nervousness 
+about how well one does on school tests. “Despondency” 
+means not feeling confident, being unable to concentrate 
+in class, or not being happy with how well one is doing in 
+school overall. “Self-expectation” is the stress experienced 
+when one’s learning goals are not being met. “Workload” 
+refers to stress from excessive study time, homework, and 
+tests. ESSA responses are rated on a five-point Likert scale 
+(1=strongly disagree; 5=strongly agree). The total ESSA 
+score, calculated as the total score for the 16 questions, 
+ranges from 16 to 80, with higher scores indicating greater 
+stress34). A previous study in Vietnam using ESSA indicated 
+that the scale has good internal consistency (Cronbach’s 
+α=0.83)35).
+Individual factors
+Sociodemographic family factors
+The sociodemographic data included gender (male or fe-
+male), number of siblings, and parental (father’s and moth -
+er’s) educational levels. Parental educational levels were as-
+sessed by selecting from among the five response options. 
+The responses were divided into two categories: low (less 
+than primary school, secondary school, or high school) and 
+high (college/university or postgraduate degree).
+Study-related factors
+The study-related variables included academic scores, 
+attendance of extra classes, and private tutoring. Academic 
+scores were assessed using the participants’ grade point av -
+erage. Attendance of extra classes and private tutoring was 
+reported as “yes” or “no”.
+Lifestyle factors
+Physical activity and Hours of sleep were measured us -
+ing variables in the Global School-based Student Health 
+Survey. Regarding physical activity, students were asked 
+how many days they had been physically active for at least 
+60 min per day in the last seven days. Eight response options 
+were available, ranging from zero to seven days. Physical 
+activity was categorized into less than three days and three 
+days or more 26). Participants were asked how many hours 
+of sleep they got on average. Seven response options were 
+available, ranging from 4 h or less to 10 h or more, which 
+was subsequently categorized into less than 8 h and 8 h or 
+more36).
+Perceived parental attitude
+Perceived parental attitude was measured using six 
+questions related to parents or guardians for the Protective 
+Factors Module in the Global School-based Student Health 
+----- VN021 page 4 -----
+Journal of Rural Medicine
+282|| doi: 10.2185/jrm.2024-012J Rural Med 2024; 19(4): 279–290 
+Survey. This process was accomplished by conducting a 
+principal component analysis (varimax rotation), which 
+resulted in two dimensions. Concerning the core concept 
+of parental attitude, “parental acceptance” and “parental 
+concentration” were appropriate for characterizing the two 
+dimensions of perceived parental attitude 37). Acceptance 
+indicates that parents recognize their child as a significant 
+family member, neither overly fixating on them nor neglect-
+ing them, and encourage the child to do their best. Concen -
+tration refers to parents being overly protective, limiting a 
+child’s exploration and social interactions as well as expect-
+ing children to do more than they can and achieve ambitious 
+goals38, 39).
+Data analyses
+Representative statistics (%, means, and standard de -
+viations) were calculated for the three groups: students who 
+participated in the baseline survey, students who participat -
+ed in both the baseline and follow-up surveys, and students 
+who were used in the final analysis. The differences in the 
+ESSA scores (total score, sub-total scores for the five do -
+mains, and scores for the 16 individual questions) between 
+the baseline and follow-up surveys were tested using the 
+paired sample t-test. Cronbach’s α was used to evaluate the 
+internal consistency of ESSA. Univariate and multivariate 
+linear regression analyses were performed. The associations 
+between academic stress at follow-up (dependent variables) 
+and sociodemographic, study-related, lifestyle, and per -
+ceived parental attitude variables at baseline (independent 
+variables) were evaluated. The regression coefficient betas 
+and 95% confidence intervals (CI) were calculated. In the 
+multivariate model, all independent variables were simul -
+taneously entered into the model to calculate the adjusted 
+beta coefficients. Regarding the combinations of the father’s 
+and mother’s educational attainment levels, there are four 
+different combinations. The association between students’ 
+academic stress at follow-up and combinations of parental 
+educational attainment levels at baseline was calculated. In 
+the multivariate models, gender, number of siblings, study-
+related, lifestyle, and perceived parental attitude variables 
+were used for the adjustment. Data were analyzed using 
+SPSS version 25.0, with the significance level at <0.05.
+Results
+Table 1 shows the characteristics of those who partici -
+pated in the baseline survey (Baseline group), those who 
+participated in both the baseline and follow-up surveys 
+(Follow-up group), and those who were used in the analysis 
+(Final analysis group). The distributions of variables of fam-
+ily sociodemographic, study-related, and lifestyle character-
+istics and the means of number of siblings and academic 
+scores were similar in the three groups. Regarding the fa -
+ther’s and mother’s educational levels in the final analysis 
+group, the distribution depicted 55.7% and 44.3% for low 
+and high levels of the father’s education, respectively, and 
+54.5% and 45.5% for the corresponding levels of the moth -
+er’s education.
+Table 2 shows the mean and SDs for the total score of 
+ESSA, sub-total scores for the five domains, and scores for 
+the 16 individual questions at baseline and follow-up among 
+the 341 students who completed both the baseline and fol -
+low-up surveys. The total ESSA score at baseline ranged 
+from 25 to 67, with a mean of 46.4 (SD=7.6), and was nor -
+mally distributed (skewness=0.169, kurtosis=−0.026). The 
+mean total ESSA score at follow-up was 53.5 (SD=10.8), 
+which ranged from 16 to 80 and was normally distributed 
+(skewness=−0.462, kurtosis=0.647). The scores of total 
+ESSA and all domains, except “worry about grades”, were 
+higher at follow-up than at baseline, and the differences were 
+statistically significant according to the paired sample t-test 
+(P<0.05). The increase in the mean ESSA scores at follow-
+up compared to those at baseline indicated the increase in 
+students’ academic stress levels over the three-year period. 
+Cronbach’s α for all items in ESSA was 0.88.
+Tables 3 and 4  show the results of the unadjusted and 
+adjusted linear regression analyses that examined the re -
+lationship between perceived academic stress at follow-up 
+and related factors at baseline. The number of siblings, gen -
+der, father’s educational level, academic scores, and atten -
+dance of extra classes were statistically significantly associ -
+ated with overall academic stress in the multivariate model 
+(P<0.05). Specifically, having more siblings (β=2.24, 95% 
+CI: 0.92, 3.57), having a father with higher educational at -
+tainment (β=3.20, 95% CI: 0.13, 6.27), and attending extra 
+classes (β=4.73, 95% CI: 0.41, 9.06) increased overall aca -
+demic stress. Conversely, male students compared with fe -
+male students (β=−2.85, 95% CI: −5.15, −0.54) and students 
+who had higher academic scores (β=−1.79, 95% CI: −3.02, 
+−0.56) were less likely to perceive academic stress. Vari -
+ables of lifestyles and perceived parental attitudes were not 
+associated with overall academic stress in the multivariate 
+model. In three of the five domains of academic stress, the 
+number of siblings was significantly associated with stress. 
+Students with more siblings were more likely to be stressed 
+under “pressure from study” (β=0.57, 95% CI: 0.14, 1.00), 
+“despondency” (β=0.36, 95% CI: 0.03, 0.69), and “work -
+load” (β=0.81, 95% CI: 0.45, 1.16) compared with students 
+with fewer siblings. Higher paternal education was signifi -
+cantly associated with higher levels of stress with respect 
+to “despondency” (β=0.95, 95% CI: 0.18, 1.72), and “work-
+load” (β=0.88, 95% CI: 0.05, 1.70). Students with lower 
+academic scores and those who attended extra classes were 
+more likely to be stressed by “pressure from study” and 
+“despondency”. Moreover, regarding “despondency”, stu -
+dents with at least 8 h of sleep were less likely to be stressed 
+----- VN021 page 5 -----
+Journal of Rural Medicine
+283|| doi: 10.2185/jrm.2024-012J Rural Med 2024; 19(4): 279–290 
+(β=−1.05, 95% CI: −1.95, −0.16). In the adjusted model, pa-
+rental concentration was statistically significantly associ -
+ated with increased “worry about grades” (β=0.29, 95% CI: 
+0.01, 0.57). However, in the unadjusted model, parental con-
+centration showed a significant association with overall aca-
+demic stress, “pressure from study”, “worry about grades”, 
+and “despondency”. No association was observed between 
+“self-expectation” stress and the sociodemographic, study-
+related, lifestyle, and perceived parental attitude variables.
+Table 5 shows the association between students’ aca -
+demic stress and different combinations of parental educa -
+tional attainment levels. In the univariate linear regression 
+analyses, among the four combinations, “Hi/Lo” was asso -
+ciated with the academic stress level perceived by students, 
+indicating that those with a father and mother with high and 
+low educational attainment, respectively, were more likely 
+to be stressed. In the multivariate model, an association was 
+not observed between academic stress and the four combi -
+nations of parental educational levels.
+Discussion
+This study explored the extent of academic stress among 
+secondary school students using the ESSA questionnaire 
+with a three-year follow-up as well as the factors influenc -
+ing students’ academic stress. The results of the multivari -
+able linear regression analysis indicated that female gender, 
+number of siblings, father’s educational attainment levels, 
+lower academic scores, and extra classes were significantly 
+associated with overall academic stress and all of the do -
+mains, except “self-expectation”. Furthermore, lifestyle and 
+parent–child relationship factors had weak or no associa -
+tions with overall academic stress and its five domains.
+Our results revealed a significant increase in students’ 
+academic stress levels in the three-year follow-up, which 
+can be attributed to several factors. First, the baseline survey 
+was conducted when the students were in the first grade of 
+secondary school (the sixth grade). A follow-up survey was 
+conducted three years later when the students were in the fi-
+nal grade of secondary school (the ninth grade). As students 
+Table 1 Family sociodemographic, study-related, and lifestyle characteristics of participants
+Characteristics
+Baseline group  
+n=517 
+n (%)
+Follow-up group 
+n=479 
+n (%)
+Final analysis group  
+n=341  
+n (%)
+Gender
+Male 269 (52.0) 252 (52.6) 164 (48.1)
+Female 248 (48.0) 227 (47.4) 177 (51.9)
+Father’s educational level
+Low 245 (47.4) 231 (48.2) 190 (55.7)
+High 189 (36.5) 175 (36.5) 151 (44.3)
+Missing 83 (16.1) 73 (15.2)
+Mother’s educational level
+Low 237 (45.8) 225 (47.1) 186 (54.5)
+High 199 (38.5) 183 (38.2) 155 (45.5)
+Missing 81 (15.7) 71 (14.8)
+Attend extra classes
+Yes 471 (91.1) 438 (91.4) 314 (92.1)
+No 46 (8.9) 41 (8.6) 27 (7.9)
+Private tutoring
+Yes 99 (19.1) 91 (19.0) 64 (18.8)
+No 418 (80.9) 388 (81.0) 277 (81.2)
+Physical activity
+Less than 3 days 313 (60.6) 288 (60.2) 209 (61.3)
+3 days or more 204 (39.4) 191 (39.8) 132 (38.7)
+Hours of sleep
+Less than 8 64 (12.4) 60 (12.5) 40 (11.7)
+8 or more 453 (87.6) 419 (87.5) 301 (88.3)
+Number of siblings, mean ± SD 1.51 ± 0.95 1.49 ± 0.92 1.43 ± 0.89
+Academic scores, mean ± SD 7.40 ± 1.06 7.43 ± 1.04 7.61 ± 0.95
+Baseline group: those who participated in the baseline survey, Follow-up group: those who participated in 
+both the baseline and follow-up surveys, Final analysis group: those who were used in the final analysis. SD: 
+standard deviation.
+----- VN021 page 6 -----
+Journal of Rural Medicine
+284|| doi: 10.2185/jrm.2024-012J Rural Med 2024; 19(4): 279–290 
+advance to the final grade of secondary school, they encoun-
+ter heightened pressure compounded by an overwhelming 
+workload. Moreover, in the educational context in Vietnam, 
+the stress associated with preparing for transfer examina -
+tions is particularly intense. Considering that this exami -
+nation is important in shaping their future academic lives, 
+students are seriously concerned about it and feel pressured. 
+This situation may lead to anxiety, fear of inadequacy, and 
+a lack of confidence, thereby amplifying students’ concerns 
+and pressures. In addition, preparing for important exami -
+nations prompts parents to enroll their children in supple -
+mentary classes, depriving them of their time for rest. Our 
+findings revealed that attending extra classes was correlated 
+with an increased level of student academic stress.
+Another factor that requires attention is the timing of the 
+follow-up survey, which was conducted in 2021 during the 
+COVID-19 pandemic when restrictions on daily life were 
+significant in Vietnam. Some studies have highlighted the 
+psychological challenges that students faced in their aca -
+demic activities during the pandemic 40, 41), with quarantine 
+measures, lockdowns, and the shift to online learning pos -
+ing new challenges for students that may have increased 
+their stress levels42).
+Male students exhibited lower levels of academic stress 
+than female students, which aligns with similar observa -
+tions in a study conducted in Greece among adolescents 
+that reported that female students experienced higher aca -
+demic stress than their male counterparts 43). Male students 
+Table 2 Means and standard deviations of the Educational Stress Scale for Adolescents (ESSA) scores: the total score, sub-total scores for five in -
+dividual domains, and scores for the 16 individual questions (n=341)
+Baseline Follow-up
+P
+Mean SD 95% CI Mean SD 95% CI
+Total ESSA 46.4 7.6 (45.6, 47.2) 53.5 10.8 (52.3, 54.6) <0.001
+Pressure from study 10.1 2.8 (9.7, 10.4) 12.7 3.4 (12.3, 13.0) <0.001
+4. Future education and employment bring me a lot of academic pressure 2.5 1.1 (2.4, 2.6) 3.6 1.1 (3.5, 3.7) <0.001
+5. My parents care about my academic grades too much, which brings me a lot 
+of pressure
+2.8 1.2 (2.7, 2.9) 3.0 1.2 (2.9, 3.1) 0.029
+6. I feel a lot of pressure in my daily studying 2.5 1.0 (2.4, 2.6) 3.2 1.2 (3.1, 3.4) <0.001
+11. There is too much competition among classmates which brings me a lot of 
+academic pressure
+2.3 1.0 (2.2, 2.4) 2.8 1.1 (2.7, 2.9) <0.001
+Worry about grades 11.5 2.2 (11.3, 11.8) 11.1 2.6 (10.8, 11.4) 0.008
+8. Academic grades are very important to my future and even can determine 
+my whole life
+4.2 1.0 (4.1, 4.3) 4.0 1.1 (3.9, 4.2) 0.060
+9. I feel that I have disappointed my parents when my test/exam results are 
+poor
+3.8 1.1 (3.7, 3.9) 3.7 1.1 (3.6, 3.8) 0.078
+10. I feel that I have disappointed my teacher when my test/exam results are 
+not ideal
+3.5 1.1 (3.4, 3.6) 3.4 1.1 (3.2, 3.5) 0.026
+Despondency 8.0 2.4 (7.7, 8.2) 9.6 2.8 (9.3, 9.9) <0.001
+1. I am very dissatisfied with my academic grades 2.9 1.3 (2.8, 3.0) 3.2 1.2 (3.1, 3.3) <0.001
+12. I always lack confidence in my academic scores 2.8 1.1 (2.7, 2.9) 3.3 1.1 (3.2, 3.4) <0.001
+13. It is very difficult to concentrate during class 2.3 0.9 (2.2, 2.4) 3.2 1.2 (3.0, 3.3) <0.001
+Self−expectation 8.8 2.5 (8.6, 9.1) 10.3 2.9 (10.0, 10.6) <0.001
+14. I feel stressed when I do not live up to my own standards 3.1 1.1 (3.0, 3.2) 3.7 1.1 (3.6, 3.8) <0.001
+15. When I fail to live up my own expectations, I feel that I am not good 
+enough
+3.1 1.2 (3.0, 3.2) 3.5 1.2 (3.4, 3.6) <0.001
+16. I usually cannot sleep because of worry when I cannot meet the goals that 
+I set for myself
+2.6 1.2 (2.5, 2.8) 3.1 1.2 (3.0, 3.2) <0.001
+Workload 8.1 2.4 (7.8, 8.3) 9.8 2.9 (9.5, 10.1) <0.001
+2. I feel that there is too much schoolwork 2.8 1.1 (2.7, 2.9) 3.3 1.1 (3.2, 3.4) <0.001
+3. I feel there is too much homework 2.3 0.9 (2.2, 2.4) 3.2 1.1 (3.1, 3.3) <0.001
+7. I feel that there are too many tests/exams in school 3.0 1.2 (2.8, 3.1) 3.3 1.1 (3.1, 3.4) <0.001
+SD: standard deviation; p: p for paired-sample t-test, 95% CI: 95% confidence interval for mean.
+----- VN021 page 7 -----
+Journal of Rural Medicine
+285|| doi: 10.2185/jrm.2024-012J Rural Med 2024; 19(4): 279–290 
+also reported less stress related to “worry about grades” and 
+“workload”. A study conducted in the United States showed 
+similar results, with female students reporting higher stress 
+levels than their male counterparts44). This gender-based dif-
+ference in perception of stress may be related to the observa-
+tion that women often place greater importance on academ -
+ic performance. Adolescent girls tend to be more concerned 
+about various aspects of life and report experiencing more 
+stressful events than boys 45).
+In our study, students with more siblings showed greater 
+overall academic stress and higher stress in the “pressure 
+from study” and “workload” domains. This result may be 
+explained by a tendency to compare one’s academic ac -
+complishments with their siblings. Study-related pressure 
+in students was partially associated with parent and school 
+expectations. The perception that parents may favor chil -
+dren with better academic achievement could have created a 
+competitive atmosphere among siblings to gain recognition 
+from parents, potentially resulting in heightened stress in 
+their studies 46, 47). However, a previous study found that the 
+number of siblings negatively predicted educational stress18). 
+In contrast, another study reported that adolescents with 
+more siblings display higher levels of self-confidence than 
+those with fewer siblings, which may reduce stress 48).
+Students who have fathers with higher educational at -
+tainment showed higher academic stress levels and higher 
+stress levels in terms of “despondency” and “workload”. A 
+study conducted in India indicated that adolescent girls with 
+illiterate fathers exhibited elevated stress levels compared 
+to those with literate fathers 18). These findings align with 
+the results observed in the United States, which showed 
+that adolescents from families with lower parental educa -
+tional levels exhibited higher stress than their counterparts 
+of more educated families. Such a relationship potentially 
+contributes to heightened stress levels in adolescents 49). An-
+other study reported the opposite result; participants whose 
+fathers were non-graduates were more likely to report aca -
+demic stress 21). In our study, no significant association was 
+Table 3 Univariate associations between perceived academic stress at follow-up and family sociodemographic, study-related, lifestyle, and per -
+ceived parental attitude variables at baseline, univariate linear regression analysis (n=341)
+Baseline characteristics
+Overall aca-
+demic stress
+Pressure from 
+study
+Worry about 
+grades
+Despondency Self-expectation Workload
+β 
+(95% CI)
+β 
+(95% CI)
+β 
+(95% CI)
+β 
+(95% CI)
+β 
+(95% CI)
+β 
+(95% CI)
+Sociodemographic
+Gender (male) −2.43 
+(−4.73, −0.13)*
+−0.20 
+(−0.93, 0.54)
+−0.62 
+(−1.16, −0.08)*
+−0.26 
+(−0.86, 0.34)
+−0.59 
+(−1.20, 0.02)
+−0.77 
+(−1.38, −0.15)*
+Number of siblings 1.60 
+(0.30, 2.90)*
+0.42 
+(0.01, 0.84)*
+0.06 
+(−0.25, 0.37)
+0.25 
+(−0.09, 0.59)
+0.24 
+(−0.11, 0.59)
+0.63 
+(0.29, 0.98)***
+Father’s educational level (high) 1.93 
+(−0.39, 4.25)
+0.30 
+(−0.44, 1.03)
+0.36 
+(−0.18, 0.91)
+0.45 
+(−0.15, 1.05)
+0.38 
+(−0.24, 1.00)
+0.44 
+(−0.18, 1.06)
+Mother’s educational level (high) 0.47 
+(−1.85, 2.79)
+0.28 
+(−0.46, 1.01)
+−0.09 
+(−0.64, 0.45)
+0.01 
+(−0.60, 0.61)
+0.30 
+(−0.32, 0.91)
+−0.01 
+(−0.63, 0.61)
+Study-related
+Academic scores −1.45 
+(−2.66, −0.24)*
+−0.41 
+(−0.80, −0.03)*
+−0.17 
+(−0.45, 0.12)
+−0.88 
+(−1.18, −0.58)***
+−0.10 
+(−0.42, 0.23)
+0.11 
+(−0.21, 0.44)
+Attend extra classes (yes) 3.09 
+(−1.18, 7.36)
+1.20 
+(−0.15, 2.55)
+0.49 
+(−0.52, 1.49)
+0.58 
+(−0.53, 1.68)
+0.20 
+(−0.94, 1.34)
+0.63 
+(−0.51, 1.77)
+Private tutoring (yes) −0.02 
+(−2.98, 2.94)
+0.28 
+(−0.66, 1.22)
+−0.17 
+(−0.87, 0.53)
+−0.14 
+(−0.90, 0.63)
+−0.11 
+(−0.90, 0.68)
+0.11 
+(−0.68, 0.90)
+Lifestyle
+Physical activity (3 days or more) −0.40 
+(−2.77, 1.98)
+0.18 
+(−0.57, 0.93)
+−0.25 
+(−0.81, 0.31)
+−0.08 
+(−0.70, 0.53)
+−0.16 
+(−0.79, 0.47)
+−0.08 
+(−0.72, 0.55)
+Hours of sleep (8 and more) −3.44 
+(−7.01, 0.14)
+−0.92 
+(−2.06, 0.21)
+−0.40 
+(−1.24, 0.45)
+−1.26 
+(−2.18, −0.34)**
+−0.42 
+(−1.37, 0.54)
+−0.45 
+(−1.41, 0.51)
+Perceived parental attitude
+Parental acceptance 0.27 
+(−0.89, 1.43)
+−0.11 
+(−0.48, 0.26)
+0.10 
+(−0.18, 0.37)
+0.07 
+(−0.23, 0.37)
+0.01 
+(−0.30, 0.32)
+0.21 
+(−0.10, 0.52)
+Parental concentration 1.26 
+(0.11, 2.41)*
+0.37 
+(0.00, 0.73)*
+0.29 
+(0.02, 0.56)*
+0.32 
+(0.02, 0.62)*
+0.23 
+(−0.08, 0.53)
+0.06 
+(−0.25, 0.37)
+β: beta coefficient; CI: confidence interval; *P<0.05, ** P<0.01, *** P<0.001.
+----- VN021 page 8 -----
+Journal of Rural Medicine
+286|| doi: 10.2185/jrm.2024-012J Rural Med 2024; 19(4): 279–290 
+observed between the mother’s educational level and aca -
+demic stress in children. One hypothesis is that nurturing 
+and compassionate nature are generally associated with ma -
+ternal caregiving. Mothers often prioritize their child’s well-
+being and may not impose excessive expectations50). A study 
+in China reported that fathers traditionally serve as the pri -
+mary breadwinners and place a greater emphasis on familial 
+reputation, leading to higher expectations and pressure on 
+their children 51). This difference between fathers and moth -
+ers would explain why a father’s educational attainment lev-
+els impact children’s stress levels while that of mothers does 
+not. A crude association observed between a combination of 
+a father with high educational attainment and a mother with 
+low education attainment and greater stress among children 
+suggests interesting phenomena reflecting the roles of father 
+and mother in the families in Vietnamese context. However, 
+this association was weak and disappeared when adjusted 
+using other variables. Further studies should address the re -
+lationship between father’s and mother’s education and per-
+ceived stress among students.
+Academic scores and attending extra classes were asso -
+ciated with the overall academic stress score. Our findings 
+align with those in the literature, according to which stu -
+dents with low average scores experience higher levels of 
+overall academic stress 43). Regarding attending extra class -
+es, our research revealed that students who engaged in such 
+classes exhibited higher levels of stress. This finding is in 
+line with those reported in the literature 43, 45). Students who 
+attended private, individual, or extracurricular classes after 
+school, on weekends, and during holidays reported experi -
+encing stress and pressure. Similarly, a study conducted in 
+India indicated that extra classes contributed significantly to 
+stress and tension among both students and teachers 52). The 
+demands of early morning and late evening attendance led to 
+Table 4 Multivariate associations between perceived academic stress at follow-up and family sociodemographic, study-related, lifestyle, and per-
+ceived parental attitude variables at baseline, multivariate linear regression analysis (n=341)
+Baseline characteristics
+Overall Aca-
+demic stress
+Pressure from 
+study
+Worry about 
+grades
+Despondency Self−expecta-
+tion
+Workload
+β 
+(95% CI)
+β 
+(95% CI)
+β 
+(95% CI)
+β 
+(95% CI)
+β 
+(95% CI)
+β 
+(95% CI)
+Sociodemographic
+Gender (male) −2.85 
+(−5.15, −0.54)*
+−0.40 
+(−1.15, 0.35)
+−0.64 
+(−1.20, −0.08)*
+−0.42 
+(−1.00, 0.15)
+−0.63 
+(−1.27, 0.01)
+−0.76 
+(−1.38, −0.14)*
+Number of siblings 2.24 
+(0.92, 3.57)**
+0.57 
+(0.14, 1.00)*
+0.16 
+(−0.16, 0.48)
+0.36 
+(0.03, 0.69)*
+0.35 
+(−0.02, 0.71)
+0.81 
+(0.45, 1.16)***
+Father’s educational level (high) 3.20 
+(0.13, 6.27)*
+0.28 
+(−0.71, 1.27)
+0.74 
+(0.01, 1.48)*
+0.95 
+(0.18, 1.72)*
+0.35 
+(−0.49, 1.20)
+0.88 
+(0.05, 1.70)*
+Mother’s educational level (high) −1.11 
+(−4.10, 1.88)
+0.16 
+(−0.81, 1.13)
+−0.56 
+(−1.28, 0.16)
+−0.42 
+(−1.17, 0.33)
+0.15 
+(−0.68, 0.97)
+−0.44 
+(−1.25, 0.36)
+Study−related
+Academic scores −1.79 
+(−3.02, −0.56)**
+−0.45 
+(−0.84, −0.05)*
+−0.24 
+(−0.54, 0.06)
+−0.99 
+(−1.30, −0.69)***
+−0.14 
+(−0.48, 0.20)
+0.35 
+(−0.30, 0.37)
+Attend extra classes (yes) 4.73 
+(0.41, 9.06)*
+1.68 
+(0.28, 3.08)*
+0.63 
+(−0.42, 1.67)
+1.10 
+(0.02, 2.18)*
+0.32 
+(−0.87, 1.52)
+1.01 
+(−0.15, 2.17)
+Private tutoring (yes) −0.15 
+(−3.16, 2.85)
+0.30 
+(−0.67, 1.27)
+−0.15 
+(−0.87, 0.58)
+−0.30 
+(−1.05, 0.46)
+−0.20 
+(−1.03, 0.63)
+0.19 
+(−0.62, 1.00)
+Lifestyle
+Physical activity (3 days or more) −0.45 
+(−2.81, 1.92)
+0.13 
+(−0.64, 0.90)
+−0.24 
+(−0.81, 0.33)
+−0.28 
+(−0.87, 0.32)
+−0.09 
+(−0.75, 0.56)
+0.03 
+(−0.60, 0.67)
+Hours of sleep (8 and more) −2.49 
+(−6.05, 1.08)
+−0.69 
+(−1.84, 0.46)
+−0.15 
+(−1.01, 0.71)
+−1.05 
+(−1.95, −0.16)*
+−0.28 
+(−1.26, 0.71)
+−0.31 
+(−1.27, 0.64)
+Perceived parental attitude
+Parental acceptance 0.63 
+(−0.51, 1.76)
+−0.02 
+(−0.39, 0.35)
+0.13 
+(−1.15, 0.40)
+0.18  
+(−0.10, 0.47)
+0.05 
+(−0.26, 0.36)
+0.29 
+(−0.13, 0.60)
+Parental concentration 1.12 
+(−0.04, 2.28)
+−0.02 
+(−0.07, 0.68)
+0.29 
+(0.01, 0.57)*
+0.18 
+(−0.11, 0.47)
+0.23 
+(−0.09, 0.55)
+1.23 
+(−0.19, 0.43)
+β: beta coefficient; CI: confidence interval. * P<0.05, ** P<0.01, *** P<0.001. All sociodemographic variables, study-related variables, lifestyle 
+variables, and perceived parental attitude variables were simultaneously entered into the model and β coefficients were calculated after the adjust -
+ment of all other variables.
+----- VN021 page 9 -----
+Journal of Rural Medicine
+287|| doi: 10.2185/jrm.2024-012J Rural Med 2024; 19(4): 279–290 
+various problems such as teacher resignations and students 
+feeling overwhelmed by the increased workload 52). Lower 
+academic scores and attending extra classes were associ -
+ated with greater stress levels from “pressure from study” 
+and “despondency”, which is in line with the existing lit -
+erature43, 45). This is understandable as students who achieve 
+higher scores experience less anxiety regarding their aca -
+demic performance, leading to increased confidence in their 
+future education. In addition, high- (low-) scoring students 
+tend to have greater (lower) self-confidence53, 54).
+Our results showed no association between lifestyle 
+factors, including hours of sleep and physical activity, and 
+overall academic stress as well as most of the domains, ex -
+cept for the relationship between hours of sleep and “de -
+spondency”. Although there was no association between 
+physical activity and academic stress, several studies have 
+yielded contrasting findings, showing that students who 
+participated in some form of physical exercise experienced 
+less stress. Some studies have reported that physical activity 
+plays a significant role in reducing the stress associated with 
+school and various manifestations of youth development43, 55). 
+“Despondency” encompasses issues of concentration dur -
+ing class. The impact of hours of sleep on “despondency” is 
+interpreted by the fact that students who get sufficient sleep 
+tend to be more alert, leading to greater concentration 56, 57).
+Parental concentration showed a significant association 
+with “worry about grades”, whereas parental acceptance 
+was not significantly associated with overall academic 
+stress or its five domains. Although no association was 
+found between parental concentration and overall academ -
+ic stress in the multivariate model, parental concentration 
+was significantly associated with academic stress in the 
+univariate model, indicating that students’ academic stress 
+was partly influenced by their parents’ expectations and 
+overprotective attitudes. A previous study showed that the 
+primary cause of academic stress, as indicated by 66% of 
+students, was pressure from parents to improve academic 
+performance21). Another study in Hong Kong revealed that 
+parental expectations contributed to an increase in students’ 
+depression levels22). Parents in Asia may exert this pressure 
+out of concern for their children’s well-being and awareness 
+of the competitive nature of gaining admission to reputable 
+institutions. Expectations and overprotection are perceived 
+as expressions of love and support. However, parental focus 
+on appearance or achievements may negatively impact chil -
+dren’s stress levels58). Consequently, students with overbear-
+ing parents often have limited time for relaxation, play, and 
+casual interactions with neighbors and are sleep deprived. 
+This leads to heightened anxiety, particularly when facing 
+intense pressure from examinations.
+To the best of our knowledge, this was the first longi -
+tudinal study on academic stress and its associated fac -
+tors among Vietnamese subjects to focus on middle school 
+students. The study design allowed us to analyze how the 
+scores changed over time and make interpretations about 
+causal relationships. Nevertheless, this study has several 
+limitations. First, the timing of the follow-up survey was 
+amid the COVID-19 pandemic, which made it difficult to 
+complete follow-up surveys of the participants at the base -
+line survey. Second, information was collected using self-
+reported measurements. Self-reported measures could be 
+biased as participants may have answered questions in a 
+socially desirable manner. Third, the study excluded out-of-
+school adolescents and students enrolled in private schools. 
+Therefore, the results are generalizable only for those at -
+tending public schools in Vietnam. Fourth, other potential 
+factors that might influence academic stress were not evalu-
+ated. Future studies should consider the impacts of being 
+raised by a single parent, the economic status of the house -
+holds, and communications with friends, which are poten -
+tial factors that relate to students’ academic stress. Studies 
+with larger sample sizes are also needed.
+Table 5 Linear regression model of the association between academic stress and parental 
+educational attainment levels
+Combination of 
+educational attainment 
+levels of father/mother
+Overall Academic stress
+Univariate model  
+β (95% CI)
+Multivariate model  
+β (95% CI)
+Hi/Hi 0.67 (−1.74, 3.07) −4.87 (−10.91, 1.17)
+Lo/Lo −1.77 (−4.08, 0.54) −4.87 (−10.91, 1.17)
+Hi/Lo 4.43 (0.17, 8.69)* 4.87 (−1.17, 10.91)
+Lo/Hi −0.45 (−4.47, 3.57) 4.87 (−1.17, 10.91)
+Hi/Hi: both parents’ educational levels are high. Lo/Lo: both parents’ educational levels are 
+low. Hi/Lo: The father’s educational level is high and the mother’s educational level is low.
+Lo/Hi: The father’s educational level is low and the mother’s educational level is high. 
+The multivariate model was adjusted for each combination and gender, number of siblings, 
+study-related, lifestyle, and perceived parental attitude variables; *P<0.05.
+----- VN021 page 10 -----
+Journal of Rural Medicine
+288|| doi: 10.2185/jrm.2024-012J Rural Med 2024; 19(4): 279–290 
+Conclusion
+This cohort study contributes to understanding the sta -
+tus and association between academic stress and various 
+factors among students. The results showed that academic 
+stress among students increased over the three-year study 
+period, implying that students faced stress-related academic 
+issues in their final secondary school grades. Furthermore, 
+our findings underscore the impact of family factors and 
+workload on academic stress. Training and support pro -
+grams in schools and urging parents to be attentive to their 
+children are essential. Both teachers and parents could ben -
+efit from training to enhance their understanding of their 
+children and develop effective time management for their 
+children’s education. This would help reduce or prevent aca-
+demic stress among students.
+Conflicts of interest:  The authors declare that the re -
+search was conducted in the absence of any commercial or 
+financial relationships that could be construed as a potential 
+conflict of interest.
+Funding: This work was partly supported by the Japa -
+nese Society for Promotion of Science Grant (17H02164).
+Ethics approval and consent to participate: The Insti-
+tutional Review Board of the Medical School of Tokyo Med-
+ical and Dental University, Japan, and the Hue University of 
+Medicine and Pharmacy, Hue University, Vietnam approved 
+this study. Secondary school students were recruited from 
+the Department of Education and Training in Thua Thien 
+Hue Province, Vietnam. All subjects enrolled in the study 
+agreed to cooperate with the investigators after the purpose 
+of the research was explained, and written informed con -
+sent and assent were obtained from the parents/guardians 
+and study participants.
+Consent for publication:  All authors have provided 
+their consent for the publication of the paper in the Journal 
+of Rural Medicine.
+Data availability statement:  The generated dataset is 
+available upon request to the corresponding author at the 
+contact address in this article.
+Author’s contributions: HTLN, KN, and KS designed 
+the study, and HTLN, KS, VTT, and KN contributed to 
+performing the surveys and compiling a database. TVT, 
+XMTT, HTLN, KS, and KN conceptualized the analysis. 
+TVT, XMTT, and YT performed statistical analysis and 
+TVT, HTLN, XMTT, YT, KS, and KN interpreted the data. 
+TVT and XMTT drafted the manuscript. TVT, HTLN, 
+XMTT, YT, KS, TVV, and KN reviewed the draft and ap -
+proved the final manuscript.
+Acknowledgments
+The authors appreciate the efforts of Prof. Nguyen Vu 
+Quoc Huy and the Faculty of Public Health and the Hue Uni-
+versity of Medicine and Pharmacy team for logistical sup -
+port in collecting the data. We also thank the Department of 
+Education and Training in Thua Thien Hue Province, Viet -
+nam for granting permission for their schools to participate, 
+the schools and teachers who kindly agreed to administer 
+the survey, and all students who generously completed the 
+questionnaire.
+References
+ 1. Ribeiro ÍJS, Pereira R, Freire IV , et al. Stress and quality of life among university students: a systematic literature review. Health Prof Educ 2018; 4: 70–77.
+ 2. Deng Y , Cherian J, Khan NUN, et al. Family and academic stress and their impact on students’ depression level and academic performance. Front Psychia-
+try 2022; 13: 869337. [Medline]  [CrossRef]
+ 3. Kumaraswamy I. Academic stress, anxiety and depression among college students—a brief review. Int Review Soc Sci Humanitie 2013: 135–143.
+ 4. Pascoe MC, Hetrick SE, Parker AG. The impact of stress on students in secondary school and higher education. Int J Adolesc Youth 2020; 25: 104–112.  
+[CrossRef]
+ 5. Jiménez-Mijangos LP, Rodríguez-Arce J, Martínez-Méndez R, et al. Advances and challenges in the detection of academic stress and anxiety in the class-
+room: a literature review and recommendations. Educ Inf Technol 2023; 28: 3637–3666. [Medline]  [CrossRef]
+ 6. Klinger DA, Freeman JG, Bilz L, et al. Cross-national trends in perceived school pressure by gender and age from 1994 to 2010. Eur J Public Health 2015; 
+25(Suppl 2): 51–56. [Medline]  [CrossRef]
+ 7. UNESCO. International standard classification of education ISCED 2011. https://uis.unesco.org/sites/default/files/documents/international-standard-clas-
+sification-of-education-isced-2011-en.pdf. Published 2011. Accessed November 16, 2023.
+ 8. Chraif M. Correlative study between academic satisfaction, workload and level of academic stress at 3rd grade students at psychology. Procedia Soc Behav 
+Sci 2015; 203: 419–424.  [CrossRef]
+ 9. Kim Y , Kwak K, Lee S. Does optimism moderate parental achievement pressure and academic stress in Korean children? Curr Psychol 2016; 35: 39–43.  
+[CrossRef]
+ 10. Neseliler S, Tannenbaum B, Zacchia M, et al. Academic stress and personality interact to increase the neural response to high-calorie food cues. Appetite 
+2017; 116: 306–314. [Medline]  [CrossRef]
+----- VN021 page 11 -----
+Journal of Rural Medicine
+289|| doi: 10.2185/jrm.2024-012J Rural Med 2024; 19(4): 279–290 
+ 11. Prabu PS. A study on academic stress among higher secondary students. Int J Soc Sci Humanities Invention 2015; 4.
+ 12. Sansgiry SS, Sail K. Effect of students’ perceptions of course load on test anxiety. Am J Pharm Educ 2006; 70: 26. [Medline]  [CrossRef]
+ 13. Bedewy D, Gabriel A. Examining perceptions of academic stress and its sources among university students: the perception of academic stress scale. Health 
+Psychol Open 2015; 2: 2055102915596714. [Medline]  [CrossRef]
+ 14. McHale SM, Updegraff KA, Whiteman SD. Sibling relationships and influences in childhood and adolescence. J Marriage Fam 2012; 74: 913–930. [Med-
+line]  [CrossRef]
+ 15. Howe N, Recchia H. Sibling relationships as a context for learning and development. Early Educ Dev 2014; 25: 155–159.  [CrossRef]
+ 16. Dirks MA, Persram R, Recchia HE, et al. Sibling relationships as sources of risk and resilience in the development and maintenance of internalizing and 
+externalizing problems during childhood and adolescence. Clin Psychol Rev 2015; 42: 145–155. [Medline]  [CrossRef]
+ 17. Chu JJ, Khan MH, Jahn HJ, et al. Only-child status in relation to perceived stress and studying-related life satisfaction among university students in China: 
+a comparison with international students. PLoS One 2015; 10: e0144947. [Medline]  [CrossRef]
+ 18. Rentala S, Nayak RB, Patil SD, et al. Academic stress among Indian adolescent girls. J J Edu Health Promotion 2019.  [CrossRef]
+ 19. Talha MA, Qi X, Rizwan M. Cultural impact of perceived parental expectations on students’ academic stress. Annals Soc Sci Perspective 2020; 1: 53–65.  
+[CrossRef]
+ 20. Tan JB, Yates S. Academic expectations as sources of stress in Asian students. Soc Psychol Educ 2011; 14: 389–407.  [CrossRef]
+ 21. Deb S, Strodl E, Sun J. Academic stress, parental pressure, anxiety and mental health among Indian high school students. Int J Psychol Behav Sci 2015; 5: 
+26–34.
+ 22. Ma Y , Siu A, Tse WS. The role of high parental expectations in adolescents’ academic performance and depression in Hong Kong. J Fam Issues 2018; 39: 
+2505–2522.  [CrossRef]
+ 23. Kapali GD, Neupane S, Panta G. A study on academic stress, parent adolescent relationship with parents and academic achievement of adolescent students. 
+J Health Allied Sci 2019; 9: 70–74.  [CrossRef]
+ 24. Monserrat-Hernández M, Checa-Olmos JC, Arjona-Garrido Á, et al. Academic stress in university students: the role of physical exercise and nutrition. 
+Healthcare (Basel) 2023; 11: 2401. [Medline]  [CrossRef]
+ 25. Zhu X, Haegele JA, Healy S. Movement and mental health: behavioral correlates of anxiety and depression among children of 6–17 years old in the U.S. 
+Ment Health Phys Act 2019; 16: 60–65.  [CrossRef]
+ 26. Bull FC, Al-Ansari SS, Biddle S, et al. World Health Organization 2020 guidelines on physical activity and sedentary behaviour. Br J Sports Med 2020; 54: 
+1451–1462. [Medline]  [CrossRef]
+ 27. Schultchen D, Reichenberger J, Mittl T, et al. Bidirectional relationship of stress and affect with physical activity and healthy eating. Br J Health Psychol 
+2019; 24: 315–333. [Medline]  [CrossRef]
+ 28. Zhang J, Paksarian D, Lamers F, et al. Sleep patterns and mental health correlates in US adolescents. J Pediatr 2017; 182: 137–143. [Medline]  [CrossRef]
+ 29. Khanh NĐ, Thi LM, Vinh NA. Situation of depression in secondary students at Hanoi city in 2021. Tạp chí Y học Việt Nam 2023; 526(1A) (in Vietnamese, 
+Abstract in English).
+ 30. Nguyen DT, Dedding C, Pham TT, et al. Depression, anxiety, and suicidal ideation among Vietnamese secondary school students and proposed solutions: 
+a cross-sectional study. BMC Public Health 2013; 13: 1195. [Medline]  [CrossRef]
+ 31. Thai TT, Vu NLLT, Bui HHT. Mental health literacy and help-seeking preferences in high school students in Ho Chi Minh City, Vietnam. School Ment 
+Health 2020; 12: 378–387.  [CrossRef]
+ 32. Pham T, Bui L, Nguyen A, et al. The prevalence of depression and associated risk factors among medical students: an untold story in Vietnam. PLoS One 
+2019; 14: e0221432. [Medline]  [CrossRef]
+ 33. Dinh HVT, Do LHT, Phan MHT. School factors causing Vietnamese adolescents’ anxiety in secondary schools. Psychol Educ 2021; 58: 883–894.  [Cross-
+Ref]
+ 34. Sun J, Dunne MP, Hou X yu, et al. Educational stress scale for adolescents: development, validity, and reliability with Chinese students. J Psychoeduc 
+Assess 2011; 29: 534–546.  [CrossRef]
+ 35. Truc TT, Loan KX, Nguyen ND, et al. Validation of the Educational Stress Scale for Adolescents (ESSA) in Vietnam. Asia Pac J Public Health 2015; 27: 
+NP2112–NP2121. [Medline]  [CrossRef]
+ 36. Tremblay MS, Carson V , Chaput JP, et al. Canadian 24-hour movement guidelines for children and youth: an integration of physical activity, sedentary 
+behaviour, and sleep. Appl Physiol Nutr Metab 2016; 41(Suppl 3): S311–S327. [Medline]  [CrossRef]
+ 37. Roe A. Early determinants of vocational choice. J Couns Psychol 1957; 4: 212–217.  [CrossRef]
+ 38. Brunkan RJ, Crites JO. An inventory to measure the parental attitude variables in Roe’s theory of vocational choice. J Couns Psychol 1964; 11: 3–11.  
+[CrossRef]
+ 39. Nguyen HTL, Nakamura K, Seino K, et al. Relationships among cyberbullying, parental attitudes, self-harm and suicidal behavior among adolescents: 
+results from a school-based survey in Vietnam. BMC Public Health 2020; 20: 476. [Medline]  [CrossRef]
+ 40. Ho TTQ, Nguyen BTN, Nguyen NPH. Academic stress and depression among vietnamese adolescents: a moderated mediation model of life satisfaction 
+and resilience. Curr Psychol 2022; 42: 1–11. [Medline]
+ 41. Duong CB, Van Tran N, Nguyen AH, et al. Impacts of COVID-19 crisis and some related factors on the mental health of 37150 Vietnamese students: a 
+cross-sectional online study. BMC Public Health 2023; 23: 445. [Medline]  [CrossRef]
+ 42. Wider W, Chua BS, Mutang JA, et al. Secondary school students’ school-related stressors during the coronavirus disease (COVID-19) pandemic in Sabah, 
+Malaysia. Front Educ (Lausanne) 2023; 8: 1138226.
+ 43. Moustaka E, Bacopoulou F, Manousou K, et al. Educational stress among Greek adolescents: associations between individual, study and school-related 
+factors. Int J Environ Res Public Health 2023; 20: 4692. [Medline]  [CrossRef]
+ 44. Graves BS, Hall ME, Dias-Karch C, et al. Gender differences in perceived stress and coping among college students. PLoS One 2021; 16: e0255634. 
+[Medline]  [CrossRef]
+ 45. Sun J, Dunne MP, Hou X, et al. Educational stress among Chinese adolescents: individual, family, school and peer influences. Educ Rev 2013; 65: 284–302.  
+[CrossRef]
+ 46. Danielsbacka M, Tanskanen AO. The association between unequal parental treatment and the sibling relationship in Finland: the difference between full 
+and half-siblings. Evol Psychol 2015; 13: 492–510. [Medline]  [CrossRef]
+ 47. Lashewicz B, Keating N. Tensions among siblings in parent care. Eur J Ageing 2009; 6: 127–135. [Medline]  [CrossRef]
+ 48. Goel M, Aggarwal P. A comparative study of self confidence of single child and child with sibling. Int J Soc Sci Res Review 2012.
+----- VN021 page 12 -----
+Journal of Rural Medicine
+290|| doi: 10.2185/jrm.2024-012J Rural Med 2024; 19(4): 279–290 
+ 49. Finkelstein DM, Kubzansky LD, Capitman J, et al. Socioeconomic differences in adolescent stress: the role of psychological resources. J Adolesc Health 
+2007; 40: 127–134. [Medline]  [CrossRef]
+ 50. Way N, Okazaki S, Zhao J, et al. Social and emotional parenting: mothering in a changing Chinese society. Asian Am J Psychol 2013; 4: 61–70.  [CrossRef]
+ 51. Ji G, Jiao S, Jing Q. Expectancy of Chinese parents and children’s cognitive abilities. Int J Psychol 1993; 28: 821–830.  [CrossRef]
+ 52. Santhi N. Are extra classes the success behind high performance and marks? Educ Res Rev 2011; 6: 935–942.
+ 53. Tripathy M, Srivastava S. To study the effect of academic achievement on the level of self confidence. J Psychosom Res 2013; 8: 41.
+ 54. Al-Hebaish SM. The correlation between general self-confidence and academic achievement in the oral presentation course. Theory Pract Lang Stud 2012; 
+2: 60–65.  [CrossRef]
+ 55. Pascoe M, Bailey AP, Craike M, et al. Physical activity and exercise in youth mental health promotion: a scoping review. BMJ Open Sport Exerc Med 2020; 
+6: e000677. [Medline]  [CrossRef]
+ 56. Boeke CE, Storfer-Isser A, Redline S, et al. Childhood sleep duration and quality in relation to leptin concentration in two cohort studies. Sleep 2014; 37: 
+613–620. [Medline]  [CrossRef]
+ 57. van der Heijden KB, Vermeulen MCM, Donjacour CEHM, et al. Chronic sleep reduction is associated with academic achievement and study concentration 
+in higher education students. J Sleep Res 2018; 27: 165–174. [Medline]  [CrossRef]
+ 58. Kang Y , Kim C, Lee S, et al. Insomnia and parental overprotection are associated with academic stress among medical students. Sleep Med Res 2017; 8: 
+92–97.  [CrossRef]

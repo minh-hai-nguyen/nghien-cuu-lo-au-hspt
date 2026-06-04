@@ -1,0 +1,15 @@
+{
+  "total_issues": 2,
+  "issues_by_method": {
+    "#1 AEP": [
+      "Low evidence attribution: 21/50 stats"
+    ],
+    "#3 Ontology": [
+      "Cross-sectional limitation not acknowledged adequately"
+    ]
+  },
+  "vn_chars": 261980,
+  "en_chars": 354248,
+  "ratio": 0.7395384024751022,
+  "chapters_covered": 12
+}

@@ -1,0 +1,437 @@
+# -*- coding: utf-8 -*-
+"""
+Build glossary JSON for chatbot + comprehensive glossary data.
+
+Categories:
+- abbreviations (200+ common acronyms)
+- instruments (thang đo)
+- designs (thiết kế NC)
+- interventions (can thiệp)
+- parameters (tham số thống kê)
+- concepts (khái niệm lâm sàng)
+- standards (chuẩn báo cáo)
+- authors (178 từ author KG)
+- organizations (institutions)
+
+Output:
+  - 06_Scripts/glossary_data/glossary_full.json
+  - tro-ly-nghien-cuu-tam-ly/web/data/glossary.json
+"""
+import os, sys, io, json
+os.environ['PYTHONIOENCODING'] = 'utf-8'
+sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
+
+ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
+OUT_DIR = os.path.join(os.path.dirname(__file__), 'glossary_data')
+os.makedirs(OUT_DIR, exist_ok=True)
+
+WEB_DATA = os.path.join(ROOT, 'tro-ly-nghien-cuu-tam-ly', 'web', 'data')
+
+# ============================================================
+# ABBREVIATIONS (200+ common in our CSDL)
+# ============================================================
+ABBREV = {
+    # Statistical
+    'SMD': 'Standardized Mean Difference — Khác biệt trung bình chuẩn hoá',
+    'MD': 'Mean Difference — Khác biệt trung bình (thô)',
+    'OR': 'Odds Ratio — Tỷ số odds',
+    'RR': 'Risk Ratio / Relative Risk — Tỷ số nguy cơ tương đối',
+    'HR': 'Hazard Ratio — Tỷ số nguy cơ tức thời (survival analysis)',
+    'CI': 'Confidence Interval — Khoảng tin cậy (frequentist)',
+    'CrI': 'Credible Interval — Khoảng tin cậy Bayesian',
+    'KTC': 'Khoảng Tin Cậy (tiếng Việt cho CI hoặc CrI)',
+    'SE': 'Standard Error — Sai số chuẩn',
+    'SD': 'Standard Deviation — Độ lệch chuẩn',
+    'M': 'Mean — Trung bình',
+    'Mdn': 'Median — Trung vị',
+    'IQR': 'Interquartile Range — Khoảng tứ phân vị',
+    'n': 'Sample size (subgroup) — Cỡ mẫu nhóm',
+    'N': 'Sample size (total) — Cỡ mẫu tổng',
+    'p': 'p-value — Giá trị xác suất',
+    'df': 'Degrees of freedom — Bậc tự do',
+    'χ²': 'Chi-square statistic — Thống kê khi bình phương',
+    't': 't-statistic — Thống kê Student t',
+    'F': 'F-statistic — Thống kê F (ANOVA)',
+    'z': 'z-statistic — Thống kê z (normal)',
+    'r': 'Pearson correlation coefficient — Hệ số tương quan Pearson',
+    'ρ': 'Spearman rank correlation — Tương quan hạng Spearman',
+    'β': 'Beta coefficient — Hệ số hồi quy',
+    'η²p': 'Partial eta squared — Hệ số eta bình phương phần',
+    'd': "Cohen's d — SMD theo công thức Cohen",
+    'g': "Hedges' g — SMD hiệu chỉnh small-sample",
+    'NNT': 'Number Needed to Treat — Số người cần điều trị để 1 người cải thiện',
+    'I²': 'I-squared — Chỉ số heterogeneity MA',
+    'τ²': 'Tau-squared — Between-study variance (random-effects)',
+    'Q': "Cochran's Q — Heterogeneity test",
+    'SUCRA': 'Surface Under Cumulative Ranking curve — Xếp hạng NMA',
+    'logOR': 'Logarithm of Odds Ratio',
+    'BF': 'Bayes Factor — Tỷ số bằng chứng Bayesian',
+    'MCMC': 'Markov Chain Monte Carlo — Thuật toán Bayesian sampling',
+    'HMC': 'Hamiltonian Monte Carlo — MCMC hiện đại (Stan)',
+    'NUTS': 'No-U-Turn Sampler — HMC variant',
+    'ESS': 'Effective Sample Size — Số samples độc lập thực tế',
+    'HDI': 'Highest Density Interval — Khoảng mật độ cao nhất',
+
+    # Research design
+    'RCT': 'Randomized Controlled Trial — Thử nghiệm ngẫu nhiên có đối chứng',
+    'cRCT': 'Cluster RCT — RCT phân bổ theo cụm (trường, lớp)',
+    'SR': 'Systematic Review — Tổng quan hệ thống',
+    'MA': 'Meta-Analysis — Phân tích tổng hợp',
+    'NMA': 'Network Meta-Analysis — Phân tích tổng hợp mạng',
+    'IPD-MA': 'Individual Patient Data Meta-Analysis',
+    'RCBI': 'Revised Cyber Bullying Inventory',
+    'FGD': 'Focus Group Discussion — Thảo luận nhóm tập trung',
+    'KII': 'Key Informant Interview — Phỏng vấn người am hiểu',
+    'IDI': 'In-Depth Interview — Phỏng vấn sâu',
+
+    # Instruments
+    'GAD-7': 'Generalized Anxiety Disorder 7-item Scale (Spitzer 2006)',
+    'PHQ-9': 'Patient Health Questionnaire 9-item (Kroenke 2001)',
+    'PHQ-A': 'PHQ for Adolescents',
+    'DASS-21': 'Depression Anxiety Stress Scale 21-item',
+    'DASS-42': 'DASS original 42-item',
+    'DASS-Y': 'DASS Youth version (VTN)',
+    'SDQ-25': 'Strengths and Difficulties Questionnaire 25-item (Goodman 1997)',
+    'SDQ': 'SDQ (generic)',
+    'CBCL': 'Child Behaviour Checklist (Achenbach)',
+    'YSR': 'Youth Self-Report (Achenbach, 11–18 tuổi)',
+    'PSC-17': 'Pediatric Symptom Checklist 17-item',
+    'CESD-R': 'Center for Epidemiologic Studies Depression Scale — Revised',
+    'CES-D': 'CES-D original (Radloff 1977)',
+    'CES-DC': 'CES-D for Children',
+    'BDI': 'Beck Depression Inventory',
+    'BDI-II': 'BDI 2nd edition',
+    'BAI': 'Beck Anxiety Inventory',
+    'STAI': 'State-Trait Anxiety Inventory',
+    'STAI-C': 'STAI for Children',
+    'HAM-A': 'Hamilton Anxiety Rating Scale (clinician-rated)',
+    'HAM-D': 'Hamilton Depression Rating Scale',
+    'SCARED': 'Screen for Child Anxiety Related Emotional Disorders',
+    'LSAS': 'Liebowitz Social Anxiety Scale',
+    'LSAS-SR': 'LSAS Self-Report',
+    'RCADS': 'Revised Child Anxiety and Depression Scale',
+    'MASC': 'Multidimensional Anxiety Scale for Children',
+    'DISC-5': 'Diagnostic Interview Schedule for Children, version 5',
+    'DISC-IV': 'DISC version IV (DSM-IV based)',
+    'K-SADS': 'Kiddie Schedule for Affective Disorders and Schizophrenia',
+    'MINI': 'Mini International Neuropsychiatric Interview (Sheehan 1998)',
+    'MINI-KID': 'MINI for Children and Adolescents',
+    'CIDI': 'Composite International Diagnostic Interview (WHO)',
+    'WMH-CIDI': 'World Mental Health CIDI',
+    'MDS3': 'Maryland Safe and Supportive Schools Climate Survey',
+    'ESSA': 'Engagement with School Scale for Adolescents (Sun 2011)',
+    'ACE': 'Adverse Childhood Experiences (Felitti 1998)',
+    'ACEs': 'ACEs questionnaire',
+    'GEAS': 'Global Early Adolescent Study',
+    'CD-RISC': 'Connor-Davidson Resilience Scale',
+    'CSES': 'Coping Self-Efficacy Scale',
+    'MHC-SF': 'Mental Health Continuum — Short Form (Keyes)',
+    'CGI': 'Clinical Global Impression scale',
+
+    # Diagnoses
+    'DSM-5': 'Diagnostic and Statistical Manual of Mental Disorders, 5th Edition (APA 2013)',
+    'DSM-5-TR': 'DSM-5 Text Revision (2022)',
+    'DSM-IV': 'DSM 4th Edition (older, 1994/2000)',
+    'ICD-10': 'International Classification of Diseases v10 (WHO)',
+    'ICD-11': 'ICD v11 (WHO 2022)',
+    'GAD': 'Generalized Anxiety Disorder — Rối loạn lo âu lan toả',
+    'SAD': 'Social Anxiety Disorder — Rối loạn lo âu xã hội',
+    'PTSD': 'Posttraumatic Stress Disorder — Rối loạn căng thẳng sau sang chấn',
+    'MDD': 'Major Depressive Disorder — Rối loạn trầm cảm nặng',
+    'PDD': 'Persistent Depressive Disorder (Dysthymia)',
+    'ADHD': 'Attention-Deficit/Hyperactivity Disorder',
+    'ASD': 'Autism Spectrum Disorder',
+    'OCD': 'Obsessive-Compulsive Disorder',
+    'BPD': 'Borderline Personality Disorder',
+
+    # Interventions
+    'CBT': 'Cognitive Behavioral Therapy — Liệu pháp nhận thức hành vi',
+    'iCBT': 'Internet CBT',
+    'gCBT': 'Group CBT',
+    'CA-CBT': 'Culturally Adapted CBT',
+    'ACT': 'Acceptance and Commitment Therapy',
+    'DBT': 'Dialectical Behavior Therapy',
+    'IPT': 'Interpersonal Therapy',
+    'MBSR': 'Mindfulness-Based Stress Reduction',
+    'MBCT': 'Mindfulness-Based Cognitive Therapy',
+    'MHPSS': 'Mental Health and Psychosocial Support (WHO/IASC)',
+    'mhGAP': 'Mental Health Gap Action Programme (WHO)',
+    'DMHI': 'Digital Mental Health Intervention',
+    'TAU': 'Treatment As Usual — Điều trị thông thường',
+    'RAP-A': 'Resourceful Adolescent Program (Shochet)',
+    'CAMS': 'Child/Adolescent Anxiety Multimodal Study (Walkup 2008 NEJM)',
+    'BESST': 'Brief Educational workshops in Secondary Schools Trial (UK)',
+    'MHST': 'Mental Health Support Team (UK NHS)',
+    'PLACES': 'Psychoeducational Low-intensity Acceptance Coping Strategies (UK)',
+    'SSRI': 'Selective Serotonin Reuptake Inhibitor',
+    'SNRI': 'Serotonin-Norepinephrine Reuptake Inhibitor',
+    'PE': 'Physical Exercise — Luyện tập thể chất',
+    'VRET': 'Virtual Reality Exposure Therapy',
+
+    # Reporting standards
+    'PRISMA': 'Preferred Reporting Items for Systematic Reviews and Meta-Analyses',
+    'PRISMA-ScR': 'PRISMA for Scoping Reviews',
+    'PRISMA-NMA': 'PRISMA for Network Meta-Analyses',
+    'GRADE': 'Grading of Recommendations Assessment, Development and Evaluation',
+    'RoB 2': 'Cochrane Risk of Bias 2.0 (Sterne 2019)',
+    'ROBINS-I': 'Risk of Bias in Non-randomized Studies of Interventions',
+    'STROBE': 'Strengthening the Reporting of Observational Studies in Epidemiology',
+    'CONSORT': 'Consolidated Standards of Reporting Trials',
+    'COREQ': 'Consolidated Criteria for Reporting Qualitative Research',
+    'MOOSE': 'Meta-analysis of Observational Studies in Epidemiology',
+    'TREND': 'Transparent Reporting of Evaluations with Nonrandomized Designs',
+
+    # Organizations
+    'WHO': 'World Health Organization — Tổ chức Y tế Thế giới',
+    'UNICEF': 'United Nations Children\'s Fund',
+    'APA': 'American Psychiatric Association (DSM-5 publisher)',
+    'NIMH': 'National Institute of Mental Health (USA)',
+    'NIH': 'National Institutes of Health (USA)',
+    'NHS': 'National Health Service (UK)',
+    'NICE': 'National Institute for Health and Care Excellence (UK)',
+    'JHSPH': 'Johns Hopkins Bloomberg School of Public Health',
+    'UQ': 'The University of Queensland (Australia)',
+    'IOS': 'Institute of Sociology (Vietnam Academy of Social Sciences)',
+    'VASS': 'Viet Nam Academy of Social Sciences',
+    'HMU': 'Hanoi Medical University',
+    'HUPH': 'Hanoi University of Public Health',
+    'MOET': 'Ministry of Education and Training (Vietnam) — Bộ GD&ĐT',
+    'MOH': 'Ministry of Health (Vietnam) — Bộ Y tế',
+    'MOLISA': 'Ministry of Labour, Invalids and Social Affairs (Vietnam)',
+    'GOPFP': 'General Office for Population and Family Planning (Vietnam)',
+    'POPFP': 'Provincial Office of Population and Family Planning',
+    'DOET': 'Department of Education and Training (provincial MOET)',
+    'DOH': 'Department of Health (provincial MOH)',
+    'DOLISA': 'Department of Labour, Invalids and Social Affairs (provincial MOLISA)',
+    'HSPI': 'Health Strategy and Policy Institute (Vietnam)',
+    'GSO': 'General Statistical Office (Vietnam) — Tổng cục Thống kê',
+
+    # Studies / Programs
+    'V-NAMHS': 'Viet Nam Adolescent Mental Health Survey (2022)',
+    'I-NAMHS': 'Indonesia NAMHS',
+    'K-NAMHS': 'Kenya NAMHS',
+    'NAMHS': 'National Adolescent Mental Health Surveys (WHO framework)',
+    'SAVY': 'Survey Assessment of Vietnamese Youth',
+    'GSHS': 'Global School-based Student Health Survey',
+    'GBD': 'Global Burden of Disease Study',
+    'HBSC': 'Health Behaviour in School-aged Children',
+
+    # Geographic / Economic
+    'LMIC': 'Low- and Middle-Income Countries',
+    'LMICs': 'LMICs (plural)',
+    'HIC': 'High-Income Countries',
+    'HICs': 'HICs (plural)',
+    'ASEAN': 'Association of Southeast Asian Nations',
+    'SEA': 'Southeast Asia / Southeast Asian',
+    'EAP': 'East Asia and the Pacific',
+    'SSA': 'Sub-Saharan Africa',
+    'TPHCM': 'Thành phố Hồ Chí Minh (HCMC / Ho Chi Minh City)',
+    'DTTS': 'Dân Tộc Thiểu Số (Ethnic minorities)',
+    'VTN': 'Vị Thành Niên (Adolescents)',
+    'HS': 'Học Sinh (Students / pupils)',
+    'SV': 'Sinh Viên (University students)',
+    'GV': 'Giáo Viên (Teachers)',
+    'THPT': 'Trung Học Phổ Thông (High school, grades 10–12)',
+    'THCS': 'Trung Học Cơ Sở (Lower secondary, grades 6–9)',
+    'SKTT': 'Sức Khoẻ Tâm Thần (Mental Health)',
+    'RLLA': 'Rối Loạn Lo Âu (Anxiety Disorder)',
+    'RLTT': 'Rối Loạn Tâm Thần (Mental Disorder)',
+    'MH': 'Mental Health (alt. MHPSS)',
+
+    # Others
+    'QR': 'Quick Response (code)',
+    'FAQ': 'Frequently Asked Questions',
+    'TAU': 'Treatment As Usual',
+    'WL': 'Waitlist (control)',
+    'ITT': 'Intention-To-Treat analysis',
+    'PP': 'Per-Protocol analysis',
+    'ES': 'Effect Size',
+    'AOR': 'Adjusted Odds Ratio',
+    'ARR': 'Adjusted Risk Ratio / Absolute Risk Reduction',
+    'PROSPERO': 'International prospective register of systematic reviews (York)',
+    'OSF': 'Open Science Framework (preregistration)',
+    'PICO': 'Population, Intervention, Comparator, Outcome (SR framework)',
+    'PICOTS': 'PICO + Timing, Setting',
+    'SESOI': 'Smallest Effect Size of Interest (equivalence testing)',
+    'TOST': 'Two One-Sided Tests (equivalence)',
+    'IRR': 'Interrater Reliability',
+    'SDM': 'Shared Decision Making',
+    'EBP': 'Evidence-Based Practice',
+    'MDM': 'Multidisciplinary Meeting',
+    'FU': 'Follow-Up',
+    'BL': 'Baseline',
+    'EOT': 'End Of Treatment',
+    'PPI': 'Patient and Public Involvement',
+    'CAMHS': 'Child and Adolescent Mental Health Services (UK NHS)',
+    'CYP': 'Children and Young People',
+}
+
+# ============================================================
+# ORGANIZATIONS (institutional profiles)
+# ============================================================
+ORGS = {
+    'WHO': {
+        'name_full': 'World Health Organization',
+        'name_vn': 'Tổ chức Y tế Thế giới',
+        'country': 'International (HQ Geneva)',
+        'role': 'Set global health policy, publish ICD-11, mhGAP guidelines, GBD studies. In VN002 context: framework for NAMHS.',
+        'papers_related': ['VN002', 'QT051', 'all GBD series'],
+    },
+    'UNICEF': {
+        'name_full': "United Nations Children's Fund",
+        'name_vn': 'Quỹ Nhi đồng Liên Hợp Quốc',
+        'country': 'International (HQ New York) + country offices',
+        'role': 'Child/youth welfare. Co-funded V-NAMHS 2022 and VN022 School Factors 2022. Published UNICEF VN 2020 COVID rapid assessment.',
+        'papers_related': ['VN002', 'VN022', 'cited in VN030'],
+    },
+    'Johns Hopkins BSPH': {
+        'name_full': 'Johns Hopkins Bloomberg School of Public Health',
+        'name_vn': 'Trường Y tế Công cộng Bloomberg, ĐH Johns Hopkins',
+        'country': 'USA',
+        'role': 'NAMHS Project Lead (Robert Blum, Shoshanna Fine, Mengmeng Li, Astha Ramaiya). Global adolescent health research.',
+        'papers_related': ['VN002 (co-lead)', 'Blum 2012'],
+    },
+    'University of Queensland (UQ)': {
+        'name_full': 'The University of Queensland',
+        'name_vn': 'Đại học Queensland',
+        'country': 'Australia (Brisbane)',
+        'role': 'NAMHS PI (Holly Erskine), GBD mental disorders lead (Whiteford, Scott). QCMHR (Queensland Centre for Mental Health Research).',
+        'papers_related': ['VN002 (co-lead)', 'Erskine 2021 NAMHS protocol'],
+    },
+    'Burnet Institute': {
+        'name_full': 'Burnet Institute',
+        'name_vn': 'Viện Burnet',
+        'country': 'Australia (Melbourne)',
+        'role': 'Global health, adolescent health research. Led QT051 Menon 2025 LMIC scoping review.',
+        'papers_related': ['QT051'],
+    },
+    'Monash University': {
+        'name_full': 'Monash University',
+        'name_vn': 'Đại học Monash',
+        'country': 'Australia',
+        'role': 'Jane Fisher lab — perinatal MH, Happy House VN collaboration with HUPH.',
+        'papers_related': ['VN030 Happy House'],
+    },
+    'QUT': {
+        'name_full': 'Queensland University of Technology',
+        'name_vn': 'Đại học Công nghệ Queensland',
+        'country': 'Australia',
+        'role': 'Ian Shochet — RAP-A program originator. Collaborator on Happy House.',
+        'papers_related': ['VN030'],
+    },
+    'Institute of Sociology (IOS)': {
+        'name_full': 'Institute of Sociology — Vietnam Academy of Social Sciences',
+        'name_vn': 'Viện Xã hội học — Viện Hàn lâm KHXH Việt Nam',
+        'country': 'Vietnam (Hanoi)',
+        'role': 'Chủ trì V-NAMHS 2022 tại VN. Prof. Đặng Nguyên Anh (former VP VASS) supported. PI: Vũ Mạnh Lợi.',
+        'papers_related': ['VN002'],
+    },
+    'GOPFP': {
+        'name_full': 'General Office for Population and Family Planning',
+        'name_vn': 'Tổng cục Dân số Kế hoạch hoá gia đình',
+        'country': 'Vietnam',
+        'role': 'Phối hợp thực địa V-NAMHS (Dr. Phạm Vũ Hoàng).',
+        'papers_related': ['VN002'],
+    },
+    'HMU': {
+        'name_full': 'Hanoi Medical University',
+        'name_vn': 'Đại học Y Hà Nội',
+        'country': 'Vietnam',
+        'role': 'Nguyễn Kim Việt (PGS TS) — hướng dẫn luận án Trần Nguyễn Ngọc. Đào Thị Ngoan 2025 TCNCYH SVY4.',
+        'papers_related': ['Trần Nguyễn Ngọc 2018', 'VN028'],
+    },
+    'HUPH': {
+        'name_full': 'Hanoi University of Public Health',
+        'name_vn': 'Đại học Y tế Công cộng Hà Nội',
+        'country': 'Vietnam',
+        'role': 'Partner Monash cho Happy House. Trần Thạch và collaborators.',
+        'papers_related': ['VN030'],
+    },
+    'VNU (University of Education)': {
+        'name_full': 'Vietnam National University - University of Education',
+        'name_vn': 'ĐH Quốc gia Hà Nội - Trường ĐH Giáo dục',
+        'country': 'Vietnam',
+        'role': 'Đặng Hoàng Minh — VN MH literacy research hub.',
+        'papers_related': ['Cited trong VN002', 'Dang 2016/2018/2020'],
+    },
+    'Bệnh viện Bạch Mai': {
+        'name_full': 'Bach Mai Hospital - Institute of Mental Health',
+        'name_vn': 'Bệnh viện Bạch Mai - Viện Sức khoẻ Tâm thần',
+        'country': 'Vietnam',
+        'role': 'Cơ sở điều trị SKTT hàng đầu VN. Luận án Trần Nguyễn Ngọc 2018 thực hiện tại đây.',
+        'papers_related': ['Trần Nguyễn Ngọc 2018'],
+    },
+    'Vanderbilt University': {
+        'name_full': 'Vanderbilt University',
+        'name_vn': 'Đại học Vanderbilt',
+        'country': 'USA',
+        'role': 'Bahr Weiss — VN child MH research partner (Weiss 2014 national VN study).',
+        'papers_related': ['Cited trong VN002'],
+    },
+    'Kagoshima University Hospital': {
+        'name_full': 'Kagoshima University Hospital',
+        'name_vn': 'Bệnh viện Đại học Kagoshima',
+        'country': 'Japan',
+        'role': 'Kazuki Matsumoto lab — iCBT for SAD research.',
+        'papers_related': ['QT045 Matsumoto 2024'],
+    },
+    'University of Groningen': {
+        'name_full': 'University of Groningen',
+        'name_vn': 'Đại học Groningen',
+        'country': 'Netherlands',
+        'role': 'Praptomojati PhD candidate + Nauta/Bouman supervisors. CA-CBT SEA review.',
+        'papers_related': ['QT037'],
+    },
+    'Universitas Gadjah Mada': {
+        'name_full': 'Universitas Gadjah Mada',
+        'name_vn': 'Đại học Gadjah Mada',
+        'country': 'Indonesia',
+        'role': 'Praptomojati affiliation. Indonesia largest psychology research hub.',
+        'papers_related': ['QT037'],
+    },
+    'Shanghai Mental Health Center': {
+        'name_full': 'Shanghai Mental Health Center',
+        'name_vn': 'Trung tâm SKTT Thượng Hải',
+        'country': 'China',
+        'role': 'Suspected affiliation of Tianhong Zhang (senior author QT048 Chen COVID meta).',
+        'papers_related': ['QT048'],
+    },
+    'Harvard Medical School': {
+        'name_full': 'Harvard Medical School',
+        'name_vn': 'Trường Y khoa Harvard',
+        'country': 'USA',
+        'role': 'Vikram Patel (mhGAP co-creator); Ronald Kessler (WMH Surveys).',
+        'papers_related': ['Priority authors (không trực tiếp trong 68 lõi)'],
+    },
+}
+
+# ============================================================
+# BUILD FINAL JSON
+# ============================================================
+glossary_data = {
+    'meta': {
+        'created': '2026-04-15',
+        'version': 'v1',
+        'total_abbreviations': len(ABBREV),
+        'total_organizations': len(ORGS),
+    },
+    'abbreviations': ABBREV,
+    'organizations': ORGS,
+}
+
+# Save to 06_Scripts
+out1 = os.path.join(OUT_DIR, 'glossary_full.json')
+with open(out1, 'w', encoding='utf-8') as f:
+    json.dump(glossary_data, f, ensure_ascii=False, indent=2)
+print(f'Saved: {out1}')
+
+# Save to web/data
+os.makedirs(WEB_DATA, exist_ok=True)
+out2 = os.path.join(WEB_DATA, 'glossary.json')
+with open(out2, 'w', encoding='utf-8') as f:
+    json.dump(glossary_data, f, ensure_ascii=False, indent=2)
+print(f'Saved: {out2}')
+
+print(f'\nAbbreviations: {len(ABBREV)}')
+print(f'Organizations: {len(ORGS)}')
+print(f'Total file size: {os.path.getsize(out1):,} bytes')

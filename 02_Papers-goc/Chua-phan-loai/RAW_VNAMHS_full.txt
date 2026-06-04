@@ -1,0 +1,1875 @@
+ 
+VIET  NAM ADOLESCENT  
+MENTAL HEALTH SURVEY  
+(V-NAMHS)  
+REPORT ON MAIN  FINDINGS   
+ 
+ 
+ 
+ 
+ 
+ 
+NOVEMBER 2022             
+
+Viet Nam Adolescent Mental Health Survey  
+(V-NAMHS)  
+Report on  Main  Findings  
+Vu Manh Loi, Nguyen Duc Vinh (Institute of Sociology ) 
+Dao Thi Khanh Hoa ( Vietnam Sociological Association )  
+Holly E. Erskine , Cartiah McGrath , Krystina Wallis, Sarah J. Blondell,  
+Harvey A. Whiteford, James G. Scott  (University of Queensland ) 
+Robert Blum, Shoshanna Fine, Mengmeng Li, Astha Ramaiya , 
+(Johns Hopkins Bloomberg School of Public Health ) 
+ 
+Suggested Citation:  
+Institute of Sociology, University of Queensland, and Johns Hopkins Bloomberg School of Public Health. 
+2022. Viet  Nam Adolescent  Mental Health Survey: Report on Main Findings. Ha noi, Viet  Nam: Institute of 
+Sociology .
+Viet Nam Adolescent Mental Health Survey    ■ i  
+ Table of Contents  
+ 
+List of Tables  ................................ ................................ ................................ ................................ ................................ ........ 3 
+List of Figures  ................................ ................................ ................................ ................................ ................................ ...... 4 
+Acronyms  ................................ ................................ ................................ ................................ ................................ ...............  5 
+Acknowledgements  ................................ ................................ ................................ ................................ ........................  6 
+Executive Summary  ................................ ................................ ................................ ................................ ........................  7 
+INTRODUCTION  ................................ ................................ ................................ ...................  9 
+Background  ................................ ................................ ................................ ......................  9 
+What is V -NAMHS?  ................................ ................................ ................................ ........  10 
+Who conducted V -NAMHS?  ................................ ................................ .........................  10 
+Who participated in V -NAMHS?  ................................ ................................ ..................  10 
+What were participants asked?  ................................ ................................ ....................  12 
+When was V -NAMHS conducted?  ................................ ................................ ................  12 
+Did COVID -19 impact V -NAMHS?  ................................ ................................ ................  12 
+What is the scope of this report?  ................................ ................................ .................  12 
+SAMPLE CHARACTERISTICS  ................................ ................................ .............................  14 
+Adolescent  ................................ ................................ ................................ ......................  14 
+Parent  ................................ ................................ ................................ ..............................  15 
+MENTAL HEALTH  ................................ ................................ ................................ ...............  17 
+Overview  ................................ ................................ ................................ .........................  17 
+Measurement  ................................ ................................ ................................ .................  18 
+Measures  ................................ ................................ ................................ ................................ ................................ ..... 18 
+Mental health problems and mental disorders  ................................ ................................ .....................  18 
+Mental health problems  ................................ ................................ ................................ ................................ ..... 20 
+Mental disorders  ................................ ................................ ................................ ................................ .....................  21 
+Suicidal behaviours and self -harm  ................................ ................................ ................................ ..............  22 
+Considerations  ................................ ................................ ................................ ...............  23 
+Interpretation  ................................ ................................ ................................ ................................ ...........................  23 
+Limitations  ................................ ................................ ................................ ................................ ................................ . 23 
+Implications  ................................ ................................ ................................ ................................ ..............................  24 
+ 
+Viet Nam Adolescent Mental Health Survey    ■ ii  
+ SERVICE USE  ................................ ................................ ................................ .......................  25 
+Overview  ................................ ................................ ................................ .........................  25 
+Measurement  ................................ ................................ ................................ .................  26 
+Findings  ................................ ................................ ................................ ..........................  26 
+Service use frequency and type  ................................ ................................ ................................ ......................  26 
+Perceived need and barriers to care  ................................ ................................ ................................ ............  27 
+Informal support  ................................ ................................ ................................ ................................ ....................  28 
+Self-help strategies ................................ ................................ ................................ ................................ ................  28 
+Considerations  ................................ ................................ ................................ ...............  29 
+Interpretation  ................................ ................................ ................................ ................................ ...........................  29 
+Limitations  ................................ ................................ ................................ ................................ ................................ . 30 
+Implications  ................................ ................................ ................................ ................................ ..............................  30 
+COVID -19 ................................ ................................ ................................ ............................  32 
+Overview  ................................ ................................ ................................ .........................  32 
+Measurement  ................................ ................................ ................................ .................  33 
+Findings  ................................ ................................ ................................ ..........................  33 
+Considerations  ................................ ................................ ................................ ...............  34 
+Interpretation  ................................ ................................ ................................ ................................ ...........................  34 
+Limitations  ................................ ................................ ................................ ................................ ................................ . 34 
+Implications  ................................ ................................ ................................ ................................ ..............................  35 
+Appendix 1: Measures  ................................ ................................ ................................ ....... 36 
+Appendix 2: Methodology  ................................ ................................ ................................  38 
+Appendix 3: Glossary  ................................ ................................ ................................ .........  41 
+Appendix 4: Research teams  ................................ ................................ ............................  44 
+REFERENCES  ................................ ................................ ................................ .......................  45 
+ 
+ 
+ 
+ 
+  
+Viet Nam Adolescent Mental Health Survey    ■ 3  
+ List of Tables  
+Table 1.  Sample recruitment for V -NAMHS  ................................ ................................ ................................ .............  11 
+Table 2 . Adolescent sample by sex and age group  ................................ ................................ ..............................  14 
+Table 3. Adolescent sample by education and employment status ................................ ...............................  15 
+Table 4.  Primary caregiver sample by demographic information  ................................ ................................ ... 15 
+Table 5. Definitions of mental health problems and mental disorders  ................................ ........................  19 
+Table 6. 12-month prevalence of mental health problems among 10 -17-year-olds by sex and  
+age group  ................................ ................................ ................................ ................................ .............................  20 
+Table 7. 12-month prevalence of mental health problems among 10 -17-year-olds endorsing 
+impairment by impairment domain  ................................ ................................ ................................ ..........  21 
+Table 8. 12-month prevalence of mental disorders among 10 -17-year-olds by type ............................  22 
+Table 9. 12-month prevalence of mental disorders among 10 -17-year-olds by impairment domain
+ ................................ ................................ ................................ ................................ ................................ ..................  22 
+Table 10. Suicidal behaviours among 10 -17-year-olds................................ ................................ .......................  22 
+Table 11. Self-harm among 10 -17-year-olds ................................ ................................ ................................ ..........  22 
+Table 12. Frequency of accessing services providing support or counselling for emotional and 
+behavioural problems in the past 12 months among 10 -17-year-olds by sex  ........................  26 
+Table 13. Service provider used most for emotiona l and behavioural problems in the past  
+12 months among 10 -17-year-olds ................................ ................................ ................................ ..........  27 
+Table 14. Barriers to seeking help or receiving help for emotional and behavioural problems in  
+the past 12 months among pare nts of 10 -17-year-olds ................................ ................................ ... 28 
+Table 15. Person spoken to when having worries or concerns among 10 -17-year-olds ......................  28 
+Table 16. Self-help strategies used to manage or prevent emotional and behavioural problems 
+among 10 -17-year-olds ................................ ................................ ................................ ................................ . 29 
+Table 17: Proportion often experiencing emotional and behavioural problems more than usual 
+during the COVID -19 pandemic among 10 -17-year-olds by sex  ................................ ..................  33 
+Table 18. Population of Viet Nam in 2019 by regions and rural -urban areas  ................................ ...........  38 
+ 
+ 
+Viet Nam Adolescent Mental Health Survey    ■ 4  
+ List of Figures  
+Figure 1. 12-month prevalence of mental health problems among 10 -17-year-olds by type  ...........  20 
+Figure 2. 12-month prevalence of mental health problems by symptom threshold and  
+impairment endorsement among 10 -17-year-olds ................................ ................................ ..........  21 
+Figure 3. Symptom threshold and impairment endorsement among 10 -17-year-olds with  
+a mental health problem using services in the past 12 months.  ................................ .................  27 
+Figure 4. Experiences during the COVID -19 pandemic among 10 -17-year-olds ................................ ..... 34 
+Figure 5. Map of Viet  Nam and 48 selected provinces/cities  ................................ ................................ ...........  39 
+  
+Viet Nam Adolescent Mental Health Survey    ■ 5  
+ Acronyms  
+ADHD   Attention -deficit/hyperactivity disorder  
+CBCL   Child Behaviour  Checklist  
+DISC -5  Diagnostic Interview Schedule for Children, Version 5  
+DSM -5  Diagnostic and Statistical Manual of Mental Disorders, 5th Edition  
+EA   Enumeration Area 
+GBD    Global Burden of Disease Study  
+GEAS   Global Early Adolescent Study  
+GOPFP   General Office for Population and Family Planning , Viet Nam  
+GSHS   Global School -based Student Health Survey  
+GSO   General Statistical Office of Viet Nam  
+HSPI   Health Strategy and Policy Institute  
+HICs   High -income countries  
+HREC   Human Research Ethics Committee  
+I-NAMHS   Indonesia – National Adolescent Mental Health Survey  
+IOS   Institute of Sociology  
+JHSPH   Johns Hopkins Bloomberg School of Public Health  
+K-NAMHS   Kenya – National Adolescent Mental Health Survey  
+LMICs   Low- and middle -income countries  
+MOH   Ministry of Healt h  
+NAMHS   National Adolescent Mental Health Surveys  
+POPFP   Provincial Office of Population and Family Planning  
+PTSD   Posttraumatic stress disorder  
+SDQ   Strengths and Difficulties Questionnaire  
+SESD   Social -Environmental Statistics Department  
+TUQIA   The University of Queensland in America  
+UQ   The University of Queensland  
+VASS   Viet Nam Academy of Social Sciences  
+V-NAMHS   Viet Nam Adolescent Mental Health Survey  
+WHO   World Health Organization  
+YSR   Youth Self -Report  
+ 
+Viet Nam Adolescent Mental Health Survey    ■ 6  
+ Acknowledgements  
+We would like to express our immense gratitude to Professor Dang Nguyen Anh (Vice President of 
+the Viet Nam Academy of Social Sciences from 2016 to 2021) for supporting the Institute of 
+Sociology (IOS) to participate in the international National Adolescent Mental Health Surveys 
+(NAMHS) project, for his valuable advice at the early stages of the Viet Nam Adolescent Mental 
+Health Survey (V -NAMHS) and ongoing participation as a research member of V -NAMHS.  
+Throughout the preparation and implementation of V -NAMHS, as we ll as during data processing 
+and analysis, we received ongoing support, advice, and encouragement from the international teams 
+in charge of the Kenya – National Adolescent Mental Health Survey (K -NAMHS) and the Indonesia – 
+National Adolescent Mental Health  Survey (I -NAMHS). We would like to express our thanks to Dr 
+Caroline Kabiru, Dr Yohannes Dibaba Wado, Dr Frederick Murunga Wekesah, Sally Odunga, Vivian 
+Nyakangi, and Anne Njeri from the K -NAMHS team, and Professor Siswanto Wilopo, Dr Amirah Ellyza 
+Wahdi,  Rizka Rachmawati, Althaf Setyawan, and Yufan Putri Astrini from the I -NAMHS team. 
+Additionally, we would like to acknowledge the work of the Johns Hopkins Bloomberg School of 
+Public Health (JHSPH) NAMHS team for their programming and data analysis support , especially the 
+survey programming support of Mark Emerson. We would also like to recognise the contributions 
+of Meaghan Enright and Jamileh Shadid from the University of Queensland (UQ) for their support 
+during the implementation of V -NAMHS including tra ining for the pilot study, testing of data 
+collection tools, programming, and other work on the survey.  
+We would also like to acknowledge Prudence Fisher, the author of the Diagnostic Interview Schedule 
+for Children, Version 5 (DISC -5), who generously prov ided the tool and supported its adaptation and 
+implementation.  
+Several specialists in Viet Nam contributed their expertise to the implementation of V -NAMHS. We 
+would like to thank Dr Nguyen Dinh Chung (Former Vice Director, Social -Environmental Statistics 
+Department, General Statistical Office of Viet Nam [GSO]) for his contribution to the sampling 
+methodology used in V -NAMHS. We also want to thank Dr. Tran Thi Mai Oanh (Director, Health 
+Strategy and Policy Institute [HSPI], Ministry of Health [MOH]) and Dr . Hoang Thi Phuong (Vice Head 
+of Health Economics Department, HSPI, MOH) for their contributions to the pilot study and during 
+the early stages of V -NAMHS.  
+We thank Mr. Nguyen Doan Tu (General Director, General Office of Population and Family Planning 
+[GOPFP], MOH) and Dr. Pham Vu Hoang (Vice General Director, GOPFP, MOH) for the effective 
+collaboration between GOPFP and IOS in obtaining input data for sampling as well as in the 
+organisation of V -NAMHS fieldwork. We would like to thank leaders of Provincia l Office of 
+Population and Family Planning (POPFP) in the 38 provinces included in V -NAMHS and community 
+leaders/gatekeepers of all enumeration areas (EAs) for their cooperation and support during the 
+fieldwork of V -NAMHS. We want to thank staff of the POP FPs who served as interviewers for V -
+NAMHS for their hard work during data collection.  
+Most importantly, we thank the adolescents and their parents for their voluntary participation and 
+cooperation. Without their participation and support, V -NAMHS would no t have been possible.  
+NAMHS is funded by The University of Queensland in America (TUQIA) through support from Pivotal 
+Ventures, a Melinda French Gates company. The funding for NAMHS is administered by UQ which, 
+in turn, provided the funding for V -NAMHS to IOS, Viet Nam.   
+Viet Nam Adolescent Mental Health Survey    ■ 7  
+ Executive Summary  
+Overview  
+The prevalence of mental disorders among adolescents in Viet Nam is largely unknown. Accurate 
+prevalence data is crucial for effective prevention, service planning, and prioritisation of mental 
+health policy. Accurate estimates also enable evidence -based advocacy and public health campaigns 
+that can increase awareness of, and reduce stigma related to, mental health. This report presents 
+findings from the Viet Nam Adolescent Mental Health Survey (V -NAMHS ), the first survey to measure 
+the prevalence of mental disorders among a nationally representative sample of households across 
+Viet Nam.  
+This report includes findings related to mental health, inclusive of mental health problems and 
+mental disorders. In V -NAMHS, adolescents with mental health problems were those who met at 
+least half of the symptoms required for a given mental disorder but who may not necessarily meet 
+all diagnostic criteria required for a mental disorder diagnosis. Adolesce nts with mental disorder 
+were those who met the full diagnostic criteria for a mental disorder. This report also includes 
+findings related to use of services for emotional and behavioural problems. Rather than referring to 
+mental health directly, the term ‘emotional and behavioural problems’ was used in questions related 
+to service use to account for the myriad of ways that mental disorder symptoms can manifest and 
+to avoid issues of stigma or poor mental health literacy. A chapter on findings related to CO VID-19 
+in the context of mental health and wellbeing is also provided.  
+Key findings  
+• In the past 12 months, one in five Vietnamese adolescents (21.7%) had a mental health 
+problem while one in thirty met criteria for a mental disorder (3.3%).  
+• Anxiety was the  most prevalent mental health problem (18.6%), followed by depression 
+(4.3%).  
+• Only 8.4% of adolescents with a mental health problem had accessed services that provide 
+support or counselling for emotional and behavioural problems in the past 12 months  
+• Overa ll, only 6.5% of adolescents accessed such a service in the past 12 months and over 
+half (50.8%) did so only once.  
+• Only 5.1% of parents identified that their adolescent needed help for emotional and 
+behavioural problems in the past 12 months, despite 21.7%  of adolescents having 
+experienced a mental health problem in the same period.  
+• The COVID -19 pandemic impacted the wellbeing of adolescents, with 7.7% of adolescents 
+reporting often experiencing at least one emotional or behavioural problem more than usual 
+during the COVID -19 pandemic.  
+Implications  
+• This prevalence of mental health problems in adolescents in Viet Nam indicates that mental 
+health is a public health issue that requires the attention of policymakers and planners. To 
+address mental health problem s in adolescents in Viet Nam, future National Mental Health 
+Plans should consider the specific needs of adolescents in addition to broader plans for 
+adults.  
+• Although one in five adolescents experienced a mental health problem and one in thirty met 
+criteria  for a mental disorder, these numbers are potentially feasible to address through 
+appropriate action and investment from policymakers.  
+• Parents and families were the most likely source of support for adolescents with worries and 
+concerns. Strategies designe d to improve mental health literacy, reduce mental health -
+Viet Nam Adolescent Mental Health Survey    ■ 8  
+ related stigma, and increase awareness of available services among families may support 
+adolescents with mental health problems.  
+• Only a minority of adolescents with mental health problems received s ervices (8.4%). To 
+assist adolescents, it is important that mental health screening is incorporated into existing 
+general health services while also providing education and training on mental health and 
+referral pathways for general health practitioners.  
+• The finding that 7.7% of adolescents often experienced emotional and behavioural problems 
+more than usual during the COVID -19 pandemic highlights the importance of including 
+mental health in planning for future population -level events such as pandemics, na tural 
+disasters, and conflict.  
+Viet Nam Adolescent Mental Health Survey    ■ 9  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Introduction  
+Background  
+Adolescents make up approximately 14.5% of Viet Nam’s population, equating to nearly 14 million 
+people aged 10 -19 years (General Statistical Office 2020) . Although it is often thought of as a healthy 
+stage of life, mental disorders are the leading cause of disability among adolescents across the globe 
+(Erskine et al. 2015)  and can have both short - and long -term health and social consequences (Erskine 
+et al. 2016, Ormel 2017) . Understanding the prevalence of mental disorders, as well as underlying 
+risk and pro tective factors, is essential to inform mental health policies and effective resource 
+planning for adolescent mental health.  
+To date, Viet Nam does not have a mental health policy defined by the World Health Organization 
+(WHO) as providing “a vision, value s, principles, objectives, and a broad model for action” (Trang 
+Nguyen et al. 2019) . As such, governance of mental health is fragmented and only partially covered 
+by existing laws and individual decisions. For example, under the Law of People with Disabi lity (Law 
+No. 51/2010/QH12), individuals living with mental, psychiatric, and intellectual disabilities are 
+identified as a subgroup under Article 3. In 2011, the Prime Minister's Decision 1215/QD -TTg 
+approved community -based social supports for people wit h mental disorders (Thủ tướng Chính ph ủ 
+2011) . A year later, a master plan was developed for the Network of Social Protection Facilities for 
+Community -Based Care and Rehabilitation for People with Mental Disorders ( MOLISA -issued 
+Decision 1364/QD -LDTBXH) (MOLISA 2012) . Recently, the Prime Minister issued Decision 155/QD -
+TTg (dated January 29, 2022) approving the “National Plan for the Prevention and Control of Non -
+Communicable Diseases and Mental Health Disorders for 2022 -2025”. In the Plan, mental diso rders 
+refer to “schizophrenia, epilepsy, depression, dementia and other mental health disorders” (Thủ 
+tướng Chính ph ủ 2022) . These existing decisions focus on adults with  severe mental illness and do 
+not specifically address young people. Historically, there has not been a separate policy, strategy, or 
+plan focused on adolescent mental health in Viet Nam and adolescents are instead only included by 
+default in any laws or d ecisions pertaining to mental health. The lack of specific policies for mental 
+health among adolescents makes planning adolescent -specific mental health services and public 
+health strategies difficult.  
+ 
+
+Viet Nam Adolescent Mental Health Survey    ■ 10  
+ Efforts to improve adolescent mental health in Viet Nam are further impeded by the lack of evidence 
+on the prevalence of adolescent mental disorders. While studies do exist, existing research on 
+adolescent mental health in Viet Nam is limited by geographic  coverage (e.g., Hanoi only), small 
+sample sizes, limited age ranges, and the use of symptom measures rather than diagnostic 
+instruments. The lack of such data for Viet Nam inhibits policymakers, practitioners, and researchers 
+from appropriately targeting efforts, developing effective service planning, engaging country 
+governments in action, and increasing attention and funding for adolescent mental health.  
+The Viet Nam Adolescent Mental Health Survey (V -NAMHS) was developed and conducted with the 
+specific  aim of producing nationally representative estimates of the prevalence of mental disorders 
+in Vietnamese adolescents aged 10 -17 years. Findings from V -NAMHS provide the Government and 
+other stakeholders in Viet Nam with evidence needed to prioritise and p lan services for adolescent 
+mental health as well as to advocate for the development of adolescent mental health policies. 
+Finally, these data also provide estimates of prevalence for international agencies and global 
+research efforts, such as the Global B urden of Disease Study (GBD) which is used by policymakers to 
+inform decision -making.  
+What is V-NAMHS?  
+V-NAMHS is a nationally representative household survey of adolescents and their primary caregiver. 
+The core aims of V -NAMHS are to:  
+1. Determine the prevalence of mental disorders among adolescents aged 10 -17 years in  Viet 
+Nam. 
+2. Measure risk and protective factors associated with mental disorders in adolescents.  
+3. Establish patterns of service use among adolescents, including utilisation, barriers to care , 
+and perceived need.  
+Who conducted V-NAMHS?  
+The Institute of Sociology (IOS) within the Viet Nam Academy of Social Sciences (VASS) was 
+responsible for the implementation of V -NAMHS. V -NAMHS is part of the National Adolescent 
+Mental Health Surveys (NAMHS) implemented in three countries (Kenya, Indonesia, and Viet Nam) 
+and led by The University of Queensland (UQ) in Australia with support from the Johns Hopkins 
+University Bloomberg School of Public Health (JHSPH) in the United States. The project was 
+develop ed and implemented collaboratively. Other collaborators on V -NAMHS include specialists 
+from the Health Strategy and Policy Institute (HSPI) within the Ministry of Health (MOH), Social -
+Environmental Statistics Department (SESD) within the General Statistica l Office of Viet Nam (GSO), 
+and the General Office of Population and Family Planning (GOPFP) within the MOH.   
+Ethical approval for the study was obtained from the Institutional Ethical Review Board for Biomedical 
+Research at Hanoi University of Public Health (approval no. 499/2019/YTCC -HD3) and the UQ Human 
+Research Ethics Committee (HREC) (Approval no. 2019001268 ).  
+Who participated in V-NAMHS?  
+V-NAMHS is a nationally representative household survey administered to adolescents and their 
+primary caregiver across 38 provinces in Viet Nam. Eligible adolescents were those aged 10 -17 years 
+living with their primary car egiver more than 50% of the time. Adolescents aged 18 -19 years were 
+not in scope because a high proportion of these adolescents are likely to be living away from the 
+family and because the diagnostic measures were not designed to be administered to people aged 
+18 years and older  (Erskine et al. 2021) . In household s with more than one eligible adolescent, an 
+adolescent was randomly selected from the household roster by the programmed data collection 
+instrument. This ensured no unintentional bias regarding selection of the reference adolescent.  
+Viet Nam Adolescent Mental Health Survey    ■ 11  
+ A primary caregiver wa s defined as an adult member of the household (i.e., aged 18 years or older) 
+who had responsibility and provided care for the adolescent, knew the most about them, and was 
+best placed to answer questions about their health and wellbeing. For the purposes o f this report, 
+the primary caregiver will be referred to as the parent. Further information on the relationship 
+between the adolescent and their primary caregiver is available in Sample Characteristics.  
+Households were excluded from the study if:  
+- There was  not an adolescent aged 10 -17 years living at the interviewed address  
+- The adolescent was not living at the interviewed address most of the time and/or was 
+temporarily away from home  
+- The adolescent was married  
+- The adolescent OR parent did not speak Vietname se 
+- There was no parent living at the address  
+- The household or parent did not provide consent to participate  
+- The adolescent was unable to participate due to severe physical or cognitive 
+impairments (as assessed by a standard measure)  
+As shown in Table 1, a  total of 7,599 households from 38 provinces across Viet Nam were randomly 
+selected for approach as per the survey sampling frame (see Appendi x 2: Methodology). Of these, 
+6,048 households were eligible and agreed to participate, giving a total response rat e of 81.1% 
+(calculated by dividing the total number of participating, eligible households [n = 6,048] by the total 
+number of households after discounting ineligible households [n = 7,461]). Informed consent and 
+assent were obtained from the parent and the adolescent, respectively. The parent and the 
+adolescent interviews were conducted separately and in a private setting to avoid interference or 
+influence by others. Fifty -two households had incomplete data and were not included in the final 
+sample. The fina l V-NAMHS sample consisted of 5,996 parent -adolescent pairs.   
+Table 1. Sample recruitment for V -NAMHS  
+Total number of households in scope for approach  7,599  
+Total number of households that were not approached or unavailable  502 
+Total number of households that refused participation  911 
+Total number of ineligible households  138 
+Total number of participating, eligible households  6,048  
+Total number of households with incomplete data  52 
+Total number of households with complete data  5,996  
+ 
+  
+Viet Nam Adolescent Mental Health Survey    ■ 12  
+ What were participants asked?  
+Mental disorders were assessed using a diagnostic measure specifically designed for children and 
+adolescents: the Diagnostic Interview Schedule for Children, Version 5 (DISC -5) (Bitsko et al. 2019, 
+Shaffer et al. 2000 ). The mental disorders measured in V -NAMHS included social phobia, generalised 
+anxiety disorder, major depressive disorder, posttraumatic stress disorder (PTSD), conduct disorder, 
+and attention -deficit/hyperactivity disorder (ADHD). Social phobia and  generalised anxiety disorder 
+are reported collectively as ‘anxiety disorders’ in this report. V -NAMHS also measured risk and 
+protective factors associated with adolescent mental health, including (but not limited to) bullying, 
+school and education, peer a nd family relationships, sexual behaviour, substance use, adverse 
+childhood experiences, parental mental illness, and self -esteem. Questions related to service use 
+were asked in relation to utilisation, perceived need, and barriers to care. A module assess ing relevant 
+experiences during the COVID -19 pandemic was also developed and included. These measures were 
+adapted and developed through a collaborative process involving the international NAMHS partners 
+(Erskine et al. 2021) . A complete list of the measures can be found in Appendi x 1: Measures.  
+The instruments we re originally developed in English, translated into Vietnamese, and back 
+translated into English to check for conceptual consistency and accuracy i.e., ensuring that the 
+meaning of questions remained consistent with the original English version. The transl ated version 
+was also reviewed by Vietnamese clinicians, by training participants, and by the V -NAMHS team on 
+an ongoing basis throughout the survey development phase prior to data collection.  
+When was V-NAMHS conducted?  
+Data collection for V -NAMHS was conducted from 21st September 2021 to 16th December 2021, 
+beginning in the North of Viet Nam and moving to the South. A total of 127 trained interviewers 
+collected data in 38 selected provinces.  
+Did COVID -19 impact V-NAMHS?  
+COVID -19 impacted the planned timeline for V -NAMHS. Data collection was originally scheduled to 
+commence in June 2020 but was postponed by one year to June 2021 due to COVID -19. However, 
+the outbreak of COVID -19 in provinces in the South in mid -2021 meant that both preparation for 
+data collection (i.e., training) and data collection itself was further delayed.  
+During the height of the COVID -19 pandemic, the movement of people between provinces was 
+restricted. Interviewer training, monitoring, and technical  support was provided online by the V -
+NAMHS team based at IOS. This increased reliance on the performance of each interviewer while the 
+number of interviewers required was higher than originally planned due to movement restrictions 
+and the need for intervi ewers to be local, i.e., rather than having interviewers travel between 
+provinces. To address this, refresher trainings were conducted which covered the content of the 
+instrument, methods to approach the selected households, and measures to ensure the safe ty of the 
+interviewer and the participants. Further, every effort was taken to ensure the quality of data and a 
+comprehensive data monitoring and quality checking procedure was implemented with assistance 
+from JHSPH and UQ. The delay in data collection als o afforded an opportunity to develop and include 
+a COVID -19 module to assess the impact of the pandemic on adolescents and their families in the 
+context of mental health. Data collection eventually commenced in September 2021 in the North, 
+followed by the South in late 2021 once the COVID -19 situation allowed.  
+What is the scope of this report?  
+This report presents key findings from V -NAMHS that reflect the core aims of the study and are 
+relevant for Vietnamese stakeholders. The report has three main chapter s: mental health (including 
+suicidal behaviours and self -harm), service use, and COVID -19. Sample characteristics (i.e., 
+Viet Nam Adolescent Mental Health Survey    ■ 13  
+ demographics) are included while other information related to methodology and conduct of the 
+survey is included in Appendi x 2. Except where stated, all findings (proportions and numbers) have 
+been weighted to represent of the age -sex and urban -rural distribution of the Vietnamese 
+population of adolescents aged 10 -17 years. While tests of statistical significance are not included 
+in this report, differences that are statistically significant have been highlighted in the relevant table 
+or text. Only differences which are statistically significant are discussed in text.   
+Viet Nam Adolescent Mental Health Survey    ■ 14  
+   
+ 
+ 
+ 
+ 
+ 
+ 
+Sample Characteristics  
+Tables 2 and 3 show the demograp hic characteristics of the adolescent sample while Table 4 shows 
+the demographic characteristics of the parent sample. All findings reported in these tables are 
+unweighted. All demographic information was reported by the parent and inputted into the 
+adoles cent data collection form prior to the adolescent interview. Where discrepancies occurred 
+between the parent and adolescent data collection forms, these were resolved using pre -determined 
+methods.  
+Adolescent  
+Table 2 shows the age and sex of adolescents who participated in the survey (n = 5, 996). The average 
+age of the adolescent  participants was 13.3 years, with younger adolescents aged 10 -13 years 
+constituting more than half (5 4.2%) of the adolescent sample. In terms of sex distribution, the  sample 
+consisted of more females (5 2.61%) than males (4 7.5%). 
+Table 2. Adolescent sample by sex and age group  
+Age (years)  Male  Female  Total  
+ % n % n % n 
+10-13 28.5 1,709  25.7 1,539  54.2 3,248  
+14-17 24.1 1,442  21.8 1,306  45.8 2,748  
+10-17 52.6 3,151  47.5 2,845  100.0  5,996    
+
+Viet Nam Adolescent Mental Health Survey    ■ 15  
+ Table 3 shows the education and employment status of the adolescent sample. Most adolescents 
+were currently attending school (94.5%) and had never been employed (94.6%).  
+Table 3. Adolescent sample by education and employment status  
+Measure  % n 
+Education status    
+Currently attending school  94.5 5,666  
+Not currently attending but have attended in the past 12 months  1.0 62 
+Have attended but not in the past 12 months  4.4 263 
+Never attended school  0.1 5 
+Employment status    
+Currently employed  3.0 179 
+Not currently employed but have been employed in the past 12 months  1.3 79 
+Have been employed but not in the past 12 months  1.1 64 
+Never been employed  94.6 5,674  
+Not currently attending school AND not currently employed  3.2 194 
+Parent  
+Table 4 shows the demographic characteristics of the parent sample. The average age of the parent 
+participants was 44.2 years and the majority were the adolescent’s mother or stepmother (63.6%). Nearly 
+half (47%) had only completed primary or lower seconda ry education, while close to a quarter (24.1%) 
+had only completed higher secondary education. In terms of employment, over half (54.1%) reported that 
+they were employed full -time. Approximately half (53.7%) reported that they headed the household.  
+Table 4. Primary caregiver sample by demographic information  
+Measure  % n 
+Age (mean, years) a 44.2  
+Sex   
+Male  28.3 1,695  
+Female  71.7 4,301  
+Relationship with adolescent    
+Mother/stepmother  63.6 3,814  
+Father/stepfather  25.0 1,497  
+Grandparent  10.3 616 
+Other  1.1 66 
+Marital status    
+Married  89.6 5,374  
+Never married  0.9 53 
+Other  9.2 554 
+Education level (highest level completed)    
+None (did not complete primary school)  4.1 247 
+Primary school  14.5 872 
+Viet Nam Adolescent Mental Health Survey    ■ 16  
+ Measure  % n 
+Lower secondary school  32.4 1,945  
+Higher secondary  school  24.1 1,446  
+Trade/vocational school or equivalent (e.g., professional secondary school)  4.8 289 
+Tertiary education  19.2 1,152  
+Currently studying  1.7 101 
+Employment status    
+Full-time 54.1 3,246  
+Part-time/casual  33.9 2,031  
+Not employed but seeking employment  1.1 68 
+Not employed and not seeking employment  10.2  613 
+Proportion who are also the head of the household b 53.7  3,220  
+a n = 5,987 (after excluding ages <18 years [n=5] and non -meaningful responses [n=4]); b Head of household not identified in all 
+households  
+ 
+Viet Nam Adolescent Mental Health Survey    ■ 17  
+                       
+Mental Health  
+ 
+Overview  
+Adolescents aged 10 -19 years make up 14.3% of Viet Nam’s population (General Statistical Office 
+2020) . However, relati vely little is known about the prevalence of mental disorders among 
+Vietnamese adolescents. This is a critical gap as international research has shown that mental 
+disorders during adolescence, particularly those that remain untreated or under -treated, can have 
+adverse outcomes throughout the life course (Erskine et al. 2016, Ormel 2017) . A previous literature 
+review found widely varyin g prevalence estimates for mental health problems in Viet Nam, ranging 
+from 8% to 29% (Samuels et al. 2018) .  
+However, the literature that is available for adolescent mental disorders in Viet Nam tends to be 
+limited by small sample  sizes, restricted locations or age ranges, single or limited numbers of mental 
+disorders in scope, and a lack of studies utilising diagnostic measures (i.e., instruments designed to 
+identify mental disorders meeting established criteria). This means that the generalisability of these 
+studies and their ability to inform and influence policy is limited. For example, a nationally 
+representative study of mental health among 6 -16-year-olds administered the Strengths and 
+Difficulties Questionnaire (SDQ) to 1,314  parents and 591 adolescents (those in the sample aged 12 -
+16 years) (Weiss et al. 2014) . Among the adolescent sample specifically, between 10.7% (adolescent -
+report) to 11.9% (parent -report) met the ‘borderlin e’ threshold for a mental health problem. Similar 
+proportions of emotional and behavioural problems (12.4% and 11.3%) were found in the same 
+study using the adolescent -report Youth Self -Report (YSR) and parent -report Child Behaviour  
+Checklist (CBCL) measur es, respectively (Weiss et al. 2014) . However, despite this study being 
+nationally representative, the measures used were symptom scales designed to screen for symptoms 
+of poor mental health or broader emotio nal and behavioural problems, as opposed to diagnostic 
+instruments designed to diagnose mental disorders according to established definitions and criteria.  
+This limitation is true of most existing studies of adolescent mental disorder prevalence in Viet Na m. 
+For example, one study utilised the SDQ to measure mental health problems in adolescents aged 
+12-17 years living in urban (Hanoi, Ho Chi Minh City, Dien Bien Phu city, Long Xuyen city) and rural 
+
+Viet Nam Adolescent Mental Health Survey    ■ 18  
+ (Keo Lom and Phu My town) areas  (Samuels et al. 2018) . Of the 402 adolescents sampled, 13.4% 
+scored in the ‘abnormal’ band of the SDQ. Further, the sample was relatively small (n = 402) which 
+makes it difficult to generalise these findings to the Vietnamese adole scent population. While these 
+studies make an important contribution to our understanding of adolescent mental health within 
+Viet Nam, they cannot be generalised to inform mental disorder prevalence at the national level.  As 
+such, the evidence to inform a dolescent mental health policy in Viet Nam and the subsequent ability 
+to act effectively and positively for adolescent mental health is extremely limited.  
+The core aim of V -NAMHS was to generate nationally representative prevalence estimates for mental 
+disorders in Vietnamese adolescents. This chapter outlines the measurement of mental disorders in 
+V-NAMHS and presents the findings. Findings for mental health problems and mental disorders are 
+presented and, in addition, the prevalence of suicidal behaviours  and self -harm is also presented in 
+the context of mental health. All proportions and numbers presented in this chapter are weighted. 
+While tests of statistical significance are not included in this chapter or the report more broadly, 
+differences that are statistically significant have been highlighted in the relevant table and only 
+differences which are statistically significant are discussed in text. Finally, considerations related to 
+the interpretation of these findings are briefly discussed while the im plications for policymakers are 
+outlined.  
+Measurement  
+Measures  
+Diagnostic modules from the DISC -5 were used to assess the prevalence of selected mental disorders 
+in the past 12 months. The DISC -5 is a standardised diagnostic instrument (Bitsko et al. 2019, Shaffer 
+et al. 2000)  first developed by Columbia University through support from the United States National 
+Institute of Mental Health. The DISC -5 is designed to be administered by trained ‘lay’ interviewers, 
+i.e., individuals who do not have any clinical training but who are trained on the DISC -5. The DISC -5 
+was used to assess six mental disorders in V -NAMHS: social phobia, generalised anxiety disorder, 
+major depressive disorder, PTSD, conduct disorder, and ADH D. These disorders were chosen as they 
+are prevalent in adolescence and are responsible for a significant proportion of burden of mental 
+disorders in this age group (Erskine et al. 2015) .Social phobia and generalised anxiety disorder are 
+reported collectively as ‘anxiety disorders’ in this report. Excep t for ADHD (which was asked of the 
+parent), all DISC -5 modules (i.e., measures of individual disorders) were administered to the 
+adolescent.  
+Measures of suicidal behaviours and self -harm were also included. Suicidal behaviours refer to: 1) 
+suicidal ideati on (serious thoughts about taking your life); 2) suicide planning (making a plan to end 
+your life); and 3) suicide attempts (where the self -injury or action is intended to end your life). Self -
+harm means deliberately hurting or injuring yourself without tr ying to end your life (i.e., non -suicidal 
+self-injury). All adolescents were asked questions related to suicidal behaviours and self -harm 
+regardless of their mental disorder status. For suicidal behaviours in the past 12 months specifically, 
+adolescents we re only asked about suicide planning if they reported suicidal ideation, and only asked 
+about suicide attempts if they reported suicide planning.  
+Mental health problems and mental disorders  
+The content and structure of the DISC -5 was designed to follow established diagnostic criteria for 
+mental disorders and was recently updated to meet the Diagnostic and Statistical Manual of Mental 
+Disorders, Fifth Edition (DSM -5) (American Psychiatric Association 2013) . A diagnosis o f a mental 
+disorder according to DSM -5 requires an individual to endorse the core symptoms of a certain 
+mental disorder and meet specific thresholds regarding the duration, frequency, severity, and 
+expression of these symptoms, while further reporting a mi nimum level of impairment caused by 
+these symptoms. The questions in the DISC -5 reflect this by first asking about a given symptom and 
+then asking further detailed questions about the specific characteristics of this symptom as required 
+Viet Nam Adolescent Mental Health Survey    ■ 19  
+ for diagnosis. This  differentiates a diagnostic instrument, such as the DISC -5, from ‘symptom scales’ 
+which only ask about the general presence of a symptom. As such, symptom scales tend to report 
+much higher prevalence than diagnostic instruments (COVID -19 Mental Disorders Collaborators 
+2021, Ferrari et al. 2013, GBD 2019 Mental Disorders Collaborators 2022)  as they are assessing 
+symptoms, not disorders.  
+However, individuals can still experience distress and associated impairments without necessarily 
+meeting DSM -5 criteria for diagnosis of a specific mental disorder. These individuals may be an 
+important group for intervention prior to progressing on to a fully -developed mental disorder 
+(Pagliaro et al. 2021) . In parallel, questions have also been raised regarding the applicability of DSM -
+5 diagnostic criteria to non -Western cultures as well as the impact of cultural factors when 
+administe ring a standardised instrument such as the DISC -5 (Canino and Alegria 2008) .  
+In recognition of these potential challenges, two sets of findings are presented. First, the prevalence 
+of ‘mental health problems’ is reported which, for the purposes of this report, includes  individuals 
+who meet at least half of the symptoms for a given mental disorder as measured by the DISC -5 but 
+who may not necessarily meet all diagnostic criteria required for a diagnosis as specified in DSM -5. 
+Second, the prevalence of mental disorders is  reported. This includes individuals who meet the 
+diagnostic criteria for a mental disorder as specified by DSM -5 (American Psychiatric Association 
+2013) . Table 5 below gives the general definition for mental health problems and mental disorders, 
+as well as the operational definition  applied in V -NAMHS. The terminology used for the different 
+types of mental health problems versus mental disorders is also shown.  
+Table 5. Definitions of mental health problems and mental disorders  
+ Mental health problem  Mental disorder  
+General definition  Interferes with how a person thinks, 
+feels, and behaves, but to a lesser 
+extent than a mental disorder. They can 
+be experienced temporarily, or as an 
+acute reaction to the stresses of life.  Clinically significant behavioural or 
+psychological syndrome or pattern that 
+occurs in an individual and is associated 
+with present distress (e.g., a painful 
+symptom), disability (i.e., impairment in 
+one or more important areas of 
+functioning), and/or a significantly  
+increased risk of suffering death, pain, 
+disability, or an important loss of 
+freedom.  
+Applied definition 
+within V -NAMHS  An adolescent was considered to have a 
+mental health problem if at least  half of 
+the symptoms required for diagnosis of 
+a given mental disorder were endorsed 
+(i.e., ‘subthreshold symptoms). 
+Adolescents with mental health 
+problems therefore included those with 
+subthreshold or full threshold symptoms, 
+with or without impairment.  As such, this 
+group also includes adolescents who 
+meet criteria for a mental disorder.  An adolescent was considered to have 
+met DSM -5 criteria for a mental disorder 
+if all required symptoms (i.e., ‘full 
+threshold symptoms’) and a level of 
+impairment due t o these symptoms were 
+endorsed. This diagnosis followed 
+standard scoring algorithms which were 
+provided by the DISC -5 authors.  
+Terminology for 
+different types  Depression  Major depressive disorder  
+Anxiety  Anxiety disorders  
+Posttraumatic stress  PTSD  
+Conduct problems  Conduct disorder  
+Problems with inattention and/or 
+hyperactivity  ADHD  
+Viet Nam Adolescent Mental Health Survey    ■ 20  
+ Findings  
+Mental health problems  
+One-fifth of adolescents (21.7%) reported a mental health problem in the past 12 months (Table 6). 
+No difference in prevalence was seen between males and females, or younger (10 -13 years) and 
+older (14 -17 years) adolescents.  
+Table 6. 12-month prevalence of mental health problems among 10 -17-year -olds by sex and age group  
+Mental health problems  10-13 years  14-17 years  10-17 years  
+ % n % n % n 
+Males  21.4 357 20.2 292 20.8 649 
+Females  20.2 302 25.3 350 22.6 651 
+Total  20.8 659 22.7 462 21.7 1,301  
+Weighted N: males = 3,119; females = 2,877; 10 -13 years = 3,167; 14 -17 years = 2,829  
+ 
+As shown in Figure 1, anxiety had the highest prevalence (18.6%) of any mental health problem.  
+ 
+ 
+Figure 1. 12-month prevalence of mental health problems among 10 -17-year -olds by type  
+Adolescents with a mental health problem were then further analysed to determine the proportion 
+reporting impairment due to their symptoms in combination with the proportion reporting full 
+threshold versus subthreshold symptoms. Symptom thresholds were based on DSM -5 criteria 
+whereby subt hreshold symptoms indicate at least half of the required symptoms were met while full 
+threshold symptoms indicate that all required symptoms were met. This meant that adolescents with 
+a mental health problem were categorised into one of the four groups sho wn in Figure 2 below 
+(noting that full threshold symptoms with impairment equate to those meeting criteria for a mental 
+disorder). As shown in Figure 2, most adolescents with a mental health problem reported some level 
+of impairment due to their respective  symptoms, whether endorsing all symptoms required for a 
+diagnosis according to DSM -5 (3.3%) or at least half of required symptoms (10.3%).  
+ 
+ 4.3%18.6 %
+1.0% 0.7%2.8%
+02468101214161820
+Depression Anxiety Posttraumatic
+stressConduct problems Problems with
+inattention and/or
+hyperactivity%
+Viet Nam Adolescent Mental Health Survey    ■ 21  
+  
+ 
+Figure 2. 12-month prevalence of mental health problems by symptom threshold and impairment 
+endorsement among 10 -17-year -olds 
+The DISC -5 assessed impairment caused by symptoms (as required for DSM -5 diagnosis) across four 
+domains: family (problems with relationships with caregivers, difficulties spending time with family), 
+peer (diffic ulties spending time with peers), school or work (difficulties with school or work), and 
+personal distress. Impairment in more than one domain could be endorsed. Of those reporting 
+impairment (n = 819), two -thirds (67.0%) reported impairment in the family domain, while nearly 
+half reported impairment in relation to peers (47.0%) and school/work (45.4%) (Table 7).  
+Table 7. 12-month prevalence of mental health problems among 10 -17-year -olds endorsing impairment by 
+impairment domain  
+Impairment domain  % n 
+Family  67.0 549 
+Peers  47.0 384 
+School or work  45.4 371 
+Personal distress  34.6 284 
+Weighted N = 819  
+Mental disorders  
+DSM -5 diagnostic criteria for any mental disorder were met by 3.3% of adolescents (n = 200), with 
+less than 1% (0.6%; n = 38) having two or more mental disorders in the past 12 months. No difference 
+in prevalence was seen between males (3.3%) and females (3.4%), or younger (2.9%) and older (3.9%) 
+adolescents. As shown in Table 8, anxiety disorders had the highest p revalence (2.3%).  
+  No symptom 
+threshold met
+78.3%Full threshold symptoms 
+with impairment (mental 
+disorder) 3.3%
+Subthreshold symptoms 
+with impairment
+10.3%
+Full threshold 
+symptoms 
+without 
+impairment
+0.6%Subthreshold symptoms 
+without impairment
+7.5%Mental health 
+problems
+21.7%
+Viet Nam Adolescent Mental Health Survey    ■ 22  
+ Table 8. 12-month prevalence of mental disorders among 10 -17-year -olds by type  
+Mental disorders  % n 
+Anxiety disorders*  2.3 135 
+Major depressive disorder  0.9 51 
+ADHD  0.5 29 
+PTSD  0.3 19 
+Conduct disorder  0.2 12 
+* Prevalence of anxiety disorders was significantly higher than all other mental disorders  
+Of those with any mental disorder, impairment in the family domain was again the highest with close 
+to three -quarters reporting impairment in this domain (Table 9).  
+Table 9. 12-month prevalence of mental disorders among 10 -17-year -olds by impairment domain  
+Impairment domain  %  n 
+Family  74.2 149 
+Peers  63.3 127 
+School or work  64.1 128 
+Personal distress  51.8 104 
+Weighted N = 200  
+Suicidal behaviours and self -harm  
+Few adolescents reported suicidal behaviours in the past 12 months. Among the whole sample, in 
+the past 12 months, 1.4% reported suicidal ideation, 0.4% reported making a suicide plan, and 0.2% 
+reported attempting suicide. Only 1.6% reported ever attempting suicide. However, as shown in 
+Table 10, over 70% of those who reported a suicidal behaviour (ideation, planning, and/or attempt) 
+in the past 12 months had a mental health problem.  
+Table 10. Suicidal behaviours among 10 -17-year -olds 
+ Suicidal ideation 
+in past 12 
+months  Suicide planning 
+in past 12 months  Suicide attempt 
+in past 12 
+months  Suicide  
+attempt  ever 
+ % n % n % n % n 
+Mental health problem  73.5 61 83.7 19 77.4 8 73.5 70 
+Mental disorder  30.8 26 46.6 11 61.3 7 28.1 27 
+Weighted N: suicidal ideation (12m) =83; suicide planning (12m) =23; suicide attempt (12m) =11; suicide attempt (ever) =96  
+Similarly, only a relatively small proportion (4.7%) reported having ever self -harmed, with just over 
+1% reporting having self -harmed in the past 12 months (Table 11). Howeve r, more than three -
+quarters (76.3%) of those adolescents who self -harmed in the past 12 months had a mental health 
+problem.  
+Table 11. Self-harm among  10-17-year -olds 
+ Self-harmed in past 12 months  Ever self -harmed  
+ % n % n 
+Mental health problem  76.3 50 64.5 182 
+Mental disorder  29.0 19 20.9 59 
+Weighted N: self -harm (12m) = 66; self -harm (ever) = 283  
+Viet Nam Adolescent Mental Health Survey    ■ 23  
+ Considerations  
+Interpretation  
+V-NAMHS found that poor mental health is a common health issue among adolescents. One in five 
+adolescents (21.7%) had a mental health problem in the past 12 months, with one in thirty (3.3%) 
+meeting criteria for a mental disorder. In terms of comparison, t here are few studies that have utilised 
+diagnostic measures to measure the prevalence of mental disorders among the general adolescent 
+population in Viet Nam. Overcoming such methodological limitations is a core feature of V -NAMHS 
+and, as such, direct comp arison to existing studies is challenging given fundamental differences in 
+methodology. For example, the finding that 21.7% adolescents participating in V -NAMHS had a 
+mental health problem in the past 12 months (i.e., those endorsing at least half of the s ymptoms 
+required for a mental disorder diagnosis) falls within the range of a previous literature review which 
+found prevalence of mental health problems ranging from 8% to 29% (Samuels et al. 2018) . However, 
+meaningful comparison between different measures is limited and no comparable study was found 
+with which to compare the finding of 3.3% prevalence of mental disorders. The lack of existing 
+comparable studies demonstrates the significant evidence gap addressed by V -NAMHS, as wel l as 
+the importance of utilising comprehensive measures across a nationally representative sample to 
+better understand the prevalence of mental disorders in the adolescent population.  
+Adolescents who reported suicidal behaviour or self -harm in the past 12 months were more likely to be 
+those with a mental health problem. However, the overall prevalence of suicidal behaviours and self -harm 
+found in V -NAMHS were somewhat lower than what has been reported in previous studies. For example, 
+the 2019 Global School -based Student Health Survey (GSHS) in Viet Nam found 15.6% of adolescents 
+aged 13 -17 years reported suicidal ideation in the past 12 months, with a further 3.1% reporting having 
+attempted suicide in the past 12 months (World Health Organization, Ministry of Health and Ministry of 
+Education and Training 2022) . However, the GSHS utilises a self -administered questionnaire within a 
+school -setting. It is therefore possible that stigma around these suicidal behaviours may partly account 
+for the lower prevalence seen in V -NAMHS where suicidal behaviour questions were administered by an 
+interviewer. Further, the findings of the GSHS are substanti ally higher than other related findings in Viet 
+Nam. For example, a large study of 6,191 15 -24 year -olds in Hanoi reported 12 -month prevalence of 
+suicidal ideation of 2.3%, with less than 1% endorsing having attempted suicide in the past 12 months 
+(Blum, Sudhinaraset and Emerson 2012) . Again, the authors reported that sensitive questions were self -
+administered by participants. Also, the question regarding suicidal ideation conflated thoughts of suicide 
+with self -harm, and suicidal planning was not included as a separate category. This may further explain 
+the comparatively higher prevalence than what was seen in V -NAMHS.  
+Limitations  
+While V -NAMHS w as intentionally designed to address the methodological limitations of existing 
+studies, some aspects of the V -NAMHS methodology may have impacted the reported prevalence. 
+For example, interviews were administered face -to-face by a trained interviewer. It is possible that 
+the stigma associated with mental health problems and general lack of awareness about mental 
+health in the community impacted participant willingness to disclose information despite 
+comprehensive interviewer training, privacy being a requi rement of the interview, and all participants 
+being advised that collected data would be anonymous. A similar issue may have been present with 
+the reporting of suicidal behaviour and self -harm, given that these behaviours are often stigmatised 
+as undesirab le and adolescents may be reluctant to report it to an interviewer, resulting in lower 
+prevalence than studies using self -administered questionnaires (Blum, Sudhinaraset and Emerson 
+2012,  Hoàng Th ế Hải and Bùi Th ị Thanh Di ệu 2021, United Nations Children’s Funds (UNICEF) and 
+Overseas Development Institute (ODI) 2018, World Health Organization, Ministry of Health and 
+Ministry of Education and Training 2022) .   
+A further challenge may relate to the definitions of mental disorders according to the DSM -5, which 
+is what the DISC -5 is based on. The DSM -5 was developed by the American Psychiatric Association 
+and largely includes Western -based diagnostic criteria (American Psychiatric Association 20 13) which 
+Viet Nam Adolescent Mental Health Survey    ■ 24  
+ may not account for cultural differences in how mental health is described, experienced, or expressed 
+in a Vietnamese population. For example, Kim et al. (2019) found that somatic symptoms predicted 
+anxiety and depressive symptoms in both Viet namese and Vietnamese -American adolescents but 
+not for European -American adolescents (Kim et al. 2019) . It is therefore possible that the symptoms 
+examined by the DISC -5 (as based on DSM -5 diagnostic criteria) do not sufficiently account for 
+mental health -related somatic symptoms within a Vietnamese context.  
+To address these challenges, s ubstantial efforts were made to adapt the DISC -5 for use in the 
+Vietnamese setting within the confines of the diagnostic requirements of DSM -5. This included careful 
+translation of the entire V -NAMHS instrument (including the DISC -5), back -translation, and  review of 
+back-translations by the NAMHS teams. Revisions were also made based on feedback from participants 
+in initial trainings and based on a review of translations by in -country clinicians. The aim was to ensure 
+that the language of the instrument (in cluding grammar, idioms, and examples of behaviours) was 
+adequately adapted to the Vietnamese context while still measuring the same concepts as originally 
+intended. Changes were also made in response to the pilot study (further described under Methodology  
+in Appendi x 2) and revision continued throughout 2019 and 2020. Finally, to better understand the 
+potential interplay between cultural differences in mental health and the diagnostic requirements of the 
+DSM -5, both ‘mental health problems’ and ‘mental dis orders’ have been included in this report. This 
+allows a more comprehensive understanding of the mental health of the Vietnamese adolescent 
+population beyond the requirements for diagnosis established by the DSM -5. 
+Implications  
+The prevalence of poor menta l health uncovered by V -NAMHS indicates that mental health is a 
+public health issue that requires that attention of policymakers and planners in Viet Nam. The data 
+from V -NAMHS provides a foundational evidence base for such policy and health initiatives. F or 
+example, most adolescents were currently attending school meaning that implementation of specific 
+screening and management strategies, integrated with mental health promotion activities, within 
+the school setting could be one vehicle to reduce the preva lence and potential impact of these 
+symptoms on the health and wellbeing of Vietnamese adolescents. Furthermore, anxiety had the 
+highest prevalence of any mental health problem. Targeted health promotion campaigns focusing 
+on improving understanding of anx iety, identifying symptoms, and how to seek help may provide a 
+pathway to improving mental health for a large portion of the Vietnamese adolescent population 
+who experience mental health problems.  In addition, while the reported prevalence of suicidal 
+beha viours among adolescents was low, it nevertheless calls for policy attention and actions to 
+minimise the risk when the question is of life and death. Suicidal ideation often occurs over a period 
+of time before a plan is made or a suicide attempt occurs (Wasserman et al. 2008) . Therefore, early 
+detection and support services for thos e experiencing suicidal ideation, including through 
+identification of mental health problems, may help to avoid eventual suicidal attempts.  
+More broadly, the findings of V -NAMHS highlight the need for a national mental health policy which  
+considers adolescents and includes specific strategies for their mental health within schools and the 
+community more broadly. Recently, the Ministry of Education and Training issued Decision 1442/QD -
+BGDDT on June 1, 2022 (Promulgating the Mental Health Ed ucation Program for Children and 
+Students in the period 2022 -2025) and Decision No. 2138/QD -BGDDT on August 3, 2022 
+(Promulgating the Mental Health Education Plan for Children and Students for the Period 2022 -2025) 
+(Bộ Giáo d ục và Đào t ạo 2022a, B ộ Giáo d ục và Đào t ạo 2022b) . While these decisions demonstrate 
+a broad recognition of adolescent mental health within the education sector, a national 
+comprehensive policy framework is nee ded to address mental health needs of adolescents including 
+those who are in school as well as those who are not in school, and including participation the health 
+sector and other relevant sectors as well as the education sector. Positive action for adoles cent mental 
+health has the potential to offer current benefits (i.e., benefits experienced now by offering alleviation 
+of symptoms and improved ability to function optimally in everyday life), long -term benefits (i.e., 
+benefits in adulthood through potenti ally avoiding or minimising adverse outcomes associated with 
+mental health), as well as potential benefits for the next generation by having mentally well parents 
+and growing up in a society with established mental health policies (Patton et al. 2016) .
+Viet Nam Adolescent Mental Health Survey    ■ 25  
+      
+Service Use  
+Overview   
+The onset of mental disorder symptoms tends to occur during adolescence (World Health 
+Organization 2014) , offering a unique opportunity to provide early intervention and adolescent -
+tailored mental health services (Colizzi, Lasalvia and Ruggeri 2020) . Effective treatment and support 
+can decrease or resolve symptoms and improve functioning, while early positive experiences 
+accessing mental healt h care is likely to promote future help -seeking behaviours, reducing burden 
+on the individual and the health system into adulthood (Schnyder et al. 2019) . Collecting information 
+on service use patterns can help identify gaps in service delivery, inform whether existing men tal 
+health services are appropriate and accessible, and address barriers to care. This is especially 
+important for adolescents who face unique challenges in accessing care due to family pressure, peer 
+influence, and difficulties in paying for services (Person , Hagquist and Michelson 2017, World Health 
+Organization 2014)  . An understanding of what challenges are most pertinent to adolescents allows 
+direct action to be taken to reduce barriers to improve service utilisation and care outcomes for those 
+with me ntal health problems or mental disorders.  
+In Viet Nam, there have been recent attempts to increase access to mental health services by the 
+Government. For example, the Prime Minister issued Decision 1929/QD -TTg dated November 25, 
+2020 (Thủ tướng Chính ph ủ 2020)  which approved community -based social assistance and 
+rehabilitation programs for people with mental disorders for the period 2021 -2030. However, 
+adolescents are only mentioned as one of many subpopulations a nd the only focus on young people 
+specifically mainly relating to children with autism.  More recently, the Prime Minister issued Decision 
+155/QĐ -TTg dated 29 January 2022 (Thủ tướng Chính ph ủ 2022)  which approved the “National Plan 
+for the Prevention and Control of Non -Communicable Diseases and Mental Health Disorders for 
+2022 -2025”. While one of the goals of the Plan is to manage treatment at the population level to 
+limit any increase mental disord ers, the focus remains on schizophrenia and depression without 
+attention to adolescent -specific strategies or other disorders prevalent during adolescence (Thủ 
+tướng Chính ph ủ 2022) . Despite increasing recognition of mental health within Viet Nam more 
+broadly, there is still a significant lack of services, pa rticularly in rural areas as compared to urban 
+areas, with access further impacted by an individual’s socioeconomic status (Samuels et al. 2018) . 
+
+Viet Nam Adolescent Mental Health Survey    ■ 26  
+ Among adolescents, these challenges are further exacerbated with most available menta l health 
+services largely functioning to accommodate adults with severe mental illness and complex 
+requirements, such as schizophrenia (Cao Ti ến Đức 2020) . As a result, there is a significant lack of 
+mental he alth services for adolescents, especially for those who experience impairment and distress 
+from mental disorder symptoms but do not require intense intervention.   
+One of the main aims of V -NAMHS was to determine mental health service utilisation among 
+Vietnamese adolescents, as well as levels of perceived need and barriers to care. This chapter outlines 
+the measurement of service use and its related factors in V -NAMHS and presents the findings. All 
+proportions and numbers presented in this chapter are weig hted. While tests of statistical significance 
+are not included in this chapter or the report more broadly, differences that are statistically significant 
+have been highlighted in the relevant table and only differences which are statistically significant a re 
+discussed in text. Finally, considerations related to the interpretation of these findings and 
+implications for policymakers are briefly discussed.  
+Measurement  
+Service use questions were asked to all participants, regardless of whether any mental disorder 
+symptoms had been endorsed. To understand whether services had been accessed to support the 
+adolescent’s mental health, the term ‘emotional and behavioural prob lems’ was used to frame each 
+service use question. This term was chosen to reduce any stigma or potential impact from a limited 
+understanding of mental health terms. Additionally, ‘emotional and behavioural problems’ accounts 
+for the broad range of ways th at mental disorder symptoms can manifest, which can differ across age 
+groups and cultural settings. This approach is consistent with similar studies of mental health and 
+service use (Hafekost et al. 2016) . Further, V -NAMHS recognised that the services used may include 
+providers beyond formal healthcare servic es. For this reason, a broad range of service providers were 
+included in the measures across health, education, religious/traditional, and other sectors. All 
+questions related to the past 12 months, and all were asked to the parent, except for informal sup port 
+and self -help strategies which were asked of the adolescent.  
+Findings  
+Service use frequency and type  
+Of those adolescents with a mental health problem (n = 1,301), only 8.4% had used any service that 
+provides support or counselling for emotional and b ehavioural problems in the past 12 months. 
+Overall, only 6.5% (n = 389) of adolescents had used services in the past 12 months, with no difference 
+seen between males (7.4%; n = 231) and females (5.5%; n = 158).  Of those adolescents who used 
+services, most parents reported that these were helpful or very helpful (80.0%).  
+Regarding how often services were used in the past 12 months, Table 12 shows half (50.8%) of these 
+adolescents had only used services once, while a quarter (26.2%) had used services two to f our times. 
+Very few (3.4%) adolescents had accessed services five or more times.  
+Table 12. Frequency of accessing  services providing support or counselling for emotional and behavioural 
+problems in the past 12 months among 10 -17-year -olds by sex  
+Sex Once  2-4 times  5 or more times  
+ % n % n % n 
+Male  47.2 109 26.3 61 4.5 10 
+Female  56.0 89 26.2 41 1.7 3 
+Total  50.8 198 26.2 102 3.4 13 
+Weighted N: males = 231; females = 158; total = 389  
+ 
+Viet Nam Adolescent Mental Health Survey    ■ 27  
+ When asked which service provider was used most in the past 12 months, over half of parents (56.2%) 
+whose adolescent accessed services in the past 12 months reported that this was from a doctor or 
+nurse (Table 13).  
+Table 13. Service provider used most for emotional and behavioural problems in the past 12 months among 
+10-17-year -olds 
+Weighted N = 389  
+Of those who had accessed services, 28.1% had a mental health problem in the past 12 months 
+meaning that over 71.9% did not report sufficient symptoms to indicate the presence of a mental 
+health problem according to the DISC -5. As shown in Figure 3, adoles cents with a mental health 
+problem who did access services were more likely to report impairment than not, regardless of 
+whether they endorsed full threshold (14.8%, n= 16) or subthreshold (60.1%, n = 66) symptoms.  
+ 
+ 
+Weighted N = 109  
+Figure 3. Symptom threshold and impairment endorsement among 10 -17-year -olds with a mental health 
+problem using services in the past 12 months.  
+Perceived need and barriers to care  
+Among all parents, only 5.1% (n = 307) identified that their adolescent needed help for emotional 
+and behavioural problems. Among those identifying that their adolescent needed help, 37.7% (n = 
+116) reported that their adolescent had received all the help they needed. As shown in Table 14, one -
+fifth of parents (20.4%) reported preferring to manage the adolescent’s problem alone or with the Full threshold 
+symptoms with 
+impairment (mental 
+disorder) , 14.8%
+Subthreshold 
+symptoms with 
+impairment , 60.1%Full threshold 
+symptoms without 
+impairment , 0.4%Subthreshold 
+symptoms without 
+impairment , 24.7%Type of service provider  % n 
+Doctor or nurse  56.2 219 
+Community health worker  10.7 42 
+School staff  5.5 22 
+Religious/faith leader  4.5 17 
+Specialist e.g., psychiatrist  1.4 5 
+Other  0.3 1 
+Traditional healer  0.1 0 
+Viet Nam Adolescent Mental Health Survey    ■ 28  
+ support of family while one in ten reported not knowing whether the adolescent needed help (10.7%) 
+and/or that they did  not know where to get help (10.0%). Note that the parent was able to endorse 
+multiple options except for those who indicated that none of the listed reasons applied.  
+Table 14. Barriers to seeking help or receiving help for emotiona l and behavioural problems in the past 12 
+months among parents of 10 -17-year -olds 
+Reason   % n 
+Preferred to handle adolescent’s problems alone or with the support of family  20.4 63 
+Wasn’t sure if adolescent needed help  10.7 33 
+Wasn’t sure where to get help 10.0 30 
+Thought the problem would get better by itself  5.8 18 
+Wasn’t anywhere to get help  3.8 12 
+It cost too much or our family couldn’t afford it  2.7 8 
+None of these reasons (other)a 2.4 7 
+There was a problem getting to a service  2.0 6 
+Worried about what other people would think  1.3 4 
+Didn’t want to talk about it with a stranger  1.3 4 
+Adolescent refused help or didn’t attend the appointment  0.7 2 
+Asked for help but didn’t get it  0.6 2 
+Weighted N = 307; a single choice option only  
+Informal support  
+All adolescents were asked who they usually speak to when they have worries or concerns. They were 
+able to select more than one option except for those who endorsed not speaking to anyone (9.5%). 
+Among those who indicated that they did spe ak with someone, close to three -quarters (73.9%) of 
+adolescents endorsed speaking to a family member, followed by close to two -fifths who reported 
+speaking to a friend (38.2%) (Table 15).  
+Table 15. Person spoken to when having worri es or concerns among 10 -17-year -olds  
+Who the adolescent usually talks to when they have worries or concerns  % n 
+Family member  73.9 4,429  
+Friend  38.2 2,288  
+Teacher  2.9 176 
+Partner (boyfriend/girlfriend)  2.3 137 
+Community member  1.6 94 
+Other  1.0 60 
+Doctor  0.5 31 
+Religious/faith leader  0.4 22 
+Self-help strategies  
+All adolescents were asked about their strategies for managing and preventing emotional and 
+behavioural problems over the past 12 months. Adolescents could choose more than one option 
+except when reporting that they did not use any self -help strategies (11.7%). Table 16 shows 30.7% 
+endorsed engaging in more exercise while a quarter (24.8%) stated they did more of the things they 
+enjoyed.   
+Viet Nam Adolescent Mental Health Survey    ■ 29  
+ Table 16. Self-help strategies used to manage or prevent emotional and behavioural problems among 10 -
+17-year -olds 
+Self-help strategy  % n 
+Did more exercise or took up a sport  30.7 1,839  
+Did more of the things you enjoy  24.8 1,490  
+Sought support from family  19.2 1,149  
+Sought support from friends  17.7 1,060  
+Improved your diet  14.7 884 
+Sought information in books, magazines or on TV  9.0 538 
+Sought support through social networking such as online chat rooms, social 
+media or other internet groups  6.9 416 
+Joined a social group of some kind  1.7 104 
+Meditated or did relaxation therapy  1.6 97 
+Stopped smoking, drinking alcohol or using drugs  0.2 14 
+Considerations  
+Interpretation  
+The findings indicate a potentially large unmet need for mental health services for adolescents in Viet 
+Nam. Of adolescents with a mental health problem (21.7%; n = 1,301), only 8.4% (n = 109) had used 
+any service that provides support or counselling for e motional and behavioural problems in the past 
+12 months. This finding is in line with international surveys that indicate that most people in low - and 
+middle -income countries (LMICs) with mental disorders do not receive treatment (Demyttenaere et 
+al. 2004) . 
+The findings around barriers to care may provide some clues as to why service access was low 
+amongst those with mental health problems. Only 5.1% (n = 307) of parents indicated that their 
+adolescent needed help for emotional and behavioural problems during  the past 12 months. Of those 
+who did, close to two -fifths (37.7%) reported that their adolescent had received all the help they 
+needed with a further 20.4% preferring to handle their adolescent’s problems alone or with the 
+support of family. While it is p ossible that some adolescents did receive sufficient help, these findings 
+may indicate an issue with mental health literacy, particularly in relation to recognising mental health 
+problems which may need professional help. This is supported by previous stud ies in Viet Nam 
+(Hoang -Minh Dang et al. 2020) . There may  also be an effect of stigma surrounding mental health 
+whereby the likelihood of seeking help for mental health problems is reduced. Previous research has 
+found existing stigma of mental health among Vietnamese populations impacts help -seeking 
+behaviours (Kamimura et al. 2018, Mai Do et al. 2014) .  
+Conversely, only 28.1% of those accessing servi ces had a mental health problem. This means that 
+71.9% of those who accessed services for emotional and behavioural problems did not report 
+sufficient symptoms to indicate a mental health problem as measured by the DISC -5. This finding is 
+difficult to inte rpret, given the small proportion of adolescents seeking services to begin with (6.5%; 
+n = 389). It is possible that a proportion of these adolescents received sufficient help from these 
+services to reduce symptoms to the point of no longer registering as having a mental health problem. 
+However, given that the DISC -5 measures symptoms over the past 12 months and given the fact that 
+half of these adolescents only accessed services once, it seems unlikely that this would be the case in 
+all instances. It is al so possible that some of these adolescents did have a mental health problem but 
+did not register as such based on the symptoms assessed in the DISC -5 or that the concept of what 
+constitutes an ‘emotional and behavioural problem’ was not as well correlated to a mental health -
+related problem as intended by the questions. Further, despite all efforts made to adapt the DISC -5 
+to the Vietnamese context, it is possible that the DSM -5-based scoring algorithms (i.e., how those 
+Viet Nam Adolescent Mental Health Survey    ■ 30  
+ with a mental health problem or mental  disorder are identified) may need further review to accurately 
+capture the different symptom distributions within the Vietnamese population. The data provided by 
+V-NAMHS allow for such investigation in future analyses.  
+Limitations  
+The V -NAMHS findings reg arding service use for emotional and behavioural problems should be 
+interpreted with some caution. First, the small number of adolescents accessing services for 
+emotional and behavioural problems (n = 389) makes it difficult to identify clear patterns in s ervice 
+use (e.g., frequency or presence of a mental health problem). However, these findings are a starting 
+point and, at the broadest level, demonstrate the unmet need and barriers to care among the 
+Vietnamese adolescent population. Second, most questions  were asked of parent rather than the 
+adolescent due to considerations relating to the potential length of the interview. This means that 
+the adolescent’s perspective, particularly regarding barriers to care, is not measured. However, given 
+that most adole scents reported speaking to a family member when they have worries or concerns, 
+the parent’s role as ‘gatekeeper’ to accessing mental health services indicates that they are well -
+placed to provide information on barriers to care that are most pertinent to policymakers. Further, 
+the service use questions asked of the parent could be easily adapted to adolescent respondents in 
+future studies.  
+Implications  
+V-NAMHS found a potentially large unmet need for services, with less than 10% of those with a 
+mental heal th problem accessing services in the past 12 months. However, the findings also highlight 
+opportunities for improving the propensity of adolescents and their families to seek help for mental 
+health problems. For example, the findings showed that parents an d families are a central source of 
+support for adolescents. Close to three -quarters of adolescents (73.9%) reported that they speak to 
+a family member when they have worries or concerns. This is in line with previous research from Viet 
+Nam that also found young people were most likely to seek help for mental health problems from 
+family and friends (Kamimura et al. 2018, Tr uc Thanh Thai, Ngoc Ly Ly Thi Vu and Han Hy Thi Bui 
+2020) . However, in V -NAMHS, only 5.1% of parents identified that their adolescent needed help for 
+emotional and behavioural problems in the past 12 months despite 21.7% of adolescents having a 
+mental h ealth problem during the same period. Of those, well over a third (37.7%) reported that their 
+adolescent received all the help they needed and an additional 20.4% reported not accessing help 
+because they preferred to handle their adolescent’s problems them selves or with the help of family. 
+The combination of the parent and adolescent data demonstrate that strategies specifically designed 
+to improve mental health literacy, reduce mental health -related stigma, and increase awareness of 
+available services amon g families may be a prudent step. Such programs could focus on ensuring 
+parents feel better equipped to handle worries or concerns presented by an adolescent while, at the 
+same time, educating them on indicators of mental health problems, where to seek hel p for such 
+problems, and the benefits of doing so for both their adolescent and their family more broadly. There 
+is a burgeoning evidence -base for adapting mental health literacy programs for Viet Nam (Hoang 
+Minh Dang et al. 2018, Nga Linh  La et al. 2022, Thach Tran et al. 2020) . The issue of low mental health 
+literacy and substantial stigma surrounding mental health within Viet Nam is evidenced by existing 
+studies reporting perspectives from both the general population (Kamimura et al. 2018, Mai Do et al. 
+2014, Mckelvey et al. 1999, Quynh Chi Nguyen Thai and Thanh Huong Nguyen 2018, Truc Thanh Thai, 
+Ngoc Ly Ly Thi Vu and Han Hy Thi Bui 2020)  and mental health professionals (Hoang -Minh Dang et 
+al. 2020) , noting that evidence specific to adolescents and their families is  still limited.  
+Any improvements to help -seeking behaviour among adolescents and their families must also be 
+met by equivalent improvements to service availability. Again, the findings of V -NAMHS highlight 
+opportunities for initial steps towards such improvements. For exa mple, of those who accessed 
+services for emotional and behavioural problems in the past 12 months, over half (56.2%) did so from 
+more formal health providers such as a doctor or a nurse. As such, there may be an opportunity to 
+incorporate mental health scr eening into existing general health services while also providing 
+education and training on mental health and referral pathways for general health practitioners. For 
+example, to facilitate the integration of mental health care services into primary health services, WHO 
+Viet Nam Adolescent Mental Health Survey    ■ 31  
+ published the mhGAP Intervention Guide (mhGAP -IG version 1.0 published in 2010; version 2.0 
+published in 2016) for mental, neurological and substance use disorders in non -specialist health 
+settings for use by doctors, nurses, other health wor kers as well as health planners and managers 
+(World Health Organization 2016) . The feasibility and usefulness of integrating mental health care 
+services into primary and community -based settings have been demonstrated within several LMICs 
+(Keynejad, Spagnolo and Thornicroft 2022) . The mhGAP guidelines provide a foundation for the 
+implementation of such policies and practices within Viet Nam that can be used to further facilitate 
+and support the services that adolescents and their families are seeking for mental health support. 
+Integrating mental health practices into primary care providers will help to utilise the findings of V -
+NAMHS by providing formal healthcare providers with adequate training and resources to provide 
+mental health support. It should be noted that any such efforts require the recognition of mental 
+disorders through appropriate policies and strategies designed to guide improved resource  
+allocation for adolescent mental health.
+Viet Nam Adolescent Mental Health Survey    ■ 32    
+   
+COVID -19 
+Overview  
+The first case of COVID -19 was detected in Viet Nam in January 2020. A National Steering Committee 
+was then established to manage the Government’s response to the COVID -19 pandemic. The 
+Government initiated formal quarantine procedures and strict measures to prevent the spread of 
+COVID -19 including banning public gatherings, enforcement of movement restrictions, and 
+mandatory face masks in public places. A nationwide lockdown was initiated from April 2020 where 
+people were required to stay home, and busines ses and schools were closed. After the national 
+lockdown, local lockdowns at the provincial level continued. Viet Nam saw a peak of COVID -19 cases 
+in September 2021 with more than 10,000 new cases per day. In 2022, given the high COVID -19 
+vaccination rates , the Government relaxed lockdown and isolation measures across the country (Bộ 
+Y tế 2022, Chính ph ủ 2022) .  
+Globally, the COVID -19 pandemic impacted the lives of adolescents through the enforcement of 
+containment measures (including school closures) leading to social isolation, l ack of daily routines, 
+and household stress. Emerging evidence has shown an association between the COVID -19 
+pandemic and higher rates of anxiety, depression, and stress (Jones, Mitra and Bhuiyan 2021) . 
+Understanding how COVID -19 may have affected adolescent mental health is necessary for future 
+pandemic preparations and for providing the supports young people need to address what some 
+are referring to as “a lost generation” (Hafstad and Augusti 2021) . Currently, there is a lack of 
+nationally representative data from either adolescents or their parents on how the COVID -19 
+pandemic has impacted their lives in the context of mental health and wellbeing. This chapter 
+outlines how elements of the COVID -19 pandemic most pertinent for V -NAMHS were measured and 
+reports key findings. All proportions and numbers presented in this chapter are weighted. While 
+tests of statistical si gnificance are not included in this chapter or the report more broadly, differences 
+that are statistically significant have been highlighted in the relevant table and only differences which 
+are statistically significant are discussed in text. Consideration s related to the interpretation of these 
+findings and their implications for policymakers in the context of mental health are then briefly 
+discussed.  
+
+Viet Nam Adolescent Mental Health Survey    ■ 33   
+ Measurement  
+The COVID -19 questions focused on factors most likely to be associated with mental health as per 
+the core aim of V -NAMHS. These questions were not intended nor designed to be a comprehensive 
+measure of all experiences during the COVID -19 pandemic. The questions were specifically designed 
+for the survey, initially based on a review of relevant lite rature and then in consultation with all five 
+international NAMHS teams. Questions were asked to both the parent and the adolescent and 
+related specifically to experiences during the pandemic.  
+Both the parent and the adolescent were first asked if they had  heard of COVID -19. Those who had 
+were then asked a series of questions related to their experiences during the COVID -19 pandemic. 
+The parent was asked questions about their direct contact with COVID -19, quarantine, stigma, 
+economic impacts on the househol d (including any change in household income and insufficient 
+funds for necessities), and changes to their own alcohol and illicit drug use. The parent was also 
+asked about their adolescent’s need for help with emotional or behavioural problems during the 
+COVID -19 pandemic, whether they used services for these problems during the pandemic, and what 
+barriers related to COVID -19 stopped them from getting help for their adolescent (if applicable).  
+The adolescent was asked about whether they permanently stopped  going to school during the 
+COVID -19 pandemic. They were also asked about different experiences during the pandemic 
+including witnessing violence between adults in the household, alcohol and illicit drug use by adults 
+in the household, and their own alcoho l and illicit drug use. Finally, adolescents were asked about 
+increases in specific emotional and behavioural problems during the COVID -19 pandemic and if they 
+had someone to talk to while experiencing these problems.  
+Findings  
+As shown in Table 17, 7.7% o f adolescents  “very agreed ” that they  often experienc ed at least one 
+emotional or behavioural problem more than usual during the COVID -19 pandemic, with no 
+differences between males and females  (if the respondents who “agreed” were included, this 
+proportion would be as high as 67%) . 
+Table 17: Proportion often experiencing emotional and behavioural problems more than usual during the 
+COVID -19 pandemic among 10 -17-year -olds by sex  
+ 
+Male  Female  Total  
+ % n % n % n 
+More anxious or stressed  5.2 162 4.9 141 5.1 304 
+Sadder or more depressed  3.6 112 3.7 106 3.6 218 
+More problems concentrating  2.7 85 1.9 55 2.3 140 
+More lonely or isolated  2.2 70 1.5 42 1.9 112 
+Total (increase in any problem)  8.2 254 7.3 209 7.7 463 
+Weighted N: males = 3,119; females = 2,877   
+ 
+A total of 7.1% (n = 427) of parents reported that their adolescent needed help for emotional and 
+behavioural problems during the COVID -19 pandemic. Of those, 80.3% (n = 343) did not access 
+services during the pandemic and most reported that this was due t o fear of contracting COVID -19 
+(69.2%; n = 237), noting that parents could endorse more than one reason for not accessing services 
+during this time.  
+Figure 4 shows the proportion of adolescents endorsing different experiences during the COVID -19 
+pandemic and the proportion who reported that this was an increase compared to before the 
+Viet Nam Adolescent Mental Health Survey    ■ 34   
+ pandemic. While close to 10% of adolescents reported an adult in the household drinking alcohol 
+or using illicit drugs during the pandemic, less than 1% (0.5%) of the entire a dolescent sample 
+reported that this was an increase as compared to before the pandemic.  Over two -thirds of parents 
+(71.5%) reported a decrease in household income during the COVID -19 pandemic. Further, 12.3% 
+stated that they often did not have enough money  for necessities during the pandemic.  
+  
+ 
+Figure 4. Experiences during the COVID -19 pandemic among 10 -17-year -olds 
+Considerations  
+Interpretation  
+One in thirteen adolescents (7.7%) reported often feeling more depressed, more anxious, more 
+isolated, or having more problems concentrating during the COVID -19 pandemic than prior to the 
+pandemic. These findings are broadly consistent with other studies c onducted in Viet Nam. For 
+example, a rapid qualitative assessment of the impacts of COVID -19 in Viet Nam by UNICEF found 
+an association between COVID -19 and increased levels of stress, anxiety, and depression anecdotally 
+reported by young people (UNICEF 2020a) . However, comparison is difficult as there are few 
+quantitative studies on the impacts of COVI D-19 in Viet Nam, with no such studies conducted on a 
+larger scale. Further, while 7.1% of parents reported that their adolescent needed help for emotional 
+and behavioural problems during the COVID -19 pandemic, 80.3% of those reported that they did 
+not use  services. This was largely due to a fear of catching COVID -19 (69.2%). Similar studies 
+conducted in other LMICs have also reported that a considerable proportion of adolescents and 
+young people felt that they needed help related to their physical and ment al wellbeing during the 
+COVID -19 pandemic but did not ask for help (UNICEF 2020b) . 
+Limitations  
+While V -NAMHS provided a unique opportunity to assess the impacts of the COVID -19 pandemic 
+on adolescent mental health and wellbeing, the study was not designed nor intended to 
+comprehensively measure all aspects of the COVID -19 pandemic. Rather, the quest ions were 
+designed to provide a brief ‘snapshot’ of the COVID -19 pandemic in the context of V -NAMHS and 
+provide the opportunity for future analysis accounting for any impact of the pandemic. It therefore 
+remains possible that some relevant aspects of the p andemic period were not captured. Further, 
+there were initial concerns that fear of contacting COVID -19 may impact the response rate of V -
+NAMHS and potentially bias the findings. However, the eventual response rate of 81.1% indicates n = 53n = 593
+n = 87
+n = 4n = 29n = 3
+0%1%2%3%4%5%6%7%8%9%10%
+Witnessed violence between
+adults in householdAdults in household used illicit
+drugs/drank alcoholAdolescent used illicit
+drugs/drank alcohol
+During COVID-19 More than before COVID-19
+Viet Nam Adolescent Mental Health Survey    ■ 35   
+ that this was not an i ssue.  
+Implications  
+The findings of V -NAMHS demonstrated that the COVID -19 pandemic had a negative impact on the 
+mental health of adolescents in Viet Nam. These findings, coupled with those indicating an unmet 
+need for mental health services, indicate there  are improvements to be made to the policies and 
+services that support adolescents both now, into the future, and in preparation for future 
+pandemics/crisis situations. For example, services that are easy to access (e.g., such as phone lines 
+or online chat  services) may be a prudent approach to address the potentially large unmet need for 
+services while also ensuring that crisis care and continuity of existing mental health care can be 
+ensured during unforeseen circumstances.  In these situations, tailored health promotion may also 
+be useful to target adolescents who develop mental health problems in relation to specific stressors, 
+e.g., loneliness and depression related to school closures. Adolescents who need to access services 
+for the first time may be pa rticularly vulnerable, and public health messaging that provides 
+knowledge, reduces stigma, and normalises mental health may be of particular importance. Further, 
+the reported increase in emotional and behavioural problems during the COVID -19 pandemic 
+highlights the importance of including mental health in planning for future population -level events 
+such as pandemics, natural disasters, and conflict.  
+ 
+  
+Viet Nam Adolescent Mental Health Survey    ■ 36   
+ Appendix 1: Measures  
+The measures administered to the parent and adolescent are shown below. This informa tion was 
+adapted from Erskine et al. (2021) . 
+Parent  
+Measure  Description  
+Demographics  Collects demographic information pertaining to the household, 
+adolescent, and parent. Eligibility is also assessed in this module 
+according to the exclusion criteria detailed in the Introduction under 
+‘Who participated in V -NAMHS’?  
+Chronic illness  Measures serious or chronic illness experienced by the adolescent or 
+caregiver/s.  
+Pediatric Symptom Checklist – 17 
+(PSC -17) Brief screening questionnaire that assesses internalising and 
+externalising symptoms in adolescents, used to measure the parent’s 
+perspective of the adolescent’s mental health.  
+Patient Health Questionnaire – 9 
+(PHQ -9) Brief screening measure used to scree n the parent’s depressive 
+symptomology.  
+Generalised Anxiety Disorder – 7 
+(GAD -7) Brief screening measure used to screen the parent’s anxious 
+symptomology.  
+DISC -5: Introductory module  Establishes a timeline of significant events in the past 12 months to 
+assist the participant with recall and instructs participants on how to 
+answer questions in the DISC -5 modules.  
+DISC -5: ADHD  Measures the prevalence of ADHD in the past 12 months.  
+Service use  Collects information from the parent about service use, barriers to 
+care, and perceived need for care in relation to the adolescent.  
+COVID -19 Measures direct contact with COVID -19, stigma, economic impact on 
+the household, substance use by the parent, and the adolescent’s 
+service use during the CO VID-19 pandemic.  
+ 
+  
+Viet Nam Adolescent Mental Health Survey    ■ 37   
+ Adolescent  
+Measure  Description  
+DISC -5: Introductory module  Establishes a timeline of significant events in the past 12 months to 
+assist the participant with recall and instructs participants on how to 
+answer questions in the DISC -5 modules.  
+DISC -5: Social phobia  Measures the prevalence of social phobia in the past 12 months.  
+DISC -5: Generalised anxiety 
+disorder  Measures the prevalence of generalised anxiety disorder in the past 
+12 months.  
+DISC -5 major depressive disorder  Measures the prevalence of major depressive disorder in the past 12 
+months. Includes suicidal behaviour questions which are asked of all 
+adolescents.  
+Self-harm  Measures the prevalence, age of onset, and recency of self -harm.  
+DISC -5: Conduct disorder  Measures the prevalence of conduct disorder in the past 12 months.  
+DISC -5: PTSD  Measures the prevalence of PTSD in the past 12 months.  
+Informal help and self -help 
+strategies  Collects information about informal help and self -help strategies.  
+Self-rated health and body image  Measures the adolescent’s self -rated health and body image.  
+Physical activity  Measures the adolescent’s physical activity.  
+Rosenberg Self -Esteem Scale  Brief standardised measure of self -esteem.  
+Bullying  Measures bullying victimisation and perpetration frequency, including 
+the mode of bullying.  
+School and education  Measures academic aspirations (both current and past aspirations 
+depending on current school status), expectations, and pressure.  
+Peer relationships and loneliness  Collects information about the adolescent’s friendships (including 
+peer deviance) and loneliness.  
+GEAS Family Connectedness  Collects information about the adolescent’s relationship with their 
+parent.  
+Religiosity  Measure of perceived support from faith community.  
+Safety and security  Measures perceived personal safety in different contexts e.g., home, 
+school, and the neighbourhood.  
+Sexual behaviour*  Collects information on the adolescent’s sexual behaviour, sexuality, 
+and gender identity. Only asked to adolescents aged 12 -17 years old.  
+Adverse Childhood Experiences 
+(ACEs) questionnaire * Measures lifetime exposure to multiple types of abuse, neglect, 
+violence between parents or caregivers, other kinds of serious 
+household dysfunction, and violence.  
+Substance use*  Measures of use of cigarettes, alcohol, cannabis, and other illicit 
+drugs.  
+COVID -19 Measures direct contact with COVID -19, education impacts, 
+household/individual adversities, and emotional and behavioural 
+problems during the COVID -19 pandemic.  
+* These modules were self -administered by the adolescent.   
+Viet Nam Adolescent Mental Health Survey    ■ 38   
+ Appendix 2: Methodology  
+Sampling frame  
+The primary objective of the sampling frame for V -NAMHS was to provide statistically reliable 
+estimates of the prevalence of adolescent mental disorders. The sample is nationally representative, 
+including urban and rural areas.  
+The V -NAMHS sampling frame included all 63 provinces, consisting of 713 districts, which were 
+divided into four regions (Northern Midlands and Mountain Areas and the Central Highlands; Red 
+River Delta; North Central and Central Coastal Areas; and South East and the Mekong River Delt a).  
+Table 18. Population of Viet Nam in 2019 by regions and rural -urban areas  
+Region  Population  
+(persons)  % of total 
+population  Urban areas  
+   Population  
+(persons)  % of total 
+population  
+Region 1: Northern Midlands and 
+Mountain Areas + Central 
+Highlands  18,375,547  19.1 3,957,095  21.5 
+Region 2: Red River Delta  22,543,607  23.4 7,856,566  34.9 
+Region 3: North Central and 
+Central Coastal Areas  20,187,293  21.0 5,719,511  28.3 
+Region 4: South East + Mekong 
+River Delta  35,102,537  36.5 15,526,563  44.2 
+Total  96,208,984  100.0  33,059,735  34.4 
+Source : (General Statistical Office 2020)  
+ 
+In total, 38 provinces /cities from four regions were selected for the survey  (see the map in Figures 
+5), including : 
+• Region 1 : Hà Giang, Cao B ằng, B ắc Kạn, Tuyên Quang, Đi ện Biên, Yên Bái, Thái Nguyên, B ắc 
+Giang, Kon Tum, Đ ắk Lắk, Lâm Đ ồng. 
+• Region 2 : Hà N ội, Quảng Ninh, Vĩnh Phúc, H ải Dương, H ải Phòng, Hưng Yên, Thái Bình, Nam 
+Định. 
+• Region 3 : Thanh Hoá, Ngh ệ An, Qu ảng Bình, Đà N ẵng, Qu ảng Ngãi, Phú Yên, Ninh Thu ận. 
+• Region 4 : Bình Phư ớc, Bình Dương, Đ ồng Nai, Bà R ịa-Vũng Tàu, H ồ Chí Minh  City, Tiền Giang, 
+Trà Vinh, Đ ồng Tháp, An Giang, Kiên Giang, H ậu Giang, B ạc Liêu . 
+Households in 38 selected province s were grouped into  enumeration units called Enumeration Areas 
+(EAs) , with an average of about 120 households per EA.  Then 200  EAs were  randomly selected from 
+38 selected  provinces  with equal distribution across the four regions, i.e., 50 EAs per region (25 urban 
+and 25 rural EAs). The number of households selected for each EA within V -NAMHS was 38 
+households per EA. An estimated response rate of 79% (non -response rate = 21%) was applied when 
+calculating the V -NAMHS sample size. The selection of 7600 households corresponds to the 
+expected numbers of 6000 households completing the interviews.  
+ 
+ 
+Viet Nam Adolescent Mental Health Survey    ■ 39   
+  
+Note: Selected provinces/cities are marked with  
+Source: Vietnam Depar tment of Survey and Mapping & V -NAMHS  
+Figure 5. Map of Viet  Nam and 38 selected provinces/cities  
+Pilot study  
+Before the commencement of data collection for V -NAMHS, a pilot study was conducted to test all 
+processes and logistics. The pilot study was carried out in Hanoi in the North and Dong Nai in the 
+South. In Hanoi, 25 adolescents (nine males and 16 females) a nd their parent were interviewed. In 
+
+Viet Nam Adolescent Mental Health Survey    ■ 40   
+ Dong Nai, a further 25 adolescents (12 males and 13 females) and their parent were interviewed. The 
+pilot study was conducted to test consistency and coherence of study questions, length of interviews, 
+language appropri ateness, and administration of difficult or sensitive questions. The pilot study was 
+also used to test the how well the tools were programmed on the SurveyCTO platform as well as to 
+inform survey planning and organisation. Most of the challenges were relat ed to the length of the 
+tools, comprehension difficulties for younger adolescents, and programming issues. These 
+challenges were reviewed and necessary revisions were made to the instrument prior to data 
+collection.  
+Fieldwork  
+Data collection in Viet Nam st arted on 21st September 2022, beginning in the North followed by the 
+South. Data collection involved a total of 127 interviewers. The fieldwork was implemented according 
+to the fieldwork protocol developed and established by all five international NAMHS te ams which 
+was then applied within Viet Nam. The V -NAMHS team worked closely with the GOPFP to identify 
+the boundaries during household listing and mapping in the 38 provinces. A total of 200 EAs were 
+selected, each containing approximately 120 households f rom which 38 households were selected 
+for the V -NAMHS sample. Due to COVID -19-related travel restrictions between provinces in Viet 
+Nam during data collection, interviewers were staff of the local POPFP, which avoided the need for 
+interviewers to travel be tween provinces. The number of interviewers allocated to each province was 
+dependent on the size of the province and ranged between two to 16 interviewers. Data collection 
+was only conducted if the selected EA was classified as “green” (safe) or “yellow” ( low risk of COVID -
+19) and was suspended if the EA was classified as “orange” (high risk) or “red” (very high risk).  
+In the weeks prior to data collection, letters containing information on V -NAMHS were provided to 
+the selected households within each EA. Th e protocols for securing voluntary participation of the 
+parent and the adolescent, privacy, safety (for interviewers and participants), and data security were 
+also included in the information provided to households. This was facilitated by a close cooperat ion 
+between the V -NAMHS team, the GOPFP, and the POPFPs.  
+Throughout data collection, monitoring and technical support was provided to field staff daily by 
+the V -NAMHS team via online communication. The V -NAMHS team also worked with the UQ and 
+JHSPH teams w ho monitored the data according to pre -determined protocols. Ongoing technical 
+advice and troubleshooting was also provided by these teams.  
+ 
+ 
+ 
+  
+Viet Nam Adolescent Mental Health Survey    ■ 41   
+ Appendix 3: Glossary  
+Term  Definition  
+12-month prevalence  Meeting criteria for a mental health problem or mental disorder as 
+measured by the DISC -5 in the 12 months prior to the interview.  
+This includes those whose symptoms first developed during the 12 months 
+prior to the interview, and those whose symptoms developed earlier but 
+who continued to meet criteria during the past 12 months.  
+Adolescent  A young person aged 10 -17 years old.  
+While WHO defines adolescents as those aged 10 -19 years -old, adolescents 
+aged 18 -19 years -old were excluded from the study as they are more likely 
+to be living independent ly and/or working away from home. Further, 
+diagnostic measures (such as the DISC -5) are not designed to be 
+administered to people aged 18 years and older who are normally assessed 
+using instruments designed for adults in surveys focused on adults.  
+Anxiety  disorders  
+ A class of mental disorders defined by excessive fear and anxiety. Social 
+phobia and generalised anxiety disorder were the two anxiety disorders 
+included in this survey.  
+Attention -
+deficit/hyperactivity 
+disorder (ADHD)  
+ Characterised by persist ent patterns of inattention and/or hyperactivity -
+impulsivity.  
+Adolescents may have troubles with attention and concentration, have 
+excessive movement and/or trouble controlling impulsive behaviours. 
+These behaviours are inconsistent with the adolescent’s a ge or 
+developmental level and occur across numerous settings.  
+The DISC -5 ADHD module was administered to the parent.  
+Conduct disorder  Characterised by a repetitive pattern of behaviours violate the rights of 
+others and/or major societal rules or norms. The behaviours can include 
+aggression to people or animals, destruction of property, deceitfulness or 
+theft, or a serious violation of ru les.  
+The DISC -5 conduct disorder module was administered to the adolescent.  
+Diagnostic criteria  
+ A set of specific requirements an adolescent must meet to be considered 
+to have a mental disorder. Criteria can include:  
+• A set number or combination of symp toms  
+• The age of onset for symptoms or behaviours  
+• Frequency and duration of symptoms  
+• Distress or impairment  
+In V-NAMHS, diagnostic criteria were determined according to DSM -5 (see 
+below).  
+Diagnostic Interview 
+Schedule for Children, 
+Version 5 (DISC -5) 
+ A fully structured diagnostic instrument designed to identified children or 
+adolescents meeting DSM -5 diagnostic criteria for a mental disorder.  
+Six diagnostic modules from the DISC -5 were included in the survey and 
+adapted to ensure cultural relevance while maintain conceptual 
+consistency.  
+Diagnostic and Statistical 
+Manual of Mental 
+Disorders, Fifth Edition 
+(DSM -5)  Definition of individual mental disorders published by the American 
+Psychiatric Association and used to define and diag nose mental disorders.  
+Viet Nam Adolescent Mental Health Survey    ■ 42   
+ Term  Definition  
+Full threshold symptoms  Endorsement of all symptoms required to meet DSM -5 diagnostic criteria 
+for a mental disorder (noting that impairment must also be endorsed to 
+meet criteria for a mental disorder according to DSM -5). 
+Generalised anxiety 
+disorder  
+ Characterised by excessive anxiety and worry about several events or 
+activities. The intensity, frequency, and duration of the anxiety and worry is 
+out of proportion to the actual likelihood or impact of the anticipated event.  
+The DISC -5 generalised anxiety disorder module was administered to the 
+adolescent.  
+Impairment  Where symptoms of a mental disorder adversely impact or interfere with 
+functioning and/or different aspects of an adolescent’s life.  
+Endorsement of impairment is required to meet DSM -5 diagnostic criteria 
+for a mental disorder (along with endorsement of all required symptoms 
+i.e., full threshold symptoms).  
+Impairment domains  In the DISC -5 impairment was assessed by six questions which measured 
+impairment cause d by symptoms across four domains: family (problems 
+with relationships with caregivers, difficulties spending time with family), 
+peer (difficulties spending time with peers), school or work (difficulties with 
+school or work), and personal distress.  
+Major depressive disorder  
+ Characterised by a period of at least two weeks during which there is 
+depressed mood, loss of interest or pleasure in nearly all activities, and/or 
+irritability. These feelings are also associated with other physical symptoms 
+such as f atigue, sleep disturbances or concentration issues.  
+The DISC -5 major depressive disorder module was administered to the 
+adolescent.  
+Mental disorder  
+ A mental disorder is a clinically significant behavioural or psychological 
+syndrome or pattern that occurs in an individual and is associated with 
+present distress (e.g., a painful symptom), disability (i.e., impairment in one 
+or more important areas of functioning), and/or a significantly increased 
+risk of suffering death, pain, disability, or an import ant loss of freedom.  
+For the purposes of this report, adolescents with a mental disorder were 
+those meeting DSM -5 diagnostic criteria for a specific mental disorder (i.e., 
+a mental disorder measured in V -NAMHS).  
+Mental health problem  A mental health prob lem is similar to a mental disorder in that it also 
+interferes with how a person thinks, feels, and behaves, but to a lesser 
+extent than a mental disorder. They can be experienced temporarily, or as 
+an acute reaction to the stresses of life.  
+For the purpos es of this report, adolescents with a mental health problem 
+includes those who met DSM -5 mental disorder diagnosis (i.e., full 
+threshold symptoms and endorsement of impairment) as well as those 
+who did not endorse impairment (i.e., full threshold symptoms but no 
+impairment) and those who met at least half of the symptoms required by 
+DSM -5 (i.e., subthreshold symptoms) with or without impairment.  
+Parent  For the purposes of this report, used to refer to the person nominated as 
+the adolescent’s primary caregi ver. See “primary caregiver”  
+Posttraumatic stress 
+disorder (PTSD)  
+ Characterised by intrusive or recurrent thoughts, disassociation, distorted 
+or negative cognitions, increased arousal or reactivity or other intrusive 
+symptoms or physical reactions, all i n relation to a specific trauma.  
+The DISC -5 PTSD module was administered to the adolescent.  
+Viet Nam Adolescent Mental Health Survey    ■ 43   
+ Term  Definition  
+Primary caregiver  
+ The person who has responsibility for, cares for, and is best able to provide 
+information about the adolescent.  
+This primary caregiver self-identified at the beginning of the interview after 
+being read the above definition. This was done prior to commencing the 
+administration of survey measures.  
+For the purposes of this report, the primary caregiver is referred to as the 
+parent.  
+Self-harm 
+ Self-harm is the act of doing something to deliberately cause harm or 
+injury to oneself, without the intent of ending one’s life. This differentiates 
+self-harm from a suicide attempt.  
+Service  
+ In this survey, services were considered any provider who p rovided support 
+or counselling for emotional and behavioural problems. Service providers 
+included in this survey were:  
+• Doctor or nurse  
+• Specialist (such as a psychologist or psychiatrist)  
+• Community health worker  
+• School staff (such as a teacher, coach, or school counsellor)  
+• Religious/faith leader  
+• Traditional healer  
+• Other (as defined by the participant)  
+The definition of service providers w as expanded to include to those not 
+generally considered as providers given the anticipated likelihood that 
+these sectors would be accessed for such services.  
+Service use  
+ Defined as use of any service (by providers listed above) for support or 
+counselling for emotional and behavioural problems.  
+Service use questions were asked of the parent.  
+Social phobia  
+ Characterised by the f ear of one or more  social situations , in which the 
+adolescent is the  focus of other people’s attention, which might cause a 
+feeling of embarrassment and humiliation. This can lead to the adolescent 
+avoiding these situations or enduring them but dreading doing so.  
+In adolescents, the situations that induce the anxiety must be in a peer -
+setting, not only around adults.  
+The DISC -5 social phobia module was administered to the adolescent.  
+Subthreshold symptoms  
+ In the DISC -5, an adolescent was considered to have subthreshold 
+symptoms if they endorsed at least half of the symptoms required by the 
+DSM -5 but not all.  
+Suicidal behaviours  Inclusive of suicidal ideation, suicide planning, and suicide attempt.  
+Suicidal idea tion Thinking about wanting to die or general thoughts about ending one’s 
+own life.  
+Suicide attempt  Harming oneself with the intention of ending one’s own life.  
+Suicide planning  Making a plan to end one’s own life.  
+ 
+ 
+  
+Viet Nam Adolescent Mental Health Survey    ■ 44   
+ Appendix 4: Research teams  
+V-NAMHS team  
+A/Prof Vu Manh Loi   V-NAMHS Principal Investigator  
+A/Prof Nguyen Duc Vinh  V-NAMHS Project Director  
+Dao Thi Khanh Hoa   V-NAMHS Senior Research Officer  
+Prof Dang Nguyen Anh   V-NAMHS Senior Research Officer  
+Dr. Nghiem Thi Thuy   V-NAMHS Administra tor 
+A/Prof Nguyen Duc Chien  V-NAMHS Research Officer  
+Dr. Hoang Vu Linh Chi   V-NAMHS Research Officer  
+Khuat Thi Dieu Linh   V-NAMHS Research Officer  
+Tran Viet Long    V-NAMHS Research Officer  
+Nguyen Thi Xuan   V-NAMHS Research Officer  
+Nguyen Quang Tuan   V-NAMH S Research Officer  
+ 
+GOPFP  team  
+Dr. Pham Vu Hoang   GOPFP Team Leader  
+Nguyen Cao Truong   Fieldwork Administrator  
+  
+The University of Queensland  
+Dr. Holly Erskine    NAMHS Principal Investigator  
+Prof Harvey Whiteford   NAMHS Senior Advisor  
+Prof James Scott   NAMHS Clinical Advisor  
+Dr. Sarah Blondell   NAMHS Senior Research Officer  
+Krystina Wallis    NAMHS Research Officer  
+Cartiah McGrath   NAMHS Research Officer  
+ 
+Johns Hopkins Bloomberg School of Public Health  
+Prof Robert Blum   JHSPH NAMHS Project Lead  
+Dr. Shoshanna Fine   JHSPH NAMHS Assistant Scientist  
+Mengmeng Li    JHSPH NAMHS Data Analyst  
+Astha Ramaiya    JHSPH NAMHS Assistant Scientist    
+Viet Nam Adolescent Mental Health Survey    ■ 45   
+ References  
+American Psychiatric Association. 2013. "Diagnostic and Statistical Manual of Mental Disorders: 
+Fifth Edition, Dsm -5" Washington DC.: American Psychiatric Publishing.  
+Bitsko, R., H.R. Adams, J. Holbrook, A. Vierhile, P. Morrison and P.W. Fisher. 2019. "2.50 Diagnostic 
+Interview Schedule for Children, Version 5 (Disc -5): Development and Validation of Adhd 
+and Tic Disorder Modules" Journal of the American Academy of Child  & Adolescent 
+Psychiatry  58(10):  Supplement. ( https://www.jaacap.org/article/S0890 -8567(19)31599 -
+0/fulltext ). 
+Blum, R ., M. Sudhinaraset and M .R. Emerson. 2012. "Youth at Risk: Suicidal Thoughts and Attempts 
+in Vietnam, China, and Taiwan" Journal of Adolescent Health  50(3):537 -44. (Doi: 
+https://doi.org/10.1016/j.jadohealth.2011.12.006 ). 
+Bộ Giáo d ục và Đào t ạo. 2022a. "Quy ết định số 2138/Q Đ-BGDĐT  ngày 03 tháng 08 năm 2022 ban 
+hành K ế hoạch giáo d ục sức khỏe tâm th ần cho tr ẻ em, h ọc sinh giai đo ạn 2022 -2025." Hà 
+Nội. 
+Bộ Giáo d ục và Đào t ạo. 2022b. "Quy ết định số 1442/ QĐ-BGDĐT  ngày 01 tháng 6 năm 2022 ban 
+hành Chương trình giáo d ục sức khỏe tâm th ần cho tr ẻ em, h ọc sinh giai đo ạn 2022 -2025 
+Của Ngành Giáo D ục." Hà N ội. 
+Bộ Y tế. 2022. Công văn số 2213/ BYT-DP ngày 29 tháng 4 năm 2022 v ề việc Tạm dừng áp d ụng khai 
+báo y t ế nội địa (Official Letter No. 2213/B YT-DP dated April 29, 2022 on the Suspension of 
+Application of Domestic Medical Declaration) . Hà N ội. 
+Canino, G . and M . Alegria. 2008. "Psychiatric Di agnosis - Is It Universal or Relative to Culture?" 
+Journal of Child Psychology  and Psychiatry  49(3):237 -50.  
+(https://pubmed.ncbi.nlm.nih.gov/18333929/ ). 
+Cao Ti ến Đức. 2020. "S ức khỏe tâm th ần: thực trạng, thách th ức và nh ững tiến bộ mới trong ch ẩn 
+đoán và đi ều trị" Tạp chí N ội khoa Vi ệt Nam  (19):15 -20.  
+(https://thaythuocvietnam.vn/thuvien/wp -content/uploads/2021/05/b2 -15-20.pdf ). 
+Chính ph ủ. 2022. "Nghị quyết 38/ NQ-CP ngày 17 tháng 3 Năm 2022 ban hành Chương trình 
+phòng, ch ống dịch Covid -19." Hà N ội. 
+Colizzi, M ., A. Lasalvia and M . Ruggeri. 2020. "Prevention and Early Intervention in Youth Mental 
+Health: Is It Time for a Multidisciplinary and Trans -Diagnostic Model for Care?" 
+International Journal of Mental Health Systems .  
+(https://pubmed.ncbi.nlm.nih.gov/32226481/ ). 
+COVID -19 Mental Disorders Collaborators. 2021. "Global Prevalence and Burden of Depressive and 
+Anxiety Disorders in 204 Co untries and Territories in 2020 Due to the Covid -19 Pandemic"  
+The Lancet  398(10312):1700 -12.  
+(https://www.thelancet.com/journals/lancet/article/PIIS0140 -6736 (21)02143 -7/fulltext ). 
+Demyttenaere, K ., R. Bruffaerts, J . Posada -Villa, I . Gasquet, V . Kovess, J .P. Lepine, M .C. Angermeyer, 
+S. Bernert, G . de Girolamo, P . Morosini, G . Polidori, T . Kikkawa, N . Kawakami, Y . Ono, T . 
+Takeshima, H . Uda, E .G. Karam, J .A. Fayyad, A .N. Karam, Z .N. Mneimneh, M .E. Medina -
+Mora, G . Borges, C . Lara, R . de Graaf, J . Ormel, O . Gureje, Y . Shen, Y . Huang, M . Zhang, J . 
+Alonso, J .M. Haro, G . Vilagut, E .J. Bromet, S . Gluzman, C . Webb, R .C. Kessler, K .R. 
+Merikangas, J .C. Anthony, M .R. Von Korff, P .S. Wang, T .S. Brugha, S . Aguilar -Gaxiola, S . Lee, 
+S. Heeringa, B . Pennell, A .M. Zaslavsky, T .B. Ustun, S . Chatterji and WHO World Mental 
+Health Survey Consortium. 2004. "Prevalence, Severity, and U nmet Need for Treatment of 
+Mental Disorders in the World Health Organization World Mental Health Surveys." JAMA  
+291(21):2581 -90.  ( https://pubmed.ncbi.nlm.nih.gov/15173149/ ). 
+Viet Nam Adolescent Mental Health Survey    ■ 46   
+ Erskine, H .E., T.E. Moffitt, W .E. Copeland, E .J. Costello, A .J. Ferrari, G . Patton, L . Degenhardt, T . Vos, 
+H.A. Whiteford and J .G. Scott. 2015. "A Heavy Burden on Young Minds: The Global Burden 
+of Mental and Substance Use Disorders in Children and Youth." Psychol Med  45(7):1551 -36.  
+(https://pubmed.ncbi.nlm.nih.gov/25534496/ ). 
+Erskine, H .E., R.E. Norman, A . Ferrari, G .C.K. Chan, W .E. Copeland, H .A. Whiteford and J .G. Scott. 
+2016. "Long -Term Outcomes of Attention -Deficit/Hyperactivity Disorder and Conduct 
+Disorder: A Systematic Review and Meta -Analysis." Journal of the American Academy of 
+Child & Adolescent Psychiatry  55(10):841 -50. 
+Erskine, H .E., S. Blondell, M. Enrig ht, J. Shadid, Y. Wado, F.M. Wekesah, A.E. Wahdi, S.A. Wilopo, L .M. 
+Vu, H .T.K. Dao, V .D. Nguyen, M.R. Emerson, S.L. Fine, Mengmeng Li, R.W. Blum, H.A. 
+Whiteford and J.G. Scott. 2021. "Measuring the Prevalence of Mental Disorders in 
+Adolescents in Kenya, In donesia, and Vietnam: Study Protocol for the National Adolescent 
+Mental Health Surveys." Journal of Adolescent Health .  
+(https://www.sciencedirect.com/science/article/pii/S10 54139X21002676 ). 
+Ferrari, A .J., F.J. Charlson, R .E. Norman, A .D. Flaxman, S .B. Patten, T . Vos and H .A. Whiteford. 2013. 
+"The Epidemiological Modelling of Major Depressive Disorder: Application for the Global 
+Burden of Disease Study 2010." PLOS One  8(7): e69637.  
+(https://doi.org/10.1371/journal.p one.0069637 ). 
+GBD 2019 Mental Disorders Collaborators. 2022. "Global, Regional, and National Burden of 12 
+Mental Disorders in 204 Countries and Territories, 1990 –2019: A Systematic Analysis for 
+the Global Burden of Disea se Study 2019." 2(9):137 -50.  
+(https://www.thelancet.com/journals/lanpsy/article/PIIS2215 -0366(21)00395 -3/fulltext ). 
+Genera l Statistical Office. 2020. Kết quả toàn b ộ Tổng đi ều tra dân số và nhà ở năm 2019 / 
+Completed Results of the 2019 Viet Nam Population and Housing Census . Hà N ội: NXB 
+Thống kê.  
+Hafekost, J ., D. Lawrence, K .B. de Haan, S .E. Johnson, S . Saw, W .J. Buckingham, M .G. Sawyer, J .A. and 
+S.R. Zubrick. 2016. "Methodology of Young Minds Matter: The Second Australian Child and 
+Adolescent Survey of Mental Health and Wellbeing." Australian and New Zealand Journal 
+of Psychiatry  50(9):866 -75. 
+Hafstad, G .S. and E . Augusti. 2021. "A Lost Generation? Co vid-19 and Adolescent Mental Health."  
+The Lancet Psychiatry  8(8):640-41 
+https://www.thelancet.com/journals/lanpsy/article/PIIS2215 -0366(21)00179 -6/fulltext .  
+Hoang  M.D., T.T. Lam, A . Dao and B . Weiss. 2020. "Mental Health Literacy at the Public Health Level 
+in Low and Middle Income Countries: An Exploratory Mixed Methods Study in Vietnam." 
+PLOS One . 
+Hoang M .D., B. Weiss, T . Lam and H . Ho. 2018. "Mental Health Literacy and Intervention Program 
+Adaptation in the Internationalization of School Psychology for Vietnam." Psychology in 
+the School  55(8):941 -54. 
+Hoàng Th ế Hải and Bùi Th ị Thanh Di ệu. 2021. "Thái độ kỳ thị đối với ngư ời mắc bệnh tâm th ần của 
+học sinh trung h ọc phổ thông /Stigma Attitudes Towards People with Mental Illness among 
+High School Students." Tạp chí Khoa h ọc và Công ngh ệ 19(2):33 -37. 
+Jones E. A., A.K. Mitra and A.R. Bhuiyan. 2021. "Impact of Covid -19 on Mental Health in 
+Adolescents: A Systematic Review." Internat ional Journal of Environmental Research and 
+Public Health  18(5):2470.  ( https://pubmed.ncbi.nlm.nih.gov/33802278/ ). 
+Kamimura, A ., H.N. Trinh, M . Johansen, J . Hurley , M. Pye, K . Sin and H . Nguyen. 2018. "Perceptions 
+of Mental Health and Mental Health Services among College Students in Vietnam and the 
+United States." Asian Journal of Psychiatry  37:15 -19. 
+Keynejad, R .C., J. Spagnolo and G . Thornicroft. 2022. "Mental Healthcare in Primary and 
+Community -Based Settings: Evidence Beyond the Who Mental Health Gap Action 
+Viet Nam Adolescent Mental Health Survey    ■ 47   
+ Programme (Mhgap) Intervention Guide." Evidence -Based Mental Health .  
+(https://ebmh.bmj.com/content/early/2022/04/25/ebmental -2021 -300401 ). 
+Kim, J .H.J., W . Tsai, T . Kodish, L .T. Trung, A .S. Lau and B . Weiss. 2019. "Cultural Variation in Temporal 
+Associations among S omatic Complaints, Anxiety, and Depressive Symptoms in 
+Adolescence." Journal of Psychosomatic Research  124:109763 .  
+(https://www.sciencedirect.com/science/article/abs/pii/S0022399919300030?via%3Dihub ). 
+Mai D ., N.N.K. Pham, S . Wallick and B .K. Nastasi. 2014. "Perceptions of Mental Illness and Related 
+Stigma among Vietnamese Populations: Findings from a Mixed Method Study." Journal of 
+Immigrant and Minority Health  16:1294 -98. 
+Mckelvey, R .S., L.V. Baldassar, D .L. Sang and L . Roberts. 1999. "Vietnamese Parental Perceptions of 
+Child and Adolescent Mental Illness." Journal of the American Acad emy of Child & 
+Adolescent Psychiatry  38(10):1302 -09. (https://pubmed.ncbi.nlm.nih.gov/10517064 ). 
+MOLISA (B ộ Lao đ ộng-Thương binh và Xã h ội). 2012. Quyết Định Số 1364/ QĐ-LĐTBXH  ngày 2 
+tháng 10 năm 2012 phê duy ệt Quy ho ạch m ạng lư ới cơ s ở bảo trợ xã hội chăm sóc và ph ục 
+hồi chức năng cho ngư ời tâm th ần, ngư ời rối nhiễu tâm trí d ựa vào c ộng đồng giai đo ạn 
+2012 -2020 (Decision No. 1364/Q D-LDTBXH  dated October 2, 2012 Approving the 
+Community -Based Planning of the Network of Social Protection Establishments Pr oviding 
+Care and Rehabilitation for Mentally Ill People and Mentally Disturbed People in the Period 
+2012 -2020) . 
+Nga L .L., I. Shochet, T . Tran, J . Fisher, A . Wurfl, N . Nguyen, J . Orr, R . Stocker and H . Nguyen. 2022. 
+"Adaptation of a School -Based Mental Health Program for Adolescents in Vietnam." PLOS 
+One 17(8):  e0271959 . (DOI: 10.1371/journal.pone.0271959 ).  
+Nguyen, T,. T. Tran, H. Tran, T. Tran and J. Fisher. 2019. "Challenges in Integrating Mental Hea lth 
+into Primary Care in Vietnam." in Innovation in Global Mental Health , edited by S. Okpaku: 
+Springer, Cham.  
+Nguyen , T.Q.C and T.H. Nguyen. 2018. "Mental Health Literacy: Knowledge of Depression among 
+Undergraduate Students in Hanoi, Vietnam." International Journal of Mental Health 
+Systems  24(12):19.  ( https://pubm ed.ncbi.nlm.nih.gov/29760770/ ). 
+Ormel, J., A.M. Oerlemans, D. Raven, O.M. Laceulle, C.A. Hartman, R. Veenstra, F.C. Verhulst, W. 
+Vollebergh, J.G.M. Rosmalen, S.A. Reijneveld, A.J. Oldehinkel. 2017. "Functional Outcomes 
+of Child and Adolescent Mental Disorders. Current Disorder Most Important but Psychiatric 
+History Matters as Well " Psychological Medicine 47(7):1271 -82.  
+(https://pubmed.ncbi.nlm.nih.gov/28065168/ ). 
+Pagliaro, C ., M. Pearl, D . Lawrence, J .G. Scott and S . Diminic. 2021. "Estimating Demand for Mental 
+Health Care among Australian Children and Adolescents: Findings from the You ng Minds 
+Matter Survey." Australian and New Zealand Journal of Psychiatry  56(11):1443 -54. (DOI: 
+10.1177/00048674211069874 ).   
+Patton G .C., S.M. Sawyer, J.S. Santelli, D.A. Ross, R. Afifi, N. Allen, M. Arora, P. Azzopardi , W. Baldwin, 
+C. Bonell, R. Kakuma, E. Kennedy, J. Mahon, T. McGovern, A.H. Mokdad, V. Patel, S. Petroni, 
+N. Reavley,  K. Taiwo, J. Waldfogel, D. Wickremarathne,  C. Barroso,  Z. Bhutta, A.O. Fatusi, A. 
+Mattoo, J. Diers, J. Fang, J. Ferguson, F. Ssewamala,  R.M. Viner. 2016. "Our Future: A Lancet 
+Commission on Adolescent Health and Wellbeing."  The Lancet 387(10036): 2423 -78. 
+Person, S ., C. Hagquist and D . Michelson. 2017. "Young Voices in Mental Health Care: Exploring 
+Children's and Adolescents' Service Experience s and Preferences." Clinical Child Psychology 
+and Psychiatry 22(1):140 -51. (https://pubmed.ncbi.nlm.nih.gov/27368712/ ). 
+Samuels, F ., N. Jones, T . Gupta, B.T. Dang and D.H. Le. 2018. Mental Health and Psychosocial 
+Wellbeing among Children and Young People in Selected Provinces and Cities in Viet Nam . 
+Hanoi: UNICEF.  
+Schnyder, N., D. Lawrence, R. Panczak, M. G. Sawyer, H. A. Whiteford, P. M. Burgess and M. G. 
+Harris. 2019. "Perceived need and barriers to adolescent mental health care: agreement 
+Viet Nam Adolescent Mental Health Survey    ■ 48   
+ between adolescents and their parents. " Epidemiology and Psychiatric Sciences  29(e60) . 
+(DOI: https://doi.org/10.1017/S2045796019000568 ). 
+Shaffer, D., P. Fisher, C.P. Lucas,  M. K. Dulcan and M.E.S. Stone. 2000. "Nimh Diagnostic Interview 
+Schedule for Children Version Iv (Nimh Disc -Iv): Description, Differences from Previous 
+Versions, and Reliability of Some Common Diagnoses." Journal of the American Academy 
+of Child & Adolesc ent Psychiatry  39(1):28 -38.  ( https://www.jaacap.org/article/S0890 -
+8567(09)66098 -6/fulltext ). 
+Thủ tướng Chính ph ủ. 2011. "Quyết Định Số 1215/Q Đ-TTG ngày 22 tháng 7 năm 2011 phê duy ệt 
+Đề án trợ giúp xã h ội và ph ục hồi chức năng cho ngư ời tâm th ần, ngư ời rối nhiễu tâm trí 
+dựa vào c ộng đồng giai đo ạn 2011 -2020 " (Decision No. 1215/ QD-TTG dated July 22, 2011 
+Approving the Project on Social Assistance and Rehabilitation for the Mentally Ill and 
+Mentally Disturbed People Based on the Community for the Period 2011 -2020) . Hà N ội. 
+Thủ tướng Chính ph ủ. 2020. "Quy ết Định 1929/ QĐ-TTG ngày 25 tháng 11 năm 2020 phê duy ệt 
+Chương trình tr ợ giúp xã h ội và ph ục hồi chức năng cho ngư ời tâm th ần, trẻ em tự kỷ và 
+người rối nhiễu tâm trí d ựa vào c ộng đồng giai đo ạn 2021 -2030. " Hà N ội. 
+Thủ tướng Chính ph ủ. 2022. "Quy ết Định 155/ QĐ-TTG ngày 29 tháng 1 năm 2022 phê duy ệt Kế 
+hoạch qu ốc gia phòng ch ống bệnh không lây nhi ễm và r ối loạn sức khỏe tâm th ần giai 
+đoạn 2022 -2025."  Hà N ội. 
+Tran, T., H.T. Nguyen, I. Shochet, A. Wurfl, J. Orr, N. Nguyen, N. La, H. Nguyen, R. Stocker, T. 
+Nguyen, M. Le and J. Fisher. 2020. "School -Based, Two -Arm, Parallel, Controlled Trial of a 
+Culturally Adapted Resilience Intervention to Improve Adolescent Men tal Health in 
+Vietnam: Study Protocol." BMJ Open  10(10).  
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7574926/ ). 
+Truc, T.T., N.L.L.T. Vu and H .H.T. Bui. 2020. "Mental Health Literacy and Help -Seeking Preferences in 
+High School Students in Ho Chi Minh City, Vietnam" School Mental Health  12:378 -87. 
+UNICEF. 2020a. "Rapid Assessment of Social and Economic Impacts of Covid -19 on Children and 
+Families in Viet Nam." Ha Noi: UNICEF.  
+UNICEF. 2020b. "The Impact of Covid -19 on the Mental Health of Adolescents and Youth." Vol.  
+United Nations Children’s Funds (UNICEF) and Overseas Development Institute (ODI). 2018. "The 
+Nature of Suicide Amongst Children and Youn g People in Selected Provinces and Cities in 
+Viet Nam." Hanoi: UNICEF. Retrieved. 
+(https://www.unicef.org/vietnam/media/986/file/Suicide%20briefing.pdf ). 
+Wasserman, D ., H.T.T. Tran, D .T.M.  Pham, M . Goldstein, A . Nordenskiöld and C . Wasserman. 2008. 
+"Suicidal Process, Suicidal Communication and Psychosocial Situation of Young Suicide 
+Attempters in a Rural Vietnamese Community." World Psychiat ry 7(1):47 -53.  
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2359725/pdf/wpa010047.pdf ). 
+Weiss, B ., M. Dang, L . Trung, M .C. Nguyen, H.T.T. Nguyen and A . Pollack. 2014. "A Nationally -
+Representative Epidemiological and Risk Factor Assessment of Child Mental Health in 
+Vietnam." International Perspectives in Psychology 3(3):139 -53. 
+World Health Organization. 2014. "Health for the World’s Adolescents: A Second Chance in the 
+Second Decade." Geneva. Retrieved. ( https://apps.who.int/adolescent/second -decade/ ). 
+World Health Organization. 201 6. Mhgap Intervention Guide for Mental, Neurological and Sub -
+Stance Use Disorders in Non -Specialized Health Settings: Mental Health Gap Action 
+Programme (Mhgap) – Version 2.0 . Geneva.  
+World Health Organization, Ministry of Health and Ministry of Education and Training. 2022.  The 
+2019 Global School -Based Student Health Survey in Viet Nam: Report . Manila: World Health 
+Organization Regional Office for the Western Pacific; 2022. Licence: CC BY -NC-SA 3.0 IGO.  
+ 
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Viet Nam Adolescent Mental Health Survey (V -NAMHS)  
+Report on Main Findings  
+

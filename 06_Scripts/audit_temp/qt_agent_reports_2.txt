@@ -1,0 +1,1116 @@
+== 9 báo cáo QT batch ==
+
+======================================================================
+[dòng 11294]
+I now have the full text of both papers. Let me compile the audit report.
+
+---
+
+# Data-Integrity Audit Report — QT Batch 8
+
+## QT066 — Murphy et al. (2024), Peer Support Scoping Review
+
+**Verdict: ACCURATE, with two minor discrepancies and one important caveat.**
+
+The RAG summary itself flags that it was built "dựa trên metadata (PubMed + abstract + thông tin cào web)" — i.e. not from the full PDF. Despite this, it is largely accurate. Verified against PDF:
+
+| Field | RAG | PDF | Status |
+|---|---|---|---|
+| Authors | Murphy R, Huggard L, Fitzgerald A, Hennessy E, Booth A | Rachel Murphy, Leigh Huggard, Amanda Fitzgerald, Eilis Hennessy, Ailbhe Booth | OK (order correct) |
+| Year / Journal / vol | 2024, J Community Psychology 52(1):154–180 | 2024, J Community Psychol 52(1):154–180 | OK |
+| DOI | 10.1002/jcop.23090 | 10.1002/jcop.23090 | OK |
+| Framework | Arksey & O'Malley scoping review | Arksey & O'Malley (2005); PRISMA-ScR | OK |
+| Sample | 15 studies, 13 interventions | "A total of fifteen studies"; "Thirteen peer support interventions" | OK |
+| Definition of peer support | "social + emotional support, shared experience of MH difficulties" | matches PDF (Davidson et al. 2005) | OK |
+| 8/13 interventions mild-moderate (depression/anxiety/distress) | — | PDF p.13: "Eight of the thirteen interventions... mild to moderate... depression, anxiety, and psychological distress" | OK |
+| Age distribution: 9/13 → 16–25; 1 → 13–19; 1 → 11–18; 1 → 12–25 | — | PDF p.13: "Nine out of the thirteen... 16–25"; "one... 13–19 (8)"; "one... 11–18 years (13)"; "one... 12–25 years" | OK |
+| Barriers (confidentiality concerns + PSW confidence) and facilitators (staff support + role clarity) | — | matches PDF abstract exactly | OK |
+| Recommendation: more detailed intervention content | — | matches PDF abstract | OK |
+
+**Minor discrepancies:**
+
+1. **Lead author email.** RAG: `rachel.murphy@ucd.ie`. PDF: `rachel.murphy12@ucdconnect.ie`. The RAG email is wrong (constructed/guessed, consistent with its stated reliance on web-scraped metadata). Not a data-integrity issue for the science, but a factual error.
+
+2. **Search date range slightly imprecise.** RAG (Phương pháp section) does not state dates; the body text says "January 2005 to June 2022." The PDF itself is internally inconsistent (abstract says "January 2005 to June 2022"; methods say "September 1st 2005 and June 13th 2022"). RAG does not contradict — no error, noted for completeness.
+
+**Caveat on a RAG claim not in the PDF abstract:** The RAG "Hạn chế" section claims "Bias bối cảnh: chủ yếu Ireland (Jigsaw)." This is an over-statement. The PDF's 15 included studies are: 5 Australia, 4 USA, 3 Canada, 2 UK, 1 Netherlands — **zero are set in Ireland.** Jigsaw is the Irish funder/host institution of the *review authors*, not the context of the included studies. The RAG's "đa số Ireland" framing is inaccurate as a description of the evidence base. This is an analytical error rather than a fabricated statistic, but it should be corrected if the summary is cited.
+
+No fabricated statistics. No wrong author names. The numeric claims (15 studies, 13 interventions, 8/13, 9/13) all check out against the PDF.
+
+---
+
+## QT067 — Pascoe, Hetrick & Parker (2020), Impact of Academic Stress
+
+**Verdict: ACCURATE on identification and structure. ONE FABRICATED STATISTIC and several unsupported claims that should be flagged.**
+
+| Field | RAG | PDF | Status |
+|---|---|---|---|
+| Authors | Pascoe, Hetrick & Parker | Michaela C. Pascoe, Sarah E. Hetrick, Alexandra G. Parker | OK (order correct) |
+| Year | 2020 (title) / 2019 (header) | Published online 11 Apr 2019; IJAY assigns 2020 to the issue. RAG citing "(2020)" with DOI is acceptable | OK |
+| Journal / issue | Int J Adolescence and Youth, 25(1), 104–112 | IJAY; this volume/page is the published issue — consistent | OK |
+| DOI | 10.1080/02673843.2019.1596823 | 10.1080/02673843.2019.1596823 | OK |
+| Study type | Narrative review; no PRISMA; no inclusion/exclusion criteria; no risk-of-bias; no pooled effect size | PDF p.4 Methods: single author searched PubMed + Google Scholar, snowball, "Articles were included regardless of study design" — narrative, no PRISMA. RAG correct | OK |
+| 6-axis framework (MH, substance use, sleep, physical health, achievement, drop-out) | — | PDF has exactly these section headings | OK |
+| Open access CC BY 4.0 | — | PDF: "Open Access... Creative Commons Attribution License... by/4.0/" | OK |
+
+**FABRICATED / UNSUPPORTED STATISTICS — flag these:**
+
+1. **SERIOUS — fabricated sleep statistic.** RAG §3.3: *"thanh thiếu niên ngủ < 7h/đêm có nguy cơ trầm cảm cao gấp 2-3 lần"* ("adolescents sleeping <7h/night have 2–3× higher depression risk"). **This number does not appear anywhere in the PDF.** The PDF's sleep section (p.5–6) cites Noland et al. (42% of students report stress impedes sleep; "over 90%... inadequate sleep") and Curcio et al. — there is no "<7 hours" threshold and no "2–3× depression risk" figure anywhere. This is a fabricated quantitative claim.
+
+2. **Unsupported — substance use bidirectionality.** RAG §3.2: "Liên kết hai chiều: stress → sử dụng chất, và sử dụng chất → stress tăng." The PDF only states stress → substance use (Leonard et al., Wills, Boulton & O'Connell). It does not establish the reverse direction. Overstated.
+
+3. **Unsupported — inverted-U / U-ngược.** RAG §3.5: "Mối quan hệ hình chữ U ngược: stress thấp → động lực thấp; stress vừa → tối ưu; stress cao → giảm hiệu suất." The PDF makes **no inverted-U claim**. It says monotonically that "Students with higher perceived stress are likely to have lower academic achievement." The Yerkes-Dodson-style inverted-U is not in this paper. (Note: the RAG even reuses this fabricated U-curve later in §7 to "explain why some high-stress students still do well" — that interpretive scaffolding rests on a claim not in the source.)
+
+4. **Unsupported — working memory.** RAG §3.5: "Stress quá mức làm giảm working memory và khả năng giải quyết vấn đề." The PDF discusses concentration difficulties and engagement, but does not specifically discuss "working memory." Minor over-specification.
+
+5. **Unsupported — citation count.** RAG §5: ">1500 lần tính đến 2025." The PDF (a 2019 repository copy) shows only "Article views: 7885." Citation count is external metadata, not verifiable from the PDF — should not be presented as a fact from the paper.
+
+6. **"~80 nghiên cứu" reference count.** RAG §4 says data drawn from "~80 nghiên cứu trước đó." The PDF reference list contains roughly 60 entries. "~80" is an estimate not matching the source; treat as imprecise.
+
+**Statistics that ARE correct (verified in PDF):**
+- Anxiety prevalence "as high as 35%" in tertiary students, depression "30%" — PDF p.4 confirms both ("anxiety is as high as 35%... prevalence of depression is 30%").
+- OECD survey: 72 countries, 540,000 students aged 15–16; 66% stressed about poor grades; 55% very anxious about testing; 37% very tense studying — all confirmed PDF p.3.
+- 63% (bottom quarter) vs 46% (top quarter) anxious about tests — confirmed PDF p.6.
+- Noland: 42% of 9–12th graders, 384 students — confirmed PDF p.5.
+- "University students report stress comparable to adult work stress" (RAG §3.1) — this specific comparison is **not** explicitly in the PDF; the PDF does not compare student vs adult-worker stress. Treat as unsupported.
+
+---
+
+## Summary of most serious flags
+
+| Paper | Severity | Issue |
+|---|---|---|
+| QT067 | **HIGH** | Fabricated statistic: "sleep <7h → 2–3× depression risk" — not in PDF at all |
+| QT067 | **MEDIUM** | Inverted-U stress/performance relationship attributed to paper — paper claims the opposite (monotonic) |
+| QT067 | **MEDIUM** | Bidirectional stress↔substance-use link overstated; paper shows one direction only |
+| QT067 | LOW | ">1500 citations," "~80 studies," "comparable to adult work stress," "working memory" — unverifiable or absent |
+| QT066 | **MEDIUM** | "Bias: chủ yếu Ireland (Jigsaw)" — wrong; zero included studies are Irish (5 AU, 4 US, 3 CA, 2 UK, 1 NL); Jigsaw is the funder, not the study context |
+| QT066 | LOW | Lead author email wrong: `rachel.murphy@ucd.ie` should be `rachel.murphy12@ucdconnect.ie` |
+
+Both PDFs were fully machine-readable; no image-scan issues. Author names, journal, year, DOI and core sample numbers are correct for both papers. The substantive problems are in QT067's fabricated/unsupported findings (especially the sleep statistic and the inverted-U), and QT066's mischaracterization of the geographic evidence base as Irish.
+
+Source files:
+- `c:\Users\HLC\OneDrive\read_books\Lo-au\02_Papers-goc\The-gioi_Au-My-Uc\QT066_Murphy_PeerSupport_ScopingReview_JCommPsych_2024.pdf`
+- `c:\Users\HLC\OneDrive\read_books\Lo-au\02_Papers-goc\The-gioi_Au-My-Uc\QT067_Pascoe_AcademicStress_IJAY_2020.pdf`
+- RAG summaries: `c:\Users\HLC\OneDrive\read_books\Lo-au\06_Scripts\audit_temp\rag_QT_batch_8.txt`
+
+======================================================================
+[dòng 11295]
+I have all the data needed. Here is the audit report.
+
+---
+
+# DATA-INTEGRITY AUDIT — QT012–QT019 (rag_QT_batch_2.txt)
+
+## QT012 — GBD ASEAN 2025 (Lancet Public Health)
+**ACCURATE** (with one minor omission)
+- Authors, title, journal/volume (vol. 10, e480, June 2025), DOI, 10-country list, methods, 80.4M cases (+70%), 11.2M DALYs, Viet Nam 10.1% / Malaysia 13.2%, 10–14 age group 16.3% of DALYs — all verified against the PDF.
+- **Minor omission (not an error):** The RAG summary reports country prevalences but does not state the *overall* ASEAN age-standardised prevalence of **11.9%** (10.9–12.9), which the PDF emphasizes. The 10.1%/13.2% figures are correctly framed as the country range. No fabrication.
+
+## QT013 — Zhameden/Yin et al. 2025 (PLOS ONE, LMIC school interventions)
+**DISCREPANCIES (author error):**
+- **First-author name wrong.** RAG: *"Yin SZD, Low MK, Mishu MP"* and *"Yin SZD, Low MK"*. PDF: the full first author is **Sharone Zhameden Dieu Yin** (citation form "Yin SZD"). The RAG narrative text reads it as surname "Yin" — correct — but the PDF filename and the RAG title both treat **"Zhameden"** as if it were the author surname. The proper surname is **Yin**; "Zhameden" and "Dieu" are middle names. Cite as **Yin et al.**, not "Zhameden."
+- **Affiliation wrong.** RAG: *"University of York UK."* PDF: all three authors are at **University College London (UCL)**, London — Institute of Epidemiology and Health Care / Institute of Ophthalmology. There is **no University of York** affiliation anywhere. (The corresponding email is masuma.mishu@**ucl.ac.uk**.)
+- Verified accurate: title, PLOS ONE 20(4) e0316825, DOI, dates (search 2018–July 2023), 3863 articles → 6 studies / 1587 students, 1/4 anxiety, 3/4 depression, RoB high. Note: PDF databases are "Ovid MEDLINE, Embase, PsycINFO and CENTRAL" — RAG adds "Ovid MEDLINE, Embase, PsycINFO, CENTRAL" — equivalent, fine.
+
+## QT014 — Anderson et al. 2025 (J Child Adolesc Psychiatr Nursing, narrative review)
+**DISCREPANCIES (multiple author / data errors):**
+- **Author list wrong.** RAG: *"Anderson, T.L., Valiauga, R., Tallo, C., Hong, C.B., Manoranjithan, S., Domingo, C., Pilitsis, J.G. và cộng sự."* PDF actual authors: Thea L. Anderson, Rasa Valiauga, Christian Tallo, Catriona Blythe Hong, Shaminy Manoranjithan, Catherine Domingo, **Manasvi Paudel, Ana Untaroiu, Samantha Barr, Kate Goldhaber**. There is **no author named "Pilitsis, J.G."** — that name appears to be fabricated/inserted. The last four real authors (Paudel, Untaroiu, Barr, Goldhaber) are omitted.
+- **Affiliation wrong.** RAG: *"Rowan University School of Osteopathic Medicine."* PDF: lead authors are at **University of Connecticut School of Medicine** and **Loyola University Chicago Stritch School of Medicine** (other co-authors at Missouri, NEOMED, Rosalind Franklin, Medical College of Wisconsin, Univ. of Wisconsin). **"Rowan University" does not appear** in the paper. Word "Rowan" NOT FOUND.
+- **"Daly 2022 — 31.9%" is FABRICATED.** RAG: *"Tỷ lệ lo âu VTN 13–18 tuổi là 31,9% (Daly 2022)."* The string "31.9" and the author "Daly" are **NOT FOUND anywhere in the PDF.** This statistic and citation cannot be sourced to QT014. (This matches a known prior issue — "Daly 2022" was previously flagged as a mismatch in project memory.)
+- **"48/52 studies" — attribution context check:** RAG: *"48/52 nghiên cứu xác nhận tương quan áp lực học tập (Steare 2023)."* PDF confirms "48 out of the 52 studies showed a positive correlation ... (Steare et al. 2023)" — **this one is ACCURATE.**
+- Verified accurate: narrative-review method (PubMed/ScienceDirect/Medline), Generation Z born 1997–2012, journal vol. 38 e70009, DOI 10.1111/jcap.70009, USA. The "61 articles" claim: the PDF cites a *separate* systematic review of 61 articles (Panchal et al. 2023) — the RAG summary describes QT014 itself as a "review of 61 articles," which is **inaccurate**: 61 is the size of a study QT014 *cites*, not QT014's own corpus. QT014 is a narrative review with no fixed article count.
+
+## QT015 — Zhu et al. 2025 (BMC Public Health, China)
+**DISCREPANCIES (sample size + location errors):**
+- **Sample size wrong.** RAG (title block + methods + critique): *"9.831 học sinh"* / *"n = 9.831"* / *"Cỡ mẫu rất lớn (n = 9.831)"*. PDF: **9,920 students were enrolled**; after exclusions the **final analytic sample = 9,831**. The RAG uses 9,831 as if it were the total surveyed. Tables N=9831 is the analyzed sample; 9,920 is the collected sample. Minor but should be stated as "9,920 enrolled / 9,831 analyzed."
+- **Location wrong.** RAG: *"tại Suzhou, miền Đông Trung Quốc"* and critique *"Chỉ tại Suzhou."* PDF: the study was conducted in **Nantong** ("9,920 ... students from **Nantong**"; "detection rate ... in **Nantong** was 20.3%"). "Suzhou" appears in the PDF **only** in the author affiliation (Soochow University, Suzhou). The study site is **Nantong, Jiangsu — not Suzhou.** This is a factual error.
+- **Instrument wrong — SERIOUS.** RAG (title block + methods + critique, repeated 3+ times): *"Sử dụng PHQ-9 (Patient Health Questionnaire-9 mục)"* with cutoffs *"≥5 possible, ≥10 definite."* PDF: the instrument is the **CES-D (Center for Epidemiologic Studies Depression Scale, Radloff)** — NOT PHQ-9. PHQ-9 appears in the PDF only once, in the Discussion, referring to *a different cited study*. The RAG has substituted the wrong instrument and invented PHQ-9 cutoffs (≥5/≥10) that are not in this paper. **This is a fabricated methodology detail.**
+- Verified accurate: 14.5% possible / 5.8% definite / 20.3% total; AOR sleep <5h = 13.710 (95% CI 8.659–21.710); AOR reconstituted family 1.837; AOR single-parent 1.359 (note RAG table says "1,434" for single-parent — see below); AOR junior/middle 1.409; male 0.803.
+- **AOR table row error.** RAG table: *"Gia đình đơn thân | 1,434."* PDF: single-parent family AOR = **1.359** (possible) — value 1.434 does not match either the possible (1.359) or definite-symptom models. **1.434 appears to be wrong/unsourced.** (Reconstituted = 1.837 is correct.)
+- **Label error.** RAG calls 2019/2021/2023 "3 thời điểm" — PDF actually collected data across **2019, 2020, 2021, 2022, 2023** (five years, inverted-U trend). RAG methods says "2019, 2021, 2023" which understates the design.
+
+## QT016 — Mudunna et al. 2025 (Lancet Regional Health – Southeast Asia)
+**DISCREPANCIES (title + methods statement):**
+- **Title wrong.** RAG: *"Nature, prevalence, and determinants of mental health problems among South Asian adolescents: A systematic review."* PDF actual title: *"**Nature, prevalence and determinants of mental health problems experienced by adolescents in south Asia**: a systematic review."* — paraphrased, meaning preserved, but not the exact title.
+- **DOI wrong.** RAG: *"DOI 10.1016/S2772-3682(25)00003-4."* PDF: **10.1016/j.lansea.2025.100532**, article **100532**, vol. 33, Feb 2025, published online 21 Jan 2025. The RAG DOI string "S2772-3682(25)00003-4" is NOT FOUND in the PDF — **wrong DOI.**
+- **Meta-analysis statement imprecise.** RAG: *"KHÔNG thực hiện meta-analysis do tính không đồng nhất quá cao."* PDF: *"A meta-analysis was originally considered ... However, the database search yielded a large volume of studies of varying quality, a high degree of heterogeneity..."* — RAG's reasoning is broadly correct (heterogeneity + study quality), acceptable.
+- Verified accurate: 8-country list (Afghanistan, Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan, Sri Lanka), South Asia = 24% of world population, adolescents 10–19, PRISMA, anxiety range in Indian SBS 1.5–81.6%, depression/anxiety most common, determinant categories.
+- **Note on "1.5–81.6%":** RAG presents this as the overall MHP prevalence range. PDF specifies 1.5–81.6% is the **anxiety range in Indian school-based studies** specifically; other ranges differ (depression Pakistani SBS 21–79%, Indian NSBS 0.4–98.5%). RAG slightly overgeneralizes the figure but the number itself is correctly quoted.
+
+## QT017 — Puyat et al. 2025 (Cambridge Prisms: Global Mental Health, Philippines)
+**DISCREPANCIES (title + author list errors):**
+- **Title wrong.** RAG: *"Rising depressive symptoms and widening sociodemographic inequalities among Filipino young people: findings from two nationally representative cross-sectional surveys."* PDF actual title: *"**Rising prevalence of depression and widening sociodemographic disparities in depressive symptoms among Filipino youth: findings from two large nationwide cross-sectional surveys**."* — substantially reworded.
+- **Author list incomplete.** RAG: *"Puyat và cộng sự."* PDF full authors: **Joseph H. Puyat, Divine L. Salvador, Anna C. Tuazon, Sanny D. Afable.** "Puyat et al." is acceptable shorthand but the summary never names the co-authors.
+- **"YAFS — Young Adult Fertility and Sexuality Survey"** — RAG expansion slightly off. PDF: **"Young Adult Fertility and Sexuality Study"** (Study, not Survey). Minor.
+- **"tăng 118%"** — RAG: *"tăng 118% trong 8 năm."* The PDF abstract states MSDS "more than doubled from 9.6% to 20.9%." 9.6→20.9 is a +118% relative increase, so the arithmetic is correct, but "118%" as a stated figure is **NOT in the PDF** — it is a RAG-computed value (acceptable as derived, not fabricated).
+- Verified accurate: n=19,178 (2013) + n=10,949 (2021) = 30,127; CES-D-11; MSDS 9.6%→20.9%; females 10.8%→24.3%; LGBTQ/non-cisgender 9.7%→32.3%; not-in-school 8.5%→26.5%(RAG table); SOGIE analysis; journal Cambridge Prisms: Global Mental Health vol. 12 e51; DOI 10.1017/gmh.2025.39.
+- **Table value to flag:** RAG table row *"Nhóm nghèo nhất | 12,3% | 25,1%."* PDF abstract: economically disadvantaged households **"10.6% to 25.1%"**. The 2021 value (25.1%) matches; the 2013 value **12.3% does not match the PDF's 10.6%.** Wrong baseline figure.
+- **Table value to flag:** RAG table *"Không đi học | 8,5% → 26,5%."* PDF abstract states "youth with primary education or less (10.8% to 26.5%)." The PDF describes *education level*, not strictly "not in school"; 8.5% baseline does not match the abstract's 10.8%. The 8.5% may come from a different table cell — **flag as unverified / mislabeled.**
+
+## QT018 — Salari et al. 2024 (Journal of Prevention, SAD meta-analysis)
+**ACCURATE** (the RAG summary itself flags the missing youth figure, which is now resolved)
+- Authors (Salari N, Heidarian P, Hassanabadi M, Babajani F, Abdoli N, Aminian M, Mohammadi M), title, Journal of Prevention 2024;45:795–813 (Springer), 6 databases, 38 studies, random-effects + Comprehensive Meta-Analysis v2.0, I² — all verified.
+- The RAG flags *"(Tỷ lệ ở thanh niên — số cụ thể cần verify)"*. **Resolved: PDF states youth SAD prevalence = 17%** (4.7% children, 8.3% adolescents, 17% youth). No discrepancy — the RAG correctly avoided guessing.
+- Affiliation: RAG *"Nhóm Iran + Ả-rập Saudi."* PDF confirms Iran (Kermanshah University of Medical Sciences); Saudi presence is via cited studies, but multiple author affiliations are not all visible in the first pages — minor, not a clear error.
+
+## QT019 — Shibuya et al. 2025 (Tropical Medicine and Health, 3-Asian-country MH literacy)
+**ACCURATE** (one number to add)
+- Authors (Shibuya F, Usami M, Santillan MD, Warnaini C, Gregorio E, Satake N, Estrada CA, ...), title, Tropical Medicine and Health 2025;53:86 (Springer Open), DOI 10.1186/s41182-025-00697-6, documentary/deductive content analysis, policy triangle (Walt & Gilson 1994), review points (Margaretha 2023), 3 countries (Philippines, Indonesia, Japan), policies 2000–2023, curricula grades 1–12, multi-site authorship — all verified.
+- **Detail the RAG omits (not an error):** PDF gives the document counts — Philippines 22, Indonesia 9, Japan 6 policies/curricula — and specific findings (Japan: health/PE grades 5–10; Philippines: near-comprehensive grades 1–12; Indonesia: religious education grades 1–12). The RAG correctly noted "results need verification" rather than guessing. No fabrication.
+
+---
+
+# SUMMARY — MOST SERIOUS FLAGS
+
+| Paper | Severity | Issue |
+|---|---|---|
+| **QT014** | **CRITICAL** | Fabricated author **"Pilitsis, J.G."** (not in paper); wrong affiliation "Rowan University" (actual: UConn/Loyola); **fabricated statistic "Daly 2022 — 31.9%"** — neither "Daly" nor "31.9" exists in the PDF. |
+| **QT015** | **CRITICAL** | **Wrong instrument** — RAG says PHQ-9 with ≥5/≥10 cutoffs; paper actually uses **CES-D**. Wrong study location — "Suzhou" vs actual **Nantong**. Wrong table AOR (single-parent 1.434 vs 1.359). |
+| **QT013** | Moderate | First author mis-cited as "Zhameden" (surname is **Yin**); affiliation wrong — "University of York" vs actual **UCL**. |
+| **QT017** | Moderate | Title substantially reworded; table baseline figures wrong (poorest 12.3% vs 10.6%; not-in-school 8.5% vs 10.8%). |
+| **QT016** | Minor–Moderate | Wrong DOI (S2772-3682... vs actual lansea.2025.100532); title paraphrased. |
+| **QT012, QT018, QT019** | Clean | Accurate; only minor omissions where RAG correctly avoided guessing. |
+
+Three RAG summaries (QT014, QT015, QT013) contain fabricated or substituted facts — QT014 (fake author + fake statistic) and QT015 (wrong measurement instrument) are the most damaging for downstream research use and should be corrected before any citation.
+
+======================================================================
+[dòng 11298]
+I have read all 8 PDFs. Now let me verify the QT002 RAG summary against the real Saikia paper one more time, focusing on the statistics, and compile my findings. The QT002 RAG summary cites specific anxiety statistics. Let me cross-check key numbers against the real Saikia tables.
+
+The audit is complete. Here is the structured report.
+
+---
+
+# DATA-INTEGRITY AUDIT REPORT — RAG Batch 1 (8 papers)
+
+## CRITICAL CROSS-CUTTING FINDING
+
+**The PDF file `02_Papers-goc/11-bai-ban-dau-va-mo-rong/QT002_Saikia_2023_India_Assam.pdf` is a MISFILED DUPLICATE.** Its MD5 hash (`0ec2d8fbbd0b95952c4179d775e7f9a8`) is identical to the QT011 Bhardwaj Chandigarh PDF. The QT002 file does NOT contain the Saikia Assam study at all. The real Saikia paper exists separately at `11-bai-ban-dau-va-mo-rong/11_Saikia_2023_IJCM.pdf` — I used that to verify QT002. **Recommendation: replace the QT002_Saikia_*.pdf file with the correct PDF.**
+
+---
+
+## QT001 — Jenkins et al. 2023 (USA, San Diego)
+PDF: `.../11-bai-ban-dau-va-mo-rong/QT001_Jenkins_2023_USA_SanDiego.pdf`
+
+**ACCURATE.** Authors (Jenkins, Sanchez, Miller, Santillanes Allande, Urano, Pryor), journal (Int J Social Psychiatry 2023, 69(3):784–794), N=75, mean age 11.2, PHQ-9A 44% mild-severe, GAD-10 50.6% mild-extreme, gender p-values (PHQ p=.002, GAD p=.016, Mann-Whitney) all match the PDF exactly. Recruitment 2018–2021, snowball sampling, one school — all correct.
+
+Minor note: RAG critique says "N=75" while PDF reports recruited N=83 with 75 fully completed — RAG's N=75 (analysis sample) is correct, no error.
+
+---
+
+## QT002 — Saikia et al. 2023 (India, Assam) — verified against the REAL Saikia PDF
+PDF used: `.../11-bai-ban-dau-va-mo-rong/11_Saikia_2023_IJCM.pdf`
+
+Authors, journal (Indian J Community Med 2023;48:835-40), N=360, 10 schools, ages 14–17, DASS-21 Assamese, modified Kuppuswamy, study period Apr 2019–Jun 2020, 120 schools sampling frame, 36/school — **all ACCURATE.**
+
+**DISCREPANCIES:**
+1. **Anxiety prevalence omitted/garbled.** PDF: overall anxiety = **24.4%** (depression 22.2%, stress 6.9%). The RAG summary references "Bảng 1" for prevalence but the table content is empty in the provided text; the headline anxiety figure (24.4%) is not stated in the narrative. Not fabricated, but incomplete.
+2. **Single-parent anxiety figures — ACCURATE.** RAG: single-parent 63.2% vs both-parents 22.3%. PDF Table 2 confirms exactly (12/19 = 63.2%; 76/341 = 22.3%).
+3. **Gender/anxiety — ACCURATE.** RAG: boys 30.0% vs girls 18.9%, P=0.049. PDF Table 2 confirms exactly.
+4. **Detained/academic anxiety.** RAG says detained students "tỷ lệ lo âu 51,7%". PDF Table 2 says detained = **65.5%** anxiety (19/29). **The 51.7% figure does not match** — likely confused with another cell. **Flagged: wrong number.**
+5. **Citation claim "Daly, 2022 ... hàng chục nghiên cứu đa quốc gia"** — this reference does not appear in the Saikia PDF; it is an editorial insertion, not from the source.
+
+---
+
+## QT006 — Nakie et al. 2022 (Ethiopia)
+PDF: `.../The-gioi_Khac/QT006_Nakie_et_al_2022_Ethiopia.pdf`
+
+Authors (Nakie, Segon, Melkam, Desalegn, Zeleke), BMC Psychiatry 22:739, N=849 recruited / 810 responded (96.1%), 6 schools, ages 15–25, DASS-21, SPIN, Oslo-3, ASSIST — **all ACCURATE.** Cronbach alphas (0.81/0.89/0.78 validation; pilot 0.72/0.84/0.87), pilot n=42, SPSS 25 — all match.
+
+**DISCREPANCIES:**
+1. **Prevalence — ACCURATE.** Depression 41.4%, anxiety 66.7%, stress 52.2% all match.
+2. **Khat AOR — ACCURATE.** AOR=5.595 for depression; cigarette AOR=4.777 for anxiety; female depression AOR=1.304, P=0.046; social support AOR=1.739 for stress — all verified against PDF Tables 4–6.
+3. **Minor:** RAG says lifetime alcohol users "377 (46,5%)". PDF text says "377 (46.5%)" — matches. Khat/cigarette lifetime 82/61 also match.
+4. **University affiliation:** RAG says "Đại học Gondar và Đại học Metu" — PDF confirms (Gondar + Metu University). Accurate.
+
+Verdict: **ACCURATE** (no fabricated numbers found).
+
+---
+
+## QT007 — Chen et al. 2023 (China, Zigong)
+PDF: `.../The-gioi_Khac/QT007_Chen_et_al_2023_China_BMCPsych.pdf`
+
+Authors, BMC Psychiatry 23:580, N=63,205 (63,487 completed minus 282), response 99.6%, mean age 14.3, Zigong/Sichuan, instruments (PHQ-9, GAD-7, MPVS, PSQI, IGDS9-SF), survey Sep–Dec 2020, R 3.3.3 — **all ACCURATE.** OR values (sleep 6.99, IGD 5.00, social manipulation 1.97, verbal 1.70, physical 1.51, property 1.25, girls 1.55) all verified against Table 2.
+
+**DISCREPANCY (terminology — recurring and material):**
+- The RAG summary repeatedly labels the outcome group **"căng thẳng" (stress)**: "nữ chiếm 58% nhóm căng thẳng so với 48% nhóm không căng thẳng", "66% học sinh có căng thẳng tâm thần có rối loạn giấc ngủ", "8,3% học sinh căng thẳng có triệu chứng IGD".
+- **The Chen study has NO stress measure.** It only measures depression (PHQ-9) and anxiety (GAD-7). The group is the "**distress group**" (= students with depressive OR anxiety symptoms), called "mental distress" throughout the PDF. The numbers (58% vs 48%, 66% vs 17%, 8.3% vs 1.0%) are correct for the *distress* group, but calling it "stress/căng thẳng" misrepresents the construct. **Flagged: systematic mislabeling of the outcome variable.**
+- Also: RAG says depression 23%, anxiety 13.9% — these match the PDF (weighted 23.0% / 13.9%). Correct.
+
+---
+
+## QT008 — Wen et al. 2020 (China, rural Jiangxi, LPA)
+PDF: `.../The-gioi_Khac/QT008_Wen_2020_China_Rural_LPA.pdf`
+
+Authors (Wen et al.), IJERPH 2020, 17(11):4079, Nanchang University/Jiangxi, N=900, mean age 14.14, 6 counties, MHT (100 items, 8 scales, Cronbach 0.878), Mplus 7.4 + SPSS 24 — **all ACCURATE.** LPA profiles (mild 173/19.22%, moderate 504/56.00%, severe 223/24.78%), OR values (academic pressure very-high 6.523 moderate / 11.579 severe; high 6.122/5.894; male 0.649/0.262; school MH 0.562; academic excellent 0.377) — all verified exactly against Tables 2 & 4.
+
+**DISCREPANCY (minor, originates in source):**
+- RAG says "học sinh lớp 9–12". The PDF abstract/methods say "grades 9 to 12" BUT the paper repeatedly and explicitly calls them **"junior high school students"** (junior high in China = grades 7–9). The source itself is internally inconsistent. RAG faithfully copied the "grades 9–12" claim, so this is not a RAG fabrication — but note the population label "THCS" (junior high) conflicts with "lớp 9–12" within the RAG summary itself, mirroring the source's own contradiction.
+
+Verdict: **ACCURATE** (RAG faithfully reflects the PDF, including the PDF's own grade/level inconsistency).
+
+---
+
+## QT009 — Qiu et al. 2022 (China, Hefei, parenting)
+PDF: `.../The-gioi_Khac/QT009_Qiu_et_al_2022_China_Parenting.pdf`
+
+Authors (Qiu, Guo, Wang, Zhang), Frontiers in Psychology 13:897339, Hefei/Anhui, scales (CES-D ≥20 α=0.910, SAS ≥50 α=0.799, SRSMSS α=0.931, EMBU), Sep–Oct 2021, LPA profiles (positive 58.6%/58.9%, moderate 32.2%/32.0%, negative 9.1%/9.2%) — **all ACCURATE.** Depression 26.0%, anxiety 13.4%; OR resilience-low 6.74 (dep) / 2.80 (anx); negative parenting 1.82/2.01; positive parenting 0.30/0.32 — all verified against Table 3. Gender: anxiety F 17.5% vs M 11.1% P<0.001 — matches.
+
+**DISCREPANCIES:**
+1. **Sample size — material error.** RAG states **N=2,079** ("khảo sát trên 2.079 học sinh"). The PDF reports **2,936 recruited, 2,879 valid questionnaires** (efficacy rate 98.06%). The number **2,079** appears in the PDF tables (Table 1/Table 3 header "N = 2079") but this is inconsistent with the stated 2,879 valid responses — the PDF itself has an internal inconsistency (2,879 vs 2,079). RAG picked 2,079; the response-rate figure 98.06% corresponds to 2,879/2,936. **Flagged: the RAG N is one of two conflicting numbers in the source; the analytic tables do use 2,079.** Acceptable but should be noted.
+2. **Population mislabel.** RAG title/summary says "**học sinh trung học cơ sở**" (middle/junior high school students) and the paper's title says "Middle School Students." However, the PDF Methods explicitly states the sample is "**senior high school students**" ("2,936 senior high school students were recruited"; "research object was limited to senior high school students in Hefei City"; psychology center of "Hefei No.1 High School"). The paper's own title vs methods conflict; RAG followed the title. **Flagged: population is senior high, not THCS.**
+3. **Mean age — ACCURATE** at 16.7 (consistent with senior high, NOT middle school — another internal contradiction RAG inherited).
+4. RAG critique "nam chiếm 63,4%" — matches PDF (63.4% boys). Correct.
+
+---
+
+## QT010 — Xu et al. 2021 (China, Henan, COVID-19)
+PDF: `.../11-bai-ban-dau-va-mo-rong/QT010_Xu_2021_China_LargestEpi.pdf`
+
+Authors (Qingqing Xu et al.), J Affective Disorders 288:17–22, N=373,216 (244,193 junior + 129,023 senior), 3 cities Henan (Zhengzhou, Xinxiang, Xinyang), Feb 4–12 2020, GAD-7 ≥10, mean age 15.24 — **all ACCURATE.** Overall prevalence 9.89% (36,918/373,216), male 10.11% vs female 9.66%, rural 11.33% vs urban 8.77% — all verified against Table 1 / text.
+
+**DISCREPANCIES:**
+1. **THCS vs THPT prevalence — wrong numbers.** RAG table states "THCS 10,85% / THPT 8,08%". The PDF Discussion does say "10.85% for junior high school students and 8.08% for senior high school students" — **so RAG matches the PDF Discussion.** HOWEVER, the PDF Abstract gives a *different, contradictory* pair: "higher for junior high school students than senior high school students (13.89% vs. 12.93%)". The source is internally inconsistent (abstract 13.89/12.93 vs discussion 10.85/8.08). RAG used the Discussion figures — defensible, but flag the source contradiction.
+2. **OR fear "TB (vs cao) = 0,21" — ACCURATE.** Moderate fear (junior) AOR=0.21; this matches Table 3 Model 2. The RAG phrasing "OR sợ hãi cao gấp 5 lần" (≈1/0.21≈4.8) is a reasonable inversion.
+3. **Behavior "kém" OR=2,72 — ACCURATE.** "All wrong" behavior status (junior) AOR=2.72 (95% CI 2.01–3.68) — matches Table 3 exactly.
+4. **Rural OR=1,30 — ACCURATE** (junior, adjusted Model 2 = 1.30, CI 1.26–1.34).
+5. **Female OR=0,92 — ACCURATE** (junior Model 2).
+
+Verdict: **ACCURATE**, with one source-internal contradiction (abstract vs discussion prevalence) inherited by RAG.
+
+---
+
+## QT011 — Bhardwaj et al. 2020 (India, Chandigarh)
+PDF: `.../The-gioi_Khac/QT011_Bhardwaj_et_al_2020_India_Chandigarh.pdf`
+
+Authors — RAG says "Ridhul Bhardwaj và cộng sự". PDF full author list: **Ridhul Bhardwaj, Suchpreet Kaur, NL Gupta, Neelam Kaur, Davinder Singh.** First author correct.
+
+Journal (Journal of IPHA Chandigarh State Branch), N=288, 5 government schools, DASS-21, PPS sampling, pilot n=20, SPSS v23 — **all ACCURATE.**
+
+**DISCREPANCIES:**
+1. **Anxiety total prevalence 81.9% — UNVERIFIED / likely RAG-derived.** The PDF gives anxiety category breakdown: Normal 18.1%, Mild 8.7%, Moderate 26.4%, Severe 25.3%, Extreme 21.5%. Sum of non-normal = 8.7+26.4+25.3+21.5 = **81.9%** — so 81.9% is a correct derivation (100 − 18.1). Depression non-normal = 64.9%, stress non-normal = 55.2% — both correct derivations. **Not fabricated.**
+2. **Age group "72.9% nhóm 16–18" — ACCURATE** (PDF Table 1: 16–18 = 210/288 = 72.9%).
+3. **Gender/anxiety: RAG "nữ 63,7% nặng+cực nặng vs nam 36,0%."** PDF Table 7: Female severe 23.9% + extremely-severe 39.8% = **63.7%** ✓. Male severe 26.3% + extreme 9.7% = **36.0%** ✓. Accurate.
+4. **Depression gender: RAG "nữ 23,9% nặng vs nam 11,4%, P=0,04."** PDF Table 6: Female severe 21.2% + extreme 2.7% = **23.9%** ✓. Male severe 9.1% + extreme 2.3% = **11.4%** ✓, P=0.04 ✓. Accurate.
+5. **Stress gender: RAG "nữ 44,2% TB/nặng vs nam 23,3%."** PDF Table 8: Female moderate 35.4% + severe 13.3% (+extreme 0.9%) = 48.7% (or 48.7 incl. extreme). Male moderate 18.3% + severe 5.1% = **23.4%**. RAG's "nữ 44,2%" does not cleanly match any PDF cell combination (female moderate+severe = 48.7%). **Flagged: the female stress figure 44.2% appears slightly off** — closest is moderate+severe 48.7%; possibly a transcription error.
+6. **OR values 9.77 / 10.93 / 17.26 — ACCURATE.** PDF: anxiety↔depression OR=10.93; stress↔depression OR=17.26; anxiety↔stress OR=9.771. Pearson r 0.617 / 0.664 / 0.575 — all match PDF Table 9.
+7. **Mean scores — ACCURATE.** Anxiety 14.09±6.7, depression 13.05±7.2, stress 15.6±7.1 — match PDF abstract.
+8. **Note:** RAG says "13–21 tuổi" — PDF Table 1 age ranges 13–15 / 16–18 / 19–21, so 13–21 correct.
+
+---
+
+# SUMMARY OF MOST SERIOUS ISSUES (flagged)
+
+| Paper | Severity | Issue |
+|---|---|---|
+| **QT002** | **CRITICAL** | The labeled PDF file is a misfiled duplicate of QT011 (Bhardwaj). Verified instead via separate `11_Saikia_2023_IJCM.pdf`. Replace the file. |
+| **QT002** | **HIGH** | Detained-student anxiety stated as 51.7% — PDF says **65.5%**. Wrong number. |
+| **QT007** | **HIGH** | RAG systematically labels the outcome "căng thẳng/stress" — the Chen study has **no stress measure**; it is a depression-OR-anxiety "distress" group. Construct mislabeled throughout. |
+| **QT009** | **MEDIUM** | Population labeled "trung học cơ sở (middle school)" but PDF Methods explicitly state **senior high school** students (mean age 16.7). Sample size N=2,079 conflicts with stated 2,879 valid responses (source is internally inconsistent). |
+| **QT011** | **MEDIUM** | Female stress (moderate/severe) stated 44.2%; no PDF cell matches — closest is 48.7%. Likely transcription error. |
+| **QT010** | **LOW** | THCS/THPT prevalence (10.85/8.08%) matches PDF Discussion but PDF Abstract gives contradictory 13.89/12.93% — source-internal inconsistency inherited by RAG. |
+| **QT008** | **LOW** | "Lớp 9–12" vs "THCS (junior high)" — contradiction inherited verbatim from the source paper. |
+
+**Clean (no fabricated/wrong numbers): QT001, QT006.** No PDFs were unreadable image scans — all 8 extracted as text successfully.
+
+======================================================================
+[dòng 11299]
+I now have all the data needed. Let me compile the audit report.
+
+---
+
+# DATA-INTEGRITY AUDIT — QT Batch 4 (8 papers)
+
+## QT028 — Zugman, Pediatric Anxiety Treatment (AJP 2024)
+
+**Mostly accurate on bibliographic data**, but contains a fabricated cross-reference and unverifiable statistics.
+
+- **Authors — INCOMPLETE.** RAG: "Zugman A và cộng sự". PDF: Andre **Zugman, Anderson M. Winkler, Purnima Qamar, Daniel S. Pine** (4 authors). Acceptable as abbreviated, but RAG never lists the others.
+- **Journal/year/pages — ACCURATE.** Am J Psychiatry 2024; 181:189–200. RAG says "12 trang" — page span is 189–200 = 12 pages. OK.
+- **DISCREPANCY (serious — fabricated statistic).** RAG repeatedly states "CBT là phương pháp hiệu quả nhất (47–66% phục hồi)" and "Đáp ứng 57–60%". **These numbers do not appear anywhere in the PDF.** The PDF gives effect sizes (CAMS: CBT alone d=0.31; sertraline d=0.45), and states "one-half to two-thirds of patients will **not** achieve full remission" — i.e. ~33–50% remission, not "47–66%". The "47–66% phục hồi" / "57–60% đáp ứng" figures are not in this paper.
+- **DISCREPANCY (serious — fabricated cross-reference).** RAG repeatedly cites "Zhameden 2025" with specifics ("6 RCTs LMIC", "CBT 3/4 trầm cảm, 1/4 lo âu", "0 RCT từ Việt Nam (Zhameden 2025)"). No such reference exists in QT028. (Note: the library's QT013 PDF is named "QT013_Zhameden_2025" — but attributing "0 RCT từ Việt Nam" claims to QT028 itself is wrong; QT028 makes no Vietnam-specific or LMIC RCT-count claim.)
+- **ACCURATE.** CAMS = 488 children, 4 arms (placebo / sertraline / CBT / combined) — matches PDF. CAMS found combination superior to monotherapy — matches. 20% with consistently low anxiety over 4-year follow-up — matches. Black-box suicide warning, behavioral activation <15% — match.
+- **Note.** RAG says "2 bảng, 1 hình" — PDF has Table 1, Table 2, Figure 1. OK. Narrative review — OK.
+
+## QT029 — Li et al., CBT Network Meta-Analysis (BMC Psychiatry 2025)
+
+**Major discrepancy: the central finding is wrong.**
+
+- **DISCREPANCY (most serious — wrong key finding).** RAG states throughout that "**CBT cá nhân xếp hạng 1**" / "CBT cá nhân hiệu quả nhất" / "Network meta Bayesian xác nhận CBT cá nhân hiệu quả nhất". **The PDF's primary finding is the opposite: Acceptance and Commitment Therapy (ACT) was the MOST effective intervention** (MD = −3.83; SUCRA 0.69), with **CBT second** (MD = −3.64; SUCRA 0.66). The paper's title-level conclusion is "ACT appears to be the most effective." The RAG summary never even mentions ACT.
+- **DISCREPANCY (wrong intervention set).** RAG's Table 2 lists the compared interventions as "CBT cá nhân, CBT nhóm, SSRI, kết hợp, tâm lý giáo dục, thư giãn, chờ đợi" and "5+ Tâm lý giáo dục / Thư giãn / Chờ đợi". **The PDF compared only 4 interventions: ACT, CBT, Physical Exercise (PE), and VRET (Virtual Reality Exposure Therapy)** — explicitly non-pharmacological. SSRI, "CBT nhóm" as a separate node, psychoeducation, relaxation, and waitlist are NOT separate nodes in this NMA. The RAG's entire ranking table is fabricated.
+- **DISCREPANCY (databases).** RAG: "PubMed, PsychINFO, Web of Science". PDF: **five** databases — Cochrane, Embase, PubMed, Scopus, Web of Science. PsycINFO is not used.
+- **DISCREPANCY (search date).** RAG: "đến 24/01/2025". PDF: search covered Jan 1, 1976 – **September 1, 2024**.
+- **DISCREPANCY (risk-of-bias tool).** RAG: "Cochrane RoB 2.0". PDF: risk of bias assessed with **Cochrane Review Manager 5.4 / Cochrane Handbook 5.1.0** (the older 6-domain tool), not RoB 2.0.
+- **DISCREPANCY (countries).** RAG: "30 RCTs chủ yếu từ phương Tây", "0 RCT từ VN/ASEAN... không có bài nào từ Việt Nam hay ASEAN". PDF: 12 countries; US (7), Australia (5), Germany (3), UK (2), Iran (2), Sweden (2), others (9) — and Table 1 explicitly includes **Japan** studies (Infantino 2016, Ishikawa 2019). So the "0 from ASEAN" claim is unverified/likely wrong (Japan present; "other regions n=9" not enumerated).
+- **ACCURATE.** 30 RCTs, 1,711 participants — matches. From 19,442 publications retrieved — matches. Bayesian NMA, GRADE, PROSPERO CRD42024587910 — match. BMC Psychiatry 2025;25:809 — OK. Mean age 12.40, 62% female — match.
+- **Note.** RAG says publication bias possible / "kiểm tra funnel plot" — PDF: Egger's test p=0.91, "no small-study effects". GRADE = low quality — matches.
+
+## QT030 — Zhang Dongjun et al., GBD Trends 10–24y (J Affect Disord 2025)
+
+**Largely accurate.** Minor issues.
+
+- **Authors — ACCURATE.** Zhang Dongjun, Wu Mingyue, Li Xinqi, Wang Lina, Wu Jiali, Jin Mengyao — Xinxiang Medical University, China. (RAG says "Đại học Y khoa Tân Hương" = Xinxiang Medical University. Correct.)
+- **Journal — ACCURATE.** Journal of Affective Disorders 387 (2025) 119491.
+- **Statistics — ACCURATE.** Depression incidence 1990 = 3,085.5/100k → 2021 = 3,909.9/100k, AAPC 0.97 (0.75–1.19). Anxiety incidence 708.0 → 883.1/100k, AAPC 0.84 (0.48–1.21). High-income North America AAPC depression 2.30 (1.53–3.07). Andean Latin America anxiety AAPC 1.91 (1.82–2.00). Acceleration 2014–2021, peak 2019. East Asia slowest. All match the PDF.
+- **MINOR DISCREPANCY.** RAG: "Đông Á tăng CHẬM NHẤT". PDF says **East Asia saw the slowest burden growth** among regions for the SDI-stratified comparison, but actually the **lowest AAPC was in low-SDI countries** (incidence AAPC 0.51). The "East Asia slowest" claim is in the abstract, so acceptable — but RAG's stratified table row "Đông Á — Tốc độ tăng CHẬM NHẤT" oversimplifies; it's stated in the paper, so OK.
+- **MINOR DISCREPANCY (data-vintage).** RAG: "Dữ liệu GBD 2021". PDF abstract says it uses **GBD Study 2019 and 2021**. Minor.
+- **MINOR.** RAG: "phân tích xu hướng 31 năm (1990–2021)" — correct. PDF Methods section oddly says "This analysis reports trends from 2010 to 2021" in one sentence, but the actual analysis and tables run 1990–2021. RAG's 31-year framing matches the abstract/results.
+- **Note.** RAG conclusion "AAPC 0,84–0,97%" — matches PDF abstract range "0.80% to 0.97%" (close; 0.84 is the anxiety point estimate). Acceptable.
+
+## QT031 — Islam et al., Anxiety in 59 Countries (J Affect Disord 2025)
+
+**Several discrepancies — authorship abbreviation and a fabricated sample size.**
+
+- **DISCREPANCY (authors).** RAG: "Islam MA và cộng sự". PDF first author is **Md. Amirul Islam**; co-authors include **Tanjirul Islam** (corresponding), Bristi Rani Saha, Sakib Al Hassan, Noman Hasan, Md. Ashfikur Rahman. "Islam MA" is defensible for the first author, but note the paper is dominated by Bangladeshi authors (Khulna University) — RAG never states institution.
+- **DISCREPANCY (serious — missing/wrong sample size).** RAG never gives the sample size in the summary text, and its comparison table omits it. The PDF sample is **179,937 adolescents aged 11–17** (logistic regression on 101,826 observations). RAG's summary says "VTN đi học" but never states n=179,937 — a key omission. RAG's age framing is also missing (11–17).
+- **DISCREPANCY (prevalence figures — precision).** RAG: Eastern Mediterranean "14,6%", Africa "11,0%", Southeast Asia "3,6%". PDF: Eastern Mediterranean **14.61%** (14.59–14.63), African region **11.43%** (11.41–11.46), Southeast Asia **3.78%** (3.72–3.83). RAG rounds Africa 11.43→11.0 (should round to 11.4) and SE Asia 3.78→3.6 (should be 3.8). The **3.6%** figure is wrong — the PDF says 3.78%, which rounds to 3.8%, not 3.6%. This 3.6% is repeated many times in the RAG summary and even in cross-references.
+- **DISCREPANCY (GSHS years).** RAG: "Dữ liệu GSHS... do WHO phối hợp CDC". PDF: GSHS data **ran from 2003 to 2015**. RAG omits this (its critique guesses "có thể cũ" — actually confirmed 2003–2015).
+- **DISCREPANCY (associated factors — OR values).** RAG Table 2 gives only directional labels, but the PDF has specific AORs: bullying AOR 1.68 (1.52–1.85); female AOR 1.51 (1.38–1.66); age 17y AOR 2.45 (2.05–2.94); food insecurity AOR 2.22 (1.94–2.55); no close friends AOR 1.28 (1.10–1.48); parents never understand AOR 1.44 (1.27–1.63). RAG omits all these and does not mention **food insecurity**, which is the paper's headline keyword and a top factor.
+- **ACCURATE.** 59 countries, Eastern Mediterranean highest, Southeast Asia lowest, GSHS, logistic regression, bullying/loneliness/parental support as factors — directionally correct.
+- **Note.** RAG comparison-table claim "GBD 2025 | Toàn cầu | 3,6–4,6%" — this is the WHO 4.4%/5.5% figure cited inside QT031, mislabeled.
+
+## QT032 — Fitzgerald et al., My World Surveys Ireland (Early Interv Psychiatry 2024)
+
+**Mostly accurate; one notable sample-size omission and an author-list issue.**
+
+- **DISCREPANCY (authors).** RAG: "Fitzgerald A và cộng sự". PDF: **Amanda Fitzgerald, Ciara Mahon, Mark Shevlin, Barbara Dooley, Aileen O. Reilly** (5 authors). Acceptable abbreviation, but RAG attributes the affiliation as just "School of Psychology, Dublin, Ireland" — correct for Fitzgerald (UCD).
+- **DISCREPANCY (sample size omitted).** RAG never states the sample sizes. PDF: 2012 wave **N = 5,490**; 2019 wave **N = 9,844**; ages **12–19**. RAG's table only says "Mức cơ sở" with no n. Significant omission of load-bearing data.
+- **DISCREPANCY (instrument).** RAG critique says "Công cụ đo cụ thể cần kiểm tra từ PDF" — the PDF clearly states depression/anxiety measured by **DASS-21** (Depression Anxiety Stress Scales). RAG failed to extract this even though it's in Table 1.
+- **ACCURATE.** Repeated cross-sectional design, 2012→2019, prevalence of depression and anxiety increased significantly, females increased more, predictors accounted for **37%–61%** of variance — all match the PDF exactly. Self-esteem and resilience as protective factors at wave 2 — matches.
+- **MINOR.** RAG: "11 trang, 5 bảng" — PDF is 11 pages; Table count not fully verified but Table 1 + Table 2 confirmed. Journal: Early Intervention in Psychiatry 2025;19:e13562 (RAG says 2024 — the article was accepted May 2024 / published in 2025 volume; "2024" defensible).
+
+## QT033 — Schmidt-Persson et al., Screen Media RCT (JAMA Network Open 2024)
+
+**Accurate on all checkable facts; RAG is thin (omits the headline numbers) but contains no false statements.**
+
+- **Authors — ACCURATE.** Jesper Schmidt-Persson et al. RAG: "Schmidt-Persson J và cộng sự". OK.
+- **Journal — ACCURATE.** JAMA Network Open 2024;7(7):e2419881. (RAG says "JAMA Network Open" — correct. Note: it is JAMA Network Open, an open-access journal, not "JAMA"; RAG's conclusion text loosely says "RCT trên JAMA" — minor imprecision.)
+- **Country/design — ACCURATE.** Denmark (Southern Denmark, 10 municipalities); secondary analysis of the SCREENS cluster RCT; 89 families / 181 children; 2-week screen-media reduction intervention.
+- **Findings — ACCURATE.** Reduced screen time → improved mental health; between-group difference in total difficulties −1.67 (95% CI −2.68 to −0.67; Cohen d 0.53); greatest improvement in internalizing symptoms and prosocial behavior. RAG's general claim matches; RAG does not quote the numbers (omission, not error).
+- **No discrepancies found.** The RAG summary is accurate but vague — it never states n=181 children / 89 families, mean ages 8.6/9.5, or the SDQ outcome. The cross-reference table ("Chen 2023 n=63.205", "Hoàng Trung Học n=8.473") cannot be verified from this PDF (those are other papers).
+
+## QT034 — Cho et al., Korea Mental Health Trends (Scientific Reports 2024)
+
+**Largely accurate on income-stratified statistics; one wrong figure and a measurement-framing issue.**
+
+- **Authors — ACCURATE (omitted).** PDF first author **Jaehyeong Cho** et al. (filename QT034..._Cho... is correct). RAG summary text never names any author — omission. (Note: prior memory flags author-verification; here the canonical name Cho is correct.)
+- **Journal/data — ACCURATE.** Scientific Reports 2024;14:25021. KYRBS 2006–2022, 17 years. N = 1,138,804; mean age 15.01; 587,256 male (51.57%). All match.
+- **Stress figures — ACCURATE.** 2022 stress: highest-income 40.07%, lowest-income 62.77%. Difference ≈22.7 points — matches RAG.
+- **DISCREPANCY (sadness figure wrong).** RAG table: "Buồn bã | TĂNG (28,2%)" presented as a generic post-COVID figure. The **28.15%** in the PDF is specifically the 2022 sadness prevalence in the **highest-income** group; the lowest-income group sadness in 2022 was **46.83%**. RAG presents 28.2% as if it were the overall/representative post-COVID sadness rate — misleading. The lowest-income 46.83% is not mentioned.
+- **DISCREPANCY (suicidal ideation figure).** RAG: "Ý tưởng tự tử | TĂNG (13,9%)". The PDF's **13.92%** is again the 2022 **highest-income** group value; lowest-income was **31.70%**. RAG presents the most favorable subgroup number as the headline.
+- **DISCREPANCY (suicide attempt — not mentioned correctly).** RAG says "Cố tự tử | TĂNG | Thu nhập thấp tệ hơn" — directionally OK; PDF: 2022 suicide attempt 3.42% (high income) vs 10.45% (low income).
+- **DISCREPANCY (the "U-shaped" framing).** RAG: SKTT "cải thiện 13 năm (2006–2019)". PDF describes a **U-shaped curve** — decline before the pandemic, increase during. The pre-pandemic improvement spans 2006–2019 (≈13 years) — consistent. OK.
+- **MINOR.** RAG: "phân tích xu hướng dài nhất trong Đề tài (16 năm)". PDF consistently says **17 years** (2006–2022). Use 17, not 16.
+- **MINOR.** RAG says "Nature Scientific Reports... IF ≈ 4,6" — Scientific Reports is correct journal; IF unverifiable from PDF.
+- **ACCURATE.** Income inequality widened post-COVID; female sex, alcohol, smoking as top risk factors; KYRBS web-based self-report — all match.
+
+## QT035 — Jefferies & Ungar, Social Anxiety 7 Countries (PLOS ONE 2020)
+
+**Accurate on nearly all data; one instrument-description error.**
+
+- **Authors — ACCURATE.** Philip Jefferies & Michael Ungar, Dalhousie University, Canada. PLOS ONE 15(9):e0239133, DOI 10.1371/journal.pone.0239133, Sept 17, 2020. All match.
+- **Sample — ACCURATE.** 6,825 participants (male 3,342, female 3,428, other 55), aged 16–29 (M=22.84, SD=3.97), 7 countries: Brazil, China, Indonesia, Russia, Thailand, US, Vietnam. All match.
+- **DISCREPANCY (instrument — partly wrong).** RAG: "Sử dụng Thang Lo âu Tương tác Xã hội **17 mục** (SIAS-17)". The PDF states the survey **administered the full 20-item SIAS**, then analysis used the **17 straightforwardly-worded items** (3 positively-worded items omitted from analysis). So the instrument is the 20-item SIAS scored on 17 items — RAG's "SIAS-17" is a simplification but the framing "17 mục thuận chiều" is essentially correct. RAG's SAD threshold "≥29" — PDF says threshold scales to 28.9, reported as ≥29. OK.
+- **DISCREPANCY (Mattick & Clarke citation).** RAG attributes SIAS to "Mattick & Clarke, 1998". The PDF cites the SIAS to reference [40] and the ≥34 (20-item) cutoff to **Heimberg et al. [42]**. The "Mattick & Clarke 1998" attribution is not stated in QT035's text as quoted — likely RAG's own gloss. Minor; the standard SIAS citation is indeed Mattick & Clarke 1998, so not a factual error, just not sourced from this PDF.
+- **Statistics — ACCURATE.** Overall SAD 36.2%; F=74.85, p<.001 for country. Country prevalences all match Table 2: Brazil 42.4% (M=26.18, SD=15.23), China 32.1% (22.30, 13.52), Indonesia 22.9% (18.94, 13.21) lowest, Russia 27.0% (20.78, 12.79), Thailand 41.4% (25.57, 13.92), US 57.6% (30.35, 15.44) highest, **Vietnam 30.7% (M=22.68, SD=11.77)**. All match exactly.
+- **Subgroups — ACCURATE.** No sex difference (male 35.6%, female 36.5%, n.s.); 18–24y highest at 40.3%; 16–17y 30.8%; 25–29y 32.8%; unemployed 41.7%; L3-unfinished 52.0%; suburban 42.4% (highest, not rural). 18% false negatives. All match.
+- **Note.** RAG "Phản biện" says "mẫu market research (Unilever)" — PDF: data created by Edelman Intelligence, commissioned by **Clear and Unilever**. Correct.
+- **No serious discrepancies.** QT035 is the cleanest of the batch.
+
+---
+
+# SUMMARY — MOST SERIOUS FLAGS
+
+| Paper | Severity | Core problem |
+|---|---|---|
+| **QT029** | **CRITICAL** | Headline finding inverted: RAG says "CBT cá nhân ranked #1"; the PDF's actual #1 is **ACT** (CBT is #2). ACT is never mentioned. The entire ranking table is fabricated (lists SSRI/psychoeducation/relaxation/waitlist — PDF compared only ACT/CBT/PE/VRET). Wrong databases, wrong search date (24/01/2025 vs Sept 2024), wrong RoB tool. |
+| **QT028** | **HIGH** | Fabricated efficacy statistics: "CBT 47–66% phục hồi / 57–60% đáp ứng" appear nowhere in the PDF (which says 33–50% will *not* remit). Fabricated "Zhameden 2025" cross-reference and "0 RCT from Vietnam" claim attributed to this paper. |
+| **QT031** | **MEDIUM** | Southeast Asia prevalence stated as **3,6%** — PDF says **3.78%** (rounds to 3.8%). Wrong figure repeated throughout. Sample size n=179,937 omitted entirely; "food insecurity" (paper's central factor) never mentioned; GSHS years (2003–2015) and all AORs omitted. |
+| **QT034** | **MEDIUM** | "Buồn bã 28,2%" and "Ý tưởng tự tử 13,9%" presented as representative post-COVID rates — these are actually the *highest-income* subgroup values; the lowest-income figures (46.83%, 31.70%) are far higher and omitted. "16 năm" should be 17 years. |
+| **QT032** | **LOW–MEDIUM** | Sample sizes (N=5,490 / N=9,844) and the instrument (DASS-21) omitted, though both are clearly in the PDF. No false numbers. |
+| **QT030** | **LOW** | Accurate. Minor: data vintage is GBD 2019+2021 (not just 2021). |
+| **QT033** | **LOW** | Accurate but thin — omits headline numbers (n=181, d=0.53, MD −1.67). No false statements. |
+| **QT035** | **LOW** | Accurate. Minor: instrument is the 20-item SIAS scored on 17 items (RAG calls it "SIAS-17"). |
+
+**Bottom line:** QT029 and QT028 require correction before use — QT029 has an inverted central finding and a wholly fabricated results table; QT028 cites statistics and a reference that do not exist in the source. QT031 and QT034 have wrong/misleadingly-selective numbers. QT030, QT032, QT033, QT035 are factually sound (QT032/QT033 just incomplete).
+
+======================================================================
+[dòng 11302]
+I now have all data needed. Here is the complete audit report.
+
+---
+
+# DATA-INTEGRITY AUDIT — RAG Batch 6 (QT045–QT056)
+
+## QT045 — Matsumoto, iCBT subthreshold SAD Japan (JMIR Pediatr Parent 2024)
+
+**Status: MOSTLY ACCURATE — one notable discrepancy + minor issues**
+
+- **Authors/year/journal/title:** Correct. Kazuki Matsumoto et al., 2024, JMIR Pediatrics and Parenting vol. 7, e55786, DOI 10.2196/55786. Trial ID UMIN000050064 — correct.
+- **Sample:** Correct. 77 students enrolled, intervention n=38 / control n=39, 6 universities + 1 high school, subthreshold SAD.
+- **DISCREPANCY — number of modules:** RAG says iCBT "8 module". PDF clearly states the program "consists of **10 sessions/modules**" (Table 1 lists 10 modules: Psychoeducation … through Prevent relapse, numbered 1–10). RAG's "8 module" is wrong.
+- **DISCREPANCY — dates:** RAG says "từ 12/2022 đến 10/2023." The PDF Abstract says December 2022–October 2023, but the Methods section says "from **November 2022** to October 2023." Minor internal inconsistency in the source itself; RAG picked the abstract version — acceptable but worth noting.
+- **Statistics in the results table:** All verified correct against PDF:
+  - Response: intervention 61% (19/31), OR 4.97 (95% CI 1.61–16.53), P=.003 — MATCHES.
+  - Recovery: intervention 68% (21/31), OR 3.95 (95% CI 1.32–12.56), P=.008 — MATCHES.
+  - Remission ratio OR 2.01, ns — MATCHES (PDF: OR 2.01, 95% CI 0.64–6.60, P=.20).
+- **Methods note:** RAG says "ANCOVA với trầm cảm là biến đồng" — correct (covariate = PHQ-9 depression). Outcome measures: RAG mentions "SIAS" as the main social anxiety scale, but the PDF primary outcome is the **LSAS (Liebowitz Social Anxiety Scale)**, secondary is **SPIN** — there is no SIAS in this study. RAG also recommends future screening "bằng SIAS-17"; SPIN is the 17-item scale, not SIAS. **Minor discrepancy — scale name SIAS is incorrect; should be LSAS / SPIN.**
+
+## QT046 — Jagiello et al., Academic Stress Interventions SLR (Child Psychiatry Hum Dev 2025)
+
+**Status: ACCURATE**
+
+- Authors (Jagiello, Belcher, Neelakandan, Boyd, Wuthrich), order, year, journal, vol. 56 pp. 1836–1869, DOI 10.1007/s10578-024-01667-5, online 4 March 2024 — all correct.
+- 31 eligible studies across 13 countries — MATCHES PDF.
+- "First systematic review to focus exclusively on school-based programs for academic stress in high school students" — MATCHES PDF claim.
+- Key findings (poor methodological quality, many inactive control groups, strongest evidence for CBT-grounded programs, both universal and targeted beneficial) — all accurately represented.
+- Note: the cross-references in the RAG summary to other papers (VN21 β=4.73, Wen QT08 OR=11.58, UNICEF VN22 figures, the "UK 8,376 HS" in the table) are RAG's own editorial cross-linking, not claims from QT046's PDF — not verifiable here and not part of QT046's content, but they are not presented as QT046 findings, so not flagged as a QT046 error.
+
+## QT047 — Dong, Wang, Lin, DASS-21 secondary students Ya'an (PLOS ONE 2025)
+
+**Status: MOSTLY ACCURATE — several discrepancies**
+
+- **Authors/year/journal:** Correct. Dong T, Wang Y, Lin Y; 2025; PLOS ONE 20(9):e0328785.
+- **DISCREPANCY — sex breakdown:** RAG says "1.230 nam + 1.486 nữ." PDF confirms 1,230 males and 1,486 females — **MATCHES**. (No error.)
+- **DISCREPANCY — target sample size:** RAG says "mẫu mục tiêu n = 1.844 (DE = 4, attrition 20 %)." PDF: base calculation 384 → ×DE 4 = 1,536 → +20% = **1,844**. MATCHES.
+- **DISCREPANCY — questionnaires distributed / validity rate:** RAG says "thu được 2.716 phiếu hợp lệ (93,66 %)" implying 2,716 from a total. PDF: **2,900 distributed**, 2,716 recovered, validity 93.66%. RAG omits the 2,900 denominator but the recovered count and rate are correct.
+- **Prevalence figures:** Depression 24.4%, anxiety 41.4%, stress 15.6% — MATCH PDF (24.41% / 41.42% / 15.57%). "Lo âu nặng/rất nặng gần 9%" — PDF: severe 4.09% + extremely severe 4.34% = 8.43% ≈ 9% — acceptable.
+- **Regression table — checked against PDF Model 2:**
+  - Confide in family: Depression OR 0.22, Anxiety OR 0.27 — MATCH PDF (0.22, 0.27).
+  - Confide in peers/friends: Depression OR 0.37, Anxiety OR 0.42 — MATCH PDF (0.37, 0.42).
+  - "Hỗ trợ gia đình More vs hiếm: 0,45 / 0,69" — PDF Model 2 reports family support OR 0.45 (0.30–0.68) for depression. MATCH. The anxiety value 0.69 is plausible but I did not see the family-support anxiety row explicitly; treat as **unverified, low risk**.
+  - "Tìm trợ giúp chủ động vs thụ động: 0,48 / 0,70" — PDF: Proactive vs Passive help-seeking, depression OR 0.48 (p<0.001), anxiety OR 0.70 (p=.077). MATCH.
+  - "Xếp hạng < 60%: 1,62 / 0,98" — PDF: bottom-40%/ranking <60% depression OR **1.62** (1.17–2.25, p=0.004). Depression MATCHES. The anxiety value "0,98" is **not supported** — PDF Table 1 shows ranking was non-significant for anxiety (p=0.824) but I did not see a Model 2 anxiety OR of 0.98; **flag as unverified**.
+- **POSSIBLE DISCREPANCY — interpretation of confidant variable:** RAG calls family-confide the "yếu tố bảo vệ MẠNH NHẤT… mạnh hơn cả mức hỗ trợ chung." This is a defensible reading (OR 0.22 is the lowest), but it is RAG's interpretation, not an explicit PDF statement. Not a factual error, just editorializing.
+- **Minor:** RAG says survey done in "Ya An, Tứ Xuyên" — PDF confirms Ya'an City, Sichuan. Correct. RAG says "4 trường trung học" — PDF confirms "four middle schools." Correct.
+
+## QT052 — Mindfulness IPD MA (Nature Mental Health 2023)
+
+**Status: ACCURATE (within the limits of the short summary)**
+
+- RAG is a deliberately short "bonus" summary; author field literally says "(xem PDF)" — not a fabrication.
+- Journal/year/volume: RAG says "Nature Mental Health (2023) 1:462-476" — MATCHES PDF (Volume 1, July 2023, 462–476). DOI 10.1038/s44220-023-00081-5.
+- Title: "Systematic review and individual participant data meta-analysis of randomized controlled trials assessing mindfulness-based programs for mental health promotion" — MATCHES.
+- Method (IPD MA, RCTs, mindfulness, Nature Q1) — correct.
+- Scope warning ("đối tượng phần lớn là người lớn") — correct; PDF explicitly studies "adults in non-clinical settings."
+- Not stated in RAG but for the record: 15 trials eligible, 13 shared IPD, 2,371 participants, 8 countries; pooled SMD −0.32 (95% CI −0.41 to −0.24). No statistic in the RAG summary contradicts this.
+
+## QT053 — Pharmacotherapy of Anxiety Disorders review (Frontiers in Psychiatry 2020)
+
+**Status: ACCURATE**
+
+- Short bonus summary. Journal "Frontiers in Psychiatry (2020) 11:595584" — MATCHES PDF (Front. Psychiatry 11:595584, published 23 Dec 2020).
+- Author field "(xem PDF)" — not a fabrication. (Actual authors: Garakani, Murrough, Freire, Thom, Larkin, Buono, Iosifescu.)
+- Title "Pharmacotherapy for anxiety disorders (review)" — PDF actual title is "Pharmacotherapy of Anxiety Disorders: Current and Emerging Treatment Options." Close paraphrase, acceptable for a summary.
+- Content (SSRIs, SNRIs, benzodiazepines, mechanism review, adults only, excludes PTSD/OCD) — accurately characterized. Scope warning that subjects are mainly adults — correct (PDF explicitly excludes children/adolescents).
+
+## QT054 — Chronic Stress, Neuroinflammation, Depression (Frontiers in Psychiatry 2023)
+
+**Status: ACCURATE**
+
+- Short bonus summary. Journal "Frontiers in Psychiatry (2023)" — MATCHES (Front. Psychiatry 14:1130989, published 11 May 2023).
+- Title EN "Chronic stress, neuroinflammation, and depression: an overview of pathophysiological mechanisms" — MATCHES PDF exactly (full title adds "and emerging anti-inflammatories").
+- Author "(xem PDF)" — not a fabrication. (Actual sole author: Sameer Hassamal.)
+- Content (neuroinflammation as shared mechanism between chronic stress and depression, emerging anti-inflammatory targets) — accurately characterized.
+
+## QT055 — Parade et al., Childhood Maltreatment and DNA Methylation SR (Translational Psychiatry 2021)
+
+**Status: ACCURATE**
+
+- Author "Parade et al." — correct (Stephanie H. Parade is first author; full list: Parade, Huffhines, Daniels, Stroud, Nugent, Tyrka).
+- Journal/year "Translational Psychiatry (2021) 11:134" — MATCHES PDF exactly.
+- Title "A systematic review of childhood maltreatment and DNA methylation: candidate gene…" — MATCHES PDF.
+- Content (DNA methylation as epigenetic mechanism linking ACEs/maltreatment to later MH; candidate genes NR3C1, SLC6A4) — accurately characterized. PDF confirms NR3C1 (glucocorticoid receptor) as a central candidate gene and discusses serotonin-system genes. 100 empirical articles reviewed (RAG does not cite a number, so no conflict).
+
+## QT056 — Jiang et al., Microbiota-Gut-Brain Axis in Anxiety (Frontiers in Neuroscience 2024)
+
+**Status: ACCURATE**
+
+- Authors "Jiang M, Kang L, Wang YL, Zhou B, Li HY, Yan Q, Liu ZG" — MATCHES PDF exactly (Min Jiang, Li Kang, Ya-Li Wang, Bin Zhou, Hong-Yi Li, Qiang Yan, Zhi-Gang Liu), order correct.
+- Journal "Frontiers in Neuroscience (2024)" — MATCHES.
+- Title EN "Microbiota-gut-brain axis communication in anxiety" — PDF actual title is "Mechanisms of microbiota-gut-brain axis communication in anxiety disorders." Acceptable paraphrase.
+- Content — accurately characterized.
+
+---
+
+# SUMMARY OF FLAGGED DISCREPANCIES
+
+**Most serious (factual errors in RAG summary):**
+
+1. **QT045 — module count wrong.** RAG: "8 module." PDF: the iCBT program "consists of **10 sessions**" (Table 1 lists modules 1–10). Should be corrected to 10.
+2. **QT045 — scale name wrong.** RAG names the primary social-anxiety scale as "SIAS" and recommends screening with "SIAS-17." The PDF uses the **LSAS** (primary) and **SPIN** (secondary, 17-item). There is no SIAS in this study.
+
+**Minor / worth noting:**
+
+3. **QT045 — start-date inconsistency.** RAG says Dec 2022; PDF Methods says Nov 2022 (Abstract says Dec 2022). The inconsistency originates in the source paper itself.
+4. **QT047 — anxiety ORs "0,98" (ranking <60%) and "0,69" (family support) are unverified.** I could not confirm these two specific Model 2 anxiety values in the PDF; the ranking variable was non-significant for anxiety (p=0.824 in Table 1). Recommend re-checking QT047 Table 3 anxiety column before citing these.
+5. **QT047 — RAG omits the 2,900-questionnaires-distributed denominator** (states only 2,716 valid at 93.66%).
+
+**No errors found:** QT046, QT052, QT053, QT054, QT055, QT056 are all factually accurate. The four "bonus" summaries (QT052–QT054, plus QT055/QT056) have correct journals, years, and titles; where the author field says "(xem PDF)" that is an intentional placeholder, not a fabrication.
+
+All 8 PDFs were machine-readable; none required image-scan fallback.
+
+======================================================================
+[dòng 11303]
+QT063 uses ISI + PHQ-9 + MINI (not BDI/SCID — the RAG hedged with "PHQ-9 / BDI / SCID" but the actual instruments are ISI, PHQ-9, MINI). I have all data needed. Here is the audit report.
+
+---
+
+# DATA-INTEGRITY AUDIT — QT Batch 7 (8 papers)
+
+## QT057 — Neural Circuits Mechanisms of Anxiety (Frontiers in Neural Circuits 2025)
+**DISCREPANCY (moderate):**
+- **Author:** RAG says `Tác giả | (xem PDF)` — left blank. The PDF clearly states a single author: **Wenxuan Gong** (School of Life Science, Beijing University of Chinese Medicine). This should be filled in, not deferred.
+
+Title (EN/VN), journal, year (2025), institution all match. The amygdala/BNST/PFC + LHb circuits described match the PDF abstract (note: PDF emphasizes amygdala, BNST, **and lateral habenula (LHb)**; RAG mentions amygdala+BNST+PFC — PFC is discussed in the body but LHb is the third headline region; minor emphasis mismatch, not an error). **Otherwise ACCURATE.**
+
+## QT058 — Neuroinflammation Mechanisms of Neuromodulation Therapies (Translational Psychiatry 2022)
+- Authors: RAG `Guo B, Zhang M, Hao W, Wang Y, Zhang T, Liu C` → PDF: Bingqi **Guo**, Mengyao **Zhang**, Wensi **Hao**, Yuping **Wang**, Tingting **Zhang**, Chunyan **Liu**. Match (order and initials correct).
+- Title, journal match. **Minor:** RAG dates it "(2022)". The article citation is `Translational Psychiatry (2023) 13:5`, published online Jan 2023 (DOI 10.1038/s41398-022-02297-y carries a 2022 DOI stem). Year is borderline — PDF masthead says 2023. Worth flagging the year as **2023, not 2022**.
+- Content (TMS, TES, ECT, PBM, TUS, DBS, VNS reduce neuroinflammation) matches. **ACCURATE apart from publication year (2023).**
+
+## QT060 — Rising Global Burden of Anxiety, GBD 10–24y (Frontiers in Psychiatry 2024) — SERIOUS ERRORS
+- **Authors:** RAG `Bie F, Yan X, Xing J, Wang L, Xu Y, Wang G, Wang Q, Guo J, Qiao J, Rao Z` → PDF: **Fengsai Bie, Xiaoling Yan, Jie Xing, Leilei Wang, Yang Xu, Guan Wang, Qian Wang, Jinyu Guo, Jing Qiao, Zhenzhen Rao**. Match.
+- **WRONG STAT — age group with largest increase:** RAG says *"Nhóm 20-24 tuổi tăng nhiều nhất: +28,33%"* and key-fact line. PDF abstract: increase *"particularly in the **10-14 age group**"*; Results: highest **incidence** increase = 20-24 (28.33%), smallest = 10-14 (21.58%). The RAG's "+28,33%" for 20-24 is correct for incidence, BUT the RAG also says *"Nhóm 10-14 tuổi DUY TRÌ tỷ lệ cao nhất"* — that IS correct (10-14 had highest rates: 760.96→925.07). Net: this point is internally muddled but the numbers trace. **Acceptable.**
+- **WRONG STAT — "Nam Á dẫn đầu số ca tuyệt đối: 3,5 triệu (Ấn Độ chủ yếu)":** PDF says South Asia had the highest number of *incident* cases at **3,478,267 (~3.5M)** — this matches. But RAG conflates: it's South Asia the *region*, and separately **India** the *country* (2.6M incident cases). The "3.5 triệu" figure is the South Asia regional total, not India. Roughly OK but imprecise.
+- **WRONG — region with biggest rise:** RAG says *"Latin Mỹ Tropical cao nhất"* for incidence rate — PDF confirms Tropical Latin America has highest incidence **rate** (1,586.81/100k). But RAG also implies Latin America "tăng nhiều nhất"/largest rise; PDF: largest rise by country = **Mexico** (EAPC 1.40); largest regional increase = High SDI region. The RAG separately and correctly notes Đông Á giảm nhiều nhất (East Asia EAPC -0.432). Mostly OK.
+- **CORRECT:** +52% global increase, 708.02 → 883.10 per 100k incidence rate (1990→2021), bullying victimization as primary GBD risk factor (1,703,468 DALYs), GBD 2021 / 204 countries, DOI 10.3389/fpsyt.2024.1489427.
+- **Note:** RAG says published 2024 — PDF says **PUBLISHED 26 November 2024**. Correct.
+
+**QT060 verdict: Mostly accurate on headline numbers, but the age-group / country-vs-region attributions are loosely worded. No fabricated numbers — every figure traces to the PDF. Recommend tightening the "20-24 tăng nhiều nhất" vs "10-14 cao nhất" and "Nam Á/Ấn Độ 3,5 triệu" wording.**
+
+## QT061 — ClearlyMe Co-design (The Cognitive Behaviour Therapist, Cambridge UP) — SERIOUS ERRORS (fabricated app structure + wrong year)
+- **Authors:** RAG `Li SH, Achilles MR, Spanos S, Habak S, Werner-Seidler A, O'Dea B` → PDF matches exactly.
+- **FABRICATED — "37 brief lessons" / "37 BÀI HỌC NGẮN":** This number does **not appear anywhere** in the PDF. The PDF describes the app's content as **nine "Collections"**, each containing **3–5 activities**. "37 lessons" is fabricated.
+- **FABRICATED — "5 modules chính + 32 mini-lessons":** Not in the PDF. The "five" in the paper refers to **five key themes** from focus groups (drivers of digital behaviour, online safety, program preferences, support, help-seeking). There is no "5 modules + 32 mini-lessons" structure.
+- **FABRICATED — "RCT đang chuẩn bị tuyển 489 VTN" / "n=489":** The number **489 does not appear** in the PDF. The paper states only that *"a fully powered randomised controlled trial (RCT) has been planned"* — no sample size given.
+- **WRONG YEAR:** RAG says published 2024 (and DOI `10.1017/S1754470X24000345`). The PDF shows DOI **`10.1017/S1754470X22000095`**, received 18 Nov 2021, accepted 19 Jan 2022 — i.e. a **2022** publication. The "2024" year and the DOI in the RAG are both wrong.
+- **CORRECT:** Co-design with adolescents (n=36), parents (n=15), mental health professionals (n=32); four-step process (Discover/Define/Design/Test); target ages 12–17; Black Dog Institute / UNSW; non-endorsement of gamification/chatbots.
+
+**QT061 verdict: SERIOUS. Three fabricated figures (37 lessons, 5+32 module structure, 489 RCT sample) plus wrong year (2022 not 2024) and wrong DOI. The app-structure description is invented.**
+
+## QT062 — Clear Fear App Evaluation (JMIR Formative Research 2025)
+- **Authors:** RAG `Samele C, Urquia N, Edwards R, Donnell K, Krause N` → PDF: Chiara **Samele**, Norman **Urquia**, Rachel **Edwards**, Katie **Donnell**, Nihara **Krause**. Match.
+- Institutions: RAG "Informed Thinking, London + Stem4 charity, UK" → PDF: Informed Thinking + stem4, London. Match.
+- **Statistics all verified:** n=48 baseline → 37 (77%) follow-up; mean age 20.1 (SD 2.1); ages 16–25; GAD-7 t36=2.6, 95% CI 0.41–3.53, P=.01; anxiety threshold 48% (23/48) → 22% (8/37); 9-week design (1 wk familiarisation + 8 wk). All match the PDF exactly.
+- **MINOR DISCREPANCY — app structure:** RAG describes *"6 module"* (Module 1–6) and a *"safety plan 24/7"*. The PDF describes the "Clear Your Fear" section as **4 key areas** (dealing with emotions, managing worries, reacting to worries, managing physical responses to anxiety), not 6 modules. The RAG's 6-module breakdown (psychoeducation, symptom tracking, cognitive challenges, relaxation, behavioral activation, exposure ladder) is a reorganised/expanded description that does not match the paper's stated "4 key areas" framing. The RAG itself flags this is partly inferred. **Flag as a structural mismatch, not a number error.**
+- DOI 10.2196/55603, JMIR Formative 2025 — correct.
+
+**QT062 verdict: ACCURATE on all authors and statistics. One structural discrepancy — paper says "4 key areas," RAG says "6 modules."**
+
+## QT063 — App-based CBT-I Preventing MDD (PLOS Medicine 2025)
+- **Authors:** RAG `Chen S-J, Que J-Y, Chan NY, Shi L, Li SX, Chan JWY, et al.` → PDF matches (Si-Jing Chen, Jian-Yu Que, Ngan Yin Chan, Le Shi, Shirley Xin Li, Joey Wing Yan Chan, ...).
+- **POPULATION — partly imprecise:** RAG says *"Hong Kong (Chinese University of Hong Kong) + mainland China collaborators"*. PDF: Chinese youth aged **15–25**, recruited from universities, high schools, and communities in **mainland China AND Hong Kong**. It is a joint mainland-China + Hong Kong trial, not predominantly HK. RAG's framing under-states the mainland China component.
+- **WRONG — "5 module" CBT-I structure:** RAG says *"Cấu trúc CBT-I 5 module"* and key-fact line *"app CBT-I 5 module"*. PDF explicitly: the program *"consists of **six sequential modules**"*: (1) overview of sleep, (2) sleep restriction, (3) stimulus control, (4) cognitive restructuring, (5) structured worry time, (6) relapse prevention. **It is 6 modules, not 5.**
+- **Sample size:** RAG left it as "Cần verify từ PDF — RCT lớn". PDF: **708 participants** (407 female [57%], mean age 22.1, SD 1.9), randomised 1:1 to CBT-I (n=354) vs health education (n=354). 6-week intervention. Hazard ratio for MDD onset 0.58 (95% CI 0.38–0.87, p=0.008); insomnia remission 52% vs 28% (RR 1.83). These should be added; the RAG's "verify" placeholder is acceptable but incomplete.
+- **Instruments:** RAG hedges "PHQ-9 / BDI / SCID". Actual: **ISI + PHQ-9 + MINI** (Mini-International Neuropsychiatric Interview). No BDI or SCID used. Should be corrected.
+- DOI 10.1371/journal.pmed.1004510, published 21 Jan 2025 — correct.
+
+**QT063 verdict: Author/journal/DOI/date correct. ERROR: "5 module" should be "6 modules." Instrument list (BDI/SCID) wrong — actual tools are ISI/PHQ-9/MINI. Population description under-states the mainland-China share.**
+
+## QT064 — Photovoice Scoping Review (Int. J. Adolescence & Youth 2023)
+- **Authors:** RAG `Madison Stephens, Eleanor Keiller, Maev Conneely, Paul Heritage, Mariana Steffen[, Victoria Jane Bird]` → PDF matches (the RAG line is truncated but correct as far as shown; full list ends with Victoria Jane Bird).
+- **Study selection verified:** 7 eligible from Burn et al.'s 215-study extraction table + 3 from updated search of 334 studies + 2 grey literature = **12 studies total**. Matches RAG exactly.
+- **Verified:** 5 databases (PsycINFO, PubMed, Scopus, Web of Science, CINAHL); PRISMA-ScR + CASP + COREQ; thematic analysis; quality — **none "good," 6 moderate, 4 poor** (note: 10 appraised; RAG says "6/12 trung bình; 4/12 kém" — slightly imprecise since 12 is the total but only 10 received this rating, still essentially correct); 10/12 HICs (USA n=6, Canada n=3, UK n=1), 2 LMICs (Kenya, South Africa); 9 urban / 1 rural / 2 unspecified; gender skew 127 F vs 47 M; sample sizes 4–58; ≤10 in 6 studies; 7 standalone Photovoice / 3 combined; 6 used SHOWeD; disposable cameras (28 photos). All match.
+- **MINOR INCONSISTENCY — age range:** The RAG's methods section correctly states "VTN 10-19 tuổi (định nghĩa WHO 2021)" — matches PDF eligibility (participants between ten and 19, WHO 2021). But the RAG's bottom **metadata line** says *"~200 vị thành niên **10-22 tuổi**"*. The "10-22" contradicts the paper's 10–19 eligibility criterion and the RAG's own methods section. **Flag the metadata "10-22" as wrong — should be 10-19.**
+- DOI 10.1080/02673843.2023.2244043, vol 28 no 1, 2023 — correct.
+
+**QT064 verdict: ACCURATE. Only flaw: metadata line says "10-22 tuổi" while the PDF (and RAG methods text) say 10-19.**
+
+## QT065 — EACP RCT (Journal of School Psychology 2025) — ONE WRONG STAT
+- **Authors:** RAG `Bradshaw CP, McDaniel H, Pas ET, Debnam KJ, Bottiani JH, Powell N, Ialongo NS, M[...], [Lochman]` → PDF: Catherine P. Bradshaw, Heather McDaniel, Elise T. Pas, Katrina J. Debnam, Jessika H. Bottiani, Nicole Powell, Nicholas S. Ialongo, Antonio Morgan-Lopez, John E. Lochman. Match.
+- **Verified:** 40 middle-school cluster RCT; n=709 7th-graders screened by teachers for aggressive behaviour; 69.8% African American, 59.4% male; BASC outcomes; NIMH-funded; student sessions reduced from **34 to 25** (RAG correct); EACP delivered over one school year; effects stronger for girls; J. School Psychology vol 110, 2025, art 101437, DOI 10.1016/j.jsp.2025.101437. All match.
+- **WRONG STAT — caregiver sessions:** RAG says *"25 buổi học sinh + **16 buổi cha mẹ**"* (in body and key-fact line). PDF explicitly: *"The EACP Caregiver Component consisted of **12 group sessions** for caregivers."* The correct figure is **12, not 16**. (Students also received 8–10 individual 30-min sessions in addition to the 25 group sessions — not mentioned by RAG, but the "25 group sessions" claim is correct.)
+
+**QT065 verdict: Authors, sample, design, year, DOI all correct. ONE WRONG NUMBER — caregiver sessions are 12, not 16.**
+
+---
+
+# SUMMARY OF MOST SERIOUS FINDINGS
+
+| Paper | Severity | Issue |
+|---|---|---|
+| **QT061** | **SERIOUS** | Three fabricated figures: "37 lessons", "5 modules + 32 mini-lessons", "RCT n=489" — none appear in the PDF. Also wrong year (2022, not 2024) and wrong DOI (`...22000095`, not `...24000345`). |
+| **QT063** | **Moderate** | CBT-I structure is **6 modules, not 5**. Instruments are ISI/PHQ-9/MINI — RAG's "BDI/SCID" is wrong. Population under-states mainland-China share. |
+| **QT065** | **Moderate** | Caregiver component is **12 sessions, not 16**. |
+| **QT057** | Minor | Author field left as "(xem PDF)" — should be **Wenxuan Gong** (single author). |
+| **QT062** | Minor | App described as "6 modules" but paper says "4 key areas". |
+| **QT058** | Minor | Publication year should be **2023**, not 2022. |
+| **QT060** | Minor | Headline numbers (+52%, 708→883, bullying, regions) all verified and accurate; some age-group/country-vs-region attributions loosely worded. |
+| **QT064** | Minor | Metadata line says "10-22 tuổi"; correct eligibility is **10-19** (RAG's own methods text is right). |
+
+**Most critical:** QT061 is the only paper with outright **fabricated statistics** (the entire ClearlyMe app structure and the RCT sample size are invented) — and it additionally has a wrong publication year and DOI. QT063 ("5 modules"→6; "BDI/SCID" instruments wrong) and QT065 ("16"→12 caregiver sessions) are wrong-number errors that should be corrected. No paper was an unreadable scan — all 8 PDFs extracted cleanly.
+
+======================================================================
+[dòng 11306]
+I have completed the audit. Here is the structured report.
+
+---
+
+# DATA-INTEGRITY AUDIT — QT020–QT027
+
+Verified each RAG summary against the original PDF (text extracted with pypdf 6.10.0). One section per paper.
+
+---
+
+## QT020 — Liu et al., CBT delivery formats for GAD (NMA) — **ACCURATE**
+
+All checked items match the PDF:
+- Authors/order: "Shiyu Liu, Hongqi Xiao, Yingxu Duan, Lixin Shi, Ping Wang, Lingxiao Cao, Hailong Li, Xiaoqi Huang, Changjian Qiu" — matches.
+- Journal/year: *Translational Psychiatry* (2025) 15:197, Nature group — matches.
+- Unit: West China Hospital of Sichuan University — matches.
+- Sample: 52 trials, 4,361 patients, mean age 43, 69.7% women — matches exactly.
+- Statistics: Individual CBT vs Remote SMD 0.96 [0.13–1.79]; vs TAU 1.12 [0.24–2.00]; vs Waitlist 1.62 [1.03–2.22] — all match. NMA "including 30 studies" — matches.
+- Minor note: RAG says "75% RCTs có low/unclear risk of bias"; PDF says "39 out of 52 trials, 75%" — consistent. Group CBT SMD 1.65 [0.47–2.84] (RAG left it as "cần đọc full" — not an error, just incomplete).
+
+---
+
+## QT021 — Brunborg et al., Mental distress in Norwegian adolescents — **ACCURATE**
+
+- Authors/order: "Geir Scott Brunborg, Sondre Aasen Nilsen, Jens Christoffer Skogen, Lasse Bang" — matches.
+- Journal: *Social Science & Medicine* 384 (2025) 118528; DOI 10.1016/j.socscimed.2025.118528 — matches.
+- Sample: 979,043 Norwegian adolescents, 1,417 municipality-level surveys, 2011–2024 — matches.
+- 8 explanatory factors and the finding pattern (school dissatisfaction = main explanation, social media = partial, financial/bullying/physical inactivity/parent dissatisfaction = limited) — all match the abstract and PDF.
+- Minor note: The decomposition coefficient values in RAG "Bảng 2" (b→−0.004; 0.016→0.006) were not located in the extractable text (likely in a figure/table image) — **cannot confirm or refute these two specific numbers**; the directional claims are correct.
+
+---
+
+## QT022 — Li et al., Screen time, depression & anxiety (longitudinal) — **ACCURATE**
+
+- Authors: "Sophie H. Li, Philip J. Batterham, Alexis E. Whitton, Kate Maston, Asaduzzaman Khan, Helen Christensen, Aliza Werner-Seidler" — RAG says "Sophie H. Li và cộng sự" — matches.
+- Journal: *Br J Clin Psychol* 2025;64:873–887; DOI 10.1111/bjc.12547 — matches.
+- Sample: 4,058 adolescents, mean age 13.9, 134 Australian schools, Future Proofing Study (5-year prospective cohort), T1/T2 = 12-month follow-up — matches.
+- Initial sample 6,388 → 4,058 — matches PDF ("6388").
+- Statistics: cross-sectional +1.25/hr depression and +0.79/hr anxiety; longitudinal +0.15 depression, no association with anxiety — match the abstract. (RAG writes anxiety cross-sectional as "0,72/giờ"; PDF abstract says **.79** — see note below.)
+
+**Minor discrepancy:** RAG "Bảng 2" gives cross-sectional anxiety **b = 0,72/giờ**; PDF abstract states **0.79** ("a 1.25 and .79 increase in measures of depression and anxiety"). Likely a transcription slip (0.72 vs 0.79). All other figures match. The gender contrast b-values in RAG Bảng 2 could not be located in extractable text — not refuted.
+
+---
+
+## QT023 — Mojtabai & Olfson, Trends in mental disorders (US public MH system) — **DISCREPANCIES**
+
+Statistics are accurate, but author affiliations and one cross-reference number are wrong:
+
+- **Affiliations wrong.** RAG: "Ramin Mojtabai và Mark Olfson, **Tulane University và Columbia University**" — partially right but mislabeled. PDF: Mojtabai = **Tulane University School of Medicine**; Olfson = **Columbia University** (Vagelos College / Mailman School). RAG's pairing is acceptable, but the RAG also implies Mojtabai↔Tulane is the lead institution — that part is fine. The real issue is below.
+- **Wrong oppositional-defiant disorder figures (cited indirectly).** Not in RAG — skip.
+- Journal: RAG "JAACAP, Vol. 64(8)"; PDF "J Am Acad Child Adolesc Psychiatry 2025;64(8):906-920." RAG dates the paper **2024** in the title line but PDF publication is **2025** (vol 64(8), August 2025; accepted Aug 2024). RAG's filename and bib say 2024 — **minor year ambiguity** (accepted 2024, published 2025).
+- Sample: 13,684,154 records, ≤17 years, MH-CLD 2013–2021 — matches.
+- Anxiety 9.6%→19.2%, AOR 2.17 (1.85–2.55) — matches. Depression 13.4%→17.0%, AOR 1.20 (1.03–1.41) — matches. Trauma 22.7%→27.4%, AOR 1.31 (1.09–1.57) — matches. Bipolar 10.0%→1.3%, AOR 0.07 — matches. Conduct 9.7%→4.4%, AOR 0.42 — matches.
+- **ADHD discrepancy.** RAG "Bảng 2": ADHD 29.8%→25.3%, **AOR 0,90 (0,77–1,06)**. PDF: ADHD declined 29.8%→25.3% (matches), but PDF reports the adjusted trend test as **AOR 0.97 (0.77–1.22), p = .781** — non-significant. The RAG's AOR **0.90 (0.77–1.06)** does not match the PDF's 0.97 (0.77–1.22). Conclusion ("Ổn định"/non-significant) is correct, but the OR and CI are wrong.
+- Age strata for anxiety: <12y AOR 1.66, 12–14y AOR 2.38, 15–17y AOR 2.93 — **all match PDF exactly** (PDF: 1.66 / 2.38 / 2.93).
+
+---
+
+## QT024 — Tarasenko et al., Mental health of CYP in WHO Europe region — **SERIOUS DISCREPANCIES**
+
+- **Authors wrong/incomplete.** RAG: "Anna Tarasenko và cộng sự" — Tarasenko is correct as lead, but RAG never lists co-authors. Full list: Tarasenko, Josy, Minnis, Hall, Danese, Lau, Cortese, Stringaris, Redlich, Ougrin. Acceptable as "et al."
+- Journal: *The Lancet Regional Health – Europe* 2025;57:101459 — matches. RAG says "13 trang" and the PDF is 13 pages — matches.
+- **FABRICATED STATISTIC — "9 triệu VTN châu Âu (10–19 tuổi) sống với rối loạn SKTT".** This figure does **not appear anywhere in the PDF**. The PDF's only global prevalence figure is *"about 300 million of 2.5 billion people aged 5–24 have a mental health disorder"* (citing Kieling/GBD) — a worldwide figure, not a WHO-Europe figure, and not "9 million." The RAG repeats "9 triệu" four times (intro, findings, conclusion, Bảng 2) — all unsupported.
+- **FABRICATED STATISTIC — "Lo âu + trầm cảm chiếm >50% tổng ca rối loạn".** No such ">50%" claim exists in the PDF. RAG repeats it three times.
+- **FABRICATED STATISTIC — "Chỉ 5/53 nước có tổ chức đa ngành cho SKTT".** Not found in the PDF. The PDF discusses "intersectoral collaboration" qualitatively but gives no "5/53" count. ("53" in the PDF appears only as a reference-number superscript about military conflict.)
+- **Unsupported — "53 quốc gia" scope.** The PDF does not state a "53-country" count anywhere; RAG asserts it twice ("53 quốc gia").
+- RAG's Bảng 2 row "Dịch vụ | 16/27 nước thiếu" — "16/27" not found in the PDF either.
+
+This summary's headline numbers for QT024 appear fabricated and must not be cited.
+
+---
+
+## QT025 — Crisp et al., Complete Mental Health of Australia's youth — **DISCREPANCY (sample size)**
+
+- Authors/order: "Dimity Crisp, Debra Rickwood, Richard Burns, Emily Bariola" — matches.
+- Journal: *Epidemiology and Psychiatric Sciences* 2025;34:e16; DOI 10.1017/S2045796025000083 — matches.
+- **Sample-size discrepancy (2018 survey).** RAG states 2018 **n = 3.721** (cited four times). PDF abstract and methods say **2018 n = 3832** ("National Youth Mental Health survey in 2018 (n1 = 3832)"). The PDF later writes "Survey 1 comprised 3721" in the Participants paragraph — i.e., the **PDF itself is internally inconsistent** (3832 in abstract/methods vs 3721 in body). RAG picked the lower (3721) figure. Flag as a discrepancy: RAG should note the abstract value 3,832. 2020 (n=974) and 2022 (n=961) match.
+- CMH states: Flourishing 53.0%→44.4%; Stumbling 19.3%→27.3%; Struggling 9.1%→10.2% — all match PDF Table 1.
+- K10 high/very-high: RAG "30,7% → 40,7%" — PDF Table 1: 2018 High 20.7% + Very high 10.0% = 30.7%; 2022 High 27.2% + Very high 13.5% = 40.7% — **correct derived figures**.
+- Gender Flourishing: 2018 Male 58.3% / Female 47.9% (gap 10.4); 2022 Male 52.2% / Female 36.3% (gap 15.9) — match PDF Table. RAG declines: Male −6.1, Female −11.6 — arithmetically correct.
+- Flourishing by age: 70.7% (12–14) → 43.3% (18–21) — matches PDF (70.7 / 51.9 / 43.3 / 47.9).
+
+Otherwise accurate; the only real issue is the 2018 n.
+
+---
+
+## QT026 — Baker, Mental health statistics England (House of Commons Library) — **SERIOUS DISCREPANCIES**
+
+- **Author wrong/incomplete.** RAG: "do Carl Baker, House of Commons Library, UK Parliament (2025)" — single author. PDF cover: **"By Carl Baker, Esme Kirk-Wade"** — two authors. RAG omits Kirk-Wade.
+- **Year wrong.** RAG: "(2025)". PDF: dated **1 March 2024** throughout ("Commons Library Research Briefing, 1 March 2024"). The RAG title, conclusion and table all treat it as 2025 and reference "NHS Mental Health Survey 2025" — the PDF is a **2024** briefing.
+- **Page count wrong.** RAG: "46 trang" — the PDF file is 46 pages, but RAG describes content "dựa trên NHS Mental Health Survey 2025" which does not exist in a 2024 document.
+- **FABRICATED STATISTICS — none of the headline numbers are in the PDF.** Searched the full 72k-character extract:
+  - RAG: "25,8% thanh niên 16–24 mắc rối loạn TT", "18,9% (2014) → 25,8% (2025), +36%" — **not in PDF.**
+  - RAG: "Nữ 16–24: 36,1%", "Nam 16–24: 16,3%", "gấp 2,2 lần" — **not in PDF.**
+  - RAG: "Tự hại nữ 16–24: 31,7%", "tự hại suốt đời 10,3%", "tăng gấp 4 từ 2000" — **not in PDF.**
+  - What the PDF *actually* says about CYP: *"20% of children aged 8 to 16 had a probable mental disorder in 2023, up from 12% in 2017"*; for 17–19-year-olds *"increased from 10% in 2017 to 18% in 2020 ... 17% to 26% [2021–2022] ... 23% in 2023."* The PDF's adult CMD data is from the 2014 Adult Psychiatric Morbidity Survey ("1 in 6 adults"), with no 2025 update.
+- The entire QT026 RAG quantitative profile (Bảng 1) appears fabricated or imported from a different source. This summary should not be cited as-is.
+
+---
+
+## QT027 — Fassi et al., Social media use in adolescents with/without MH conditions — **DISCREPANCIES**
+
+- **Authors omitted.** RAG names no authors at all ("xuất bản trên Nature Human Behaviour…"). PDF authors: **Luisa Fassi, Amanda M. Ferguson, Andrew K. Przybylski, Tamsin J. Ford, Amy Orben.** The RAG also has no unit; the filename says "Fassi" so the lead author is implicitly correct, but the summary body never states it.
+- Journal/issue: *Nature Human Behaviour* vol 9, June 2025, 1283–1299 — matches. It is a **Registered Report** (the RAG does not mention this design feature; minor omission).
+- Sample: N = 3,340, UK nationally representative, ages 11–19, diagnostic assessment by clinical raters — matches.
+- "48% rối loạn SKTT bắt đầu trước 18 tuổi" — matches PDF ("48% of those with a mental health condition first experience relevant symptoms before the age of 18").
+- Core findings (adolescents with MH conditions report more time on social media, less happy about number of online friends; internalizing vs externalizing differences) — match the abstract.
+- **Discrepancy — "g = 0,46".** The RAG's QT021 cross-reference and QT027's framing attribute an effect size "g = 0,46" to "Fassi et al." This value **does not appear in the QT027 PDF** (no "g = 0.46" / "g=0.46" in the extractable text). This effect size appears to be fabricated or mis-attributed. The QT027 RAG itself does not put a number in its own bullets, but the cross-bib in QT021 cites "Nature 2025 (Fassi et al.: ... g = 0,46)" — that specific statistic is unverified/unsupported.
+
+---
+
+# SUMMARY OF MOST SERIOUS FLAGS
+
+| Paper | Severity | Issue |
+|---|---|---|
+| **QT026** | **CRITICAL** | Wrong year (2024, not 2025); missing co-author Esme Kirk-Wade; **all headline statistics fabricated** (25.8%, 18.9%, 36.1%, 16.3%, 31.7%, 10.3%, +36% — none in PDF). PDF actually reports "20% of children 8–16" / "26% of 17–19-yr-olds in 2022". Do not cite. |
+| **QT024** | **CRITICAL** | Central statistics fabricated: "9 triệu VTN", ">50% lo âu+trầm cảm", "5/53 nước", "53 quốc gia", "16/27 nước" — none appear in the PDF. PDF's only prevalence figure is "300 million of 2.5 billion aged 5–24" globally. |
+| **QT023** | MODERATE | ADHD AOR wrong: RAG says **0.90 (0.77–1.06)**; PDF says **0.97 (0.77–1.22)**. (Direction/conclusion still correct.) |
+| **QT025** | MINOR | 2018 sample size: RAG **3,721**; PDF abstract/methods say **3,832** (PDF body inconsistently says 3,721). |
+| **QT022** | MINOR | Cross-sectional anxiety coefficient: RAG **0.72/hr**; PDF abstract **0.79/hr** (transcription slip). |
+| **QT027** | MINOR–MOD | No authors named in summary (PDF: Fassi, Ferguson, Przybylski, Ford, Orben). The "g = 0.46" effect size cross-cited to this paper is **not in the PDF** — unsupported. |
+| **QT020** | — | ACCURATE. |
+| **QT021** | — | ACCURATE (two decomposition b-values in a table image could not be text-verified, but directional claims correct). |
+
+**Note on RAG cross-references:** Several "Đối chiếu liên bài" sections (esp. in QT021) cite "Fassi et al. g = 0,46" and QT024's "9 triệu" — both unverified — so the fabricated QT024/QT027 numbers have already propagated into other summaries' cross-bibliographies and should be corrected wherever they appear.
+
+All 8 PDFs were machine-readable; none required an "unreadable scan" verdict.
+
+======================================================================
+[dòng 11307]
+Important QT044 finding. The PDF's outcome is **resilience only** — "(O) Outcome — any assessment for resilience". The meta-analysis pooled effect (SMD=0.17) is for resilience as the outcome. The RAG summary claims: "Can thiệp resilience tại trường CÓ HIỆU QUẢ tăng resilience **và giảm triệu chứng SKTT**" (increases resilience AND reduces mental health symptoms). 
+
+The PDF does NOT measure or pool symptom reduction (anxiety/depression) as an outcome — it only meta-analyzes resilience. The "reduce risk of developing anxiety and depression" appears only in the introduction as background rationale, not as a measured result. So the RAG's claim that the intervention "giảm triệu chứng SKTT" as a finding is **not supported by the meta-analysis results** — this is a modest overstatement/inaccuracy.
+
+I have all the data I need. Here is the audit report.
+
+---
+
+# DATA-INTEGRITY AUDIT — QT Batch 5 (8 papers)
+
+All 8 PDFs were readable (text-based, extracted with pypdf). Files audited against `06_Scripts\audit_temp\rag_QT_batch_5.txt`.
+
+---
+
+## QT036 — Moon & Woo, Korea GAD ML 2025
+**Verdict: ACCURATE**
+- Authors: Yonghwan Moon & Hyekyung Woo — match (RAG correct).
+- Journal/year: Frontiers in Public Health, vol. 12:1504739, published 07 Jan 2025, DOI 10.3389/fpubh.2024.1504739 — match.
+- Affiliation: Kongju National University, Korea — match.
+- Sample: 213,820 adolescents (from 214,344 KYRBS 2020-2023) — match. Middle school 53.8% / high school 46.2% — match (PDF Table 2: 114,966 / 98,854).
+- GAD prevalence 17.9% (GAD-7 ≥ 10, high-risk group n=38,288) — match.
+- Feature table (Loneliness LASSO 0.23 / F=16,646 / XGBoost 0.29; Stress 0.10/6,589/0.07; Poor subjective health 0.12/6,782/0.04; Inadequate sleep recovery 0.10/5,081/0.02; Violence 0.10/5,117/0.01) — every value matches PDF Table 1.
+- Model performance (XGBoost-RF: Accuracy 78%, AUC 82%, Sensitivity 64%) — match.
+
+## QT038 — De Silva et al., Sri Lanka cluster RCT 2024
+**Verdict: ACCURATE on data; ONE author-completeness discrepancy**
+- DISCREPANCY (author list): RAG says "De Silva, S. và cộng sự" and names no co-authors. PDF full author list is **Sinha De Silva, Renuka Peris, Sudharshi Senaviratne, Dulani Samaranayake**. The lead author is correct; co-authors are simply omitted (not wrong, but incomplete).
+- Title: minor wording only — PDF "...cluster randomized controlled trial"; RAG "A cluster randomised controlled trial". Trivial.
+- Journal: Child and Adolescent Psychiatry and Mental Health (2024) 18:108, DOI 10.1186/s13034-024-00799-9 — match.
+- Sample: 720 Grade 9 students, 36 schools (18 intervention + 18 control, 360 per arm), Colombo District — match.
+- Intervention: 8 weekly teacher-delivered CBT sessions, 40 min, + 1-month self-practice, 3-month follow-up — match.
+- Statistics: anxiety β = −0.096 (95% CI −0.005 to −0.186, p = 0.038); self-esteem β = +0.811 (95% CI 0.314-1.309, p = 0.001); loss to follow-up < 1% — all match PDF abstract/results.
+
+## QT039 — Xian, Zhang & Jiang, NMA SAD 2024
+**Verdict: ACCURATE (one minor labeling inconsistency)**
+- Authors: Jinhua Xian, Yan Zhang, Bo Jiang — match.
+- Journal: Journal of Affective Disorders 365 (2024) 614-627, DOI 10.1016/j.jad.2024.08.097, PROSPERO CRD42023476829 — match.
+- Sample: 30 RCTs, 1,547 individuals — match.
+- SUCRA values: internet-CBT 71.2% (rank 1), group-CBT 68.4% (rank 2), individual-CBT 66.0% (rank 3); depression SUCRA 92.2% (internet-CBT); functioning SUCRA 89.6% (group-CBT) — all match.
+- MINOR: RAG ranking table labels rank 1 as "iCBT" and rank 3 as "I-CBT" (individual). The PDF's own abbreviations are **Int-CBT** = internet, **I-CBT** = individual, **G-CBT** = group. RAG's "I-CBT" for individual happens to coincide with PDF usage, but writing "iCBT" for internet is a self-introduced label that could confuse. Numbers are all correct.
+
+## QT040 — Walder et al., JMIR DMHI for SAD 2025
+**Verdict: ACCURATE on data; ONE publication-status discrepancy**
+- Authors: Noemi Walder, Alessja Frey, Thomas Berger, Stefanie Julia Schmidt — match.
+- DISCREPANCY (publication status): RAG says the paper was "**đăng trên** Journal of Medical Internet Research" (published in JMIR). The PDF is explicitly a **preprint** — "[unpublished, peer-reviewed preprint]", submitted 01 Oct 2024, DOI 10.2196/preprints.67067. RAG does cite the preprint DOI, but stating it is "published in JMIR" overstates its status. Should be labeled a preprint.
+- Sample: meta-analysis k=21 RCTs (systematic review k=22) — RAG's "21 RCT" matches the meta-analysis count. Mean age < 25 — match.
+- PROSPERO CRD42023424181 — match.
+- Effect sizes (Hedges g): overall 0.508 (CI 0.308-0.707); vs waitlist 0.576 (0.343-0.809); CBT-based 0.610 (0.361-0.859); guided 0.825 (0.425-1.224); SAD-specific 0.878 (0.469-1.278) — every value matches the PDF abstract.
+
+## QT041 — Zheng & Peng, China vocational students 2025
+**Verdict: ACCURATE**
+- Authors: GuangFeng Zheng & HaoYan Peng — match.
+- Journal: Psychology Research and Behavior Management 2025:18 1571-1584, DOI 10.2147/PRBM.S522652 — match.
+- Sample: 469 Chinese vocational students aged 12-18, Guangdong — match (500 distributed, 469 valid).
+- Correlations with anxiety: sleep r=0.816, academic stress r=0.505, social media r=0.415 — match PDF Table 2.
+- Regression β: sleep 0.615, stress 0.223, social media 0.153 — match PDF Table 3.
+- Indirect-effect proportions via self-efficacy: social media 63.13%, stress 55.84%, sleep 24.63% — match PDF exactly.
+
+## QT042 — Brown & Carter, UK editorial 2025
+**Verdict: ACCURATE — paper genuinely exists and matches**
+Verified carefully per instruction. The paper is **real and correctly cited**:
+- Authors: **June S. L. Brown & Ben Carter** — match (RAG abbreviates second author as "Carter, B."; PDF confirms Ben Carter).
+- Journal: Journal of Mental Health, 2025, Vol. 34(4), pp. 357-361, DOI 10.1080/09638237.2025.2512332, published online 14 Jun 2025 — all match.
+- Type: EDITORIAL — match.
+- Detailed claims all verified against PDF: Kuyken 2022 mindfulness RCT "over 8,376 students in 85 schools" (teacher-delivered, failed on engagement); BESST trial "900 students in 57 schools in 4 regions" (Brown et al. 2024, positive); MHST = master's/postgraduate-diploma therapists; PLACES uses everyday language ("stress" instead of "depression/anxiety") to reduce stigma. RAG table values all match.
+- (Title: PDF "School based interventions..."; RAG "School-based interventions..." — trivial hyphen.)
+
+## QT043 — Bress et al., JAMA Maya app RCT 2024
+**Verdict: ACCURATE**
+- Authors: Jennifer N. Bress, Avital Falk, Maddy M. Schier (et al.) — match.
+- Journal: JAMA Network Open 2024;7(8):e2428372, DOI 10.1001/jamanetworkopen.2024.28372, ClinicalTrials.gov NCT05130281 — match.
+- Sample: 59 young adults aged 18-25; GAD 33 (56%), SAD 24 (41%); recruited via online ads + clinics — match.
+- Intervention: Maya app, 12 sessions over 6 weeks, 3 incentive arms (gain/loss/social support) — match.
+- HAM-A: week 3 MD −3.20 (d=0.64), week 6 MD −5.64 (d=0.94), week 12 MD −5.67 (d=1.04) — all match PDF Table/text.
+- Secondary measures: ASI week 6 Cohen d=0.93 — match; LSAS week 12 Cohen d=1.07 (MD −17.61) — match (verified in PDF results text).
+- Finding "3 arms equivalent, app itself is the active ingredient" — match.
+
+## QT044 — Cai et al., resilience SR+MA 2025
+**Verdict: ACCURATE on identity/citation; ONE findings overstatement; key numbers omitted**
+- Authors: Chenyi Cai, Zhengyang Mei, Zirui Wang, Shi Luo — match. (RAG's note that lead author is "Cai" not "Cao" is correct.)
+- Journal: Frontiers in Psychiatry 16:1594658, DOI 10.3389/fpsyt.2025.1594658, published 19 May 2025; Southwest University, Chongqing — match.
+- Country distribution: USA n=10, China n=9, Australia n=4, Pakistan n=2, India n=2 — all match PDF exactly.
+- DISCREPANCY (overstated finding): RAG states the intervention "CÓ HIỆU QUẢ tăng resilience **và giảm triệu chứng SKTT**" (increases resilience AND reduces mental-health symptoms). The PDF's meta-analysis outcome is **resilience only** — "(O) Outcome — any assessment for resilience". The pooled effect (SMD=0.17, 95% CI 0.06-0.29) is for resilience; symptom reduction is mentioned only as introductory background rationale, never measured/pooled as a result. The "reduces symptoms" claim is not supported by the meta-analysis findings.
+- INCOMPLETENESS: RAG omits the actual headline numbers — 38 RCTs / 15,730 participants in the SR, 21 RCTs in the meta-analysis, pooled SMD = 0.17 (small effect). RAG only says effect is "NHỎ–TRUNG BÌNH" whereas the PDF describes it specifically as a "small effect."
+
+---
+
+## Summary of flagged issues (no fabricated numbers found)
+No fabricated statistics and no wrong-author errors were detected in this batch. The issues are characterization/completeness problems:
+
+1. **QT040 (most serious)** — RAG presents a JMIR **preprint** as a published journal article ("đăng trên JMIR"). Should be relabeled as preprint.
+2. **QT044** — RAG claims the resilience meta-analysis showed symptom reduction; the PDF only pooled resilience as an outcome. Overstated finding. Also missing headline numbers (38/21 RCTs, n=15,730, SMD=0.17).
+3. **QT038** — RAG omits 3 of 4 co-authors (cites only "De Silva, S. và cộng sự").
+4. **QT039** — minor self-introduced abbreviation ("iCBT" vs PDF's "Int-CBT"); numbers all correct.
+
+QT036, QT041, QT042, QT043 are fully accurate. QT042 (Brown-Carter) was specifically verified — it is a genuine, correctly cited editorial in Journal of Mental Health, and all its detailed sub-claims match the PDF.
+
+======================================================================
+[dòng 11394]
+459	- Minuchin 1985: https://pubmed.ncbi.nlm.nih.gov/3886321/
+460	- Morris et al. 2007: https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-9507.2007.00389.x
+461	- Rapee 2012: https://pubmed.ncbi.nlm.nih.gov/22116624/
+462	- Repetti et al. 2002: https://pubmed.ncbi.nlm.nih.gov/11931522/
+463	- Sarkadi et al. 2008: https://pubmed.ncbi.nlm.nih.gov/18052995/
+464	- Shek 1997: https://pubmed.ncbi.nlm.nih.gov/9423276/
+465	- Steinberg 2001: https://eric.ed.gov/?id=EJ628449
+466	- Woodward & Fergusson 2001: https://pubmed.ncbi.nlm.nih.gov/11556633/
+467	- Yap et al. 2014: https://pubmed.ncbi.nlm.nih.gov/24308895/
+468	- APA DSM-5 GAD severity measure (child 11–17): https://www.psychiatry.org/psychiatrists/practice/dsm/educational-resources/assessment-measures
+469	
+470	---
+471	
+472	### Recommended fixes before submission
+473	1. Fix ref #8: "Joseph W. Graham" → **John W. Graham**.
+474	2. Fix ref #21 title: "Parenting factors associated with depression and anxiety in children" → **"Parental factors associated with depression and anxiety in young people: a systematic review and meta-analysis."**
+475	3. Fix ref #5 title: add subtitle **"...: 20 years after"**.
+476	4. Clean the duplicated DOI strings in ~12 reference entries.
+477	5. Reconcile the Table 4 item labels with the "quan hệ gia đình" narrative in paragraph [56].
+478	6. Clarify the anxiety instrument: the cited APA DSM-5 measure is 10-item/0–4; the paper used a 5-item/1–4 scale. Either cite the correct source or describe it explicitly as an adapted short form.
+479	
+480	======================================================================
+481	[dòng 11294, 8926 ký tự]
+482	I now have the full text of both papers. Let me compile the audit report.
+483	
+484	---
+485	
+486	# Data-Integrity Audit Report — QT Batch 8
+487	
+488	## QT066 — Murphy et al. (2024), Peer Support Scoping Review
+489	
+490	**Verdict: ACCURATE, with two minor discrepancies and one important caveat.**
+491	
+492	The RAG summary itself flags that it was built "dựa trên metadata (PubMed + abstract + thông tin cào web)" — i.e. not from the full PDF. Despite this, it is largely accurate. Verified against PDF:
+493	
+494	| Field | RAG | PDF | Status |
+495	|---|---|---|---|
+496	| Authors | Murphy R, Huggard L, Fitzgerald A, Hennessy E, Booth A | Rachel Murphy, Leigh Huggard, Amanda Fitzgerald, Eilis Hennessy, Ailbhe Booth | OK (order correct) |
+497	| Year / Journal / vol | 2024, J Community Psychology 52(1):154–180 | 2024, J Community Psychol 52(1):154–180 | OK |
+498	| DOI | 10.1002/jcop.23090 | 10.1002/jcop.23090 | OK |
+499	| Framework | Arksey & O'Malley scoping review | Arksey & O'Malley (2005); PRISMA-ScR | OK |
+500	| Sample | 15 studies, 13 interventions | "A total of fifteen studies"; "Thirteen peer support interventions" | OK |
+501	| Definition of peer support | "social + emotional support, shared experience of MH difficulties" | matches PDF (Davidson et al. 2005) | OK |
+502	| 8/13 interventions mild-moderate (depression/anxiety/distress) | — | PDF p.13: "Eight of the thirteen interventions... mild to moderate... depression, anxiety, and psychological distress" | OK |
+503	| Age distribution: 9/13 → 16–25; 1 → 13–19; 1 → 11–18; 1 → 12–25 | — | PDF p.13: "Nine out of the thirteen... 16–25"; "one... 13–19 (8)"; "one... 11–18 years (13)"; "one... 12–25 years" | OK |
+504	| Barriers (confidentiality concerns + PSW confidence) and facilitators (staff support + role clarity) | — | matches PDF abstract exactly | OK |
+505	| Recommendation: more detailed intervention content | — | matches PDF abstract | OK |
+506	
+507	**Minor discrepancies:**
+508	
+509	1. **Lead author email.** RAG: `rachel.murphy@ucd.ie`. PDF: `rachel.murphy12@ucdconnect.ie`. The RAG email is wrong (constructed/guessed, consistent with its stated reliance on web-scraped metadata). Not a data-integrity issue for the science, but a factual error.
+510	
+511	2. **Search date range slightly imprecise.** RAG (Phương pháp section) does not state dates; the body text says "January 2005 to June 2022." The PDF itself is internally inconsistent (abstract says "January 2005 to June 2022"; methods say "September 1st 2005 and June 13th 2022"). RAG does not contradict — no error, noted for completeness.
+512	
+513	**Caveat on a RAG claim not in the PDF abstract:** The RAG "Hạn chế" section claims "Bias bối cảnh: chủ yếu Ireland (Jigsaw)." This is an over-statement. The PDF's 15 included studies are: 5 Australia, 4 USA, 3 Canada, 2 UK, 1 Netherlands — **zero are set in Ireland.** Jigsaw is the Irish funder/host institution of the *review authors*, not the context of the included studies. The RAG's "đa số Ireland" framing is inaccurate as a description of the evidence base. This is an analytical error rather than a fabricated statistic, but it should be corrected if the summary is cited.
+514	
+515	No fabricated statistics. No wrong author names. The numeric claims (15 studies, 13 interventions, 8/13, 9/13) all check out against the PDF.
+516	
+517	---
+518	
+519	## QT067 — Pascoe, Hetrick & Parker (2020), Impact of Academic Stress
+520	
+521	**Verdict: ACCURATE on identification and structure. ONE FABRICATED STATISTIC and several unsupported claims that should be flagged.**
+522	
+523	| Field | RAG | PDF | Status |
+524	|---|---|---|---|
+525	| Authors | Pascoe, Hetrick & Parker | Michaela C. Pascoe, Sarah E. Hetrick, Alexandra G. Parker | OK (order correct) |
+526	| Year | 2020 (title) / 2019 (header) | Published online 11 Apr 2019; IJAY assigns 2020 to the issue. RAG citing "(2020)" with DOI is acceptable | OK |
+527	| Journal / issue | Int J Adolescence and Youth, 25(1), 104–112 | IJAY; this volume/page is the published issue — consistent | OK |
+528	| DOI | 10.1080/02673843.2019.1596823 | 10.1080/02673843.2019.1596823 | OK |
+529	| Study type | Narrative review; no PRISMA; no inclusion/exclusion criteria; no risk-of-bias; no pooled effect size | PDF p.4 Methods: single author searched PubMed + Google Scholar, snowball, "Articles were included regardless of study design" — narrative, no PRISMA. RAG correct | OK |
+530	| 6-axis framework (MH, substance use, sleep, physical health, achievement, drop-out) | — | PDF has exactly these section headings | OK |
+531	| Open access CC BY 4.0 | — | PDF: "Open Access... Creative Commons Attribution License... by/4.0/" | OK |
+532	
+533	**FABRICATED / UNSUPPORTED STATISTICS — flag these:**
+534	
+535	1. **SERIOUS — fabricated sleep statistic.** RAG §3.3: *"thanh thiếu niên ngủ < 7h/đêm có nguy cơ trầm cảm cao gấp 2-3 lần"* ("adolescents sleeping <7h/night have 2–3× higher depression risk"). **This number does not appear anywhere in the PDF.** The PDF's sleep section (p.5–6) cites Noland et al. (42% of students report stress impedes sleep; "over 90%... inadequate sleep") and Curcio et al. — there is no "<7 hours" threshold and no "2–3× depression risk" figure anywhere. This is a fabricated quantitative claim.
+536	
+537	2. **Unsupported — substance use bidirectionality.** RAG §3.2: "Liên kết hai chiều: stress → sử dụng chất, và sử dụng chất → stress tăng." The PDF only states stress → substance use (Leonard et al., Wills, Boulton & O'Connell). It does not establish the reverse direction. Overstated.
+538	
+539	3. **Unsupported — inverted-U / U-ngược.** RAG §3.5: "Mối quan hệ hình chữ U ngược: stress thấp → động lực thấp; stress vừa → tối ưu; stress cao → giảm hiệu suất." The PDF makes **no inverted-U claim**. It says monotonically that "Students with higher perceived stress are likely to have lower academic achievement." The Yerkes-Dodson-style inverted-U is not in this paper. (Note: the RAG even reuses this fabricated U-curve later in §7 to "explain why some high-stress students still do well" — that interpretive scaffolding rests on a claim not in the source.)
+540	
+541	4. **Unsupported — working memory.** RAG §3.5: "Stress quá mức làm giảm working memory và khả năng giải quyết vấn đề." The PDF discusses concentration difficulties and engagement, but does not specifically discuss "working memory." Minor over-specification.
+542	
+543	5. **Unsupported — citation count.** RAG §5: ">1500 lần tính đến 2025." The PDF (a 2019 repository copy) shows only "Article views: 7885." Citation count is external metadata, not verifiable from the PDF — should not be presented as a fact from the paper.
+544	
+545	6. **"~80 nghiên cứu" reference count.** RAG §4 says data drawn from "~80 nghiên cứu trước đó." The PDF reference list contains roughly 60 entries. "~80" is an estimate not matching the source; treat as imprecise.
+546	
+547	**Statistics that ARE correct (verified in PDF):**
+548	- Anxiety prevalence "as high as 35%" in tertiary students, depression "30%" — PDF p.4 confirms both ("anxiety is as high as 35%... prevalence of depression is 30%").
+549	- OECD survey: 72 countries, 540,000 students aged 15–16; 66% stressed about poor grades; 55% very anxious about testing; 37% very tense studying — all confirmed PDF p.3.
+550	- 63% (bottom quarter) vs 46% (top quarter) anxious about tests — confirmed PDF p.6.
+551	- Noland: 42% of 9–12th graders, 384 students — confirmed PDF p.5.
+552	- "University students report stress comparable to adult work stress" (RAG §3.1) — this specific comparison is **not** explicitly in the PDF; the PDF does not compare student vs adult-worker stress. Treat as unsupported.
+553	
+554	---
+555	
+556	## Summary of most serious flags
+557	
+558	| Paper | Severity | Issue |
+559	|---|---|---|
+560	| QT067 | **HIGH** | Fabricated statistic: "sleep <7h → 2–3× depression risk" — not in PDF at all |
+561	| QT067 | **MEDIUM** | Inverted-U stress/performance relationship attributed to paper — paper claims the opposite (monotonic) |
+562	| QT067 | **MEDIUM** | Bidirectional stress↔substance-use link overstated; paper shows one direction only |
+563	| QT067 | LOW | ">1500 citations," "~80 studies," "comparable to adult work stress," "working memory" — unverifiable or absent |
+564	| QT066 | **MEDIUM** | "Bias: chủ yếu Ireland (Jigsaw)" — wrong; zero included studies are Irish (5 AU, 4 US, 3 CA, 2 UK, 1 NL); Jigsaw is the funder, not the study context |
+565	| QT066 | LOW | Lead author email wrong: `rachel.murphy@ucd.ie` should be `rachel.murphy12@ucdconnect.ie` |
+566	
+567	Both PDFs were fully machine-readable; no image-scan issues. Author names, journal, year, DOI and core sample numbers are correct for both papers. The substantive problems are in QT067's fabricated/unsupported findings (especially the sleep statistic and the inverted-U), and QT066's mischaracterization of the geographic evidence base as Irish.
+568	
+569	Source files:
+570	- `c:\Users\HLC\OneDrive\read_books\Lo-au\02_Papers-goc\The-gioi_Au-My-Uc\QT066_Murphy_PeerSupport_ScopingReview_JCommPsych_2024.pdf`
+571	- `c:\Users\HLC\OneDrive\read_books\Lo-au\02_Papers-goc\The-gioi_Au-My-Uc\QT067_Pascoe_AcademicStress_IJAY_2020.pdf`
+572	- RAG summaries: `c:\Users\HLC\OneDrive\read_books\Lo-au\06_Scripts\audit_temp\rag_QT_batch_8.txt`
+573	
+574	======================================================================
+575	[dòng 11295, 13259 ký tự]
+576	I have all the data needed. Here is the audit report.
+577	
+578	---
+579	
+580	# DATA-INTEGRITY AUDIT — QT012–QT019 (rag_QT_batch_2.txt)
+581	
+582	## QT012 — GBD ASEAN 2025 (Lancet Public Health)
+583	**ACCURATE** (with one minor omission)
+584	- Authors, title, journal/volume (vol. 10, e480, June 2025), DOI, 10-country list, methods, 80.4M cases (+70%), 11.2M DALYs, Viet Nam 10.1% / Malaysia 13.2%, 10–14 age group 16.3% of DALYs — all verified against the PDF.
+585	- **Minor omission (not an error):** The RAG summary reports country prevalences but does not state the *overall* ASEAN age-standardised prevalence of **11.9%** (10.9–12.9), which the PDF emphasizes. The 10.1%/13.2% figures are correctly framed as the country range. No fabrication.
+586	
+587	## QT013 — Zhameden/Yin et al. 2025 (PLOS ONE, LMIC school interventions)
+588	**DISCREPANCIES (author error):**
+589	- **First-author name wrong.** RAG: *"Yin SZD, Low MK, Mishu MP"* and *"Yin SZD, Low MK"*. PDF: the full first author is **Sharone Zhameden Dieu Yin** (citation form "Yin SZD"). The RAG narrative text reads it as surname "Yin" — correct — but the PDF filename and the RAG title both treat **"Zhameden"** as if it were the author surname. The proper surname is **Yin**; "Zhameden" and "Dieu" are middle names. Cite as **Yin et al.**, not "Zhameden."
+590	- **Affiliation wrong.** RAG: *"University of York UK."* PDF: all three authors are at **University College London (UCL)**, London — Institute of Epidemiology and Health Care / Institute of Ophthalmology. There is **no University of York** affiliation anywhere. (The corresponding email is masuma.mishu@**ucl.ac.uk**.)
+591	- Verified accurate: title, PLOS ONE 20(4) e0316825, DOI, dates (search 2018–July 2023), 3863 articles → 6 studies / 1587 students, 1/4 anxiety, 3/4 depression, RoB high. Note: PDF databases are "Ovid MEDLINE, Embase, PsycINFO and CENTRAL" — RAG adds "Ovid MEDLINE, Embase, PsycINFO, CENTRAL" — equivalent, fine.
+592	
+593	## QT014 — Anderson et al. 2025 (J Child Adolesc Psychiatr Nursing, narrative review)
+594	**DISCREPANCIES (multiple author / data errors):**
+595	- **Author list wrong.** RAG: *"Anderson, T.L., Valiauga, R., Tallo, C., Hong, C.B., Manoranjithan, S., Domingo, C., Pilitsis, J.G. và cộng sự."* PDF actual authors: Thea L. Anderson, Rasa Valiauga, Christian Tallo, Catriona Blythe Hong, Shaminy Manoranjithan, Catherine Domingo, **Manasvi Paudel, Ana Untaroiu, Samantha Barr, Kate Goldhaber**. There is **no author named "Pilitsis, J.G."** — that name appears to be fabricated/inserted. The last four real authors (Paudel, Untaroiu, Barr, Goldhaber) are omitted.
+596	- **Affiliation wrong.** RAG: *"Rowan University School of Osteopathic Medicine."* PDF: lead authors are at **University of Connecticut School of Medicine** and **Loyola University Chicago Stritch School of Medicine** (other co-authors at Missouri, NEOMED, Rosalind Franklin, Medical College of Wisconsin, Univ. of Wisconsin). **"Rowan University" does not appear** in the paper. Word "Rowan" NOT FOUND.
+597	- **"Daly 2022 — 31.9%" is FABRICATED.** RAG: *"Tỷ lệ lo âu VTN 13–18 tuổi là 31,9% (Daly 2022)."* The string "31.9" and the author "Daly" are **NOT FOUND anywhere in the PDF.** This statistic and citation cannot be sourced to QT014. (This matches a known prior issue — "Daly 2022" was previously flagged as a mismatch in project memory.)
+598	- **"48/52 studies" — attribution context check:** RAG: *"48/52 nghiên cứu xác nhận tương quan áp lực học tập (Steare 2023)."* PDF confirms "48 out of the 52 studies showed a positive correlation ... (Steare et al. 2023)" — **this one is ACCURATE.**
+599	- Verified accurate: narrative-review method (PubMed/ScienceDirect/Medline), Generation Z born 1997–2012, journal vol. 38 e70009, DOI 10.1111/jcap.70009, USA. The "61 articles" claim: the PDF cites a *separate* systematic review of 61 articles (Panchal et al. 2023) — the RAG summary describes QT014 itself as a "review of 61 articles," which is **inaccurate**: 61 is the size of a study QT014 *cites*, not QT014's own corpus. QT014 is a narrative review with no fixed article count.
+600	
+601	## QT015 — Zhu et al. 2025 (BMC Public Health, China)
+602	**DISCREPANCIES (sample size + location errors):**
+603	- **Sample size wrong.** RAG (title block + methods + critique): *"9.831 học sinh"* / *"n = 9.831"* / *"Cỡ mẫu rất lớn (n = 9.831)"*. PDF: **9,920 students were enrolled**; after exclusions the **final analytic sample = 9,831**. The RAG uses 9,831 as if it were the total surveyed. Tables N=9831 is the analyzed sample; 9,920 is the collected sample. Minor but should be stated as "9,920 enrolled / 9,831 analyzed."
+604	- **Location wrong.** RAG: *"tại Suzhou, miền Đông Trung Quốc"* and critique *"Chỉ tại Suzhou."* PDF: the study was conducted in **Nantong** ("9,920 ... students from **Nantong**"; "detection rate ... in **Nantong** was 20.3%"). "Suzhou" appears in the PDF **only** in the author affiliation (Soochow University, Suzhou). The study site is **Nantong, Jiangsu — not Suzhou.** This is a factual error.
+605	- **Instrument wrong — SERIOUS.** RAG (title block + methods + critique, repeated 3+ times): *"Sử dụng PHQ-9 (Patient Health Questionnaire-9 mục)"* with cutoffs *"≥5 possible, ≥10 definite."* PDF: the instrument is the **CES-D (Center for Epidemiologic Studies Depression Scale, Radloff)** — NOT PHQ-9. PHQ-9 appears in the PDF only once, in the Discussion, referring to *a different cited study*. The RAG has substituted the wrong instrument and invented PHQ-9 cutoffs (≥5/≥10) that are not in this paper. **This is a fabricated methodology detail.**
+606	- Verified accurate: 14.5% possible / 5.8% definite / 20.3% total; AOR sleep <5h = 13.710 (95% CI 8.659–21.710); AOR reconstituted family 1.837; AOR single-parent 1.359 (note RAG table says "1,434" for single-parent — see below); AOR junior/middle 1.409; male 0.803.
+607	- **AOR table row error.** RAG table: *"Gia đình đơn thân | 1,434."* PDF: single-parent family AOR = **1.359** (possible) — value 1.434 does not match either the possible (1.359) or definite-symptom models. **1.434 appears to be wrong/unsourced.** (Reconstituted = 1.837 is correct.)
+608	- **Label error.** RAG calls 2019/2021/2023 "3 thời điểm" — PDF actually collected data across **2019, 2020, 2021, 2022, 2023** (five years, inverted-U trend). RAG methods says "2019, 2021, 2023" which understates the design.
+609	
+610	## QT016 — Mudunna et al. 2025 (Lancet Regional Health – Southeast Asia)
+611	**DISCREPANCIES (title + methods statement):**
+612	- **Title wrong.** RAG: *"Nature, prevalence, and determinants of mental health problems among South Asian adolescents: A systematic review."* PDF actual title: *"**Nature, prevalence and determinants of mental health problems experienced by adolescents in south Asia**: a systematic review."* — paraphrased, meaning preserved, but not the exact title.
+613	- **DOI wrong.** RAG: *"DOI 10.1016/S2772-3682(25)00003-4."* PDF: **10.1016/j.lansea.2025.100532**, article **100532**, vol. 33, Feb 2025, published online 21 Jan 2025. The RAG DOI string "S2772-3682(25)00003-4" is NOT FOUND in the PDF — **wrong DOI.**
+614	- **Meta-analysis statement imprecise.** RAG: *"KHÔNG thực hiện meta-analysis do tính không đồng nhất quá cao."* PDF: *"A meta-analysis was originally considered ... However, the database search yielded a large volume of studies of varying quality, a high degree of heterogeneity..."* — RAG's reasoning is broadly correct (heterogeneity + study quality), acceptable.
+615	- Verified accurate: 8-country list (Afghanistan, Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan, Sri Lanka), South Asia = 24% of world population, adolescents 10–19, PRISMA, anxiety range in Indian SBS 1.5–81.6%, depression/anxiety most common, determinant categories.
+616	- **Note on "1.5–81.6%":** RAG presents this as the overall MHP prevalence range. PDF specifies 1.5–81.6% is the **anxiety range in Indian school-based studies** specifically; other ranges differ (depression Pakistani SBS 21–79%, Indian NSBS 0.4–98.5%). RAG slightly overgeneralizes the figure but the number itself is correctly quoted.
+617	
+618	## QT017 — Puyat et al. 2025 (Cambridge Prisms: Global Mental Health, Philippines)
+619	**DISCREPANCIES (title + author list errors):**
+620	- **Title wrong.** RAG: *"Rising depressive symptoms and widening sociodemographic inequalities among Filipino young people: findings from two nationally representative cross-sectional surveys."* PDF actual title: *"**Rising prevalence of depression and widening sociodemographic disparities in depressive symptoms among Filipino youth: findings from two large nationwide cross-sectional surveys**."* — substantially reworded.
+621	- **Author list incomplete.** RAG: *"Puyat và cộng sự."* PDF full authors: **Joseph H. Puyat, Divine L. Salvador, Anna C. Tuazon, Sanny D. Afable.** "Puyat et al." is acceptable shorthand but the summary never names the co-authors.
+622	- **"YAFS — Young Adult Fertility and Sexuality Survey"** — RAG expansion slightly off. PDF: **"Young Adult Fertility and Sexuality Study"** (Study, not Survey). Minor.
+623	- **"tăng 118%"** — RAG: *"tăng 118% trong 8 năm."* The PDF abstract states MSDS "more than doubled from 9.6% to 20.9%." 9.6→20.9 is a +118% relative increase, so the arithmetic is correct, but "118%" as a stated figure is **NOT in the PDF** — it is a RAG-computed value (acceptable as derived, not fabricated).
+624	- Verified accurate: n=19,178 (2013) + n=10,949 (2021) = 30,127; CES-D-11; MSDS 9.6%→20.9%; females 10.8%→24.3%; LGBTQ/non-cisgender 9.7%→32.3%; not-in-school 8.5%→26.5%(RAG table); SOGIE analysis; journal Cambridge Prisms: Global Mental Health vol. 12 e51; DOI 10.1017/gmh.2025.39.
+625	- **Table value to flag:** RAG table row *"Nhóm nghèo nhất | 12,3% | 25,1%."* PDF abstract: economically disadvantaged households **"10.6% to 25.1%"**. The 2021 value (25.1%) matches; the 2013 value **12.3% does not match the PDF's 10.6%.** Wrong baseline figure.
+626	- **Table value to flag:** RAG table *"Không đi học | 8,5% → 26,5%."* PDF abstract states "youth with primary education or less (10.8% to 26.5%)." The PDF describes *education level*, not strictly "not in school"; 8.5% baseline does not match the abstract's 10.8%. The 8.5% may come from a different table cell — **flag as unverified / mislabeled.**
+627	
+628	## QT018 — Salari et al. 2024 (Journal of Prevention, SAD meta-analysis)
+629	**ACCURATE** (the RAG summary itself flags the missing youth figure, which is now resolved)
+630	- Authors (Salari N, Heidarian P, Hassanabadi M, Babajani F, Abdoli N, Aminian M, Mohammadi M), title, Journal of Prevention 2024;45:795–813 (Springer), 6 databases, 38 studies, random-effects + Comprehensive Meta-Analysis v2.0, I² — all verified.
+631	- The RAG flags *"(Tỷ lệ ở thanh niên — số cụ thể cần verify)"*. **Resolved: PDF states youth SAD prevalence = 17%** (4.7% children, 8.3% adolescents, 17% youth). No discrepancy — the RAG correctly avoided guessing.
+632	- Affiliation: RAG *"Nhóm Iran + Ả-rập Saudi."* PDF confirms Iran (Kermanshah University of Medical Sciences); Saudi presence is via cited studies, but multiple author affiliations are not all visible in the first pages — minor, not a clear error.
+633	
+634	## QT019 — Shibuya et al. 2025 (Tropical Medicine and Health, 3-Asian-country MH literacy)
+635	**ACCURATE** (one number to add)
+636	- Authors (Shibuya F, Usami M, Santillan MD, Warnaini C, Gregorio E, Satake N, Estrada CA, ...), title, Tropical Medicine and Health 2025;53:86 (Springer Open), DOI 10.1186/s41182-025-00697-6, documentary/deductive content analysis, policy triangle (Walt & Gilson 1994), review points (Margaretha 2023), 3 countries (Philippines, Indonesia, Japan), policies 2000–2023, curricula grades 1–12, multi-site authorship — all verified.
+637	- **Detail the RAG omits (not an error):** PDF gives the document counts — Philippines 22, Indonesia 9, Japan 6 policies/curricula — and specific findings (Japan: health/PE grades 5–10; Philippines: near-comprehensive grades 1–12; Indonesia: religious education grades 1–12). The RAG correctly noted "results need verification" rather than guessing. No fabrication.
+638	
+639	---
+640	
+641	# SUMMARY — MOST SERIOUS FLAGS
+642	
+643	| Paper | Severity | Issue |
+644	|---|---|---|
+645	| **QT014** | **CRITICAL** | Fabricated author **"Pilitsis, J.G."** (not in paper); wrong affiliation "Rowan University" (actual: UConn/Loyola); **fabricated statistic "Daly 2022 — 31.9%"** — neither "Daly" nor "31.9" exists in the PDF. |
+646	| **QT015** | **CRITICAL** | **Wrong instrument** — RAG says PHQ-9 with ≥5/≥10 cutoffs; paper actually uses **CES-D**. Wrong study location — "Suzhou" vs actual **Nantong**. Wrong table AOR (single-parent 1.434 vs 1.359). |
+647	| **QT013** | Moderate | First author mis-cited as "Zhameden" (surname is **Yin**); affiliation wrong — "University of York" vs actual **UCL**. |
+648	| **QT017** | Moderate | Title substantially reworded; table baseline figures wrong (poorest 12.3% vs 10.6%; not-in-school 8.5% vs 10.8%). |
+649	| **QT016** | Minor–Moderate | Wrong DOI (S2772-3682... vs actual lansea.2025.100532); title paraphrased. |
+650	| **QT012, QT018, QT019** | Clean | Accurate; only minor omissions where RAG correctly avoided guessing. |
+651	
+652	Three RAG summaries (QT014, QT015, QT013) contain fabricated or substituted facts — QT014 (fake author + fake statistic) and QT015 (wrong measurement instrument) are the most damaging for downstream research use and should be corrected before any citation.
+653	
+654	======================================================================
+655	[dòng 11307, 9544 ký tự]
+656	Important QT044 finding. The PDF's outcome is **resilience only** — "(O) Outcome — any assessment for resilience". The meta-analysis pooled effect (SMD=0.17) is for resilience as the outcome. The RAG summary claims: "Can thiệp resilience tại trường CÓ HIỆU QUẢ tăng resilience **và giảm triệu chứng SKTT**" (increases resilience AND reduces mental health symptoms). 
+657	
+658	The PDF does NOT measure or pool symptom reduction (anxiety/depression) as an outcome — it only meta-analyzes resilience. The "reduce risk of developing anxiety and depression" appears only in the introduction as background rationale, not as a measured result. So the RAG's claim that the intervention "giảm triệu chứng SKTT" as a finding is **not supported by the meta-analysis results** — this is a modest overstatement/inaccuracy.
+659	
+660	I have all the data I need. Here is the audit report.
+661	
+662	---
+663	
+664	# DATA-INTEGRITY AUDIT — QT Batch 5 (8 papers)
+665	
+666	All 8 PDFs were readable (text-based, extracted with pypdf). Files audited against `06_Scripts\audit_temp\rag_QT_batch_5.txt`.
+667	
+668	---
+669	
+670	## QT036 — Moon & Woo, Korea GAD ML 2025
+671	**Verdict: ACCURATE**
+672	- Authors: Yonghwan Moon & Hyekyung Woo — match (RAG correct).
+673	- Journal/year: Frontiers in Public Health, vol. 12:1504739, published 07 Jan 2025, DOI 10.3389/fpubh.2024.1504739 — match.
+674	- Affiliation: Kongju National University, Korea — match.
+675	- Sample: 213,820 adolescents (from 214,344 KYRBS 2020-2023) — match. Middle school 53.8% / high school 46.2% — match (PDF Table 2: 114,966 / 98,854).
+676	- GAD prevalence 17.9% (GAD-7 ≥ 10, high-risk group n=38,288) — match.
+677	- Feature table (Loneliness LASSO 0.23 / F=16,646 / XGBoost 0.29; Stress 0.10/6,589/0.07; Poor subjective health 0.12/6,782/0.04; Inadequate sleep recovery 0.10/5,081/0.02; Violence 0.10/5,117/0.01) — every value matches PDF Table 1.
+678	- Model performance (XGBoost-RF: Accuracy 78%, AUC 82%, Sensitivity 64%) — match.
+679	
+680	## QT038 — De Silva et al., Sri Lanka cluster RCT 2024
+681	**Verdict: ACCURATE on data; ONE author-completeness discrepancy**
+682	- DISCREPANCY (author list): RAG says "De Silva, S. và cộng sự" and names no co-authors. PDF full author list is **Sinha De Silva, Renuka Peris, Sudharshi Senaviratne, Dulani Samaranayake**. The lead author is correct; co-authors are simply omitted (not wrong, but incomplete).
+683	- Title: minor wording only — PDF "...cluster randomized controlled trial"; RAG "A cluster randomised controlled trial". Trivial.
+684	- Journal: Child and Adolescent Psychiatry and Mental Health (2024) 18:108, DOI 10.1186/s13034-024-00799-9 — match.
+685	- Sample: 720 Grade 9 students, 36 schools (18 intervention + 18 control, 360 per arm), Colombo District — match.
+686	- Intervention: 8 weekly teacher-delivered CBT sessions, 40 min, + 1-month self-practice, 3-month follow-up — match.
+687	- Statistics: anxiety β = −0.096 (95% CI −0.005 to −0.186, p = 0.038); self-esteem β = +0.811 (95% CI 0.314-1.309, p = 0.001); loss to follow-up < 1% — all match PDF abstract/results.
+688	
+689	## QT039 — Xian, Zhang & Jiang, NMA SAD 2024
+690	**Verdict: ACCURATE (one minor labeling inconsistency)**
+691	- Authors: Jinhua Xian, Yan Zhang, Bo Jiang — match.
+692	- Journal: Journal of Affective Disorders 365 (2024) 614-627, DOI 10.1016/j.jad.2024.08.097, PROSPERO CRD42023476829 — match.
+693	- Sample: 30 RCTs, 1,547 individuals — match.
+694	- SUCRA values: internet-CBT 71.2% (rank 1), group-CBT 68.4% (rank 2), individual-CBT 66.0% (rank 3); depression SUCRA 92.2% (internet-CBT); functioning SUCRA 89.6% (group-CBT) — all match.
+695	- MINOR: RAG ranking table labels rank 1 as "iCBT" and rank 3 as "I-CBT" (individual). The PDF's own abbreviations are **Int-CBT** = internet, **I-CBT** = individual, **G-CBT** = group. RAG's "I-CBT" for individual happens to coincide with PDF usage, but writing "iCBT" for internet is a self-introduced label that could confuse. Numbers are all correct.
+696	
+697	## QT040 — Walder et al., JMIR DMHI for SAD 2025
+698	**Verdict: ACCURATE on data; ONE publication-status discrepancy**
+

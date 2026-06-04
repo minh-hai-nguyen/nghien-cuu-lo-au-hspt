@@ -1,0 +1,300 @@
+############################################################
+### VN003
+Tóm tắt bài VN-3: Pham et al. 2024
+Tên công trình, tác giả, năm, mẫu khảo sát, đối tượng, khách thể, địa bàn
+Công trình nghiên cứu về mối quan hệ giữa chăm sóc xã hội và sức khỏe tâm thần ở thanh thiếu niên tại các cơ sở hỗ trợ xã hội tại Huế, Việt Nam, do Pham và cộng sự (2024), khảo sát trên 273+273 thanh thiếu niên (nhóm can thiệp và nhóm đối chứng) tại các cơ sở hỗ trợ xã hội.
+Phương pháp nghiên cứu
+Nghiên cứu đánh giá tác động của chăm sóc cảm xúc (emotional care) và chăm sóc thể chất (physical care) đến sức khỏe tâm thần thanh thiếu niên. Nói cách khác, nghiên cứu phân tách hai loại chăm sóc để xác định loại nào có tác động thực sự.
+Kết quả nghiên cứu định lượng
+Bảng 1. Kết quả chính
+Phát hiện quan trọng nhất : Chăm sóc CẢM XÚC (beta = –0,40, P < 0,001) giảm lo âu mạnh, trong khi chăm sóc THỂ CHẤT không có tác động có ý nghĩa. Điều này gợi ý can thiệp nên tập trung vào hỗ trợ cảm xúc (lắng nghe, chia sẻ, đồng cảm) hơn là chỉ đáp ứng nhu cầu vật chất.
+Nhận xét, phát hiện qua kết quả nghiên cứu
+• Phát hiện chăm sóc cảm xúc (beta = –0,40) tương tự Qiu et al. 2022: nuôi dạy tích cực giảm 70% nguy cơ trầm cảm (OR = 0,30) và 68% lo âu (OR = 0,32). Cả hai đều nhấn mạnh yếu tố gia đình/chăm sóc cảm xúc.
+• Phát hiện chăm sóc thể chất không có ý nghĩa là bất ngờ — thách thức quan niệm "cung cấp vật chất đầy đủ = sức khỏe tâm thần tốt".
+Kết luận
+Chăm sóc cảm xúc (beta = –0,40) là yếu tố bảo vệ mạnh cho SKTT thanh thiếu niên, trong khi chăm sóc thể chất không có tác động. Can thiệp nên tập trung đào tạo kỹ năng chăm sóc cảm xúc cho người chăm sóc tại cơ sở hỗ trợ xã hội.
+Phản biện
+Phân tách rõ ràng chăm sóc cảm xúc vs thể chất — ít NC nào làm. Tuy nhiên, cỡ mẫu nhỏ (273+273), chỉ tại Huế, đối tượng đặc thù (cơ sở hỗ trợ xã hội, không phải trường học phổ thông). Thiết kế cắt ngang.
+Hướng nghiên cứu tiếp theo
+Mở rộng sang trường học phổ thông. Nghiên cứu can thiệp đào tạo chăm sóc cảm xúc cho phụ huynh/giáo viên. Đánh giá dọc tác động dài hạn.
+Đánh giá: ⭐⭐⭐ Trung bình-Khá. Phân tách cảm xúc/thể chất sáng tạo nhưng cỡ mẫu nhỏ và đối tượng đặc thù.
+Bảng 2. So sánh / Bổ sung
+Loại chăm sóc | Beta (lo âu) | P | Ý nghĩa
+Chăm sóc cảm xúc | –0,40 | <0,001 | Giảm lo âu mạnh — YẾU TỐ BẢO VỆ
+Chăm sóc thể chất | Không có ý nghĩa | >0,05 | KHÔNG tác động
+Yếu tố | Liên quan | Hướng
+Hỗ trợ xã hội | Lo âu + Trầm cảm | Bảo vệ (giảm)
+Giới tính nữ | Lo âu | Nữ > Nam
+Chất lượng chăm sóc | SKTT | Tích cực
+
+############################################################
+### VN006
+VN006 — Tóm tắt bài nghiên cứu
+Phương pháp nghiên cứu
+Cắt ngang, sàng lọc
+Mẫu: 540 HS THPT chuyên → 77 HS có RLLA (tỷ lệ 14,2 %)
+Công cụ đo: DASS-42 (40 mục về lo âu — cutoff không nêu rõ trong bản tóm tắt)
+Kết quả nghiên cứu
+Tỷ lệ lo âu tổng: 14,2 % (nhẹ 3,5 % / vừa 7,2 % / nặng 2,4 % / rất nặng 1,1 %)
+PHÁT HIỆN BẤT NGỜ: Khối 11 chiếm 48,1 % (CAO NHẤT), khối 10 31,1 %, khối 12 chỉ 20,8 %
+→ TRÁI giả thuyết rằng khối 12 (thi ĐH) cao nhất. Lý giải: khối 11 áp lực đa chiều chọn ngành/khối; khối 12 đã ổn định định hướng
+Biểu hiện: choáng váng 85,7 %, khó tập trung 76,6 %, cảm thấy "vô dụng" 67,5 %
+Trích phỏng vấn: "Em là HS Chuyên mà mấy cái đó cũng không làm được, em thấy tệ quá!" → "perfectionism trap" trường chuyên
+Giới: nữ 66,5 % (lệch giới)
+Điểm mạnh
+• Một trong ít NC VN chuyên về HS TRƯỜNG CHUYÊN — đặc thù áp lực cao
+• Phân tầng theo khối lớp → phát hiện mẫu hình TRÁI với giả thuyết
+• Kết hợp định lượng + phỏng vấn định tính
+• DASS-42 (full version) thay vì chỉ DASS-21 → thêm chi tiết
+Hạn chế
+• Chỉ 1 trường chuyên đặc thù → không ngoại suy ra toàn bộ HS chuyên VN
+• Không nêu cutoff DASS-42 cụ thể → khó đối chiếu với NC khác
+• Lệch giới (nữ 66,5 %) → có thể phóng đại tỷ lệ
+• Thiếu phân tích đa biến
+• Thiếu nhóm chứng (so với HS không-chuyên)
+Phản biện ngắn
+Phát hiện KHỐI 11 > KHỐI 12 lo âu trong trường chuyên là đóng góp đặc sắc, ngược giả định "thi ĐH gây lo âu nhất". Gợi ý cho can thiệp: tập trung vào KHỐI 11 trường chuyên, không phải khối 12. Tuy nhiên chỉ 1 trường nên cần nhân rộng để confirm.
+Hướng nghiên cứu tiếp theo
+So sánh HS chuyên vs HS không-chuyên cùng khối với cùng công cụ. Điều tra yếu tố "perfectionism" qua thang đo MPS. Theo dõi dọc khối 11 → khối 12 xem lo âu có giảm tự nhiên không.
+Đánh giá chất lượng: ⭐⭐⭐⭐ (4/5)
+Key fact cho RAG: HS THPT chuyên khối 11 lo âu cao nhất 48,1 %, TRÁI với giả định khối 12 cao nhất. Perfectionism trap. DASS-42 n=540.
+Tên công trình (VN) | Rối loạn lo âu ở học sinh trung học phổ thông chuyên
+Tên công trình (EN) | Anxiety disorders in students of specialized (selective) high schools
+Tác giả | Trần Thị Mỵ Lương (và có thể Đặng Đức Anh)
+Đơn vị | Học viện Phụ nữ Việt Nam
+Nơi công bố | Tạp chí Khoa học ĐH Thủ Đô Hà Nội, số 40/2020, tr 122
+Năm | 2020
+Địa bàn + mẫu + công cụ | Trường THPT chuyên (1 trường, cần verify tên trường cụ thể từ PDF) | 540 HS THPT
+
+############################################################
+### VN014
+Tóm tắt bài VN-14
+Tên công trình, tác giả, năm, mẫu khảo sát, đối tượng, khách thể, địa bàn khảo sát
+Công trình nghiên cứu « Mức độ căng thẳng, lo âu và trầm cảm ở thanh thiếu niên trong và sau đại dịch COVID-19 tại Việt Nam: Nghiên cứu cắt ngang » (Levels of Stress, Anxiety, and Depression in Adolescents during and after the COVID-19 Pandemic in Vietnam: A Cross-sectional Study), do Hoàng Trung Học (Tiến sĩ, Học viện Quản lý Giáo dục Quốc gia) và Nguyễn Thùy Dung (Thạc sĩ, Viện Nghiên cứu, Đào tạo và Ứng dụng Tâm lý) thực hiện (2025), khảo sát trên mẫu 8.473 thanh thiếu niên từ lớp 6 đến lớp 12 tại 6 tỉnh/thành phố đại diện miền Nam (TPHCM, Đồng Nai, Long An) và miền Bắc (Hà Nội, Hải Dương, Vĩnh Phúc), Việt Nam, xuất bản trên American Journal of Psychiatric Rehabilitation, tập 28, số 1, tháng 4/2025, trang 360–367.
+Phương pháp nghiên cứu
+Công trình này sử dụng Thang đo Trầm cảm Lo âu Căng thẳng 21 mục (DASS-21 — Depression Anxiety Stress Scale; Lovibond & Lovibond, 1995) phiên bản tiếng Việt, kết hợp với bảng hỏi bổ sung về giấc ngủ, sử dụng thiết bị điện tử, hoạt động thể chất và quan hệ gia đình. Nói cách khác, công trình này sử dụng phương pháp sàng lọc cắt ngang tại hai thời điểm — không phải nghiên cứu dọc thực sự — để so sánh mức độ rối loạn cảm xúc trước và sau khi COVID-19 kết thúc.
+DASS-21 là phiên bản rút gọn 21 mục của Thang đo Trầm cảm Lo âu Căng thẳng gốc 42 mục (Lovibond & Lovibond, 1995), sàng lọc đồng thời ba tình trạng: trầm cảm, lo âu và căng thẳng. Phiên bản tiếng Việt đã được xác thực với Cronbach alpha > 0,7 cho tất cả thang con (Nunnally & Bernstein, 1994).
+Tổng quan tài liệu của chúng tôi cho thấy trước COVID-19, tỷ lệ lo âu ở thanh thiếu niên Việt Nam dao động 12–15%, nhưng trong đại dịch tăng mạnh lên 37–47% (Nguyen và cộng sự, 2021). Tuy nhiên, dữ liệu so sánh trong vs sau COVID tại Việt Nam còn rất hạn chế. Đây là nghiên cứu có cỡ mẫu lớn nhất (n = 8.473) thực hiện so sánh này tại 6 tỉnh đại diện.
+Dữ liệu nhân khẩu xã hội bao gồm giới tính, khu vực cư trú (nông thôn/thành thị), khối lớp (6–12). Các yếu tố hành vi: thời gian ngủ ban ngày, thời gian sử dụng máy tính và điện thoại, thời gian thể thao, tính chất mối quan hệ với cha mẹ, hình thức học tập (trực tuyến/trực tiếp), mức độ giãn cách xã hội.
+Nghiên cứu cắt ngang tại hai thời điểm: Đợt 1 — tháng 12/2021 (trong COVID, n = 4.052), Đợt 2 — tháng 9/2023 (sau COVID, n = 4.337). Lấy mẫu thuận tiện ngẫu nhiên (convenient random sampling) từ các trường THCS và THPT tại 6 tỉnh. Nông thôn chiếm 62,8% mẫu. Phân tích: SPSS, thống kê mô tả, tương quan Pearson, hồi quy đa biến. Kiểm soát đa cộng tuyến (VIF < 2) và tự tương quan (DW = 0,353 và 0,340).
+Kết quả nghiên cứu định lượng
+Tỷ lệ căng thẳng, lo âu và trầm cảm trong vs sau COVID-19 (N = 8.389):
+Bảng 1. Tỷ lệ lo âu/stress VTN VN
+Yếu tố ảnh hưởng — hồi quy đa biến (trong COVID, R² = 0,190):
+Bảng 2. Yếu tố ảnh hưởng
+Khác biệt giai đoạn : Y văn quốc tế luôn báo cáo sự gia tăng các vấn đề SKTT ở thanh thiếu niên trong đại dịch COVID-19 (Racine và cộng sự, 2021). Thực tế, Hoàng Trung Học (2025) xác nhận xu hướng này: lo âu trong COVID 41,5% giảm xuống 25,4% sau COVID. Tuy nhiên, tỷ lệ sau COVID (25,4%) vẫn cao hơn trước dịch (12–15% theo Do & Nguyen, 2020) — gợi ý tác động kéo dài của đại dịch.
+Nhận xét, phát hiện qua kết quả nghiên cứu
+Phát hiện về vai trò gia đình, công nghệ và giấc ngủ
+*Quan hệ cha mẹ-con — yếu tố mạnh nhất.* Nổi bật nhất là mối quan hệ cha mẹ-con (Beta = 0,272) là yếu tố ảnh hưởng mạnh nhất đến mức độ DAS cả trong và sau COVID. Phát hiện này phù hợp với Pham và cộng sự (2024) tại Huế: chăm sóc cảm xúc giảm lo âu mạnh (beta = –0,40), và Qiu và cộng sự (2022) tại Trung Quốc: nuôi dạy tích cực giảm 70% trầm cảm (OR = 0,30).
+*Sử dụng thiết bị điện tử.* Thời gian dùng máy tính/điện thoại (Beta = 0,176) là yếu tố nguy cơ mạnh thứ hai, tương tự Chen và cộng sự (2023) tại Trung Quốc (rối loạn chơi game OR = 5,00) và Nature Human Behaviour (2025): VTN có rối loạn SKTT dùng mạng xã hội nhiều hơn.
+*Giấc ngủ và thể thao.* Giấc ngủ đủ (Beta = –0,149) và hoạt động thể thao (Beta = –0,087) là yếu tố bảo vệ, phù hợp với Zhu và cộng sự (2025): ngủ <5h AOR = 13,71 cho trầm cảm, hoạt động ngoài trời 2–3h AOR = 0,557 bảo vệ.
+Kết luận
+Dữ liệu của chúng tôi, cho thấy sự giảm đáng kể nhưng vẫn ở mức cao của triệu chứng lo âu (từ 41,5% xuống 25,4%) ở 8.473 thanh thiếu niên 6 tỉnh Việt Nam sau COVID-19 — cỡ mẫu lớn nhất trong các nghiên cứu SKTT VTN tại Việt Nam, gợi ý rằng thanh thiếu niên có khả năng 
+
+############################################################
+### VN019
+Tóm tắt bài VN-19
+Tên công trình, tác giả, năm, mẫu khảo sát, đối tượng, khách thể, địa bàn khảo sát
+Công trình « Lo âu và trầm cảm ở thanh thiếu niên tại Thừa Thiên Huế và mối quan hệ của nó với sự lạc quan » (Anxiety and Depression in Adolescents in Thua Thien Hue and Their Relationship with Optimism), do Hồ Thị Trúc Quỳnh (2025), Khoa Tâm lý và Giáo dục, Đại học Sư phạm Huế, khảo sát 685 HS THPT (233 nam, 452 nữ, tuổi 15–18) tại Thừa Thiên Huế, tháng 10/2021 (COVID-19 làn sóng 4). Tạp chí Tâm lý học, Số 3 (312), tháng 3/2025, trang 55–65.
+Phương pháp nghiên cứu
+Công trình sử dụng Thang đo Trầm cảm Lo âu Căng thẳng 21 mục (DASS-21) phiên bản tiếng Việt kết hợp Trắc nghiệm Định hướng Cuộc sống Chỉnh sửa (LOT-R — Life Orientation Test-Revised; α = 0,82). Nói cách khác, NC không chỉ đo MỨC ĐỘ lo âu/trầm cảm mà còn khám phá CƠ CHẾ — sự lạc quan giúp giảm trầm cảm thông qua giảm lo âu trước (trung gian một phần).
+DASS-21 (Lovibond & Lovibond, 1995): tiểu thang lo âu (7 mục), ngưỡng ≥8. LOT-R (Scheier et al., 1994): 6 mục (+ 4 câu lấp), đo xu hướng lạc quan.
+Tổng quan cho thấy ít NC VN nghiên cứu SKTT tích cực (lạc quan) liên quan lo âu/trầm cảm. Phân tích trung gian (mediation) bằng PROCESS macro — phương pháp nâng cao.
+N = 685 HS THPT, 233 nam (34,0%), 452 nữ (66,0%). Lấy mẫu thuận tiện, khảo sát trực tuyến qua Google Form.
+PROCESS macro (Hayes, Model 4). Phân tích tương quan Pearson + hồi quy.
+Kết quả nghiên cứu định lượng
+Bảng 1. Kết quả chính
+Bảng 2. Phân tích trung gian: Lạc quan → Lo âu → Trầm cảm
+Đối chiếu liên bài
+Lo âu 65,8% so với: Hoa 2024 Hà Nội (40,6% GAD-7), Bảo Quyên 2025 Hà Nội (86,2% DASS-21), An Giang 2025 (61,2% DASS-21), Vĩnh Lộc 2024 TPHCM (25,1% DASS-Y). Bối cảnh COVID-19 có thể làm tăng tỷ lệ. Miền Trung (Huế) — ít NC so với Hà Nội/TPHCM.
+Nhận xét, phát hiện qua kết quả nghiên cứu
+*Phân tích trung gian — phát hiện quan trọng:* Lạc quan → giảm lo âu (β = −0,15***) → giảm trầm cảm. Tác động gián tiếp qua lo âu (β = −0,24) LỚN HƠN tác động trực tiếp (β = −0,21).
+*Lo âu có vai trò TRUNG GIAN:* Nghĩa là sự lạc quan giúp giảm trầm cảm THÔNG QUA việc giảm lo âu trước — lo âu là "cổng vào" trầm cảm.
+*Ứng dụng can thiệp:* Tăng cường tư duy lạc quan (positive psychology) có thể giảm CẢ lo âu VÀ trầm cảm — can thiệp "hai trong một".
+Kết luận
+Dữ liệu 685 HS THPT Huế, cho thấy lo âu 65,8% và trầm cảm 45,1% trong bối cảnh COVID-19, và sự lạc quan giảm trầm cảm thông qua vai trò trung gian của lo âu (β gián tiếp = −0,24), gợi ý rằng can thiệp tăng cường tư duy lạc quan có thể là chiến lược hiệu quả giảm cả lo âu và trầm cảm ở VTN.
+Phản biện
+Tạp chí Tâm lý học — uy tín VN. PROCESS macro — phương pháp nâng cao. n = 685, 3 khối lớp. Tuy nhiên: mẫu thuận tiện, khảo sát trực tuyến, nữ 67,4% (thiên lệch giới), cắt ngang (không xác nhận nhân quả), chỉ DASS-21 sàng lọc, bối cảnh COVID đặc biệt.
+Hướng nghiên cứu tiếp theo
+NC dọc xác nhận nhân quả lạc quan → giảm lo âu. Can thiệp positive psychology tại trường THPT Huế. So sánh vùng miền: Huế vs Hà Nội vs TPHCM.
+Đánh giá: ⭐⭐⭐ Trung bình–Khá. TC VN, PROCESS macro nâng cao, nhưng mẫu thuận tiện, COVID.
+Tình trạng | Tỷ lệ | n | Ghi chú
+Lo âu (DASS-21 ≥8) | 65,8% | 451/685 | Cao — bối cảnh COVID-19
+Trầm cảm (DASS-21 ≥10) | 45,1% | 309/685
+Lo âu nhẹ | 11,7% | 80
+Lo âu vừa | 31,1% | 213 | Lớn nhất
+Lo âu nghiêm trọng | 10,1% | 69
+Lo âu rất nghiêm trọng | 12,8% | 88
+Mối quan hệ | β | KTC 95% | Ý nghĩa
+Lạc quan → Lo âu | −0,15*** | [−0,49; −0,17] | Giảm lo âu
+Lạc quan → Trầm cảm (trực tiếp) | −0,21*** | [−0,69; −0,39] | Giảm trầm cảm
+Lo âu → Trầm cảm | 0,59*** | [0,65; 0,79] | Lo âu DỰ BÁO trầm cảm
+Lạc quan → Lo âu → Trầm cảm (gián tiếp) | −0,24 | [−0,36; −0,12] | Trung gian MỘT PHẦN
+
+############################################################
+### VN020
+Tóm tắt bài VN-20
+Tên công trình, tác giả, năm, mẫu khảo sát, đối tượng, khách thể, địa bàn khảo sát
+Công trình « Trầm cảm, lo âu, căng thẳng và các yếu tố liên quan ở học sinh THPT tại Thành phố Hồ Chí Minh » (Depression, Anxiety, Stress and Associated Factors among High School Students in Ho Chi Minh City), do Trần Hồ Vĩnh Lộc, Huỳnh Ngọc Vân Anh, Tô Gia Kiên (2024), Khoa Y tế Công cộng, ĐH Y Dược TPHCM, khảo sát 976 HS THPT tại 2 trường TPHCM, năm 2023. Tạp chí Y học TPHCM, Tập 27, Số 5, 2024, tr. 100–110. DOI: 10.32895/hcjm.m.2024.05.12.
+Phương pháp nghiên cứu
+Công trình sử dụng DASS-Y (Depression Anxiety Stress Scales for Youth) — phiên bản DÀNH RIÊNG cho thanh thiếu niên (KHÔNG phải DASS-21 người lớn), kết hợp Thang Áp lực Học tập dành cho Thanh thiếu niên (ESSA — Educational Stress Scale for Adolescents; α = 0,81). Nói cách khác, đây là một trong số ít NC VN sử dụng công cụ đo SKTT được thiết kế riêng cho VTN với ngưỡng cắt phù hợp lứa tuổi.
+DASS-Y (Szabó, 2010): phiên bản VTN của DASS-21, ngưỡng cắt khác (lo âu ≥6, trầm cảm ≥7, stress ≥12 — thấp hơn DASS-21 người lớn). ESSA (Sun et al., 2011): 16 mục, 5 tiểu thang, đo áp lực học tập.
+Tổng quan cho thấy đa số NC VN dùng DASS-21 người lớn cho VTN — ngưỡng cắt có thể không phù hợp. DASS-Y giải quyết vấn đề này.
+N = 976 HS THPT tại 2 trường TPHCM. Lấy mẫu ngẫu nhiên nhiều bậc (bậc trường ngẫu nhiên, bậc lớp thuận tiện 4 lớp/khối). Pilot test 34 HS.
+Hồi quy logistic đa biến. Phân tích yếu tố liên quan.
+Kết quả nghiên cứu định lượng
+Bảng 1. Kết quả chính
+Bảng 2. Yếu tố liên quan (hồi quy đa biến)
+Đối chiếu liên bài
+Lo âu 25,1% (DASS-Y) vs: Hoa 2024 (40,6% GAD-7), Bảo Quyên 2025 (86,2% DASS-21), Thảo Vi 2025 (65,8% DASS-21), An Giang 2025 (61,2% DASS-21). Tỷ lệ THẤP HƠN do DASS-Y có ngưỡng riêng cho VTN. Câu hỏi: DASS-Y hay DASS-21 chính xác hơn? Cần so sánh trên cùng mẫu.
+Nhận xét, phát hiện qua kết quả nghiên cứu
+*DASS-Y cho tỷ lệ thấp hơn đáng kể:* Lo âu 25,1% (DASS-Y) vs 40–86% (DASS-21 ở NC khác). Gợi ý: tỷ lệ cao ở NC dùng DASS-21 có thể do ÁP DỤNG NGƯỠNG NGƯỜI LỚN cho VTN.
+*Áp lực học tập (ESSA) — yếu tố mạnh nhất:* ESSA ≥59 tăng nguy cơ cả 3 chỉ số. Phù hợp Wen 2020 (áp lực OR = 11,6), Norway 2025 (bất mãn trường giải thích chính).
+*Cấu trúc gia đình:* Cha mẹ ly hôn/ly thân tăng nguy cơ trầm cảm. Kinh tế khó khăn tăng trầm cảm + căng thẳng.
+*Giới tính:* Nữ > nam ở cả 3 chỉ số (p < 0,05) — phù hợp xu hướng toàn cầu.
+Kết luận
+Dữ liệu 976 HS THPT TPHCM sử dụng DASS-Y (phiên bản VTN), cho thấy lo âu 25,1% — thấp hơn đáng kể so với DASS-21 (40–86%), gợi ý rằng lựa chọn công cụ đo ảnh hưởng lớn đến tỷ lệ. Áp lực học tập và cấu trúc gia đình là yếu tố mạnh nhất — cần can thiệp nhắm vào hai nhóm này.
+Phản biện
+ĐH Y Dược TPHCM — uy tín. DASS-Y (VTN riêng) — đóng góp phương pháp luận. ESSA chuẩn hóa. n = 976 — lớn nhất TPHCM. Tuy nhiên: chỉ 2 trường (không đại diện), chọn lớp thuận tiện, DASS-Y chưa phổ biến quốc tế, thiếu biến MXH/giấc ngủ, TC Y học TPHCM không PubMed.
+Hướng nghiên cứu tiếp theo
+So sánh DASS-Y vs DASS-21 vs GAD-7 trên cùng mẫu VTN. Thêm biến MXH, giấc ngủ. Mở rộng nhiều trường TPHCM. Can thiệp giảm áp lực học tập + hỗ trợ gia đình.
+Đánh giá: ⭐⭐⭐ Trung bình–Khá. TC VN (DOI), DASS-Y mới, n = 976, nhưng 2 trường, thiếu biến.
+Tình trạng | Tỷ lệ | Ghi chú
+Trầm cảm (DASS-Y ≥7) | 31,7%
+Lo âu (DASS-Y ≥6) | 25,1% | Thấp hơn đáng kể so với DASS-21 (40–86%)
+Căng thẳng (DASS-Y ≥12) | 23,8%
+Có ≥1 vấn đề SKTT | 42,4%
+Yếu tố | Liên quan với | Hướng | p
+Giới tính nữ | Trầm cảm + Lo âu + Căng thẳng | Nữ > Nam | <0,05
+Áp lực học tập nặng (ESSA ≥59) | Cả 3 | Tăng nguy cơ | <0,05
+Cha mẹ ly hôn/ly thân | Trầm cảm | Tăng nguy cơ | <0,05
+Kinh tế khó khăn | Trầm cảm + Căng thẳng | Tăng nguy cơ | <0,05
+Học vấn mẹ thấp | Căng thẳng | Tăng nguy cơ | <0,05
+
+############################################################
+### VN022
+Tóm tắt bài VN-22
+Tên công trình, tác giả, năm, mẫu khảo sát, đối tượng, khách thể, địa bàn khảo sát
+Công trình « Nghiên cứu toàn diện về các yếu tố liên quan đến trường học ảnh hưởng đến sức khỏe tâm thần và hạnh phúc của thanh thiếu niên nam và nữ tại Việt Nam » (Comprehensive Study on School-Related Factors Impacting Mental Health and Well-Being of Adolescent Boys and Girls in Viet Nam), do UNICEF Việt Nam phối hợp Bộ Giáo dục và Đào tạo (MOET), tư vấn quốc tế Amie Alley Pollack và tư vấn quốc gia Đặng Hoàng Minh (ĐH Quốc gia Hà Nội), khảo sát 668 HS THCS/THPT + 66 GV tại 5 tỉnh (Hà Nội, Điện Biên, Đồng Tháp, Gia Lai (+ TPHCM theo kế hoạch nhưng bỏ do COVID-19)). Mixed methods: SDQ-25 + ESSA + FGD + KII. 2022, 118 trang.
+Phương pháp nghiên cứu
+Phương pháp hỗn hợp (mixed methods): khảo sát 668 HS (SDQ-25 + ESSA) + 66 GV + FGD HS, cha mẹ, GV + KII hiệu trưởng, sở, bộ. Nói cách khác, đây là NC TOÀN DIỆN NHẤT về yếu tố trường học ảnh hưởng SKTT VTN VN — kết hợp cả định lượng (SDQ, ESSA) và định tính (quotes trực tiếp) trên 5 tỉnh đại diện Bắc-Trung-Nam.
+SDQ-25 (Goodman, 1997) — đo vấn đề hành vi + cảm xúc. ESSA (Sun et al., 2011) — đo áp lực HT, đã xác thực VN (Truc et al., 2012). 5 tỉnh: đô thị (Hà Nội) + nông thôn (Đồng Tháp) + DTTS (Điện Biên, Gia Lai) + Tây Nguyên (Gia Lai).
+Kết quả nghiên cứu định lượng
+Bảng 1. Phát hiện chính — Yếu tố trường học ảnh hưởng SKTT
+Bảng 2. Khuyến nghị chính sách 4 lĩnh vực
+Đối chiếu liên bài
+UNICEF 2022 là NC DUY NHẤT tại VN kết hợp SDQ + ESSA + FGD + KII trên 5 tỉnh. Bổ sung mạnh cho V-NAMHS 2022 (VN02: chẩn đoán DISC-5, 38 tỉnh nhưng chỉ định lượng), Hoa 2024 (VN01: GAD-7 nhưng chỉ Hà Nội), VN21 (ESSA dọc nhưng chỉ Huế). Kết hợp 4 NC này cho bức tranh toàn diện nhất SKTT HS VN.
+Nhận xét, phát hiện qua kết quả nghiên cứu
+*Áp lực học tập + học thêm là yếu tố trường học MẠNH NHẤT.* 47% HS học thêm >3h/tuần, 15% >9h/tuần. Quotes HS Hà Nội: “Em nghĩ về bài tập suốt — trường, bài tập, và mọi thứ.” Phù hợp VN21 (beta=4,73) và Wen 2020 (OR=11,58).
+*Kỳ thị SKTT vẫn phổ biến.* Gia đình miễn cưỡng tìm kiếm hỗ trợ. VTN DTTS Điện Biên tự tử bằng cỏ ngắt (heartbreak grass). V-NAMHS: chỉ 5,1% phụ huynh nhận ra con cần giúp đỡ.
+*Mixed methods phát hiện “lo âu ẩn”.* Quotes trực tiếp cho thấy HS “giữ bên trong và không nói ra” — phù hợp Jefferies 2020 (QT35: 18% false negatives ở lo âu xã hội).
+Kết luận
+Dữ liệu UNICEF 668 HS + 66 GV tại 5 tỉnh, cho thấy áp lực học tập (50%+ HS học > 2 giờ/ngày, 28% HS học > 3 giờ/đêm; 50% HS có > 3h học thêm/tuần (15% > 9h)), bắt nạt, quan hệ thầy-trò kém, và kỳ thị SKTT là 4 yếu tố trường học chính ảnh hưởng SKTT VTN VN, gợi ý rằng can thiệp cần tập trung: (1) giảm áp lực thi cử + học thêm, (2) phát triển tư vấn trường chuyên nghiệp, (3) chống bắt nạt, (4) xây dựng nhân lực SKTT trẻ em — cần phối hợp liên ngành MOET-MOH-MOLISA.
+Phản biện
+UNICEF + MOET — uy tín cực cao. Mixed methods 5 tỉnh, 668 HS + 66 GV + FGD + KII. SDQ + ESSA đã xác thực VN. Nhưng: không peer-reviewed, SDQ chung (không GAD-7/DASS-21 riêng), n nhỏ (668), mẫu thuận tiện, năm 2022 (COVID), thiếu hồi quy đa biến.
+Hướng NC tiếp theo
+NC tương tự với GAD-7/DASS-21 bên cạnh SDQ. Hồi quy đa biến xác định yếu tố ĐỘC LẬP. Đánh giá Chương trình Y tế Trường học 2021–2025 MOET. Mở rộng: TPHCM, trường tư. Kết hợp UNICEF + V-NAMHS + VN21 + Hoa 2024 cho bức tranh toàn diện nhất.
+Đánh giá: ⭐⭐⭐⭐ Cao. UNICEF+MOET, mixed methods 5 tỉnh, SDQ+ESSA, 118 trang. NC toàn diện nhất về yếu tố trường học VN.
+Yếu tố | Phát hiện | Số liệu | So sánh liên bài
+Áp lực học tập | Nguồn căng thẳng CHÍNH | 50% HS học thêm >3h/tuần; 15% >9h/tuần | VN21: beta=4,73; Wen QT08: OR=11,58
+Gắn kết trường | Thấp → SKTT kém hơn | Nữ ít gắn kết hơn nam | Norway QT21: bất mãn trường giải thích chính
+Bắt nạt/Cyberbullying | Yếu tố nguy cơ nghiêm trọng | THCS > THPT | Islam QT31: AOR=1,68
+Quan hệ thầy-trò | HS không thoải mái tìm GV | Rào cản: bảo mật, quyền lực | Ireland QT32: OGA bảo vệ
+Tiếp cận dịch vụ | Kỳ thị + thiếu nhân lực | V-NAMHS: 8,4% tiếp cận | UK NHS QT26: NHS phổ quát
+Giới tính | Nữ cảm xúc > Nam; Nam hành vi > | SDQ-25 | Islam QT31: nữ AOR=1,51
+Lĩnh vực | Khuyến nghị then chốt | Liên bài
+Giáo dục (MOET) | Giảm áp lực thi; tư vấn trường chuyên nghiệp; chống bắt nạt | VN21, QT08, QT21, QT32
+Y tế (MOH) | Xây dựng nhân lực SKTT trẻ em; đào tạo y tế trường | V-NAMHS VN02, QT26
+Lao động-XH (MOLISA) | Bảo vệ trẻ trực tuyến; kỹ năng cha mẹ | QT27, QT31
+Liên ngành | Phối hợp 3 bộ; giám sát; NC định kỳ | QT24 WHO Europe
+
+############################################################
+### VN023
+Tóm tắt bài VN23 — Lo âu trong đại dịch COVID-19 ở sinh viên đại học Việt Nam
+Tên công trình, tác giả, năm, mẫu khảo sát, đối tượng, khách thể, địa bàn khảo sát
+Công trình "Lo âu ở sinh viên đại học Việt Nam trong đại dịch COVID-19: Khảo sát quốc gia trên 5.730 sinh viên" của Nguyen, L.X. và cộng sự, đăng trên tạp chí Medicine (Q1, IF ≈ 1,5) năm 2023, DOI 10.1097/MD.0000000000033559. Khách thể nghiên cứu là 5.730 sinh viên đại học từ nhiều tỉnh thành Việt Nam, được khảo sát trực tuyến trong giai đoạn cao điểm đại dịch COVID-19. Công cụ chính là thang GAD-7 (Generalized Anxiety Disorder 7-item, Spitzer 2006) phiên bản tiếng Việt, ngưỡng cắt ≥ 10 cho lo âu mức độ vừa trở lên.
+Phương pháp nghiên cứu
+Thiết kế cắt ngang trực tuyến trên 5.730 sinh viên. Sử dụng GAD-7 sàng lọc lo âu cộng với bảng hỏi nhân khẩu xã hội: tuổi, giới tính, năm học, ngành học, nơi ở, kinh tế gia đình, tiền sử bệnh, kinh nghiệm tiếp xúc COVID-19. Phân tích hồi quy logistic đa biến để xác định các yếu tố liên quan có ý nghĩa thống kê.
+Kết quả nghiên cứu
+Tỷ lệ lo âu (GAD-7 ≥ 10) là 16,2 % trên toàn bộ mẫu — thấp hơn nhiều so với các nghiên cứu sàng lọc khác trong cùng giai đoạn COVID-19 ở Việt Nam (Hoàng Trung Học và cộng sự 2025 báo cáo 41,5 % bằng DASS-21). Các yếu tố nguy cơ chính được xác định là: ở ký túc xá (PR = 1,71), năm học cuối (gần thi tốt nghiệp), tiếp xúc trực tiếp với F0/F1, kinh tế gia đình giảm sút trong dịch, và thiếu hỗ trợ tâm lý từ trường.
+Phản biện
+Cỡ mẫu rất lớn n = 5.730 — thuộc nhóm khảo sát SKTT lớn nhất tại Việt Nam thời COVID. Tạp chí Medicine Q1. Tuy nhiên, mẫu thuận tiện trực tuyến → có thiên lệch tự chọn (chỉ những sinh viên có điều kiện online tham gia). Đối tượng SINH VIÊN ĐẠI HỌC, không phải VTN học sinh THCS/THPT. Tỷ lệ 16,2 % thấp hơn các nghiên cứu khác có thể do cut-off GAD-7 ≥ 10 nghiêm ngặt hơn. Cắt ngang — không đánh giá được xu hướng theo thời gian.
+Hướng nghiên cứu tiếp theo
+Cần nghiên cứu dọc theo dõi sức khoẻ tâm thần sinh viên trước-trong-sau COVID. So sánh GAD-7 với DASS-21 và DISC-5 trên cùng mẫu để chuẩn hoá công cụ. Phát triển mô hình hỗ trợ tâm lý cho sinh viên ký túc xá — nhóm nguy cơ cao.
+Đánh giá chất lượng: ⭐⭐⭐⭐ Cao. Mẫu lớn, tạp chí Q1, đối tượng quan trọng, có ý nghĩa cho chính sách.
+Yếu tố | PR/OR | p
+Ở ký túc xá vs nhà | PR = 1,71 | < 0,001
+Năm học cuối | ↑ nguy cơ | < 0,01
+Tiếp xúc F0/F1 | ↑ nguy cơ | < 0,001
+Kinh tế gia đình giảm | ↑ nguy cơ | < 0,01
+
+############################################################
+### VN024
+Tóm tắt bài VN24 — Sức khoẻ tâm thần học sinh THPT tại Vĩnh Long
+Tên công trình, tác giả, năm, mẫu khảo sát, đối tượng, khách thể, địa bàn khảo sát
+Công trình "Trầm cảm và các yếu tố liên quan ở học sinh trung học phổ thông tại tỉnh Vĩnh Long" của Nguyễn Thanh Truyền và cộng sự (2024), đăng trên Tạp chí Y học Việt Nam. Mẫu nghiên cứu là 919 học sinh THPT tại Vĩnh Long, sử dụng thang CES-D (Center for Epidemiologic Studies Depression) và ESSA (Educational Stress Scale for Adolescents).
+Phương pháp nghiên cứu
+Thiết kế cắt ngang trên 919 học sinh THPT tại Vĩnh Long. Công cụ: CES-D đo trầm cảm + ESSA đo căng thẳng học tập. Phỏng vấn trực tiếp tại trường. Phân tích mô tả + chi-square + hồi quy logistic đa biến.
+Kết quả nghiên cứu
+Tỷ lệ trầm cảm (CES-D ≥ 16) là 12,2 % — tương đối thấp so với các nghiên cứu khác tại Việt Nam. Các yếu tố nguy cơ liên quan có ý nghĩa: nghiện rượu, áp lực học tập cao theo thang ESSA, gia đình mâu thuẫn, sống xa cha mẹ. Nữ có tỷ lệ cao hơn nam.
+Phản biện
+Mẫu khá lớn n = 919, nhưng chỉ tại 1 tỉnh ĐBSCL — không đại diện toàn Việt Nam. Sử dụng CES-D đo TRẦM CẢM (không đo lo âu trực tiếp) — bài này phù hợp đối chiếu hơn là can thiệp trực tiếp lo âu. Tỷ lệ 12,2 % thấp có thể do cut-off CES-D ≥ 16 (nghiêm ngặt) hoặc do mẫu Vĩnh Long ít chịu áp lực thi đại học hơn các tỉnh đô thị. Không có so sánh trước-sau, không có nhóm chứng.
+Hướng nghiên cứu tiếp theo
+Cần bổ sung thang đo lo âu (GAD-7 hoặc DASS-21) để có bức tranh toàn diện. So sánh đa vùng (đô thị vs nông thôn). Nghiên cứu dọc theo nhóm có nguy cơ cao (nghiện rượu, gia đình mâu thuẫn).
+Đánh giá chất lượng: ⭐⭐⭐ Trung bình–Khá. Mẫu khá, tạp chí trong nước, hữu ích cho dữ liệu vùng ĐBSCL.
+
+############################################################
+### VN026
+Tóm tắt bài VN26 — Lo âu ở học sinh THPT tại Long An
+Tên công trình, tác giả, năm, mẫu khảo sát, đối tượng, khách thể, địa bàn khảo sát
+Công trình về thực trạng lo âu ở học sinh THPT tại tỉnh Long An (Đồng bằng sông Cửu Long), đăng trên Tạp chí Y học Việt Nam (VJOL) năm 2025. Khảo sát học sinh THPT tại Long An.
+Phương pháp nghiên cứu
+Cắt ngang trên học sinh THPT các trường tại Long An. Sử dụng thang đo lo âu (DASS-21 hoặc tương đương) phiên bản tiếng Việt. Bảng hỏi nhân khẩu học và yếu tố liên quan.
+Kết quả nghiên cứu
+Tỷ lệ lo âu là 57,2 % — CAO NHẤT trong số các nghiên cứu lo âu HS THPT tại Việt Nam được hệ thống tổng hợp đến thời điểm hiện tại. Tỷ lệ này cao hơn rõ rệt so với Hà Nội (Hoa 2024: 40,6 %), Hải Phòng (39,3 %), Huế (Trần Thảo Vi 2024: ~ 30–40 %). Yếu tố nguy cơ: nữ giới, áp lực thi đại học, mâu thuẫn gia đình, lạm dụng MXH.
+Phản biện
+Tỷ lệ 57,2 % là CAO BẤT THƯỜNG so với các vùng khác — cần giải thích. Có thể do: (1) cut-off thấp; (2) đặc thù vùng (Long An giáp TPHCM, áp lực thi vào ĐH cao); (3) thiên lệch chọn mẫu; (4) ảnh hưởng còn lại của COVID-19. Tạp chí trong nước, mẫu cắt ngang, không có nhóm chứng. Cần đối chiếu với phương pháp đo cụ thể.
+Hướng nghiên cứu tiếp theo
+So sánh trực tiếp với các tỉnh ĐBSCL khác bằng cùng công cụ. Phân tích yếu tố vùng đặc thù. Cần điều tra lý do tỷ lệ cao bất thường: định lượng + định tính.
+Đánh giá chất lượng: ⭐⭐⭐ Trung bình. Có giá trị dữ liệu vùng, nhưng cần cẩn trọng diễn giải tỷ lệ cao.
+
+############################################################
+### VN027
+Tóm tắt bài VN27 — Yếu tố trường học liên quan lo âu HS THCS Việt Nam
+Tên công trình, tác giả, năm, mẫu khảo sát, đối tượng, khách thể, địa bàn khảo sát
+Công trình "School factors causing Vietnamese adolescents anxiety" của Dinh và cộng sự (2021), đăng trên ResearchGate năm 2021. Khảo sát các yếu tố trường học liên quan lo âu ở HS THCS Việt Nam.
+Phương pháp nghiên cứu
+Cắt ngang trên HS THCS tại Việt Nam. Sử dụng bảng hỏi về yếu tố trường (áp lực học tập, mối quan hệ với GV và bạn bè, môi trường lớp học, ...) và thang đo lo âu. Phân tích hồi quy đa biến.
+Kết quả nghiên cứu
+Các yếu tố trường học có liên quan có ý nghĩa với lo âu HS THCS Việt Nam: áp lực học tập, kỳ vọng từ GV, mối quan hệ tiêu cực với bạn bè (bạo lực học đường, bắt nạt), khối lượng bài tập về nhà nhiều, ít thời gian nghỉ ngơi.
+Phản biện
+Bài đăng trên ResearchGate (preprint hoặc tạp chí trong nước), không phải tạp chí Q1. Cung cấp dữ liệu định lượng về yếu tố trường học cụ thể tại VN — bổ sung cho UNICEF VN22 (School Factors). Hạn chế: không phải peer-review cấp cao, có thể có sai lệch chọn mẫu, không có thông tin chi tiết về cỡ mẫu và công cụ trong bài tóm lược.
+Hướng nghiên cứu tiếp theo
+Lặp lại với mẫu lớn, công cụ chuẩn (DASS-Y hoặc GAD-7), đăng tạp chí Q1/Q2. Phân tích mediation: yếu tố trường → cơ chế tâm lý → lo âu.
+Đánh giá chất lượng: ⭐⭐⭐ Trung bình. Có giá trị bổ sung dữ liệu trường học VN.
+
+############################################################
+### VN029
+Tóm tắt bài VN29 — Triệu chứng SKTT và hành vi nguy cơ ở 2.631 HS THPT TPHCM
+Tên công trình, tác giả, năm, mẫu khảo sát, đối tượng, khách thể, địa bàn khảo sát
+Công trình "Unmasking the burden of mental health symptoms and risk behaviors in Vietnamese adolescents: evidence from a multicenter cross-sectional study involving 2,631 high school students" của Truc Thanh Thai, Minh Cuong Duong và cộng sự (2025), đăng trên Social Psychiatry and Psychiatric Epidemiology (Q1, IF ≈ 4,5) — Springer. DOI 10.1007/s00127-025-03043-7. Khách thể: 2.631 học sinh THPT (sau làm sạch từ 3.025) tại 4 trường THPT + 4 Trung tâm Giáo dục thường xuyên TPHCM. Đơn vị: Khoa YTCC, ĐH Y Dược TPHCM (217 Hồng Bàng, Q.5) hợp tác với UNSW Sydney, Úc. Công cụ: DASS-21 (SOMD) + YBRS (Youth Behavior Risk Scale, HRB).
+Phương pháp nghiên cứu
+Khảo sát cắt ngang đa trung tâm tại 8 cơ sở giáo dục TPHCM (4 trường THPT chính quy + 4 trung tâm giáo dục thường xuyên). Học sinh tự điền bộ câu hỏi gồm 3 phần: (1) Nhân khẩu xã hội; (2) DASS-21 sàng lọc trầm cảm/lo âu/căng thẳng; (3) YBRS đo 8 nhóm hành vi nguy cơ (sử dụng chất, hành vi nguy hiểm, đánh nhau, ý nghĩ tự tử, hành vi tình dục, ăn uống, vận động, giấc ngủ). Phân tích logistic regression để đánh giá mối liên hệ giữa SOMD và HRB. Khung lý thuyết: Jessor Problem Behavior Theory + self-medication hypothesis.
+Kết quả nghiên cứu
+Tỷ lệ triệu chứng (DASS-21):
+Tỷ lệ hành vi nguy cơ (HRB):
+Mối liên hệ: Học sinh có SOMD có nguy cơ tham gia HRB cao hơn 1,24 đến 4,64 lần so với học sinh không có SOMD — bằng chứng mạnh cho cơ chế "tự dùng" (self-medication) ở VTN Việt Nam. Phù hợp với khung lý thuyết Jessor về liên kết các hành vi vấn đề.
+Phản biện
+Điểm mạnh: Q1 Social Psychiatry and Psychiatric Epidemiology, cỡ mẫu rất lớn (n = 2.631), đa trung tâm bao phủ cả THPT chính quy + GDTX (đối tượng dễ bị bỏ qua), đo ĐỒNG THỜI SOMD và HRB — lấp khoảng trống lớn trong NC VN. Sử dụng khung lý thuyết quốc tế. Tỷ lệ lo âu 50,3 % phù hợp với "baseline VTN châu Á 40–55 %" — củng cố bức tranh dịch tễ.
+Hạn chế: cắt ngang không kết luận chiều nhân quả; chỉ TPHCM (không đại diện cả nước); tự báo cáo có thể có thiên lệch xã hội với câu hỏi nhạy cảm; DASS-21 sàng lọc có thể overestimate; mất 13 % mẫu cần kiểm tra missing data analysis.
+Hướng nghiên cứu tiếp theo
+Lặp lại tại Hà Nội + miền Trung để có dữ liệu toàn quốc. NC dọc theo dõi nhóm này 2-3 năm để xác định chiều nhân quả SOMD ↔ HRB. Phát triển và thử nghiệm CAN THIỆP TÍCH HỢP đa thành phần (CBT + giáo dục SK + thay đổi hành vi + hỗ trợ gia đình) thay vì targeted vào lo âu/trầm cảm đơn lẻ — vì 91,6 % HS đa hành vi nguy cơ. So sánh THPT chính quy vs GDTX về cơ cấu nguy cơ.
+Đánh giá chất lượng: ⭐⭐⭐⭐⭐ Rất cao. Q1, mẫu lớn, đa trung tâm, đo đồng thời SOMD + HRB — bài VN tốt nhất hiện có cho dữ liệu VTN TPHCM.
+Triệu chứng | Tỷ lệ
+Trầm cảm | 42,6 %
+Lo âu (cao nhất) | 50,3 %
+Căng thẳng | 31,1 %
+HRB | Tỷ lệ
+Ít vận động thể chất (cao nhất) | 79,9 %
+Quan hệ tình dục không an toàn (thấp nhất) | 4,0 %
+Đa hành vi nguy cơ (≥ 2 HRB) | 91,6 %

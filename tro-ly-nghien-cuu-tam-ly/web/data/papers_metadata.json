@@ -1,0 +1,2702 @@
+{
+ "meta": {
+  "created": "2026-05-02",
+  "version": "papers_metadata-v1",
+  "n_entries": 91,
+  "description": "Augmented metadata for faceted browser. 7 facets: region, doc_type, lead_author, linked_question, year_bucket, method, topic.",
+  "updated": "2026-05-08"
+ },
+ "facet_options": {
+  "region": [
+   [
+    "Âu-Mỹ-Úc",
+    28
+   ],
+   [
+    "Khác",
+    24
+   ],
+   [
+    "Việt Nam",
+    22
+   ],
+   [
+    "Không rõ",
+    11
+   ],
+   [
+    "Tổng hợp ban đầu",
+    3
+   ],
+   [
+    "Đông Nam Á",
+    3
+   ]
+  ],
+  "method": [
+   [
+    "Khác/Chưa rõ",
+    83
+   ],
+   [
+    "Network meta-analysis",
+    3
+   ],
+   [
+    "RCT",
+    2
+   ],
+   [
+    "Scoping review",
+    2
+   ],
+   [
+    "Narrative review",
+    1
+   ]
+  ],
+  "year_bucket": [
+   [
+    "2021+",
+    80
+   ],
+   [
+    "2016-2020",
+    10
+   ],
+   [
+    "Trước 2010",
+    1
+   ]
+  ],
+  "topic": [
+   [
+    "Mental Health (general)",
+    52
+   ],
+   [
+    "Methodology",
+    22
+   ],
+   [
+    "Intervention",
+    18
+   ],
+   [
+    "Anxiety",
+    9
+   ],
+   [
+    "School",
+    6
+   ],
+   [
+    "Resilience",
+    4
+   ],
+   [
+    "Stress",
+    3
+   ],
+   [
+    "Family/Parenting",
+    1
+   ],
+   [
+    "Depression",
+    1
+   ]
+  ],
+  "doc_type": [
+   [
+    "summary",
+    91
+   ],
+   [
+    "original",
+    80
+   ],
+   [
+    "translation",
+    65
+   ]
+  ],
+  "top_authors": [
+   [
+    "Chen",
+    2
+   ],
+   [
+    "GBD",
+    2
+   ],
+   [
+    "Cai",
+    2
+   ],
+   [
+    "Jenkins",
+    1
+   ],
+   [
+    "Saikia",
+    1
+   ],
+   [
+    "Mandaknalli",
+    1
+   ],
+   [
+    "NSCH",
+    1
+   ],
+   [
+    "Alharbi",
+    1
+   ],
+   [
+    "Nakie",
+    1
+   ],
+   [
+    "Wen",
+    1
+   ],
+   [
+    "Qiu",
+    1
+   ],
+   [
+    "China",
+    1
+   ],
+   [
+    "Bhardwaj",
+    1
+   ],
+   [
+    "Yin",
+    1
+   ],
+   [
+    "Anderson",
+    1
+   ],
+   [
+    "Zhu",
+    1
+   ],
+   [
+    "Mudunna",
+    1
+   ],
+   [
+    "Puyat",
+    1
+   ],
+   [
+    "Salari",
+    1
+   ],
+   [
+    "Shibuya",
+    1
+   ],
+   [
+    "Liu",
+    1
+   ],
+   [
+    "Norway",
+    1
+   ],
+   [
+    "ScreenTime",
+    1
+   ],
+   [
+    "JAACAP",
+    1
+   ],
+   [
+    "WHO",
+    1
+   ],
+   [
+    "EpiPsychSci",
+    1
+   ],
+   [
+    "NHS",
+    1
+   ],
+   [
+    "NatureHumanBehav",
+    1
+   ],
+   [
+    "AJP",
+    1
+   ],
+   [
+    "BMC",
+    1
+   ]
+  ]
+ },
+ "entries": [
+  {
+   "id": "QT001",
+   "descriptor": "Jenkins_et_al_2023_USA",
+   "lead_author": "Jenkins",
+   "year": 2023,
+   "year_bucket": "2021+",
+   "region": "Tổng hợp ban đầu",
+   "is_vn": false,
+   "doc_types": [
+    "original",
+    "translation",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Mental Health (general)"
+   ],
+   "linked_questions": [
+    "QA_07"
+   ],
+   "pdf_folder": "11-bai-ban-dau-va-mo-rong",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "QT001_Jenkins_2023_USA_SanDiego.pdf",
+    "translation": "QT001_Jenkins_2023_USA_SanDiego.docx",
+    "summary": "QT001_Jenkins_et_al_2023_USA.docx"
+   }
+  },
+  {
+   "id": "QT002",
+   "descriptor": "Saikia_et_al_2023_India_Assam",
+   "lead_author": "Saikia",
+   "year": 2023,
+   "year_bucket": "2021+",
+   "region": "Tổng hợp ban đầu",
+   "is_vn": false,
+   "doc_types": [
+    "original",
+    "translation",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Mental Health (general)"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "11-bai-ban-dau-va-mo-rong",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "QT002_Saikia_2023_India_Assam.pdf",
+    "translation": "QT002_Saikia_2023_India_Assam.docx",
+    "summary": "QT002_Saikia_et_al_2023_India_Assam.docx"
+   }
+  },
+  {
+   "id": "QT003",
+   "descriptor": "Mandaknalli_Malusare_2021",
+   "lead_author": "Mandaknalli",
+   "year": 2021,
+   "year_bucket": "2021+",
+   "region": "Không rõ",
+   "is_vn": false,
+   "doc_types": [
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Methodology"
+   ],
+   "linked_questions": [],
+   "pdf_folder": null,
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "summary": "QT003_Mandaknalli_Malusare_2021.docx"
+   }
+  },
+  {
+   "id": "QT004",
+   "descriptor": "NSCH_2020_USA",
+   "lead_author": "NSCH",
+   "year": 2020,
+   "year_bucket": "2016-2020",
+   "region": "Không rõ",
+   "is_vn": false,
+   "doc_types": [
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Mental Health (general)"
+   ],
+   "linked_questions": [],
+   "pdf_folder": null,
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "summary": "QT004_NSCH_2020_USA.docx"
+   }
+  },
+  {
+   "id": "QT005",
+   "descriptor": "Alharbi_et_al_2019_SaudiArabia",
+   "lead_author": "Alharbi",
+   "year": 2019,
+   "year_bucket": "2016-2020",
+   "region": "Không rõ",
+   "is_vn": false,
+   "doc_types": [
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Mental Health (general)"
+   ],
+   "linked_questions": [],
+   "pdf_folder": null,
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "summary": "QT005_Alharbi_et_al_2019_SaudiArabia.docx"
+   }
+  },
+  {
+   "id": "QT006",
+   "descriptor": "Nakie_et_al_2022_Ethiopia",
+   "lead_author": "Nakie",
+   "year": 2022,
+   "year_bucket": "2021+",
+   "region": "Khác",
+   "is_vn": false,
+   "doc_types": [
+    "original",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Mental Health (general)"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "The-gioi_Khac",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "QT006_Nakie_et_al_2022_Ethiopia.pdf",
+    "summary": "QT006_Nakie_et_al_2022_Ethiopia.docx"
+   }
+  },
+  {
+   "id": "QT007",
+   "descriptor": "Chen_et_al_2023_China_BMCPsych",
+   "lead_author": "Chen",
+   "year": 2023,
+   "year_bucket": "2021+",
+   "region": "Khác",
+   "is_vn": false,
+   "doc_types": [
+    "original",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Mental Health (general)",
+    "Internet Gaming Disorder",
+    "Sleep"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "The-gioi_Khac",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "QT007_Chen_et_al_2023_China_BMCPsych.pdf",
+    "summary": "QT007_Chen_et_al_2023_China_BMCPsych.docx"
+   }
+  },
+  {
+   "id": "QT008",
+   "descriptor": "Wen_et_al_2020_China_Rural",
+   "lead_author": "Wen",
+   "year": 2020,
+   "year_bucket": "2016-2020",
+   "region": "Khác",
+   "is_vn": false,
+   "doc_types": [
+    "original",
+    "translation",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Mental Health (general)"
+   ],
+   "linked_questions": [
+    "QA_17",
+    "QA_18",
+    "QA_19"
+   ],
+   "pdf_folder": "The-gioi_Khac",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "QT008_Wen_2020_China_Rural_LPA.pdf",
+    "translation": "QT008_Wen_2020_China_Rural_LPA.docx",
+    "summary": "QT008_Wen_et_al_2020_China_Rural.docx"
+   }
+  },
+  {
+   "id": "QT009",
+   "descriptor": "Qiu_et_al_2022_China_Parenting",
+   "lead_author": "Qiu",
+   "year": 2022,
+   "year_bucket": "2021+",
+   "region": "Khác",
+   "is_vn": false,
+   "doc_types": [
+    "original",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Family/Parenting"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "The-gioi_Khac",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "QT009_Qiu_et_al_2022_China_Parenting.pdf",
+    "summary": "QT009_Qiu_et_al_2022_China_Parenting.docx"
+   }
+  },
+  {
+   "id": "QT010",
+   "descriptor": "Xu_et_al_2021_China_LargestEpi",
+   "lead_author": "China",
+   "year": 2021,
+   "year_bucket": "2021+",
+   "region": "Tổng hợp ban đầu",
+   "is_vn": false,
+   "doc_types": [
+    "original",
+    "translation",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Mental Health (general)"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "11-bai-ban-dau-va-mo-rong",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "QT010_Xu_2021_China_LargestEpi.pdf",
+    "translation": "QT010_Xu_2021_China_LargestEpi.docx",
+    "summary": "QT010_Xu_et_al_2021_China_LargestEpi.docx"
+   }
+  },
+  {
+   "id": "QT011",
+   "descriptor": "Bhardwaj_et_al_2020_India_Chandigarh",
+   "lead_author": "Bhardwaj",
+   "year": 2020,
+   "year_bucket": "2016-2020",
+   "region": "Khác",
+   "is_vn": false,
+   "doc_types": [
+    "original",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Mental Health (general)"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "The-gioi_Khac",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "QT011_Bhardwaj_et_al_2020_India_Chandigarh.pdf",
+    "summary": "QT011_Bhardwaj_et_al_2020_India_Chandigarh.docx"
+   }
+  },
+  {
+   "id": "QT012",
+   "descriptor": "GBD_ASEAN_2025_Lancet",
+   "lead_author": "GBD",
+   "year": 2025,
+   "year_bucket": "2021+",
+   "region": "Đông Nam Á",
+   "is_vn": false,
+   "doc_types": [
+    "original",
+    "translation",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Mental Health (general)"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "Dong-Nam-A",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "QT012_GBD_ASEAN_2025_Lancet.pdf",
+    "translation": "QT012_GBD_ASEAN_2025_Lancet.docx",
+    "summary": "QT012_GBD_ASEAN_2025_Lancet.docx"
+   }
+  },
+  {
+   "id": "QT013",
+   "descriptor": "Yin_2025_PLOSONE_LMIC",
+   "lead_author": "Yin",
+   "year": 2025,
+   "year_bucket": "2021+",
+   "region": "Âu-Mỹ-Úc",
+   "is_vn": false,
+   "doc_types": [
+    "original",
+    "translation",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Mental Health (general)"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "The-gioi_Au-My-Uc",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "QT013_Zhameden_2025_PLOSONE_LMIC.pdf",
+    "translation": "QT013_Zhameden_2025_PLOSONE_LMIC.docx",
+    "summary": "QT013_Zhameden_2025_PLOSONE_LMIC.docx"
+   }
+  },
+  {
+   "id": "QT014",
+   "descriptor": "Anderson_2025_Wiley_Narrative",
+   "lead_author": "Anderson",
+   "year": 2025,
+   "year_bucket": "2021+",
+   "region": "Âu-Mỹ-Úc",
+   "is_vn": false,
+   "doc_types": [
+    "original",
+    "translation",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Mental Health (general)"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "The-gioi_Au-My-Uc",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "QT014_Anderson_2025_Wiley_Narrative.pdf",
+    "translation": "QT014_Anderson_2025_Wiley_Narrative.docx",
+    "summary": "QT014_Anderson_2025_Wiley_Narrative.docx"
+   }
+  },
+  {
+   "id": "QT015",
+   "descriptor": "Zhu_2025_BMC_China",
+   "lead_author": "Zhu",
+   "year": 2025,
+   "year_bucket": "2021+",
+   "region": "Khác",
+   "is_vn": false,
+   "doc_types": [
+    "original",
+    "translation",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Mental Health (general)"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "The-gioi_Khac",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "QT015_Zhu_2025_BMC_China.pdf",
+    "translation": "QT015_Zhu_2025_BMC_China.docx",
+    "summary": "QT015_Zhu_2025_BMC_China.docx"
+   }
+  },
+  {
+   "id": "QT016",
+   "descriptor": "Mudunna_2025_LancetSEA_SouthAsia",
+   "lead_author": "Mudunna",
+   "year": 2025,
+   "year_bucket": "2021+",
+   "region": "Đông Nam Á",
+   "is_vn": false,
+   "doc_types": [
+    "original",
+    "translation",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Mental Health (general)"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "Dong-Nam-A",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "QT016_Mudunna_2025_LancetSEA_SouthAsia.pdf",
+    "translation": "QT016_Mudunna_2025_LancetSEA_SouthAsia.docx",
+    "summary": "QT016_Mudunna_2025_LancetSEA_SouthAsia.docx"
+   }
+  },
+  {
+   "id": "QT017",
+   "descriptor": "Puyat_2025_Filipino_Youth",
+   "lead_author": "Puyat",
+   "year": 2025,
+   "year_bucket": "2021+",
+   "region": "Đông Nam Á",
+   "is_vn": false,
+   "doc_types": [
+    "original",
+    "translation",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Mental Health (general)"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "Dong-Nam-A",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "QT017_Puyat_2025_Filipino_Youth.pdf",
+    "translation": "QT017_Puyat_2025_Filipino_Youth.docx",
+    "summary": "QT017_Puyat_2025_Filipino_Youth.docx"
+   }
+  },
+  {
+   "id": "QT018",
+   "descriptor": "Salari_SAD_Prevalence_Global_SR_MA_2024",
+   "lead_author": "Salari",
+   "year": 2024,
+   "year_bucket": "2021+",
+   "region": "Khác",
+   "is_vn": false,
+   "doc_types": [
+    "original",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Anxiety",
+    "Methodology"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "The-gioi_Khac",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "QT018_Salari_SAD_Prevalence_Global_SR_MA_2024.pdf",
+    "summary": "QT018_Salari_SAD_Prevalence_Global_SR_MA_2024.docx"
+   }
+  },
+  {
+   "id": "QT019",
+   "descriptor": "Shibuya_SchoolMH_Literacy_3Asian_2025",
+   "lead_author": "Shibuya",
+   "year": 2025,
+   "year_bucket": "2021+",
+   "region": "Khác",
+   "is_vn": false,
+   "doc_types": [
+    "original",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "School"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "The-gioi_Khac",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "QT019_Shibuya_SchoolMH_Literacy_3Asian_2025.pdf",
+    "summary": "QT019_Shibuya_SchoolMH_Literacy_3Asian_2025.docx"
+   }
+  },
+  {
+   "id": "QT020",
+   "descriptor": "Liu_CBT_Delivery_GAD_NMA_2025",
+   "lead_author": "Liu",
+   "year": 2025,
+   "year_bucket": "2021+",
+   "region": "Khác",
+   "is_vn": false,
+   "doc_types": [
+    "original",
+    "summary"
+   ],
+   "method": "Network meta-analysis",
+   "topics": [
+    "Intervention",
+    "Methodology"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "The-gioi_Khac",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "QT020_Liu_CBT_Delivery_GAD_NMA_2025.pdf",
+    "summary": "QT020_Liu_CBT_Delivery_GAD_NMA_2025.docx"
+   }
+  },
+  {
+   "id": "QT021",
+   "descriptor": "Norway_Brunborg_2025_SocSciMed",
+   "lead_author": "Norway",
+   "year": 2025,
+   "year_bucket": "2021+",
+   "region": "Âu-Mỹ-Úc",
+   "is_vn": false,
+   "doc_types": [
+    "original",
+    "translation",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Mental Health (general)"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "The-gioi_Au-My-Uc",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "QT021_Norway_Brunborg_2025_SocSciMed.pdf",
+    "translation": "QT021_Norway_Brunborg_2025_SocSciMed.docx",
+    "summary": "QT021_Norway_Brunborg_2025_SocSciMed.docx"
+   }
+  },
+  {
+   "id": "QT022",
+   "descriptor": "ScreenTime_Li_2025_BJCP",
+   "lead_author": "ScreenTime",
+   "year": 2025,
+   "year_bucket": "2021+",
+   "region": "Âu-Mỹ-Úc",
+   "is_vn": false,
+   "doc_types": [
+    "original",
+    "translation",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Digital addiction",
+    "Screen time",
+    "Longitudinal design"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "The-gioi_Au-My-Uc",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "QT022_ScreenTime_Li_2025_BJCP.pdf",
+    "translation": "QT022_ScreenTime_Li_2025_BJCP.docx",
+    "summary": "QT022_ScreenTime_Li_2025_BJCP.docx"
+   }
+  },
+  {
+   "id": "QT023",
+   "descriptor": "JAACAP_USA_Mojtabai_Trends_2024",
+   "lead_author": "JAACAP",
+   "year": 2024,
+   "year_bucket": "2021+",
+   "region": "Âu-Mỹ-Úc",
+   "is_vn": false,
+   "doc_types": [
+    "original",
+    "translation",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Mental Health (general)"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "The-gioi_Au-My-Uc",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "QT023_JAACAP_USA_Mojtabai_Trends_2024.pdf",
+    "translation": "QT023_JAACAP_USA_Mojtabai_Trends_2024.docx",
+    "summary": "QT023_JAACAP_USA_Mojtabai_Trends_2024.docx"
+   }
+  },
+  {
+   "id": "QT024",
+   "descriptor": "WHO_Europe_2025_LancetRegional",
+   "lead_author": "Tarasenko",
+   "year": 2025,
+   "year_bucket": "2021+",
+   "region": "Âu-Mỹ-Úc",
+   "is_vn": false,
+   "doc_types": [
+    "original",
+    "translation",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Mental Health (general)"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "The-gioi_Au-My-Uc",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "QT024_WHO_Europe_2025_LancetRegional.pdf",
+    "translation": "QT024_WHO_Europe_2025_LancetRegional.docx",
+    "summary": "QT024_WHO_Europe_2025_LancetRegional.docx"
+   }
+  },
+  {
+   "id": "QT025",
+   "descriptor": "EpiPsychSci_Crisp_Australia_2025",
+   "lead_author": "EpiPsychSci",
+   "year": 2025,
+   "year_bucket": "2021+",
+   "region": "Âu-Mỹ-Úc",
+   "is_vn": false,
+   "doc_types": [
+    "original",
+    "translation",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Mental Health (general)"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "The-gioi_Au-My-Uc",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "QT025_EpiPsychSci_Crisp_Australia_2025.pdf",
+    "translation": "QT025_EpiPsychSci_Crisp_Australia_2025.docx",
+    "summary": "QT025_EpiPsychSci_Crisp_Australia_2025.docx"
+   }
+  },
+  {
+   "id": "QT026",
+   "descriptor": "UK_NHS_Parliament_2025",
+   "lead_author": "Baker",
+   "year": 2024,
+   "year_bucket": "2021+",
+   "region": "Âu-Mỹ-Úc",
+   "is_vn": false,
+   "doc_types": [
+    "original",
+    "translation",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Mental Health (general)"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "The-gioi_Au-My-Uc",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "QT026_UK_NHS_Parliament_2025.pdf",
+    "translation": "QT026_UK_NHS_Parliament_2025.docx",
+    "summary": "QT026_UK_NHS_Parliament_2025.docx"
+   }
+  },
+  {
+   "id": "QT027",
+   "descriptor": "NatureHumanBehav_Fassi_SocialMedia_2025",
+   "lead_author": "NatureHumanBehav",
+   "year": 2025,
+   "year_bucket": "2021+",
+   "region": "Âu-Mỹ-Úc",
+   "is_vn": false,
+   "doc_types": [
+    "original",
+    "translation",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Digital addiction",
+    "Social media",
+    "Mental Health (general)"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "The-gioi_Au-My-Uc",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "QT027_NatureHumanBehav_Fassi_SocialMedia_2025.pdf",
+    "translation": "QT027_NatureHumanBehav_Fassi_SocialMedia_2025.docx",
+    "summary": "QT027_NatureHumanBehav_Fassi_SocialMedia_2025.docx"
+   }
+  },
+  {
+   "id": "QT028",
+   "descriptor": "AJP_Zugman_PediatricAnxiety_2024",
+   "lead_author": "Zugman",
+   "year": 2024,
+   "year_bucket": "2021+",
+   "region": "Âu-Mỹ-Úc",
+   "is_vn": false,
+   "doc_types": [
+    "original",
+    "translation",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Anxiety",
+    "Methodology"
+   ],
+   "linked_questions": [
+    "QA_04",
+    "QA_05",
+    "QA_06"
+   ],
+   "pdf_folder": "The-gioi_Au-My-Uc",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "QT028_AJP_Zugman_PediatricAnxiety_2024.pdf",
+    "translation": "QT028_AJP_Zugman_PediatricAnxiety_2024.docx",
+    "summary": "QT028_AJP_Zugman_PediatricAnxiety_2024.docx"
+   }
+  },
+  {
+   "id": "QT029",
+   "descriptor": "BMC_Li_CBT_NMA_2025",
+   "lead_author": "Li",
+   "year": 2025,
+   "year_bucket": "2021+",
+   "region": "Khác",
+   "is_vn": false,
+   "doc_types": [
+    "original",
+    "translation",
+    "summary"
+   ],
+   "method": "Network meta-analysis",
+   "topics": [
+    "Intervention",
+    "Methodology"
+   ],
+   "linked_questions": [
+    "QA_01",
+    "QA_05",
+    "QA_09"
+   ],
+   "pdf_folder": "The-gioi_Khac",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "QT029_BMC_Li_CBT_NMA_2025.pdf",
+    "translation": "QT029_BMC_Li_CBT_NMA_2025.docx",
+    "summary": "QT029_BMC_Li_CBT_NMA_2025.docx"
+   }
+  },
+  {
+   "id": "QT030",
+   "descriptor": "GBD_Trends_10-24y_2025",
+   "lead_author": "GBD",
+   "year": 2025,
+   "year_bucket": "2021+",
+   "region": "Khác",
+   "is_vn": false,
+   "doc_types": [
+    "original",
+    "translation",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Mental Health (general)"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "The-gioi_Khac",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "QT030_GBD_Trends_10-24y_2025.pdf",
+    "translation": "QT030_GBD_Trends_10-24y_2025.docx",
+    "summary": "QT030_GBD_Trends_10-24y_2025.docx"
+   }
+  },
+  {
+   "id": "QT031",
+   "descriptor": "Islam_59Countries_2025",
+   "lead_author": "Islam",
+   "year": 2025,
+   "year_bucket": "2021+",
+   "region": "Khác",
+   "is_vn": false,
+   "doc_types": [
+    "original",
+    "translation",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Mental Health (general)"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "The-gioi_Khac",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "QT031_Islam_59Countries_2025.pdf",
+    "translation": "QT031_Islam_59Countries_2025.docx",
+    "summary": "QT031_Islam_59Countries_2025.docx"
+   }
+  },
+  {
+   "id": "QT032",
+   "descriptor": "Ireland_Fitzgerald_MyWorld_2024",
+   "lead_author": "Ireland",
+   "year": 2024,
+   "year_bucket": "2021+",
+   "region": "Âu-Mỹ-Úc",
+   "is_vn": false,
+   "doc_types": [
+    "original",
+    "translation",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Mental Health (general)"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "The-gioi_Au-My-Uc",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "QT032_Ireland_Fitzgerald_MyWorld_2024.pdf",
+    "translation": "QT032_Ireland_Fitzgerald_MyWorld_2024.docx",
+    "summary": "QT032_Ireland_Fitzgerald_MyWorld_2024.docx"
+   }
+  },
+  {
+   "id": "QT033",
+   "descriptor": "JAMA_SchmidtPersson_ScreenMedia_2024",
+   "lead_author": "JAMA",
+   "year": 2024,
+   "year_bucket": "2021+",
+   "region": "Âu-Mỹ-Úc",
+   "is_vn": false,
+   "doc_types": [
+    "original",
+    "translation",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Digital addiction",
+    "Screen time",
+    "RCT"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "The-gioi_Au-My-Uc",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "QT033_JAMA_SchmidtPersson_ScreenMedia_2024.pdf",
+    "translation": "QT033_JAMA_SchmidtPersson_ScreenMedia_2024.docx",
+    "summary": "QT033_JAMA_SchmidtPersson_ScreenMedia_2024.docx"
+   }
+  },
+  {
+   "id": "QT034",
+   "descriptor": "Korea_Cho_MH_Trends_NatSciRep_2024",
+   "lead_author": "Korea",
+   "year": 2024,
+   "year_bucket": "2021+",
+   "region": "Khác",
+   "is_vn": false,
+   "doc_types": [
+    "original",
+    "translation",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Mental Health (general)"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "The-gioi_Khac",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "QT034_Korea_Cho_MH_Trends_NatSciRep_2024.pdf",
+    "translation": "QT034_Korea_Cho_MH_Trends_NatSciRep_2024.docx",
+    "summary": "QT034_Korea_Cho_MH_Trends_NatSciRep_2024.docx"
+   }
+  },
+  {
+   "id": "QT035",
+   "descriptor": "Jefferies_SocialAnxiety_7Countries_2020",
+   "lead_author": "Jefferies",
+   "year": 2020,
+   "year_bucket": "2016-2020",
+   "region": "Âu-Mỹ-Úc",
+   "is_vn": false,
+   "doc_types": [
+    "original",
+    "translation",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Anxiety"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "The-gioi_Au-My-Uc",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "QT035_Jefferies_SocialAnxiety_7Countries_2020.pdf",
+    "translation": "QT035_Jefferies_SocialAnxiety_7Countries_2020.docx",
+    "summary": "QT035_Jefferies_SocialAnxiety_7Countries_2020.docx"
+   }
+  },
+  {
+   "id": "QT036",
+   "descriptor": "Moon_Korea_GAD_ML_2025",
+   "lead_author": "Moon",
+   "year": 2025,
+   "year_bucket": "2021+",
+   "region": "Khác",
+   "is_vn": false,
+   "doc_types": [
+    "original",
+    "translation",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Mental Health (general)"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "The-gioi_Khac",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "QT036_Moon_Korea_GAD_ML_2025.pdf",
+    "translation": "QT036_Moon_Korea_GAD_ML_2025.docx",
+    "summary": "QT036_Moon_Korea_GAD_ML_2025.docx"
+   }
+  },
+  {
+   "id": "QT037",
+   "descriptor": "Praptomojati_CA-CBT_SEA_AJP_2024",
+   "lead_author": "Praptomojati",
+   "year": 2024,
+   "year_bucket": "2021+",
+   "region": "Không rõ",
+   "is_vn": false,
+   "doc_types": [
+    "translation",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Intervention"
+   ],
+   "linked_questions": [],
+   "pdf_folder": null,
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "translation": "QT037_Praptomojati_CA-CBT_SEA_AJP_2024.docx",
+    "summary": "QT037_Praptomojati_CA-CBT_SEA_AJP_2024.docx"
+   }
+  },
+  {
+   "id": "QT038",
+   "descriptor": "DeSilva_SriLanka_RCT_2024",
+   "lead_author": "DeSilva",
+   "year": 2024,
+   "year_bucket": "2021+",
+   "region": "Khác",
+   "is_vn": false,
+   "doc_types": [
+    "original",
+    "translation",
+    "summary"
+   ],
+   "method": "RCT",
+   "topics": [
+    "Intervention",
+    "Methodology"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "The-gioi_Khac",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "QT038_DeSilva_SriLanka_RCT_2024.pdf",
+    "translation": "QT038_DeSilva_SriLanka_RCT_2024.docx",
+    "summary": "QT038_DeSilva_SriLanka_RCT_2024.docx"
+   }
+  },
+  {
+   "id": "QT039",
+   "descriptor": "Xian_NMA_SAD_JAD_2024",
+   "lead_author": "Xian",
+   "year": 2024,
+   "year_bucket": "2021+",
+   "region": "Khác",
+   "is_vn": false,
+   "doc_types": [
+    "original",
+    "translation",
+    "summary"
+   ],
+   "method": "Network meta-analysis",
+   "topics": [
+    "Anxiety",
+    "Methodology"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "The-gioi_Khac",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "QT039_Xian_NMA_SAD_JAD_2024.pdf",
+    "translation": "QT039_Xian_NMA_SAD_JAD_2024.docx",
+    "summary": "QT039_Xian_NMA_SAD_JAD_2024.docx"
+   }
+  },
+  {
+   "id": "QT040",
+   "descriptor": "Walder_JMIR_DMHI_SAD_2025",
+   "lead_author": "Walder",
+   "year": 2025,
+   "year_bucket": "2021+",
+   "region": "Âu-Mỹ-Úc",
+   "is_vn": false,
+   "doc_types": [
+    "original",
+    "translation",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Anxiety"
+   ],
+   "linked_questions": [
+    "QA_01",
+    "QA_02",
+    "QA_03",
+    "QA_09",
+    "QA_16"
+   ],
+   "pdf_folder": "The-gioi_Au-My-Uc",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "QT040_Walder_JMIR_DMHI_SAD_2025.pdf",
+    "translation": "QT040_Walder_JMIR_DMHI_SAD_2025.docx",
+    "summary": "QT040_Walder_JMIR_DMHI_SAD_2025.docx"
+   }
+  },
+  {
+   "id": "QT041",
+   "descriptor": "Zheng_China_MXH_PRBM_2025",
+   "lead_author": "Zheng",
+   "year": 2025,
+   "year_bucket": "2021+",
+   "region": "Khác",
+   "is_vn": false,
+   "doc_types": [
+    "original",
+    "translation",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Digital addiction",
+    "Social media addiction",
+    "Mediation analysis"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "The-gioi_Khac",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "QT041_Zheng_China_MXH_PRBM_2025.pdf",
+    "translation": "QT041_Zheng_China_MXH_PRBM_2025.docx",
+    "summary": "QT041_Zheng_China_MXH_PRBM_2025.docx"
+   }
+  },
+  {
+   "id": "QT042",
+   "descriptor": "BrownCarter_UK_School_JMH_2025",
+   "lead_author": "BrownCarter",
+   "year": 2025,
+   "year_bucket": "2021+",
+   "region": "Âu-Mỹ-Úc",
+   "is_vn": false,
+   "doc_types": [
+    "original",
+    "translation",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "School"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "The-gioi_Au-My-Uc",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "QT042_BrownCarter_UK_School_JMH_2025.pdf",
+    "translation": "QT042_BrownCarter_UK_School_JMH_2025.docx",
+    "summary": "QT042_BrownCarter_UK_School_JMH_2025.docx"
+   }
+  },
+  {
+   "id": "QT043",
+   "descriptor": "Bress_JAMA_Maya_App_2024",
+   "lead_author": "Bress",
+   "year": 2024,
+   "year_bucket": "2021+",
+   "region": "Âu-Mỹ-Úc",
+   "is_vn": false,
+   "doc_types": [
+    "original",
+    "translation",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Intervention",
+    "Methodology"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "The-gioi_Au-My-Uc",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "QT043_Bress_JAMA_Maya_App_2024.pdf",
+    "translation": "QT043_Bress_JAMA_Maya_App_2024.docx",
+    "summary": "QT043_Bress_JAMA_Maya_App_2024.docx"
+   }
+  },
+  {
+   "id": "QT044",
+   "descriptor": "Cai_Resilience_Frontiers_2025",
+   "lead_author": "Cai",
+   "year": 2025,
+   "year_bucket": "2021+",
+   "region": "Khác",
+   "is_vn": false,
+   "doc_types": [
+    "original",
+    "translation",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Resilience"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "The-gioi_Khac",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "QT044_Cai_Resilience_Frontiers_2025.pdf",
+    "translation": "QT044_Cai_Resilience_Frontiers_2025.docx",
+    "summary": "QT044_Cai_Resilience_Frontiers_2025.docx"
+   }
+  },
+  {
+   "id": "QT045",
+   "descriptor": "Matsumoto_Japan_iCBT_JMIR_2024",
+   "lead_author": "Matsumoto",
+   "year": 2024,
+   "year_bucket": "2021+",
+   "region": "Khác",
+   "is_vn": false,
+   "doc_types": [
+    "original",
+    "translation",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Intervention",
+    "Methodology"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "The-gioi_Khac",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "QT045_Matsumoto_Japan_iCBT_JMIR_2024.pdf",
+    "translation": "QT045_Matsumoto_Japan_iCBT_JMIR_2024.docx",
+    "summary": "QT045_Matsumoto_Japan_iCBT_JMIR_2024.docx"
+   }
+  },
+  {
+   "id": "QT046",
+   "descriptor": "Jagiello_AcademicStress_SR_2025",
+   "lead_author": "Jagiello",
+   "year": 2025,
+   "year_bucket": "2021+",
+   "region": "Âu-Mỹ-Úc",
+   "is_vn": false,
+   "doc_types": [
+    "original",
+    "translation",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Stress",
+    "Methodology"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "The-gioi_Au-My-Uc",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "QT046_Jagiello_AcademicStress_SR_2025.pdf",
+    "translation": "QT046_Jagiello_AcademicStress_SR_2025.docx",
+    "summary": "QT046_Jagiello_AcademicStress_SR_2025.docx"
+   }
+  },
+  {
+   "id": "QT047",
+   "descriptor": "Dong_PLOS_DASS_YaAn_2025",
+   "lead_author": "Dong",
+   "year": 2025,
+   "year_bucket": "2021+",
+   "region": "Khác",
+   "is_vn": false,
+   "doc_types": [
+    "original",
+    "translation",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Mental Health (general)"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "The-gioi_Khac",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "QT047_Dong_PLOS_DASS_YaAn_2025.pdf",
+    "translation": "QT047_Dong_PLOS_DASS_YaAn_2025.docx",
+    "summary": "QT047_Dong_PLOS_DASS_YaAn_2025.docx"
+   }
+  },
+  {
+   "id": "QT048",
+   "descriptor": "Chen_COVID_Meta141_JAD_2025_ABSTRACT",
+   "lead_author": "Chen",
+   "year": 2025,
+   "year_bucket": "2021+",
+   "region": "Không rõ",
+   "is_vn": false,
+   "doc_types": [
+    "translation",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Mental Health (general)"
+   ],
+   "linked_questions": [],
+   "pdf_folder": null,
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "translation": "QT048_Chen_COVID_Meta141_JAD_2025_ABSTRACT.docx",
+    "summary": "QT048_Chen_COVID_Meta141_JAD_2025_ABSTRACT.docx"
+   }
+  },
+  {
+   "id": "QT049",
+   "descriptor": "Zhang_Bayesian_CBT_JCP_2026_ABSTRACT",
+   "lead_author": "Zhang",
+   "year": 2026,
+   "year_bucket": "2021+",
+   "region": "Không rõ",
+   "is_vn": false,
+   "doc_types": [
+    "translation",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Intervention"
+   ],
+   "linked_questions": [
+    "QA_01",
+    "QA_16"
+   ],
+   "pdf_folder": null,
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "translation": "QT049_Zhang_Bayesian_CBT_JCP_2026_ABSTRACT.docx",
+    "summary": "QT049_Zhang_Bayesian_CBT_JCP_2026_ABSTRACT.docx"
+   }
+  },
+  {
+   "id": "QT050",
+   "descriptor": "Qiaochu_MobileCBT_CPP_2025_ABSTRACT",
+   "lead_author": "Qiaochu",
+   "year": 2025,
+   "year_bucket": "2021+",
+   "region": "Không rõ",
+   "is_vn": false,
+   "doc_types": [
+    "translation",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Intervention"
+   ],
+   "linked_questions": [],
+   "pdf_folder": null,
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "translation": "QT050_Qiaochu_MobileCBT_CPP_2025_ABSTRACT.docx",
+    "summary": "QT050_Qiaochu_MobileCBT_CPP_2025_ABSTRACT.docx"
+   }
+  },
+  {
+   "id": "QT051",
+   "descriptor": "Menon_LMIC_SEA_Pacific_APJPH_2025_ABSTRACT",
+   "lead_author": "Menon",
+   "year": 2025,
+   "year_bucket": "2021+",
+   "region": "Không rõ",
+   "is_vn": false,
+   "doc_types": [
+    "translation",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Mental Health (general)"
+   ],
+   "linked_questions": [],
+   "pdf_folder": null,
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "translation": "QT051_Menon_LMIC_SEA_Pacific_APJPH_2025_ABSTRACT.docx",
+    "summary": "QT051_Menon_LMIC_SEA_Pacific_APJPH_2025_ABSTRACT.docx"
+   }
+  },
+  {
+   "id": "QT052",
+   "descriptor": "Mindfulness_NatureMH_IPD_MA_2023",
+   "lead_author": "Mindfulness",
+   "year": 2023,
+   "year_bucket": "2021+",
+   "region": "Âu-Mỹ-Úc",
+   "is_vn": false,
+   "doc_types": [
+    "original",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Intervention",
+    "Methodology"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "The-gioi_Au-My-Uc",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "QT052_Mindfulness_NatureMH_IPD_MA_2023.pdf",
+    "summary": "QT052_Mindfulness_NatureMH_IPD_MA_2023.docx"
+   }
+  },
+  {
+   "id": "QT053",
+   "descriptor": "Pharmacotherapy_Anxiety_Review_Frontiers_2020",
+   "lead_author": "Pharmacotherapy",
+   "year": 2020,
+   "year_bucket": "2016-2020",
+   "region": "Âu-Mỹ-Úc",
+   "is_vn": false,
+   "doc_types": [
+    "original",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Anxiety",
+    "Intervention",
+    "Methodology"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "The-gioi_Au-My-Uc",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "QT053_Pharmacotherapy_Anxiety_Review_Frontiers_2020.pdf",
+    "summary": "QT053_Pharmacotherapy_Anxiety_Review_Frontiers_2020.docx"
+   }
+  },
+  {
+   "id": "QT054",
+   "descriptor": "ChronicStress_Neuroinflammation_FrontPsych_2023",
+   "lead_author": "ChronicStress",
+   "year": 2023,
+   "year_bucket": "2021+",
+   "region": "Âu-Mỹ-Úc",
+   "is_vn": false,
+   "doc_types": [
+    "original",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Stress",
+    "Methodology"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "The-gioi_Au-My-Uc",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "QT054_ChronicStress_Neuroinflammation_FrontPsych_2023.pdf",
+    "summary": "QT054_ChronicStress_Neuroinflammation_FrontPsych_2023.docx"
+   }
+  },
+  {
+   "id": "QT055",
+   "descriptor": "Parade_Epigenetics_ChildhoodMaltreatment_TranslPsych_2021",
+   "lead_author": "Parade",
+   "year": 2021,
+   "year_bucket": "2021+",
+   "region": "Âu-Mỹ-Úc",
+   "is_vn": false,
+   "doc_types": [
+    "original",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Intervention",
+    "Methodology"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "The-gioi_Au-My-Uc",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "QT055_Parade_Epigenetics_Maltreatment_TranslPsych_2021.pdf",
+    "summary": "QT055_Parade_Epigenetics_ChildhoodMaltreatment_TranslPsych_2021.docx"
+   }
+  },
+  {
+   "id": "QT056",
+   "descriptor": "Jiang_Microbiota_GutBrain_Anxiety_FrontNeuro_2024",
+   "lead_author": "Jiang",
+   "year": 2024,
+   "year_bucket": "2021+",
+   "region": "Khác",
+   "is_vn": false,
+   "doc_types": [
+    "original",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Anxiety"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "The-gioi_Khac",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "QT056_Jiang_Microbiota_GutBrain_Anxiety_FrontNeuro_2024.pdf",
+    "summary": "QT056_Jiang_Microbiota_GutBrain_Anxiety_FrontNeuro_2024.docx"
+   }
+  },
+  {
+   "id": "QT057",
+   "descriptor": "NeuralCircuits_Anxiety_FrontNeuralCirc_2025",
+   "lead_author": "NeuralCircuits",
+   "year": 2025,
+   "year_bucket": "2021+",
+   "region": "Khác",
+   "is_vn": false,
+   "doc_types": [
+    "original",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Anxiety"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "The-gioi_Khac",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "QT057_NeuralCircuits_Mechanisms_Anxiety_FrontNeuralCirc_2025.pdf",
+    "summary": "QT057_NeuralCircuits_Anxiety_FrontNeuralCirc_2025.docx"
+   }
+  },
+  {
+   "id": "QT058",
+   "descriptor": "Guo_Neuroinflammation_Neuromodulation_TranslPsych_2022",
+   "lead_author": "Guo",
+   "year": 2023,
+   "year_bucket": "2021+",
+   "region": "Khác",
+   "is_vn": false,
+   "doc_types": [
+    "original",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Methodology"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "The-gioi_Khac",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "QT058_Guo_Neuroinflammation_Neuromodulation_TranslPsych_2022.pdf",
+    "summary": "QT058_Guo_Neuroinflammation_Neuromodulation_TranslPsych_2022.docx"
+   }
+  },
+  {
+   "id": "QT059",
+   "descriptor": "Cai_SchoolResilience_SR_MA_FrontPsych_2025",
+   "lead_author": "Cai",
+   "year": 2025,
+   "year_bucket": "2021+",
+   "region": "Không rõ",
+   "is_vn": false,
+   "doc_types": [
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Methodology",
+    "Resilience",
+    "School"
+   ],
+   "linked_questions": [],
+   "pdf_folder": null,
+   "doi": "10.3389/fpsyt.2025.1594658",
+   "pubmed": null,
+   "files": {
+    "summary": "QT059_Cai_SchoolResilience_SR_MA_FrontPsych_2025.docx"
+   }
+  },
+  {
+   "id": "QT060",
+   "descriptor": "Bie_GlobalAnxiety_GBD_10-24y_1990_2021_FrontPsych_2024",
+   "lead_author": "Bie",
+   "year": 1990,
+   "year_bucket": "Trước 2010",
+   "region": "Âu-Mỹ-Úc",
+   "is_vn": false,
+   "doc_types": [
+    "original",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Anxiety",
+    "Mental Health (general)"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "The-gioi_Au-My-Uc",
+   "doi": "10.3389/fpsyt.2024.1489427",
+   "pubmed": null,
+   "files": {
+    "pdf": "QT060_Bie_GlobalAnxiety_GBD_10-24y_1990_2021_FrontPsych_2024.pdf",
+    "summary": "QT060_Bie_GlobalAnxiety_GBD_10-24y_1990_2021_FrontPsych_2024.docx"
+   }
+  },
+  {
+   "id": "QT061",
+   "descriptor": "LiSH_ClearlyMe_CoDesign_CambridgeCBT_2024",
+   "lead_author": "LiSH",
+   "year": 2022,
+   "year_bucket": "2021+",
+   "region": "Âu-Mỹ-Úc",
+   "is_vn": false,
+   "doc_types": [
+    "original",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Intervention"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "The-gioi_Au-My-Uc",
+   "doi": "10.1017/S1754470X24000345",
+   "pubmed": null,
+   "files": {
+    "pdf": "QT061_LiSH_ClearlyMe_CoDesign_CambridgeCBT_2024.pdf",
+    "summary": "QT061_LiSH_ClearlyMe_CoDesign_CambridgeCBT_2024.docx"
+   }
+  },
+  {
+   "id": "QT062",
+   "descriptor": "Samele_ClearFear_App_JMIRFormative_2025",
+   "lead_author": "Samele",
+   "year": 2025,
+   "year_bucket": "2021+",
+   "region": "Âu-Mỹ-Úc",
+   "is_vn": false,
+   "doc_types": [
+    "original",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Intervention",
+    "Methodology"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "The-gioi_Au-My-Uc",
+   "doi": "10.2196/55603",
+   "pubmed": null,
+   "files": {
+    "pdf": "QT062_Samele_ClearFear_App_JMIRFormative_2025.pdf",
+    "summary": "QT062_Samele_ClearFear_App_JMIRFormative_2025.docx"
+   }
+  },
+  {
+   "id": "QT063",
+   "descriptor": "ChenSJ_AppCBTI_DepressionPrev_PLOSMed_2025",
+   "lead_author": "ChenSJ",
+   "year": 2025,
+   "year_bucket": "2021+",
+   "region": "Khác",
+   "is_vn": false,
+   "doc_types": [
+    "original",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Depression",
+    "Intervention"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "The-gioi_Khac",
+   "doi": "10.1371/journal.pmed.1004510",
+   "pubmed": null,
+   "files": {
+    "pdf": "QT063_ChenSJ_AppCBTI_DepressionPrev_PLOSMed_2025.pdf",
+    "summary": "QT063_ChenSJ_AppCBTI_DepressionPrev_PLOSMed_2025.docx"
+   }
+  },
+  {
+   "id": "QT064",
+   "descriptor": "Stephens_Photovoice_ScopingReview_IntlJAdolYouth_2023",
+   "lead_author": "Stephens",
+   "year": 2023,
+   "year_bucket": "2021+",
+   "region": "Âu-Mỹ-Úc",
+   "is_vn": false,
+   "doc_types": [
+    "original",
+    "translation",
+    "summary"
+   ],
+   "method": "Scoping review",
+   "topics": [
+    "Intervention",
+    "Methodology",
+    "Resilience"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "The-gioi_Au-My-Uc",
+   "doi": "10.1080/02673843.2023.2244043",
+   "pubmed": null,
+   "files": {
+    "pdf": "QT064_Stephens_Photovoice_ScopingReview_IntlJAdolYouth_2023.pdf",
+    "translation": "QT064_Stephens_Photovoice_ScopingReview_IntlJAdolYouth_2023.docx",
+    "summary": "QT064_Stephens_Photovoice_ScopingReview_IntlJAdolYouth_2023.docx"
+   }
+  },
+  {
+   "id": "QT065",
+   "descriptor": "Bradshaw_Lochman_EACP_RCT_JSchPsy_2025",
+   "lead_author": "Bradshaw",
+   "year": 2025,
+   "year_bucket": "2021+",
+   "region": "Âu-Mỹ-Úc",
+   "is_vn": false,
+   "doc_types": [
+    "original",
+    "translation",
+    "summary"
+   ],
+   "method": "RCT",
+   "topics": [
+    "Intervention",
+    "Methodology"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "The-gioi_Au-My-Uc",
+   "doi": "10.1016/j.jsp.2025.101437",
+   "pubmed": "https://pubmed.ncbi.nlm.nih.gov/40506167/",
+   "files": {
+    "pdf": "QT065_Bradshaw_Lochman_EACP_RCT_JSchPsy_2025.pdf",
+    "translation": "QT065_Bradshaw_Lochman_EACP_RCT_JSchPsy_2025.docx",
+    "summary": "QT065_Bradshaw_Lochman_EACP_RCT_JSchPsy_2025.docx"
+   }
+  },
+  {
+   "id": "QT066",
+   "descriptor": "Murphy_PeerSupport_ScopingReview_JCommPsych_2024",
+   "lead_author": "Murphy",
+   "year": 2024,
+   "year_bucket": "2021+",
+   "region": "Âu-Mỹ-Úc",
+   "is_vn": false,
+   "doc_types": [
+    "original",
+    "translation",
+    "summary"
+   ],
+   "method": "Scoping review",
+   "topics": [
+    "Intervention",
+    "Methodology",
+    "Resilience"
+   ],
+   "linked_questions": [
+    "QA_19"
+   ],
+   "pdf_folder": "The-gioi_Au-My-Uc",
+   "doi": "10.1002/jcop.23090",
+   "pubmed": "https://pubmed.ncbi.nlm.nih.gov/37740958/",
+   "files": {
+    "pdf": "QT066_Murphy_PeerSupport_ScopingReview_JCommPsych_2024.pdf",
+    "translation": "QT066_Murphy_PeerSupport_ScopingReview_JCommPsych_2024.docx",
+    "summary": "QT066_Murphy_PeerSupport_ScopingReview_JCommPsych_2024.docx"
+   }
+  },
+  {
+   "id": "QT067",
+   "descriptor": "Pascoe_AcademicStress_IJAY_2020",
+   "lead_author": "Pascoe",
+   "year": 2020,
+   "year_bucket": "2016-2020",
+   "region": "Âu-Mỹ-Úc",
+   "is_vn": false,
+   "doc_types": [
+    "original",
+    "translation",
+    "summary"
+   ],
+   "method": "Narrative review",
+   "topics": [
+    "Stress"
+   ],
+   "linked_questions": [
+    "QA_17"
+   ],
+   "pdf_folder": "The-gioi_Au-My-Uc",
+   "doi": "10.1080/02673843.2019.1596823",
+   "pubmed": null,
+   "files": {
+    "pdf": "QT067_Pascoe_AcademicStress_IJAY_2020.pdf",
+    "translation": "QT067_Pascoe_AcademicStress_IJAY_2020.docx",
+    "summary": "QT067_Pascoe_AcademicStress_IJAY_2020.docx"
+   }
+  },
+  {
+   "id": "VN001",
+   "descriptor": "Hoa_2024_Frontiers_HaNoi",
+   "lead_author": "Hoa",
+   "year": 2024,
+   "year_bucket": "2021+",
+   "region": "Việt Nam",
+   "is_vn": true,
+   "doc_types": [
+    "original",
+    "translation",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Mental Health (general)"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "Viet-Nam",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "VN001_Hoa_2024_Frontiers_HaNoi.pdf",
+    "translation": "VN001_Hoa_2024_Frontiers_HaNoi.docx",
+    "summary": "VN001_Hoa_2024_Frontiers_HaNoi.docx"
+   }
+  },
+  {
+   "id": "VN002",
+   "descriptor": "VNAMHS_2022_National",
+   "lead_author": "VNAMHS",
+   "year": 2022,
+   "year_bucket": "2021+",
+   "region": "Việt Nam",
+   "is_vn": true,
+   "doc_types": [
+    "original",
+    "translation",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Mental Health (general)"
+   ],
+   "linked_questions": [
+    "QA_19",
+    "QA_20"
+   ],
+   "pdf_folder": "Viet-Nam",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "VN002_VNAMHS_2022_National.pdf",
+    "translation": "VN002_VNAMHS_2022_National.docx",
+    "summary": "VN002_VNAMHS_2022_National.docx"
+   }
+  },
+  {
+   "id": "VN003",
+   "descriptor": "Pham_2024_Hue_SocialSupport",
+   "lead_author": "Pham",
+   "year": 2024,
+   "year_bucket": "2021+",
+   "region": "Việt Nam",
+   "is_vn": true,
+   "doc_types": [
+    "original",
+    "translation",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Mental Health (general)"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "Viet-Nam",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "VN003_Pham_2024_Hue_SocialSupport.pdf",
+    "translation": "VN003_Pham_2024_Hue_SocialSupport.docx",
+    "summary": "VN003_Pham_2024_Hue_SocialSupport.docx"
+   }
+  },
+  {
+   "id": "VN004",
+   "descriptor": "NguyenThiVan_2020_STAI_TPHCM",
+   "lead_author": "NguyenThiVan",
+   "year": 2020,
+   "year_bucket": "2016-2020",
+   "region": "Việt Nam",
+   "is_vn": true,
+   "doc_types": [
+    "original",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Mental Health (general)"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "Viet-Nam",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "VN004_NguyenThiVan_2020_STAI_TPHCM.pdf",
+    "summary": "VN004_NguyenThiVan_2020_STAI_TPHCM.docx"
+   }
+  },
+  {
+   "id": "VN005",
+   "descriptor": "TranNguyenNgoc_2018_LuanAn_ThuGian_GAD",
+   "lead_author": "TranNguyenNgoc",
+   "year": 2018,
+   "year_bucket": "2016-2020",
+   "region": "Việt Nam",
+   "is_vn": true,
+   "doc_types": [
+    "original",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Mental Health (general)"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "Viet-Nam",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "VN005_TranNguyenNgoc_2018_LuanAn_ThuGian_GAD.pdf",
+    "summary": "VN005_TranNguyenNgoc_2018_LuanAn_ThuGian_GAD.docx"
+   }
+  },
+  {
+   "id": "VN006",
+   "descriptor": "TranThiMyLuong_2020_DASS42_THPTChuyen",
+   "lead_author": "TranThiMyLuong",
+   "year": 2020,
+   "year_bucket": "2016-2020",
+   "region": "Việt Nam",
+   "is_vn": true,
+   "doc_types": [
+    "original",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "School"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "Viet-Nam",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "VN006_TranThiMyLuong_2020_DASS42_THPTChuyen.pdf",
+    "summary": "VN006_TranThiMyLuong_2020_DASS42_THPTChuyen.docx"
+   }
+  },
+  {
+   "id": "VN007",
+   "descriptor": "NguyenTL_Gender_PostPandemic_ItalJMed_2025",
+   "lead_author": "NguyenTL",
+   "year": 2025,
+   "year_bucket": "2021+",
+   "region": "Không rõ",
+   "is_vn": true,
+   "doc_types": [
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Mental Health (general)"
+   ],
+   "linked_questions": [],
+   "pdf_folder": null,
+   "doi": "10.4081/itjm.2025.1888",
+   "pubmed": null,
+   "files": {
+    "summary": "VN007_NguyenTL_Gender_PostPandemic_ItalJMed_2025.docx"
+   }
+  },
+  {
+   "id": "VN014",
+   "descriptor": "HoangTrungHoc_2025_VN_COVID",
+   "lead_author": "HoangTrungHoc",
+   "year": 2025,
+   "year_bucket": "2021+",
+   "region": "Việt Nam",
+   "is_vn": true,
+   "doc_types": [
+    "original",
+    "translation",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Mental Health (general)",
+    "Digital addiction",
+    "Parent-child relationship"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "Viet-Nam",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "VN014_HoangTrungHoc_2025_VN_COVID.pdf",
+    "translation": "VN014_HoangTrungHoc_2025_VN_COVID.docx",
+    "summary": "VN014_HoangTrungHoc_2025_VN_COVID.docx"
+   }
+  },
+  {
+   "id": "VN015",
+   "descriptor": "NgoAnhVinh_2024_LangSon_DTTS",
+   "lead_author": "NgoAnhVinh",
+   "year": 2024,
+   "year_bucket": "2021+",
+   "region": "Việt Nam",
+   "is_vn": true,
+   "doc_types": [
+    "original",
+    "translation",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Mental Health (general)"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "Viet-Nam",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "VN015_NgoAnhVinh_2024_LangSon_DTTS.pdf",
+    "translation": "VN015_NgoAnhVinh_2024_LangSon_DTTS.docx",
+    "summary": "VN015_NgoAnhVinh_2024_LangSon_DTTS.docx"
+   }
+  },
+  {
+   "id": "VN016",
+   "descriptor": "BaoQuyen_2025_YHCD",
+   "lead_author": "BaoQuyen",
+   "year": 2025,
+   "year_bucket": "2021+",
+   "region": "Việt Nam",
+   "is_vn": true,
+   "doc_types": [
+    "original",
+    "translation",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Mental Health (general)"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "Viet-Nam",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "VN016_BaoQuyen_2025_YHCD.pdf",
+    "translation": "VN016_BaoQuyen_2025_YHCD.docx",
+    "summary": "VN016_BaoQuyen_2025_YHCD.docx"
+   }
+  },
+  {
+   "id": "VN017",
+   "descriptor": "NguyenDanhLam_2022_YHVN",
+   "lead_author": "NguyenDanhLam",
+   "year": 2022,
+   "year_bucket": "2021+",
+   "region": "Việt Nam",
+   "is_vn": true,
+   "doc_types": [
+    "original",
+    "translation",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Mental Health (general)"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "Viet-Nam",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "VN017_NguyenDanhLam_2022_YHVN.pdf",
+    "translation": "VN017_NguyenDanhLam_2022_YHVN.docx",
+    "summary": "VN017_NguyenDanhLam_2022_YHVN.docx"
+   }
+  },
+  {
+   "id": "VN018",
+   "descriptor": "AnGiang_2025_YHVN",
+   "lead_author": "AnGiang",
+   "year": 2025,
+   "year_bucket": "2021+",
+   "region": "Việt Nam",
+   "is_vn": true,
+   "doc_types": [
+    "original",
+    "translation",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Mental Health (general)"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "Viet-Nam",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "VN018_AnGiang_2025_YHVN.pdf",
+    "translation": "VN018_AnGiang_2025_YHVN.docx",
+    "summary": "VN018_AnGiang_2025_YHVN.docx"
+   }
+  },
+  {
+   "id": "VN019",
+   "descriptor": "HoThiTrucQuynh_2025_Hue_TLH",
+   "lead_author": "HoThiTrucQuynh",
+   "year": 2025,
+   "year_bucket": "2021+",
+   "region": "Việt Nam",
+   "is_vn": true,
+   "doc_types": [
+    "original",
+    "translation",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Mental Health (general)"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "Viet-Nam",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "VN019_HoThiTrucQuynh_2025_Hue_TLH.pdf",
+    "translation": "VN019_HoThiTrucQuynh_2025_Hue_TLH.docx",
+    "summary": "VN019_HoThiTrucQuynh_2025_Hue_TLH.docx"
+   }
+  },
+  {
+   "id": "VN020",
+   "descriptor": "TranHoVinhLoc_2024_TPHCM_DASS-Y",
+   "lead_author": "TranHoVinhLoc",
+   "year": 2024,
+   "year_bucket": "2021+",
+   "region": "Việt Nam",
+   "is_vn": true,
+   "doc_types": [
+    "original",
+    "translation",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Mental Health (general)"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "Viet-Nam",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "VN020_TranHoVinhLoc_2024_TPHCM_DASS-Y.pdf",
+    "translation": "VN020_TranHoVinhLoc_2024_TPHCM_DASS-Y.docx",
+    "summary": "VN020_TranHoVinhLoc_2024_TPHCM_DASS-Y.docx"
+   }
+  },
+  {
+   "id": "VN021",
+   "descriptor": "TranThaoVi_2024_JRuralMed_Hue",
+   "lead_author": "TranThaoVi",
+   "year": 2024,
+   "year_bucket": "2021+",
+   "region": "Việt Nam",
+   "is_vn": true,
+   "doc_types": [
+    "original",
+    "translation",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Mental Health (general)"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "Viet-Nam",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "VN021_TranThaoVi_2024_JRuralMed_Hue.pdf",
+    "translation": "VN021_TranThaoVi_2024_JRuralMed_Hue.docx",
+    "summary": "VN021_TranThaoVi_2024_JRuralMed_Hue.docx"
+   }
+  },
+  {
+   "id": "VN022",
+   "descriptor": "UNICEF_VN_2022_SchoolFactors",
+   "lead_author": "UNICEF",
+   "year": 2022,
+   "year_bucket": "2021+",
+   "region": "Việt Nam",
+   "is_vn": true,
+   "doc_types": [
+    "original",
+    "translation",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "School",
+    "Mental Health (general)"
+   ],
+   "linked_questions": [
+    "QA_19",
+    "QA_20"
+   ],
+   "pdf_folder": "Viet-Nam",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "VN022_UNICEF_VN_2022_SchoolFactors.pdf",
+    "translation": "VN022_UNICEF_VN_2022_SchoolFactors.docx",
+    "summary": "VN022_UNICEF_VN_2022_SchoolFactors.docx"
+   }
+  },
+  {
+   "id": "VN023",
+   "descriptor": "NguyenLX_VN_COVID_Medicine_2023",
+   "lead_author": "NguyenLX",
+   "year": 2023,
+   "year_bucket": "2021+",
+   "region": "Việt Nam",
+   "is_vn": true,
+   "doc_types": [
+    "original",
+    "translation",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Mental Health (general)"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "Viet-Nam",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "VN023_NguyenLX_VN_COVID_Medicine_2023.pdf",
+    "translation": "VN023_NguyenLX_VN_COVID_Medicine_2023.docx",
+    "summary": "VN023_NguyenLX_VN_COVID_Medicine_2023.docx"
+   }
+  },
+  {
+   "id": "VN024",
+   "descriptor": "NguyenThanhTruyen_VinhLong_YHVN_2024",
+   "lead_author": "NguyenThanhTruyen",
+   "year": 2024,
+   "year_bucket": "2021+",
+   "region": "Việt Nam",
+   "is_vn": true,
+   "doc_types": [
+    "original",
+    "translation",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Mental Health (general)"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "Viet-Nam",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "VN024_NguyenThanhTruyen_VinhLong_YHVN_2024.pdf",
+    "translation": "VN024_NguyenThanhTruyen_VinhLong_YHVN_2024.docx",
+    "summary": "VN024_NguyenThanhTruyen_VinhLong_YHVN_2024.docx"
+   }
+  },
+  {
+   "id": "VN025",
+   "descriptor": "PhamThiNgoc_HaiPhong_VinhBao_2024",
+   "lead_author": "PhamThiNgoc",
+   "year": 2024,
+   "year_bucket": "2021+",
+   "region": "Việt Nam",
+   "is_vn": true,
+   "doc_types": [
+    "original",
+    "translation",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Mental Health (general)"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "Viet-Nam",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "VN025_PhamThiNgoc_HaiPhong_VinhBao_2024.pdf",
+    "translation": "VN025_PhamThiNgoc_HaiPhong_VinhBao_2024.docx",
+    "summary": "VN025_PhamThiNgoc_HaiPhong_VinhBao_2024.docx"
+   }
+  },
+  {
+   "id": "VN026",
+   "descriptor": "TranDucSi_LongAn_PNT_2025",
+   "lead_author": "TranDucSi",
+   "year": 2025,
+   "year_bucket": "2021+",
+   "region": "Việt Nam",
+   "is_vn": true,
+   "doc_types": [
+    "original",
+    "translation",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Mental Health (general)"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "Viet-Nam",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "VN026_TranDucSi_LongAn_PNT_2025.pdf",
+    "translation": "VN026_TranDucSi_LongAn_PNT_2025.docx",
+    "summary": "VN026_TranDucSi_LongAn_PNT_2025.docx"
+   }
+  },
+  {
+   "id": "VN027",
+   "descriptor": "Dinh_SchoolFactors_VN_2021",
+   "lead_author": "Dinh",
+   "year": 2021,
+   "year_bucket": "2021+",
+   "region": "Việt Nam",
+   "is_vn": true,
+   "doc_types": [
+    "original",
+    "translation",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "School"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "Viet-Nam",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "VN027_Dinh_SchoolFactors_VN_2021.pdf",
+    "translation": "VN027_Dinh_SchoolFactors_VN_2021.docx",
+    "summary": "VN027_Dinh_SchoolFactors_VN_2021.docx"
+   }
+  },
+  {
+   "id": "VN028",
+   "descriptor": "DaoThiNgoan_TCNCYH_SVY4_HMU_2025",
+   "lead_author": "DaoThiNgoan",
+   "year": 2025,
+   "year_bucket": "2021+",
+   "region": "Việt Nam",
+   "is_vn": true,
+   "doc_types": [
+    "original",
+    "translation",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Mental Health (general)"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "Viet-Nam",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "VN028_DaoThiNgoan_TCNCYH_SVY4_HMU_2025.pdf",
+    "translation": "VN028_DaoThiNgoan_TCNCYH_SVY4_HMU_2025.docx",
+    "summary": "VN028_DaoThiNgoan_TCNCYH_SVY4_HMU_2025.docx"
+   }
+  },
+  {
+   "id": "VN029",
+   "descriptor": "Duong_SocPsychiatry_2631HS_TPHCM_2025",
+   "lead_author": "Duong",
+   "year": 2025,
+   "year_bucket": "2021+",
+   "region": "Việt Nam",
+   "is_vn": true,
+   "doc_types": [
+    "original",
+    "translation",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Mental Health (general)"
+   ],
+   "linked_questions": [],
+   "pdf_folder": "Viet-Nam",
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "pdf": "VN029_Duong_SocPsychiatry_2631HS_TPHCM_2025.pdf",
+    "translation": "VN029_Duong_SocPsychiatry_2631HS_TPHCM_2025.docx",
+    "summary": "VN029_Duong_SocPsychiatry_2631HS_TPHCM_2025.docx"
+   }
+  },
+  {
+   "id": "VN030",
+   "descriptor": "Tran_HappyHouse_Cambridge_2023",
+   "lead_author": "Tran",
+   "year": 2023,
+   "year_bucket": "2021+",
+   "region": "Không rõ",
+   "is_vn": true,
+   "doc_types": [
+    "translation",
+    "summary"
+   ],
+   "method": "Khác/Chưa rõ",
+   "topics": [
+    "Intervention"
+   ],
+   "linked_questions": [],
+   "pdf_folder": null,
+   "doi": null,
+   "pubmed": null,
+   "files": {
+    "translation": "VN030_Tran_HappyHouse_Cambridge_2023.docx",
+    "summary": "VN030_Tran_HappyHouse_Cambridge_2023.docx"
+   }
+  }
+ ]
+}

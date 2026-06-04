@@ -1,0 +1,1192 @@
+[
+  {
+    "paper_id": "QT001",
+    "author_id": "AU_JENKINS_JH",
+    "position": 1,
+    "is_first_author": true,
+    "raw_name": "** Janis H. Jenkins"
+  },
+  {
+    "paper_id": "QT001",
+    "author_id": "AU_SANCHEZ_G",
+    "position": 2,
+    "is_first_author": false,
+    "raw_name": "Giselle Sanchez"
+  },
+  {
+    "paper_id": "QT001",
+    "author_id": "AU_MILLER_EA",
+    "position": 3,
+    "is_first_author": false,
+    "raw_name": "Eric A. Miller"
+  },
+  {
+    "paper_id": "QT001",
+    "author_id": "AU_ALLANDE_NIS",
+    "position": 4,
+    "is_first_author": false,
+    "raw_name": "Nadia Irina Santillanes Allande"
+  },
+  {
+    "paper_id": "QT001",
+    "author_id": "AU_URANO_G",
+    "position": 5,
+    "is_first_author": false,
+    "raw_name": "Grace Urano"
+  },
+  {
+    "paper_id": "QT001",
+    "author_id": "AU_PR_AJ",
+    "position": 6,
+    "is_first_author": false,
+    "raw_name": "Alexandra J. Pr"
+  },
+  {
+    "paper_id": "QT002",
+    "author_id": "AU_KHONG_GTSCCVHCTCVĐBDPBTATBCCAKRĐTCCPBDCSDCBMKDHQLĐBKTĐGẢHĐLCTYTSKKSBGN",
+    "position": 1,
+    "is_first_author": true,
+    "raw_name": "không giải thích sâu cơ chế văn hóa cụ thể của vùng Đông Bắc. DASS-21 phiên bản tiếng Assam thiếu báo cáo Cronbach alpha — không rõ độ tin cậy của phiên bản dịch. Chỉ sử dụng chi-square (đơn biến) mà không dùng hồi quy logistic đa biến — không thể đánh giá ảnh hưởng độc lập của từng yếu tố sau khi kiểm soát biến gây nhiễu (Rothman"
+  },
+  {
+    "paper_id": "QT003",
+    "author_id": "AU_MANDAKNALLI_R",
+    "position": 1,
+    "is_first_author": true,
+    "raw_name": "Rahul Mandaknalli"
+  },
+  {
+    "paper_id": "QT003",
+    "author_id": "AU_MALUSARE_R",
+    "position": 2,
+    "is_first_author": false,
+    "raw_name": "Ragini Malusare"
+  },
+  {
+    "paper_id": "QT004",
+    "author_id": "AU_JENKINS_X",
+    "position": 1,
+    "is_first_author": true,
+    "raw_name": "Jenkins"
+  },
+  {
+    "paper_id": "QT005",
+    "author_id": "AU_ALHARBI_R",
+    "position": 1,
+    "is_first_author": true,
+    "raw_name": "Reem Alharbi"
+  },
+  {
+    "paper_id": "QT005",
+    "author_id": "AU_ALSUHAIBANI_K",
+    "position": 2,
+    "is_first_author": false,
+    "raw_name": "Khalid Alsuhaibani"
+  },
+  {
+    "paper_id": "QT005",
+    "author_id": "AU_ALMARSHAD_A",
+    "position": 3,
+    "is_first_author": false,
+    "raw_name": "Abdullah Almarshad"
+  },
+  {
+    "paper_id": "QT005",
+    "author_id": "AU_ALYAHYA_A",
+    "position": 4,
+    "is_first_author": false,
+    "raw_name": "Abdulhameed Alyahya"
+  },
+  {
+    "paper_id": "QT006",
+    "author_id": "AU_NAKIE_G",
+    "position": 1,
+    "is_first_author": true,
+    "raw_name": "Girum Nakie"
+  },
+  {
+    "paper_id": "QT006",
+    "author_id": "AU_SEGON_T",
+    "position": 2,
+    "is_first_author": false,
+    "raw_name": "Tesfaye Segon"
+  },
+  {
+    "paper_id": "QT006",
+    "author_id": "AU_MELKAM_M",
+    "position": 3,
+    "is_first_author": false,
+    "raw_name": "Mamaru Melkam"
+  },
+  {
+    "paper_id": "QT006",
+    "author_id": "AU_DESALEGN_GT",
+    "position": 4,
+    "is_first_author": false,
+    "raw_name": "Getachew Tesfaw Desalegn"
+  },
+  {
+    "paper_id": "QT006",
+    "author_id": "AU_ZELEKE_TA",
+    "position": 5,
+    "is_first_author": false,
+    "raw_name": "Tadele Amare Zeleke"
+  },
+  {
+    "paper_id": "QT007",
+    "author_id": "AU_CHEN_Z",
+    "position": 1,
+    "is_first_author": true,
+    "raw_name": "Zhangming Chen"
+  },
+  {
+    "paper_id": "QT007",
+    "author_id": "AU_REN_S",
+    "position": 2,
+    "is_first_author": false,
+    "raw_name": "Silan Ren"
+  },
+  {
+    "paper_id": "QT007",
+    "author_id": "AU_HE_R",
+    "position": 3,
+    "is_first_author": false,
+    "raw_name": "Ruini He"
+  },
+  {
+    "paper_id": "QT008",
+    "author_id": "AU_WEN_X",
+    "position": 1,
+    "is_first_author": true,
+    "raw_name": "Xiaotong Wen"
+  },
+  {
+    "paper_id": "QT009",
+    "author_id": "AU_QIU_Z",
+    "position": 1,
+    "is_first_author": true,
+    "raw_name": "Zhihai Qiu"
+  },
+  {
+    "paper_id": "QT009",
+    "author_id": "AU_GUO_Y",
+    "position": 2,
+    "is_first_author": false,
+    "raw_name": "Ying Guo"
+  },
+  {
+    "paper_id": "QT009",
+    "author_id": "AU_WANG_J",
+    "position": 3,
+    "is_first_author": false,
+    "raw_name": "Jun Wang"
+  },
+  {
+    "paper_id": "QT009",
+    "author_id": "AU_ZHANG_H",
+    "position": 4,
+    "is_first_author": false,
+    "raw_name": "Hongbo Zhang"
+  },
+  {
+    "paper_id": "QT010",
+    "author_id": "AU_XU_Q",
+    "position": 1,
+    "is_first_author": true,
+    "raw_name": "Qingqing Xu"
+  },
+  {
+    "paper_id": "QT011",
+    "author_id": "AU_BHARDWAJ_R",
+    "position": 1,
+    "is_first_author": true,
+    "raw_name": "Ridhul Bhardwaj"
+  },
+  {
+    "paper_id": "QT012",
+    "author_id": "AU__GAC",
+    "position": 1,
+    "is_first_author": true,
+    "raw_name": "GBD 2021 ASEAN Collaborators (2025)"
+  },
+  {
+    "paper_id": "QT012",
+    "author_id": "AU_DANG_TTLPHV",
+    "position": 2,
+    "is_first_author": false,
+    "raw_name": "đăng trên The Lancet Public Health vol"
+  },
+  {
+    "paper_id": "QT013",
+    "author_id": "AU_SZD_Y",
+    "position": 1,
+    "is_first_author": true,
+    "raw_name": "Yin SZD"
+  },
+  {
+    "paper_id": "QT013",
+    "author_id": "AU_MK_L",
+    "position": 2,
+    "is_first_author": false,
+    "raw_name": "Low MK"
+  },
+  {
+    "paper_id": "QT013",
+    "author_id": "AU_MP_M",
+    "position": 3,
+    "is_first_author": false,
+    "raw_name": "Mishu MP"
+  },
+  {
+    "paper_id": "QT014",
+    "author_id": "AU_CHILD_JO",
+    "position": 1,
+    "is_first_author": true,
+    "raw_name": "Journal of Child"
+  },
+  {
+    "paper_id": "QT014",
+    "author_id": "AU_NURSING_AP",
+    "position": 2,
+    "is_first_author": false,
+    "raw_name": "Adolescent Psychiatric Nursing"
+  },
+  {
+    "paper_id": "QT015",
+    "author_id": "AU_ZHU_X",
+    "position": 1,
+    "is_first_author": true,
+    "raw_name": "Zhu"
+  },
+  {
+    "paper_id": "QT016",
+    "author_id": "AU_MUDUNNA_X",
+    "position": 1,
+    "is_first_author": true,
+    "raw_name": "Mudunna"
+  },
+  {
+    "paper_id": "QT017",
+    "author_id": "AU_PUYAT_X",
+    "position": 1,
+    "is_first_author": true,
+    "raw_name": "Puyat"
+  },
+  {
+    "paper_id": "QT021",
+    "author_id": "AU_BRUNBORG_GS",
+    "position": 1,
+    "is_first_author": true,
+    "raw_name": "Geir Scott Brunborg"
+  },
+  {
+    "paper_id": "QT021",
+    "author_id": "AU_NILSEN_SA",
+    "position": 2,
+    "is_first_author": false,
+    "raw_name": "Sondre Aasen Nilsen"
+  },
+  {
+    "paper_id": "QT021",
+    "author_id": "AU_SKOGEN_JC",
+    "position": 3,
+    "is_first_author": false,
+    "raw_name": "Jens Christoffer Skogen"
+  },
+  {
+    "paper_id": "QT021",
+    "author_id": "AU_BANG_L",
+    "position": 4,
+    "is_first_author": false,
+    "raw_name": "Lasse Bang"
+  },
+  {
+    "paper_id": "QT022",
+    "author_id": "AU_WILEY_TABJOCPYPBJ",
+    "position": 1,
+    "is_first_author": true,
+    "raw_name": "© The Author(s). British Journal of Clinical Psycholog y published by John Wiley"
+  },
+  {
+    "paper_id": "QT022",
+    "author_id": "AU_SOCIETY_SLOBOBP",
+    "position": 2,
+    "is_first_author": false,
+    "raw_name": "Sons Ltd on behalf of British Psychological Society"
+  },
+  {
+    "paper_id": "QT023",
+    "author_id": "AU_MOJTABAI_R",
+    "position": 1,
+    "is_first_author": true,
+    "raw_name": "Ramin Mojtabai"
+  },
+  {
+    "paper_id": "QT023",
+    "author_id": "AU_OLFSON_M",
+    "position": 2,
+    "is_first_author": false,
+    "raw_name": "Mark Olfson"
+  },
+  {
+    "paper_id": "QT024",
+    "author_id": "AU_TARASENKO_A",
+    "position": 1,
+    "is_first_author": true,
+    "raw_name": "Anna Tarasenko"
+  },
+  {
+    "paper_id": "QT025",
+    "author_id": "AU_CRISP_D",
+    "position": 1,
+    "is_first_author": true,
+    "raw_name": "Dimity Crisp"
+  },
+  {
+    "paper_id": "QT025",
+    "author_id": "AU_RICKWOOD_D",
+    "position": 2,
+    "is_first_author": false,
+    "raw_name": "Debra Rickwood"
+  },
+  {
+    "paper_id": "QT025",
+    "author_id": "AU_BURNS_R",
+    "position": 3,
+    "is_first_author": false,
+    "raw_name": "Richard Burns"
+  },
+  {
+    "paper_id": "QT025",
+    "author_id": "AU_BARIOLA_E",
+    "position": 4,
+    "is_first_author": false,
+    "raw_name": "Emily Bariola"
+  },
+  {
+    "paper_id": "QT026",
+    "author_id": "AU_BAKER_C",
+    "position": 1,
+    "is_first_author": true,
+    "raw_name": "Carl Baker"
+  },
+  {
+    "paper_id": "QT026",
+    "author_id": "AU_LIBRARY_HOC",
+    "position": 2,
+    "is_first_author": false,
+    "raw_name": "House of Commons Library"
+  },
+  {
+    "paper_id": "QT026",
+    "author_id": "AU_PARLIAMENT_U",
+    "position": 3,
+    "is_first_author": false,
+    "raw_name": "UK Parliament"
+  },
+  {
+    "paper_id": "QT029",
+    "author_id": "AU_LICENCE_MIMINIITACC",
+    "position": 1,
+    "is_first_author": true,
+    "raw_name": "material. If material is not included in the article’s Creative Commons licence"
+  },
+  {
+    "paper_id": "QT029",
+    "author_id": "AU_OR_YIUINPBSR",
+    "position": 2,
+    "is_first_author": false,
+    "raw_name": "your intended use is not permitted by statutory regulation or"
+  },
+  {
+    "paper_id": "QT030",
+    "author_id": "AU_DONGJUN_Z",
+    "position": 1,
+    "is_first_author": true,
+    "raw_name": "Zhang Dongjun"
+  },
+  {
+    "paper_id": "QT030",
+    "author_id": "AU_MINGYUE_W",
+    "position": 2,
+    "is_first_author": false,
+    "raw_name": "Wu Mingyue"
+  },
+  {
+    "paper_id": "QT031",
+    "author_id": "AU_MA_I",
+    "position": 1,
+    "is_first_author": true,
+    "raw_name": "Islam MA"
+  },
+  {
+    "paper_id": "QT032",
+    "author_id": "AU_PSYCHOLOGY_SO",
+    "position": 1,
+    "is_first_author": true,
+    "raw_name": "School of Psychology"
+  },
+  {
+    "paper_id": "QT032",
+    "author_id": "AU_DUBLIN_X",
+    "position": 2,
+    "is_first_author": false,
+    "raw_name": "Dublin"
+  },
+  {
+    "paper_id": "QT032",
+    "author_id": "AU_IRELAND_X",
+    "position": 3,
+    "is_first_author": false,
+    "raw_name": "Ireland"
+  },
+  {
+    "paper_id": "QT033",
+    "author_id": "AU_SCHMIDTPERSSON_J",
+    "position": 1,
+    "is_first_author": true,
+    "raw_name": "Jesper Schmidt-Persson"
+  },
+  {
+    "paper_id": "QT033",
+    "author_id": "AU_PHD_X",
+    "position": 2,
+    "is_first_author": false,
+    "raw_name": "PhD"
+  },
+  {
+    "paper_id": "QT033",
+    "author_id": "AU_RASMUSSEN_MGB",
+    "position": 3,
+    "is_first_author": false,
+    "raw_name": "Martin Gillies Banke Rasmussen"
+  },
+  {
+    "paper_id": "QT033",
+    "author_id": "AU_PHD_X",
+    "position": 4,
+    "is_first_author": false,
+    "raw_name": "PhD"
+  },
+  {
+    "paper_id": "QT033",
+    "author_id": "AU_SRENSEN_SO",
+    "position": 5,
+    "is_first_author": false,
+    "raw_name": "Sarah Overgaard Sørensen"
+  },
+  {
+    "paper_id": "QT033",
+    "author_id": "AU_MSC_X",
+    "position": 6,
+    "is_first_author": false,
+    "raw_name": "MSc"
+  },
+  {
+    "paper_id": "QT033",
+    "author_id": "AU_MORTENSEN_SR",
+    "position": 7,
+    "is_first_author": false,
+    "raw_name": "Sofie Rath Mortensen"
+  },
+  {
+    "paper_id": "QT033",
+    "author_id": "AU_MSC_X",
+    "position": 8,
+    "is_first_author": false,
+    "raw_name": "MSc"
+  },
+  {
+    "paper_id": "QT033",
+    "author_id": "AU_OLESEN_LG",
+    "position": 9,
+    "is_first_author": false,
+    "raw_name": "Line Grønholt Olesen"
+  },
+  {
+    "paper_id": "QT033",
+    "author_id": "AU_PHD_X",
+    "position": 10,
+    "is_first_author": false,
+    "raw_name": "PhD"
+  },
+  {
+    "paper_id": "QT035",
+    "author_id": "AU_JEFFERIES_P",
+    "position": 1,
+    "is_first_author": true,
+    "raw_name": "Philip Jefferies"
+  },
+  {
+    "paper_id": "QT035",
+    "author_id": "AU_UNGAR_M",
+    "position": 2,
+    "is_first_author": false,
+    "raw_name": "Michael Ungar"
+  },
+  {
+    "paper_id": "QT036",
+    "author_id": "AU_MOON_Y",
+    "position": 1,
+    "is_first_author": true,
+    "raw_name": "Yonghwan Moon"
+  },
+  {
+    "paper_id": "QT036",
+    "author_id": "AU_WOO_H",
+    "position": 2,
+    "is_first_author": false,
+    "raw_name": "Hyekyung Woo"
+  },
+  {
+    "paper_id": "QT038",
+    "author_id": "AU_LICENCE_AAIITACC",
+    "position": 1,
+    "is_first_author": true,
+    "raw_name": "article are included in the article’s Creative Commons licence"
+  },
+  {
+    "paper_id": "QT038",
+    "author_id": "AU_INCLUDED_UIOIACLTTMIMIN",
+    "position": 2,
+    "is_first_author": false,
+    "raw_name": "unless indicated otherwise in a credit line to the material. If material is not included"
+  },
+  {
+    "paper_id": "QT039",
+    "author_id": "AU_XIAN_J",
+    "position": 1,
+    "is_first_author": true,
+    "raw_name": "Jinhua Xian"
+  },
+  {
+    "paper_id": "QT039",
+    "author_id": "AU_ZHANG_Y",
+    "position": 2,
+    "is_first_author": false,
+    "raw_name": "Yan Zhang"
+  },
+  {
+    "paper_id": "QT039",
+    "author_id": "AU_JIANG_B",
+    "position": 3,
+    "is_first_author": false,
+    "raw_name": "Bo Jiang"
+  },
+  {
+    "paper_id": "QT040",
+    "author_id": "AU_DOC_LSL",
+    "position": 1,
+    "is_first_author": true,
+    "raw_name": "độc lập sàng lọc"
+  },
+  {
+    "paper_id": "QT040",
+    "author_id": "AU_TRICH_X",
+    "position": 2,
+    "is_first_author": false,
+    "raw_name": "trích xuất"
+  },
+  {
+    "paper_id": "QT040",
+    "author_id": "AU_DANH_GTLRMSDHGPTPTNTVK",
+    "position": 3,
+    "is_first_author": false,
+    "raw_name": "đánh giá thiên lệch. Random-effects meta-analysis sử dụng Hedges g. Phân tích phụ theo: nền tảng (CBT vs khác)"
+  },
+  {
+    "paper_id": "QT040",
+    "author_id": "AU_THIET_KVTQ",
+    "position": 4,
+    "is_first_author": false,
+    "raw_name": "thiết kế (SAD-specific vs tổng quát)"
+  },
+  {
+    "paper_id": "QT040",
+    "author_id": "AU_CO_HDNVTH",
+    "position": 5,
+    "is_first_author": false,
+    "raw_name": "có hướng dẫn người vs tự học"
+  },
+  {
+    "paper_id": "QT040",
+    "author_id": "AU_DOI_CVK",
+    "position": 6,
+    "is_first_author": false,
+    "raw_name": "đối chứng (WL vs khác)"
+  },
+  {
+    "paper_id": "QT041",
+    "author_id": "AU_ADDICTION_TEOSM",
+    "position": 1,
+    "is_first_author": true,
+    "raw_name": "The Effects of Social Media Addiction"
+  },
+  {
+    "paper_id": "QT041",
+    "author_id": "AU_ACADEMIC_X",
+    "position": 2,
+    "is_first_author": false,
+    "raw_name": "Academic"
+  },
+  {
+    "paper_id": "QT043",
+    "author_id": "AU_BRESS_JN",
+    "position": 1,
+    "is_first_author": true,
+    "raw_name": "Jennifer N. Bress"
+  },
+  {
+    "paper_id": "QT043",
+    "author_id": "AU_PHD_X",
+    "position": 2,
+    "is_first_author": false,
+    "raw_name": "PhD"
+  },
+  {
+    "paper_id": "QT043",
+    "author_id": "AU_FALK_A",
+    "position": 3,
+    "is_first_author": false,
+    "raw_name": "Avital Falk"
+  },
+  {
+    "paper_id": "QT043",
+    "author_id": "AU_PHD_X",
+    "position": 4,
+    "is_first_author": false,
+    "raw_name": "PhD"
+  },
+  {
+    "paper_id": "QT043",
+    "author_id": "AU_SCHIER_MM",
+    "position": 5,
+    "is_first_author": false,
+    "raw_name": "Maddy M. Schier"
+  },
+  {
+    "paper_id": "QT043",
+    "author_id": "AU_JAYWANT_A",
+    "position": 6,
+    "is_first_author": false,
+    "raw_name": "Abhishek Jaywant"
+  },
+  {
+    "paper_id": "QT043",
+    "author_id": "AU_PHD_X",
+    "position": 7,
+    "is_first_author": false,
+    "raw_name": "PhD"
+  },
+  {
+    "paper_id": "QT043",
+    "author_id": "AU_MORONEY_E",
+    "position": 8,
+    "is_first_author": false,
+    "raw_name": "Elizabeth Moroney"
+  },
+  {
+    "paper_id": "QT043",
+    "author_id": "AU_PHD_X",
+    "position": 9,
+    "is_first_author": false,
+    "raw_name": "PhD"
+  },
+  {
+    "paper_id": "QT043",
+    "author_id": "AU_DARGIS_M",
+    "position": 10,
+    "is_first_author": false,
+    "raw_name": "Monika Dargis"
+  },
+  {
+    "paper_id": "QT043",
+    "author_id": "AU_PHD_X",
+    "position": 11,
+    "is_first_author": false,
+    "raw_name": "PhD"
+  },
+  {
+    "paper_id": "QT044",
+    "author_id": "AU_CHINH_CCTQHT",
+    "position": 1,
+    "is_first_author": true,
+    "raw_name": "chính Chenyi Cai). Tổng quan hệ thống"
+  },
+  {
+    "paper_id": "QT044",
+    "author_id": "AU_PHAN_TTHCRVCTKNPHTTCTEVTNLÝTGCLCPCTPC蔡C",
+    "position": 2,
+    "is_first_author": false,
+    "raw_name": "phân tích tổng hợp các RCT về can thiệp khả năng phục hồi (resilience) tại trường cho trẻ em + vị thành niên. LƯU Ý: tác giả chính là Cai (không phải Cao) theo Pinyin của 蔡 (họ Cai)"
+  },
+  {
+    "paper_id": "QT045",
+    "author_id": "AU_PHD_KM",
+    "position": 1,
+    "is_first_author": true,
+    "raw_name": "Kazuki Matsumoto PhD"
+  },
+  {
+    "paper_id": "QT045",
+    "author_id": "AU_PHD_SH",
+    "position": 2,
+    "is_first_author": false,
+    "raw_name": "Sayo Hamatani PhD"
+  },
+  {
+    "paper_id": "QT045",
+    "author_id": "AU_PHD_KS",
+    "position": 3,
+    "is_first_author": false,
+    "raw_name": "Kiko Shiga PhD"
+  },
+  {
+    "paper_id": "QT045",
+    "author_id": "AU_PHD_KI",
+    "position": 4,
+    "is_first_author": false,
+    "raw_name": "Kiyoko Iiboshi PhD"
+  },
+  {
+    "paper_id": "QT045",
+    "author_id": "AU_PHD_MK",
+    "position": 5,
+    "is_first_author": false,
+    "raw_name": "Makiko Kasai PhD"
+  },
+  {
+    "paper_id": "QT046",
+    "author_id": "AU_PSYCHIATRY_C",
+    "position": 1,
+    "is_first_author": true,
+    "raw_name": "Child Psychiatry"
+  },
+  {
+    "paper_id": "QT046",
+    "author_id": "AU__HD",
+    "position": 2,
+    "is_first_author": false,
+    "raw_name": "Human Development () :–"
+  },
+  {
+    "paper_id": "QT049",
+    "author_id": "AU_CHAT_LBCNRTKPHNCĐVCĐHTTKRRTTĐN",
+    "position": 1,
+    "is_first_author": true,
+    "raw_name": "\"Chất lượng bằng chứng nền RẤT THẤP khiến phát hiện này CHƯA ĐỦ vững chắc để hỗ trợ triển khai rộng rãi tại thời điểm này.\""
+  },
+  {
+    "paper_id": "VN001",
+    "author_id": "AU_HOA_PT",
+    "position": 1,
+    "is_first_author": true,
+    "raw_name": "Phạm Thị Thu Hoa"
+  },
+  {
+    "paper_id": "VN001",
+    "author_id": "AU_DO_TT",
+    "position": 2,
+    "is_first_author": false,
+    "raw_name": "Đỗ Thị Trang"
+  },
+  {
+    "paper_id": "VN001",
+    "author_id": "AU_NGUYEN_TL",
+    "position": 3,
+    "is_first_author": false,
+    "raw_name": "Nguyễn Thị Liên"
+  },
+  {
+    "paper_id": "VN001",
+    "author_id": "AU_NGO_AV",
+    "position": 4,
+    "is_first_author": false,
+    "raw_name": "Ngô Anh Vinh"
+  },
+  {
+    "paper_id": "VN002",
+    "author_id": "AU_VU_ML",
+    "position": 1,
+    "is_first_author": true,
+    "raw_name": "Vũ Mạnh Lợi"
+  },
+  {
+    "paper_id": "VN002",
+    "author_id": "AU_NGUYEN_ĐVXHH",
+    "position": 2,
+    "is_first_author": false,
+    "raw_name": "Nguyễn Đức Vinh (Viện Xã hội học"
+  },
+  {
+    "paper_id": "VN002",
+    "author_id": "AU_VASS_X",
+    "position": 3,
+    "is_first_author": false,
+    "raw_name": "VASS)"
+  },
+  {
+    "paper_id": "VN002",
+    "author_id": "AU_DAO_TKHXHHVN",
+    "position": 4,
+    "is_first_author": false,
+    "raw_name": "Đào Thị Khánh Hoa (Hội Xã hội học Việt Nam)"
+  },
+  {
+    "paper_id": "VN003",
+    "author_id": "AU_PHAM_X",
+    "position": 1,
+    "is_first_author": true,
+    "raw_name": "Pham"
+  },
+  {
+    "paper_id": "VN014",
+    "author_id": "AU_STRESS_LO",
+    "position": 1,
+    "is_first_author": true,
+    "raw_name": "Levels of Stress"
+  },
+  {
+    "paper_id": "VN014",
+    "author_id": "AU_ANXIETY_X",
+    "position": 2,
+    "is_first_author": false,
+    "raw_name": "Anxiety"
+  },
+  {
+    "paper_id": "VN015",
+    "author_id": "AU_NGO_AV",
+    "position": 1,
+    "is_first_author": true,
+    "raw_name": "Ngô Anh Vinh"
+  },
+  {
+    "paper_id": "VN015",
+    "author_id": "AU_VU_TMH",
+    "position": 2,
+    "is_first_author": false,
+    "raw_name": "Vũ Thị Mỹ Hạnh"
+  },
+  {
+    "paper_id": "VN015",
+    "author_id": "AU_DO_TBV",
+    "position": 3,
+    "is_first_author": false,
+    "raw_name": "Đỗ Thị Bích Vân"
+  },
+  {
+    "paper_id": "VN015",
+    "author_id": "AU_DUONG_AT",
+    "position": 4,
+    "is_first_author": false,
+    "raw_name": "Dương Anh Tài"
+  },
+  {
+    "paper_id": "VN015",
+    "author_id": "AU_DO_ML",
+    "position": 5,
+    "is_first_author": false,
+    "raw_name": "Đỗ Minh Loan"
+  },
+  {
+    "paper_id": "VN015",
+    "author_id": "AU_LE_TTT",
+    "position": 6,
+    "is_first_author": false,
+    "raw_name": "Lê Thị Thanh Thùy"
+  },
+  {
+    "paper_id": "VN016",
+    "author_id": "AU_NGUYEN_NBQ",
+    "position": 1,
+    "is_first_author": true,
+    "raw_name": "Nguyễn Ngọc Bảo Quyên"
+  },
+  {
+    "paper_id": "VN016",
+    "author_id": "AU_LUU_MĐ",
+    "position": 2,
+    "is_first_author": false,
+    "raw_name": "Lưu Minh Đức"
+  },
+  {
+    "paper_id": "VN016",
+    "author_id": "AU_VU_MT",
+    "position": 3,
+    "is_first_author": false,
+    "raw_name": "Vũ Minh Thy"
+  },
+  {
+    "paper_id": "VN016",
+    "author_id": "AU_NGUYEN_YM",
+    "position": 4,
+    "is_first_author": false,
+    "raw_name": "Nguyễn Yến Minh"
+  },
+  {
+    "paper_id": "VN016",
+    "author_id": "AU_NGUYEN_CA",
+    "position": 5,
+    "is_first_author": false,
+    "raw_name": "Nguyễn Châu Anh"
+  },
+  {
+    "paper_id": "VN016",
+    "author_id": "AU_HOANG_LV",
+    "position": 6,
+    "is_first_author": false,
+    "raw_name": "Hoàng Lan Vân"
+  },
+  {
+    "paper_id": "VN016",
+    "author_id": "AU_GIAP_TTT",
+    "position": 7,
+    "is_first_author": false,
+    "raw_name": "Giáp Thị Thanh Tình"
+  },
+  {
+    "paper_id": "VN019",
+    "author_id": "AU_HO_TTQ",
+    "position": 1,
+    "is_first_author": true,
+    "raw_name": "Hồ Thị Trúc Quỳnh"
+  },
+  {
+    "paper_id": "VN020",
+    "author_id": "AU_TRAN_HVL",
+    "position": 1,
+    "is_first_author": true,
+    "raw_name": "Trần Hồ Vĩnh Lộc"
+  },
+  {
+    "paper_id": "VN020",
+    "author_id": "AU_HUYNH_NVA",
+    "position": 2,
+    "is_first_author": false,
+    "raw_name": "Huỳnh Ngọc Vân Anh"
+  },
+  {
+    "paper_id": "VN020",
+    "author_id": "AU_TO_GK",
+    "position": 3,
+    "is_first_author": false,
+    "raw_name": "Tô Gia Kiên"
+  },
+  {
+    "paper_id": "VN021",
+    "author_id": "AU_TRAN_TV",
+    "position": 1,
+    "is_first_author": true,
+    "raw_name": "Thao Vi Tran"
+  },
+  {
+    "paper_id": "VN021",
+    "author_id": "AU_HOANG_TLN",
+    "position": 2,
+    "is_first_author": false,
+    "raw_name": "Hoang Thuy Linh Nguyen"
+  },
+  {
+    "paper_id": "VN021",
+    "author_id": "AU_TRAN_XMT",
+    "position": 3,
+    "is_first_author": false,
+    "raw_name": "Xuan Minh Tri Tran"
+  },
+  {
+    "paper_id": "VN021",
+    "author_id": "AU_TASHIRO_Y",
+    "position": 4,
+    "is_first_author": false,
+    "raw_name": "Yuri Tashiro"
+  },
+  {
+    "paper_id": "VN021",
+    "author_id": "AU_SEINO_K",
+    "position": 5,
+    "is_first_author": false,
+    "raw_name": "Kaoruko Seino"
+  },
+  {
+    "paper_id": "VN021",
+    "author_id": "AU_VO_TV",
+    "position": 6,
+    "is_first_author": false,
+    "raw_name": "Thang Van Vo"
+  },
+  {
+    "paper_id": "VN021",
+    "author_id": "AU_NAKAMURA_K",
+    "position": 7,
+    "is_first_author": false,
+    "raw_name": "Keiko Nakamura"
+  },
+  {
+    "paper_id": "VN023",
+    "author_id": "AU_NGUYEN_HV",
+    "position": 1,
+    "is_first_author": true,
+    "raw_name": "Hieu Van Nguyen"
+  },
+  {
+    "paper_id": "VN023",
+    "author_id": "AU_PHDC_X",
+    "position": 2,
+    "is_first_author": false,
+    "raw_name": "PhDc"
+  },
+  {
+    "paper_id": "VN023",
+    "author_id": "AU_NGUYEN_LTM",
+    "position": 3,
+    "is_first_author": false,
+    "raw_name": "Lan Thi Mai Nguyen"
+  },
+  {
+    "paper_id": "VN023",
+    "author_id": "AU_PHDD_X",
+    "position": 4,
+    "is_first_author": false,
+    "raw_name": "PhDd"
+  },
+  {
+    "paper_id": "VN023",
+    "author_id": "AU_NGUYEN_PT",
+    "position": 5,
+    "is_first_author": false,
+    "raw_name": "Phuong Thi Nguyen"
+  },
+  {
+    "paper_id": "VN023",
+    "author_id": "AU_MSA_X",
+    "position": 6,
+    "is_first_author": false,
+    "raw_name": "MSa"
+  },
+  {
+    "paper_id": "VN023",
+    "author_id": "AU_NGUYEN_TT",
+    "position": 7,
+    "is_first_author": false,
+    "raw_name": "Thang Thi Nguyen"
+  },
+  {
+    "paper_id": "VN023",
+    "author_id": "AU_PHDA_X",
+    "position": 8,
+    "is_first_author": false,
+    "raw_name": "PhDa"
+  },
+  {
+    "paper_id": "VN024",
+    "author_id": "AU_NGUYEN_TT",
+    "position": 1,
+    "is_first_author": true,
+    "raw_name": "Nguyễn Thanh Truyền"
+  },
+  {
+    "paper_id": "VN025",
+    "author_id": "AU_PHAM_TN",
+    "position": 1,
+    "is_first_author": true,
+    "raw_name": "Phạm Thị Ngọc"
+  },
+  {
+    "paper_id": "VN025",
+    "author_id": "AU_HOANG_TG",
+    "position": 2,
+    "is_first_author": false,
+    "raw_name": "Hoàng Thị Giang"
+  },
+  {
+    "paper_id": "VN025",
+    "author_id": "AU_PHAM_KL",
+    "position": 3,
+    "is_first_author": false,
+    "raw_name": "Phạm Khánh Linh"
+  },
+  {
+    "paper_id": "VN025",
+    "author_id": "AU_VU_TC",
+    "position": 4,
+    "is_first_author": false,
+    "raw_name": "Vũ Thị Châu"
+  },
+  {
+    "paper_id": "VN026",
+    "author_id": "AU_SINH_CTC",
+    "position": 1,
+    "is_first_author": true,
+    "raw_name": "sinh có trầm cảm"
+  },
+  {
+    "paper_id": "VN026",
+    "author_id": "AU_LO_Â",
+    "position": 2,
+    "is_first_author": false,
+    "raw_name": "lo âu"
+  },
+  {
+    "paper_id": "VN026",
+    "author_id": "AU_STRESS_TĐBTPTA",
+    "position": 3,
+    "is_first_author": false,
+    "raw_name": "stress trên địa bàn thành phố Tân An"
+  },
+  {
+    "paper_id": "VN026",
+    "author_id": "AU_TINH_LALL",
+    "position": 4,
+    "is_first_author": false,
+    "raw_name": "tỉnh Long An lần lượt"
+  },
+  {
+    "paper_id": "VN027",
+    "author_id": "AU_DINH_X",
+    "position": 1,
+    "is_first_author": true,
+    "raw_name": "Dinh"
+  },
+  {
+    "paper_id": "VN028",
+    "author_id": "AU_DAO_TN",
+    "position": 1,
+    "is_first_author": true,
+    "raw_name": "Đào Thị Ngoãn"
+  },
+  {
+    "paper_id": "VN029",
+    "author_id": "AU_THAI_TT",
+    "position": 1,
+    "is_first_author": true,
+    "raw_name": "Truc Thanh Thai"
+  },
+  {
+    "paper_id": "VN029",
+    "author_id": "AU_DUONG_MC",
+    "position": 2,
+    "is_first_author": false,
+    "raw_name": "Minh Cuong Duong"
+  },
+  {
+    "paper_id": "VN030",
+    "author_id": "AU_MONASHQUTHUPH_HCUIVHỨN",
+    "position": 1,
+    "is_first_author": true,
+    "raw_name": "Monash–QUT–HUPH. Hạn chế: universal intervention với hiệu ứng nhỏ (d = 0"
+  },
+  {
+    "paper_id": "VN030",
+    "author_id": "AU_KHONG_ĐLÂR",
+    "position": 3,
+    "is_first_author": false,
+    "raw_name": "không đo lo âu riêng"
+  },
+  {
+    "paper_id": "VN030",
+    "author_id": "AU_KHONG_RPTDTMBCCTVTN",
+    "position": 4,
+    "is_first_author": false,
+    "raw_name": "không randomized. PHẢI trích dẫn trong mọi báo cáo can thiệp VN từ nay"
+  }
+]

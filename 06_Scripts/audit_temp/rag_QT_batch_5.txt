@@ -1,0 +1,173 @@
+============================================================
+[QT036] RAG SUMMARY:
+Tóm tắt bài QT-36
+Tên công trình, tác giả, năm, mẫu khảo sát, đối tượng, khách thể, địa bàn khảo sát
+Công trình « Các yếu tố nguy cơ chính của GAD ở VTN: Nghiên cứu học máy » (Key risk factors of GAD in adolescents: machine learning study), do Yonghwan Moon và Hyekyung Woo (2025), ĐH Quốc gia Kongju, Hàn Quốc, phân tích 213.820 VTN Hàn Quốc (KYRBS 2020–2023; THCS 53,8% + THPT 46,2%). Frontiers in Public Health, 2025. DOI: 10.3389/fpubh.2024.1504739.
+Phương pháp nghiên cứu
+Sử dụng Machine Learning (LASSO, SelectKBest, XGBoost) để chọn đặc trưng + Random Forest và ANN để dự đoán GAD (GAD-7 ≥ 10). Nói cách khác, đây là NC ĐẦU TIÊN dùng ML đa phương pháp để xác định yếu tố nguy cơ GAD riêng ở VTN — không dùng hồi quy truyền thống.
+KYRBS (Korea Youth Risk Behavior Web-based Survey) 2020–2023, quản lý bởi KDCA. n = 213.820 VTN. THCS 53,8% + THPT 46,2%. Phân tích: 3 thuật toán chọn đặc trưng × 2 mô hình dự đoán = 6 tổ hợp. SMOTE xử lý mất cân bằng.
+Kết quả nghiên cứu định lượng
+Bảng 1. Top yếu tố nguy cơ GAD (ML, n = 213.820)
+Bảng 2. Hiệu suất mô hình (RF + XGBoost features)
+Đối chiếu liên bài
+Cô đơn hạng 1 — phù hợp Ireland 2024 (QT32, OGA bảo vệ), Islam 2025 (QT31, không bạn thân AOR=1,28). Giấc ngủ — phù hợp Zhu 2025 (QT05, <5h AOR=13,71). GAD-7 — phù hợp Hoa 2024 (VN01, 40,6% nhưng ≥5). ML trên KYRBS — phù hợp Korea 2024 (QT34, KYRBS 16 năm).
+Nhận xét, phát hiện qua kết quả nghiên cứu
+*Cô đơn vượt trội stress.* Gợi ý: can thiệp GIẢM CÔ ĐƠN (kết nối bạn bè, mentor/OGA) có thể hiệu quả hơn can thiệp stress đơn thuần. *Hành vi sức khỏe (giấc ngủ, hút thuốc, dinh dưỡng) — CAN THIỆP ĐƯỢC.* *ML phát hiện quan hệ phi tuyến* mà hồi quy truyền thống bỏ sót.
+Kết luận
+Dữ liệu 213.820 VTN Hàn Quốc với ML, cho thấy cô đơn là yếu tố mạnh nhất liên quan GAD (F=16.646), tiếp theo stress và sức khỏe chủ quan, gợi ý rằng chiến lược giảm cô đơn (kết nối bạn bè, mentor) + cải thiện giấc ngủ + phòng hút thuốc là ưu tiên can thiệp phòng ngừa GAD ở VTN.
+Phản biện
+Frontiers Q1 IF=5,2. ML đa phương pháp, n=213.820, GAD-7 riêng. Nhưng: chỉ Hàn Quốc, cắt ngang, SMOTE overfitting, sensitivity 64%, thiếu MXH/áp lực HT/ACEs.
+Hướng NC tiếp theo
+ML trên dữ liệu VN (V-NAMHS, GSHS). So sánh KYRBS vs GSHS VN. NC cô đơn ở VTN VN. Kết hợp ML + NC dọc (Hue Cohort VN21).
+Đánh giá: ⭐⭐⭐⭐ Cao. Frontiers Q1, ML mới, n=213.820, GAD-7 riêng, phát hiện cô đơn hạng 1.
+Hạng | Yếu tố | LASSO | F-score | XGBoost | Ý nghĩa
+1 | Cô đơn | 0,23 | 16.646 | 0,29 | MẠNH NHẤT — cả 3 thuật toán
+2 | Stress | 0,10 | 6.589 | 0,07 | Nhất quán
+3 | Sức khỏe chủ quan kém | 0,12 | 6.782 | 0,04
+4 | Giấc ngủ phục hồi kém | 0,10 | 5.081 | 0,02 | Zhu 2025 QT05: AOR=13,71
+5 | Bạo lực | 0,10 | 5.117 | 0,01 | VN15: ACEs→lo âu
+Chỉ số | Giá trị | Ý nghĩa
+Accuracy | 78%
+AUC | 82% | Tốt
+Sensitivity | 64% | Trung bình — 36% bỏ sót
+Prevalence GAD | 17,9% | GAD-7 ≥ 10
+
+============================================================
+[QT038] RAG SUMMARY:
+Tóm tắt bài QT38 — Cluster RCT can thiệp CBT tại trường ở Sri Lanka
+Tên công trình, tác giả, năm, mẫu khảo sát, đối tượng, khách thể, địa bàn khảo sát
+"Effectiveness of a cognitive behavioural therapy (CBT)-based intervention for reducing anxiety among adolescents in the Colombo District, Sri Lanka: A cluster randomised controlled trial" của De Silva, S. và cộng sự (2024), đăng trên Child and Adolescent Psychiatry and Mental Health vol. 18, article 108, tr. 1–12 (Q1, IF ≈ 4,0). DOI 10.1186/s13034-024-00799-9. Open Access. Mẫu: 720 học sinh lớp 9 (~ 14 tuổi) tại 36 trường THCS khu vực Colombo, Sri Lanka. Đây là một trong số ít cluster RCT về can thiệp CBT trường tại các nước LMIC Nam Á.
+Phương pháp nghiên cứu
+Thiết kế cluster RCT — phân ngẫu nhiên TRƯỜNG học (không phải học sinh): 18 trường can thiệp + 18 trường đối chứng. Mỗi nhánh 360 học sinh, tổng cộng 720 học sinh lớp 9. Can thiệp gồm 8 phiên CBT mỗi tuần, 40 phút/phiên, do GIÁO VIÊN cung cấp sau khi được đào tạo. Chương trình bao gồm tâm lý giáo dục, kỹ thuật thở, tái cấu trúc nhận thức, kỹ năng giải quyết vấn đề và kỹ năng đối phó. Theo dõi 3 tháng sau can thiệp.
+Kết quả nghiên cứu
+Tỷ lệ mất mẫu < 1 % — tuân thủ rất cao, chứng tỏ tính khả thi của mô hình. Lo âu giảm có ý nghĩa thống kê sau 3 tháng: β = −0,096 (KTC 95 %: −0,186 đến −0,005, p = 0,038). Tự trọng (self-esteem) tăng có ý nghĩa: β = +0,811 sau can thiệp.
+Phản biện
+Sri Lanka là quốc gia LMIC Nam Á — bối cảnh nguồn lực hạn chế tương tự Việt Nam. Cluster RCT là thiết kế MẠNH NHẤT cho can thiệp trường học. Mô hình "GV cung cấp CBT" rẻ tiền, có thể nhân rộng — đây là MÔ HÌNH KHẢ THI nhất cho VN trong số tất cả các nghiên cứu được tổng hợp. Hạn chế: chỉ 1 quận (Colombo District), beta lo âu nhỏ (−0,096) mặc dù p < 0,05 — hiệu lực lâm sàng cần đánh giá thêm. Theo dõi chỉ 3 tháng — chưa rõ duy trì lâu dài.
+Hướng nghiên cứu tiếp theo
+Cần lặp lại tại Việt Nam với cluster RCT tương tự — đào tạo giáo viên cố vấn tâm lý hoặc giáo viên môn tâm lý. Theo dõi 6, 12 tháng để đánh giá duy trì. Mở rộng đa vùng (đô thị, nông thôn, dân tộc thiểu số). So sánh GV vs chuyên gia tâm lý cung cấp can thiệp.
+Đánh giá chất lượng: ⭐⭐⭐⭐⭐ Rất cao. Cluster RCT 720 HS, Q1, mô hình khả thi cho LMIC.
+Kết quả | Beta | KTC 95 % | p
+Lo âu giảm | −0,096 | −0,186 đến −0,005 | 0,038
+Tự trọng tăng | +0,811 | — | < 0,01
+Mất mẫu | < 1 % | — | —
+
+============================================================
+[QT039] RAG SUMMARY:
+Tóm tắt bài QT39 — Network Meta-Analysis can thiệp tâm lý cho lo âu xã hội
+Tên công trình, tác giả, năm, mẫu khảo sát, đối tượng, khách thể, địa bàn khảo sát
+"Psychological interventions for social anxiety disorder in children and adolescents: A systematic review and network meta-analysis" của Xian, J., Zhang, Y. & Jiang, B. (2024), đăng trên Journal of Affective Disorders vol. 365, tr. 614–627 (Q1, IF ≈ 6,6). DOI 10.1016/j.jad.2024.08.097. PROSPERO CRD42023476829. Phân tích tổng hợp 30 RCT với 1.547 trẻ em và vị thành niên có rối loạn lo âu xã hội (SAD), so sánh 9 liệu pháp tâm lý + 3 nhóm đối chứng.
+Phương pháp nghiên cứu
+Tìm kiếm hệ thống PubMed, Embase, Cochrane, Web of Science. Chỉ chọn RCT. NMA Bayesian sử dụng R Studio. Đánh giá chất lượng bằng GRADE. So sánh xếp hạng các can thiệp bằng chỉ số SUCRA (Surface Under the Cumulative Ranking Curve). Tổng cộng 30 RCT được đưa vào phân tích cuối cùng.
+Kết quả nghiên cứu
+iCBT (CBT qua internet) đứng HẠNG 1 với SUCRA = 71,2 % — bằng chứng mạnh nhất cho can thiệp SAD ở VTN. gCBT (CBT nhóm) đứng hạng 2 với SUCRA = 68,4 %. Hai phát hiện phụ quan trọng: (1) iCBT cho hiệu quả tốt nhất với TRẦM CẢM kèm theo (SUCRA 92,2 % — "hai trong một"); (2) gCBT xếp hạng 1 cho cải thiện CHỨC NĂNG xã hội (SUCRA 89,6 %). Như vậy, kết hợp iCBT (giảm triệu chứng) với gCBT (phục hồi chức năng) có thể là chiến lược tối ưu.
+Phản biện
+NMA cho phép so sánh GIÁN TIẾP tất cả can thiệp — bằng chứng MẠNH NHẤT về xếp hạng có thể thu được không cần thử nghiệm head-to-head. iCBT hạng 1 cho SAD — nên ưu tiên phát triển app tiếng Việt. gCBT hạng 2 nhưng có ưu thế đặc biệt cho phục hồi chức năng — phù hợp triển khai ở trường. Hạn chế: chỉ tập trung SAD (không phải GAD); 30 RCT chủ yếu từ phương Tây và Đông Á phát triển (Trung Quốc, Hàn Quốc, Nhật Bản); 0 RCT từ các nước LMIC ASEAN.
+Hướng nghiên cứu tiếp theo
+Phát triển app iCBT tiếng Việt cho SAD — phù hợp xếp hạng số 1. Thử nghiệm gCBT nhóm tại trường THCS/THPT Việt Nam. RCT đối đầu giữa các can thiệp top 3 trong bối cảnh LMIC. Mở rộng NMA cho GAD và các rối loạn lo âu khác.
+Đánh giá chất lượng: ⭐⭐⭐⭐⭐ Rất cao. NMA 30 RCT Q1, định hướng can thiệp SAD cho VTN.
+Hạng | Liệu pháp | SUCRA (%) | Đặc điểm
+1 | iCBT (internet CBT) | 71,2 | Tự học online + hướng dẫn
+2 | gCBT (CBT nhóm) | 68,4 | Nhóm 6–12 HS, 8–16 tuần — KHẢ THI nhất
+3 | I-CBT (CBT cá nhân) | 66,0 | Tốn chuyên gia — khó cho LMIC
+4 | SET-C | ~ 60 | Kỹ năng XH + phơi nhiễm
+5 | IPT | ~ 55 | Liệu pháp giữa cá nhân
+— | WL/NT/PBO | < 20 | Đối chứng
+
+============================================================
+[QT040] RAG SUMMARY:
+Tóm tắt bài QT40 — Meta-analysis Can thiệp Sức khoẻ Tâm thần Số (DMHI) cho lo âu xã hội
+Tên công trình, tác giả, năm, mẫu khảo sát, đối tượng, khách thể, địa bàn khảo sát
+"Digital mental health interventions for prevention and treatment of social anxiety disorder in children, adolescents and young adults: Systematic review and meta-analysis" của Walder, N., Frey, A., Berger, T. và cộng sự (2025), đăng trên Journal of Medical Internet Research (JMIR — Q1, IF ≈ 7,4). DOI 10.2196/preprints.67067. PROSPERO CRD42023424181. Phân tích tổng hợp 21 RCT về DMHI cho rối loạn lo âu xã hội (SAD) ở trẻ em, vị thành niên và thanh niên (TB < 25 tuổi).
+Phương pháp nghiên cứu
+Tìm kiếm hệ thống RCT đánh giá DMHI (internet, app, VR) cho lo âu xã hội ở người trẻ. 2 tác giả độc lập sàng lọc, trích xuất, đánh giá thiên lệch. Random-effects meta-analysis sử dụng Hedges g. Phân tích phụ theo: nền tảng (CBT vs khác), thiết kế (SAD-specific vs tổng quát), có hướng dẫn người vs tự học, đối chứng (WL vs khác).
+Kết quả nghiên cứu
+DMHI có hiệu lực TRUNG BÌNH so với bất kỳ đối chứng nào (g = 0,508; KTC 95 %: 0,308–0,707). Hai phát hiện cốt lõi: (1) DMHI thiết kế ĐẶC THÙ cho SAD có hiệu lực LỚN NHẤT (g = 0,878), gần gấp đôi DMHI tổng quát; (2) DMHI có HƯỚNG DẪN người (g = 0,825) hiệu lực gần gấp đôi DMHI không hướng dẫn (g ≈ 0,3–0,4).
+Phản biện
+Đây là bằng chứng MẠNH NHẤT về DMHI / iCBT cho SAD ở trẻ và VTN trong toàn bộ tài liệu. JMIR Q1 IF ≈ 7,4. PROSPERO tiền đăng ký. Two-key takeaways có ý nghĩa thực hành rõ ràng: app phải SAD-specific + có hỗ trợ người. Hạn chế: chủ yếu các RCT từ phương Tây + Đông Á phát triển; ít dữ liệu LMIC; định nghĩa "guided" rất khác nhau giữa các nghiên cứu (chat, email, video); chưa rõ liều tối ưu (số tuần, số module).
+Hướng nghiên cứu tiếp theo
+Phát triển app iCBT tiếng Việt cho SAD với hỗ trợ chat người, dựa trên hai điều kiện cốt lõi của Walder. So sánh mức độ guided khác nhau (chat thường vs định kỳ vs sự kiện). RCT VN cho HS THCS/THPT với app này.
+Đánh giá chất lượng: ⭐⭐⭐⭐⭐ Rất cao. MA 21 RCT, JMIR Q1, định hướng phát triển app.
+Phân nhóm | Hedges g | KTC 95 % | Ý nghĩa
+DMHI vs đối chứng tổng | 0,508 | 0,308–0,707 | TRUNG BÌNH
+DMHI vs danh sách chờ | 0,576 | 0,343–0,809 | Mạnh hơn vs WL
+DMHI nền CBT | 0,610 | 0,361–0,859 | CBT nền tảng tốt
+DMHI có hướng dẫn | 0,825 | 0,425–1,224 | LỚN — quan trọng
+DMHI thiết kế SAD-specific | 0,878 | 0,469–1,278 | LỚN NHẤT
+DMHI không hướng dẫn | ~ 0,3–0,4 | — | Nhỏ — kém hiệu quả
+
+============================================================
+[QT041] RAG SUMMARY:
+Tóm tắt bài QT41 — Tác động MXH, căng thẳng học tập, giấc ngủ lên lo âu (mô hình trung gian)
+Tên công trình, tác giả, năm, mẫu khảo sát, đối tượng, khách thể, địa bàn khảo sát
+"The Effects of Social Media Addiction, Academic Stress, and Sleep Quality on Anxiety Symptoms: A Cross-Sectional Study of Chinese Vocational Students" của Zheng, G.F. & Peng, H.Y. (2025), đăng trên Psychology Research and Behavior Management vol. 18, tr. 1571–1584. DOI 10.2147/PRBM.S522652. Open Access. Mẫu: 469 học sinh trường nghề 12–18 tuổi tại Quảng Đông, Trung Quốc.
+Phương pháp nghiên cứu
+Cắt ngang với phân tích trung gian (mediation analysis). Công cụ: SMAS (Social Media Addiction Scale 6 mục), Academic Stress Scale 16 mục, PSQI (Pittsburgh Sleep Quality Index), GAD-7 (lo âu), GSES (General Self-Efficacy Scale). Mô hình tam giác: MXH + áp lực HT + giấc ngủ → triệu chứng lo âu, với self-efficacy là biến TRUNG GIAN.
+Kết quả nghiên cứu
+Tương quan trực tiếp với lo âu: giấc ngủ kém r = 0,816 (MẠNH NHẤT), áp lực HT r = 0,505, MXH r = 0,415. Hồi quy đa biến: giấc ngủ β = 0,615 (mạnh nhất), áp lực β = 0,223, MXH β = 0,153. PHÁT HIỆN QUAN TRỌNG: self-efficacy là biến TRUNG GIAN — MXH gián tiếp 63,13 % tổng tác động (chủ yếu qua self-efficacy, không trực tiếp); áp lực 55,84 %; giấc ngủ 24,63 %.
+Phản biện
+Mô hình tam giác đo CẢ 3 yếu tố — ít NC nào làm được. Phân tích trung gian phát hiện CƠ CHẾ rõ ràng: MXH ảnh hưởng lo âu CHỦ YẾU qua giảm self-efficacy, không trực tiếp. Phù hợp Zhu QT05 (giấc ngủ < 5h AOR = 13,71). GAD-7 cùng công cụ với Hoa 2024 và A8 VN COVID. Hạn chế: HS nghề (ít được nghiên cứu), 1 tỉnh, cắt ngang.
+Hướng nghiên cứu tiếp theo
+Lặp lại với HS phổ thông VN. Nghiên cứu dọc kiểm tra hướng nhân quả. Can thiệp tăng self-efficacy như đường dẫn để giảm tác động xấu của MXH.
+Đánh giá chất lượng: ⭐⭐⭐⭐ Cao. Mediation rõ ràng, phát hiện cơ chế quan trọng.
+Yếu tố | r với lo âu | β hồi quy | % gián tiếp qua self-efficacy
+Giấc ngủ kém (PSQI) | 0,816 | 0,615 | 24,63 %
+Áp lực học tập | 0,505 | 0,223 | 55,84 %
+MXH (SMAS) | 0,415 | 0,153 | 63,13 %
+
+============================================================
+[QT042] RAG SUMMARY:
+Tóm tắt bài QT42 — Editorial UK về can thiệp tại trường cho trầm cảm và lo âu
+Tên công trình, tác giả, năm, mẫu khảo sát, đối tượng, khách thể, địa bàn khảo sát
+"School-based interventions for depression and anxiety in UK" của Brown, J.S.L. & Carter, B. (2025), đăng trên Journal of Mental Health vol. 34(4), tr. 357–361 (Q1, IF ≈ 3,5). DOI 10.1080/09638237.2025.2512332. Đây là editorial từ chuyên gia hàng đầu UK về can thiệp tâm lý cộng đồng — June S.L. Brown.
+Phương pháp nghiên cứu
+Editorial / commentary tổng hợp bằng chứng từ nhiều RCT và mô hình can thiệp tại trường ở Anh quốc. Phân loại 4 mô hình: phổ quát mindfulness, BESST CBT self-referral, MHST (Mental Health Support Teams), và PLACES self-referral. So sánh hiệu quả + bài học triển khai.
+Kết quả nghiên cứu
+Tổng hợp 4 mô hình can thiệp tại trường UK với các phát hiện then chốt:
+Năm bài học từ Editorial: (1) Universal MINDFULNESS thất bại do engagement thấp ở HS; (2) TARGETED CBT (HS có triệu chứng tự đăng ký) thành công; (3) Chuyên gia lâm sàng > GV về hiệu quả, nhưng cả hai đều khả thi; (4) Co-design (cho HS tham gia thiết kế) tăng engagement; (5) Ngôn ngữ THƯỜNG NGÀY ("căng thẳng" thay "trầm cảm") giảm kỳ thị.
+Phản biện
+Editorial — không phải SR/MA gốc. Ý kiến chuyên gia + tổng hợp bằng chứng. Tuy nhiên cung cấp khung phân loại rất hữu ích. Cảnh báo về universal interventions là QUAN TRỌNG cho thiết kế đề cương Việt Nam. Phù hợp với Zhang, Liang & Kang 2026 (Bayesian MA — universal CBT hiệu ứng nhỏ). Hạn chế: chỉ UK (NHS context), khác bối cảnh LMIC.
+Hướng nghiên cứu tiếp theo
+Áp dụng mô hình BESST (targeted + self-referral) cho VN — RCT thử nghiệm. Adapt PLACES language giảm kỳ thị tiếng Việt. So sánh chuyên gia vs GV cung cấp CBT trong bối cảnh VN.
+Đánh giá chất lượng: ⭐⭐⭐⭐ Cao. Editorial Q1, khung phân loại + bài học rõ ràng cho thiết kế.
+Mô hình | Người cung cấp | Hiệu quả | Bằng chứng
+Mindfulness phổ quát | Giáo viên | THẤT BẠI | 8.376 HS / 85 trường (Kuyken 2022)
+BESST (CBT self-referral) | Chuyên gia tâm lý | DƯƠNG TÍNH | 900 HS / 57 trường (Brown 2024)
+MHST (Mental Health Support Team) | Thạc sĩ trị liệu | HỨA HẸN | Mới triển khai NHS UK
+PLACES (self-referral) | Đa cấp | HỨA HẸN | Dùng từ thường ngày, giảm kỳ thị
+
+============================================================
+[QT043] RAG SUMMARY:
+Tóm tắt bài QT43 — RCT ứng dụng Maya (CBT-app) cho lo âu VTN
+Tên công trình, tác giả, năm, mẫu khảo sát, đối tượng, khách thể, địa bàn khảo sát
+"Efficacy of a Mobile App-Based Intervention for Young Adults With Anxiety Disorders: A Randomized Clinical Trial" của Bress, J.N., Falk, A., Schier, M.M. và cộng sự (2024), đăng trên JAMA Network Open vol. 7(8), e2428372 (Q1, IF ≈ 13,8). DOI 10.1001/jamanetworkopen.2024.28372. ClinicalTrials.gov NCT05130281. Đối tượng: 59 thanh niên 18–25 tuổi có rối loạn lo âu (GAD 56 %, SAD 41 %), tuyển qua quảng cáo trực tuyến.
+Phương pháp nghiên cứu
+RCT 3 nhánh khuyến khích dựa trên tin nhắn (gain-frame, loss-frame, social support). Can thiệp: ứng dụng Maya — CBT tự hướng dẫn 12 phiên / 6 tuần. Đo lường: HAM-A (chính), ASI, LSAS, HDRS-24, uMARS. Theo dõi đến tuần 12. Phân tích linear mixed-effects model, intention-to-treat (ITT). Tuân thủ CONSORT.
+Kết quả nghiên cứu
+Lo âu giảm có ý nghĩa thống kê và HIỆU LỰC TĂNG theo thời gian:
+Trên các thang đo phụ: ASI (anxiety sensitivity) Cohen d = 0,93 (tuần 6); LSAS (lo âu xã hội) d = 1,07 (tuần 12). Giả thuyết chính (gain-frame + social support hiệu quả nhất) KHÔNG được ủng hộ — cả 3 nhánh đều cho hiệu quả tương đương, gợi ý rằng chính bản thân app CBT là yếu tố then chốt.
+Phản biện
+JAMA Network Open Q1 IF ≈ 13,8 — bằng chứng chất lượng cực cao. RCT đăng ký pre-registered. Hiệu lực Cohen d = 1,04 là RẤT LỚN cho can thiệp app — gần như tương đương CBT mặt đối mặt. Hạn chế: (1) đối tượng 18–25 tuổi (THANH NIÊN), không phải VTN học sinh — cần kiểm chứng ở tuổi nhỏ hơn; (2) tuyển mộ qua quảng cáo trực tuyến → mẫu tự chọn cao, có động lực sẵn → kết quả có thể không generalizable cho dân số chung; (3) cỡ mẫu n = 59 không quá lớn.
+Hướng nghiên cứu tiếp theo
+Adapt Maya cho HS THCS/THPT với UI/UX phù hợp tuổi nhỏ. RCT VN cho VTN cấp 3 + sinh viên năm 1. Phát triển phiên bản tiếng Việt với hỗ trợ chat người (theo Walder 2025).
+Đánh giá chất lượng: ⭐⭐⭐⭐⭐ Rất cao. RCT JAMA Q1, hiệu lực Cohen d = 1,04 cho mobile app CBT.
+Thời điểm | Chênh lệch HAM-A | KTC 95 % | Cohen's d | p
+Tuần 3 (giữa) | −3,20 | −4,76 đến −1,64 | 0,64 (TB) | < 0,001
+Tuần 6 (kết thúc) | −5,64 | −7,23 đến −4,05 | 0,94 (LỚN) | < 0,001
+Tuần 12 (theo dõi) | −5,67 | −7,29 đến −4,04 | 1,04 (RẤT LỚN) | < 0,001
+
+============================================================
+[QT044] RAG SUMMARY:
+Tóm tắt bài QT44 — SR + MA can thiệp resilience tại trường
+Tên công trình, tác giả, năm, mẫu khảo sát, đối tượng, khách thể, địa bàn khảo sát
+"School-based interventions for resilience in children and adolescents: a systematic review and meta-analysis of randomized controlled trials" của Chenyi Cai, Zhengyang Mei, Zirui Wang, Shi Luo (2025), đăng trên Frontiers in Psychiatry vol. 16, article 1594658, tr. 1–15. DOI 10.3389/fpsyt.2025.1594658. Q1, IF ≈ 4,7. Open Access. Đơn vị: School of Physical Education, Southwest University, Chongqing, China (tác giả chính Chenyi Cai). Tổng quan hệ thống và phân tích tổng hợp các RCT về can thiệp khả năng phục hồi (resilience) tại trường cho trẻ em + vị thành niên. LƯU Ý: tác giả chính là Cai (không phải Cao) theo Pinyin của 蔡 (họ Cai).
+Phương pháp nghiên cứu
+Tìm kiếm hệ thống các RCT trên PubMed, Web of Science, APA PsycINFO, Google Scholar về can thiệp resilience tại trường. Đánh giá chất lượng bằng Cochrane Risk of Bias tool (RoB 2) cho RCT. Random-effects meta-analysis. Sử dụng Standardized Mean Difference (SMD; Cohen d) với KTC 95 % để tổng hợp hiệu ứng.
+Resilience = khả năng thích ứng tốt trước nghịch cảnh, căng thẳng hoặc sang chấn. Khác CBT (giảm triệu chứng) — tăng yếu tố BẢO VỆ: tự trọng, kỹ năng ứng phó, kết nối xã hội, lạc quan.
+Kết quả nghiên cứu
+Các nghiên cứu được thực hiện tại nhiều quốc gia: Mỹ (n = 10), Trung Quốc (n = 9), Úc (n = 4), Pakistan (n = 2), Ấn Độ (n = 2) và các nước khác — bằng chứng từ nhiều văn hoá khác nhau.
+Can thiệp resilience tại trường CÓ HIỆU QUẢ tăng resilience và giảm triệu chứng SKTT ở trẻ em/VTN. Tuy nhiên, kích thước hiệu ứng NHỎ–TRUNG BÌNH và heterogeneity CAO. Nghĩa là: hiệu quả tồn tại nhưng không lớn, và có sự khác biệt đáng kể giữa các nghiên cứu (do khác biệt thiết kế, mẫu, văn hoá).
+Phản biện
+Frontiers in Psychiatry Q1 IF ≈ 4,7, Open Access PMC. SR + MA RCTs — bằng chứng tốt. Resilience là yếu tố BẢO VỆ — bổ sung cho CBT, không thay thế. Phù hợp với Trần Thảo Vi 2025 (lạc quan trung gian, β = −0,24) và Ireland MyWorld 2024 (resilience + tự trọng quan trọng tăng theo thời gian). Đa dạng địa lý (Mỹ, Trung, Úc, Pakistan, Ấn) bao phủ nhiều văn hoá — có 9 RCT từ Trung Quốc nên bối cảnh Á Đông khá đầy đủ. Hạn chế: hiệu lực nhỏ–TB; heterogeneity cao; chưa có NC từ Việt Nam hoặc ĐNA.
+Hướng nghiên cứu tiếp theo
+Phát triển module resilience tích hợp vào can thiệp CBT trường VN. RCT VN cho VTN có yếu tố nguy cơ cao. Thiết kế đo cả triệu chứng (CBT) lẫn nguồn lực bảo vệ (resilience).
+Đánh giá chất lượng: ⭐⭐⭐⭐ Cao. SR+MA Q1, định hướng module bổ trợ.

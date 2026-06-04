@@ -1,0 +1,4 @@
+Errors found: 2
+======================================================================
+1. [LA] scale/"SAS-SV" >= 5 lần | count=2
+2. [LA] scale/"Brief COPE" >= 5 lần | count=1

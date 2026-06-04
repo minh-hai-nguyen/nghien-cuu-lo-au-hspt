@@ -1,0 +1,140 @@
+============================================================
+[QT045] RAG SUMMARY:
+Tóm tắt bài QT45 — RCT iCBT đa trung tâm cho subthreshold SAD tại Nhật Bản
+Tên công trình, tác giả, năm, mẫu khảo sát, đối tượng, khách thể, địa bàn khảo sát
+"Effectiveness of Unguided Internet-Based Cognitive Behavioral Therapy for Subthreshold Social Anxiety Disorder in Adolescents and Young Adults: Multicenter Randomized Controlled Trial" của Matsumoto, K. và cộng sự (2024), đăng trên JMIR Pediatrics and Parenting vol. 7, e55786, tr. 1–13. DOI 10.2196/55786. UMIN-CTR UMIN000050064 (LƯU Ý: ID chính xác là 000050064, không phải 000049768). Đối tượng: 77 học sinh / sinh viên có triệu chứng SAD DƯỚI NGƯỠNG (subthreshold) tại 6 đại học và 1 trường THPT Nhật Bản, từ 12/2022 đến 10/2023.
+Phương pháp nghiên cứu
+RCT đa trung tâm 2 nhánh: nhóm can thiệp (n = 38) nhận iCBT TỰ HỌC HOÀN TOÀN qua web, không có hỗ trợ người; nhóm đối chứng (n = 39) chờ đợi. Can thiệp 8 module, theo dõi đến tháng 3 sau khởi động. Đo lường: SIAS (lo âu xã hội chính), PHQ-9 (trầm cảm). Phân tích ANCOVA với trầm cảm là biến đồng. Fisher exact test cho response/recovery ratios.
+Kết quả nghiên cứu
+Nhóm iCBT giảm có ý nghĩa thống kê triệu chứng lo âu xã hội so với nhóm đối chứng. Tỷ lệ đáp ứng và phục hồi:
+Phản biện
+RCT đa trung tâm — bằng chứng cao. Đặc biệt quan trọng vì SAD DƯỚI NGƯỠNG là dân số rất lớn và quan trọng — can thiệp ở giai đoạn này có thể NGĂN CHẶN tiến triển thành rối loạn đầy đủ ("indicated prevention"). Mô hình iCBT TỰ HỌC HOÀN TOÀN có chi phí gần bằng 0 sau khi phát triển nội dung — phù hợp triển khai đại trà cho VN. Mâu thuẫn với Walder 2025 (DMHI không hướng dẫn g chỉ ~ 0,3) — có thể do nội dung được thiết kế tốt hoặc hiệu ứng bị overestimate do mẫu nhỏ. Hạn chế: n = 77 nhỏ, 1 quốc gia, và KTC rộng (1,61–16,53 cho OR đáp ứng) cho thấy độ chính xác không cao.
+Hướng nghiên cứu tiếp theo
+Adapt iCBT Nhật cho VN — sàng lọc HS subthreshold SAD bằng SIAS-17, can thiệp web tiếng Việt. So sánh có/không hỗ trợ người trong bối cảnh VN. RCT lớn hơn (n > 200) để xác nhận hiệu quả.
+Đánh giá chất lượng: ⭐⭐⭐⭐ Cao. RCT đa trung tâm Q2, mô hình prevention sớm khả thi.
+Chỉ số | Nhóm can thiệp | OR vs chờ (95% CI) | p
+Đáp ứng (response) | 61 % | 4,97 (1,61–16,53) | 0,003
+Phục hồi (recovery) | 68 % | 3,95 (1,32–12,56) | 0,008
+Remission ratio | — | 2,01 | ns
+
+============================================================
+[QT046] RAG SUMMARY:
+Tóm tắt bài QT46 — Tổng quan hệ thống can thiệp căng thẳng học tập ở HS trung học
+Tên công trình, tác giả, năm, mẫu khảo sát, đối tượng, khách thể, địa bàn khảo sát
+"Academic Stress Interventions in High Schools: A Systematic Literature Review" của Jagiello, T., Belcher, J., Neelakandan, A., Boyd, K. & Wuthrich, V.M. (2025), đăng trên Child Psychiatry and Human Development vol. 56, tr. 1836–1869 (Q1, IF ≈ 3,3) — Springer. DOI 10.1007/s10578-024-01667-5. Online 4/3/2024, in print 2025. Tổng quan hệ thống các chương trình can thiệp giảm/phòng ngừa CĂNG THẲNG HỌC TẬP riêng ở HS trung học trên toàn cầu. Bài dài 34 trang — là tổng quan hệ thống ĐẦU TIÊN tập trung riêng vào chương trình trường học cho stress học tập.
+Phương pháp nghiên cứu
+Tìm kiếm hệ thống các nghiên cứu đánh giá hiệu quả chương trình trường học trong giảm hoặc phòng ngừa stress học tập ở HS trung học. Tiêu chí lựa chọn nghiêm ngặt. Phân loại theo (a) loại can thiệp (CBT, mindfulness, thư giãn, kỹ năng quản lý, yoga, ...); (b) hình thức (universal phổ quát vs targeted có mục tiêu); (c) người cung cấp (chuyên gia vs giáo viên). Đánh giá chất lượng phương pháp.
+Kết quả nghiên cứu
+Tìm thấy 31 nghiên cứu đủ tiêu chuẩn từ 13 quốc gia. Phát hiện chính:
+• Chất lượng phương pháp của đa số nghiên cứu KÉM (poor quality) — nhiều NC sử dụng nhóm đối chứng KHÔNG can thiệp.
+• Bằng chứng MẠNH NHẤT cho các chương trình dựa trên CBT — phù hợp với lý thuyết về căng thẳng học tập.
+• CẢ 2 mô hình universal VÀ targeted đều có thể có lợi — không có mô hình nào vượt trội rõ ràng.
+• Stress học tập = yếu tố MẠNH NHẤT ảnh hưởng SKTT VTN châu Á — đã được xác nhận bởi VN21 Trần Thảo Vi (β = 4,73 cho học thêm), Wen QT08 (OR = 11,58 cho áp lực HT), Norway QT21, UNICEF VN22 (50 % HS học thêm > 3 h/tuần, 15 % > 9 h/tuần).
+Phản biện
+Child Psychiatry and Human Development Q1 IF ≈ 3,3, Springer. 34 trang — rất toàn diện. Tổng quan ĐẦU TIÊN về can thiệp stress học tập riêng ở HS trung học (theo lời tuyên bố của tác giả). 31 NC từ 13 quốc gia — phạm vi địa lý tốt. CBT có bằng chứng mạnh nhất — phù hợp QT29 BMC NMA. Hạn chế: chất lượng phương pháp của đa số NC được đánh giá là KÉM; nhiều NC dùng nhóm chứng không can thiệp; không có meta-analysis định lượng; chưa rõ đại diện LMIC/châu Á.
+Hướng nghiên cứu tiếp theo
+RCT CHẤT LƯỢNG CAO can thiệp stress HT riêng tại VN — CBT + quản lý thời gian + giảm tải học thêm. So sánh trong bối cảnh học sinh VN (sức ép đa chiều: cha mẹ, thi đại học, học thêm). Đánh giá hiệu quả dài hạn 1–2 năm. Sử dụng nhóm đối chứng active (không phải waiting list thuần) để cải thiện chất lượng bằng chứng.
+Đánh giá chất lượng: ⭐⭐⭐⭐ Cao. SLR đầu tiên, Q1 Springer, 31 NC từ 13 quốc gia, rất phù hợp đề tài.
+Loại can thiệp | Hiệu quả | Phù hợp VN
+CBT cho stress HT | BẰNG CHỨNG MẠNH NHẤT | Cần thích ứng VH
+Mindfulness/thiền | TB — kết quả lẫn lộn | UK 8.376 HS thất bại
+Quản lý thời gian | Hứa hẹn | Rất phù hợp VN
+Thư giãn cơ | TB | Dễ triển khai
+Yoga/hoạt động thể chất | Hứa hẹn | Phù hợp PE
+Kỹ năng ứng phó | TB–Khá | Kết hợp CBT
+
+============================================================
+[QT047] RAG SUMMARY:
+Tóm tắt bài QT47 — Tỷ lệ và yếu tố quyết định trầm cảm/lo âu/stress ở HS trung học Ya An TQ
+Tên công trình, tác giả, năm, mẫu khảo sát, đối tượng, khách thể, địa bàn khảo sát
+"Prevalence and determinants of depression, anxiety, and stress among secondary school students" của Dong, T., Wang, Y. & Lin, Y. (2025), đăng trên PLOS ONE vol. 20(9), e0328785, tr. 1–10. DOI 10.1371/journal.pone.0328785. Open Access. Mẫu: 2.716 học sinh trung học (1.230 nam + 1.486 nữ) tại Ya An, Tứ Xuyên, Trung Quốc, khảo sát điện tử tháng 3–6/2022. Sử dụng thang DASS-21.
+Phương pháp nghiên cứu
+Cắt ngang qua khảo sát điện tử (QuestionStar) tại 4 trường trung học Ya An. Sampling cụm, mẫu mục tiêu n = 1.844 (DE = 4, attrition 20 %), thu được 2.716 phiếu hợp lệ (93,66 %). DASS-21 đo cả 3 trục: trầm cảm, lo âu, stress. Bảng hỏi nhân khẩu học. Hồi quy logistic Model 1 đơn biến → Model 2 đa biến (loại p > 0,1 hoặc VIF > 10). Phần mềm R, p < 0,05 hai phía.
+Kết quả nghiên cứu
+Tỷ lệ: trầm cảm 24,4 %, LO ÂU 41,4 % (cao hơn rõ rệt), stress 15,6 %. Lo âu nặng/rất nặng gần 9 %. Hồi quy đa biến (Model 2) phát hiện CƠ CHẾ BẢO VỆ rõ ràng:
+Phản biện
+PLOS ONE Q1, Open Access, peer review history công khai. Mẫu LỚN n = 2.716 — đủ power. Đo CẢ 3 trục DASS-21. PHÁT HIỆN MỚI QUAN TRỌNG NHẤT: kênh giao tiếp gia đình (tâm sự) là yếu tố bảo vệ MẠNH NHẤT — mạnh hơn cả "mức hỗ trợ" chung. Gợi ý: tập huấn KỸ NĂNG GIAO TIẾP cha–con thay vì chỉ "tăng hỗ trợ" chung chung. Hạn chế: cắt ngang, 1 thành phố Ya An (không đại diện toàn TQ), giới tính p > 0,2 trái với hầu hết NC khác (Wen 2020, Hoa 2024).
+Hướng nghiên cứu tiếp theo
+Lặp lại tại VN với mẫu lớn (> 2.000) THPT, đo cả 3 trục DASS-21. Thêm câu hỏi về kênh giao tiếp gia đình. NC dọc 3 năm (như VN21 Trần Thảo Vi). Phát triển module CAN THIỆP KỸ NĂNG GIAO TIẾP cha–con cho đề cương VN.
+Đánh giá chất lượng: ⭐⭐⭐⭐ Cao. Mẫu lớn Q1, phát hiện cơ chế bảo vệ then chốt.
+Yếu tố bảo vệ | OR (Trầm cảm) | OR (Lo âu) | Ý nghĩa
+Tâm sự với gia đình (vs không) | 0,22 *** | 0,27 *** | Giảm 78% trầm cảm
+Tâm sự với bạn (vs không) | 0,37 *** | 0,42 *** | Giảm 63% trầm cảm
+Hỗ trợ gia đình "More" vs hiếm | 0,45 *** | 0,69 | Giảm 55% trầm cảm
+Tìm trợ giúp chủ động vs thụ động | 0,48 *** | 0,70 | Hành vi chủ động
+Xếp hạng < 60 % (yếu tố nguy cơ) | 1,62 ** | 0,98 | Tăng 62% trầm cảm
+
+============================================================
+[QT052] RAG SUMMARY:
+QT052 — Tóm tắt ngắn (bài bonus)
+Phát hiện/kết luận chính
+IPD MA (individual participant data) — phương pháp cao nhất trong MA. RCT mindfulness cho MH. Tạp chí Nature Q1.
+Khi nào dùng
+Bài này thuộc nhóm BONUS (basic science/review ngoài scope HS THCS/THPT). Chỉ dùng khi cần tham chiếu cơ chế sinh học/dược lý/neuromodulation. KHÔNG dùng trực tiếp cho khuyến nghị can thiệp trường học VN. Nếu cần tóm tắt đầy đủ Jenkins template, cần đọc kỹ PDF và mở rộng.
+Đánh giá: ⭐⭐⭐⭐ (4/5 — chất lượng NC; riêng scope-fit đã ghi trên)
+⚠ CẢNH BÁO SCOPE: Đối tượng phần lớn là NGƯỜI LỚN. IPD MA giới hạn khi áp cho VT
+Tên (VN) | Tổng quan hệ thống và phân tích tổng hợp dữ liệu cá nhân các RCT về chương trình
+Tên (EN) | Systematic review and individual participant data meta-analysis of randomized co
+Tác giả | (xem PDF)
+Nơi công bố | Nature Mental Health (2023) 1:462-476
+Mức độ phù hợp đề tài | MEDIUM — Mindfulness có thể adapt cho HS nhưng đa số RCT người lớn. Có tham chiế
+
+============================================================
+[QT053] RAG SUMMARY:
+QT053 — Tóm tắt ngắn (bài bonus)
+Phát hiện/kết luận chính
+Review dược lý (SSRIs, SNRIs, benzodiazepines...). Là tài liệu ôn tập cơ chế + chỉ định lâm sàng.
+Khi nào dùng
+Bài này thuộc nhóm BONUS (basic science/review ngoài scope HS THCS/THPT). Chỉ dùng khi cần tham chiếu cơ chế sinh học/dược lý/neuromodulation. KHÔNG dùng trực tiếp cho khuyến nghị can thiệp trường học VN. Nếu cần tóm tắt đầy đủ Jenkins template, cần đọc kỹ PDF và mở rộng.
+Đánh giá: ⭐⭐⭐ (3/5 — chất lượng NC; riêng scope-fit đã ghi trên)
+⚠ CẢNH BÁO SCOPE: Đối tượng chủ yếu NGƯỜI LỚN. Với trẻ em/VTN, pharmacotherapy c
+Tên (VN) | Tổng quan về điều trị dược lý rối loạn lo âu
+Tên (EN) | Pharmacotherapy for anxiety disorders (review)
+Tác giả | (xem PDF)
+Nơi công bố | Frontiers in Psychiatry (2020) 11:595584
+Mức độ phù hợp đề tài | LOW — người lớn, không phải HS. Chỉ tham khảo khi cần hiểu mechanism dược lý.
+
+============================================================
+[QT054] RAG SUMMARY:
+QT054 — Tóm tắt ngắn (bài bonus)
+Phát hiện/kết luận chính
+Viêm thần kinh là cơ chế chung giữa stress mạn và trầm cảm. Emerging anti-inflammatory targets.
+Khi nào dùng
+Bài này thuộc nhóm BONUS (basic science/review ngoài scope HS THCS/THPT). Chỉ dùng khi cần tham chiếu cơ chế sinh học/dược lý/neuromodulation. KHÔNG dùng trực tiếp cho khuyến nghị can thiệp trường học VN. Nếu cần tóm tắt đầy đủ Jenkins template, cần đọc kỹ PDF và mở rộng.
+Đánh giá: ⭐⭐⭐ (3/5 — chất lượng NC; riêng scope-fit đã ghi trên)
+⚠ CẢNH BÁO SCOPE: Review cơ chế SINH HỌC CƠ BẢN (neuroinflammation pathway) — kh
+Tên (VN) | Stress mạn tính, viêm thần kinh và trầm cảm: Tổng quan cơ chế bệnh sinh
+Tên (EN) | Chronic stress, neuroinflammation, and depression: an overview of pathophysiolog
+Tác giả | (xem PDF)
+Nơi công bố | Frontiers in Psychiatry (2023)
+Mức độ phù hợp đề tài | LOW — basic science, không áp dụng trực tiếp đề tài lo âu HS.
+
+============================================================
+[QT055] RAG SUMMARY:
+QT055 — Tóm tắt ngắn (bài bonus)
+Phát hiện/kết luận chính
+DNA methylation là cơ chế epigenetic liên kết ACEs với rối loạn MH về sau. Gene ứng viên: NR3C1, SLC6A4...
+Khi nào dùng
+Bài này thuộc nhóm BONUS (basic science/review ngoài scope HS THCS/THPT). Chỉ dùng khi cần tham chiếu cơ chế sinh học/dược lý/neuromodulation. KHÔNG dùng trực tiếp cho khuyến nghị can thiệp trường học VN. Nếu cần tóm tắt đầy đủ Jenkins template, cần đọc kỹ PDF và mở rộng.
+Đánh giá: ⭐⭐⭐ (3/5 — chất lượng NC; riêng scope-fit đã ghi trên)
+⚠ CẢNH BÁO SCOPE: Review EPIGENETICS — cơ chế phân tử. Có liên quan ACEs (đã not
+Tên (VN) | Tổng quan hệ thống về ngược đãi thời thơ ấu và methyl hóa DNA: gene ứng viên và 
+Tên (EN) | A systematic review of childhood maltreatment and DNA methylation: candidate gen
+Tác giả | Parade et al.
+Nơi công bố | Translational Psychiatry (2021) 11:134
+Mức độ phù hợp đề tài | MEDIUM — có thể dùng làm nền cho "vì sao ACEs ảnh hưởng lâu dài" trong thảo luận
+
+============================================================
+[QT056] RAG SUMMARY:
+QT056 — Tóm tắt ngắn (bài bonus)
+Phát hiện/kết luận chính
+Hệ vi sinh đường ruột ảnh hưởng não bộ qua trục microbiota-gut-brain; có thể liên quan lo âu.
+Khi nào dùng
+Bài này thuộc nhóm BONUS (basic science/review ngoài scope HS THCS/THPT). Chỉ dùng khi cần tham chiếu cơ chế sinh học/dược lý/neuromodulation. KHÔNG dùng trực tiếp cho khuyến nghị can thiệp trường học VN. Nếu cần tóm tắt đầy đủ Jenkins template, cần đọc kỹ PDF và mở rộng.
+Đánh giá: ⭐⭐⭐ (3/5 — chất lượng NC; riêng scope-fit đã ghi trên)
+⚠ CẢNH BÁO SCOPE: Review cơ chế gut-brain axis — hướng mới nhưng chưa có can thi
+Tên (VN) | Giao tiếp qua trục microbiota-gut-brain trong lo âu
+Tên (EN) | Microbiota-gut-brain axis communication in anxiety
+Tác giả | Jiang M, Kang L, Wang YL, Zhou B, Li HY, Yan Q, Liu ZG
+Nơi công bố | Frontiers in Neuroscience (2024)
+Mức độ phù hợp đề tài | LOW — basic science, không áp dụng đề tài.

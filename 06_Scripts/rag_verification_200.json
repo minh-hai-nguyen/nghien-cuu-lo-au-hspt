@@ -1,0 +1,3978 @@
+{
+  "doc": "Bao cao Can thiep tam ly RLLA VTN - 10042026 v2.docx",
+  "n_chunks": 206,
+  "n_queries": 208,
+  "passed": 201,
+  "failed": 7,
+  "pass_rate": 96.63,
+  "retrieval": "hybrid (semantic 0.6 + keyword 0.4)",
+  "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
+  "results": [
+    {
+      "idx": 1,
+      "query": "Trần Nguyễn Ngọc 2018 luận án năm bảo vệ",
+      "expected": [
+        "2018",
+        "Tiến sĩ"
+      ],
+      "found": [
+        "2018",
+        "Tiến sĩ"
+      ],
+      "top_id": "t19",
+      "top_section": "I. Viet Nam",
+      "top_paper": "TranNguyenNgoc2018",
+      "top_excerpt": "[1.1.1. Thông tin thư mục] [Paper:TranNguyenNgoc2018]\nHEADERS: Mục | Chi tiết\nMục=Tác giả | Chi tiết=Trần Nguyễn Ngọc\nMục=Hướng dẫn khoa học | Chi tiết=PGS. TS. Nguyễn Kim Việt\nMục=Loại tài liệu | Chi",
+      "sem_score": 60.6,
+      "kw_score": 100.0,
+      "combined_score": 91.4,
+      "status": "PASS"
+    },
+    {
+      "idx": 2,
+      "query": "Trần Nguyễn Ngọc tổng số trang luận án",
+      "expected": [
+        "177"
+      ],
+      "found": [
+        "177"
+      ],
+      "top_id": "t19",
+      "top_section": "I. Viet Nam",
+      "top_paper": "TranNguyenNgoc2018",
+      "top_excerpt": "[1.1.1. Thông tin thư mục] [Paper:TranNguyenNgoc2018]\nHEADERS: Mục | Chi tiết\nMục=Tác giả | Chi tiết=Trần Nguyễn Ngọc\nMục=Hướng dẫn khoa học | Chi tiết=PGS. TS. Nguyễn Kim Việt\nMục=Loại tài liệu | Chi",
+      "sem_score": 55.9,
+      "kw_score": 87.5,
+      "combined_score": 83.6,
+      "status": "PASS"
+    },
+    {
+      "idx": 3,
+      "query": "Trần Nguyễn Ngọc tổng số bệnh nhân nghiên cứu",
+      "expected": [
+        "170"
+      ],
+      "found": [
+        "170"
+      ],
+      "top_id": "p16",
+      "top_section": "I. Viet Nam",
+      "top_paper": "TranNguyenNgoc2018",
+      "top_excerpt": "[PHẦN I — VIỆT NAM] [Paper:TranNguyenNgoc2018]\nTrong hệ thống 58 bài nghiên cứu của dự án, chỉ có 1 công trình duy nhất từ tác giả Việt Nam thuộc nhóm chủ đề CAN THIỆP tâm lý cho rối loạn lo âu — luận",
+      "sem_score": 62.9,
+      "kw_score": 77.8,
+      "combined_score": 83.9,
+      "status": "PASS"
+    },
+    {
+      "idx": 4,
+      "query": "Trần Nguyễn Ngọc số bệnh nhân hoàn thành can thiệp",
+      "expected": [
+        "99"
+      ],
+      "found": [
+        "99"
+      ],
+      "top_id": "p29",
+      "top_section": "I. Viet Nam",
+      "top_paper": "TranNguyenNgoc2018",
+      "top_excerpt": "[1.1.3. Kết quả chính] [Paper:TranNguyenNgoc2018]\nSau 4 tuần điều trị (n = 99 bệnh nhân hoàn thành), kết quả trên thang HAM-A cho thấy sự thuyên giảm rõ rệt và có ý nghĩa thống kê mạnh (Trần Nguyễn Ng",
+      "sem_score": 63.3,
+      "kw_score": 70.0,
+      "combined_score": 81.0,
+      "status": "PASS"
+    },
+    {
+      "idx": 5,
+      "query": "Trần Nguyễn Ngọc Đại học Y Hà Nội Bạch Mai",
+      "expected": [
+        "Bạch Mai"
+      ],
+      "found": [
+        "Bạch Mai"
+      ],
+      "top_id": "t19",
+      "top_section": "I. Viet Nam",
+      "top_paper": "TranNguyenNgoc2018",
+      "top_excerpt": "[1.1.1. Thông tin thư mục] [Paper:TranNguyenNgoc2018]\nHEADERS: Mục | Chi tiết\nMục=Tác giả | Chi tiết=Trần Nguyễn Ngọc\nMục=Hướng dẫn khoa học | Chi tiết=PGS. TS. Nguyễn Kim Việt\nMục=Loại tài liệu | Chi",
+      "sem_score": 66.0,
+      "kw_score": 100.0,
+      "combined_score": 94.6,
+      "status": "PASS"
+    },
+    {
+      "idx": 6,
+      "query": "Trần Nguyễn Ngọc người hướng dẫn khoa học",
+      "expected": [
+        "Nguyễn Kim Việt"
+      ],
+      "found": [
+        "Nguyễn Kim Việt"
+      ],
+      "top_id": "t19",
+      "top_section": "I. Viet Nam",
+      "top_paper": "TranNguyenNgoc2018",
+      "top_excerpt": "[1.1.1. Thông tin thư mục] [Paper:TranNguyenNgoc2018]\nHEADERS: Mục | Chi tiết\nMục=Tác giả | Chi tiết=Trần Nguyễn Ngọc\nMục=Hướng dẫn khoa học | Chi tiết=PGS. TS. Nguyễn Kim Việt\nMục=Loại tài liệu | Chi",
+      "sem_score": 69.4,
+      "kw_score": 100.0,
+      "combined_score": 96.7,
+      "status": "PASS"
+    },
+    {
+      "idx": 7,
+      "query": "Trần Nguyễn Ngọc tỷ lệ nam nữ trong mẫu",
+      "expected": [
+        "65",
+        "105"
+      ],
+      "found": [
+        "65",
+        "105"
+      ],
+      "top_id": "t19",
+      "top_section": "I. Viet Nam",
+      "top_paper": "TranNguyenNgoc2018",
+      "top_excerpt": "[1.1.1. Thông tin thư mục] [Paper:TranNguyenNgoc2018]\nHEADERS: Mục | Chi tiết\nMục=Tác giả | Chi tiết=Trần Nguyễn Ngọc\nMục=Hướng dẫn khoa học | Chi tiết=PGS. TS. Nguyễn Kim Việt\nMục=Loại tài liệu | Chi",
+      "sem_score": 46.8,
+      "kw_score": 75.0,
+      "combined_score": 73.1,
+      "status": "PASS"
+    },
+    {
+      "idx": 8,
+      "query": "Trần Nguyễn Ngọc tuổi trung bình bệnh nhân",
+      "expected": [
+        "43,2"
+      ],
+      "found": [
+        "43,2"
+      ],
+      "top_id": "t19",
+      "top_section": "I. Viet Nam",
+      "top_paper": "TranNguyenNgoc2018",
+      "top_excerpt": "[1.1.1. Thông tin thư mục] [Paper:TranNguyenNgoc2018]\nHEADERS: Mục | Chi tiết\nMục=Tác giả | Chi tiết=Trần Nguyễn Ngọc\nMục=Hướng dẫn khoa học | Chi tiết=PGS. TS. Nguyễn Kim Việt\nMục=Loại tài liệu | Chi",
+      "sem_score": 45.8,
+      "kw_score": 100.0,
+      "combined_score": 82.5,
+      "status": "PASS"
+    },
+    {
+      "idx": 9,
+      "query": "Trần Nguyễn Ngọc mã chuyên ngành tâm thần",
+      "expected": [
+        "62720148"
+      ],
+      "found": [
+        "62720148"
+      ],
+      "top_id": "t19",
+      "top_section": "I. Viet Nam",
+      "top_paper": "TranNguyenNgoc2018",
+      "top_excerpt": "[1.1.1. Thông tin thư mục] [Paper:TranNguyenNgoc2018]\nHEADERS: Mục | Chi tiết\nMục=Tác giả | Chi tiết=Trần Nguyễn Ngọc\nMục=Hướng dẫn khoa học | Chi tiết=PGS. TS. Nguyễn Kim Việt\nMục=Loại tài liệu | Chi",
+      "sem_score": 75.4,
+      "kw_score": 100.0,
+      "combined_score": 100.2,
+      "status": "PASS"
+    },
+    {
+      "idx": 10,
+      "query": "Trần Nguyễn Ngọc thiết kế nghiên cứu trước sau",
+      "expected": [
+        "trước",
+        "sau"
+      ],
+      "found": [
+        "trước",
+        "sau"
+      ],
+      "top_id": "t19",
+      "top_section": "I. Viet Nam",
+      "top_paper": "TranNguyenNgoc2018",
+      "top_excerpt": "[1.1.1. Thông tin thư mục] [Paper:TranNguyenNgoc2018]\nHEADERS: Mục | Chi tiết\nMục=Tác giả | Chi tiết=Trần Nguyễn Ngọc\nMục=Hướng dẫn khoa học | Chi tiết=PGS. TS. Nguyễn Kim Việt\nMục=Loại tài liệu | Chi",
+      "sem_score": 64.4,
+      "kw_score": 75.0,
+      "combined_score": 83.6,
+      "status": "PASS"
+    },
+    {
+      "idx": 11,
+      "query": "Trần Nguyễn Ngọc liệu pháp Thư giãn Luyện tập",
+      "expected": [
+        "Thư giãn",
+        "Luyện tập"
+      ],
+      "found": [
+        "Thư giãn",
+        "Luyện tập"
+      ],
+      "top_id": "p200",
+      "top_section": "V. Tai lieu tham khao",
+      "top_paper": "TranNguyenNgoc2018",
+      "top_excerpt": "[TÀI LIỆU THAM KHẢO] [Paper:TranNguyenNgoc2018]\nTrần Nguyễn Ngọc (2018). Đánh giá hiệu quả điều trị rối loạn lo âu lan toả bằng liệu pháp thư giãn – luyện tập [Luận án Tiến sĩ Y học, mã số 62720148]. ",
+      "sem_score": 69.8,
+      "kw_score": 100.0,
+      "combined_score": 96.9,
+      "status": "PASS"
+    },
+    {
+      "idx": 12,
+      "query": "Trần Nguyễn Ngọc số buổi can thiệp 4 tuần",
+      "expected": [
+        "20 buổi"
+      ],
+      "found": [
+        "20 buổi"
+      ],
+      "top_id": "t19",
+      "top_section": "I. Viet Nam",
+      "top_paper": "TranNguyenNgoc2018",
+      "top_excerpt": "[1.1.1. Thông tin thư mục] [Paper:TranNguyenNgoc2018]\nHEADERS: Mục | Chi tiết\nMục=Tác giả | Chi tiết=Trần Nguyễn Ngọc\nMục=Hướng dẫn khoa học | Chi tiết=PGS. TS. Nguyễn Kim Việt\nMục=Loại tài liệu | Chi",
+      "sem_score": 51.7,
+      "kw_score": 100.0,
+      "combined_score": 86.0,
+      "status": "PASS"
+    },
+    {
+      "idx": 13,
+      "query": "Trần Nguyễn Ngọc thời lượng mỗi buổi tập",
+      "expected": [
+        "60 phút"
+      ],
+      "found": [
+        "60 phút"
+      ],
+      "top_id": "t19",
+      "top_section": "I. Viet Nam",
+      "top_paper": "TranNguyenNgoc2018",
+      "top_excerpt": "[1.1.1. Thông tin thư mục] [Paper:TranNguyenNgoc2018]\nHEADERS: Mục | Chi tiết\nMục=Tác giả | Chi tiết=Trần Nguyễn Ngọc\nMục=Hướng dẫn khoa học | Chi tiết=PGS. TS. Nguyễn Kim Việt\nMục=Loại tài liệu | Chi",
+      "sem_score": 48.4,
+      "kw_score": 75.0,
+      "combined_score": 74.0,
+      "status": "PASS"
+    },
+    {
+      "idx": 14,
+      "query": "Trần Nguyễn Ngọc bệnh nhân nội trú hay ngoại trú",
+      "expected": [
+        "nội trú"
+      ],
+      "found": [
+        "nội trú"
+      ],
+      "top_id": "t19",
+      "top_section": "I. Viet Nam",
+      "top_paper": "TranNguyenNgoc2018",
+      "top_excerpt": "[1.1.1. Thông tin thư mục] [Paper:TranNguyenNgoc2018]\nHEADERS: Mục | Chi tiết\nMục=Tác giả | Chi tiết=Trần Nguyễn Ngọc\nMục=Hướng dẫn khoa học | Chi tiết=PGS. TS. Nguyễn Kim Việt\nMục=Loại tài liệu | Chi",
+      "sem_score": 62.7,
+      "kw_score": 90.0,
+      "combined_score": 88.6,
+      "status": "PASS"
+    },
+    {
+      "idx": 15,
+      "query": "Trần Nguyễn Ngọc công cụ đánh giá HAM-A PSQI EPI",
+      "expected": [
+        "HAM-A",
+        "PSQI"
+      ],
+      "found": [
+        "HAM-A",
+        "PSQI"
+      ],
+      "top_id": "t19",
+      "top_section": "I. Viet Nam",
+      "top_paper": "TranNguyenNgoc2018",
+      "top_excerpt": "[1.1.1. Thông tin thư mục] [Paper:TranNguyenNgoc2018]\nHEADERS: Mục | Chi tiết\nMục=Tác giả | Chi tiết=Trần Nguyễn Ngọc\nMục=Hướng dẫn khoa học | Chi tiết=PGS. TS. Nguyễn Kim Việt\nMục=Loại tài liệu | Chi",
+      "sem_score": 57.5,
+      "kw_score": 100.0,
+      "combined_score": 89.5,
+      "status": "PASS"
+    },
+    {
+      "idx": 16,
+      "query": "Trần Nguyễn Ngọc 3 thời điểm đo T0 T2 T4",
+      "expected": [
+        "T0",
+        "T2",
+        "T4"
+      ],
+      "found": [
+        "T0",
+        "T2",
+        "T4"
+      ],
+      "top_id": "t19",
+      "top_section": "I. Viet Nam",
+      "top_paper": "TranNguyenNgoc2018",
+      "top_excerpt": "[1.1.1. Thông tin thư mục] [Paper:TranNguyenNgoc2018]\nHEADERS: Mục | Chi tiết\nMục=Tác giả | Chi tiết=Trần Nguyễn Ngọc\nMục=Hướng dẫn khoa học | Chi tiết=PGS. TS. Nguyễn Kim Việt\nMục=Loại tài liệu | Chi",
+      "sem_score": 44.8,
+      "kw_score": 100.0,
+      "combined_score": 81.9,
+      "status": "PASS"
+    },
+    {
+      "idx": 17,
+      "query": "Trần Nguyễn Ngọc tỷ lệ lo âu nặng vào viện T0",
+      "expected": [
+        "45,5"
+      ],
+      "found": [
+        "45,5"
+      ],
+      "top_id": "t19",
+      "top_section": "I. Viet Nam",
+      "top_paper": "TranNguyenNgoc2018",
+      "top_excerpt": "[1.1.1. Thông tin thư mục] [Paper:TranNguyenNgoc2018]\nHEADERS: Mục | Chi tiết\nMục=Tác giả | Chi tiết=Trần Nguyễn Ngọc\nMục=Hướng dẫn khoa học | Chi tiết=PGS. TS. Nguyễn Kim Việt\nMục=Loại tài liệu | Chi",
+      "sem_score": 65.0,
+      "kw_score": 63.6,
+      "combined_score": 79.4,
+      "status": "PASS"
+    },
+    {
+      "idx": 18,
+      "query": "Trần Nguyễn Ngọc tỷ lệ lo âu nặng tuần 4 T4",
+      "expected": [
+        "11,1"
+      ],
+      "found": [
+        "11,1"
+      ],
+      "top_id": "t34",
+      "top_section": "I. Viet Nam",
+      "top_paper": "TranNguyenNgoc2018",
+      "top_excerpt": "[1.1.3. Kết quả chính] [Paper:TranNguyenNgoc2018]\nCAPTION: Bảng 1. Mức độ lo âu HAM-A theo thời gian điều trị (n = 99). Nguồn: Trần Nguyễn Ngọc 2018, Bảng 3.20, tr. 76.\nHEADERS: Triệu chứng | T0 | T2 ",
+      "sem_score": 61.2,
+      "kw_score": 60.0,
+      "combined_score": 75.7,
+      "status": "PASS"
+    },
+    {
+      "idx": 19,
+      "query": "Trần Nguyễn Ngọc HAM-A nhẹ tăng T2 T4",
+      "expected": [
+        "53,6",
+        "52,5"
+      ],
+      "found": [
+        "53,6",
+        "52,5"
+      ],
+      "top_id": "t34",
+      "top_section": "I. Viet Nam",
+      "top_paper": "TranNguyenNgoc2018",
+      "top_excerpt": "[1.1.3. Kết quả chính] [Paper:TranNguyenNgoc2018]\nCAPTION: Bảng 1. Mức độ lo âu HAM-A theo thời gian điều trị (n = 99). Nguồn: Trần Nguyễn Ngọc 2018, Bảng 3.20, tr. 76.\nHEADERS: Triệu chứng | T0 | T2 ",
+      "sem_score": 54.7,
+      "kw_score": 75.0,
+      "combined_score": 77.8,
+      "status": "PASS"
+    },
+    {
+      "idx": 20,
+      "query": "Trần Nguyễn Ngọc tỷ lệ hồi hộp tim đập nhanh ban đầu",
+      "expected": [
+        "88,9"
+      ],
+      "found": [
+        "88,9"
+      ],
+      "top_id": "t34",
+      "top_section": "I. Viet Nam",
+      "top_paper": "TranNguyenNgoc2018",
+      "top_excerpt": "[1.1.3. Kết quả chính] [Paper:TranNguyenNgoc2018]\nCAPTION: Bảng 1. Mức độ lo âu HAM-A theo thời gian điều trị (n = 99). Nguồn: Trần Nguyễn Ngọc 2018, Bảng 3.20, tr. 76.\nHEADERS: Triệu chứng | T0 | T2 ",
+      "sem_score": 37.7,
+      "kw_score": 66.7,
+      "combined_score": 64.3,
+      "status": "PASS"
+    },
+    {
+      "idx": 21,
+      "query": "Trần Nguyễn Ngọc hồi hộp tim đập nhanh sau 4 tuần",
+      "expected": [
+        "43,4"
+      ],
+      "found": [
+        "43,4"
+      ],
+      "top_id": "t34",
+      "top_section": "I. Viet Nam",
+      "top_paper": "TranNguyenNgoc2018",
+      "top_excerpt": "[1.1.3. Kết quả chính] [Paper:TranNguyenNgoc2018]\nCAPTION: Bảng 1. Mức độ lo âu HAM-A theo thời gian điều trị (n = 99). Nguồn: Trần Nguyễn Ngọc 2018, Bảng 3.20, tr. 76.\nHEADERS: Triệu chứng | T0 | T2 ",
+      "sem_score": 39.6,
+      "kw_score": 88.9,
+      "combined_score": 74.3,
+      "status": "PASS"
+    },
+    {
+      "idx": 22,
+      "query": "Trần Nguyễn Ngọc tỷ lệ vã mồ hôi T0 T4",
+      "expected": [
+        "59,6",
+        "16,1"
+      ],
+      "found": [
+        "59,6",
+        "16,1"
+      ],
+      "top_id": "t34",
+      "top_section": "I. Viet Nam",
+      "top_paper": "TranNguyenNgoc2018",
+      "top_excerpt": "[1.1.3. Kết quả chính] [Paper:TranNguyenNgoc2018]\nCAPTION: Bảng 1. Mức độ lo âu HAM-A theo thời gian điều trị (n = 99). Nguồn: Trần Nguyễn Ngọc 2018, Bảng 3.20, tr. 76.\nHEADERS: Triệu chứng | T0 | T2 ",
+      "sem_score": 53.2,
+      "kw_score": 80.0,
+      "combined_score": 78.9,
+      "status": "PASS"
+    },
+    {
+      "idx": 23,
+      "query": "Trần Nguyễn Ngọc triệu chứng run T0",
+      "expected": [
+        "57,6"
+      ],
+      "found": [
+        "57,6"
+      ],
+      "top_id": "t34",
+      "top_section": "I. Viet Nam",
+      "top_paper": "TranNguyenNgoc2018",
+      "top_excerpt": "[1.1.3. Kết quả chính] [Paper:TranNguyenNgoc2018]\nCAPTION: Bảng 1. Mức độ lo âu HAM-A theo thời gian điều trị (n = 99). Nguồn: Trần Nguyễn Ngọc 2018, Bảng 3.20, tr. 76.\nHEADERS: Triệu chứng | T0 | T2 ",
+      "sem_score": 61.7,
+      "kw_score": 100.0,
+      "combined_score": 92.0,
+      "status": "PASS"
+    },
+    {
+      "idx": 24,
+      "query": "Trần Nguyễn Ngọc khô miệng T0 sau điều trị",
+      "expected": [
+        "38,4"
+      ],
+      "found": [
+        "38,4"
+      ],
+      "top_id": "t34",
+      "top_section": "I. Viet Nam",
+      "top_paper": "TranNguyenNgoc2018",
+      "top_excerpt": "[1.1.3. Kết quả chính] [Paper:TranNguyenNgoc2018]\nCAPTION: Bảng 1. Mức độ lo âu HAM-A theo thời gian điều trị (n = 99). Nguồn: Trần Nguyễn Ngọc 2018, Bảng 3.20, tr. 76.\nHEADERS: Triệu chứng | T0 | T2 ",
+      "sem_score": 52.9,
+      "kw_score": 100.0,
+      "combined_score": 86.7,
+      "status": "PASS"
+    },
+    {
+      "idx": 25,
+      "query": "Trần Nguyễn Ngọc khó thở thuyên giảm",
+      "expected": [
+        "56,6"
+      ],
+      "found": [
+        "56,6"
+      ],
+      "top_id": "p23",
+      "top_section": "I. Viet Nam",
+      "top_paper": "TranNguyenNgoc2018",
+      "top_excerpt": "[1.1.2. Mô tả can thiệp] [Paper:TranNguyenNgoc2018]\n• Phần TẬP THỞ: thở bụng, thở chậm sâu, thở luân phiên theo nguyên tắc Yoga. Tác động lên biến thiên tần số tim (HRV), cân bằng hệ thần kinh tự chủ ",
+      "sem_score": 56.5,
+      "kw_score": 57.1,
+      "combined_score": 71.7,
+      "status": "PASS"
+    },
+    {
+      "idx": 26,
+      "query": "Trần Nguyễn Ngọc sợ bị chết tỷ lệ",
+      "expected": [
+        "33,3"
+      ],
+      "found": [
+        "33,3"
+      ],
+      "top_id": "t34",
+      "top_section": "I. Viet Nam",
+      "top_paper": "TranNguyenNgoc2018",
+      "top_excerpt": "[1.1.3. Kết quả chính] [Paper:TranNguyenNgoc2018]\nCAPTION: Bảng 1. Mức độ lo âu HAM-A theo thời gian điều trị (n = 99). Nguồn: Trần Nguyễn Ngọc 2018, Bảng 3.20, tr. 76.\nHEADERS: Triệu chứng | T0 | T2 ",
+      "sem_score": 30.0,
+      "kw_score": 75.0,
+      "combined_score": 63.0,
+      "status": "PASS"
+    },
+    {
+      "idx": 27,
+      "query": "Trần Nguyễn Ngọc sang chấn tâm lý tỷ lệ",
+      "expected": [
+        "45,3"
+      ],
+      "found": [],
+      "top_id": "t19",
+      "top_section": "I. Viet Nam",
+      "top_paper": "TranNguyenNgoc2018",
+      "top_excerpt": "[1.1.1. Thông tin thư mục] [Paper:TranNguyenNgoc2018]\nHEADERS: Mục | Chi tiết\nMục=Tác giả | Chi tiết=Trần Nguyễn Ngọc\nMục=Hướng dẫn khoa học | Chi tiết=PGS. TS. Nguyễn Kim Việt\nMục=Loại tài liệu | Chi",
+      "sem_score": 69.0,
+      "kw_score": 55.6,
+      "combined_score": 78.6,
+      "status": "FAIL"
+    },
+    {
+      "idx": 28,
+      "query": "Trần Nguyễn Ngọc trầm cảm kèm theo nữ nam",
+      "expected": [
+        "12,4",
+        "15,2"
+      ],
+      "found": [
+        "12,4",
+        "15,2"
+      ],
+      "top_id": "t19",
+      "top_section": "I. Viet Nam",
+      "top_paper": "TranNguyenNgoc2018",
+      "top_excerpt": "[1.1.1. Thông tin thư mục] [Paper:TranNguyenNgoc2018]\nHEADERS: Mục | Chi tiết\nMục=Tác giả | Chi tiết=Trần Nguyễn Ngọc\nMục=Hướng dẫn khoa học | Chi tiết=PGS. TS. Nguyễn Kim Việt\nMục=Loại tài liệu | Chi",
+      "sem_score": 55.2,
+      "kw_score": 62.5,
+      "combined_score": 73.1,
+      "status": "PASS"
+    },
+    {
+      "idx": 29,
+      "query": "Trần Nguyễn Ngọc tỷ lệ rút khỏi nghiên cứu",
+      "expected": [
+        "41,8"
+      ],
+      "found": [
+        "41,8"
+      ],
+      "top_id": "p12",
+      "top_section": "0. Tom luoc",
+      "top_paper": "TranNguyenNgoc2018",
+      "top_excerpt": "[TÓM LƯỢC ĐIỀU HÀNH] [Paper:TranNguyenNgoc2018]\nThứ năm, KHOẢNG TRỐNG NGHIÊN CỨU TẠI VIỆT NAM CỰC LỚN: trong hệ thống 58 bài nghiên cứu không có một thử nghiệm lâm sàng ngẫu nhiên (RCT) nào về can thi",
+      "sem_score": 63.0,
+      "kw_score": 55.6,
+      "combined_score": 75.0,
+      "status": "PASS"
+    },
+    {
+      "idx": 30,
+      "query": "Trần Nguyễn Ngọc Bảng 3.20 trang 76 nguồn dữ liệu",
+      "expected": [
+        "3.20",
+        "76"
+      ],
+      "found": [
+        "3.20",
+        "76"
+      ],
+      "top_id": "p31",
+      "top_section": "I. Viet Nam",
+      "top_paper": "TranNguyenNgoc2018",
+      "top_excerpt": "[1.1.3. Kết quả chính] [Paper:TranNguyenNgoc2018]\nBảng 1. Mức độ lo âu HAM-A theo thời gian điều trị (n = 99). Nguồn: Trần Nguyễn Ngọc 2018, Bảng 3.20, tr. 76.",
+      "sem_score": 57.8,
+      "kw_score": 70.0,
+      "combined_score": 77.7,
+      "status": "PASS"
+    },
+    {
+      "idx": 31,
+      "query": "Trần Nguyễn Ngọc Bảng 3.23 trang 78",
+      "expected": [
+        "3.23",
+        "78"
+      ],
+      "found": [
+        "3.23",
+        "78"
+      ],
+      "top_id": "t19",
+      "top_section": "I. Viet Nam",
+      "top_paper": "TranNguyenNgoc2018",
+      "top_excerpt": "[1.1.1. Thông tin thư mục] [Paper:TranNguyenNgoc2018]\nHEADERS: Mục | Chi tiết\nMục=Tác giả | Chi tiết=Trần Nguyễn Ngọc\nMục=Hướng dẫn khoa học | Chi tiết=PGS. TS. Nguyễn Kim Việt\nMục=Loại tài liệu | Chi",
+      "sem_score": 59.6,
+      "kw_score": 71.4,
+      "combined_score": 79.3,
+      "status": "PASS"
+    },
+    {
+      "idx": 32,
+      "query": "Trần Nguyễn Ngọc cấu trúc 5 phần buổi tập",
+      "expected": [
+        "15 phút",
+        "10 phút"
+      ],
+      "found": [],
+      "top_id": "t19",
+      "top_section": "I. Viet Nam",
+      "top_paper": "TranNguyenNgoc2018",
+      "top_excerpt": "[1.1.1. Thông tin thư mục] [Paper:TranNguyenNgoc2018]\nHEADERS: Mục | Chi tiết\nMục=Tác giả | Chi tiết=Trần Nguyễn Ngọc\nMục=Hướng dẫn khoa học | Chi tiết=PGS. TS. Nguyễn Kim Việt\nMục=Loại tài liệu | Chi",
+      "sem_score": 62.1,
+      "kw_score": 62.5,
+      "combined_score": 77.3,
+      "status": "FAIL"
+    },
+    {
+      "idx": 33,
+      "query": "Trần Nguyễn Ngọc Yoga thư giãn thở 3 thành phần",
+      "expected": [
+        "Jacobson",
+        "Schultz"
+      ],
+      "found": [
+        "Jacobson",
+        "Schultz"
+      ],
+      "top_id": "p23",
+      "top_section": "I. Viet Nam",
+      "top_paper": "TranNguyenNgoc2018",
+      "top_excerpt": "[1.1.2. Mô tả can thiệp] [Paper:TranNguyenNgoc2018]\n• Phần TẬP THỞ: thở bụng, thở chậm sâu, thở luân phiên theo nguyên tắc Yoga. Tác động lên biến thiên tần số tim (HRV), cân bằng hệ thần kinh tự chủ ",
+      "sem_score": 75.5,
+      "kw_score": 66.7,
+      "combined_score": 87.0,
+      "status": "PASS"
+    },
+    {
+      "idx": 34,
+      "query": "Trần Nguyễn Ngọc Montgomery 13.3 phần trăm",
+      "expected": [
+        "13,3",
+        "Montgomery"
+      ],
+      "found": [
+        "13,3",
+        "Montgomery"
+      ],
+      "top_id": "p42",
+      "top_section": "I. Viet Nam",
+      "top_paper": "TranNguyenNgoc2018",
+      "top_excerpt": "[1.1.4. Đặc điểm lâm sàng đáng chú ý (n = 170)] [Paper:TranNguyenNgoc2018]\n• Theo Montgomery (2010, được Trần Nguyễn Ngọc 2018 trích dẫn ở tr. 1), chỉ khoảng 13,3 % bệnh nhân RLLA đến khám VÌ triệu ch",
+      "sem_score": 30.0,
+      "kw_score": 71.4,
+      "combined_score": 61.6,
+      "status": "PASS"
+    },
+    {
+      "idx": 35,
+      "query": "Trần Nguyễn Ngọc CGI mức nặng giảm",
+      "expected": [
+        "52,5",
+        "9,1"
+      ],
+      "found": [
+        "52,5",
+        "9,1"
+      ],
+      "top_id": "p36",
+      "top_section": "I. Viet Nam",
+      "top_paper": "TranNguyenNgoc2018",
+      "top_excerpt": "[1.1.3. Kết quả chính] [Paper:TranNguyenNgoc2018]\nTrên thang đánh giá tổng thể bệnh trạng CGI (Bảng 3.29 tr. 82), tỷ lệ bệnh nhân ở mức NẶNG / RẤT NẶNG giảm từ 52,5 % (T0) xuống 13,1 % (T2) và còn 9,1",
+      "sem_score": 57.9,
+      "kw_score": 57.1,
+      "combined_score": 72.6,
+      "status": "PASS"
+    },
+    {
+      "idx": 36,
+      "query": "Trần Nguyễn Ngọc đối tượng người lớn không phải VTN",
+      "expected": [
+        "người lớn"
+      ],
+      "found": [
+        "người lớn"
+      ],
+      "top_id": "p185",
+      "top_section": "IV. Tong ket",
+      "top_paper": "TranNguyenNgoc2018",
+      "top_excerpt": "[4.5. Kết luận] [Paper:TranNguyenNgoc2018]\nViệt Nam đang có khoảng trống RẤT LỚN về nghiên cứu can thiệp tâm lý cho VTN có RLLA — 0 RCT trong hệ thống 58 bài. Trần Nguyễn Ngọc 2018 là cơ sở duy nhất t",
+      "sem_score": 61.8,
+      "kw_score": 100.0,
+      "combined_score": 92.1,
+      "status": "PASS"
+    },
+    {
+      "idx": 37,
+      "query": "Trần Nguyễn Ngọc luận án đầu tiên Việt Nam",
+      "expected": [
+        "ĐẦU TIÊN",
+        "Việt Nam"
+      ],
+      "found": [
+        "ĐẦU TIÊN",
+        "Việt Nam"
+      ],
+      "top_id": "p185",
+      "top_section": "IV. Tong ket",
+      "top_paper": "TranNguyenNgoc2018",
+      "top_excerpt": "[4.5. Kết luận] [Paper:TranNguyenNgoc2018]\nViệt Nam đang có khoảng trống RẤT LỚN về nghiên cứu can thiệp tâm lý cho VTN có RLLA — 0 RCT trong hệ thống 58 bài. Trần Nguyễn Ngọc 2018 là cơ sở duy nhất t",
+      "sem_score": 56.4,
+      "kw_score": 100.0,
+      "combined_score": 88.8,
+      "status": "PASS"
+    },
+    {
+      "idx": 38,
+      "query": "Trần Nguyễn Ngọc thiết kế không có nhóm đối chứng",
+      "expected": [
+        "không đối chứng"
+      ],
+      "found": [],
+      "top_id": "p185",
+      "top_section": "IV. Tong ket",
+      "top_paper": "TranNguyenNgoc2018",
+      "top_excerpt": "[4.5. Kết luận] [Paper:TranNguyenNgoc2018]\nViệt Nam đang có khoảng trống RẤT LỚN về nghiên cứu can thiệp tâm lý cho VTN có RLLA — 0 RCT trong hệ thống 58 bài. Trần Nguyễn Ngọc 2018 là cơ sở duy nhất t",
+      "sem_score": 36.0,
+      "kw_score": 100.0,
+      "combined_score": 76.6,
+      "status": "FAIL"
+    },
+    {
+      "idx": 39,
+      "query": "Trần Nguyễn Ngọc Naomi Breslau cỡ mẫu",
+      "expected": [
+        "Breslau"
+      ],
+      "found": [
+        "Breslau"
+      ],
+      "top_id": "p46",
+      "top_section": "I. Viet Nam",
+      "top_paper": "TranNguyenNgoc2018",
+      "top_excerpt": "[1.1.5. Quan điểm phản biện] [Paper:TranNguyenNgoc2018]\n• Cỡ mẫu lớn cho mô tả lâm sàng (n = 170) và đủ cho can thiệp trước–sau (n = 99), tính theo công thức dựa trên Naomi Breslau với độ chính xác Δ ",
+      "sem_score": 40.7,
+      "kw_score": 57.1,
+      "combined_score": 62.3,
+      "status": "PASS"
+    },
+    {
+      "idx": 40,
+      "query": "Trần Nguyễn Ngọc khả năng nhân rộng cộng đồng",
+      "expected": [
+        "nhân rộng",
+        "rẻ tiền"
+      ],
+      "found": [],
+      "top_id": "t19",
+      "top_section": "I. Viet Nam",
+      "top_paper": "TranNguyenNgoc2018",
+      "top_excerpt": "[1.1.1. Thông tin thư mục] [Paper:TranNguyenNgoc2018]\nHEADERS: Mục | Chi tiết\nMục=Tác giả | Chi tiết=Trần Nguyễn Ngọc\nMục=Hướng dẫn khoa học | Chi tiết=PGS. TS. Nguyễn Kim Việt\nMục=Loại tài liệu | Chi",
+      "sem_score": 59.4,
+      "kw_score": 44.4,
+      "combined_score": 68.4,
+      "status": "FAIL"
+    },
+    {
+      "idx": 41,
+      "query": "De Silva 2024 Sri Lanka Cluster RCT thiết kế",
+      "expected": [
+        "cluster RCT",
+        "Sri Lanka"
+      ],
+      "found": [
+        "cluster RCT",
+        "Sri Lanka"
+      ],
+      "top_id": "p75",
+      "top_section": "II. Chau A",
+      "top_paper": "DeSilva2024",
+      "top_excerpt": "[2.3. De Silva et al. (2024) — Cluster RCT can thiệp CBT trường tại Sri Lanka] [Paper:DeSilva2024]\nKết quả chính (De Silva et al. 2024, Bảng 3 tr. 7):",
+      "sem_score": 78.1,
+      "kw_score": 88.9,
+      "combined_score": 97.4,
+      "status": "PASS"
+    },
+    {
+      "idx": 42,
+      "query": "De Silva tổng số học sinh tham gia",
+      "expected": [
+        "720"
+      ],
+      "found": [
+        "720"
+      ],
+      "top_id": "p142",
+      "top_section": "III. Chau Au - Uc - My",
+      "top_paper": "Brown2025",
+      "top_excerpt": "[3.4. Brown & Carter (2025) — Editorial UK về can thiệp tại trường] [Paper:Brown2025]\n4. CO-DESIGN (cho học sinh tham gia thiết kế can thiệp) tăng engagement đáng kể — đặc biệt với học sinh từ các nhó",
+      "sem_score": 44.4,
+      "kw_score": 75.0,
+      "combined_score": 56.7,
+      "status": "PASS"
+    },
+    {
+      "idx": 43,
+      "query": "De Silva số trường được phân ngẫu nhiên",
+      "expected": [
+        "36 trường"
+      ],
+      "found": [
+        "36 trường"
+      ],
+      "top_id": "p73",
+      "top_section": "II. Chau A",
+      "top_paper": "DeSilva2024",
+      "top_excerpt": "[2.3. De Silva et al. (2024) — Cluster RCT can thiệp CBT trường tại Sri Lanka] [Paper:DeSilva2024]\nThử nghiệm ngẫu nhiên có đối chứng theo cụm (cluster RCT) — phân ngẫu nhiên 36 TRƯỜNG học (không phải",
+      "sem_score": 39.3,
+      "kw_score": 75.0,
+      "combined_score": 53.6,
+      "status": "PASS"
+    },
+    {
+      "idx": 44,
+      "query": "De Silva học sinh lớp tuổi nào",
+      "expected": [
+        "lớp 9"
+      ],
+      "found": [
+        "lớp 9"
+      ],
+      "top_id": "p73",
+      "top_section": "II. Chau A",
+      "top_paper": "DeSilva2024",
+      "top_excerpt": "[2.3. De Silva et al. (2024) — Cluster RCT can thiệp CBT trường tại Sri Lanka] [Paper:DeSilva2024]\nThử nghiệm ngẫu nhiên có đối chứng theo cụm (cluster RCT) — phân ngẫu nhiên 36 TRƯỜNG học (không phải",
+      "sem_score": 32.1,
+      "kw_score": 85.7,
+      "combined_score": 53.6,
+      "status": "PASS"
+    },
+    {
+      "idx": 45,
+      "query": "De Silva 8 phiên CBT mỗi tuần",
+      "expected": [
+        "8 phiên"
+      ],
+      "found": [
+        "8 phiên"
+      ],
+      "top_id": "p74",
+      "top_section": "II. Chau A",
+      "top_paper": "DeSilva2024",
+      "top_excerpt": "[2.3. De Silva et al. (2024) — Cluster RCT can thiệp CBT trường tại Sri Lanka] [Paper:DeSilva2024]\nCan thiệp gồm 8 phiên CBT mỗi tuần, 40 phút/phiên, do GIÁO VIÊN cung cấp sau khi được đào tạo. Chương",
+      "sem_score": 55.8,
+      "kw_score": 100.0,
+      "combined_score": 73.5,
+      "status": "PASS"
+    },
+    {
+      "idx": 46,
+      "query": "De Silva 40 phút mỗi phiên",
+      "expected": [
+        "40 phút"
+      ],
+      "found": [
+        "40 phút"
+      ],
+      "top_id": "p74",
+      "top_section": "II. Chau A",
+      "top_paper": "DeSilva2024",
+      "top_excerpt": "[2.3. De Silva et al. (2024) — Cluster RCT can thiệp CBT trường tại Sri Lanka] [Paper:DeSilva2024]\nCan thiệp gồm 8 phiên CBT mỗi tuần, 40 phút/phiên, do GIÁO VIÊN cung cấp sau khi được đào tạo. Chương",
+      "sem_score": 26.8,
+      "kw_score": 100.0,
+      "combined_score": 56.1,
+      "status": "PASS"
+    },
+    {
+      "idx": 47,
+      "query": "De Silva ai cung cấp can thiệp",
+      "expected": [
+        "giáo viên"
+      ],
+      "found": [
+        "giáo viên"
+      ],
+      "top_id": "t181",
+      "top_section": "IV. Tong ket",
+      "top_paper": "Menon2025",
+      "top_excerpt": "[4.4. Đề xuất thiết kế can thiệp cho đề cương Việt Nam (giai đoạn 2)] [Paper:Menon2025]\nHEADERS: Thành phần | Số buổi | Cơ sở bằng chứng | Áp dụng VN\nThành phần=1. CBT NHÓM TARGETED | Số buổi=8 buổi ×",
+      "sem_score": 39.3,
+      "kw_score": 100.0,
+      "combined_score": 63.6,
+      "status": "PASS"
+    },
+    {
+      "idx": 48,
+      "query": "De Silva tỷ lệ mất mẫu rất thấp",
+      "expected": [
+        "< 1",
+        "mất mẫu"
+      ],
+      "found": [
+        "< 1",
+        "mất mẫu"
+      ],
+      "top_id": "p76",
+      "top_section": "II. Chau A",
+      "top_paper": "DeSilva2024",
+      "top_excerpt": "[2.3. De Silva et al. (2024) — Cluster RCT can thiệp CBT trường tại Sri Lanka] [Paper:DeSilva2024]\n• Tỷ lệ mất mẫu < 1 % — tuân thủ rất cao, chứng tỏ tính khả thi của mô hình.",
+      "sem_score": 39.4,
+      "kw_score": 87.5,
+      "combined_score": 58.7,
+      "status": "PASS"
+    },
+    {
+      "idx": 49,
+      "query": "De Silva beta giảm lo âu sau 3 tháng",
+      "expected": [
+        "−0,096",
+        "0,038"
+      ],
+      "found": [
+        "−0,096",
+        "0,038"
+      ],
+      "top_id": "p77",
+      "top_section": "II. Chau A",
+      "top_paper": "DeSilva2024",
+      "top_excerpt": "[2.3. De Silva et al. (2024) — Cluster RCT can thiệp CBT trường tại Sri Lanka] [Paper:DeSilva2024]\n• Lo âu giảm có ý nghĩa thống kê sau 3 tháng: β = −0,096 (KTC 95 %: −0,186 đến −0,005, p = 0,038).",
+      "sem_score": 38.8,
+      "kw_score": 85.7,
+      "combined_score": 57.6,
+      "status": "PASS"
+    },
+    {
+      "idx": 50,
+      "query": "De Silva tự trọng tăng beta",
+      "expected": [
+        "0,811"
+      ],
+      "found": [
+        "0,811"
+      ],
+      "top_id": "p78",
+      "top_section": "II. Chau A",
+      "top_paper": "DeSilva2024",
+      "top_excerpt": "[2.3. De Silva et al. (2024) — Cluster RCT can thiệp CBT trường tại Sri Lanka] [Paper:DeSilva2024]\n• Tự trọng (self-esteem) tăng có ý nghĩa: β = +0,811 sau can thiệp (cùng bảng).",
+      "sem_score": 42.6,
+      "kw_score": 83.3,
+      "combined_score": 58.9,
+      "status": "PASS"
+    },
+    {
+      "idx": 51,
+      "query": "De Silva DOI Child Adolesc Psychiatry Mental Health",
+      "expected": [
+        "18",
+        "108"
+      ],
+      "found": [
+        "18",
+        "108"
+      ],
+      "top_id": "p190",
+      "top_section": "V. Tai lieu tham khao",
+      "top_paper": "DeSilva2024",
+      "top_excerpt": "[TÀI LIỆU THAM KHẢO] [Paper:DeSilva2024]\nBài 42 — De Silva, S., Bowers, A., Wijesinghe, M., Gamage, A., & Hapangama, A. (2024). Effectiveness of a cognitive behavioural therapy (CBT)-based interventio",
+      "sem_score": 63.5,
+      "kw_score": 100.0,
+      "combined_score": 89.1,
+      "status": "PASS"
+    },
+    {
+      "idx": 52,
+      "query": "De Silva mô hình khả thi LMIC",
+      "expected": [
+        "LMIC",
+        "khả thi"
+      ],
+      "found": [
+        "LMIC",
+        "khả thi"
+      ],
+      "top_id": "p176",
+      "top_section": "IV. Tong ket",
+      "top_paper": "DeSilva2024",
+      "top_excerpt": "[4.3. Năm khoảng trống nghiên cứu can thiệp tại Việt Nam] [Paper:DeSilva2024]\n3. Đào tạo GIÁO VIÊN cung cấp CBT tại trường — mô hình De Silva 2024 (Sri Lanka) khả thi cho LMIC.",
+      "sem_score": 42.5,
+      "kw_score": 100.0,
+      "combined_score": 65.5,
+      "status": "PASS"
+    },
+    {
+      "idx": 53,
+      "query": "Xian 2024 Network Meta-Analysis Bayesian SAD",
+      "expected": [
+        "NMA",
+        "Bayesian"
+      ],
+      "found": [
+        "NMA",
+        "Bayesian"
+      ],
+      "top_id": "t83",
+      "top_section": "II. Chau A",
+      "top_paper": "Xian2024",
+      "top_excerpt": "[2.4. Xian, Zhang & Jiang (2024) — Network Meta-Analysis 30 RCT cho SAD] [Paper:Xian2024]\nHEADERS: Hạng | Liệu pháp | SUCRA (%) | Ghi chú\nHạng=1 | Liệu pháp=iCBT (CBT internet) | SUCRA (%)=71,2 | Ghi ",
+      "sem_score": 58.6,
+      "kw_score": 83.3,
+      "combined_score": 83.5,
+      "status": "PASS"
+    },
+    {
+      "idx": 54,
+      "query": "Xian tổng số RCT được phân tích",
+      "expected": [
+        "30 RCT"
+      ],
+      "found": [
+        "30 RCT"
+      ],
+      "top_id": "p9",
+      "top_section": "0. Tom luoc",
+      "top_paper": "Walder2025",
+      "top_excerpt": "[TÓM LƯỢC ĐIỀU HÀNH] [Paper:Walder2025]\nThứ hai, CBT qua Internet (iCBT) cho rối loạn lo âu xã hội (SAD) đứng hạng 1 trong phân tích tổng hợp mạng 30 RCT (Xian, Zhang & Jiang 2024, J Affect Disord 365",
+      "sem_score": 54.2,
+      "kw_score": 85.7,
+      "combined_score": 66.8,
+      "status": "PASS"
+    },
+    {
+      "idx": 55,
+      "query": "Xian tổng số người tham gia VTN",
+      "expected": [
+        "1.547"
+      ],
+      "found": [
+        "1.547"
+      ],
+      "top_id": "p185",
+      "top_section": "IV. Tong ket",
+      "top_paper": "TranNguyenNgoc2018",
+      "top_excerpt": "[4.5. Kết luận] [Paper:TranNguyenNgoc2018]\nViệt Nam đang có khoảng trống RẤT LỚN về nghiên cứu can thiệp tâm lý cho VTN có RLLA — 0 RCT trong hệ thống 58 bài. Trần Nguyễn Ngọc 2018 là cơ sở duy nhất t",
+      "sem_score": 48.9,
+      "kw_score": 57.1,
+      "combined_score": 52.2,
+      "status": "PASS"
+    },
+    {
+      "idx": 56,
+      "query": "Xian iCBT SUCRA hạng 1",
+      "expected": [
+        "71,2"
+      ],
+      "found": [
+        "71,2"
+      ],
+      "top_id": "t83",
+      "top_section": "II. Chau A",
+      "top_paper": "Xian2024",
+      "top_excerpt": "[2.4. Xian, Zhang & Jiang (2024) — Network Meta-Analysis 30 RCT cho SAD] [Paper:Xian2024]\nHEADERS: Hạng | Liệu pháp | SUCRA (%) | Ghi chú\nHạng=1 | Liệu pháp=iCBT (CBT internet) | SUCRA (%)=71,2 | Ghi ",
+      "sem_score": 56.6,
+      "kw_score": 100.0,
+      "combined_score": 74.0,
+      "status": "PASS"
+    },
+    {
+      "idx": 57,
+      "query": "Xian gCBT nhóm SUCRA",
+      "expected": [
+        "68,4"
+      ],
+      "found": [
+        "68,4"
+      ],
+      "top_id": "t83",
+      "top_section": "II. Chau A",
+      "top_paper": "Xian2024",
+      "top_excerpt": "[2.4. Xian, Zhang & Jiang (2024) — Network Meta-Analysis 30 RCT cho SAD] [Paper:Xian2024]\nHEADERS: Hạng | Liệu pháp | SUCRA (%) | Ghi chú\nHạng=1 | Liệu pháp=iCBT (CBT internet) | SUCRA (%)=71,2 | Ghi ",
+      "sem_score": 47.9,
+      "kw_score": 100.0,
+      "combined_score": 68.7,
+      "status": "PASS"
+    },
+    {
+      "idx": 58,
+      "query": "Xian I-CBT cá nhân SUCRA",
+      "expected": [
+        "66,0"
+      ],
+      "found": [
+        "66,0"
+      ],
+      "top_id": "t83",
+      "top_section": "II. Chau A",
+      "top_paper": "Xian2024",
+      "top_excerpt": "[2.4. Xian, Zhang & Jiang (2024) — Network Meta-Analysis 30 RCT cho SAD] [Paper:Xian2024]\nHEADERS: Hạng | Liệu pháp | SUCRA (%) | Ghi chú\nHạng=1 | Liệu pháp=iCBT (CBT internet) | SUCRA (%)=71,2 | Ghi ",
+      "sem_score": 54.3,
+      "kw_score": 100.0,
+      "combined_score": 72.6,
+      "status": "PASS"
+    },
+    {
+      "idx": 59,
+      "query": "Xian iCBT trầm cảm SUCRA hai trong một",
+      "expected": [
+        "92,2"
+      ],
+      "found": [
+        "92,2"
+      ],
+      "top_id": "p85",
+      "top_section": "II. Chau A",
+      "top_paper": "Xian2024",
+      "top_excerpt": "[2.4. Xian, Zhang & Jiang (2024) — Network Meta-Analysis 30 RCT cho SAD] [Paper:Xian2024]\nHai phát hiện phụ quan trọng (Bảng 3 tr. 620–621): iCBT cho hiệu quả tốt nhất với TRẦM CẢM kèm theo (SUCRA 92,",
+      "sem_score": 52.4,
+      "kw_score": 100.0,
+      "combined_score": 71.5,
+      "status": "PASS"
+    },
+    {
+      "idx": 60,
+      "query": "Xian gCBT chức năng cải thiện",
+      "expected": [
+        "89,6"
+      ],
+      "found": [
+        "89,6"
+      ],
+      "top_id": "p85",
+      "top_section": "II. Chau A",
+      "top_paper": "Xian2024",
+      "top_excerpt": "[2.4. Xian, Zhang & Jiang (2024) — Network Meta-Analysis 30 RCT cho SAD] [Paper:Xian2024]\nHai phát hiện phụ quan trọng (Bảng 3 tr. 620–621): iCBT cho hiệu quả tốt nhất với TRẦM CẢM kèm theo (SUCRA 92,",
+      "sem_score": 58.3,
+      "kw_score": 100.0,
+      "combined_score": 75.0,
+      "status": "PASS"
+    },
+    {
+      "idx": 61,
+      "query": "Xian Tạp chí J Affect Disord trang",
+      "expected": [
+        "614",
+        "627"
+      ],
+      "found": [
+        "614",
+        "627"
+      ],
+      "top_id": "p9",
+      "top_section": "0. Tom luoc",
+      "top_paper": "Walder2025",
+      "top_excerpt": "[TÓM LƯỢC ĐIỀU HÀNH] [Paper:Walder2025]\nThứ hai, CBT qua Internet (iCBT) cho rối loạn lo âu xã hội (SAD) đứng hạng 1 trong phân tích tổng hợp mạng 30 RCT (Xian, Zhang & Jiang 2024, J Affect Disord 365",
+      "sem_score": 35.0,
+      "kw_score": 50.0,
+      "combined_score": 41.0,
+      "status": "PASS"
+    },
+    {
+      "idx": 62,
+      "query": "Xian PROSPERO đăng ký",
+      "expected": [
+        "CRD42023476829"
+      ],
+      "found": [
+        "CRD42023476829"
+      ],
+      "top_id": "p81",
+      "top_section": "II. Chau A",
+      "top_paper": "Xian2024",
+      "top_excerpt": "[2.4. Xian, Zhang & Jiang (2024) — Network Meta-Analysis 30 RCT cho SAD] [Paper:Xian2024]\nPhân tích tổng hợp mạng Bayesian 30 RCT, n = 1.547 vị thành niên có Lo âu Xã hội (SAD), 9 liệu pháp + 3 nhóm đ",
+      "sem_score": 30.0,
+      "kw_score": 75.0,
+      "combined_score": 61.5,
+      "status": "PASS"
+    },
+    {
+      "idx": 63,
+      "query": "Sasaki 2024 Nhật Bản RCT đa trung tâm subthreshold",
+      "expected": [
+        "Sasaki",
+        "Nhật"
+      ],
+      "found": [
+        "Sasaki",
+        "Nhật"
+      ],
+      "top_id": "p90",
+      "top_section": "II. Chau A",
+      "top_paper": "Sasaki2024",
+      "top_excerpt": "[2.5. Sasaki et al. (2024) — RCT iCBT đa trung tâm tại Nhật Bản] [Paper:Sasaki2024]\nKết quả chính (Sasaki et al. 2024, Bảng 2 tr. 7):",
+      "sem_score": 75.1,
+      "kw_score": 88.9,
+      "combined_score": 95.6,
+      "status": "PASS"
+    },
+    {
+      "idx": 64,
+      "query": "Sasaki bao nhiêu HS SV đăng ký",
+      "expected": [
+        "77"
+      ],
+      "found": [
+        "77"
+      ],
+      "top_id": "p91",
+      "top_section": "II. Chau A",
+      "top_paper": "Sasaki2024",
+      "top_excerpt": "[2.5. Sasaki et al. (2024) — RCT iCBT đa trung tâm tại Nhật Bản] [Paper:Sasaki2024]\n• Tỷ lệ đáp ứng (response rate) 61 %, OR = 4,97 so với nhóm chờ.",
+      "sem_score": 46.2,
+      "kw_score": 14.3,
+      "combined_score": 33.4,
+      "status": "PASS"
+    },
+    {
+      "idx": 65,
+      "query": "Sasaki nhóm can thiệp đối chứng",
+      "expected": [
+        "38",
+        "39"
+      ],
+      "found": [
+        "38",
+        "39"
+      ],
+      "top_id": "p93",
+      "top_section": "II. Chau A",
+      "top_paper": "Sasaki2024",
+      "top_excerpt": "[2.5. Sasaki et al. (2024) — RCT iCBT đa trung tâm tại Nhật Bản] [Paper:Sasaki2024]\n• ANCOVA với trầm cảm là biến đồng: nhóm can thiệp giảm có ý nghĩa thống kê triệu chứng lo âu xã hội so với nhóm đối",
+      "sem_score": 48.3,
+      "kw_score": 100.0,
+      "combined_score": 69.0,
+      "status": "PASS"
+    },
+    {
+      "idx": 66,
+      "query": "Sasaki 6 đại học và trường THPT",
+      "expected": [
+        "6 đại học",
+        "THPT"
+      ],
+      "found": [
+        "6 đại học",
+        "THPT"
+      ],
+      "top_id": "p88",
+      "top_section": "II. Chau A",
+      "top_paper": "Sasaki2024",
+      "top_excerpt": "[2.5. Sasaki et al. (2024) — RCT iCBT đa trung tâm tại Nhật Bản] [Paper:Sasaki2024]\nThử nghiệm ngẫu nhiên đa trung tâm tại 6 đại học và 1 trường THPT Nhật Bản, từ 12/2022 đến 10/2023. Đối tượng là học",
+      "sem_score": 39.0,
+      "kw_score": 100.0,
+      "combined_score": 63.4,
+      "status": "PASS"
+    },
+    {
+      "idx": 67,
+      "query": "Sasaki iCBT tự học không hướng dẫn",
+      "expected": [
+        "tự học"
+      ],
+      "found": [
+        "tự học"
+      ],
+      "top_id": "p89",
+      "top_section": "II. Chau A",
+      "top_paper": "Sasaki2024",
+      "top_excerpt": "[2.5. Sasaki et al. (2024) — RCT iCBT đa trung tâm tại Nhật Bản] [Paper:Sasaki2024]\nCan thiệp: iCBT TỰ HỌC HOÀN TOÀN (không có hướng dẫn người), 8 module qua web. Chi phí thực hiện thấp nhất trong các",
+      "sem_score": 57.1,
+      "kw_score": 100.0,
+      "combined_score": 74.2,
+      "status": "PASS"
+    },
+    {
+      "idx": 68,
+      "query": "Sasaki tỷ lệ đáp ứng",
+      "expected": [
+        "61"
+      ],
+      "found": [
+        "61"
+      ],
+      "top_id": "p91",
+      "top_section": "II. Chau A",
+      "top_paper": "Sasaki2024",
+      "top_excerpt": "[2.5. Sasaki et al. (2024) — RCT iCBT đa trung tâm tại Nhật Bản] [Paper:Sasaki2024]\n• Tỷ lệ đáp ứng (response rate) 61 %, OR = 4,97 so với nhóm chờ.",
+      "sem_score": 67.8,
+      "kw_score": 100.0,
+      "combined_score": 80.7,
+      "status": "PASS"
+    },
+    {
+      "idx": 69,
+      "query": "Sasaki OR đáp ứng",
+      "expected": [
+        "4,97"
+      ],
+      "found": [
+        "4,97"
+      ],
+      "top_id": "p91",
+      "top_section": "II. Chau A",
+      "top_paper": "Sasaki2024",
+      "top_excerpt": "[2.5. Sasaki et al. (2024) — RCT iCBT đa trung tâm tại Nhật Bản] [Paper:Sasaki2024]\n• Tỷ lệ đáp ứng (response rate) 61 %, OR = 4,97 so với nhóm chờ.",
+      "sem_score": 47.4,
+      "kw_score": 100.0,
+      "combined_score": 68.5,
+      "status": "PASS"
+    },
+    {
+      "idx": 70,
+      "query": "Sasaki tỷ lệ phục hồi",
+      "expected": [
+        "68"
+      ],
+      "found": [
+        "68"
+      ],
+      "top_id": "p92",
+      "top_section": "II. Chau A",
+      "top_paper": "Sasaki2024",
+      "top_excerpt": "[2.5. Sasaki et al. (2024) — RCT iCBT đa trung tâm tại Nhật Bản] [Paper:Sasaki2024]\n• Tỷ lệ phục hồi (recovery rate) 68 %, OR = 3,95.",
+      "sem_score": 75.4,
+      "kw_score": 100.0,
+      "combined_score": 85.2,
+      "status": "PASS"
+    },
+    {
+      "idx": 71,
+      "query": "Sasaki OR phục hồi",
+      "expected": [
+        "3,95"
+      ],
+      "found": [
+        "3,95"
+      ],
+      "top_id": "p92",
+      "top_section": "II. Chau A",
+      "top_paper": "Sasaki2024",
+      "top_excerpt": "[2.5. Sasaki et al. (2024) — RCT iCBT đa trung tâm tại Nhật Bản] [Paper:Sasaki2024]\n• Tỷ lệ phục hồi (recovery rate) 68 %, OR = 3,95.",
+      "sem_score": 59.1,
+      "kw_score": 100.0,
+      "combined_score": 75.5,
+      "status": "PASS"
+    },
+    {
+      "idx": 72,
+      "query": "Sasaki UMIN đăng ký",
+      "expected": [
+        "UMIN000049768"
+      ],
+      "found": [
+        "UMIN000049768"
+      ],
+      "top_id": "p88",
+      "top_section": "II. Chau A",
+      "top_paper": "Sasaki2024",
+      "top_excerpt": "[2.5. Sasaki et al. (2024) — RCT iCBT đa trung tâm tại Nhật Bản] [Paper:Sasaki2024]\nThử nghiệm ngẫu nhiên đa trung tâm tại 6 đại học và 1 trường THPT Nhật Bản, từ 12/2022 đến 10/2023. Đối tượng là học",
+      "sem_score": 19.2,
+      "kw_score": 75.0,
+      "combined_score": 41.5,
+      "status": "PASS"
+    },
+    {
+      "idx": 73,
+      "query": "Praptomojati 2024 CA-CBT Đông Nam Á",
+      "expected": [
+        "CA-CBT",
+        "Praptomojati"
+      ],
+      "found": [
+        "CA-CBT",
+        "Praptomojati"
+      ],
+      "top_id": "p69",
+      "top_section": "II. Chau A",
+      "top_paper": "Praptomojati2024",
+      "top_excerpt": "[2.2. Praptomojati & Hartanto (2024) — CA-CBT cho rối loạn lo âu ở Đông Nam Á] [Paper:Praptomojati2024]\nTổng quan hệ thống về Liệu pháp Nhận thức – Hành vi Thích ứng Văn hoá (Culturally Adapted CBT — ",
+      "sem_score": 58.0,
+      "kw_score": 100.0,
+      "combined_score": 89.8,
+      "status": "PASS"
+    },
+    {
+      "idx": 74,
+      "query": "Praptomojati tổng số nghiên cứu trong SR",
+      "expected": [
+        "7 nghiên cứu",
+        "7 NC"
+      ],
+      "found": [
+        "7 nghiên cứu",
+        "7 NC"
+      ],
+      "top_id": "t66",
+      "top_section": "II. Chau A",
+      "top_paper": "Xian2024|DeSilva2024|Qiaochu2025|Menon2025|Li2025|Sasaki2024|Praptomojati2024",
+      "top_excerpt": "[2.1. Tổng quan 7 nghiên cứu can thiệp Châu Á]\nHEADERS: # | Tác giả / Năm | Quốc gia | Loại nghiên cứu | Đối tượng / Cỡ mẫu | Phát hiện then chốt\n#=41 | Tác giả / Năm=Praptomojati & Hartanto 2024 | Qu",
+      "sem_score": 45.3,
+      "kw_score": 83.3,
+      "combined_score": 75.5,
+      "status": "PASS"
+    },
+    {
+      "idx": 75,
+      "query": "Praptomojati Asian Journal of Psychiatry tạp chí",
+      "expected": [
+        "Asian Journal"
+      ],
+      "found": [
+        "Asian Journal"
+      ],
+      "top_id": "p69",
+      "top_section": "II. Chau A",
+      "top_paper": "Praptomojati2024",
+      "top_excerpt": "[2.2. Praptomojati & Hartanto (2024) — CA-CBT cho rối loạn lo âu ở Đông Nam Á] [Paper:Praptomojati2024]\nTổng quan hệ thống về Liệu pháp Nhận thức – Hành vi Thích ứng Văn hoá (Culturally Adapted CBT — ",
+      "sem_score": 76.5,
+      "kw_score": 100.0,
+      "combined_score": 100.9,
+      "status": "PASS"
+    },
+    {
+      "idx": 76,
+      "query": "Praptomojati 0 nghiên cứu nào từ Việt Nam",
+      "expected": [
+        "Việt Nam"
+      ],
+      "found": [
+        "Việt Nam"
+      ],
+      "top_id": "p69",
+      "top_section": "II. Chau A",
+      "top_paper": "Praptomojati2024",
+      "top_excerpt": "[2.2. Praptomojati & Hartanto (2024) — CA-CBT cho rối loạn lo âu ở Đông Nam Á] [Paper:Praptomojati2024]\nTổng quan hệ thống về Liệu pháp Nhận thức – Hành vi Thích ứng Văn hoá (Culturally Adapted CBT — ",
+      "sem_score": 53.7,
+      "kw_score": 100.0,
+      "combined_score": 87.2,
+      "status": "PASS"
+    },
+    {
+      "idx": 77,
+      "query": "Praptomojati khung CTAF",
+      "expected": [
+        "CTAF"
+      ],
+      "found": [
+        "CTAF"
+      ],
+      "top_id": "p70",
+      "top_section": "II. Chau A",
+      "top_paper": "Praptomojati2024",
+      "top_excerpt": "[2.2. Praptomojati & Hartanto (2024) — CA-CBT cho rối loạn lo âu ở Đông Nam Á] [Paper:Praptomojati2024]\nHai trong số 7 nghiên cứu thực hiện thích ứng đa thành phần, hai nghiên cứu sửa đổi thành phần C",
+      "sem_score": 30.0,
+      "kw_score": 100.0,
+      "combined_score": 73.0,
+      "status": "PASS"
+    },
+    {
+      "idx": 78,
+      "query": "Praptomojati Hồi giáo Phật giáo thích ứng tôn giáo",
+      "expected": [
+        "Hồi giáo",
+        "Phật giáo"
+      ],
+      "found": [
+        "Hồi giáo",
+        "Phật giáo"
+      ],
+      "top_id": "p70",
+      "top_section": "II. Chau A",
+      "top_paper": "Praptomojati2024",
+      "top_excerpt": "[2.2. Praptomojati & Hartanto (2024) — CA-CBT cho rối loạn lo âu ở Đông Nam Á] [Paper:Praptomojati2024]\nHai trong số 7 nghiên cứu thực hiện thích ứng đa thành phần, hai nghiên cứu sửa đổi thành phần C",
+      "sem_score": 58.1,
+      "kw_score": 100.0,
+      "combined_score": 89.9,
+      "status": "PASS"
+    },
+    {
+      "idx": 79,
+      "query": "Qiaochu 2025 Mobile CBT 9 RCT",
+      "expected": [
+        "9 RCT",
+        "Qiaochu"
+      ],
+      "found": [
+        "9 RCT",
+        "Qiaochu"
+      ],
+      "top_id": "p97",
+      "top_section": "II. Chau A",
+      "top_paper": "Qiaochu2025",
+      "top_excerpt": "[2.6. Qiaochu & Wang (2025) — SR 9 RCT về Mobile CBT] [Paper:Qiaochu2025]\nPhát hiện then chốt (theo abstract Crossref):",
+      "sem_score": 76.5,
+      "kw_score": 100.0,
+      "combined_score": 100.9,
+      "status": "PASS"
+    },
+    {
+      "idx": 80,
+      "query": "Qiaochu tổng N người tham gia",
+      "expected": [
+        "2.479"
+      ],
+      "found": [
+        "2.479"
+      ],
+      "top_id": "t66",
+      "top_section": "II. Chau A",
+      "top_paper": "Xian2024|DeSilva2024|Qiaochu2025|Menon2025|Li2025|Sasaki2024|Praptomojati2024",
+      "top_excerpt": "[2.1. Tổng quan 7 nghiên cứu can thiệp Châu Á]\nHEADERS: # | Tác giả / Năm | Quốc gia | Loại nghiên cứu | Đối tượng / Cỡ mẫu | Phát hiện then chốt\n#=41 | Tác giả / Năm=Praptomojati & Hartanto 2024 | Qu",
+      "sem_score": 52.0,
+      "kw_score": 80.0,
+      "combined_score": 78.2,
+      "status": "PASS"
+    },
+    {
+      "idx": 81,
+      "query": "Qiaochu mobile trầm cảm tỷ lệ NC dương tính",
+      "expected": [
+        "7/8",
+        "87,5"
+      ],
+      "found": [
+        "7/8",
+        "87,5"
+      ],
+      "top_id": "p100",
+      "top_section": "II. Chau A",
+      "top_paper": "Qiaochu2025",
+      "top_excerpt": "[2.6. Qiaochu & Wang (2025) — SR 9 RCT về Mobile CBT] [Paper:Qiaochu2025]\n• Kết luận: Mobile CBT có hứa hẹn cho trầm cảm ở trẻ em và người trẻ, nhưng bằng chứng cho lo âu còn HẠN CHẾ.",
+      "sem_score": 67.6,
+      "kw_score": 44.4,
+      "combined_score": 73.4,
+      "status": "PASS"
+    },
+    {
+      "idx": 82,
+      "query": "Qiaochu mobile lo âu tỷ lệ NC dương tính",
+      "expected": [
+        "2/6",
+        "33,3"
+      ],
+      "found": [
+        "2/6",
+        "33,3"
+      ],
+      "top_id": "p99",
+      "top_section": "II. Chau A",
+      "top_paper": "Qiaochu2025",
+      "top_excerpt": "[2.6. Qiaochu & Wang (2025) — SR 9 RCT về Mobile CBT] [Paper:Qiaochu2025]\n• Chỉ 2 trên 6 nghiên cứu (33,3 %) đo LO ÂU cho thấy hiệu quả có ý nghĩa.",
+      "sem_score": 62.6,
+      "kw_score": 44.4,
+      "combined_score": 70.3,
+      "status": "PASS"
+    },
+    {
+      "idx": 83,
+      "query": "Qiaochu Clinical Psychology Psychotherapy DOI",
+      "expected": [
+        "e70173",
+        "cpp"
+      ],
+      "found": [
+        "e70173",
+        "cpp"
+      ],
+      "top_id": "p198",
+      "top_section": "V. Tai lieu tham khao",
+      "top_paper": "Qiaochu2025",
+      "top_excerpt": "[TÀI LIỆU THAM KHẢO] [Paper:Qiaochu2025]\nBài 57* — Qiaochu, Z., & Wang, Y. (2025). Effectiveness of mobile-based cognitive behavioural therapy for depression and anxiety in children and young people: ",
+      "sem_score": 53.8,
+      "kw_score": 100.0,
+      "combined_score": 101.1,
+      "status": "PASS"
+    },
+    {
+      "idx": 84,
+      "query": "Menon 2025 scoping review LMIC",
+      "expected": [
+        "Menon",
+        "scoping"
+      ],
+      "found": [
+        "Menon",
+        "scoping"
+      ],
+      "top_id": "p106",
+      "top_section": "II. Chau A",
+      "top_paper": "Menon2025",
+      "top_excerpt": "[2.7. Menon et al. (2025) — Scoping Review LMIC Đông Á – Thái Bình Dương] [Paper:Menon2025]\n• KHOẢNG TRỐNG ở: (a) thúc đẩy SK dựa CỘNG ĐỒNG; (b) phòng ngừa cấp GIA ĐÌNH; (c) dịch vụ ĐÁP ỨNG dài hạn.",
+      "sem_score": 54.0,
+      "kw_score": 100.0,
+      "combined_score": 87.4,
+      "status": "PASS"
+    },
+    {
+      "idx": 85,
+      "query": "Menon số nghiên cứu tổng hợp",
+      "expected": [
+        "69"
+      ],
+      "found": [],
+      "top_id": "t83",
+      "top_section": "II. Chau A",
+      "top_paper": "Xian2024",
+      "top_excerpt": "[2.4. Xian, Zhang & Jiang (2024) — Network Meta-Analysis 30 RCT cho SAD] [Paper:Xian2024]\nHEADERS: Hạng | Liệu pháp | SUCRA (%) | Ghi chú\nHạng=1 | Liệu pháp=iCBT (CBT internet) | SUCRA (%)=71,2 | Ghi ",
+      "sem_score": 40.1,
+      "kw_score": 66.7,
+      "combined_score": 50.7,
+      "status": "FAIL"
+    },
+    {
+      "idx": 86,
+      "query": "Menon số quốc gia LMIC",
+      "expected": [
+        "12 quốc gia"
+      ],
+      "found": [
+        "12 quốc gia"
+      ],
+      "top_id": "p13",
+      "top_section": "0. Tom luoc",
+      "top_paper": "Menon2025",
+      "top_excerpt": "[TÓM LƯỢC ĐIỀU HÀNH] [Paper:Menon2025]\nThứ sáu, khu vực Đông Á và Thái Bình Dương ở các nước có thu nhập trung bình – thấp (LMIC) còn thiếu nghiêm trọng các can thiệp ở cấp CỘNG ĐỒNG, GIA ĐÌNH và dịch",
+      "sem_score": 60.6,
+      "kw_score": 80.0,
+      "combined_score": 68.4,
+      "status": "PASS"
+    },
+    {
+      "idx": 87,
+      "query": "Menon 32 RCT 31 trước sau 6 đánh giá",
+      "expected": [
+        "32 RCT",
+        "31"
+      ],
+      "found": [
+        "31"
+      ],
+      "top_id": "h150",
+      "top_section": "III. Chau Au - Uc - My",
+      "top_paper": "",
+      "top_excerpt": "3.6. Zhang, Liang & Kang (2026) — Bayesian MA 31 RCT về CBT trường dài hạn",
+      "sem_score": 55.5,
+      "kw_score": 28.6,
+      "combined_score": 44.7,
+      "status": "PASS"
+    },
+    {
+      "idx": 88,
+      "query": "Menon khoảng trống cộng đồng gia đình dài hạn",
+      "expected": [
+        "CỘNG ĐỒNG",
+        "GIA ĐÌNH"
+      ],
+      "found": [
+        "CỘNG ĐỒNG",
+        "GIA ĐÌNH"
+      ],
+      "top_id": "p178",
+      "top_section": "IV. Tong ket",
+      "top_paper": "Menon2025",
+      "top_excerpt": "[4.3. Năm khoảng trống nghiên cứu can thiệp tại Việt Nam] [Paper:Menon2025]\n5. Can thiệp ĐA CẤP: cá nhân + GIA ĐÌNH + cộng đồng — lấp khoảng trống Menon 2025 và phát hiện kênh giao tiếp gia đình của D",
+      "sem_score": 52.5,
+      "kw_score": 77.8,
+      "combined_score": 62.6,
+      "status": "PASS"
+    },
+    {
+      "idx": 89,
+      "query": "Menon Asia Pacific J Public Health pages",
+      "expected": [
+        "332",
+        "346"
+      ],
+      "found": [
+        "332",
+        "346"
+      ],
+      "top_id": "p199",
+      "top_section": "V. Tai lieu tham khao",
+      "top_paper": "Menon2025",
+      "top_excerpt": "[TÀI LIỆU THAM KHẢO] [Paper:Menon2025]\nBài 58* — Menon, V., Coppard, M., McEwen, S., Romero, L., Kennedy, E., & Azzopardi, P. (2025). Evaluated interventions targeting the mental health and psychosoci",
+      "sem_score": 52.9,
+      "kw_score": 83.3,
+      "combined_score": 65.1,
+      "status": "PASS"
+    },
+    {
+      "idx": 90,
+      "query": "Li 2025 BMC Psychiatry NMA Bayesian 30 RCT",
+      "expected": [
+        "BMC",
+        "NMA"
+      ],
+      "found": [
+        "BMC",
+        "NMA"
+      ],
+      "top_id": "p110",
+      "top_section": "II. Chau A",
+      "top_paper": "Li2025",
+      "top_excerpt": "[2.8. Li et al. (2025) — NMA Bayesian 30 RCT cho lo âu trẻ em] [Paper:Li2025]\nPhân tích tổng hợp mạng Bayesian 30 RCT về can thiệp cho rối loạn lo âu ở trẻ em. Đăng trên BMC Psychiatry vol. 25, articl",
+      "sem_score": 69.2,
+      "kw_score": 100.0,
+      "combined_score": 81.5,
+      "status": "PASS"
+    },
+    {
+      "idx": 91,
+      "query": "Li tổng số người tham gia 30 RCT",
+      "expected": [
+        "1.711"
+      ],
+      "found": [
+        "1.711"
+      ],
+      "top_id": "p110",
+      "top_section": "II. Chau A",
+      "top_paper": "Li2025",
+      "top_excerpt": "[2.8. Li et al. (2025) — NMA Bayesian 30 RCT cho lo âu trẻ em] [Paper:Li2025]\nPhân tích tổng hợp mạng Bayesian 30 RCT về can thiệp cho rối loạn lo âu ở trẻ em. Đăng trên BMC Psychiatry vol. 25, articl",
+      "sem_score": 37.4,
+      "kw_score": 87.5,
+      "combined_score": 57.5,
+      "status": "PASS"
+    },
+    {
+      "idx": 92,
+      "query": "Li ACT SUCRA hạng cao nhưng CrI",
+      "expected": [
+        "ACT",
+        "0,69"
+      ],
+      "found": [
+        "ACT",
+        "0,69"
+      ],
+      "top_id": "p114",
+      "top_section": "II. Chau A",
+      "top_paper": "Li2025",
+      "top_excerpt": "[2.8. Li et al. (2025) — NMA Bayesian 30 RCT cho lo âu trẻ em] [Paper:Li2025]\nPhản biện: Đáng chú ý ACT (Acceptance and Commitment Therapy) có SUCRA cao nhất 0,69 — BẤT NGỜ vì CBT thường được coi là h",
+      "sem_score": 53.1,
+      "kw_score": 100.0,
+      "combined_score": 71.9,
+      "status": "PASS"
+    },
+    {
+      "idx": 93,
+      "query": "Li CBT SUCRA bằng chứng mạnh nhất",
+      "expected": [
+        "0,66",
+        "16 RCT"
+      ],
+      "found": [
+        "0,66",
+        "16 RCT"
+      ],
+      "top_id": "t112",
+      "top_section": "II. Chau A",
+      "top_paper": "Li2025",
+      "top_excerpt": "[2.8. Li et al. (2025) — NMA Bayesian 30 RCT cho lo âu trẻ em] [Paper:Li2025]\nHEADERS: Liệu pháp | Số RCT | MD (KTC 95 % CrI) | SUCRA | Ghi chú\nLiệu pháp=ACT | Số RCT=6 | MD (KTC 95 % CrI)=−3,83 (−9,3",
+      "sem_score": 54.4,
+      "kw_score": 100.0,
+      "combined_score": 72.6,
+      "status": "PASS"
+    },
+    {
+      "idx": 94,
+      "query": "Li VRET SUCRA virtual reality",
+      "expected": [
+        "VRET",
+        "0,51"
+      ],
+      "found": [
+        "VRET",
+        "0,51"
+      ],
+      "top_id": "p113",
+      "top_section": "II. Chau A",
+      "top_paper": "Li2025",
+      "top_excerpt": "[2.8. Li et al. (2025) — NMA Bayesian 30 RCT cho lo âu trẻ em] [Paper:Li2025]\nBảng 5. SUCRA của các can thiệp cho lo âu trẻ em. Nguồn: Li et al. 2025, BMC Psychiatry 25:809, Bảng 3 tr. 6. ACT = Accept",
+      "sem_score": 42.1,
+      "kw_score": 100.0,
+      "combined_score": 65.3,
+      "status": "PASS"
+    },
+    {
+      "idx": 95,
+      "query": "Li PE physical exercise SUCRA",
+      "expected": [
+        "PE",
+        "0,51"
+      ],
+      "found": [
+        "PE",
+        "0,51"
+      ],
+      "top_id": "p113",
+      "top_section": "II. Chau A",
+      "top_paper": "Li2025",
+      "top_excerpt": "[2.8. Li et al. (2025) — NMA Bayesian 30 RCT cho lo âu trẻ em] [Paper:Li2025]\nBảng 5. SUCRA của các can thiệp cho lo âu trẻ em. Nguồn: Li et al. 2025, BMC Psychiatry 25:809, Bảng 3 tr. 6. ACT = Accept",
+      "sem_score": 34.7,
+      "kw_score": 100.0,
+      "combined_score": 60.8,
+      "status": "PASS"
+    },
+    {
+      "idx": 96,
+      "query": "Walder 2025 JMIR DMHI 21 RCT meta-analysis",
+      "expected": [
+        "Walder",
+        "JMIR"
+      ],
+      "found": [
+        "Walder",
+        "JMIR"
+      ],
+      "top_id": "p124",
+      "top_section": "III. Chau Au - Uc - My",
+      "top_paper": "Walder2025",
+      "top_excerpt": "[3.2. Walder et al. (2025) — Meta-analysis 21 RCT về DMHI cho lo âu xã hội] [Paper:Walder2025]\nBảng 7. Hiệu lực DMHI cho lo âu xã hội theo phân nhóm. Nguồn: Walder et al. 2025, JMIR, Bảng 2, tr. 18.",
+      "sem_score": 61.7,
+      "kw_score": 100.0,
+      "combined_score": 77.0,
+      "status": "PASS"
+    },
+    {
+      "idx": 97,
+      "query": "Walder DMHI vs đối chứng tổng quát g",
+      "expected": [
+        "0,508"
+      ],
+      "found": [
+        "0,508"
+      ],
+      "top_id": "t123",
+      "top_section": "III. Chau Au - Uc - My",
+      "top_paper": "Walder2025",
+      "top_excerpt": "[3.2. Walder et al. (2025) — Meta-analysis 21 RCT về DMHI cho lo âu xã hội] [Paper:Walder2025]\nHEADERS: Phân nhóm | Hedges g | KTC 95 % | Ý nghĩa lâm sàng\nPhân nhóm=DMHI vs bất kỳ đối chứng | Hedges g",
+      "sem_score": 62.8,
+      "kw_score": 71.4,
+      "combined_score": 66.2,
+      "status": "PASS"
+    },
+    {
+      "idx": 98,
+      "query": "Walder DMHI vs WL danh sách chờ",
+      "expected": [
+        "0,576"
+      ],
+      "found": [
+        "0,576"
+      ],
+      "top_id": "t123",
+      "top_section": "III. Chau Au - Uc - My",
+      "top_paper": "Walder2025",
+      "top_excerpt": "[3.2. Walder et al. (2025) — Meta-analysis 21 RCT về DMHI cho lo âu xã hội] [Paper:Walder2025]\nHEADERS: Phân nhóm | Hedges g | KTC 95 % | Ý nghĩa lâm sàng\nPhân nhóm=DMHI vs bất kỳ đối chứng | Hedges g",
+      "sem_score": 45.7,
+      "kw_score": 100.0,
+      "combined_score": 67.4,
+      "status": "PASS"
+    },
+    {
+      "idx": 99,
+      "query": "Walder DMHI nền CBT Hedges g",
+      "expected": [
+        "0,610"
+      ],
+      "found": [
+        "0,610"
+      ],
+      "top_id": "t123",
+      "top_section": "III. Chau Au - Uc - My",
+      "top_paper": "Walder2025",
+      "top_excerpt": "[3.2. Walder et al. (2025) — Meta-analysis 21 RCT về DMHI cho lo âu xã hội] [Paper:Walder2025]\nHEADERS: Phân nhóm | Hedges g | KTC 95 % | Ý nghĩa lâm sàng\nPhân nhóm=DMHI vs bất kỳ đối chứng | Hedges g",
+      "sem_score": 53.9,
+      "kw_score": 100.0,
+      "combined_score": 72.4,
+      "status": "PASS"
+    },
+    {
+      "idx": 100,
+      "query": "Walder DMHI có hướng dẫn người",
+      "expected": [
+        "0,825",
+        "hướng dẫn"
+      ],
+      "found": [
+        "0,825",
+        "hướng dẫn"
+      ],
+      "top_id": "t123",
+      "top_section": "III. Chau Au - Uc - My",
+      "top_paper": "Walder2025",
+      "top_excerpt": "[3.2. Walder et al. (2025) — Meta-analysis 21 RCT về DMHI cho lo âu xã hội] [Paper:Walder2025]\nHEADERS: Phân nhóm | Hedges g | KTC 95 % | Ý nghĩa lâm sàng\nPhân nhóm=DMHI vs bất kỳ đối chứng | Hedges g",
+      "sem_score": 48.2,
+      "kw_score": 100.0,
+      "combined_score": 68.9,
+      "status": "PASS"
+    },
+    {
+      "idx": 101,
+      "query": "Walder DMHI thiết kế riêng SAD g lớn nhất",
+      "expected": [
+        "0,878"
+      ],
+      "found": [
+        "0,878"
+      ],
+      "top_id": "t123",
+      "top_section": "III. Chau Au - Uc - My",
+      "top_paper": "Walder2025",
+      "top_excerpt": "[3.2. Walder et al. (2025) — Meta-analysis 21 RCT về DMHI cho lo âu xã hội] [Paper:Walder2025]\nHEADERS: Phân nhóm | Hedges g | KTC 95 % | Ý nghĩa lâm sàng\nPhân nhóm=DMHI vs bất kỳ đối chứng | Hedges g",
+      "sem_score": 39.8,
+      "kw_score": 100.0,
+      "combined_score": 63.9,
+      "status": "PASS"
+    },
+    {
+      "idx": 102,
+      "query": "Walder DMHI không hướng dẫn nhỏ",
+      "expected": [
+        "0,3",
+        "0,4"
+      ],
+      "found": [
+        "0,3",
+        "0,4"
+      ],
+      "top_id": "t123",
+      "top_section": "III. Chau Au - Uc - My",
+      "top_paper": "Walder2025",
+      "top_excerpt": "[3.2. Walder et al. (2025) — Meta-analysis 21 RCT về DMHI cho lo âu xã hội] [Paper:Walder2025]\nHEADERS: Phân nhóm | Hedges g | KTC 95 % | Ý nghĩa lâm sàng\nPhân nhóm=DMHI vs bất kỳ đối chứng | Hedges g",
+      "sem_score": 41.1,
+      "kw_score": 100.0,
+      "combined_score": 64.7,
+      "status": "PASS"
+    },
+    {
+      "idx": 103,
+      "query": "Walder PROSPERO CRD",
+      "expected": [
+        "CRD42023424181"
+      ],
+      "found": [
+        "CRD42023424181"
+      ],
+      "top_id": "p121",
+      "top_section": "III. Chau Au - Uc - My",
+      "top_paper": "Walder2025",
+      "top_excerpt": "[3.2. Walder et al. (2025) — Meta-analysis 21 RCT về DMHI cho lo âu xã hội] [Paper:Walder2025]\nPhân tích tổng hợp 21 RCT về Can thiệp Sức khoẻ Tâm thần Số (Digital Mental Health Interventions — DMHI) ",
+      "sem_score": 30.0,
+      "kw_score": 100.0,
+      "combined_score": 79.0,
+      "status": "PASS"
+    },
+    {
+      "idx": 104,
+      "query": "Walder J Med Internet Research Q1",
+      "expected": [
+        "JMIR"
+      ],
+      "found": [
+        "JMIR"
+      ],
+      "top_id": "p121",
+      "top_section": "III. Chau Au - Uc - My",
+      "top_paper": "Walder2025",
+      "top_excerpt": "[3.2. Walder et al. (2025) — Meta-analysis 21 RCT về DMHI cho lo âu xã hội] [Paper:Walder2025]\nPhân tích tổng hợp 21 RCT về Can thiệp Sức khoẻ Tâm thần Số (Digital Mental Health Interventions — DMHI) ",
+      "sem_score": 40.6,
+      "kw_score": 100.0,
+      "combined_score": 64.4,
+      "status": "PASS"
+    },
+    {
+      "idx": 105,
+      "query": "Bress 2024 Maya app JAMA Network Open",
+      "expected": [
+        "Bress",
+        "Maya",
+        "JAMA"
+      ],
+      "found": [
+        "Bress",
+        "Maya",
+        "JAMA"
+      ],
+      "top_id": "h126",
+      "top_section": "III. Chau Au - Uc - My",
+      "top_paper": "",
+      "top_excerpt": "3.3. Bress et al. (2024) — RCT ứng dụng Maya tại JAMA Network Open",
+      "sem_score": 79.2,
+      "kw_score": 85.7,
+      "combined_score": 81.8,
+      "status": "PASS"
+    },
+    {
+      "idx": 106,
+      "query": "Bress NCT05130281 ClinicalTrials đăng ký",
+      "expected": [
+        "NCT05130281"
+      ],
+      "found": [
+        "NCT05130281"
+      ],
+      "top_id": "p127",
+      "top_section": "III. Chau Au - Uc - My",
+      "top_paper": "Bress2024",
+      "top_excerpt": "[3.3. Bress et al. (2024) — RCT ứng dụng Maya tại JAMA Network Open] [Paper:Bress2024]\nThử nghiệm lâm sàng ngẫu nhiên đăng tại JAMA Network Open vol. 7(8), e2428372, tr. 1–15 (Bress et al. 2024). DOI ",
+      "sem_score": 53.1,
+      "kw_score": 80.0,
+      "combined_score": 71.9,
+      "status": "PASS"
+    },
+    {
+      "idx": 107,
+      "query": "Bress thanh niên 18 25 tuổi RCT",
+      "expected": [
+        "18",
+        "25"
+      ],
+      "found": [
+        "18",
+        "25"
+      ],
+      "top_id": "p127",
+      "top_section": "III. Chau Au - Uc - My",
+      "top_paper": "Bress2024",
+      "top_excerpt": "[3.3. Bress et al. (2024) — RCT ứng dụng Maya tại JAMA Network Open] [Paper:Bress2024]\nThử nghiệm lâm sàng ngẫu nhiên đăng tại JAMA Network Open vol. 7(8), e2428372, tr. 1–15 (Bress et al. 2024). DOI ",
+      "sem_score": 49.7,
+      "kw_score": 100.0,
+      "combined_score": 69.8,
+      "status": "PASS"
+    },
+    {
+      "idx": 108,
+      "query": "Bress tổng số người tham gia",
+      "expected": [
+        "59"
+      ],
+      "found": [
+        "59"
+      ],
+      "top_id": "p142",
+      "top_section": "III. Chau Au - Uc - My",
+      "top_paper": "Brown2025",
+      "top_excerpt": "[3.4. Brown & Carter (2025) — Editorial UK về can thiệp tại trường] [Paper:Brown2025]\n4. CO-DESIGN (cho học sinh tham gia thiết kế can thiệp) tăng engagement đáng kể — đặc biệt với học sinh từ các nhó",
+      "sem_score": 35.0,
+      "kw_score": 50.0,
+      "combined_score": 41.0,
+      "status": "PASS"
+    },
+    {
+      "idx": 109,
+      "query": "Bress GAD SAD chiếm bao nhiêu",
+      "expected": [
+        "56",
+        "41"
+      ],
+      "found": [
+        "56",
+        "41"
+      ],
+      "top_id": "p127",
+      "top_section": "III. Chau Au - Uc - My",
+      "top_paper": "Bress2024",
+      "top_excerpt": "[3.3. Bress et al. (2024) — RCT ứng dụng Maya tại JAMA Network Open] [Paper:Bress2024]\nThử nghiệm lâm sàng ngẫu nhiên đăng tại JAMA Network Open vol. 7(8), e2428372, tr. 1–15 (Bress et al. 2024). DOI ",
+      "sem_score": 35.0,
+      "kw_score": 50.0,
+      "combined_score": 41.0,
+      "status": "PASS"
+    },
+    {
+      "idx": 110,
+      "query": "Bress Maya 12 phiên 6 tuần",
+      "expected": [
+        "12 phiên",
+        "6 tuần"
+      ],
+      "found": [
+        "12 phiên",
+        "6 tuần"
+      ],
+      "top_id": "p128",
+      "top_section": "III. Chau Au - Uc - My",
+      "top_paper": "Bress2024",
+      "top_excerpt": "[3.3. Bress et al. (2024) — RCT ứng dụng Maya tại JAMA Network Open] [Paper:Bress2024]\nCan thiệp: ứng dụng Maya — CBT tự hướng dẫn 12 phiên / 6 tuần. 3 nhóm khuyến khích dựa trên tin nhắn (gain-frame,",
+      "sem_score": 60.7,
+      "kw_score": 100.0,
+      "combined_score": 76.4,
+      "status": "PASS"
+    },
+    {
+      "idx": 111,
+      "query": "Bress HAM-A tuần 3 chênh lệch",
+      "expected": [
+        "−3,20",
+        "Cohen",
+        "0,64"
+      ],
+      "found": [
+        "−3,20",
+        "Cohen",
+        "0,64"
+      ],
+      "top_id": "t130",
+      "top_section": "III. Chau Au - Uc - My",
+      "top_paper": "Bress2024",
+      "top_excerpt": "[3.3. Bress et al. (2024) — RCT ứng dụng Maya tại JAMA Network Open] [Paper:Bress2024]\nHEADERS: Thời điểm | Chênh lệch TB | KTC 95 % | Cohen's d | p\nThời điểm=Tuần 3 (giữa) | Chênh lệch TB=−3,20 | KTC",
+      "sem_score": 32.0,
+      "kw_score": 80.0,
+      "combined_score": 51.2,
+      "status": "PASS"
+    },
+    {
+      "idx": 112,
+      "query": "Bress HAM-A tuần 6 kết thúc Cohen d",
+      "expected": [
+        "−5,64",
+        "0,94"
+      ],
+      "found": [
+        "−5,64",
+        "0,94"
+      ],
+      "top_id": "t130",
+      "top_section": "III. Chau Au - Uc - My",
+      "top_paper": "Bress2024",
+      "top_excerpt": "[3.3. Bress et al. (2024) — RCT ứng dụng Maya tại JAMA Network Open] [Paper:Bress2024]\nHEADERS: Thời điểm | Chênh lệch TB | KTC 95 % | Cohen's d | p\nThời điểm=Tuần 3 (giữa) | Chênh lệch TB=−3,20 | KTC",
+      "sem_score": 37.2,
+      "kw_score": 83.3,
+      "combined_score": 55.7,
+      "status": "PASS"
+    },
+    {
+      "idx": 113,
+      "query": "Bress HAM-A tuần 12 theo dõi",
+      "expected": [
+        "−5,67",
+        "1,04"
+      ],
+      "found": [
+        "1,04"
+      ],
+      "top_id": "p128",
+      "top_section": "III. Chau Au - Uc - My",
+      "top_paper": "Bress2024",
+      "top_excerpt": "[3.3. Bress et al. (2024) — RCT ứng dụng Maya tại JAMA Network Open] [Paper:Bress2024]\nCan thiệp: ứng dụng Maya — CBT tự hướng dẫn 12 phiên / 6 tuần. 3 nhóm khuyến khích dựa trên tin nhắn (gain-frame,",
+      "sem_score": 37.0,
+      "kw_score": 100.0,
+      "combined_score": 62.2,
+      "status": "PASS"
+    },
+    {
+      "idx": 114,
+      "query": "Bress LSAS social anxiety scale tuần 12",
+      "expected": [
+        "−17,61",
+        "1,07"
+      ],
+      "found": [
+        "1,07"
+      ],
+      "top_id": "p132",
+      "top_section": "III. Chau Au - Uc - My",
+      "top_paper": "Bress2024",
+      "top_excerpt": "[3.3. Bress et al. (2024) — RCT ứng dụng Maya tại JAMA Network Open] [Paper:Bress2024]\nĐặc biệt đáng chú ý — hiệu lực TĂNG theo thời gian: Cohen d tăng từ 0,64 (tuần 3) lên 0,94 (tuần 6) và 1,04 (tuần",
+      "sem_score": 43.8,
+      "kw_score": 71.4,
+      "combined_score": 54.9,
+      "status": "PASS"
+    },
+    {
+      "idx": 115,
+      "query": "Bress ASI anxiety sensitivity",
+      "expected": [
+        "−9,51",
+        "0,93"
+      ],
+      "found": [
+        "0,93"
+      ],
+      "top_id": "p132",
+      "top_section": "III. Chau Au - Uc - My",
+      "top_paper": "Bress2024",
+      "top_excerpt": "[3.3. Bress et al. (2024) — RCT ứng dụng Maya tại JAMA Network Open] [Paper:Bress2024]\nĐặc biệt đáng chú ý — hiệu lực TĂNG theo thời gian: Cohen d tăng từ 0,64 (tuần 3) lên 0,94 (tuần 6) và 1,04 (tuần",
+      "sem_score": 45.6,
+      "kw_score": 100.0,
+      "combined_score": 67.4,
+      "status": "PASS"
+    },
+    {
+      "idx": 116,
+      "query": "Brown Carter 2025 J Mental Health Editorial",
+      "expected": [
+        "Brown",
+        "Carter"
+      ],
+      "found": [
+        "Brown",
+        "Carter"
+      ],
+      "top_id": "p135",
+      "top_section": "III. Chau Au - Uc - My",
+      "top_paper": "Brown2025",
+      "top_excerpt": "[3.4. Brown & Carter (2025) — Editorial UK về can thiệp tại trường] [Paper:Brown2025]\nEditorial đăng trên Journal of Mental Health vol. 34(4), tr. 357–361 (Brown & Carter 2025). Tác giả chính June S.L",
+      "sem_score": 75.5,
+      "kw_score": 100.0,
+      "combined_score": 100.3,
+      "status": "PASS"
+    },
+    {
+      "idx": 117,
+      "query": "Brown Carter PLACES self-referral mô hình",
+      "expected": [
+        "PLACES",
+        "self-referral"
+      ],
+      "found": [
+        "PLACES",
+        "self-referral"
+      ],
+      "top_id": "t136",
+      "top_section": "III. Chau Au - Uc - My",
+      "top_paper": "Brown2025",
+      "top_excerpt": "[3.4. Brown & Carter (2025) — Editorial UK về can thiệp tại trường] [Paper:Brown2025]\nHEADERS: Mô hình | Người cung cấp | Hiệu quả | Bằng chứng nguồn\nMô hình=Mindfulness phổ quát | Người cung cấp=Giáo",
+      "sem_score": 45.9,
+      "kw_score": 100.0,
+      "combined_score": 82.5,
+      "status": "PASS"
+    },
+    {
+      "idx": 118,
+      "query": "Brown Carter BESST trial CBT 900 HS 57 trường",
+      "expected": [
+        "BESST",
+        "900",
+        "57"
+      ],
+      "found": [
+        "BESST",
+        "900",
+        "57"
+      ],
+      "top_id": "p140",
+      "top_section": "III. Chau Au - Uc - My",
+      "top_paper": "Brown2025",
+      "top_excerpt": "[3.4. Brown & Carter (2025) — Editorial UK về can thiệp tại trường] [Paper:Brown2025]\n2. TARGETED CBT (học sinh có triệu chứng tự đăng ký) thành công (BESST trial 900 HS).",
+      "sem_score": 71.2,
+      "kw_score": 88.9,
+      "combined_score": 93.3,
+      "status": "PASS"
+    },
+    {
+      "idx": 119,
+      "query": "Brown Carter Mindfulness Kuyken 8376 HS thất bại",
+      "expected": [
+        "8.376",
+        "Kuyken"
+      ],
+      "found": [
+        "8.376",
+        "Kuyken"
+      ],
+      "top_id": "p139",
+      "top_section": "III. Chau Au - Uc - My",
+      "top_paper": "Brown2025",
+      "top_excerpt": "[3.4. Brown & Carter (2025) — Editorial UK về can thiệp tại trường] [Paper:Brown2025]\n1. UNIVERSAL MINDFULNESS thất bại do engagement thấp ở học sinh (Kuyken 2022, n = 8.376).",
+      "sem_score": 55.2,
+      "kw_score": 75.0,
+      "combined_score": 63.1,
+      "status": "PASS"
+    },
+    {
+      "idx": 120,
+      "query": "Brown Carter MHST Mental Health Support Team",
+      "expected": [
+        "MHST"
+      ],
+      "found": [
+        "MHST"
+      ],
+      "top_id": "t136",
+      "top_section": "III. Chau Au - Uc - My",
+      "top_paper": "Brown2025",
+      "top_excerpt": "[3.4. Brown & Carter (2025) — Editorial UK về can thiệp tại trường] [Paper:Brown2025]\nHEADERS: Mô hình | Người cung cấp | Hiệu quả | Bằng chứng nguồn\nMô hình=Mindfulness phổ quát | Người cung cấp=Giáo",
+      "sem_score": 42.1,
+      "kw_score": 100.0,
+      "combined_score": 80.3,
+      "status": "PASS"
+    },
+    {
+      "idx": 121,
+      "query": "Brown Carter co-design học sinh tham gia thiết kế",
+      "expected": [
+        "co-design"
+      ],
+      "found": [
+        "co-design"
+      ],
+      "top_id": "p142",
+      "top_section": "III. Chau Au - Uc - My",
+      "top_paper": "Brown2025",
+      "top_excerpt": "[3.4. Brown & Carter (2025) — Editorial UK về can thiệp tại trường] [Paper:Brown2025]\n4. CO-DESIGN (cho học sinh tham gia thiết kế can thiệp) tăng engagement đáng kể — đặc biệt với học sinh từ các nhó",
+      "sem_score": 58.5,
+      "kw_score": 100.0,
+      "combined_score": 75.1,
+      "status": "PASS"
+    },
+    {
+      "idx": 122,
+      "query": "Brown Carter trang 357 361 vol 34",
+      "expected": [
+        "357",
+        "361"
+      ],
+      "found": [
+        "357",
+        "361"
+      ],
+      "top_id": "p135",
+      "top_section": "III. Chau Au - Uc - My",
+      "top_paper": "Brown2025",
+      "top_excerpt": "[3.4. Brown & Carter (2025) — Editorial UK về can thiệp tại trường] [Paper:Brown2025]\nEditorial đăng trên Journal of Mental Health vol. 34(4), tr. 357–361 (Brown & Carter 2025). Tác giả chính June S.L",
+      "sem_score": 44.4,
+      "kw_score": 85.7,
+      "combined_score": 60.9,
+      "status": "PASS"
+    },
+    {
+      "idx": 123,
+      "query": "Cao 2025 Frontiers Psychiatry resilience MA RCT",
+      "expected": [
+        "Cao",
+        "Frontiers",
+        "resilience"
+      ],
+      "found": [
+        "Cao",
+        "Frontiers",
+        "resilience"
+      ],
+      "top_id": "p146",
+      "top_section": "III. Chau Au - Uc - My",
+      "top_paper": "Cao2025",
+      "top_excerpt": "[3.5. Cao et al. (2025) — SR + MA về can thiệp resilience tại trường] [Paper:Cao2025]\nTổng quan hệ thống và phân tích tổng hợp các RCT về can thiệp khả năng phục hồi (resilience) tại trường cho trẻ em",
+      "sem_score": 73.6,
+      "kw_score": 100.0,
+      "combined_score": 99.1,
+      "status": "PASS"
+    },
+    {
+      "idx": 124,
+      "query": "Cao DOI 1594658 article",
+      "expected": [
+        "1594658"
+      ],
+      "found": [
+        "1594658"
+      ],
+      "top_id": "p146",
+      "top_section": "III. Chau Au - Uc - My",
+      "top_paper": "Cao2025",
+      "top_excerpt": "[3.5. Cao et al. (2025) — SR + MA về can thiệp resilience tại trường] [Paper:Cao2025]\nTổng quan hệ thống và phân tích tổng hợp các RCT về can thiệp khả năng phục hồi (resilience) tại trường cho trẻ em",
+      "sem_score": 30.0,
+      "kw_score": 75.0,
+      "combined_score": 61.5,
+      "status": "PASS"
+    },
+    {
+      "idx": 125,
+      "query": "Cao kích thước hiệu ứng nhỏ trung bình",
+      "expected": [
+        "nhỏ",
+        "trung bình"
+      ],
+      "found": [
+        "nhỏ",
+        "trung bình"
+      ],
+      "top_id": "p53",
+      "top_section": "I. Viet Nam",
+      "top_paper": "TranNguyenNgoc2018",
+      "top_excerpt": "[1.1.5. Quan điểm phản biện] [Paper:TranNguyenNgoc2018]\n• THIẾT KẾ TRƯỚC – SAU KHÔNG ĐỐI CHỨNG — không phải RCT. Không thể loại trừ hiệu ứng giả dược, hồi quy về trung bình, và hiệu ứng Hawthorne (cải",
+      "sem_score": 49.3,
+      "kw_score": 50.0,
+      "combined_score": 49.6,
+      "status": "PASS"
+    },
+    {
+      "idx": 126,
+      "query": "Cao heterogeneity cao",
+      "expected": [
+        "heterogeneity"
+      ],
+      "found": [],
+      "top_id": "p157",
+      "top_section": "III. Chau Au - Uc - My",
+      "top_paper": "Brown2025",
+      "top_excerpt": "[3.6. Zhang, Liang & Kang (2026) — Bayesian MA 31 RCT về CBT trường dài hạn] [Paper:Brown2025]\nPhản biện: CẢNH BÁO ĐẶC BIỆT QUAN TRỌNG — đây là MA có cỡ mẫu lớn nhất (n = 19.865) nhưng kết luận thận t",
+      "sem_score": 43.2,
+      "kw_score": 66.7,
+      "combined_score": 52.6,
+      "status": "FAIL"
+    },
+    {
+      "idx": 127,
+      "query": "Cao Cochrane Risk of Bias đánh giá",
+      "expected": [
+        "Cochrane"
+      ],
+      "found": [
+        "Cochrane"
+      ],
+      "top_id": "p148",
+      "top_section": "III. Chau Au - Uc - My",
+      "top_paper": "Cao2025",
+      "top_excerpt": "[3.5. Cao et al. (2025) — SR + MA về can thiệp resilience tại trường] [Paper:Cao2025]\nPhương pháp: Tìm kiếm hệ thống các RCT, đánh giá chất lượng bằng Cochrane Risk of Bias, random-effects meta-analys",
+      "sem_score": 54.8,
+      "kw_score": 100.0,
+      "combined_score": 72.9,
+      "status": "PASS"
+    },
+    {
+      "idx": 128,
+      "query": "Cao positive psychology yếu tố bảo vệ",
+      "expected": [
+        "BẢO VỆ",
+        "lạc quan"
+      ],
+      "found": [
+        "BẢO VỆ",
+        "lạc quan"
+      ],
+      "top_id": "p147",
+      "top_section": "III. Chau Au - Uc - My",
+      "top_paper": "Cao2025",
+      "top_excerpt": "[3.5. Cao et al. (2025) — SR + MA về can thiệp resilience tại trường] [Paper:Cao2025]\nResilience được định nghĩa là khả năng thích ứng tốt trước nghịch cảnh, căng thẳng hoặc sang chấn. Khác với CBT (g",
+      "sem_score": 56.7,
+      "kw_score": 100.0,
+      "combined_score": 74.0,
+      "status": "PASS"
+    },
+    {
+      "idx": 129,
+      "query": "Zhang Liang Kang 2026 Bayesian MA J Clin Psychol",
+      "expected": [
+        "Zhang",
+        "Bayesian"
+      ],
+      "found": [
+        "Zhang",
+        "Bayesian"
+      ],
+      "top_id": "p154",
+      "top_section": "III. Chau Au - Uc - My",
+      "top_paper": "Zhang2026",
+      "top_excerpt": "[3.6. Zhang, Liang & Kang (2026) — Bayesian MA 31 RCT về CBT trường dài hạn] [Paper:Zhang2026]\n• Giảm NHỎ trên triệu chứng lo âu.",
+      "sem_score": 61.0,
+      "kw_score": 75.0,
+      "combined_score": 81.6,
+      "status": "PASS"
+    },
+    {
+      "idx": 130,
+      "query": "Zhang 31 RCT tổng hợp",
+      "expected": [
+        "31 RCT"
+      ],
+      "found": [
+        "31 RCT"
+      ],
+      "top_id": "h150",
+      "top_section": "III. Chau Au - Uc - My",
+      "top_paper": "",
+      "top_excerpt": "3.6. Zhang, Liang & Kang (2026) — Bayesian MA 31 RCT về CBT trường dài hạn",
+      "sem_score": 71.4,
+      "kw_score": 60.0,
+      "combined_score": 66.8,
+      "status": "PASS"
+    },
+    {
+      "idx": 131,
+      "query": "Zhang n học sinh nguy cơ thấp",
+      "expected": [
+        "19.865"
+      ],
+      "found": [
+        "19.865"
+      ],
+      "top_id": "p108",
+      "top_section": "II. Chau A",
+      "top_paper": "Dong2025",
+      "top_excerpt": "[2.7. Menon et al. (2025) — Scoping Review LMIC Đông Á – Thái Bình Dương] [Paper:Dong2025]\nPhản biện: Đây là CẢNH BÁO MẠNH cho dự án Việt Nam — không nên chỉ dừng lại ở can thiệp cấp cá nhân (CBT cho ",
+      "sem_score": 52.0,
+      "kw_score": 66.7,
+      "combined_score": 57.9,
+      "status": "PASS"
+    },
+    {
+      "idx": 132,
+      "query": "Zhang hiệu quả khiêm tốn trầm cảm lo âu",
+      "expected": [
+        "khiêm tốn",
+        "NHỎ"
+      ],
+      "found": [
+        "khiêm tốn",
+        "NHỎ"
+      ],
+      "top_id": "p153",
+      "top_section": "III. Chau Au - Uc - My",
+      "top_paper": "Zhang2026",
+      "top_excerpt": "[3.6. Zhang, Liang & Kang (2026) — Bayesian MA 31 RCT về CBT trường dài hạn] [Paper:Zhang2026]\n• Cải thiện CÓ Ý NGHĨA THỐNG KÊ nhưng KHIÊM TỐN trên triệu chứng trầm cảm.",
+      "sem_score": 68.2,
+      "kw_score": 55.6,
+      "combined_score": 63.1,
+      "status": "PASS"
+    },
+    {
+      "idx": 133,
+      "query": "Zhang chất lượng bằng chứng nền rất thấp",
+      "expected": [
+        "THẤP"
+      ],
+      "found": [
+        "THẤP"
+      ],
+      "top_id": "p156",
+      "top_section": "III. Chau Au - Uc - My",
+      "top_paper": "Zhang2026",
+      "top_excerpt": "[3.6. Zhang, Liang & Kang (2026) — Bayesian MA 31 RCT về CBT trường dài hạn] [Paper:Zhang2026]\n• Kết luận của tác giả: \"Chất lượng bằng chứng nền RẤT THẤP khiến phát hiện này CHƯA ĐỦ vững chắc để hỗ t",
+      "sem_score": 36.4,
+      "kw_score": 100.0,
+      "combined_score": 61.8,
+      "status": "PASS"
+    },
+    {
+      "idx": 134,
+      "query": "Zhang duy trì 1 năm sau can thiệp",
+      "expected": [
+        "1 năm"
+      ],
+      "found": [
+        "1 năm"
+      ],
+      "top_id": "p155",
+      "top_section": "III. Chau Au - Uc - My",
+      "top_paper": "Zhang2026",
+      "top_excerpt": "[3.6. Zhang, Liang & Kang (2026) — Bayesian MA 31 RCT về CBT trường dài hạn] [Paper:Zhang2026]\n• Hiệu quả DUY TRÌ tới 1 năm sau can thiệp.",
+      "sem_score": 56.5,
+      "kw_score": 100.0,
+      "combined_score": 73.9,
+      "status": "PASS"
+    },
+    {
+      "idx": 135,
+      "query": "Zhang trang 248 259 vol 82",
+      "expected": [
+        "248",
+        "259"
+      ],
+      "found": [],
+      "top_id": "h80",
+      "top_section": "II. Chau A",
+      "top_paper": "",
+      "top_excerpt": "2.4. Xian, Zhang & Jiang (2024) — Network Meta-Analysis 30 RCT cho SAD",
+      "sem_score": 61.6,
+      "kw_score": 16.7,
+      "combined_score": 43.6,
+      "status": "FAIL"
+    },
+    {
+      "idx": 136,
+      "query": "Zugman 2024 American Journal Psychiatry pediatric anxiety",
+      "expected": [
+        "Zugman",
+        "AJP"
+      ],
+      "found": [
+        "Zugman",
+        "AJP"
+      ],
+      "top_id": "p187",
+      "top_section": "V. Tai lieu tham khao",
+      "top_paper": "Zugman2024",
+      "top_excerpt": "[TÀI LIỆU THAM KHẢO] [Paper:Zugman2024]\nBài 28 — Zugman, A., Jett, J. E., Antonacci, C., Winkler, A. M., & Pine, D. S. (2024). Current and future approaches to pediatric anxiety disorder treatment. Am",
+      "sem_score": 79.7,
+      "kw_score": 100.0,
+      "combined_score": 102.8,
+      "status": "PASS"
+    },
+    {
+      "idx": 137,
+      "query": "Zugman pediatric anxiety treatment review",
+      "expected": [
+        "pediatric",
+        "review"
+      ],
+      "found": [
+        "pediatric",
+        "review"
+      ],
+      "top_id": "p187",
+      "top_section": "V. Tai lieu tham khao",
+      "top_paper": "Zugman2024",
+      "top_excerpt": "[TÀI LIỆU THAM KHẢO] [Paper:Zugman2024]\nBài 28 — Zugman, A., Jett, J. E., Antonacci, C., Winkler, A. M., & Pine, D. S. (2024). Current and future approaches to pediatric anxiety disorder treatment. Am",
+      "sem_score": 79.6,
+      "kw_score": 80.0,
+      "combined_score": 79.7,
+      "status": "PASS"
+    },
+    {
+      "idx": 138,
+      "query": "Zugman 3 rối loạn lo âu trẻ em GAD SAD",
+      "expected": [
+        "GAD",
+        "SAD"
+      ],
+      "found": [
+        "GAD",
+        "SAD"
+      ],
+      "top_id": "p160",
+      "top_section": "III. Chau Au - Uc - My",
+      "top_paper": "Zugman2024",
+      "top_excerpt": "[3.7. Zugman et al. (2024) và CAMS (Walkup et al. 2008) — Bằng chứng vàng về CBT + SSRI] [Paper:Zugman2024]\nBài tập trung vào 3 rối loạn lo âu trẻ em chính: GAD (rối loạn lo âu tổng quát), separation ",
+      "sem_score": 62.3,
+      "kw_score": 88.9,
+      "combined_score": 72.9,
+      "status": "PASS"
+    },
+    {
+      "idx": 139,
+      "query": "Zugman trang 189 200 vol 181",
+      "expected": [
+        "189",
+        "200",
+        "181"
+      ],
+      "found": [
+        "189",
+        "200",
+        "181"
+      ],
+      "top_id": "p159",
+      "top_section": "III. Chau Au - Uc - My",
+      "top_paper": "Zugman2024",
+      "top_excerpt": "[3.7. Zugman et al. (2024) và CAMS (Walkup et al. 2008) — Bằng chứng vàng về CBT + SSRI] [Paper:Zugman2024]\nBài tổng quan đăng trên American Journal of Psychiatry vol. 181(3), tr. 189–200, March 2024 ",
+      "sem_score": 36.1,
+      "kw_score": 83.3,
+      "combined_score": 55.0,
+      "status": "PASS"
+    },
+    {
+      "idx": 140,
+      "query": "Zugman NIMH NIH NC SKTT hàng đầu Mỹ",
+      "expected": [
+        "NIMH",
+        "NIH"
+      ],
+      "found": [
+        "NIMH",
+        "NIH"
+      ],
+      "top_id": "p159",
+      "top_section": "III. Chau Au - Uc - My",
+      "top_paper": "Zugman2024",
+      "top_excerpt": "[3.7. Zugman et al. (2024) và CAMS (Walkup et al. 2008) — Bằng chứng vàng về CBT + SSRI] [Paper:Zugman2024]\nBài tổng quan đăng trên American Journal of Psychiatry vol. 181(3), tr. 189–200, March 2024 ",
+      "sem_score": 37.3,
+      "kw_score": 87.5,
+      "combined_score": 57.4,
+      "status": "PASS"
+    },
+    {
+      "idx": 141,
+      "query": "Walkup 2008 CAMS NEJM RCT đa trung tâm",
+      "expected": [
+        "Walkup",
+        "CAMS"
+      ],
+      "found": [
+        "Walkup",
+        "CAMS"
+      ],
+      "top_id": "p163",
+      "top_section": "III. Chau Au - Uc - My",
+      "top_paper": "Walkup2008",
+      "top_excerpt": "[3.7. Zugman et al. (2024) và CAMS (Walkup et al. 2008) — Bằng chứng vàng về CBT + SSRI] [Paper:Walkup2008]\nBảng 10. Đáp ứng điều trị nghiên cứu CAMS (n = 488 trẻ 7–17 tuổi, RCT đa trung tâm). Nguồn: ",
+      "sem_score": 47.1,
+      "kw_score": 100.0,
+      "combined_score": 83.3,
+      "status": "PASS"
+    },
+    {
+      "idx": 142,
+      "query": "Walkup CAMS tổng số trẻ tham gia",
+      "expected": [
+        "488"
+      ],
+      "found": [
+        "488"
+      ],
+      "top_id": "p164",
+      "top_section": "III. Chau Au - Uc - My",
+      "top_paper": "Walkup2008",
+      "top_excerpt": "[3.7. Zugman et al. (2024) và CAMS (Walkup et al. 2008) — Bằng chứng vàng về CBT + SSRI] [Paper:Walkup2008]\nPhản biện: CAMS là RCT đa trung tâm 488 trẻ 7–17 tuổi — tiêu chuẩn vàng (gold standard) cho ",
+      "sem_score": 47.6,
+      "kw_score": 57.1,
+      "combined_score": 66.4,
+      "status": "PASS"
+    },
+    {
+      "idx": 143,
+      "query": "Walkup CAMS tuổi trẻ 7 17",
+      "expected": [
+        "7",
+        "17"
+      ],
+      "found": [
+        "7",
+        "17"
+      ],
+      "top_id": "p163",
+      "top_section": "III. Chau Au - Uc - My",
+      "top_paper": "Walkup2008",
+      "top_excerpt": "[3.7. Zugman et al. (2024) và CAMS (Walkup et al. 2008) — Bằng chứng vàng về CBT + SSRI] [Paper:Walkup2008]\nBảng 10. Đáp ứng điều trị nghiên cứu CAMS (n = 488 trẻ 7–17 tuổi, RCT đa trung tâm). Nguồn: ",
+      "sem_score": 56.1,
+      "kw_score": 100.0,
+      "combined_score": 88.7,
+      "status": "PASS"
+    },
+    {
+      "idx": 144,
+      "query": "Walkup CBT SSRI kết hợp đáp ứng",
+      "expected": [
+        "80,7"
+      ],
+      "found": [
+        "80,7"
+      ],
+      "top_id": "t162",
+      "top_section": "III. Chau Au - Uc - My",
+      "top_paper": "Walkup2008",
+      "top_excerpt": "[3.7. Zugman et al. (2024) và CAMS (Walkup et al. 2008) — Bằng chứng vàng về CBT + SSRI] [Paper:Walkup2008]\nHEADERS: Nhánh điều trị | Tỷ lệ đáp ứng | NNT | Ý nghĩa\nNhánh điều trị=CBT + SSRI (Sertralin",
+      "sem_score": 56.3,
+      "kw_score": 100.0,
+      "combined_score": 73.8,
+      "status": "PASS"
+    },
+    {
+      "idx": 145,
+      "query": "Walkup CBT đơn thuần đáp ứng",
+      "expected": [
+        "59,7"
+      ],
+      "found": [
+        "59,7"
+      ],
+      "top_id": "p8",
+      "top_section": "0. Tom luoc",
+      "top_paper": "Walkup2008",
+      "top_excerpt": "[TÓM LƯỢC ĐIỀU HÀNH] [Paper:Walkup2008]\nThứ nhất, Liệu pháp Nhận thức – Hành vi (CBT) là phương pháp được chứng minh hiệu quả nhất và nhất quán xuyên suốt cả ba vùng địa lý. Bằng chứng vàng từ thử ngh",
+      "sem_score": 60.1,
+      "kw_score": 100.0,
+      "combined_score": 76.1,
+      "status": "PASS"
+    },
+    {
+      "idx": 146,
+      "query": "Walkup SSRI Sertraline đơn thuần",
+      "expected": [
+        "54,9",
+        "Sertraline"
+      ],
+      "found": [
+        "54,9",
+        "Sertraline"
+      ],
+      "top_id": "t162",
+      "top_section": "III. Chau Au - Uc - My",
+      "top_paper": "Walkup2008",
+      "top_excerpt": "[3.7. Zugman et al. (2024) và CAMS (Walkup et al. 2008) — Bằng chứng vàng về CBT + SSRI] [Paper:Walkup2008]\nHEADERS: Nhánh điều trị | Tỷ lệ đáp ứng | NNT | Ý nghĩa\nNhánh điều trị=CBT + SSRI (Sertralin",
+      "sem_score": 42.4,
+      "kw_score": 100.0,
+      "combined_score": 65.4,
+      "status": "PASS"
+    },
+    {
+      "idx": 147,
+      "query": "Walkup placebo baseline đáp ứng",
+      "expected": [
+        "23,7",
+        "placebo"
+      ],
+      "found": [
+        "23,7",
+        "placebo"
+      ],
+      "top_id": "t162",
+      "top_section": "III. Chau Au - Uc - My",
+      "top_paper": "Walkup2008",
+      "top_excerpt": "[3.7. Zugman et al. (2024) và CAMS (Walkup et al. 2008) — Bằng chứng vàng về CBT + SSRI] [Paper:Walkup2008]\nHEADERS: Nhánh điều trị | Tỷ lệ đáp ứng | NNT | Ý nghĩa\nNhánh điều trị=CBT + SSRI (Sertralin",
+      "sem_score": 23.2,
+      "kw_score": 100.0,
+      "combined_score": 53.9,
+      "status": "PASS"
+    },
+    {
+      "idx": 148,
+      "query": "Walkup CAMS NEJM 359 2753",
+      "expected": [
+        "NEJM",
+        "2753"
+      ],
+      "found": [
+        "NEJM",
+        "2753"
+      ],
+      "top_id": "p161",
+      "top_section": "III. Chau Au - Uc - My",
+      "top_paper": "Walkup2008",
+      "top_excerpt": "[3.7. Zugman et al. (2024) và CAMS (Walkup et al. 2008) — Bằng chứng vàng về CBT + SSRI] [Paper:Walkup2008]\nTrích dẫn cốt lõi từ thử nghiệm CAMS (Walkup et al. 2008, NEJM 359:2753–2766) — được Zugman ",
+      "sem_score": 53.6,
+      "kw_score": 100.0,
+      "combined_score": 87.2,
+      "status": "PASS"
+    },
+    {
+      "idx": 149,
+      "query": "tóm lược 6 phát hiện then chốt",
+      "expected": [
+        "then chốt",
+        "phát hiện"
+      ],
+      "found": [
+        "then chốt",
+        "phát hiện"
+      ],
+      "top_id": "p7",
+      "top_section": "0. Tom luoc",
+      "top_paper": "",
+      "top_excerpt": "[TÓM LƯỢC ĐIỀU HÀNH]\nSáu phát hiện then chốt:",
+      "sem_score": 84.0,
+      "kw_score": 100.0,
+      "combined_score": 90.4,
+      "status": "PASS"
+    },
+    {
+      "idx": 150,
+      "query": "CBT phương pháp hiệu quả nhất xuyên suốt",
+      "expected": [
+        "CBT",
+        "hiệu quả nhất"
+      ],
+      "found": [
+        "CBT",
+        "hiệu quả nhất"
+      ],
+      "top_id": "p8",
+      "top_section": "0. Tom luoc",
+      "top_paper": "Walkup2008",
+      "top_excerpt": "[TÓM LƯỢC ĐIỀU HÀNH] [Paper:Walkup2008]\nThứ nhất, Liệu pháp Nhận thức – Hành vi (CBT) là phương pháp được chứng minh hiệu quả nhất và nhất quán xuyên suốt cả ba vùng địa lý. Bằng chứng vàng từ thử ngh",
+      "sem_score": 66.3,
+      "kw_score": 100.0,
+      "combined_score": 79.8,
+      "status": "PASS"
+    },
+    {
+      "idx": 151,
+      "query": "CAMS 80,7 phần trăm CBT SSRI gold standard",
+      "expected": [
+        "CAMS",
+        "80,7"
+      ],
+      "found": [
+        "CAMS",
+        "80,7"
+      ],
+      "top_id": "p164",
+      "top_section": "III. Chau Au - Uc - My",
+      "top_paper": "Walkup2008",
+      "top_excerpt": "[3.7. Zugman et al. (2024) và CAMS (Walkup et al. 2008) — Bằng chứng vàng về CBT + SSRI] [Paper:Walkup2008]\nPhản biện: CAMS là RCT đa trung tâm 488 trẻ 7–17 tuổi — tiêu chuẩn vàng (gold standard) cho ",
+      "sem_score": 67.9,
+      "kw_score": 62.5,
+      "combined_score": 80.7,
+      "status": "PASS"
+    },
+    {
+      "idx": 152,
+      "query": "iCBT SAD hạng 1 NMA Walder Xian",
+      "expected": [
+        "iCBT",
+        "hạng 1"
+      ],
+      "found": [
+        "iCBT",
+        "hạng 1"
+      ],
+      "top_id": "p86",
+      "top_section": "II. Chau A",
+      "top_paper": "Xian2024",
+      "top_excerpt": "[2.4. Xian, Zhang & Jiang (2024) — Network Meta-Analysis 30 RCT cho SAD] [Paper:Xian2024]\nPhản biện: NMA cho phép so sánh GIÁN TIẾP tất cả can thiệp — bằng chứng MẠNH NHẤT về xếp hạng có thể thu được ",
+      "sem_score": 51.2,
+      "kw_score": 83.3,
+      "combined_score": 64.1,
+      "status": "PASS"
+    },
+    {
+      "idx": 153,
+      "query": "mobile CBT trầm cảm mạnh hơn lo âu",
+      "expected": [
+        "trầm cảm",
+        "lo âu",
+        "Qiaochu"
+      ],
+      "found": [
+        "trầm cảm",
+        "lo âu",
+        "Qiaochu"
+      ],
+      "top_id": "p10",
+      "top_section": "0. Tom luoc",
+      "top_paper": "Bress2024",
+      "top_excerpt": "[TÓM LƯỢC ĐIỀU HÀNH] [Paper:Bress2024]\nThứ ba, ứng dụng di động CBT (Mobile CBT) cho hiệu quả MẠNH với trầm cảm (87,5 % nghiên cứu dương tính) nhưng YẾU với lo âu khi không thiết kế riêng (Qiaochu & W",
+      "sem_score": 83.9,
+      "kw_score": 87.5,
+      "combined_score": 85.4,
+      "status": "PASS"
+    },
+    {
+      "idx": 154,
+      "query": "universal CBT phổ quát hiệu quả nhỏ",
+      "expected": [
+        "phổ quát",
+        "NHỎ"
+      ],
+      "found": [
+        "phổ quát",
+        "NHỎ"
+      ],
+      "top_id": "p11",
+      "top_section": "0. Tom luoc",
+      "top_paper": "Brown2025",
+      "top_excerpt": "[TÓM LƯỢC ĐIỀU HÀNH] [Paper:Brown2025]\nThứ tư, can thiệp PHỔ QUÁT tại trường (universal CBT) chỉ cho hiệu quả nhỏ và chất lượng bằng chứng nền thấp (Zhang, Liang & Kang 2026, J Clin Psychol 82:248–259",
+      "sem_score": 61.0,
+      "kw_score": 100.0,
+      "combined_score": 76.6,
+      "status": "PASS"
+    },
+    {
+      "idx": 155,
+      "query": "khoảng trống cực lớn Việt Nam 0 RCT",
+      "expected": [
+        "0 RCT",
+        "cực lớn"
+      ],
+      "found": [
+        "0 RCT",
+        "cực lớn"
+      ],
+      "top_id": "p185",
+      "top_section": "IV. Tong ket",
+      "top_paper": "TranNguyenNgoc2018",
+      "top_excerpt": "[4.5. Kết luận] [Paper:TranNguyenNgoc2018]\nViệt Nam đang có khoảng trống RẤT LỚN về nghiên cứu can thiệp tâm lý cho VTN có RLLA — 0 RCT trong hệ thống 58 bài. Trần Nguyễn Ngọc 2018 là cơ sở duy nhất t",
+      "sem_score": 67.3,
+      "kw_score": 85.7,
+      "combined_score": 74.7,
+      "status": "PASS"
+    },
+    {
+      "idx": 156,
+      "query": "Đông Á Thái Bình Dương LMIC thiếu cộng đồng",
+      "expected": [
+        "LMIC"
+      ],
+      "found": [
+        "LMIC"
+      ],
+      "top_id": "p13",
+      "top_section": "0. Tom luoc",
+      "top_paper": "Menon2025",
+      "top_excerpt": "[TÓM LƯỢC ĐIỀU HÀNH] [Paper:Menon2025]\nThứ sáu, khu vực Đông Á và Thái Bình Dương ở các nước có thu nhập trung bình – thấp (LMIC) còn thiếu nghiêm trọng các can thiệp ở cấp CỘNG ĐỒNG, GIA ĐÌNH và dịch",
+      "sem_score": 63.2,
+      "kw_score": 100.0,
+      "combined_score": 77.9,
+      "status": "PASS"
+    },
+    {
+      "idx": 157,
+      "query": "Bảng 11 so sánh ba vùng địa lý",
+      "expected": [
+        "ba vùng",
+        "so sánh"
+      ],
+      "found": [
+        "ba vùng",
+        "so sánh"
+      ],
+      "top_id": "p168",
+      "top_section": "IV. Tong ket",
+      "top_paper": "",
+      "top_excerpt": "[4.1. So sánh ba vùng địa lý]\nBảng 11. So sánh tổng hợp ba vùng địa lý.",
+      "sem_score": 94.2,
+      "kw_score": 100.0,
+      "combined_score": 96.5,
+      "status": "PASS"
+    },
+    {
+      "idx": 158,
+      "query": "Bảng 12 xếp hạng 13 phương pháp",
+      "expected": [
+        "xếp hạng",
+        "13"
+      ],
+      "found": [
+        "xếp hạng",
+        "13"
+      ],
+      "top_id": "p171",
+      "top_section": "IV. Tong ket",
+      "top_paper": "",
+      "top_excerpt": "[4.2. Xếp hạng 13 phương pháp can thiệp dựa trên tổng hợp bằng chứng]\nBảng 12. Xếp hạng 13 phương pháp can thiệp tâm lý cho RLLA ở VTN. Tổng hợp từ 15 bài nghiên cứu trong báo cáo này.",
+      "sem_score": 56.4,
+      "kw_score": 100.0,
+      "combined_score": 73.8,
+      "status": "PASS"
+    },
+    {
+      "idx": 159,
+      "query": "Việt Nam số bài can thiệp chỉ 1",
+      "expected": [
+        "Trần Nguyễn Ngọc"
+      ],
+      "found": [
+        "Trần Nguyễn Ngọc"
+      ],
+      "top_id": "p185",
+      "top_section": "IV. Tong ket",
+      "top_paper": "TranNguyenNgoc2018",
+      "top_excerpt": "[4.5. Kết luận] [Paper:TranNguyenNgoc2018]\nViệt Nam đang có khoảng trống RẤT LỚN về nghiên cứu can thiệp tâm lý cho VTN có RLLA — 0 RCT trong hệ thống 58 bài. Trần Nguyễn Ngọc 2018 là cơ sở duy nhất t",
+      "sem_score": 63.3,
+      "kw_score": 85.7,
+      "combined_score": 72.3,
+      "status": "PASS"
+    },
+    {
+      "idx": 160,
+      "query": "Châu Á số bài can thiệp ngoài Việt Nam",
+      "expected": [
+        "7"
+      ],
+      "found": [
+        "7"
+      ],
+      "top_id": "p67",
+      "top_section": "II. Chau A",
+      "top_paper": "",
+      "top_excerpt": "[2.1. Tổng quan 7 nghiên cứu can thiệp Châu Á]\nBảng 3. Tổng quan 7 nghiên cứu can thiệp Châu Á (ngoài Việt Nam). * Các bài đánh dấu * chỉ có thông tin abstract (paywall).",
+      "sem_score": 73.5,
+      "kw_score": 87.5,
+      "combined_score": 79.1,
+      "status": "PASS"
+    },
+    {
+      "idx": 161,
+      "query": "Châu Âu Úc Mỹ số bài can thiệp",
+      "expected": [
+        "7"
+      ],
+      "found": [
+        "7"
+      ],
+      "top_id": "h117",
+      "top_section": "III. Chau Au - Uc - My",
+      "top_paper": "",
+      "top_excerpt": "3.1. Tổng quan 7 nghiên cứu can thiệp Châu Âu – Úc – Mỹ",
+      "sem_score": 88.9,
+      "kw_score": 75.0,
+      "combined_score": 83.4,
+      "status": "PASS"
+    },
+    {
+      "idx": 162,
+      "query": "hạng 1 CBT SSRI kết hợp khuyến nghị VN",
+      "expected": [
+        "CBT + SSRI"
+      ],
+      "found": [
+        "CBT + SSRI"
+      ],
+      "top_id": "t170",
+      "top_section": "IV. Tong ket",
+      "top_paper": "TranNguyenNgoc2018|Xian2024|DeSilva2024|Brown2025|Cao2025|Qiaochu2025|Praptomojati2024|Walkup2008",
+      "top_excerpt": "[4.2. Xếp hạng 13 phương pháp can thiệp dựa trên tổng hợp bằng chứng]\nHEADERS: Hạng | Phương pháp | Bằng chứng tốt nhất | Phù hợp VN | Khuyến nghị VN\nHạng=1 | Phương pháp=CBT + SSRI kết hợp | Bằng chứ",
+      "sem_score": 60.1,
+      "kw_score": 100.0,
+      "combined_score": 76.0,
+      "status": "PASS"
+    },
+    {
+      "idx": 163,
+      "query": "hạng 2 CBT cá nhân nhóm cốt lõi",
+      "expected": [
+        "CBT",
+        "cốt lõi"
+      ],
+      "found": [
+        "CBT",
+        "cốt lõi"
+      ],
+      "top_id": "t170",
+      "top_section": "IV. Tong ket",
+      "top_paper": "TranNguyenNgoc2018|Xian2024|DeSilva2024|Brown2025|Cao2025|Qiaochu2025|Praptomojati2024|Walkup2008",
+      "top_excerpt": "[4.2. Xếp hạng 13 phương pháp can thiệp dựa trên tổng hợp bằng chứng]\nHEADERS: Hạng | Phương pháp | Bằng chứng tốt nhất | Phù hợp VN | Khuyến nghị VN\nHạng=1 | Phương pháp=CBT + SSRI kết hợp | Bằng chứ",
+      "sem_score": 49.9,
+      "kw_score": 100.0,
+      "combined_score": 69.9,
+      "status": "PASS"
+    },
+    {
+      "idx": 164,
+      "query": "hạng 3 iCBT cho SAD VTN số hoá",
+      "expected": [
+        "iCBT",
+        "SAD"
+      ],
+      "found": [
+        "iCBT",
+        "SAD"
+      ],
+      "top_id": "t83",
+      "top_section": "II. Chau A",
+      "top_paper": "Xian2024",
+      "top_excerpt": "[2.4. Xian, Zhang & Jiang (2024) — Network Meta-Analysis 30 RCT cho SAD] [Paper:Xian2024]\nHEADERS: Hạng | Liệu pháp | SUCRA (%) | Ghi chú\nHạng=1 | Liệu pháp=iCBT (CBT internet) | SUCRA (%)=71,2 | Ghi ",
+      "sem_score": 50.7,
+      "kw_score": 100.0,
+      "combined_score": 70.4,
+      "status": "PASS"
+    },
+    {
+      "idx": 165,
+      "query": "hạng 13 mindfulness phổ quát tránh",
+      "expected": [
+        "mindfulness",
+        "TRÁNH"
+      ],
+      "found": [
+        "mindfulness"
+      ],
+      "top_id": "p11",
+      "top_section": "0. Tom luoc",
+      "top_paper": "Brown2025",
+      "top_excerpt": "[TÓM LƯỢC ĐIỀU HÀNH] [Paper:Brown2025]\nThứ tư, can thiệp PHỔ QUÁT tại trường (universal CBT) chỉ cho hiệu quả nhỏ và chất lượng bằng chứng nền thấp (Zhang, Liang & Kang 2026, J Clin Psychol 82:248–259",
+      "sem_score": 45.9,
+      "kw_score": 50.0,
+      "combined_score": 47.5,
+      "status": "PASS"
+    },
+    {
+      "idx": 166,
+      "query": "5 khoảng trống nghiên cứu Việt Nam",
+      "expected": [
+        "5",
+        "khoảng trống"
+      ],
+      "found": [
+        "5",
+        "khoảng trống"
+      ],
+      "top_id": "h172",
+      "top_section": "IV. Tong ket",
+      "top_paper": "",
+      "top_excerpt": "4.3. Năm khoảng trống nghiên cứu can thiệp tại Việt Nam",
+      "sem_score": 90.4,
+      "kw_score": 100.0,
+      "combined_score": 94.3,
+      "status": "PASS"
+    },
+    {
+      "idx": 167,
+      "query": "khoảng trống số 1 thiếu tuyệt đối RCT",
+      "expected": [
+        "THIẾU TUYỆT ĐỐI",
+        "RCT"
+      ],
+      "found": [
+        "RCT"
+      ],
+      "top_id": "p185",
+      "top_section": "IV. Tong ket",
+      "top_paper": "TranNguyenNgoc2018",
+      "top_excerpt": "[4.5. Kết luận] [Paper:TranNguyenNgoc2018]\nViệt Nam đang có khoảng trống RẤT LỚN về nghiên cứu can thiệp tâm lý cho VTN có RLLA — 0 RCT trong hệ thống 58 bài. Trần Nguyễn Ngọc 2018 là cơ sở duy nhất t",
+      "sem_score": 40.6,
+      "kw_score": 71.4,
+      "combined_score": 53.0,
+      "status": "PASS"
+    },
+    {
+      "idx": 168,
+      "query": "5 thành phần can thiệp 12 tuần Bảng 13",
+      "expected": [
+        "5 thành phần",
+        "12 tuần"
+      ],
+      "found": [
+        "5 thành phần",
+        "12 tuần"
+      ],
+      "top_id": "p182",
+      "top_section": "IV. Tong ket",
+      "top_paper": "Menon2025",
+      "top_excerpt": "[4.4. Đề xuất thiết kế can thiệp cho đề cương Việt Nam (giai đoạn 2)] [Paper:Menon2025]\nBảng 13. Đề xuất can thiệp 5 thành phần cho đề cương VN giai đoạn 2.",
+      "sem_score": 63.7,
+      "kw_score": 75.0,
+      "combined_score": 68.2,
+      "status": "PASS"
+    },
+    {
+      "idx": 169,
+      "query": "Module CBT NHÓM TARGETED 8 buổi",
+      "expected": [
+        "CBT NHÓM",
+        "8 buổi"
+      ],
+      "found": [
+        "CBT NHÓM",
+        "8 buổi"
+      ],
+      "top_id": "t181",
+      "top_section": "IV. Tong ket",
+      "top_paper": "Menon2025",
+      "top_excerpt": "[4.4. Đề xuất thiết kế can thiệp cho đề cương Việt Nam (giai đoạn 2)] [Paper:Menon2025]\nHEADERS: Thành phần | Số buổi | Cơ sở bằng chứng | Áp dụng VN\nThành phần=1. CBT NHÓM TARGETED | Số buổi=8 buổi ×",
+      "sem_score": 48.6,
+      "kw_score": 100.0,
+      "combined_score": 69.2,
+      "status": "PASS"
+    },
+    {
+      "idx": 170,
+      "query": "Module GIAO TIẾP GIA ĐÌNH 4 buổi cha mẹ",
+      "expected": [
+        "GIAO TIẾP GIA ĐÌNH",
+        "4 buổi"
+      ],
+      "found": [
+        "GIAO TIẾP GIA ĐÌNH"
+      ],
+      "top_id": "p108",
+      "top_section": "II. Chau A",
+      "top_paper": "Dong2025",
+      "top_excerpt": "[2.7. Menon et al. (2025) — Scoping Review LMIC Đông Á – Thái Bình Dương] [Paper:Dong2025]\nPhản biện: Đây là CẢNH BÁO MẠNH cho dự án Việt Nam — không nên chỉ dừng lại ở can thiệp cấp cá nhân (CBT cho ",
+      "sem_score": 40.2,
+      "kw_score": 62.5,
+      "combined_score": 49.1,
+      "status": "PASS"
+    },
+    {
+      "idx": 171,
+      "query": "Module RESILIENCE 3 buổi",
+      "expected": [
+        "RESILIENCE",
+        "3 buổi"
+      ],
+      "found": [
+        "RESILIENCE",
+        "3 buổi"
+      ],
+      "top_id": "p149",
+      "top_section": "III. Chau Au - Uc - My",
+      "top_paper": "Cao2025",
+      "top_excerpt": "[3.5. Cao et al. (2025) — SR + MA về can thiệp resilience tại trường] [Paper:Cao2025]\nPhản biện: SR + MA RCTs trên Frontiers Q1 — bằng chứng tốt. Effect size nhỏ – TB cho thấy resilience không thay th",
+      "sem_score": 48.8,
+      "kw_score": 100.0,
+      "combined_score": 69.3,
+      "status": "PASS"
+    },
+    {
+      "idx": 172,
+      "query": "Module PE thư giãn thở 8 buổi",
+      "expected": [
+        "PE",
+        "8 buổi"
+      ],
+      "found": [
+        "PE",
+        "8 buổi"
+      ],
+      "top_id": "t181",
+      "top_section": "IV. Tong ket",
+      "top_paper": "Menon2025",
+      "top_excerpt": "[4.4. Đề xuất thiết kế can thiệp cho đề cương Việt Nam (giai đoạn 2)] [Paper:Menon2025]\nHEADERS: Thành phần | Số buổi | Cơ sở bằng chứng | Áp dụng VN\nThành phần=1. CBT NHÓM TARGETED | Số buổi=8 buổi ×",
+      "sem_score": 28.1,
+      "kw_score": 100.0,
+      "combined_score": 56.8,
+      "status": "PASS"
+    },
+    {
+      "idx": 173,
+      "query": "App iCBT tiếng Việt suốt 12 tuần",
+      "expected": [
+        "iCBT",
+        "12 tuần"
+      ],
+      "found": [
+        "iCBT",
+        "12 tuần"
+      ],
+      "top_id": "t181",
+      "top_section": "IV. Tong ket",
+      "top_paper": "Menon2025",
+      "top_excerpt": "[4.4. Đề xuất thiết kế can thiệp cho đề cương Việt Nam (giai đoạn 2)] [Paper:Menon2025]\nHEADERS: Thành phần | Số buổi | Cơ sở bằng chứng | Áp dụng VN\nThành phần=1. CBT NHÓM TARGETED | Số buổi=8 buổi ×",
+      "sem_score": 53.9,
+      "kw_score": 100.0,
+      "combined_score": 72.3,
+      "status": "PASS"
+    },
+    {
+      "idx": 174,
+      "query": "PLACES self-referral cơ chế tiếp cận",
+      "expected": [
+        "PLACES"
+      ],
+      "found": [
+        "PLACES"
+      ],
+      "top_id": "p183",
+      "top_section": "IV. Tong ket",
+      "top_paper": "Brown2025",
+      "top_excerpt": "[4.4. Đề xuất thiết kế can thiệp cho đề cương Việt Nam (giai đoạn 2)] [Paper:Brown2025]\nCơ chế tiếp cận: PLACES self-referral (Brown & Carter 2025) — học sinh tự đăng ký dùng từ thường ngày (\"căng thẳ",
+      "sem_score": 54.2,
+      "kw_score": 100.0,
+      "combined_score": 87.5,
+      "status": "PASS"
+    },
+    {
+      "idx": 175,
+      "query": "Dong PLOS ONE 0,22 kênh giao tiếp",
+      "expected": [
+        "Dong",
+        "0,22"
+      ],
+      "found": [
+        "Dong",
+        "0,22"
+      ],
+      "top_id": "p108",
+      "top_section": "II. Chau A",
+      "top_paper": "Dong2025",
+      "top_excerpt": "[2.7. Menon et al. (2025) — Scoping Review LMIC Đông Á – Thái Bình Dương] [Paper:Dong2025]\nPhản biện: Đây là CẢNH BÁO MẠNH cho dự án Việt Nam — không nên chỉ dừng lại ở can thiệp cấp cá nhân (CBT cho ",
+      "sem_score": 21.8,
+      "kw_score": 100.0,
+      "combined_score": 53.1,
+      "status": "PASS"
+    },
+    {
+      "idx": 176,
+      "query": "Chen 2025 141 nghiên cứu meta",
+      "expected": [
+        "Chen",
+        "141"
+      ],
+      "found": [
+        "Chen"
+      ],
+      "top_id": "p178",
+      "top_section": "IV. Tong ket",
+      "top_paper": "Menon2025",
+      "top_excerpt": "[4.3. Năm khoảng trống nghiên cứu can thiệp tại Việt Nam] [Paper:Menon2025]\n5. Can thiệp ĐA CẤP: cá nhân + GIA ĐÌNH + cộng đồng — lấp khoảng trống Menon 2025 và phát hiện kênh giao tiếp gia đình của D",
+      "sem_score": 58.3,
+      "kw_score": 50.0,
+      "combined_score": 55.0,
+      "status": "PASS"
+    },
+    {
+      "idx": 177,
+      "query": "emotional functioning yếu tố bảo vệ Chen",
+      "expected": [
+        "emotional",
+        "bảo vệ"
+      ],
+      "found": [
+        "emotional",
+        "bảo vệ"
+      ],
+      "top_id": "p147",
+      "top_section": "III. Chau Au - Uc - My",
+      "top_paper": "Cao2025",
+      "top_excerpt": "[3.5. Cao et al. (2025) — SR + MA về can thiệp resilience tại trường] [Paper:Cao2025]\nResilience được định nghĩa là khả năng thích ứng tốt trước nghịch cảnh, căng thẳng hoặc sang chấn. Khác với CBT (g",
+      "sem_score": 44.7,
+      "kw_score": 57.1,
+      "combined_score": 49.7,
+      "status": "PASS"
+    },
+    {
+      "idx": 178,
+      "query": "Trần Thảo Vi lạc quan trung gian",
+      "expected": [
+        "Trần Thảo Vi",
+        "lạc quan"
+      ],
+      "found": [
+        "Trần Thảo Vi",
+        "lạc quan"
+      ],
+      "top_id": "t19",
+      "top_section": "I. Viet Nam",
+      "top_paper": "TranNguyenNgoc2018",
+      "top_excerpt": "[1.1.1. Thông tin thư mục] [Paper:TranNguyenNgoc2018]\nHEADERS: Mục | Chi tiết\nMục=Tác giả | Chi tiết=Trần Nguyễn Ngọc\nMục=Hướng dẫn khoa học | Chi tiết=PGS. TS. Nguyễn Kim Việt\nMục=Loại tài liệu | Chi",
+      "sem_score": 52.2,
+      "kw_score": 57.1,
+      "combined_score": 54.2,
+      "status": "PASS"
+    },
+    {
+      "idx": 179,
+      "query": "Bress 2024 DOI jamanetworkopen 28372",
+      "expected": [
+        "10.1001/jamanetworkopen"
+      ],
+      "found": [
+        "10.1001/jamanetworkopen"
+      ],
+      "top_id": "p127",
+      "top_section": "III. Chau Au - Uc - My",
+      "top_paper": "Bress2024",
+      "top_excerpt": "[3.3. Bress et al. (2024) — RCT ứng dụng Maya tại JAMA Network Open] [Paper:Bress2024]\nThử nghiệm lâm sàng ngẫu nhiên đăng tại JAMA Network Open vol. 7(8), e2428372, tr. 1–15 (Bress et al. 2024). DOI ",
+      "sem_score": 30.0,
+      "kw_score": 100.0,
+      "combined_score": 79.0,
+      "status": "PASS"
+    },
+    {
+      "idx": 180,
+      "query": "Walder 2025 DOI preprints 67067",
+      "expected": [
+        "10.2196/preprints"
+      ],
+      "found": [
+        "10.2196/preprints"
+      ],
+      "top_id": "p192",
+      "top_section": "V. Tai lieu tham khao",
+      "top_paper": "",
+      "top_excerpt": "[TÀI LIỆU THAM KHẢO]\nBài 44 — Walder, N., Frey, A., Berger, T., et al. (2025). Digital mental health interventions for prevention and treatment of social anxiety disorder in children, adolescents and ",
+      "sem_score": 30.0,
+      "kw_score": 100.0,
+      "combined_score": 79.0,
+      "status": "PASS"
+    },
+    {
+      "idx": 181,
+      "query": "Xian 2024 DOI jad 08.097",
+      "expected": [
+        "10.1016/j.jad"
+      ],
+      "found": [
+        "10.1016/j.jad"
+      ],
+      "top_id": "p191",
+      "top_section": "V. Tai lieu tham khao",
+      "top_paper": "Xian2024",
+      "top_excerpt": "[TÀI LIỆU THAM KHẢO] [Paper:Xian2024]\nBài 43 — Xian, J., Zhang, Y., & Jiang, B. (2024). Psychological interventions for social anxiety disorder in children and adolescents: A systematic review and net",
+      "sem_score": 30.0,
+      "kw_score": 100.0,
+      "combined_score": 94.0,
+      "status": "PASS"
+    },
+    {
+      "idx": 182,
+      "query": "De Silva 2024 DOI s13034",
+      "expected": [
+        "10.1186/s13034"
+      ],
+      "found": [
+        "10.1186/s13034"
+      ],
+      "top_id": "p73",
+      "top_section": "II. Chau A",
+      "top_paper": "DeSilva2024",
+      "top_excerpt": "[2.3. De Silva et al. (2024) — Cluster RCT can thiệp CBT trường tại Sri Lanka] [Paper:DeSilva2024]\nThử nghiệm ngẫu nhiên có đối chứng theo cụm (cluster RCT) — phân ngẫu nhiên 36 TRƯỜNG học (không phải",
+      "sem_score": 30.0,
+      "kw_score": 100.0,
+      "combined_score": 94.0,
+      "status": "PASS"
+    },
+    {
+      "idx": 183,
+      "query": "Cao 2025 DOI fpsyt 1594658",
+      "expected": [
+        "10.3389/fpsyt"
+      ],
+      "found": [
+        "10.3389/fpsyt"
+      ],
+      "top_id": "p195",
+      "top_section": "V. Tai lieu tham khao",
+      "top_paper": "Cao2025",
+      "top_excerpt": "[TÀI LIỆU THAM KHẢO] [Paper:Cao2025]\nBài 50 — Cao, C., et al. (2025). School-based interventions for resilience in children and adolescents: A systematic review and meta-analysis of randomized control",
+      "sem_score": 30.0,
+      "kw_score": 100.0,
+      "combined_score": 94.0,
+      "status": "PASS"
+    },
+    {
+      "idx": 184,
+      "query": "Brown Carter DOI 09638237",
+      "expected": [
+        "10.1080/09638237"
+      ],
+      "found": [
+        "10.1080/09638237"
+      ],
+      "top_id": "p193",
+      "top_section": "V. Tai lieu tham khao",
+      "top_paper": "Brown2025",
+      "top_excerpt": "[TÀI LIỆU THAM KHẢO] [Paper:Brown2025]\nBài 48 — Brown, J. S. L., & Carter, B. (2025). School-based interventions for depression and anxiety in UK [Editorial]. Journal of Mental Health, 34(4), 357–361.",
+      "sem_score": 29.2,
+      "kw_score": 100.0,
+      "combined_score": 78.7,
+      "status": "PASS"
+    },
+    {
+      "idx": 185,
+      "query": "Li 2025 DOI s12888 07227",
+      "expected": [
+        "10.1186/s12888"
+      ],
+      "found": [
+        "10.1186/s12888"
+      ],
+      "top_id": "p188",
+      "top_section": "V. Tai lieu tham khao",
+      "top_paper": "",
+      "top_excerpt": "[TÀI LIỆU THAM KHẢO]\nBài 29 — Li, L., Li, Q., Wang, J., Fu, Q., Cui, M., Wang, Y., et al. (2025). Effects of different interventions on anxiety disorders in children and adolescents: A systematic revi",
+      "sem_score": 30.0,
+      "kw_score": 100.0,
+      "combined_score": 79.0,
+      "status": "PASS"
+    },
+    {
+      "idx": 186,
+      "query": "Sasaki 2024 DOI 55786",
+      "expected": [
+        "10.2196/55786"
+      ],
+      "found": [
+        "10.2196/55786"
+      ],
+      "top_id": "p196",
+      "top_section": "V. Tai lieu tham khao",
+      "top_paper": "Sasaki2024",
+      "top_excerpt": "[TÀI LIỆU THAM KHẢO] [Paper:Sasaki2024]\nBài 51 — Sasaki, N., et al. (2024). Effectiveness of unguided internet-based cognitive behavioral therapy for subthreshold social anxiety disorder in adolescent",
+      "sem_score": 30.0,
+      "kw_score": 100.0,
+      "combined_score": 94.0,
+      "status": "PASS"
+    },
+    {
+      "idx": 187,
+      "query": "Zugman 2024 DOI appi ajp",
+      "expected": [
+        "10.1176/appi.ajp"
+      ],
+      "found": [
+        "10.1176/appi.ajp"
+      ],
+      "top_id": "p159",
+      "top_section": "III. Chau Au - Uc - My",
+      "top_paper": "Zugman2024",
+      "top_excerpt": "[3.7. Zugman et al. (2024) và CAMS (Walkup et al. 2008) — Bằng chứng vàng về CBT + SSRI] [Paper:Zugman2024]\nBài tổng quan đăng trên American Journal of Psychiatry vol. 181(3), tr. 189–200, March 2024 ",
+      "sem_score": 46.7,
+      "kw_score": 100.0,
+      "combined_score": 99.0,
+      "status": "PASS"
+    },
+    {
+      "idx": 188,
+      "query": "Praptomojati DOI ajp 103896",
+      "expected": [
+        "10.1016/j.ajp"
+      ],
+      "found": [
+        "10.1016/j.ajp"
+      ],
+      "top_id": "p189",
+      "top_section": "V. Tai lieu tham khao",
+      "top_paper": "Praptomojati2024",
+      "top_excerpt": "[TÀI LIỆU THAM KHẢO] [Paper:Praptomojati2024]\nBài 41 — Praptomojati, A., & Hartanto, A. (2024). A systematic review of culturally adapted cognitive behavioral therapy (CA-CBT) for anxiety disorders in",
+      "sem_score": 30.0,
+      "kw_score": 100.0,
+      "combined_score": 94.0,
+      "status": "PASS"
+    },
+    {
+      "idx": 189,
+      "query": "Zhang Liang Kang 2026 DOI jclp 70069",
+      "expected": [
+        "10.1002/jclp"
+      ],
+      "found": [
+        "10.1002/jclp"
+      ],
+      "top_id": "p197",
+      "top_section": "V. Tai lieu tham khao",
+      "top_paper": "Zhang2026",
+      "top_excerpt": "[TÀI LIỆU THAM KHẢO] [Paper:Zhang2026]\nBài 56* — Zhang, X., Liang, Z., & Kang, J. (2026). Long-term effects of school-based CBT in low-risk children and adolescents: A Bayesian meta-analysis. Journal ",
+      "sem_score": 30.0,
+      "kw_score": 100.0,
+      "combined_score": 94.0,
+      "status": "PASS"
+    },
+    {
+      "idx": 190,
+      "query": "Qiaochu 2025 DOI cpp 70173",
+      "expected": [
+        "10.1002/cpp"
+      ],
+      "found": [
+        "10.1002/cpp"
+      ],
+      "top_id": "p198",
+      "top_section": "V. Tai lieu tham khao",
+      "top_paper": "Qiaochu2025",
+      "top_excerpt": "[TÀI LIỆU THAM KHẢO] [Paper:Qiaochu2025]\nBài 57* — Qiaochu, Z., & Wang, Y. (2025). Effectiveness of mobile-based cognitive behavioural therapy for depression and anxiety in children and young people: ",
+      "sem_score": 30.0,
+      "kw_score": 100.0,
+      "combined_score": 94.0,
+      "status": "PASS"
+    },
+    {
+      "idx": 191,
+      "query": "Menon 2025 DOI 10105395241313154",
+      "expected": [
+        "10.1177/10105395"
+      ],
+      "found": [
+        "10.1177/10105395"
+      ],
+      "top_id": "p199",
+      "top_section": "V. Tai lieu tham khao",
+      "top_paper": "Menon2025",
+      "top_excerpt": "[TÀI LIỆU THAM KHẢO] [Paper:Menon2025]\nBài 58* — Menon, V., Coppard, M., McEwen, S., Romero, L., Kennedy, E., & Azzopardi, P. (2025). Evaluated interventions targeting the mental health and psychosoci",
+      "sem_score": 30.0,
+      "kw_score": 100.0,
+      "combined_score": 94.0,
+      "status": "PASS"
+    },
+    {
+      "idx": 192,
+      "query": "Walkup 2008 NEJM 359 2753 2766",
+      "expected": [
+        "NEJM",
+        "2753",
+        "359"
+      ],
+      "found": [
+        "NEJM",
+        "2753",
+        "359"
+      ],
+      "top_id": "p161",
+      "top_section": "III. Chau Au - Uc - My",
+      "top_paper": "Walkup2008",
+      "top_excerpt": "[3.7. Zugman et al. (2024) và CAMS (Walkup et al. 2008) — Bằng chứng vàng về CBT + SSRI] [Paper:Walkup2008]\nTrích dẫn cốt lõi từ thử nghiệm CAMS (Walkup et al. 2008, NEJM 359:2753–2766) — được Zugman ",
+      "sem_score": 46.5,
+      "kw_score": 100.0,
+      "combined_score": 82.9,
+      "status": "PASS"
+    },
+    {
+      "idx": 193,
+      "query": "CAMS NNT Number Needed to Treat",
+      "expected": [
+        "NNT"
+      ],
+      "found": [
+        "NNT"
+      ],
+      "top_id": "p163",
+      "top_section": "III. Chau Au - Uc - My",
+      "top_paper": "Walkup2008",
+      "top_excerpt": "[3.7. Zugman et al. (2024) và CAMS (Walkup et al. 2008) — Bằng chứng vàng về CBT + SSRI] [Paper:Walkup2008]\nBảng 10. Đáp ứng điều trị nghiên cứu CAMS (n = 488 trẻ 7–17 tuổi, RCT đa trung tâm). Nguồn: ",
+      "sem_score": 47.9,
+      "kw_score": 100.0,
+      "combined_score": 83.7,
+      "status": "PASS"
+    },
+    {
+      "idx": 194,
+      "query": "Bài 28 Zugman tài liệu tham khảo",
+      "expected": [
+        "28",
+        "Zugman"
+      ],
+      "found": [
+        "28",
+        "Zugman"
+      ],
+      "top_id": "p187",
+      "top_section": "V. Tai lieu tham khao",
+      "top_paper": "Zugman2024",
+      "top_excerpt": "[TÀI LIỆU THAM KHẢO] [Paper:Zugman2024]\nBài 28 — Zugman, A., Jett, J. E., Antonacci, C., Winkler, A. M., & Pine, D. S. (2024). Current and future approaches to pediatric anxiety disorder treatment. Am",
+      "sem_score": 39.9,
+      "kw_score": 100.0,
+      "combined_score": 63.9,
+      "status": "PASS"
+    },
+    {
+      "idx": 195,
+      "query": "Bài 29 Li 2025 BMC Psychiatry",
+      "expected": [
+        "29",
+        "Li"
+      ],
+      "found": [
+        "29",
+        "Li"
+      ],
+      "top_id": "p188",
+      "top_section": "V. Tai lieu tham khao",
+      "top_paper": "",
+      "top_excerpt": "[TÀI LIỆU THAM KHẢO]\nBài 29 — Li, L., Li, Q., Wang, J., Fu, Q., Cui, M., Wang, Y., et al. (2025). Effects of different interventions on anxiety disorders in children and adolescents: A systematic revi",
+      "sem_score": 52.3,
+      "kw_score": 100.0,
+      "combined_score": 71.4,
+      "status": "PASS"
+    },
+    {
+      "idx": 196,
+      "query": "Bài 41 Praptomojati Hartanto",
+      "expected": [
+        "41",
+        "Praptomojati"
+      ],
+      "found": [
+        "41",
+        "Praptomojati"
+      ],
+      "top_id": "t66",
+      "top_section": "II. Chau A",
+      "top_paper": "Xian2024|DeSilva2024|Qiaochu2025|Menon2025|Li2025|Sasaki2024|Praptomojati2024",
+      "top_excerpt": "[2.1. Tổng quan 7 nghiên cứu can thiệp Châu Á]\nHEADERS: # | Tác giả / Năm | Quốc gia | Loại nghiên cứu | Đối tượng / Cỡ mẫu | Phát hiện then chốt\n#=41 | Tác giả / Năm=Praptomojati & Hartanto 2024 | Qu",
+      "sem_score": 49.0,
+      "kw_score": 75.0,
+      "combined_score": 74.4,
+      "status": "PASS"
+    },
+    {
+      "idx": 197,
+      "query": "Bài 42 De Silva 2024",
+      "expected": [
+        "42",
+        "De Silva"
+      ],
+      "found": [
+        "42",
+        "De Silva"
+      ],
+      "top_id": "p75",
+      "top_section": "II. Chau A",
+      "top_paper": "DeSilva2024",
+      "top_excerpt": "[2.3. De Silva et al. (2024) — Cluster RCT can thiệp CBT trường tại Sri Lanka] [Paper:DeSilva2024]\nKết quả chính (De Silva et al. 2024, Bảng 3 tr. 7):",
+      "sem_score": 57.3,
+      "kw_score": 60.0,
+      "combined_score": 73.4,
+      "status": "PASS"
+    },
+    {
+      "idx": 198,
+      "query": "Bài 43 Xian Zhang Jiang",
+      "expected": [
+        "43",
+        "Xian"
+      ],
+      "found": [
+        "43",
+        "Xian"
+      ],
+      "top_id": "h80",
+      "top_section": "II. Chau A",
+      "top_paper": "",
+      "top_excerpt": "2.4. Xian, Zhang & Jiang (2024) — Network Meta-Analysis 30 RCT cho SAD",
+      "sem_score": 61.5,
+      "kw_score": 60.0,
+      "combined_score": 60.9,
+      "status": "PASS"
+    },
+    {
+      "idx": 199,
+      "query": "Bài 44 Walder Frey Berger",
+      "expected": [
+        "44",
+        "Walder"
+      ],
+      "found": [
+        "44",
+        "Walder"
+      ],
+      "top_id": "t118",
+      "top_section": "III. Chau Au - Uc - My",
+      "top_paper": "Bress2024|Walder2025|Brown2025|Cao2025|Zhang2026|Walkup2008|Zugman2024",
+      "top_excerpt": "[3.1. Tổng quan 7 nghiên cứu can thiệp Châu Âu – Úc – Mỹ]\nHEADERS: # | Tác giả / Năm | Vùng | Loại nghiên cứu | Mẫu / Cỡ mẫu | Phát hiện then chốt\n#=44 | Tác giả / Năm=Walder et al. 2025 | Vùng=Quốc t",
+      "sem_score": 39.6,
+      "kw_score": 40.0,
+      "combined_score": 39.8,
+      "status": "PASS"
+    },
+    {
+      "idx": 200,
+      "query": "Bài 48 Brown Carter editorial",
+      "expected": [
+        "48",
+        "Brown"
+      ],
+      "found": [
+        "48",
+        "Brown"
+      ],
+      "top_id": "p138",
+      "top_section": "III. Chau Au - Uc - My",
+      "top_paper": "Brown2025",
+      "top_excerpt": "[3.4. Brown & Carter (2025) — Editorial UK về can thiệp tại trường] [Paper:Brown2025]\nNăm bài học từ Editorial này (Brown & Carter 2025, tr. 358–361):",
+      "sem_score": 69.6,
+      "kw_score": 80.0,
+      "combined_score": 73.7,
+      "status": "PASS"
+    },
+    {
+      "idx": 201,
+      "query": "Bài 49 Bress Falk Schier",
+      "expected": [
+        "49",
+        "Bress"
+      ],
+      "found": [
+        "49",
+        "Bress"
+      ],
+      "top_id": "t118",
+      "top_section": "III. Chau Au - Uc - My",
+      "top_paper": "Bress2024|Walder2025|Brown2025|Cao2025|Zhang2026|Walkup2008|Zugman2024",
+      "top_excerpt": "[3.1. Tổng quan 7 nghiên cứu can thiệp Châu Âu – Úc – Mỹ]\nHEADERS: # | Tác giả / Năm | Vùng | Loại nghiên cứu | Mẫu / Cỡ mẫu | Phát hiện then chốt\n#=44 | Tác giả / Năm=Walder et al. 2025 | Vùng=Quốc t",
+      "sem_score": 35.9,
+      "kw_score": 40.0,
+      "combined_score": 37.5,
+      "status": "PASS"
+    },
+    {
+      "idx": 202,
+      "query": "Bài 50 Cao 2025 Frontiers",
+      "expected": [
+        "50",
+        "Cao"
+      ],
+      "found": [
+        "50",
+        "Cao"
+      ],
+      "top_id": "p195",
+      "top_section": "V. Tai lieu tham khao",
+      "top_paper": "Cao2025",
+      "top_excerpt": "[TÀI LIỆU THAM KHẢO] [Paper:Cao2025]\nBài 50 — Cao, C., et al. (2025). School-based interventions for resilience in children and adolescents: A systematic review and meta-analysis of randomized control",
+      "sem_score": 30.0,
+      "kw_score": 100.0,
+      "combined_score": 73.0,
+      "status": "PASS"
+    },
+    {
+      "idx": 203,
+      "query": "Bài 51 Sasaki Nhật Bản",
+      "expected": [
+        "51",
+        "Sasaki"
+      ],
+      "found": [
+        "51",
+        "Sasaki"
+      ],
+      "top_id": "h87",
+      "top_section": "II. Chau A",
+      "top_paper": "",
+      "top_excerpt": "2.5. Sasaki et al. (2024) — RCT iCBT đa trung tâm tại Nhật Bản",
+      "sem_score": 69.4,
+      "kw_score": 60.0,
+      "combined_score": 65.6,
+      "status": "PASS"
+    },
+    {
+      "idx": 204,
+      "query": "Bài 56 Zhang Liang Kang abstract paywall",
+      "expected": [
+        "56",
+        "Zhang"
+      ],
+      "found": [
+        "Zhang"
+      ],
+      "top_id": "p152",
+      "top_section": "III. Chau Au - Uc - My",
+      "top_paper": "Zhang2026",
+      "top_excerpt": "[3.6. Zhang, Liang & Kang (2026) — Bayesian MA 31 RCT về CBT trường dài hạn] [Paper:Zhang2026]\nKết quả chính (theo abstract Crossref):",
+      "sem_score": 56.8,
+      "kw_score": 57.1,
+      "combined_score": 56.9,
+      "status": "PASS"
+    },
+    {
+      "idx": 205,
+      "query": "Bài 57 Qiaochu Wang abstract",
+      "expected": [
+        "57",
+        "Qiaochu"
+      ],
+      "found": [
+        "57",
+        "Qiaochu"
+      ],
+      "top_id": "p198",
+      "top_section": "V. Tai lieu tham khao",
+      "top_paper": "Qiaochu2025",
+      "top_excerpt": "[TÀI LIỆU THAM KHẢO] [Paper:Qiaochu2025]\nBài 57* — Qiaochu, Z., & Wang, Y. (2025). Effectiveness of mobile-based cognitive behavioural therapy for depression and anxiety in children and young people: ",
+      "sem_score": 30.0,
+      "kw_score": 100.0,
+      "combined_score": 73.0,
+      "status": "PASS"
+    },
+    {
+      "idx": 206,
+      "query": "Bài 58 Menon Coppard McEwen",
+      "expected": [
+        "58",
+        "Menon"
+      ],
+      "found": [
+        "58",
+        "Menon"
+      ],
+      "top_id": "p138",
+      "top_section": "III. Chau Au - Uc - My",
+      "top_paper": "Brown2025",
+      "top_excerpt": "[3.4. Brown & Carter (2025) — Editorial UK về can thiệp tại trường] [Paper:Brown2025]\nNăm bài học từ Editorial này (Brown & Carter 2025, tr. 358–361):",
+      "sem_score": 40.5,
+      "kw_score": 40.0,
+      "combined_score": 40.3,
+      "status": "PASS"
+    },
+    {
+      "idx": 207,
+      "query": "Bài 54 Dong Wang Lin đối chiếu",
+      "expected": [
+        "54",
+        "Dong"
+      ],
+      "found": [
+        "54",
+        "Dong"
+      ],
+      "top_id": "p178",
+      "top_section": "IV. Tong ket",
+      "top_paper": "Menon2025",
+      "top_excerpt": "[4.3. Năm khoảng trống nghiên cứu can thiệp tại Việt Nam] [Paper:Menon2025]\n5. Can thiệp ĐA CẤP: cá nhân + GIA ĐÌNH + cộng đồng — lấp khoảng trống Menon 2025 và phát hiện kênh giao tiếp gia đình của D",
+      "sem_score": 58.1,
+      "kw_score": 42.9,
+      "combined_score": 52.0,
+      "status": "PASS"
+    },
+    {
+      "idx": 208,
+      "query": "Bài 55 Chen Wang Zhu COVID",
+      "expected": [
+        "55",
+        "Chen"
+      ],
+      "found": [
+        "55",
+        "Chen"
+      ],
+      "top_id": "p203",
+      "top_section": "V. Tai lieu tham khao",
+      "top_paper": "",
+      "top_excerpt": "[TÀI LIỆU THAM KHẢO]\nBài 55 (đối chiếu) — Chen, H., Wang, Q., Zhu, J., Zhu, Y., Yang, F., Hui, J., Tang, X., & Zhang, T. (2025). Protective and risk factors of anxiety in children and adolescents duri",
+      "sem_score": 42.3,
+      "kw_score": 100.0,
+      "combined_score": 65.4,
+      "status": "PASS"
+    }
+  ]
+}

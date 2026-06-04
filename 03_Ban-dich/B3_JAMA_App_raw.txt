@@ -1,0 +1,1203 @@
+PAGE 1:
+Original Investigation | Psychiatry
+Efficacy of a Mobile App-Based Intervention for Young Adults
+With Anxiety Disorders
+A Randomized Clinical Trial
+Jennifer N. Bress, PhD; Avital Falk, PhD; Maddy M. Schier, BA; Abhishek Jaywant, PhD; Elizabeth Moroney, PhD; Monika Dargis, PhD;
+Shannon M. Bennett, PhD; Matthew A. Scult, PhD; Kevin G. Volpp, MD, PhD; David A. Asch, MD, MBA; Mohan Balachandran, MA, MS;
+Roy H. Perlis, MD; Francis S. Lee, MD, PhD; Faith M. Gunning, PhD
+Abstract
+IMPORTANCE Anxiety disorders are prevalent and undertreated among young adults. Digital
+mental health interventions for anxiety are promising but limited by a narrow range of therapeutic
+components and low user engagement.
+OBJECTIVE To investigate the efficacy of and engagement with Maya, a scalable, self-guided,
+comprehensive mobile cognitive behavioral therapy (CBT) intervention with embedded engagement
+features, comparing the effects of 3 incentive conditions.
+DESIGN, SETTING, AND PARTICIPANTS This randomized clinical trial recruited young adults aged
+18 to 25 years with anxiety disorders through online advertisements and outpatient psychiatry clinics
+at Weill Cornell Medicine. Enrollment was between June 16, 2021, and November 11, 2022. Data
+analysis was performed from December 21, 2022, to June 14, 2024.
+INTERVENTION Participants received a 6-week program of the intervention and were randomized
+to 1 of 3 different text message–based incentive conditions (gain-framed, loss-framed, or
+gain–social support).
+MAIN OUTCOMES AND MEASURES The primary outcome was change in anxious symptoms from
+baseline to end of treatment, as measured by the Hamilton Anxiety Rating Scale (HAM-A). The
+Anxiety Sensitivity Index and the Leibowitz Social Anxiety Scale scores were secondary measures.
+RESULTS The sample consisted of 59 participants (mean [SD] age, 23.1 [1.9] years; 46 [78%] female;
+22 [37%] Asian, 3 [5%] Black, 5 [8%] Hispanic or Latino, 1 [2%] American Indian or Alaska Native, 25
+[42%] White, and 6 [10%] >1 race; 32 [54%] college-educated and 12 [20%] graduate or professional
+school-educated; mean [SD] baseline HAM-A score, 15.0 [6.5]). Anxiety, measured by HAM-A,
+decreased across conditions from baseline to end of the intervention (mean difference, −5.64; 95%
+CI, −7.23 to −4.05), and symptomatic improvement was maintained at the week 12 follow-up
+(baseline to follow-up mean difference, −5.67; 95% CI, −7.29 to −4.04). However, there was no
+evidence that change in anxiety differed by incentive condition (loss-framed vs gain–social support
+mean difference, −1.40; 95% CI, −4.72 to 1.93; gain-framed vs gain–social support mean difference,
+1.38; 95% CI, −1.19 to 3.96). Secondary anxiety measures (Anxiety Sensitivity Index and Liebowitz
+Social Anxiety Scale scores) showed a similar pattern of improvement, with no evidence of
+differences between incentive conditions. Participants completed most of the 12 sessions (mean
+[SD], 10.8 [2.1]; 95% CI, 10.3-11.4), and User Mobile Application Rating Scale app quality ratings
+exceeded the published threshold for acceptability at all study visits. There was no evidence that
+either session completion or app quality ratings differed by incentive condition.
+(continued)
+Key Points
+Question Does the efficacy of a self-
+guided cognitive behavioral therapy
+mobile app for young adults with anxiety
+disorders, differ by incentive conditions
+used to promote user engagement?
+Findings In this randomized clinical trial
+of 59 young adults, change in anxiety
+from baseline to end of the intervention
+did not differ significantly between
+groups incentivized by loss of points,
+gain of points, or gain of points plus
+social support. However, there was a
+large and significant decrease in anxiety
+across incentive conditions.
+Meaning The findings of this study
+suggest that self-guided mobile
+cognitive behavioral therapy apps can
+be efficacious in improving anxiety
+symptoms, regardless of the type of
+incentive strategy used to promote
+engagement.
++ Visual Abstract
++ Supplemental content
+Author affiliations and article information are
+listed at the end of this article.
+Open Access. This is an open access article distributed under the terms of the CC-BY License.
+JAMA Network Open. 2024;7(8):e2428372. doi:10.1001/jamanetworkopen.2024.28372
+(Reprinted)
+August 20, 2024
+1/15
+Downloaded from jamanetwork.com by guest on 04/09/2026
+
+===
+PAGE 2:
+Abstract (continued)
+CONCLUSIONS AND RELEVANCE In this randomized clinical trial of an app-based intervention for
+anxiety, the primary hypothesis that improvement in anxiety would be greatest in the condition using
+gain of points plus social incentives was not supported; however, the results suggest that a CBT
+application incorporating a full suite of CBT skills and embedded user engagement features was
+efficacious in improving symptoms in young adults with anxiety disorders. Given these findings,
+digital interventions represent a promising step toward wider dissemination of high-quality,
+evidence-based interventions.
+TRIAL REGISTRATION ClinicalTrials.gov Identifier: NCT05130281
+JAMA Network Open. 2024;7(8):e2428372. doi:10.1001/jamanetworkopen.2024.28372
+Introduction
+Anxiety disorders have been increasing among 18- to 25-year-old individuals more rapidly than in any
+other adult age range, with recent past-month prevalence estimates reaching 15%.1,2 A US Surgeon
+General advisory3 emphasizes that although the rate of change accelerated during the COVID-19
+pandemic, psychiatric diagnoses among young people were already increasing before the pandemic.
+Anxiety disorders are associated with poor quality of life, difficulty working, disruption in social
+relationships and academic achievement, and financial burden.4-10
+These disorders can be treated effectively by psychotherapeutic interventions, and a majority
+of patients, particularly young adults, express a preference for psychotherapy over psychotropic
+medication.11 Cognitive behavioral therapy (CBT) is considered a gold standard for treatment of
+anxiety12 on the basis of abundant evidence of efficacy.13,14 However, despite the existence of
+efficacious interventions, more than 25% of young adults perceive an unmet need for mental health
+treatment,15,16 in part because of challenges in accessing such treatment. Reluctance to discuss
+mental health problems, financial constraints, geographic distance from mental health services, and
+limited clinician training in CBT approaches all represent barriers to accessing care.3,16-18
+Digital interventions, such as smartphone applications, allow treatment at home, are more
+affordable than paying for ongoing traditional mental health care, and do not rely on the ability to
+access a trained, local therapist. The increased prevalence of anxiety has not been met by an
+increased supply of mental health professionals, and digital access to evidence-based, self-guided
+CBT represents a scalable alternative. Self-guided CBT apps have demonstrated efficacy in adults
+with depression,19-21 but few studies have investigated their efficacy in individuals with anxiety
+disorders.22,23
+Self-guided mental health apps have been stymied by 2 limitations. First, most self-guided apps
+provide an incomplete representation of the psychotherapies on which they are based. In particular,
+they do not emphasize behavioral strategies (eg, exposure to anxiety-provoking situations),24,25 a
+key therapeutic component of interventions for anxiety.26,27 Second, low user engagement
+diminishes their potential impact.28,29 Engagement may be improved by involving social support in
+the intervention29 or by incorporating behavioral economics and gamification.30,31
+The Maya app is a digital CBT intervention targeting anxiety in young adults that addresses the
+limitations of existing apps. The app teaches a comprehensive array of CBT skills that target common
+features of anxiety, with a focus on behavioral skills often omitted from other apps. The app uses a
+visually appealing user interface and incorporates engagement strategies drawn from behavioral
+economics.30-34 Material is presented in an interactive format to encourage active participation,
+which leads to better learning and greater engagement than passive viewing of information.35 In
+addition to these features, the app can be used in conjunction with a text-based, gamified incentive
+system to further encourage engagement.
+JAMA Network Open | Psychiatry
+Mobile App-Based Intervention for Young Adults With Anxiety Disorders
+JAMA Network Open. 2024;7(8):e2428372. doi:10.1001/jamanetworkopen.2024.28372
+(Reprinted)
+August 20, 2024
+2/15
+Downloaded from jamanetwork.com by guest on 04/09/2026
+
+===
+PAGE 3:
+The primary aim of the current study was to compare the effects of 3 incentive strategies on the
+efficacy of the app in improving anxiety in adults aged 18 to 25 years with anxiety disorders. Given
+the powerful impact of social feedback in adolescence and early adulthood,36-38 our primary
+hypothesis was that anxiety would decrease more for participants incentivized by receipt of reward
+points combined with social support than for participants incentivized by either gain or loss of reward
+points alone.29,39,40 The secondary aims of the study were to evaluate engagement and self-
+reported satisfaction with the app and to compare these results among the incentive conditions.
+Methods
+Study Design
+This randomized clinical trial examined improvement of anxiety during the intervention accompanied
+by 1 of 3 incentive conditions to promote engagement. In the absence of sufficient preliminary data
+to support a formal power calculation, an intended sample size of 120 was determined based on prior
+investigations of similar design (ie, randomized clinical trials of self-guided smartphone app
+interventions for anxiety or depression).22,41-43 However, the full sample was not recruited due to
+disruption of research procedures during the COVID-19 pandemic. Participants were individuals aged
+18 to 25 years with anxiety disorders, who were assigned to use the app for 6 weeks and were
+randomized to a loss-framed, gain-framed, or gain–social support incentivization. Anxiety was
+assessed at baseline, week 3 (midpoint), week 6 (end of intervention), and week 12 (follow-up).
+Change in anxiety (Hamilton Anxiety Rating Scale [HAM-A]44) at week 6 (end of intervention) was
+the primary end point. Approval for the trial protocol (Supplement 1) was obtained from the Weill
+Cornell Medicine Institutional Review Board before study initiation. Written consent was obtained
+remotely using an electronic version of the informed consent form that followed federal, state, and
+local regulations, as applicable. This report follows the Consolidated Standards of Reporting Trials
+(CONSORT) reporting guideline for randomized clinical trials.
+Participants
+Participants were recruited through online advertisements and the outpatient psychiatry clinics of
+Weill Cornell Medicine. Eligible participants had a primary anxiety disorder diagnosis, determined by
+a score of 4 or higher on the clinical severity rating of the Anxiety and Related Disorders Interview
+Schedule for DSM-5 (ADIS-5)45 and were fluent in English. Race and ethnicity were self-reported by
+participants from categories defined by investigators to provide information about the
+representativeness of the sample. Participants were excluded if they were already participating in
+CBT, had changed psychotropic medication dosage in the past 12 weeks, or endorsed suicidal
+ideation with intent and/or plan (Figure 1).
+Study Intervention
+The content of the app was developed by clinicians and researchers at Weill Cornell Medicine, and the
+app is free to download. The current publicly available version of the app includes the same core skills
+as the version used for the current study but includes language with a greater focus on wellness and
+resilience, has fewer required exercises, and allows for greater user choice of activities. Participants
+were assigned to complete 12 sessions of the intervention during 6 weeks (2 sessions per week).
+Modules included psychoeducational videos and quizzes, cognitive restructuring exercises, exposure
+exercises, mindfulness, and additional CBT skills (eFigure in Supplement 2). Each session included
+homework to be completed before the next session.
+Incentive Conditions
+The incentive conditions consisted of the following: (1) a loss-framed condition in which participants
+began each week with a specified number of points that they could lose for not completing assigned
+sessions on time; (2) a gain-framed condition in which participants could earn points for completing
+JAMA Network Open | Psychiatry
+Mobile App-Based Intervention for Young Adults With Anxiety Disorders
+JAMA Network Open. 2024;7(8):e2428372. doi:10.1001/jamanetworkopen.2024.28372
+(Reprinted)
+August 20, 2024
+3/15
+Downloaded from jamanetwork.com by guest on 04/09/2026
+
+===
+PAGE 4:
+assigned sessions; and (3) a gain–social support condition that included all aspects of the gain-framed
+condition plus the ability to designate a friend or family member to receive text updates about the
+participant’s progress and provide social support. Participants received virtual “medals” (bronze,
+silver, gold, or platinum) for obtaining specified levels of points. If a participant in the gain–social
+support condition declined to designate a friend or family member, a research assistant not involved
+in collection of study data was designated as the social support person. The content and format of
+the app sessions did not differ among the incentive conditions.
+Incentives were delivered separately from the app via text messages sent through Way to
+Health,46 a research platform developed by the University of Pennsylvania Center for Health
+Incentives and Behavioral Economics.47-49 Text messages included reminders, gamification
+incentives (points and badges), and, where relevant, updates to the social support person with
+suggested messages of support (eg, “[Participant] has completed the third week of the program! Let
+me tell you about some achievements. [Participant] earned 1800 points for completing sessions on
+time. Encourage [Participant] to keep this up.”).
+Randomization
+Randomization was conducted through the Way to Health platform, which generated the random
+allocation sequence. Participants were randomized to 1 of 3 incentive conditions according to a
+simple 1:1:1 nonblocked design through the Way to Health platform. Study research assistants
+(M.M.S.) enrolled participants and were masked to the randomization assignment. Because targeted
+enrollment was not achieved due to the COVID-19 pandemic and the 1:1:1 randomization scheme did
+not specify block randomization, participants were allocated unevenly to the 3 conditions.
+Modifications Due to the COVID-19 Pandemic
+This trial was intended to begin in March 2020, but study initiation was delayed until June 2021 after
+nonessential research activities at Weill Cornell Medicine were paused due to the COVID-19
+pandemic. Therefore, enrollment was between June 16, 2021, and November 11, 2022. Our
+recruitment target of 120 participants was amended as a result, which reduced power and led to
+imbalanced comparison groups. The trial concluded when the end of the preplanned study period
+was reached. We report methods and results in accordance with guidelines for clinical trials affected
+by the pandemic.50
+Figure 1. CONSORT Diagram Illustrating Number of Participants Included at Each Point in the Study
+From Enrollment to Analysis
+68 Assessed for eligibility
+9 Excluded
+7 Did not meet inclusion criteria
+2 Declined to participate
+59 Randomized
+30 Randomized to gain condition
+30 Received intervention
+3 Lost to follow-up or discontinued
+intervention
+30 Analyzed
+2 Lost to follow-up or discontinued
+intervention
+11 Analyzed
+0 Lost to follow-up or discontinued
+intervention
+18 Analyzed
+11 Randomized to loss condition
+11 Received intervention
+18 Randomized to social support
+condition
+18 Received intervention
+JAMA Network Open | Psychiatry
+Mobile App-Based Intervention for Young Adults With Anxiety Disorders
+JAMA Network Open. 2024;7(8):e2428372. doi:10.1001/jamanetworkopen.2024.28372
+(Reprinted)
+August 20, 2024
+4/15
+Downloaded from jamanetwork.com by guest on 04/09/2026
+
+===
+PAGE 5:
+Measures
+The ADIS-545 was administered to determine psychiatric diagnosis and clinical severity rating at
+baseline and end point. The HAM-A44 score was the primary measure of anxiety. The Anxiety
+Sensitivity Index (ASI)51 and Liebowitz Social Anxiety Scale (LSAS)52 scores were secondary measures
+of anxiety. The 24-item Hamilton Depression Rating Scale53 was the measure of depressive
+symptoms (exploratory efficacy outcome). App engagement was measured in terms of the total
+number of sessions completed. Retention was assessed at week 6 (end of intervention) and week 12
+(follow-up). Participant satisfaction was measured with the User Version of the Mobile Application
+Rating Scale (uMARS).54 Detailed descriptions of measures and training procedures are provided in
+the eMethods in Supplement 2.
+Procedure
+Study visits were conducted remotely via a Health Insurance Portability and Accountability
+Act–compliant videoconferencing platform (Zoom, versions 5.6.7-5.12.9; Zoom Video
+Communications Inc). The baseline assessment included the measures described above and a
+session to assist the participant with app setup. App programs were set to begin the Sunday after
+enrollment. Outcome measures and qualitative feedback questionnaires about the app were
+collected at weeks 3 (midpoint), 6 (end of intervention), and 12 (follow-up). The uMARS was assessed
+beginning at week 1 rather than at baseline to allow participants to use the app before rating it. The
+week 3 and 6 visits also included troubleshooting of technical difficulties.
+Statistical Analysis
+Statistical analyses were conducted with Jamovi, version 2.3.2.0,55 a software package based on the
+R statistical language (R Foundation for Statistical Computing). To evaluate the effect of the
+intervention on primary (HAM-A) and secondary (ASI and LSAS) measures of anxiety, we used linear
+mixed-effects models with subject intercept as a random effect. All participants with baseline data
+were included following an intent-to-treat approach. Linear mixed-effects models used the restricted
+maximum likelihood estimation method, which accounts for missing values without removing entire
+participants from the analysis. We tested the main effect of time (baseline [week 0], midpoint [week
+3], end point [week 6], and follow-up [week 12]) as a fixed effect, incentive condition (gain–social
+support, gain-framed, and loss-framed) as a fixed effect, and a time × incentive condition interaction.
+To compare participant engagement (sessions completed) among the incentive conditions,
+because of the imbalance in sample size across conditions, we used a nonparametric Kruskal-Wallis
+test. To evaluate participant satisfaction with the intervention, we computed a linear mixed-effects
+model with a random effect of participants, fixed effects of time (week 1, midpoint, end point, and
+follow-up) and incentive condition (gain–social support, gain-framed, and loss-framed), a
+time × incentive condition interaction, and the total uMARS App Quality score as the outcome. For
+descriptive purposes, we calculated the percentage of the sample who rated the app quality as a 4 or
+greater on the uMARS, based on the published threshold for app satisfaction.
+Post hoc 2-tailed, paired t test analyses of change in assessment scores from baseline to
+midpoint, end point, and follow-up used the Holm method to correct for multiple comparisons.
+Effect sizes are reported in terms of Cohen d, in which d = 0.2 represents a small effect, d = 0.5
+represents a medium effect, and d = 0.8 represents a large effect.56 A P value threshold of .05 was
+used to determine significance. Data analysis was performed from December 21, 2022, to June 14,
+2024. Exploratory analyses are reported in the eMethods in Supplement 2.
+Results
+Sample Characteristics
+Sixty-eight prospective participants were assessed, and 59 (mean [SD] age, 23.1 [1.9] years; 46 [78%]
+female and 13 [22%] male; 22 [37%] Asian, 3 [5%] Black, 5 [8%] Hispanic or Latino, 1 [2%] American
+JAMA Network Open | Psychiatry
+Mobile App-Based Intervention for Young Adults With Anxiety Disorders
+JAMA Network Open. 2024;7(8):e2428372. doi:10.1001/jamanetworkopen.2024.28372
+(Reprinted)
+August 20, 2024
+5/15
+Downloaded from jamanetwork.com by guest on 04/09/2026
+
+===
+PAGE 6:
+Indian or Alaska Native, 25 [42%] White, and 6 [10%] >1 race; 32 [54%] college-educated and 12
+[20%] graduate or professional school–educated) were enrolled and randomized (Figure 1).
+Participants presented most frequently with generalized anxiety disorder (33 [56%]) followed by
+social anxiety disorder (24 [41%]). The mean (SD) baseline HAM-A score was 15.0 (6.5). Demographic
+and clinical characteristics of the sample are provided in Table 1. No participants reported serious
+adverse events.
+Efficacy on Anxiety
+There was a significant main effect of time on the primary measure of anxiety (HAM-A scores):
+anxiety was significantly lower at midpoint (week 3 mean difference, −3.20; 95% CI, −4.76 to −1.64;
+Cohen d = 0.64), end point (week 6 mean difference, −5.64; 95% CI, −7.23 to −4.05; Cohen
+d = 0.94), and follow-up (week 12 mean difference, −5.67; 95% CI, −7.29 to −4.04; Cohen d = 1.04)
+than baseline (Figure 2). Effect sizes were large at end point and follow-up. There was no evidence
+that change in anxiety differed by incentive condition (loss-framed vs gain–social support mean
+difference, −1.40; 95% CI, −4.72 to 1.93; gain-framed vs gain–social support mean difference, 1.38;
+95% CI, −1.19 to 3.96) or time × incentive condition interaction (loss-framed and gain–social support
+mean difference, 2.30; 95% CI, −1.92 to 6.53 at midpoint; −0.43; 95% CI, −4.74 to 3.88 at end point;
+and 3.47; 95% CI, −0.94 to 7.88 at follow-up; gain-framed and gain–social support mean difference,
+−0.90; 95% CI, −4.19 to 2.39 at midpoint; −2.16; 95% CI, −5.45 to 1.14 at end point; and −0.97; 95%
+CI, −4.30 to 2.37 at follow-up) (Table 2).
+For the secondary measures of anxiety, there was a significant main effect of time on the ASI
+and the LSAS. There were significant decreases in severity of anxiety sensitivity at midpoint (week 3
+mean difference, −3.69; 95% CI, −6.22 to −1.17; Cohen d = 0.49), end point (week 6 mean difference,
+−9.51; 95% CI, −12.08 to −6.94; Cohen d = 0.93), and follow-up (week 12 mean difference, −8.90;
+95% CI, −11.54 to −6.27; Cohen d = 0.93) (Figure 2). There were also significant decreases in severity
+of social anxiety symptoms at midpoint (week 3 mean difference, −6.84; 95% CI, −11.46 to −2.21;
+Cohen d = 0.47), end point (week 6 mean difference, −12.67; 95% CI, −17.38 to −7.96; Cohen
+d = 0.70), and follow-up (week 12 mean difference, −17.61; 95% CI, −22.45 to −12.77; Cohen d = 1.07)
+(Figure 2). Effect sizes were moderate to large. There were no statistically significant main effects of
+incentive or time × incentive condition interactions for the ASI or LSAS (Table 2).
+Engagement
+Overall, 58 of the 59 participants (98%) completed the week 6 end point assessment, and 55 of 59
+(93%) completed the subsequent week 12 follow-up. On average, participants completed most of
+the 12 intervention sessions (mean [SD], 10.8 [2.1]; 95% CI, 10.3-11.4). Thirty-eight of 59 participants
+(64%) completed all sessions in the program. Of those who completed the follow-up assessment,
+21 of 55 (39%) reported that they continued to use the app beyond the 6-week timeframe. The
+number of sessions completed did not differ significantly by participant age (Pearson r = 0.03,
+P = .81), gender (male vs female mean difference, −0.82; 95% CI, −2.43 to 0.79; nonbinary gender
+was not included in analysis because only 1 individual so identified), or race (White vs races other than
+White mean difference, −0.47; 95% CI, −1.60 to 0.65). There was no evidence that number of
+sessions completed differed by incentive condition (gain-framed vs loss-framed mean difference,
+−0.67; 95% CI, −2.75 to 1.42; gain–social support vs loss-framed mean difference, −1.56; 95% CI,
+−3.55 to 0.44; gain-framed vs gain–social support mean difference, −0.89; 95% CI, −1.82 to 0.04).
+Participant Satisfaction
+A linear mixed-effects model of the uMARS App Quality score indicated no significant fixed effect of
+time (week 1 vs midpoint mean difference, 0.07; 95% CI, −0.06 to 0.2; week 1 vs end point mean
+difference, 0.07; 95% CI, −0.07 to 0.2; week 1 vs follow-up mean difference, 0.14; 95% CI, 0.0002-
+0.27) or incentive condition (loss-framed vs gain–social support mean difference, −0.16; 95% CI,
+−0.49 to 0.17; gain-framed vs gain–social support mean difference, −0.01; 95% CI, −0.26 to 0.25) and
+JAMA Network Open | Psychiatry
+Mobile App-Based Intervention for Young Adults With Anxiety Disorders
+JAMA Network Open. 2024;7(8):e2428372. doi:10.1001/jamanetworkopen.2024.28372
+(Reprinted)
+August 20, 2024
+6/15
+Downloaded from jamanetwork.com by guest on 04/09/2026
+
+===
+PAGE 7:
+Table 1. Sample Characteristicsa
+Characteristic
+Full sample
+(N = 59)
+Gain framed
+(n = 30)
+Loss framed
+(n = 11)
+Social support
+(n = 18)
+Age, mean (SD), y
+23.1 (1.9)
+22.9 (1.9)
+22.4 (2.4)
+24.0 (1.2)
+Gender
+Female
+46 (78)
+23 (77)
+5 (45)
+18 (100)
+Male
+11 (19)
+7 (20)
+4 (36)
+0
+Nonbinary
+1 (2)
+0
+1 (9)
+0
+Did not answer
+1 (2)
+0
+1 (9)
+0
+Educational level
+Graduate/ or professional
+12 (20)
+7 (23)
+1 (9)
+4 (22)
+College
+32 (54)
+16 (53)
+4 (36)
+12 (67)
+Some college
+4 (7)
+1 (3)
+2 (18)
+1 (6)
+Associate degree
+0
+0
+0
+0
+High school
+6 (10)
+4 (13)
+2 (18)
+0
+Did not answer
+5 (8)
+2 (7)
+2 (18)
+1 (6)
+Race
+Asian
+22 (38)
+14 (47)
+2 (18)
+6 (33)
+Black
+3 (5)
+0
+0
+3 (17)
+American Indian or Alaska Native
+1 (1)
+0
+0
+1 (6)
+White
+26 (44)
+13 (43)
+6 (55)
+7 (39)
+>1 Race
+3 (5)
+3 (10)
+0
+0
+Did not answer
+1 (2)
+0
+1 (9)
+0
+Other, not specified
+3 (3)
+0
+0
+1 (9)
+Ethnicity
+Hispanic or Latino
+5 (8)
+1 (3)
+3 (27)
+1 (6)
+Non-Hispanic or Latino
+52 (88)
+28 (93)
+7 (64)
+17 (94)
+Other (did not answer)
+2 (3)
+1 (3)
+1 (9)
+0
+Principal diagnosisb
+Generalized anxiety disorder
+33 (56)
+16 (53)
+6 (55)
+11(61)
+Social anxiety disorder
+24 (41)
+12 (40)
+4 (36)
+8 (44)
+Panic disorder
+4 (7)
+3 (10)
+0
+1 (6)
+Agoraphobia
+1 (2)
+0
+1 (9)
+0
+Specific phobia
+1 (2)
+1 (3)
+0
+0
+Other specified
+1 (2)
+0
+1 (9)
+0
+Clinical severity rating, mean (SD)c
+Baseline
+5.2 (0.8)
+5.4 (0.8)
+5 (0.8)
+5.1 (0.7)
+End point
+3.7 (1.3)
+4.1 (1.2)
+3.2 (1.3)
+3.4 (1.1)
+Comorbid diagnosesd
+Anxiety disorders
+41 (70)
+21 (70)
+7 (64)
+13 (72)
+Depressive disorders
+12 (20)
+6 (20)
+2 (18)
+4 (22)
+Obsessive-compulsive and
+related disorders
+4 (7)
+1 (3)
+2 (18)
+1 (6)
+Attention-deficit/hyperactivity disorder
+Substance use disorder
+1 (2)
+1 (3)
+0
+0
+Baseline anxiety score (HAM-A),
+mean (SD)
+15.0 (6.5)
+16.7 (7.3)
+11.5 (3.4)
+14.3 (5.8)
+Baseline anxiety sensitivity score
+(ASI), mean (SD)
+25.3 (14.2)
+28.1 (15.1)
+22.3 (12.4)
+22.4 (13.3)
+Baseline social anxiety score (LSAS),
+mean (SD)
+52.7 (27.8)
+59.3 (26.8)
+44.2 (29.7)
+47.1 (27.3)
+Baseline depression score (HAM-D),
+mean (SD)
+15.9 (5.9)
+16.4 (6.2)
+14.4 (4.3)
+15.9 (6.3)
+Abbreviations: ASI, Anxiety Sensitivity Index; HAM-A,
+Hamilton Anxiety Rating Scale; HAM-D, Hamilton
+Depression Rating Scale; LSAS, Liebowitz Social
+Anxiety Scale.
+a Data are presented as number (percentage) of
+participants unless otherwise indicated.
+b Frequency counts for principal diagnoses exceed the
+sample size because if an individual had 2
+co-occurring anxiety disorders at the same clinical
+severity rating, both were counted. Uneven group
+sizes reflect lack of block randomization; see text
+for details.
+c Clinical severity rating is a component of the Anxiety
+and Related Disorders Interview Schedule for DSM-5,
+determined by the clinical interviewer according to
+a set of anchor points from 0 to 8 based on severity
+of reported symptoms.
+d Although all participants had a principal diagnosis of
+an anxiety disorder, anxiety disorders were
+considered a comorbidity if the participant had a
+second anxiety disorder in addition to the principal
+diagnosis.
+JAMA Network Open | Psychiatry
+Mobile App-Based Intervention for Young Adults With Anxiety Disorders
+JAMA Network Open. 2024;7(8):e2428372. doi:10.1001/jamanetworkopen.2024.28372
+(Reprinted)
+August 20, 2024
+7/15
+Downloaded from jamanetwork.com by guest on 04/09/2026
+
+===
+PAGE 8:
+no significant time × incentive group interaction. At each time point and regardless of incentive
+group, the mean uMARS App Quality score was greater than the published cutoff for acceptable app
+satisfaction of 4 (week 1 mean, 4.09; 95% CI, 3.96-4.23; 39 of 57 participants [68%] with scores >4;
+week 3 mean, 4.17; 95% CI, 4.04-4.30; 40 of 59 participants [68%] with scores >4; end point mean,
+4.18; 95% CI, 4.05-4.32; 41 of 58 participants [71%] with scores >4; and follow-up mean, 4.22; 95%
+CI, 4.09-4.36; 35 of 52 participants [68%] with scores >4). Additional linear mixed-model results are
+given in the eResults in Supplement 2.
+Discussion
+Contrary to our primary hypothesis, we did not find evidence of a difference in efficacy among the 3
+incentive conditions. However, after 6 weeks of use of the app, there was a clinically and statistically
+significant decrease in anxiety symptoms across conditions. This decrease in anxiety persisted at the
+week 12 follow-up. Study retention, app engagement, and participant satisfaction with the app were
+high across incentive conditions and did not differ by condition. All but 1 participant remained in the
+study during the intervention period, and a majority completed all intervention sessions. At least
+68% of participants assigned a mean app quality rating greater than 4 of 5 at each time point.
+The small size of comparator groups may have limited our ability to detect group differences by
+incentive condition. The absence of a group difference may also reflect a ceiling effect on the
+engagement and efficacy of the app. In addition to the incentive strategies used in conjunction with
+the app, the app itself includes numerous features intended to enhance both engagement and
+Figure 2. Results of the Linear Mixed-Effects Model Demonstrating Change in Outcome Measure by Time and Incentive Condition
+20
+15
+10
+5
+0
+HAM-A total score
+Overall anxiety (HAM-A)
+A
+Baseline
+Week 3
+Week 6
+Week 12
+40
+30
+20
+10
+0
+ASI total score
+Anxiety sensitivity (ASI) 
+B
+Baseline
+Week 3
+Week 6
+Week 12
+80
+60
+40
+20
+0
+LSAS total score
+Social anxiety (LSAS)
+C
+Baseline
+Week 3
+Week 6
+Week 12
+20
+15
+10
+5
+0
+HAM-D total score
+Depression (HAM-D)
+D
+Baseline
+Week 3
+Week 6
+Week 12
+Loss framed
+Gain framed
+Social support
+Error bars represent SEs. ASI indicates Anxiety Sensitivity Index; HAM-A, Hamilton Anxiety Rating Scale; HAM-D, Hamilton Depression Rating Scale; and LSAS, Liebowitz Social
+Anxiety Scale.
+JAMA Network Open | Psychiatry
+Mobile App-Based Intervention for Young Adults With Anxiety Disorders
+JAMA Network Open. 2024;7(8):e2428372. doi:10.1001/jamanetworkopen.2024.28372
+(Reprinted)
+August 20, 2024
+8/15
+Downloaded from jamanetwork.com by guest on 04/09/2026
+
+===
+PAGE 9:
+efficacy: a visually appealing user interface, a progress monitoring feature, interactive modules with
+activities designed to maintain users’ attention, and comprehensive coverage of CBT and adjunctive
+skills. Moreover, all 3 incentive conditions involved either a gain-framed or a loss-framed component,
+both of which are efficacious in changing health-related behaviors.40
+Effect sizes of the decrease in anxiety across conditions were moderate to large, suggesting a
+clinically significant association between use of the intervention and improvement of anxiety that
+was greater than those typically observed in digital mental health interventions31,57,58 and on par
+with pharmacologic trials.59-61 Secondary analyses indicated that anxiety remained lower than
+baseline at a week 12 follow-up assessment (6 weeks after the end of the intervention) and did not
+differ between the end of the intervention and follow-up, suggesting potential persistence of
+Table 2. Results of Linear Mixed Models for the Main Effect of Time Demonstrating Estimates of Mean Change
+by Time
+Parameter estimate
+Estimate (95% CI)
+t
+P value
+HAM-A
+Intercept
+10.54 (9.31 to 11.11)
+16.82
+<.001
+Midpoint-baseline
+−3.20 (−4.76 to −1.64)
+−4.02
+<.001
+End point–baseline
+−5.64 (−7.23 to −4.05)
+−6.97
+<.001
+Follow-up–baseline
+−5.67 (−7.29 to −4.04)
+−6.83
+<.001
+Loss framed and gain social
+−1.40 (−4.72 to 1.93)
+−0.82
+.41
+Gain framed and gain social
+1.38 (−1.19 to 3.96)
+1.05
+.30
+Midpoint-baseline × loss framed and gain social
+2.30 (−1.92 to 6.53)
+1.07
+.29
+End point–baseline × loss framed and gain social
+−0.43 (−4.74 to 3.88)
+−0.20
+.85
+Follow-up–baseline × loss framed and gain social
+3.47 (−0.94 to 7.88)
+1.54
+.13
+Midpoint-baseline × gain framed and gain social
+−0.90 (−4.19 to 2.39)
+−0.54
+.59
+End point–baseline × gain framed and gain social
+−2.16 (−5.45 to 1.14)
+−1.28
+.20
+Follow-up–baseline × gain framed and gain social
+−0.97 (−4.30 to 2.37)
+−0.57
+.57
+ASI
+Intercept
+18.73 (15.52 to 21.94)
+11.44
+<.001
+Midpoint-baseline
+−3.69 (−6.22 to −1.17)
+−2.87
+.005
+End point–baseline
+−9.51 (−12.08 to −6.94)
+−7.26
+<.001
+Follow up–baseline
+−8.90 (−11.54 to −6.27)
+−6.62
+<.001
+Loss framed and gain social
+0.03 (−8.66 to 8.72)
+0.01
+.99
+Gain framed and gain social
+3.65 (−3.10 to 10.41)
+1.06
+.29
+Midpoint-baseline × loss framed and gain social
+2.40 (−4.43 to 9.24)
+0.69
+.49
+End point–baseline × loss framed and gain social
+−2.46 (−9.44 to 4.53)
+−0.69
+.49
+Follow-up–baseline × loss framed and gain social
+0.63 (−6.51 to 7.78)
+0.17
+.86
+Midpoint-baseline × gain framed and gain social
+−0.81 (−6.14 to 4.51)
+−0.30
+.77
+End point–baseline × gain framed and gain social
+−4.41 (−9.74 to 0.91)
+−1.62
+.11
+Follow-up–baseline × gain framed and gain social
+−3.00 (−8.40 to 2.39)
+1.09
+.28
+LSAS
+Intercept
+40.91 (34.92 to 46.90)
+13.39
+<.001
+Midpoint-baseline
+−6.84 (−11.46 to −2.21)
+−2.90
+.004
+End point–baseline
+−12.67 (−17.38 to −7.96)
+−5.27
+<.001
+Follow-up–baseline
+−17.61 (−22.45 to −12.77)
+−7.13
+<.001
+Loss framed and gain social
+−4.01 (−20.23 to 12.21)
+−0.48
+.63
+Gain framed and gain social
+8.78 (−3.83 to 21.38)
+1.36
+0.18
+Midpoint-baseline × loss framed and gain social
+−1.63 (−14.15 to 10.90)
+−0.25
+.80
+End point–baseline × loss framed and gain social
+−0.40 (−13.20 to 12.41)
+−0.06
+.95
+Follow-up–baseline × loss framed and gain social
+−2.30 (−15.40 to 10.80)
+−0.34
+.73
+Midpoint-baseline × gain framed and gain social
+−2.21 (−11.97 to 7.55)
+−0.44
+.66
+End point–baseline × gain framed and gain social
+−4.44 (−14.20 to 5.31)
+−0.89
+.37
+Follow-up–baseline × gain framed and gain social
+−6.86 (−16.80 to 3.08)
+−1.35
+.18
+Abbreviations: ASI, Anxiety Sensitivity Index; HAM-A,
+Hamilton Anxiety Rating Scale; LSAS, Liebowitz Social
+Anxiety Scale.
+JAMA Network Open | Psychiatry
+Mobile App-Based Intervention for Young Adults With Anxiety Disorders
+JAMA Network Open. 2024;7(8):e2428372. doi:10.1001/jamanetworkopen.2024.28372
+(Reprinted)
+August 20, 2024
+9/15
+Downloaded from jamanetwork.com by guest on 04/09/2026
+
+===
+PAGE 10:
+benefit. This finding is consistent with prior work that found sustained effects of traditional
+therapist-led CBT after treatment termination.62,63
+Similar to overall anxiety, both anxiety sensitivity (fear of fear) and social anxiety decreased
+from baseline to the end of the intervention, and improvement persisted at follow-up. Our findings
+suggest that, as intended, the intervention may target specific anxiety symptom clusters in addition
+to overall anxiety. It remains to be determined whether individuals with clinical profiles characterized
+by anxiety sensitivity, social anxiety, or other symptoms would respond equally well to a more
+streamlined app that includes only the most relevant modules.
+We measured high levels of engagement and participant satisfaction with the app across
+incentive conditions, supporting the feasibility of the app for young adults with anxiety. There was a
+98% retention rate compared with the 50% retention reported for other randomized clinical trials
+of mental health apps,64 and 64% of participants completed all required sessions compared with the
+35% reported in the literature.65 The app could be scaled up for wider use because it does not require
+significant financial resources on the part of the user or a clinician. It is free to download and uses
+incentive systems based on points rather than monetary incentives. Additional discussion points are
+given in the eDiscussion in Supplement 2.
+Limitations
+This study had several limitations. Because the full sample could not be recruited as intended and we
+did not use block randomization, participants were not allocated evenly to the 3 incentive groups.
+The unbalanced allocation and reduced sample size decrease our capacity to detect group
+differences.66 Another limitation was the absence of a control condition in which participants did not
+receive the app or received the app alone without additional incentives. We elected not to include
+such a control group to allow for the inclusion of 3 incentive conditions within the constraints of the
+available resources. However, this study design does not allow us to estimate the extent to which
+symptom changes reflect regression to the mean or placebo-like effects. That said, although
+untreated individuals show spontaneous improvement of anxiety, the effect size of this
+improvement is typically small.67 It is therefore unlikely that the moderate to large reductions of
+anxiety observed in the current study were spurious. Finally, the sample was predominantly female,
+college educated, and of Asian or White race and non-Hispanic ethnicity, limiting conclusions about
+generalizability to more diverse groups.
+Conclusions
+The results of this study demonstrate the efficacy and feasibility of a comprehensive, scalable, self-
+guided mobile CBT intervention for young adults with anxiety, which did not differ significantly by
+incentive condition. The Maya app includes design features, an engaging user interface, and broad
+coverage of CBT techniques that address the limitations of existing digital mental health apps. In the
+context of a mental health crisis in young adults and numerous barriers to traditional mental health
+services, digital interventions represent a promising step toward wider dissemination of high-quality,
+evidence-based interventions. Such interventions have the potential to help with shortages of
+mental health professionals and long wait times and to address geographic and socioeconomic
+disparities in access to care. Treatment programs that incorporate apps may be a viable strategy to
+address the persistent lack of access to adequate mental health care3 that exists even in resource-
+rich settings.
+ARTICLE INFORMATION
+Accepted for Publication: June 21, 2024.
+Published: August 20, 2024. doi:10.1001/jamanetworkopen.2024.28372
+JAMA Network Open | Psychiatry
+Mobile App-Based Intervention for Young Adults With Anxiety Disorders
+JAMA Network Open. 2024;7(8):e2428372. doi:10.1001/jamanetworkopen.2024.28372
+(Reprinted)
+August 20, 2024
+10/15
+Downloaded from jamanetwork.com by guest on 04/09/2026
+
+===
+PAGE 11:
+Open Access: This is an open access article distributed under the terms of the CC-BY License. © 2024 Bress JN
+et al. JAMA Network Open.
+Corresponding Author: Faith M. Gunning, PhD, Department of Psychiatry, Weill Cornell Medicine, 1300 York Ave,
+New York, NY 10065 (fgd2002@med.cornell.edu).
+Author Affiliations: Department of Psychiatry, Weill Cornell Medicine, New York, New York (Bress, Falk, Schier,
+Jaywant, Moroney, Dargis, Bennett, Scult, Lee, Gunning); Ferkauf Graduate School of Psychology, Yeshiva
+University, Bronx, New York (Scult); Penn Center for Health Incentives and Behavioral Economics, University of
+Pennsylvania, Philadelphia (Volpp); Perelman School of Medicine, University of Pennsylvania, Philadelphia (Asch,
+Balachandran); Center for Quantitative Health, Massachusetts General Hospital, Boston, Massachusetts (Perlis);
+Department of Psychiatry, Harvard Medical School, Boston, Massachusetts (Perlis); Associate Editor, JAMA
+Network Open (Perlis, Gunning).
+Author Contributions: Drs Bress and Gunning had full access to all of the data in the study and take responsibility
+for the integrity of the data and the accuracy of the data analysis. Drs Bress and Falk contributed equally to
+this work.
+Concept and design: Falk, Schier, Bennett, Scult, Volpp, Asch, Lee, Gunning.
+Acquisition, analysis, or interpretation of data: Bress, Falk, Schier, Jaywant, Moroney, Dargis, Bennett,
+Balachandran, Perlis, Gunning.
+Drafting of the manuscript: Bress, Falk, Schier, Jaywant, Moroney, Dargis, Perlis, Gunning.
+Critical review of the manuscript for important intellectual content: Bress, Falk, Schier, Jaywant, Moroney, Dargis,
+Bennett, Scult, Volpp, Asch, Balachandran, Perlis, Lee.
+Statistical analysis: Schier, Jaywant, Perlis.
+Obtained funding: Lee, Gunning.
+Administrative, technical, or material support: Bress, Falk, Schier, Bennett, Scult, Volpp, Balachandran, Lee.
+Supervision: Bress, Falk, Moroney, Dargis, Bennett, Lee, Gunning.
+Conflict of Interest Disclosures: Dr Bress reported receiving grants from the National Institute of Mental Health,
+research funding from the Joseph Sanchez Foundation, and personal fees from Inside Edge Consulting Group
+outside the submitted work. Dr Jaywant reported receiving grants from the National Institute of Mental Health and
+personal fees from Axem Neurotechnology Inc outside the submitted work. Dr Bennett reported serving on the
+speakers’ bureau for Lyra Inc and receiving royalties from UpToDate outside the submitted work. Dr Scult reported
+receiving personal fees from Modern Health, Akili Interactive, Big Health, Scenario, and Stressbuoy outside the
+submitted work. Dr Volpp reported being a part owner in VAL Health and serving as a scientific advisory board
+member with stock options with Thrive Global outside the submitted work. Dr Asch reported reported being a
+partner and part owner of VAL Health and receiving personal fees from Thrive Global outside the submitted work.
+Mr Balachandran reported receiving personal fees from Connect46 LLC outside the submitted work. Dr Perlis
+reported receiving personal fees from Burrage Capital Biotechnology, Vault Health Scientific, Genomind Scientific,
+Psy Therapeutics, Circular Genomics, Belle Artificial Intelligence, Swan AI Studios, Mila Health, and Alkermes
+outside the submitted work. Dr Gunning reported receiving grants from the National Institutes of Health and Akili
+Interactive, and personal fees from the American Medical Association outside the submitted work. No other
+disclosures were reported.
+Funding/Support: This study was funded by the NewYork-Presbyterian Center for Youth Mental Health (Drs
+Bress, Falk, and Gunning), the Khoury Foundation (Drs Bress, Falk, and Gunning), the Paul and Jenna Segal Family
+Foundation (Drs Bress, Falk, and Gunning), the Saks Fifth Avenue Foundation (Drs Bress, Falk, and Gunning), Mary
+and Jonathan Rather (Drs Bress, Gunning, and Falk), the Weill Cornell Medicine Children's Health Investigator's
+Fund (Drs Bress, Falk, and Gunning), the Pritzker Neuropsychiatric Disorders Research Consortium (Drs Bress and
+Gunning), and grant K23 MH116105 from the National Institutes of Health (Dr Bress).
+Role of the Funder/Sponsor: The funders had no role in the design and conduct of the study; collection,
+management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and
+decision to submit the manuscript for publication.
+Disclaimer: Drs Perlis and Gunning are associate editors of JAMA Network Open but were not involved in the
+editorial review or the decision to accept the manuscript for publication.
+Meeting Presentation: Preliminary data from the manuscript were presented as a poster at the 2022 Annual
+Conference of the Association for Behavioral and Cognitive Therapies; November 18, 2022; New York, New York.
+Data Sharing Statement: See Supplement 3.
+Additional Contributions: The authors thank Weill Cornell Medicine Information Technology & Services for
+developing the app used in this trial.
+JAMA Network Open | Psychiatry
+Mobile App-Based Intervention for Young Adults With Anxiety Disorders
+JAMA Network Open. 2024;7(8):e2428372. doi:10.1001/jamanetworkopen.2024.28372
+(Reprinted)
+August 20, 2024
+11/15
+Downloaded from jamanetwork.com by guest on 04/09/2026
+
+===
+PAGE 12:
+REFERENCES
+1. Duffy ME, Twenge JM, Joiner TE. Trends in mood and anxiety symptoms and suicide-related outcomes among
+U.S. undergraduates, 2007-2018: evidence from two national surveys. J Adolesc Health. 2019;65(5):590-598.
+doi:10.1016/j.jadohealth.2019.04.033
+2. Goodwin RD, Weinberger AH, Kim JH, Wu M, Galea S. Trends in anxiety among adults in the United States,
+2008-2018: rapid increases among young adults. J Psychiatr Res. 2020;130:441-446. doi:10.1016/j.jpsychires.
+2020.08.014
+3. Office of the Surgeon General. Protecting Youth Mental Health: The U.S. Surgeon General’s Advisory. US Dept of
+Health and Human Services; 2021.
+4. Bruffaerts R, Mortier P, Kiekens G, et al. Mental health problems in college freshmen: prevalence and academic
+functioning. J Affect Disord. 2018;225:97-103. doi:10.1016/j.jad.2017.07.044
+5. Essau CA, Lewinsohn PM, Olaya B, Seeley JR. Anxiety disorders in adolescents and psychosocial outcomes at
+age 30. J Affect Disord. 2014;163:125-132. doi:10.1016/j.jad.2013.12.033
+6. Hoffman DL, Dukes EM, Wittchen HU. Human and economic burden of generalized anxiety disorder. Depress
+Anxiety. 2008;25(1):72-90. doi:10.1002/da.20257
+7. Konnopka A, König H. Economic burden of anxiety disorders: a systematic review and meta-analysis.
+Pharmacoeconomics. 2020;38(1):25-37. doi:10.1007/s40273-019-00849-7
+8. Olatunji BO, Cisler JM, Tolin DF. Quality of life in the anxiety disorders: a meta-analytic review. Clin Psychol Rev.
+2007;27(5):572-581. doi:10.1016/j.cpr.2007.01.015
+9. Ramón-Arbués E, Gea-Caballero V, Granada-López JM, Juárez-Vela R, Pellicer-García B, Antón-Solanas I. The
+prevalence of depression, anxiety and stress and their associated factors in college students. Int J Environ Res
+Public Health. 2020;17(19):7001. doi:10.3390/ijerph17197001
+10. Woodward LJ, Fergusson DM. Life course outcomes of young people with anxiety disorders in adolescence.
+J Am Acad Child Adolesc Psychiatry. 2001;40(9):1086-1093. doi:10.1097/00004583-200109000-00018
+11. McHugh RK, Whitton SW, Peckham AD, Welge JA, Otto MW. Patient preference for psychological vs
+pharmacologic treatment of psychiatric disorders: a meta-analytic review. J Clin Psychiatry. 2013;74(6):595-602.
+doi:10.4088/JCP.12r07757
+12. David D, Cristea I, Hofmann SG. Why cognitive behavioral therapy is the current gold standard of
+psychotherapy. Front Psychiatry. 2018;9:4. doi:10.3389/fpsyt.2018.00004
+13. Carpenter JK, Andrews LA, Witcraft SM, Powers MB, Smits JAJ, Hofmann SG. Cognitive behavioral therapy for
+anxiety and related disorders: a meta-analysis of randomized placebo-controlled trials. Depress Anxiety. 2018;35
+(6):502-514. doi:10.1002/da.22728
+14. Cuijpers P, Cristea IA, Karyotaki E, Reijnders M, Huibers MJH. How effective are cognitive behavior therapies
+for major depression and anxiety disorders? a meta-analytic update of the evidence. World Psychiatry. 2016;15(3):
+245-258. doi:10.1002/wps.20346
+15. Adams SH, Schaub JP, Nagata JM, Park MJ, Brindis CD, Irwin CE Jr. Young adult anxiety or depressive
+symptoms and mental health service utilization during the COVID-19 pandemic. J Adolesc Health. 2022;70(6):
+985-988. doi:10.1016/j.jadohealth.2022.02.023
+16. Cadigan JM, Lee CM, Larimer ME. Young adult mental health: a prospective examination of service utilization,
+perceived unmet service needs, attitudes, and barriers to service use. Prev Sci. 2019;20(3):366-376. doi:10.1007/
+s11121-018-0875-8
+17. Collins KA, Westra HA, Dozois DJA, Burns DD. Gaps in accessing treatment for anxiety and depression:
+challenges for the delivery of care. Clin Psychol Rev. 2004;24(5):583-616. doi:10.1016/j.cpr.2004.06.001
+18. Radez J, Reardon T, Creswell C, Lawrence PJ, Evdoka-Burton G, Waite P. Why do children and adolescents (not)
+seek and access professional help for their mental health problems? a systematic review of quantitative and
+qualitative studies. Eur Child Adolesc Psychiatry. 2021;30(2):183-211. doi:10.1007/s00787-019-01469-4
+19. Areán PA, Hallgren KA, Jordan JT, et al. The use and effectiveness of mobile apps for depression: results from
+a fully remote clinical trial. J Med Internet Res. 2016;18(12):e330. doi:10.2196/jmir.6482
+20. Karyotaki E, Riper H, Twisk J, et al. Efficacy of self-guided internet-based cognitive behavioral therapy in the
+treatment of depressive symptoms: a meta-analysis of individual participant data. JAMA Psychiatry. 2017;74(4):
+351-359. doi:10.1001/jamapsychiatry.2017.0044
+21. Karyotaki E, Kemmeren L, Riper H, et al. Is self-guided internet-based cognitive behavioural therapy (iCBT)
+harmful? an individual participant data meta-analysis. Psychol Med. 2018;48(15):2456-2466. doi:10.1017/
+S0033291718000648
+JAMA Network Open | Psychiatry
+Mobile App-Based Intervention for Young Adults With Anxiety Disorders
+JAMA Network Open. 2024;7(8):e2428372. doi:10.1001/jamanetworkopen.2024.28372
+(Reprinted)
+August 20, 2024
+12/15
+Downloaded from jamanetwork.com by guest on 04/09/2026
+
+===
+PAGE 13:
+22. Firth J, Torous J, Nicholas J, Carney R, Rosenbaum S, Sarris J. Can smartphone mental health interventions
+reduce symptoms of anxiety? a meta-analysis of randomized controlled trials. J Affect Disord. 2017;218:15-22. doi:
+10.1016/j.jad.2017.04.046
+23. Fischer R, Bortolini T, Karl JA, et al. Rapid review and meta-meta-analysis of self-guided interventions to
+address anxiety, depression, and stress during COVID-19 social distancing. Front Psychol. 2020;11:563876. doi:10.
+3389/fpsyg.2020.563876
+24. Wasil AR, Venturo-Conerly KE, Shingleton RM, Weisz JR. A review of popular smartphone apps for depression
+and anxiety: assessing the inclusion of evidence-based content. Behav Res Ther. 2019;123:103498. doi:10.1016/j.
+brat.2019.103498
+25. Fleming T, Bavin L, Lucassen M, Stasiak K, Hopkins S, Merry S. Beyond the trial: systematic review of real-world
+uptake and engagement with digital self-help interventions for depression, low mood, or anxiety. J Med Internet
+Res. 2018;20(6):e199. doi:10.2196/jmir.9275
+26. Kaczkurkin AN, Foa EB. Cognitive-behavioral therapy for anxiety disorders: an update on the empirical
+evidence. Dialogues Clin Neurosci. 2015;17(3):337-346. doi:10.31887/DCNS.2015.17.3/akaczkurkin
+27. Whiteside SPH, Sim LA, Morrow AS, et al. A meta-analysis to guide the enhancement of CBT for childhood
+anxiety: exposure over anxiety management. Clin Child Fam Psychol Rev. 2020;23(1):102-121. doi:10.1007/s10567-
+019-00303-2
+28. Baumeister H, Reichler L, Munzinger M, Lin J. The impact of guidance on internet-based mental health
+interventions—a systematic review. Internet Interv. 2014;1:205-215. doi:10.1016/j.invent.2014.08.003
+29. Wright JH, Owen JJ, Richards D, et al. Computer-assisted cognitive-behavior therapy for depression:
+a systematic review and meta-analysis. J Clin Psychiatry. 2019;80(2):3573. doi:10.4088/JCP.18r12188
+30. Bitrián P, Buil I, Catalán S. Enhancing user engagement: the role of gamification in mobile apps. J Bus Res.
+2021;132:170-185. doi:10.1016/j.jbusres.2021.04.028
+31. Wu A, Scult MA, Barnes ED, Betancourt JA, Falk A, Gunning FM. Smartphone apps for depression and anxiety:
+a systematic review and meta-analysis of techniques to increase engagement. NPJ Digit Med. 2021;4(1):20. doi:10.
+1038/s41746-021-00386-8
+32. Chandrashekar P. Do mental health mobile apps work: evidence and recommendations for designing high-
+efficacy mental health mobile apps. Mhealth. 2018;4:6. doi:10.21037/mhealth.2018.03.02
+33. Darejeh A, Salim SS. Gamification solutions to enhance software user engagement—a systematic review. Int J
+Hum Comput Interact. 2016;32:613-642. doi:10.1080/10447318.2016.1183330
+34. Patel MS, Benjamin EJ, Volpp KG, et al. Effect of a game-based intervention designed to enhance social
+incentives to increase physical activity among families: the BE FIT randomized clinical trial. JAMA Intern Med. 2017;
+177(11):1586-1593. doi:10.1001/jamainternmed.2017.3458
+35. Ally M. Foundations of educational theory for online learning. In: Anderson T, ed. Theory and Practice of Online
+Learning 15–44. Athabasca University Press; 2004.
+36. Foulkes L, Blakemore SJ. Is there heightened sensitivity to social reward in adolescence? Curr Opin Neurobiol.
+2016;40:81-85. doi:10.1016/j.conb.2016.06.016
+37. Altikulaç S, Bos MGN, Foulkes L, Crone EA, van Hoorn J. Age and gender effects in sensitivity to social rewards
+in adolescents and young adults. Front Behav Neurosci. 2019;13:171. doi:10.3389/fnbeh.2019.00171
+38. Wang RAH, Davis OSP, Wootton RE, Mottershaw A, Haworth CMA. Social support and mental health in late
+adolescence are correlated for genetic, as well as environmental, reasons. Sci Rep. 2017;7(1):13088. doi:10.1038/
+s41598-017-13449-2
+39. Chang S, Alon N, Torous J. An exploratory analysis of the effect size of the mobile mental health Application,
+mindLAMP. Digit Health. 2023;9:20552076231187244. doi:10.1177/20552076231187244
+40. O’Keefe DJ, Jensen JD. The relative persuasiveness of gain-framed and loss-framed messages for encouraging
+disease prevention behaviors: a meta-analytic review. J Health Commun. 2007;12(7):623-644. doi:10.1080/
+10810730701615198
+41. Fitzpatrick KK, Darcy A, Vierhile M. Delivering cognitive behavior therapy to young adults with symptoms of
+depression and anxiety using a fully automated conversational agent (Woebot): a randomized controlled trial. JMIR
+Ment Health. 2017;4(2):e19. doi:10.2196/mental.7785
+42. Ivanova E, Lindner P, Ly KH, et al. Guided and unguided acceptance and commitment therapy for social
+anxiety disorder and/or panic disorder provided via the internet and a smartphone application: a randomized
+controlled trial. J Anxiety Disord. 2016;44:27-35. doi:10.1016/j.janxdis.2016.09.012
+JAMA Network Open | Psychiatry
+Mobile App-Based Intervention for Young Adults With Anxiety Disorders
+JAMA Network Open. 2024;7(8):e2428372. doi:10.1001/jamanetworkopen.2024.28372
+(Reprinted)
+August 20, 2024
+13/15
+Downloaded from jamanetwork.com by guest on 04/09/2026
+
+===
+PAGE 14:
+43. Lüdtke T, Pult LK, Schröder J, Moritz S, Bücker L. A randomized controlled trial on a smartphone self-help
+application (Be Good to Yourself) to reduce depressive symptoms. Psychiatry Res. 2018;269:753-762. doi:10.
+1016/j.psychres.2018.08.113
+44. Hamilton M. The assessment of anxiety states by rating. Br J Med Psychol. 1959;32(1):50-55. doi:10.1111/j.
+2044-8341.1959.tb00467.x
+45. Brown TA, Barlow DH. Anxiety and Related Disorders Interview Schedule for DSM-5 (ADIS-5): Client Interview
+Schedule. Oxford University Press; 2014.
+46. Penn Medicine Center for Health Care Transformation & Innovation. Way to Health. Accessed July 5, 2024. https://
+chti.upenn.edu/way-to-health
+47. Chaiyachati KH, Shea JA, Ward M, et al. Patient and clinician perspectives of a remote monitoring program for
+COVID-19 and lessons for future programs. BMC Health Serv Res. 2023;23(1):698. doi:10.1186/s12913-023-
+09684-1
+48. Fanaroff AC, Patel MS, Chokshi N, et al. A randomized controlled trial of gamification, financial incentives, or
+both to increase physical activity among patients with elevated risk for cardiovascular disease: rationale and design
+of the be active study. Am Heart J. 2023;260:82-89. doi:10.1016/j.ahj.2023.02.014
+49. Patel MS, Volpp KG, Small DS, et al. Using remotely monitored patient activity patterns after hospital
+discharge to predict 30 day hospital readmission: a randomized trial. Sci Rep. 2023;13(1):8258. doi:10.1038/
+s41598-023-35201-9
+50. Orkin AM, Gill PJ, Ghersi D, et al; CONSERVE Group. Guidelines for reporting trial protocols and completed
+trials modified due to the COVID-19 pandemic and other extenuating circumstances: the CONSERVE 2021
+Statement. JAMA. 2021;326(3):257-265. doi:10.1001/jama.2021.9941
+51. Taylor S, Zvolensky MJ, Cox BJ, et al. Robust dimensions of anxiety sensitivity: development and initial
+validation of the Anxiety Sensitivity Index-3. Psychol Assess. 2007;19(2):176-188. doi:10.1037/1040-3590.19.2.176
+52. Liebowitz MR. Social Phobia. In: Klein DF, ed. Modern Trends in Pharmacopsychiatry. Vol 22. S. Karger AG;
+1987:141-173.
+53. Hamilton M. A rating scale for depression. J Neurol Neurosurg Psychiatry. 1960;23(1):56-62. doi:10.1136/jnnp.
+23.1.56
+54. Stoyanov SR, Hides L, Kavanagh DJ, Wilson H. Development and validation of the User Version of the Mobile
+Application Rating Scale (uMARS). JMIR Mhealth Uhealth. 2016;4(2):e72. doi:10.2196/mhealth.5849
+55. Sahin MD, Aybek EC. Jamovi: an easy to use statistical software for the social scientists. Int J Assess Tools Educ.
+2019;6:670-692. doi:10.21449/ijate.661803
+56. Cohen J. Statistical Power Analysis for the Behavioral Sciences. Academic Press; 2013. doi:10.4324/
+9780203771587
+57. Lu SC, Xu M, Wang M, et al. Effectiveness and minimum effective dose of app-based mobile health
+interventions for anxiety and depression symptom reduction: systematic review and meta-analysis. JMIR Ment
+Health. 2022;9(9):e39454. doi:10.2196/39454
+58. Pauley D, Cuijpers P, Papola D, Miguel C, Karyotaki E. Two decades of digital interventions for anxiety
+disorders: a systematic review and meta-analysis of treatment effectiveness. Psychol Med. 2023;53(2):567-579.
+59. Blanco C, Schneier FR, Schmidt A, et al. Pharmacological treatment of social anxiety disorder: a meta-analysis.
+Depress Anxiety. 2003;18(1):29-40. doi:10.1002/da.10096
+60. Carl E, Witcraft SM, Kauffman BY, et al. Psychological and pharmacological treatments for generalized anxiety
+disorder (GAD): a meta-analysis of randomized controlled trials. Cogn Behav Ther. 2020;49(1):1-21. doi:10.1080/
+16506073.2018.1560358
+61. Chen TR, Huang HC, Hsu JH, Ouyang WC, Lin KC. Pharmacological and psychological interventions for
+generalized anxiety disorder in adults: a network meta-analysis. J Psychiatr Res. 2019;118:73-83. doi:10.1016/j.
+jpsychires.2019.08.014
+62. Dobson KS, Hollon SD, Dimidjian S, et al. Randomized trial of behavioral activation, cognitive therapy, and
+antidepressant medication in the prevention of relapse and recurrence in major depression. J Consult Clin Psychol.
+2008;76(3):468-477. doi:10.1037/0022-006X.76.3.468
+63. van Dis EAM, van Veen SC, Hagenaars MA, et al. Long-term outcomes of cognitive behavioral therapy for
+anxiety-related disorders: a systematic review and meta-analysis. JAMA Psychiatry. 2020;77(3):265-273. doi:10.
+1001/jamapsychiatry.2019.3986
+JAMA Network Open | Psychiatry
+Mobile App-Based Intervention for Young Adults With Anxiety Disorders
+JAMA Network Open. 2024;7(8):e2428372. doi:10.1001/jamanetworkopen.2024.28372
+(Reprinted)
+August 20, 2024
+14/15
+Downloaded from jamanetwork.com by guest on 04/09/2026
+
+===
+PAGE 15:
+64. Torous J, Lipschitz J, Ng M, Firth J. Dropout rates in clinical trials of smartphone apps for depressive
+symptoms: a systematic review and meta-analysis. J Affect Disord. 2020;263:413-419. doi:10.1016/j.jad.2019.
+11.167
+65. Linardon J, Fuller-Tyszkiewicz M. Attrition and adherence in smartphone-delivered interventions for mental
+health problems: a systematic and meta-analytic review. J Consult Clin Psychol. 2020;88(1):1-13. doi:10.1037/
+ccp0000459
+66. Hey SP, Kimmelman J. The questionable use of unequal allocation in confirmatory trials. Neurology. 2014;82
+(1):77-79. doi:10.1212/01.wnl.0000438226.10353.1c
+67. Scott AJ, Bisby MA, Heriseanu AI, et al. Understanding the untreated course of anxiety disorders in treatment-
+seeking samples: a systematic review and meta-analysis. J Anxiety Disord. 2022;89:102590. doi:10.1016/j.janxdis.
+2022.102590
+SUPPLEMENT 1.
+Trial Protocol
+SUPPLEMENT 2.
+eFigure. Therapeutic Themes, Symptom Targets, and Modules Included at Each Week of the Maya Program
+eMethods. Descriptions of Measures and Training Procedures
+eResults. Linear Mixed Model Results by Outcome
+eDiscussion. Supplementary Discussion
+eReferences
+SUPPLEMENT 3.
+Data Sharing Statement
+JAMA Network Open | Psychiatry
+Mobile App-Based Intervention for Young Adults With Anxiety Disorders
+JAMA Network Open. 2024;7(8):e2428372. doi:10.1001/jamanetworkopen.2024.28372
+(Reprinted)
+August 20, 2024
+15/15
+Downloaded from jamanetwork.com by guest on 04/09/2026
+
+===

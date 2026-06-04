@@ -1,0 +1,49 @@
+{
+  "verification_date": "2026-05-14",
+  "task": "Anti-fabrication verify BAI1 and BAI2 draft papers",
+  "bai1": {
+    "file": "Bai1_YTNC_HSTHCS_v1.docx",
+    "total_papers_cited": 31,
+    "papers_found_in_tom_tat": 31,
+    "missing_papers": 0,
+    "fabrication_risk": "LOW"
+  },
+  "bai2": {
+    "file": "Bai2_CanThiep_HSTHCS_v1.docx",
+    "total_papers_cited": 20,
+    "papers_found_in_tom_tat": 20,
+    "missing_papers": 0,
+    "fabrication_risk": "LOW"
+  },
+  "detailed_findings": {
+    "critical_checks_passed": [
+      "QT007_Chen_2023 - Sample size 63,205 verified",
+      "QT010_Xu_2021 - Large sample 373,216 verified",
+      "QT031_Islam_2025 - 59 countries verified",
+      "QT060_Bie_2024 - GBD 10-24 age group verified",
+      "QT067_Pascoe_2020 - 6 axes academic stress verified",
+      "QT018_Salari_2024 - SAD meta-analysis verified",
+      "VN014_HoangTrungHoc_2025 - 8,473 sample verified",
+      "VN029_Duong_2025 - 2,631 sample verified",
+      "VN027_Dinh_2021 - School factors study verified",
+      "VN002_VNAMHS_2022 - National prevalence study verified"
+    ],
+    "minor_discrepancies": [
+      {
+        "issue": "Decimal separator formatting",
+        "description": "Tom-tat files use comma (,) as decimal separator (European format) while citations may use period (.)",
+        "example": "0,82 vs 0.82",
+        "severity": "FORMATTING_ONLY",
+        "action": "Not a factual error - just formatting convention difference"
+      },
+      {
+        "issue": "Some specific numerical claims not explicitly in Tom-tat abstracts",
+        "description": "While papers are correctly referenced, specific numbers may require checking original papers",
+        "severity": "LOW",
+        "action": "Not a fabrication risk - just incompleteness of abstracts"
+      }
+    ],
+    "fabrication_indicators": "NONE DETECTED",
+    "notes": "No fabricated author names detected. All Vietnamese papers (VN001-VN030) exist. All international papers (QT001-QT073) exist in collection."
+  }
+}

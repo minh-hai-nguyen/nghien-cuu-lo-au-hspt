@@ -1,0 +1,332 @@
+[
+  {
+    "citation": "Bress 2024 (Maya app)",
+    "canonical_id": "QT043",
+    "pdf": "QT043_Bress_JAMA_Maya_App_2024.pdf",
+    "notes": "d=1,04 RCT Maya app"
+  },
+  {
+    "citation": "Brown & Carter 2025 (BESST UK)",
+    "canonical_id": "QT042",
+    "pdf": "QT042_BrownCarter_UK_School_JMH_2025.pdf",
+    "notes": "BESST (CBT self-referral) 900 HS"
+  },
+  {
+    "citation": "Brunborg 2025 (Norway social media)",
+    "canonical_id": "QT021",
+    "pdf": "QT021_Norway_Brunborg_2025_SocSciMed.pdf",
+    "notes": "Longitudinal Norway"
+  },
+  {
+    "citation": "Cho 2024 (Korea trends)",
+    "canonical_id": "QT034",
+    "pdf": "QT034_Korea_Cho_MH_Trends_NatSciRep_2024.pdf",
+    "notes": "Korea mental health trends"
+  },
+  {
+    "citation": "Crisp 2025 (Australia epi)",
+    "canonical_id": "QT025",
+    "pdf": "QT025_EpiPsychSci_Crisp_Australia_2025.pdf",
+    "notes": "Australia epi panel study"
+  },
+  {
+    "citation": "Dinh 2021 (VN school factors)",
+    "canonical_id": "VN027",
+    "pdf": "VN027_Dinh_SchoolFactors_VN_2021.pdf",
+    "notes": "School factors VN"
+  },
+  {
+    "citation": "Dong, Wang & Lin 2025 (YaAn)",
+    "canonical_id": "QT047",
+    "pdf": "QT047_Dong_PLOS_DASS_YaAn_2025.pdf",
+    "notes": "DASS Ya An China"
+  },
+  {
+    "citation": "Duong 2025 (TPHCM DASS)",
+    "canonical_id": "VN029",
+    "pdf": "VN029_Duong_SocPsychiatry_2631HS_TPHCM_2025.pdf",
+    "notes": "TPHCM DASS-21 + YBRS"
+  },
+  {
+    "citation": "Erskine 2021 (NAMHS protocol)",
+    "canonical_id": null,
+    "pdf": null,
+    "notes": "Protocol NAMHS 3 countries — cited via VN002 refs"
+  },
+  {
+    "citation": "Fitzgerald 2024 (Ireland)",
+    "canonical_id": "QT032",
+    "pdf": "QT032_Ireland_Fitzgerald_MyWorld_2024.pdf",
+    "notes": "Ireland MyWorld study"
+  },
+  {
+    "citation": "Fassi 2025 (social media)",
+    "canonical_id": "QT027",
+    "pdf": "QT027_NatureHumanBehav_Fassi_SocialMedia_2025.pdf",
+    "notes": "Nature Human Behav"
+  },
+  {
+    "citation": "GBD 2025 (ASEAN)",
+    "canonical_id": "QT012",
+    "pdf": "QT012_GBD_ASEAN_2025_Lancet.pdf",
+    "notes": "GBD ASEAN Lancet"
+  },
+  {
+    "citation": "Hoa 2024 (Hà Nội GAD-7)",
+    "canonical_id": "VN001",
+    "pdf": "VN001_Hoa_2024_Frontiers_HaNoi.pdf",
+    "notes": "GAD-7 Hà Nội"
+  },
+  {
+    "citation": "Hoàng Trung Học 2025 (COVID VN)",
+    "canonical_id": "VN014",
+    "pdf": "VN014_HoangTrungHoc_2025_VN_COVID.pdf",
+    "notes": "VN post-COVID"
+  },
+  {
+    "citation": "Islam 2025 (59 countries)",
+    "canonical_id": "QT031",
+    "pdf": "QT031_Islam_59Countries_2025.pdf",
+    "notes": "Multi-country GSHS"
+  },
+  {
+    "citation": "Jefferies 2020 (social anxiety 7 countries)",
+    "canonical_id": "QT035",
+    "pdf": "QT035_Jefferies_SocialAnxiety_7Countries_2020.pdf",
+    "notes": "7 countries social anxiety"
+  },
+  {
+    "citation": "Jenkins 2023 (USA)",
+    "canonical_id": "QT001",
+    "pdf": "QT001_Jenkins_2023_USA_SanDiego.pdf",
+    "notes": "San Diego post-COVID"
+  },
+  {
+    "citation": "Lộc 2024 (TPHCM DASS-Y)",
+    "canonical_id": "VN020",
+    "pdf": "VN020_TranHoVinhLoc_2024_TPHCM_DASS-Y.pdf",
+    "notes": "TPHCM DASS-Y"
+  },
+  {
+    "citation": "Menon 2025 (LMIC scoping)",
+    "canonical_id": "QT051",
+    "pdf": "QT051_Menon_LMIC_SEA_Pacific_APJPH_2025_ABSTRACT",
+    "notes": "69 NCs 12 LMICs (abstract only)"
+  },
+  {
+    "citation": "Moon 2025 (Korea ML GAD)",
+    "canonical_id": "QT036",
+    "pdf": "QT036_Moon_Korea_GAD_ML_2025.pdf",
+    "notes": "Korea ML anxiety"
+  },
+  {
+    "citation": "Ngô Anh Vĩnh 2024 (Lạng Sơn DTTS)",
+    "canonical_id": "VN015",
+    "pdf": "VN015_NgoAnhVinh_2024_LangSon_DTTS.pdf",
+    "notes": "Lạng Sơn DTTS"
+  },
+  {
+    "citation": "Nguyễn Danh Lâm 2022 (YHVN)",
+    "canonical_id": "VN017",
+    "pdf": "VN017_NguyenDanhLam_2022_YHVN.pdf",
+    "notes": "YHVN 2022"
+  },
+  {
+    "citation": "Praptomojati & Hartanto 2024 (SEA SR)",
+    "canonical_id": "QT037",
+    "pdf": "QT037 (Praptomojati_CA-CBT_SEA_AJP_2024 — no PDF yet?)",
+    "notes": "7 NC CA-CBT SEA; 0 from VN"
+  },
+  {
+    "citation": "Puyat 2025 (Philippines)",
+    "canonical_id": "QT017",
+    "pdf": "QT017_Puyat_2025_Filipino_Youth.pdf",
+    "notes": "Filipino youth"
+  },
+  {
+    "citation": "Qiaochu & Wang 2025 (mobile CBT)",
+    "canonical_id": "QT050",
+    "pdf": "QT050 (Qiaochu_MobileCBT_CPP_2025_ABSTRACT — abstract only)",
+    "notes": "Mobile CBT SR — abstract only"
+  },
+  {
+    "citation": "Sasaki 2024 (Japan iCBT)",
+    "canonical_id": "QT045",
+    "pdf": "QT045_Sasaki_Japan_iCBT_JMIR_2024.pdf",
+    "notes": "Japan iCBT RCT"
+  },
+  {
+    "citation": "De Silva 2024 (Sri Lanka RCT)",
+    "canonical_id": "QT038",
+    "pdf": "QT038_DeSilva_SriLanka_RCT_2024.pdf",
+    "notes": "Sri Lanka cluster RCT"
+  },
+  {
+    "citation": "Trần Nguyễn Ngọc 2018 (luận án Bạch Mai)",
+    "canonical_id": null,
+    "pdf": "(raw) TranNguyenNgoc_2018_LuanAn_TSYH_BachMai.pdf",
+    "notes": "Luận án TSYH Bạch Mai — chưa canonical hoá"
+  },
+  {
+    "citation": "Trần Thảo Vi 2025 (Huế)",
+    "canonical_id": "VN021",
+    "pdf": "VN021_TranThaoVi_2024_JRuralMed_Hue.pdf",
+    "notes": "Note: cite là 2025 nhưng paper là 2024; cần xác nhận"
+  },
+  {
+    "citation": "VNAMHS 2022",
+    "canonical_id": "VN002",
+    "pdf": "VN002_VNAMHS_2022_National.pdf",
+    "notes": "National survey"
+  },
+  {
+    "citation": "Walder 2025 (JMIR SAD)",
+    "canonical_id": "QT040",
+    "pdf": "QT040_Walder_JMIR_DMHI_SAD_2025.pdf",
+    "notes": "JMIR DMHI for SAD"
+  },
+  {
+    "citation": "Wen 2020 (China rural)",
+    "canonical_id": "QT008",
+    "pdf": "QT008_Wen_et_al_2020_China_Rural.pdf",
+    "notes": "China rural"
+  },
+  {
+    "citation": "Xian, Zhang & Jiang 2024 (NMA SAD)",
+    "canonical_id": "QT039",
+    "pdf": "QT039_Xian_NMA_SAD_JAD_2024.pdf",
+    "notes": "NMA SAD ranking"
+  },
+  {
+    "citation": "Xu 2021 (China largest epi)",
+    "canonical_id": "QT010",
+    "pdf": "QT010_Xu_et_al_2021_China_LargestEpi.pdf",
+    "notes": "China N=~76k"
+  },
+  {
+    "citation": "Zhang, Liang & Kang 2026 (Bayesian MA)",
+    "canonical_id": "QT049",
+    "pdf": "QT049 (Zhang_Bayesian_CBT_JCP_2026_ABSTRACT — abstract only)",
+    "notes": "Universal CBT low quality evidence"
+  },
+  {
+    "citation": "Zhameden 2025 (PLOS LMIC)",
+    "canonical_id": "QT013",
+    "pdf": "QT013_Zhameden_2025_PLOSONE_LMIC.pdf",
+    "notes": "LMIC PLOS"
+  },
+  {
+    "citation": "Zugman 2024 (AJP pediatric anxiety)",
+    "canonical_id": "QT028",
+    "pdf": "QT028_AJP_Zugman_PediatricAnxiety_2024.pdf",
+    "notes": "AJP treatment review"
+  },
+  {
+    "citation": "Bảo Quyên 2025 (YHCD)",
+    "canonical_id": "VN016",
+    "pdf": "VN016_BaoQuyen_2025_YHCD.pdf",
+    "notes": "YHCD 2025"
+  },
+  {
+    "citation": "An Giang 2025 (YHVN)",
+    "canonical_id": "VN018",
+    "pdf": "VN018_AnGiang_2025_YHVN.pdf",
+    "notes": "An Giang province"
+  },
+  {
+    "citation": "Hồ Thị Trúc Quỳnh 2025 (Huế TLH)",
+    "canonical_id": "VN019",
+    "pdf": "VN019_HoThiTrucQuynh_2025_Hue_TLH.pdf",
+    "notes": "Huế TLH"
+  },
+  {
+    "citation": "Nguyễn L.X. 2023 (COVID Medicine)",
+    "canonical_id": "VN023",
+    "pdf": "VN023_NguyenLX_VN_COVID_Medicine_2023.pdf",
+    "notes": "VN COVID"
+  },
+  {
+    "citation": "Nguyễn Thanh Truyền 2024 (Vĩnh Long)",
+    "canonical_id": "VN024",
+    "pdf": "VN024_NguyenThanhTruyen_VinhLong_YHVN_2024.pdf",
+    "notes": "Vĩnh Long"
+  },
+  {
+    "citation": "Phạm Thị Ngọc 2024 (Hải Phòng)",
+    "canonical_id": "VN025",
+    "pdf": "VN025_PhamThiNgoc_HaiPhong_VinhBao_2024.pdf",
+    "notes": "Hải Phòng"
+  },
+  {
+    "citation": "Trần Đức Sĩ 2025 (Long An PNT)",
+    "canonical_id": "VN026",
+    "pdf": "VN026_TranDucSi_LongAn_PNT_2025.pdf",
+    "notes": "Long An"
+  },
+  {
+    "citation": "Đào Thị Ngoan 2025 (HMU)",
+    "canonical_id": "VN028",
+    "pdf": "VN028_DaoThiNgoan_TCNCYH_SVY4_HMU_2025.pdf",
+    "notes": "HMU sinh viên năm 4"
+  },
+  {
+    "citation": "Tran Happy House 2023",
+    "canonical_id": "VN030",
+    "pdf": "(no PDF in library)",
+    "notes": "Cluster controlled trial Hà Nội"
+  },
+  {
+    "citation": "Pham 2024 (Huế social support)",
+    "canonical_id": "VN003",
+    "pdf": "VN003_Pham_2024_Hue_SocialSupport.pdf",
+    "notes": "Huế social support"
+  },
+  {
+    "citation": "Cao 2025 (Frontiers MA resilience)",
+    "canonical_id": "QT044",
+    "pdf": "QT044_Cai_Resilience_Frontiers_2025.pdf",
+    "notes": "LIKELY: \"Cao 2025\" typo → Cai et al. 2025 Frontiers; verify"
+  },
+  {
+    "citation": "Li 2025 (NMA CBT)",
+    "canonical_id": "QT029",
+    "pdf": "QT029_BMC_Li_CBT_NMA_2025.pdf",
+    "notes": "SUCRA 0,66 for CBT"
+  },
+  {
+    "citation": "Brown 2024 (BESST pilot)",
+    "canonical_id": null,
+    "pdf": null,
+    "notes": "BESST pilot UK predecessor paper — not in library yet"
+  },
+  {
+    "citation": "Kuyken 2022 (MYRIAD mindfulness)",
+    "canonical_id": null,
+    "pdf": null,
+    "notes": "MYRIAD trial UK mindfulness — classic, not in library"
+  },
+  {
+    "citation": "Walkup 2008 (CAMS NEJM)",
+    "canonical_id": null,
+    "pdf": null,
+    "notes": "CAMS classic RCT children anxiety — not in library, seminal"
+  },
+  {
+    "citation": "Montgomery 2010",
+    "canonical_id": null,
+    "pdf": null,
+    "notes": "Trích gián tiếp qua Trần Nguyễn Ngọc 2018 — không có bản gốc"
+  },
+  {
+    "citation": "Chen 2025 (COVID meta)",
+    "canonical_id": "QT048",
+    "pdf": "QT048 (Chen_COVID_Meta141_JAD_2025_ABSTRACT — abstract only)",
+    "notes": "COVID meta 141 papers"
+  },
+  {
+    "citation": "Zhu 2025 (BMC China)",
+    "canonical_id": "QT015",
+    "pdf": "QT015_Zhu_2025_BMC_China.pdf",
+    "notes": "BMC China"
+  }
+]

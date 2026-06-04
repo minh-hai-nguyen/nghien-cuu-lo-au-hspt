@@ -1,0 +1,1457 @@
+{
+  "report_file": "Bao cao Can thiep tam ly RLLA VTN - 12042026 v5-4.docx",
+  "total_issues": 74,
+  "by_method": {
+    "temporal": 6,
+    "ontology": 5,
+    "provenance": 4,
+    "claim_strength": 2,
+    "contradiction": 57
+  },
+  "temporal_db_sample": {
+    "QT001": {
+      "pub_year": 2023,
+      "data_year": 2018,
+      "data_age": 8
+    },
+    "QT002": {
+      "pub_year": 2023,
+      "data_year": null,
+      "data_age": null
+    },
+    "QT003": {
+      "pub_year": 2021,
+      "data_year": null,
+      "data_age": null
+    },
+    "QT004": {
+      "pub_year": 2020,
+      "data_year": 2016,
+      "data_age": 10
+    },
+    "QT005": {
+      "pub_year": 2019,
+      "data_year": null,
+      "data_age": null
+    }
+  },
+  "paper_types_sample": {
+    "QT001": {
+      "design": "cross-sectional",
+      "design_level": 2,
+      "instruments": [
+        [
+          "PHQ-9",
+          "Depression"
+        ]
+      ],
+      "outcomes": [
+        "Depression"
+      ]
+    },
+    "QT002": {
+      "design": "cắt ngang",
+      "design_level": 2,
+      "instruments": [
+        [
+          "DASS-21",
+          "Mixed"
+        ]
+      ],
+      "outcomes": [
+        "Anxiety",
+        "Depression"
+      ]
+    },
+    "QT003": {
+      "design": "cross-sectional",
+      "design_level": 2,
+      "instruments": [
+        [
+          "GAD-7",
+          "Anxiety"
+        ],
+        [
+          "DASS-21",
+          "Mixed"
+        ]
+      ],
+      "outcomes": [
+        "Anxiety"
+      ]
+    },
+    "QT004": {
+      "design": "cross-sectional",
+      "design_level": 2,
+      "instruments": [
+        [
+          "GAD-7",
+          "Anxiety"
+        ],
+        [
+          "DASS-21",
+          "Mixed"
+        ],
+        [
+          "PHQ-9",
+          "Depression"
+        ]
+      ],
+      "outcomes": [
+        "Anxiety",
+        "Depression"
+      ]
+    },
+    "QT005": {
+      "design": "cắt ngang",
+      "design_level": 2,
+      "instruments": [
+        [
+          "GAD-7",
+          "Anxiety"
+        ],
+        [
+          "PHQ-9",
+          "Depression"
+        ]
+      ],
+      "outcomes": [
+        "Anxiety",
+        "Depression"
+      ]
+    }
+  },
+  "contradictions": [
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT004",
+      "paper2": "QT051",
+      "variable": "gender_male",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT004 says gender_male=risk, QT051 says gender_male=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT006",
+      "paper2": "QT022",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT006 says social_media=risk, QT022 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT006",
+      "paper2": "QT027",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT006 says social_media=risk, QT027 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT006",
+      "paper2": "QT039",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT006 says social_media=risk, QT039 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT006",
+      "paper2": "QT041",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT006 says social_media=risk, QT041 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT006",
+      "paper2": "QT048",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT006 says social_media=risk, QT048 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT006",
+      "paper2": "VN015",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT006 says social_media=risk, VN015 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT006",
+      "paper2": "VN020",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT006 says social_media=risk, VN020 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT006",
+      "paper2": "VN021",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT006 says social_media=risk, VN021 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT022",
+      "paper2": "QT024",
+      "variable": "social_media",
+      "direction1": "protective",
+      "direction2": "risk",
+      "note": "QT022 says social_media=protective, QT024 says social_media=risk"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT022",
+      "paper2": "QT027",
+      "variable": "social_media",
+      "direction1": "protective",
+      "direction2": "risk",
+      "note": "QT022 says social_media=protective, QT027 says social_media=risk"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT022",
+      "paper2": "QT032",
+      "variable": "social_media",
+      "direction1": "protective",
+      "direction2": "risk",
+      "note": "QT022 says social_media=protective, QT032 says social_media=risk"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT022",
+      "paper2": "QT033",
+      "variable": "social_media",
+      "direction1": "protective",
+      "direction2": "risk",
+      "note": "QT022 says social_media=protective, QT033 says social_media=risk"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT022",
+      "paper2": "QT035",
+      "variable": "social_media",
+      "direction1": "protective",
+      "direction2": "risk",
+      "note": "QT022 says social_media=protective, QT035 says social_media=risk"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT022",
+      "paper2": "QT048",
+      "variable": "social_media",
+      "direction1": "protective",
+      "direction2": "risk",
+      "note": "QT022 says social_media=protective, QT048 says social_media=risk"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT024",
+      "paper2": "QT027",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT024 says social_media=risk, QT027 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT024",
+      "paper2": "QT039",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT024 says social_media=risk, QT039 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT024",
+      "paper2": "QT041",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT024 says social_media=risk, QT041 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT024",
+      "paper2": "QT048",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT024 says social_media=risk, QT048 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT024",
+      "paper2": "VN015",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT024 says social_media=risk, VN015 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT024",
+      "paper2": "VN020",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT024 says social_media=risk, VN020 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT024",
+      "paper2": "VN021",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT024 says social_media=risk, VN021 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT027",
+      "paper2": "QT032",
+      "variable": "social_media",
+      "direction1": "protective",
+      "direction2": "risk",
+      "note": "QT027 says social_media=protective, QT032 says social_media=risk"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT027",
+      "paper2": "QT033",
+      "variable": "social_media",
+      "direction1": "protective",
+      "direction2": "risk",
+      "note": "QT027 says social_media=protective, QT033 says social_media=risk"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT027",
+      "paper2": "QT035",
+      "variable": "social_media",
+      "direction1": "protective",
+      "direction2": "risk",
+      "note": "QT027 says social_media=protective, QT035 says social_media=risk"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT027",
+      "paper2": "QT039",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT027 says social_media=risk, QT039 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT027",
+      "paper2": "QT041",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT027 says social_media=risk, QT041 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT027",
+      "paper2": "QT048",
+      "variable": "social_media",
+      "direction1": "protective",
+      "direction2": "risk",
+      "note": "QT027 says social_media=protective, QT048 says social_media=risk"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT027",
+      "paper2": "VN015",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT027 says social_media=risk, VN015 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT027",
+      "paper2": "VN020",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT027 says social_media=risk, VN020 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT027",
+      "paper2": "VN021",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT027 says social_media=risk, VN021 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT032",
+      "paper2": "QT039",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT032 says social_media=risk, QT039 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT032",
+      "paper2": "QT041",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT032 says social_media=risk, QT041 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT032",
+      "paper2": "QT048",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT032 says social_media=risk, QT048 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT032",
+      "paper2": "VN015",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT032 says social_media=risk, VN015 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT032",
+      "paper2": "VN020",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT032 says social_media=risk, VN020 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT032",
+      "paper2": "VN021",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT032 says social_media=risk, VN021 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT033",
+      "paper2": "QT039",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT033 says social_media=risk, QT039 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT033",
+      "paper2": "QT041",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT033 says social_media=risk, QT041 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT033",
+      "paper2": "QT048",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT033 says social_media=risk, QT048 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT033",
+      "paper2": "VN015",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT033 says social_media=risk, VN015 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT033",
+      "paper2": "VN020",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT033 says social_media=risk, VN020 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT033",
+      "paper2": "VN021",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT033 says social_media=risk, VN021 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT035",
+      "paper2": "QT039",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT035 says social_media=risk, QT039 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT035",
+      "paper2": "QT041",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT035 says social_media=risk, QT041 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT035",
+      "paper2": "QT048",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT035 says social_media=risk, QT048 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT035",
+      "paper2": "VN015",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT035 says social_media=risk, VN015 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT035",
+      "paper2": "VN020",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT035 says social_media=risk, VN020 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT035",
+      "paper2": "VN021",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT035 says social_media=risk, VN021 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT039",
+      "paper2": "QT048",
+      "variable": "social_media",
+      "direction1": "protective",
+      "direction2": "risk",
+      "note": "QT039 says social_media=protective, QT048 says social_media=risk"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT041",
+      "paper2": "QT048",
+      "variable": "social_media",
+      "direction1": "protective",
+      "direction2": "risk",
+      "note": "QT041 says social_media=protective, QT048 says social_media=risk"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT042",
+      "paper2": "QT046",
+      "variable": "mindfulness",
+      "direction1": "effective",
+      "direction2": "ineffective",
+      "note": "QT042 says mindfulness=effective, QT046 says mindfulness=ineffective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT042",
+      "paper2": "QT049",
+      "variable": "mindfulness",
+      "direction1": "ineffective",
+      "direction2": "effective",
+      "note": "QT042 says mindfulness=ineffective, QT049 says mindfulness=effective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT046",
+      "paper2": "QT049",
+      "variable": "mindfulness",
+      "direction1": "ineffective",
+      "direction2": "effective",
+      "note": "QT046 says mindfulness=ineffective, QT049 says mindfulness=effective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT048",
+      "paper2": "VN015",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT048 says social_media=risk, VN015 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT048",
+      "paper2": "VN020",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT048 says social_media=risk, VN020 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT048",
+      "paper2": "VN021",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT048 says social_media=risk, VN021 says social_media=protective"
+    }
+  ],
+  "issues": [
+    {
+      "method": "temporal",
+      "severity": "info",
+      "paper": "QT015",
+      "data_year": 2019,
+      "pub_year": 2025,
+      "data_age": 7,
+      "para": 216,
+      "note": "Data collected 7 years ago (2019)"
+    },
+    {
+      "method": "temporal",
+      "severity": "warning",
+      "paper": "QT030",
+      "data_year": 2014,
+      "pub_year": 2025,
+      "data_age": 12,
+      "para": 299,
+      "note": "Data collected 12 years ago (2014)"
+    },
+    {
+      "method": "temporal",
+      "severity": "warning",
+      "paper": "QT023",
+      "data_year": 2013,
+      "pub_year": 2024,
+      "data_age": 13,
+      "para": 299,
+      "note": "Data collected 13 years ago (2013)"
+    },
+    {
+      "method": "temporal",
+      "severity": "warning",
+      "paper": "QT021",
+      "data_year": 2011,
+      "pub_year": 2025,
+      "data_age": 15,
+      "para": 299,
+      "note": "Data collected 15 years ago (2011)"
+    },
+    {
+      "method": "temporal",
+      "severity": "warning",
+      "paper": "QT034",
+      "data_year": 2011,
+      "pub_year": 2024,
+      "data_age": 15,
+      "para": 300,
+      "note": "Data collected 15 years ago (2011)"
+    },
+    {
+      "method": "temporal",
+      "severity": "warning",
+      "paper": "QT034",
+      "data_year": 2011,
+      "pub_year": 2024,
+      "data_age": 15,
+      "para": 307,
+      "note": "Data collected 15 years ago (2011)"
+    },
+    {
+      "method": "ontology",
+      "severity": "warning",
+      "rule": "causal_from_crosssectional",
+      "para": 205,
+      "paper": "QT047",
+      "design": "cắt ngang",
+      "causal_word": "giảm nguy cơ",
+      "note": "Causal language \"giảm nguy cơ\" used with cross-sectional study [QT047]",
+      "context": "Dong et al. 2025 [QT047] (PLOS ONE, n = 2.716 học sinh trung học Ya An, Tứ Xuyên, Trung Quốc, DASS-21) là nghiên cứu duy"
+    },
+    {
+      "method": "ontology",
+      "severity": "warning",
+      "rule": "causal_from_crosssectional",
+      "para": 228,
+      "paper": "QT007",
+      "design": "cắt ngang",
+      "causal_word": "dẫn đến",
+      "note": "Causal language \"dẫn đến\" used with cross-sectional study [QT007]",
+      "context": "(d) Mạng xã hội, game online và rối loạn giấc ngủ — Chen et al. 2023 [QT007] (BMC Psychiatry, n = 63.205 học sinh Tự Cốn"
+    },
+    {
+      "method": "ontology",
+      "severity": "warning",
+      "rule": "causal_from_crosssectional",
+      "para": 319,
+      "paper": "QT047",
+      "design": "cắt ngang",
+      "causal_word": "can thiệp",
+      "note": "Causal language \"can thiệp\" used with cross-sectional study [QT047]",
+      "context": "Thứ nhất, gia đình là yếu tố bảo vệ nhất quán xuyên quốc gia. Ba nghiên cứu độc lập — Dong 2025 [QT047] tại Trung Quốc ("
+    },
+    {
+      "method": "ontology",
+      "severity": "warning",
+      "rule": "causal_from_crosssectional",
+      "para": 319,
+      "paper": "VN014",
+      "design": "cross-sectional",
+      "causal_word": "can thiệp",
+      "note": "Causal language \"can thiệp\" used with cross-sectional study [VN014]",
+      "context": "Thứ nhất, gia đình là yếu tố bảo vệ nhất quán xuyên quốc gia. Ba nghiên cứu độc lập — Dong 2025 [QT047] tại Trung Quốc ("
+    },
+    {
+      "method": "ontology",
+      "severity": "warning",
+      "rule": "causal_from_crosssectional",
+      "para": 319,
+      "paper": "VN003",
+      "design": "cắt ngang",
+      "causal_word": "can thiệp",
+      "note": "Causal language \"can thiệp\" used with cross-sectional study [VN003]",
+      "context": "Thứ nhất, gia đình là yếu tố bảo vệ nhất quán xuyên quốc gia. Ba nghiên cứu độc lập — Dong 2025 [QT047] tại Trung Quốc ("
+    },
+    {
+      "method": "provenance",
+      "severity": "high",
+      "para": 320,
+      "paper": "QT036",
+      "value": "6,84",
+      "in_summary": false,
+      "in_translation": false,
+      "note": "Value 6,84 cited with [QT036] not found in any source",
+      "context": "Thứ hai, cô đơn là yếu tố nguy cơ hàng đầu cho rối loạn lo âu lan toả (GAD). Moon & Woo 2025 [QT036] sử dụng Machine Lea"
+    },
+    {
+      "method": "provenance",
+      "severity": "high",
+      "para": 320,
+      "paper": "QT036",
+      "value": "0,57",
+      "in_summary": false,
+      "in_translation": false,
+      "note": "Value 0,57 cited with [QT036] not found in any source",
+      "context": "Thứ hai, cô đơn là yếu tố nguy cơ hàng đầu cho rối loạn lo âu lan toả (GAD). Moon & Woo 2025 [QT036] sử dụng Machine Lea"
+    },
+    {
+      "method": "provenance",
+      "severity": "high",
+      "para": 321,
+      "paper": "VN029",
+      "value": "0,72",
+      "in_summary": false,
+      "in_translation": false,
+      "note": "Value 0,72 cited with [VN029] not found in any source",
+      "context": "Thứ ba, vận động thể chất là khoảng trống can thiệp lớn nhất tại Việt Nam. Dữ liệu VN015 (OR = 0,72 bảo vệ cho lo âu) là"
+    },
+    {
+      "method": "provenance",
+      "severity": "high",
+      "para": 321,
+      "paper": "VN029",
+      "value": "0,39",
+      "in_summary": false,
+      "in_translation": false,
+      "note": "Value 0,39 cited with [VN029] not found in any source",
+      "context": "Thứ ba, vận động thể chất là khoảng trống can thiệp lớn nhất tại Việt Nam. Dữ liệu VN015 (OR = 0,72 bảo vệ cho lo âu) là"
+    },
+    {
+      "method": "claim_strength",
+      "severity": "warning",
+      "para": 309,
+      "papers": [
+        "VN015"
+      ],
+      "claim_type": "protective",
+      "claim_level": 3,
+      "max_design_level": 2,
+      "has_caveat": false,
+      "note": "Claim strength \"protective\" (level 3) exceeds evidence (design level 2) without caveat",
+      "context": "Ngô Anh Vinh et al. 2024 [VN015] (n = 845 học sinh DTTS nội trú tại Lạng Sơn, DASS-21) ghi nhận tỷ lệ lo âu 54,4 % — cao hơn hầu hết các nghiên cứu ở "
+    },
+    {
+      "method": "claim_strength",
+      "severity": "warning",
+      "para": 319,
+      "papers": [
+        "QT047",
+        "VN014",
+        "VN003"
+      ],
+      "claim_type": "protective",
+      "claim_level": 3,
+      "max_design_level": 2,
+      "has_caveat": false,
+      "note": "Claim strength \"protective\" (level 3) exceeds evidence (design level 2) without caveat",
+      "context": "Thứ nhất, gia đình là yếu tố bảo vệ nhất quán xuyên quốc gia. Ba nghiên cứu độc lập — Dong 2025 [QT047] tại Trung Quốc (OR = 0,22, tâm sự gia đình), H"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT004",
+      "paper2": "QT051",
+      "variable": "gender_male",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT004 says gender_male=risk, QT051 says gender_male=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT006",
+      "paper2": "QT022",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT006 says social_media=risk, QT022 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT006",
+      "paper2": "QT027",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT006 says social_media=risk, QT027 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT006",
+      "paper2": "QT039",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT006 says social_media=risk, QT039 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT006",
+      "paper2": "QT041",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT006 says social_media=risk, QT041 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT006",
+      "paper2": "QT048",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT006 says social_media=risk, QT048 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT006",
+      "paper2": "VN015",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT006 says social_media=risk, VN015 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT006",
+      "paper2": "VN020",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT006 says social_media=risk, VN020 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT006",
+      "paper2": "VN021",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT006 says social_media=risk, VN021 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT022",
+      "paper2": "QT024",
+      "variable": "social_media",
+      "direction1": "protective",
+      "direction2": "risk",
+      "note": "QT022 says social_media=protective, QT024 says social_media=risk"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT022",
+      "paper2": "QT027",
+      "variable": "social_media",
+      "direction1": "protective",
+      "direction2": "risk",
+      "note": "QT022 says social_media=protective, QT027 says social_media=risk"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT022",
+      "paper2": "QT032",
+      "variable": "social_media",
+      "direction1": "protective",
+      "direction2": "risk",
+      "note": "QT022 says social_media=protective, QT032 says social_media=risk"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT022",
+      "paper2": "QT033",
+      "variable": "social_media",
+      "direction1": "protective",
+      "direction2": "risk",
+      "note": "QT022 says social_media=protective, QT033 says social_media=risk"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT022",
+      "paper2": "QT035",
+      "variable": "social_media",
+      "direction1": "protective",
+      "direction2": "risk",
+      "note": "QT022 says social_media=protective, QT035 says social_media=risk"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT022",
+      "paper2": "QT048",
+      "variable": "social_media",
+      "direction1": "protective",
+      "direction2": "risk",
+      "note": "QT022 says social_media=protective, QT048 says social_media=risk"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT024",
+      "paper2": "QT027",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT024 says social_media=risk, QT027 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT024",
+      "paper2": "QT039",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT024 says social_media=risk, QT039 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT024",
+      "paper2": "QT041",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT024 says social_media=risk, QT041 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT024",
+      "paper2": "QT048",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT024 says social_media=risk, QT048 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT024",
+      "paper2": "VN015",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT024 says social_media=risk, VN015 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT024",
+      "paper2": "VN020",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT024 says social_media=risk, VN020 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT024",
+      "paper2": "VN021",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT024 says social_media=risk, VN021 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT027",
+      "paper2": "QT032",
+      "variable": "social_media",
+      "direction1": "protective",
+      "direction2": "risk",
+      "note": "QT027 says social_media=protective, QT032 says social_media=risk"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT027",
+      "paper2": "QT033",
+      "variable": "social_media",
+      "direction1": "protective",
+      "direction2": "risk",
+      "note": "QT027 says social_media=protective, QT033 says social_media=risk"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT027",
+      "paper2": "QT035",
+      "variable": "social_media",
+      "direction1": "protective",
+      "direction2": "risk",
+      "note": "QT027 says social_media=protective, QT035 says social_media=risk"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT027",
+      "paper2": "QT039",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT027 says social_media=risk, QT039 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT027",
+      "paper2": "QT041",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT027 says social_media=risk, QT041 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT027",
+      "paper2": "QT048",
+      "variable": "social_media",
+      "direction1": "protective",
+      "direction2": "risk",
+      "note": "QT027 says social_media=protective, QT048 says social_media=risk"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT027",
+      "paper2": "VN015",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT027 says social_media=risk, VN015 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT027",
+      "paper2": "VN020",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT027 says social_media=risk, VN020 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT027",
+      "paper2": "VN021",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT027 says social_media=risk, VN021 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT032",
+      "paper2": "QT039",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT032 says social_media=risk, QT039 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT032",
+      "paper2": "QT041",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT032 says social_media=risk, QT041 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT032",
+      "paper2": "QT048",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT032 says social_media=risk, QT048 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT032",
+      "paper2": "VN015",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT032 says social_media=risk, VN015 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT032",
+      "paper2": "VN020",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT032 says social_media=risk, VN020 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT032",
+      "paper2": "VN021",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT032 says social_media=risk, VN021 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT033",
+      "paper2": "QT039",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT033 says social_media=risk, QT039 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT033",
+      "paper2": "QT041",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT033 says social_media=risk, QT041 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT033",
+      "paper2": "QT048",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT033 says social_media=risk, QT048 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT033",
+      "paper2": "VN015",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT033 says social_media=risk, VN015 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT033",
+      "paper2": "VN020",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT033 says social_media=risk, VN020 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT033",
+      "paper2": "VN021",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT033 says social_media=risk, VN021 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT035",
+      "paper2": "QT039",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT035 says social_media=risk, QT039 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT035",
+      "paper2": "QT041",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT035 says social_media=risk, QT041 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT035",
+      "paper2": "QT048",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT035 says social_media=risk, QT048 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT035",
+      "paper2": "VN015",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT035 says social_media=risk, VN015 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT035",
+      "paper2": "VN020",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT035 says social_media=risk, VN020 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT035",
+      "paper2": "VN021",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT035 says social_media=risk, VN021 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT039",
+      "paper2": "QT048",
+      "variable": "social_media",
+      "direction1": "protective",
+      "direction2": "risk",
+      "note": "QT039 says social_media=protective, QT048 says social_media=risk"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT041",
+      "paper2": "QT048",
+      "variable": "social_media",
+      "direction1": "protective",
+      "direction2": "risk",
+      "note": "QT041 says social_media=protective, QT048 says social_media=risk"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT042",
+      "paper2": "QT046",
+      "variable": "mindfulness",
+      "direction1": "effective",
+      "direction2": "ineffective",
+      "note": "QT042 says mindfulness=effective, QT046 says mindfulness=ineffective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT042",
+      "paper2": "QT049",
+      "variable": "mindfulness",
+      "direction1": "ineffective",
+      "direction2": "effective",
+      "note": "QT042 says mindfulness=ineffective, QT049 says mindfulness=effective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT046",
+      "paper2": "QT049",
+      "variable": "mindfulness",
+      "direction1": "ineffective",
+      "direction2": "effective",
+      "note": "QT046 says mindfulness=ineffective, QT049 says mindfulness=effective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT048",
+      "paper2": "VN015",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT048 says social_media=risk, VN015 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT048",
+      "paper2": "VN020",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT048 says social_media=risk, VN020 says social_media=protective"
+    },
+    {
+      "method": "contradiction",
+      "severity": "info",
+      "paper1": "QT048",
+      "paper2": "VN021",
+      "variable": "social_media",
+      "direction1": "risk",
+      "direction2": "protective",
+      "note": "QT048 says social_media=risk, VN021 says social_media=protective"
+    }
+  ]
+}

@@ -1,0 +1,1513 @@
+[
+  {
+    "id": "QT001",
+    "type": "Paper",
+    "descriptor": "Jenkins_2023_USA_SanDiego",
+    "file": "QT001_Jenkins_et_al_2023_USA.docx"
+  },
+  {
+    "id": "SampleSize::75",
+    "type": "SampleSize",
+    "value": 75
+  },
+  {
+    "id": "Country::Vietnam",
+    "type": "Country",
+    "name": "Vietnam"
+  },
+  {
+    "id": "Country::USA",
+    "type": "Country",
+    "name": "USA"
+  },
+  {
+    "id": "Outcome::Generalized Anxiety (GAD)",
+    "type": "Outcome",
+    "name": "Generalized Anxiety (GAD)"
+  },
+  {
+    "id": "Outcome::Anxiety",
+    "type": "Outcome",
+    "name": "Anxiety"
+  },
+  {
+    "id": "Outcome::Depression",
+    "type": "Outcome",
+    "name": "Depression"
+  },
+  {
+    "id": "Scale::PHQ-9",
+    "type": "Scale",
+    "name": "PHQ-9"
+  },
+  {
+    "id": "VN001",
+    "type": "Paper",
+    "descriptor": "Hoa_2024_Frontiers_HaNoi",
+    "file": "VN001_Hoa_2024_Frontiers_HaNoi.docx"
+  },
+  {
+    "id": "Year::2024",
+    "type": "Year",
+    "value": 2024
+  },
+  {
+    "id": "SampleSize::3910",
+    "type": "SampleSize",
+    "value": 3910
+  },
+  {
+    "id": "Country::UK",
+    "type": "Country",
+    "name": "UK"
+  },
+  {
+    "id": "Scale::GAD-7",
+    "type": "Scale",
+    "name": "GAD-7"
+  },
+  {
+    "id": "ES::VN001::OR::11.6",
+    "type": "EffectSize",
+    "es_type": "OR",
+    "value": 11.6,
+    "paper": "VN001"
+  },
+  {
+    "id": "QT012",
+    "type": "Paper",
+    "descriptor": "GBD_ASEAN_2025_Lancet",
+    "file": "QT012_GBD_ASEAN_2025_Lancet.docx"
+  },
+  {
+    "id": "Year::2021",
+    "type": "Year",
+    "value": 2021
+  },
+  {
+    "id": "Country::Philippines",
+    "type": "Country",
+    "name": "Philippines"
+  },
+  {
+    "id": "Country::Indonesia",
+    "type": "Country",
+    "name": "Indonesia"
+  },
+  {
+    "id": "Country::ASEAN",
+    "type": "Country",
+    "name": "ASEAN"
+  },
+  {
+    "id": "QT013",
+    "type": "Paper",
+    "descriptor": "Zhameden_2025_PLOSONE_LMIC",
+    "file": "QT013_Zhameden_2025_PLOSONE_LMIC.docx"
+  },
+  {
+    "id": "Year::2025",
+    "type": "Year",
+    "value": 2025
+  },
+  {
+    "id": "Country::LMIC",
+    "type": "Country",
+    "name": "LMIC"
+  },
+  {
+    "id": "QT014",
+    "type": "Paper",
+    "descriptor": "Anderson_2025_Wiley_Narrative",
+    "file": "QT014_Anderson_2025_Wiley_Narrative.docx"
+  },
+  {
+    "id": "Method::CBT",
+    "type": "Method",
+    "name": "CBT"
+  },
+  {
+    "id": "Method::SSRI",
+    "type": "Method",
+    "name": "SSRI"
+  },
+  {
+    "id": "Outcome::Stress",
+    "type": "Outcome",
+    "name": "Stress"
+  },
+  {
+    "id": "VN002",
+    "type": "Paper",
+    "descriptor": "VNAMHS_2022_National",
+    "file": "VN002_VNAMHS_2022_National.docx"
+  },
+  {
+    "id": "Year::2022",
+    "type": "Year",
+    "value": 2022
+  },
+  {
+    "id": "SampleSize::5996",
+    "type": "SampleSize",
+    "value": 5996
+  },
+  {
+    "id": "Scale::DASS-21",
+    "type": "Scale",
+    "name": "DASS-21"
+  },
+  {
+    "id": "QT015",
+    "type": "Paper",
+    "descriptor": "Zhu_2025_BMC_China",
+    "file": "QT015_Zhu_2025_BMC_China.docx"
+  },
+  {
+    "id": "Year::2019",
+    "type": "Year",
+    "value": 2019
+  },
+  {
+    "id": "SampleSize::9831",
+    "type": "SampleSize",
+    "value": 9831
+  },
+  {
+    "id": "Country::China",
+    "type": "Country",
+    "name": "China"
+  },
+  {
+    "id": "ES::QT015::AOR::13.71",
+    "type": "EffectSize",
+    "es_type": "AOR",
+    "value": 13.71,
+    "paper": "QT015"
+  },
+  {
+    "id": "QT016",
+    "type": "Paper",
+    "descriptor": "Mudunna_2025_LancetSEA_SouthAsia",
+    "file": "QT016_Mudunna_2025_LancetSEA_SouthAsia.docx"
+  },
+  {
+    "id": "Country::Sri Lanka",
+    "type": "Country",
+    "name": "Sri Lanka"
+  },
+  {
+    "id": "Country::India",
+    "type": "Country",
+    "name": "India"
+  },
+  {
+    "id": "Country::Southeast Asia",
+    "type": "Country",
+    "name": "Southeast Asia"
+  },
+  {
+    "id": "QT017",
+    "type": "Paper",
+    "descriptor": "Puyat_2025_Filipino_Youth",
+    "file": "QT017_Puyat_2025_Filipino_Youth.docx"
+  },
+  {
+    "id": "Year::2013",
+    "type": "Year",
+    "value": 2013
+  },
+  {
+    "id": "SampleSize::19178",
+    "type": "SampleSize",
+    "value": 19178
+  },
+  {
+    "id": "Scale::CES-D",
+    "type": "Scale",
+    "name": "CES-D"
+  },
+  {
+    "id": "VN003",
+    "type": "Paper",
+    "descriptor": "Pham_2024_Hue_SocialSupport",
+    "file": "VN003_Pham_2024_Hue_SocialSupport.docx"
+  },
+  {
+    "id": "ES::VN003::OR::0.3",
+    "type": "EffectSize",
+    "es_type": "OR",
+    "value": 0.3,
+    "paper": "VN003"
+  },
+  {
+    "id": "ES::VN003::OR::0.32",
+    "type": "EffectSize",
+    "es_type": "OR",
+    "value": 0.32,
+    "paper": "VN003"
+  },
+  {
+    "id": "QT002",
+    "type": "Paper",
+    "descriptor": "Saikia_2023_India_Assam",
+    "file": "QT002_Saikia_et_al_2023_India_Assam.docx"
+  },
+  {
+    "id": "Year::2023",
+    "type": "Year",
+    "value": 2023
+  },
+  {
+    "id": "SampleSize::360",
+    "type": "SampleSize",
+    "value": 360
+  },
+  {
+    "id": "QT008",
+    "type": "Paper",
+    "descriptor": "Wen_2020_China_Rural_LPA",
+    "file": "QT008_Wen_et_al_2020_China_Rural.docx"
+  },
+  {
+    "id": "Year::2020",
+    "type": "Year",
+    "value": 2020
+  },
+  {
+    "id": "SampleSize::900",
+    "type": "SampleSize",
+    "value": 900
+  },
+  {
+    "id": "ES::QT008::OR::0.562",
+    "type": "EffectSize",
+    "es_type": "OR",
+    "value": 0.562,
+    "paper": "QT008"
+  },
+  {
+    "id": "ES::QT008::OR::11.6",
+    "type": "EffectSize",
+    "es_type": "OR",
+    "value": 11.6,
+    "paper": "QT008"
+  },
+  {
+    "id": "QT010",
+    "type": "Paper",
+    "descriptor": "Xu_2021_China_LargestEpi",
+    "file": "QT010_Xu_et_al_2021_China_LargestEpi.docx"
+  },
+  {
+    "id": "Country::Ethiopia",
+    "type": "Country",
+    "name": "Ethiopia"
+  },
+  {
+    "id": "ES::QT010::OR::1.3",
+    "type": "EffectSize",
+    "es_type": "OR",
+    "value": 1.3,
+    "paper": "QT010"
+  },
+  {
+    "id": "VN014",
+    "type": "Paper",
+    "descriptor": "HoangTrungHoc_2025_VN_COVID",
+    "file": "VN014_HoangTrungHoc_2025_VN_COVID.docx"
+  },
+  {
+    "id": "SampleSize::8473",
+    "type": "SampleSize",
+    "value": 8473
+  },
+  {
+    "id": "Method::Physical Exercise",
+    "type": "Method",
+    "name": "Physical Exercise"
+  },
+  {
+    "id": "ES::VN014::OR::0.3",
+    "type": "EffectSize",
+    "es_type": "OR",
+    "value": 0.3,
+    "paper": "VN014"
+  },
+  {
+    "id": "ES::VN014::OR::5.0",
+    "type": "EffectSize",
+    "es_type": "OR",
+    "value": 5.0,
+    "paper": "VN014"
+  },
+  {
+    "id": "ES::VN014::AOR::13.71",
+    "type": "EffectSize",
+    "es_type": "AOR",
+    "value": 13.71,
+    "paper": "VN014"
+  },
+  {
+    "id": "ES::VN014::AOR::0.557",
+    "type": "EffectSize",
+    "es_type": "AOR",
+    "value": 0.557,
+    "paper": "VN014"
+  },
+  {
+    "id": "VN015",
+    "type": "Paper",
+    "descriptor": "NgoAnhVinh_2024_LangSon_DTTS",
+    "file": "VN015_NgoAnhVinh_2024_LangSon_DTTS.docx"
+  },
+  {
+    "id": "SampleSize::845",
+    "type": "SampleSize",
+    "value": 845
+  },
+  {
+    "id": "ES::VN015::OR::1.29",
+    "type": "EffectSize",
+    "es_type": "OR",
+    "value": 1.29,
+    "paper": "VN015"
+  },
+  {
+    "id": "ES::VN015::OR::6.84",
+    "type": "EffectSize",
+    "es_type": "OR",
+    "value": 6.84,
+    "paper": "VN015"
+  },
+  {
+    "id": "ES::VN015::OR::0.43",
+    "type": "EffectSize",
+    "es_type": "OR",
+    "value": 0.43,
+    "paper": "VN015"
+  },
+  {
+    "id": "ES::VN015::OR::0.51",
+    "type": "EffectSize",
+    "es_type": "OR",
+    "value": 0.51,
+    "paper": "VN015"
+  },
+  {
+    "id": "ES::VN015::OR::0.72",
+    "type": "EffectSize",
+    "es_type": "OR",
+    "value": 0.72,
+    "paper": "VN015"
+  },
+  {
+    "id": "ES::VN015::OR::0.57",
+    "type": "EffectSize",
+    "es_type": "OR",
+    "value": 0.57,
+    "paper": "VN015"
+  },
+  {
+    "id": "VN016",
+    "type": "Paper",
+    "descriptor": "BaoQuyen_2025_YHCD",
+    "file": "VN016_BaoQuyen_2025_YHCD.docx"
+  },
+  {
+    "id": "SampleSize::501",
+    "type": "SampleSize",
+    "value": 501
+  },
+  {
+    "id": "Country::Germany",
+    "type": "Country",
+    "name": "Germany"
+  },
+  {
+    "id": "Scale::DASS-Y",
+    "type": "Scale",
+    "name": "DASS-Y"
+  },
+  {
+    "id": "VN017",
+    "type": "Paper",
+    "descriptor": "NguyenDanhLam_2022_YHVN",
+    "file": "VN017_NguyenDanhLam_2022_YHVN.docx"
+  },
+  {
+    "id": "SampleSize::482",
+    "type": "SampleSize",
+    "value": 482
+  },
+  {
+    "id": "VN018",
+    "type": "Paper",
+    "descriptor": "AnGiang_2025_YHVN",
+    "file": "VN018_AnGiang_2025_YHVN.docx"
+  },
+  {
+    "id": "SampleSize::366",
+    "type": "SampleSize",
+    "value": 366
+  },
+  {
+    "id": "VN019",
+    "type": "Paper",
+    "descriptor": "HoThiTrucQuynh_2025_Hue_TLH",
+    "file": "VN019_HoThiTrucQuynh_2025_Hue_TLH.docx"
+  },
+  {
+    "id": "SampleSize::685",
+    "type": "SampleSize",
+    "value": 685
+  },
+  {
+    "id": "Scale::LOT-R",
+    "type": "Scale",
+    "name": "LOT-R"
+  },
+  {
+    "id": "VN020",
+    "type": "Paper",
+    "descriptor": "TranHoVinhLoc_2024_TPHCM_DASS-Y",
+    "file": "VN020_TranHoVinhLoc_2024_TPHCM_DASS-Y.docx"
+  },
+  {
+    "id": "SampleSize::976",
+    "type": "SampleSize",
+    "value": 976
+  },
+  {
+    "id": "Scale::ESSA",
+    "type": "Scale",
+    "name": "ESSA"
+  },
+  {
+    "id": "ES::VN020::OR::11.6",
+    "type": "EffectSize",
+    "es_type": "OR",
+    "value": 11.6,
+    "paper": "VN020"
+  },
+  {
+    "id": "QT021",
+    "type": "Paper",
+    "descriptor": "Norway_Brunborg_2025_SocSciMed",
+    "file": "QT021_Norway_Brunborg_2025_SocSciMed.docx"
+  },
+  {
+    "id": "Year::2011",
+    "type": "Year",
+    "value": 2011
+  },
+  {
+    "id": "SampleSize::979043",
+    "type": "SampleSize",
+    "value": 979043
+  },
+  {
+    "id": "Country::Korea",
+    "type": "Country",
+    "name": "Korea"
+  },
+  {
+    "id": "Country::Norway",
+    "type": "Country",
+    "name": "Norway"
+  },
+  {
+    "id": "ES::QT021::g::0.46",
+    "type": "EffectSize",
+    "es_type": "g",
+    "value": 0.46,
+    "paper": "QT021"
+  },
+  {
+    "id": "QT022",
+    "type": "Paper",
+    "descriptor": "ScreenTime_Li_2025_BJCP",
+    "file": "QT022_ScreenTime_Li_2025_BJCP.docx"
+  },
+  {
+    "id": "SampleSize::4058",
+    "type": "SampleSize",
+    "value": 4058
+  },
+  {
+    "id": "Country::Australia",
+    "type": "Country",
+    "name": "Australia"
+  },
+  {
+    "id": "ES::QT022::OR::5.0",
+    "type": "EffectSize",
+    "es_type": "OR",
+    "value": 5.0,
+    "paper": "QT022"
+  },
+  {
+    "id": "QT023",
+    "type": "Paper",
+    "descriptor": "JAACAP_USA_Mojtabai_Trends_2024",
+    "file": "QT023_JAACAP_USA_Mojtabai_Trends_2024.docx"
+  },
+  {
+    "id": "SampleSize::13684",
+    "type": "SampleSize",
+    "value": 13684
+  },
+  {
+    "id": "ES::QT023::AOR::2.17",
+    "type": "EffectSize",
+    "es_type": "AOR",
+    "value": 2.17,
+    "paper": "QT023"
+  },
+  {
+    "id": "ES::QT023::AOR::2.93",
+    "type": "EffectSize",
+    "es_type": "AOR",
+    "value": 2.93,
+    "paper": "QT023"
+  },
+  {
+    "id": "QT024",
+    "type": "Paper",
+    "descriptor": "WHO_Europe_2025_LancetRegional",
+    "file": "QT024_WHO_Europe_2025_LancetRegional.docx"
+  },
+  {
+    "id": "ES::QT024::OR::0.562",
+    "type": "EffectSize",
+    "es_type": "OR",
+    "value": 0.562,
+    "paper": "QT024"
+  },
+  {
+    "id": "QT025",
+    "type": "Paper",
+    "descriptor": "EpiPsychSci_Crisp_Australia_2025",
+    "file": "QT025_EpiPsychSci_Crisp_Australia_2025.docx"
+  },
+  {
+    "id": "SampleSize::3721",
+    "type": "SampleSize",
+    "value": 3721
+  },
+  {
+    "id": "Country::Ireland",
+    "type": "Country",
+    "name": "Ireland"
+  },
+  {
+    "id": "QT026",
+    "type": "Paper",
+    "descriptor": "UK_NHS_Parliament_2025",
+    "file": "QT026_UK_NHS_Parliament_2025.docx"
+  },
+  {
+    "id": "ES::QT026::AOR::2.17",
+    "type": "EffectSize",
+    "es_type": "AOR",
+    "value": 2.17,
+    "paper": "QT026"
+  },
+  {
+    "id": "QT027",
+    "type": "Paper",
+    "descriptor": "NatureHumanBehav_Fassi_SocialMedia_2025",
+    "file": "QT027_NatureHumanBehav_Fassi_SocialMedia_2025.docx"
+  },
+  {
+    "id": "SampleSize::3340",
+    "type": "SampleSize",
+    "value": 3340
+  },
+  {
+    "id": "ES::QT027::OR::5.0",
+    "type": "EffectSize",
+    "es_type": "OR",
+    "value": 5.0,
+    "paper": "QT027"
+  },
+  {
+    "id": "QT028",
+    "type": "Paper",
+    "descriptor": "AJP_Zugman_PediatricAnxiety_2024",
+    "file": "QT028_AJP_Zugman_PediatricAnxiety_2024.docx"
+  },
+  {
+    "id": "Method::iCBT",
+    "type": "Method",
+    "name": "iCBT"
+  },
+  {
+    "id": "Method::gCBT",
+    "type": "Method",
+    "name": "gCBT"
+  },
+  {
+    "id": "ES::QT028::OR::0.562",
+    "type": "EffectSize",
+    "es_type": "OR",
+    "value": 0.562,
+    "paper": "QT028"
+  },
+  {
+    "id": "QT029",
+    "type": "Paper",
+    "descriptor": "BMC_Li_CBT_NMA_2025",
+    "file": "QT029_BMC_Li_CBT_NMA_2025.docx"
+  },
+  {
+    "id": "Method::Relaxation",
+    "type": "Method",
+    "name": "Relaxation"
+  },
+  {
+    "id": "Outcome::Social Anxiety (SAD)",
+    "type": "Outcome",
+    "name": "Social Anxiety (SAD)"
+  },
+  {
+    "id": "ES::QT029::OR::0.562",
+    "type": "EffectSize",
+    "es_type": "OR",
+    "value": 0.562,
+    "paper": "QT029"
+  },
+  {
+    "id": "QT030",
+    "type": "Paper",
+    "descriptor": "GBD_Trends_10-24y_2025",
+    "file": "QT030_GBD_Trends_10-24y_2025.docx"
+  },
+  {
+    "id": "QT031",
+    "type": "Paper",
+    "descriptor": "Islam_59Countries_2025",
+    "file": "QT031_Islam_59Countries_2025.docx"
+  },
+  {
+    "id": "ES::QT031::OR::1.51",
+    "type": "EffectSize",
+    "es_type": "OR",
+    "value": 1.51,
+    "paper": "QT031"
+  },
+  {
+    "id": "ES::QT031::OR::6.84",
+    "type": "EffectSize",
+    "es_type": "OR",
+    "value": 6.84,
+    "paper": "QT031"
+  },
+  {
+    "id": "ES::QT031::OR::0.3",
+    "type": "EffectSize",
+    "es_type": "OR",
+    "value": 0.3,
+    "paper": "QT031"
+  },
+  {
+    "id": "QT032",
+    "type": "Paper",
+    "descriptor": "Ireland_Fitzgerald_MyWorld_2024",
+    "file": "QT032_Ireland_Fitzgerald_MyWorld_2024.docx"
+  },
+  {
+    "id": "Year::2012",
+    "type": "Year",
+    "value": 2012
+  },
+  {
+    "id": "ES::QT032::AOR::2.17",
+    "type": "EffectSize",
+    "es_type": "AOR",
+    "value": 2.17,
+    "paper": "QT032"
+  },
+  {
+    "id": "QT033",
+    "type": "Paper",
+    "descriptor": "JAMA_SchmidtPersson_ScreenMedia_2024",
+    "file": "QT033_JAMA_SchmidtPersson_ScreenMedia_2024.docx"
+  },
+  {
+    "id": "Journal::JAMA Network Open",
+    "type": "Journal",
+    "name": "JAMA Network Open"
+  },
+  {
+    "id": "SampleSize::63205",
+    "type": "SampleSize",
+    "value": 63205
+  },
+  {
+    "id": "Country::Denmark",
+    "type": "Country",
+    "name": "Denmark"
+  },
+  {
+    "id": "ES::QT033::OR::5.0",
+    "type": "EffectSize",
+    "es_type": "OR",
+    "value": 5.0,
+    "paper": "QT033"
+  },
+  {
+    "id": "QT034",
+    "type": "Paper",
+    "descriptor": "Korea_Cho_MH_Trends_NatSciRep_2024",
+    "file": "QT034_Korea_Cho_MH_Trends_NatSciRep_2024.docx"
+  },
+  {
+    "id": "Year::2006",
+    "type": "Year",
+    "value": 2006
+  },
+  {
+    "id": "QT035",
+    "type": "Paper",
+    "descriptor": "Jefferies_SocialAnxiety_7Countries_2020",
+    "file": "QT035_Jefferies_SocialAnxiety_7Countries_2020.docx"
+  },
+  {
+    "id": "SampleSize::6825",
+    "type": "SampleSize",
+    "value": 6825
+  },
+  {
+    "id": "Scale::SIAS",
+    "type": "Scale",
+    "name": "SIAS"
+  },
+  {
+    "id": "VN021",
+    "type": "Paper",
+    "descriptor": "TranThaoVi_2024_JRuralMed_Hue",
+    "file": "VN021_TranThaoVi_2024_JRuralMed_Hue.docx"
+  },
+  {
+    "id": "SampleSize::341",
+    "type": "SampleSize",
+    "value": 341
+  },
+  {
+    "id": "ES::VN021::OR::11.58",
+    "type": "EffectSize",
+    "es_type": "OR",
+    "value": 11.58,
+    "paper": "VN021"
+  },
+  {
+    "id": "ES::VN021::AOR::1.51",
+    "type": "EffectSize",
+    "es_type": "AOR",
+    "value": 1.51,
+    "paper": "VN021"
+  },
+  {
+    "id": "ES::VN021::beta::4.73",
+    "type": "EffectSize",
+    "es_type": "beta",
+    "value": 4.73,
+    "paper": "VN021"
+  },
+  {
+    "id": "ES::VN021::beta::3.2",
+    "type": "EffectSize",
+    "es_type": "beta",
+    "value": 3.2,
+    "paper": "VN021"
+  },
+  {
+    "id": "ES::VN021::beta::2.24",
+    "type": "EffectSize",
+    "es_type": "beta",
+    "value": 2.24,
+    "paper": "VN021"
+  },
+  {
+    "id": "ES::VN021::SUCRA::0.51",
+    "type": "EffectSize",
+    "es_type": "SUCRA",
+    "value": 0.51,
+    "paper": "VN021"
+  },
+  {
+    "id": "QT036",
+    "type": "Paper",
+    "descriptor": "Moon_Korea_GAD_ML_2025",
+    "file": "QT036_Moon_Korea_GAD_ML_2025.docx"
+  },
+  {
+    "id": "SampleSize::213820",
+    "type": "SampleSize",
+    "value": 213820
+  },
+  {
+    "id": "ES::QT036::AOR::1.28",
+    "type": "EffectSize",
+    "es_type": "AOR",
+    "value": 1.28,
+    "paper": "QT036"
+  },
+  {
+    "id": "ES::QT036::AOR::13.71",
+    "type": "EffectSize",
+    "es_type": "AOR",
+    "value": 13.71,
+    "paper": "QT036"
+  },
+  {
+    "id": "VN022",
+    "type": "Paper",
+    "descriptor": "UNICEF_VN_2022_SchoolFactors",
+    "file": "VN022_UNICEF_VN_2022_SchoolFactors.docx"
+  },
+  {
+    "id": "ES::VN022::OR::11.58",
+    "type": "EffectSize",
+    "es_type": "OR",
+    "value": 11.58,
+    "paper": "VN022"
+  },
+  {
+    "id": "ES::VN022::AOR::1.68",
+    "type": "EffectSize",
+    "es_type": "AOR",
+    "value": 1.68,
+    "paper": "VN022"
+  },
+  {
+    "id": "ES::VN022::AOR::1.51",
+    "type": "EffectSize",
+    "es_type": "AOR",
+    "value": 1.51,
+    "paper": "VN022"
+  },
+  {
+    "id": "VN023",
+    "type": "Paper",
+    "descriptor": "NguyenLX_VN_COVID_Medicine_2023",
+    "file": "VN023_NguyenLX_VN_COVID_Medicine_2023.docx"
+  },
+  {
+    "id": "SampleSize::5730",
+    "type": "SampleSize",
+    "value": 5730
+  },
+  {
+    "id": "VN024",
+    "type": "Paper",
+    "descriptor": "NguyenThanhTruyen_VinhLong_YHVN_2024",
+    "file": "VN024_NguyenThanhTruyen_VinhLong_YHVN_2024.docx"
+  },
+  {
+    "id": "SampleSize::919",
+    "type": "SampleSize",
+    "value": 919
+  },
+  {
+    "id": "QT037",
+    "type": "Paper",
+    "descriptor": "Praptomojati_CA-CBT_SEA_AJP_2024",
+    "file": "QT037_Praptomojati_CA-CBT_SEA_AJP_2024.docx"
+  },
+  {
+    "id": "Method::CA-CBT",
+    "type": "Method",
+    "name": "CA-CBT"
+  },
+  {
+    "id": "QT038",
+    "type": "Paper",
+    "descriptor": "DeSilva_SriLanka_RCT_2024",
+    "file": "QT038_DeSilva_SriLanka_RCT_2024.docx"
+  },
+  {
+    "id": "QT039",
+    "type": "Paper",
+    "descriptor": "Xian_NMA_SAD_JAD_2024",
+    "file": "QT039_Xian_NMA_SAD_JAD_2024.docx"
+  },
+  {
+    "id": "Country::Japan",
+    "type": "Country",
+    "name": "Japan"
+  },
+  {
+    "id": "ES::QT039::SUCRA::71.2",
+    "type": "EffectSize",
+    "es_type": "SUCRA",
+    "value": 71.2,
+    "paper": "QT039"
+  },
+  {
+    "id": "ES::QT039::SUCRA::68.4",
+    "type": "EffectSize",
+    "es_type": "SUCRA",
+    "value": 68.4,
+    "paper": "QT039"
+  },
+  {
+    "id": "QT040",
+    "type": "Paper",
+    "descriptor": "Walder_JMIR_DMHI_SAD_2025",
+    "file": "QT040_Walder_JMIR_DMHI_SAD_2025.docx"
+  },
+  {
+    "id": "Method::DMHI",
+    "type": "Method",
+    "name": "DMHI"
+  },
+  {
+    "id": "Method::VR Therapy",
+    "type": "Method",
+    "name": "VR Therapy"
+  },
+  {
+    "id": "ES::QT040::g::0.508",
+    "type": "EffectSize",
+    "es_type": "g",
+    "value": 0.508,
+    "paper": "QT040"
+  },
+  {
+    "id": "ES::QT040::g::0.878",
+    "type": "EffectSize",
+    "es_type": "g",
+    "value": 0.878,
+    "paper": "QT040"
+  },
+  {
+    "id": "ES::QT040::g::0.825",
+    "type": "EffectSize",
+    "es_type": "g",
+    "value": 0.825,
+    "paper": "QT040"
+  },
+  {
+    "id": "VN025",
+    "type": "Paper",
+    "descriptor": "PhamThiNgoc_HaiPhong_VinhBao_2024",
+    "file": "VN025_PhamThiNgoc_HaiPhong_VinhBao_2024.docx"
+  },
+  {
+    "id": "QT041",
+    "type": "Paper",
+    "descriptor": "Zheng_China_MXH_PRBM_2025",
+    "file": "QT041_Zheng_China_MXH_PRBM_2025.docx"
+  },
+  {
+    "id": "Scale::PSQI",
+    "type": "Scale",
+    "name": "PSQI"
+  },
+  {
+    "id": "ES::QT041::AOR::13.71",
+    "type": "EffectSize",
+    "es_type": "AOR",
+    "value": 13.71,
+    "paper": "QT041"
+  },
+  {
+    "id": "ES::QT041::beta::0.615",
+    "type": "EffectSize",
+    "es_type": "beta",
+    "value": 0.615,
+    "paper": "QT041"
+  },
+  {
+    "id": "ES::QT041::beta::0.223",
+    "type": "EffectSize",
+    "es_type": "beta",
+    "value": 0.223,
+    "paper": "QT041"
+  },
+  {
+    "id": "ES::QT041::beta::0.153",
+    "type": "EffectSize",
+    "es_type": "beta",
+    "value": 0.153,
+    "paper": "QT041"
+  },
+  {
+    "id": "VN026",
+    "type": "Paper",
+    "descriptor": "TranDucSi_LongAn_PNT_2025",
+    "file": "VN026_TranDucSi_LongAn_PNT_2025.docx"
+  },
+  {
+    "id": "QT042",
+    "type": "Paper",
+    "descriptor": "BrownCarter_UK_School_JMH_2025",
+    "file": "QT042_BrownCarter_UK_School_JMH_2025.docx"
+  },
+  {
+    "id": "Method::Mindfulness",
+    "type": "Method",
+    "name": "Mindfulness"
+  },
+  {
+    "id": "QT043",
+    "type": "Paper",
+    "descriptor": "Bress_JAMA_Maya_App_2024",
+    "file": "QT043_Bress_JAMA_Maya_App_2024.docx"
+  },
+  {
+    "id": "SampleSize::59",
+    "type": "SampleSize",
+    "value": 59
+  },
+  {
+    "id": "Method::Mobile CBT",
+    "type": "Method",
+    "name": "Mobile CBT"
+  },
+  {
+    "id": "Scale::HAM-A",
+    "type": "Scale",
+    "name": "HAM-A"
+  },
+  {
+    "id": "Scale::LSAS",
+    "type": "Scale",
+    "name": "LSAS"
+  },
+  {
+    "id": "Scale::ASI",
+    "type": "Scale",
+    "name": "ASI"
+  },
+  {
+    "id": "ES::QT043::Cohen_d::0.93",
+    "type": "EffectSize",
+    "es_type": "Cohen_d",
+    "value": 0.93,
+    "paper": "QT043"
+  },
+  {
+    "id": "ES::QT043::Cohen_d::1.04",
+    "type": "EffectSize",
+    "es_type": "Cohen_d",
+    "value": 1.04,
+    "paper": "QT043"
+  },
+  {
+    "id": "ES::QT043::d::0.93",
+    "type": "EffectSize",
+    "es_type": "d",
+    "value": 0.93,
+    "paper": "QT043"
+  },
+  {
+    "id": "ES::QT043::d::1.07",
+    "type": "EffectSize",
+    "es_type": "d",
+    "value": 1.07,
+    "paper": "QT043"
+  },
+  {
+    "id": "ES::QT043::d::1.04",
+    "type": "EffectSize",
+    "es_type": "d",
+    "value": 1.04,
+    "paper": "QT043"
+  },
+  {
+    "id": "QT044",
+    "type": "Paper",
+    "descriptor": "Cai_Resilience_Frontiers_2025",
+    "file": "QT044_Cai_Resilience_Frontiers_2025.docx"
+  },
+  {
+    "id": "SampleSize::10",
+    "type": "SampleSize",
+    "value": 10
+  },
+  {
+    "id": "Method::Resilience training",
+    "type": "Method",
+    "name": "Resilience training"
+  },
+  {
+    "id": "QT045",
+    "type": "Paper",
+    "descriptor": "Sasaki_Japan_iCBT_JMIR_2024",
+    "file": "QT045_Sasaki_Japan_iCBT_JMIR_2024.docx"
+  },
+  {
+    "id": "SampleSize::38",
+    "type": "SampleSize",
+    "value": 38
+  },
+  {
+    "id": "QT046",
+    "type": "Paper",
+    "descriptor": "Jagiello_AcademicStress_SR_2025",
+    "file": "QT046_Jagiello_AcademicStress_SR_2025.docx"
+  },
+  {
+    "id": "Method::Yoga",
+    "type": "Method",
+    "name": "Yoga"
+  },
+  {
+    "id": "ES::QT046::OR::11.58",
+    "type": "EffectSize",
+    "es_type": "OR",
+    "value": 11.58,
+    "paper": "QT046"
+  },
+  {
+    "id": "ES::QT046::beta::4.73",
+    "type": "EffectSize",
+    "es_type": "beta",
+    "value": 4.73,
+    "paper": "QT046"
+  },
+  {
+    "id": "VN027",
+    "type": "Paper",
+    "descriptor": "Dinh_SchoolFactors_VN_2021",
+    "file": "VN027_Dinh_SchoolFactors_VN_2021.docx"
+  },
+  {
+    "id": "QT047",
+    "type": "Paper",
+    "descriptor": "Dong_PLOS_DASS_YaAn_2025",
+    "file": "QT047_Dong_PLOS_DASS_YaAn_2025.docx"
+  },
+  {
+    "id": "SampleSize::1844",
+    "type": "SampleSize",
+    "value": 1844
+  },
+  {
+    "id": "QT048",
+    "type": "Paper",
+    "descriptor": "Chen_COVID_Meta141_JAD_2025_ABSTRACT",
+    "file": "QT048_Chen_COVID_Meta141_JAD_2025_ABSTRACT.docx"
+  },
+  {
+    "id": "QT049",
+    "type": "Paper",
+    "descriptor": "Zhang_Bayesian_CBT_JCP_2026_ABSTRACT",
+    "file": "QT049_Zhang_Bayesian_CBT_JCP_2026_ABSTRACT.docx"
+  },
+  {
+    "id": "Year::2026",
+    "type": "Year",
+    "value": 2026
+  },
+  {
+    "id": "SampleSize::19865",
+    "type": "SampleSize",
+    "value": 19865
+  },
+  {
+    "id": "QT050",
+    "type": "Paper",
+    "descriptor": "Qiaochu_MobileCBT_CPP_2025_ABSTRACT",
+    "file": "QT050_Qiaochu_MobileCBT_CPP_2025_ABSTRACT.docx"
+  },
+  {
+    "id": "SampleSize::2479",
+    "type": "SampleSize",
+    "value": 2479
+  },
+  {
+    "id": "ES::QT050::g::0.878",
+    "type": "EffectSize",
+    "es_type": "g",
+    "value": 0.878,
+    "paper": "QT050"
+  },
+  {
+    "id": "QT051",
+    "type": "Paper",
+    "descriptor": "Menon_LMIC_SEA_Pacific_APJPH_2025_ABSTRACT",
+    "file": "QT051_Menon_LMIC_SEA_Pacific_APJPH_2025_ABSTRACT.docx"
+  },
+  {
+    "id": "ES::QT051::OR::0.22",
+    "type": "EffectSize",
+    "es_type": "OR",
+    "value": 0.22,
+    "paper": "QT051"
+  },
+  {
+    "id": "VN028",
+    "type": "Paper",
+    "descriptor": "DaoThiNgoan_TCNCYH_SVY4_HMU_2025",
+    "file": "VN028_DaoThiNgoan_TCNCYH_SVY4_HMU_2025.docx"
+  },
+  {
+    "id": "SampleSize::195",
+    "type": "SampleSize",
+    "value": 195
+  },
+  {
+    "id": "ES::VN028::d::0.05",
+    "type": "EffectSize",
+    "es_type": "d",
+    "value": 0.05,
+    "paper": "VN028"
+  },
+  {
+    "id": "VN029",
+    "type": "Paper",
+    "descriptor": "Duong_SocPsychiatry_2631HS_TPHCM_2025",
+    "file": "VN029_Duong_SocPsychiatry_2631HS_TPHCM_2025.docx"
+  },
+  {
+    "id": "SampleSize::2631",
+    "type": "SampleSize",
+    "value": 2631
+  },
+  {
+    "id": "Scale::YBRS",
+    "type": "Scale",
+    "name": "YBRS"
+  },
+  {
+    "id": "QT042_B5",
+    "type": "Paper",
+    "descriptor": "Brown_Carter_2025_J_Mental_Health_Editorial_UK_school_interventions",
+    "file": "B5_Brown_Carter_2025_dich_phan_bien_25042026.docx",
+    "authors": "Brown JSL, Carter B (2025)",
+    "journal": "J Mental Health 34(4):357–361",
+    "doi": "10.1080/09638237.2025.2512332",
+    "paper_type": "editorial",
+    "country": "UK",
+    "topic": "school_interventions_review"
+  },
+  {
+    "id": "QT042_PLACES",
+    "type": "Paper",
+    "descriptor": "Brown_2022_IJERPH_PLACES_Model_help_seeking",
+    "file": "PLACES_Brown_2022_dich_phan_bien_25042026.docx",
+    "authors": "Brown JSL, Lisk S, Carter B, Stevelink SAM, Van Lieshout R, Michelson D (2022)",
+    "journal": "IJERPH 19(5):2831",
+    "doi": "10.3390/ijerph19052831",
+    "paper_type": "model_paper",
+    "country": "UK_Canada",
+    "topic": "PLACES_help_seeking_model"
+  },
+  {
+    "id": "QT042_BESST",
+    "type": "Paper",
+    "descriptor": "Brown_2024_Lancet_Psychiatry_BESST_cluster_RCT_DISCOVER",
+    "file": "BESST_Brown_2024_dich_phan_bien_25042026.docx",
+    "authors": "Brown J, James K, Lisk S, Shearer J, Byford S, Stallard P, Deighton J, Saunders D, Yarrum J, Fonagy P, Weaver T, Sclare I, Day C, Evans C, Carter B (2024)",
+    "journal": "Lancet Psychiatry 11(7):504-515",
+    "doi": "10.1016/S2215-0366(24)00101-9",
+    "paper_type": "cluster_RCT",
+    "country": "UK",
+    "topic": "BESST_DISCOVER_school_CBT_RCT"
+  },
+  {
+    "id": "TLNN_Coping_v3",
+    "type": "Document",
+    "descriptor": "TuLieu_NuocNgoai_Coping_LoAu_HSTH_v3_27042026",
+    "file": "TuLieu_NN_Coping_LoAu_HSTH_v3_chi_tiet_27042026.docx",
+    "doc_type": "literature_compilation",
+    "topic": "foreign_literature_coping_anxiety_secondary_school",
+    "date": "2026-04-27",
+    "language": "Vietnamese_with_EN_glossary"
+  },
+  {
+    "id": "TraLoi_3CauHoi_v2",
+    "type": "Document",
+    "descriptor": "Tra_loi_3_cau_hoi_cho_thay_v2_TiengViet_27042026",
+    "file": "Tra_loi_3_cau_hoi_cho_thay_v2_TiengViet_27042026.docx",
+    "doc_type": "qa_for_thay",
+    "topic": "three_questions_qualitative_coping_Jefferies_BESST_80percent",
+    "date": "2026-04-27",
+    "language": "Vietnamese_pure"
+  },
+  {
+    "id": "BaoCao_KiemTra_3BanDich",
+    "type": "Document",
+    "descriptor": "BaoCao_KiemTra_3BanDich_Brown_10vong_27042026",
+    "file": "BaoCao_KiemTra_3BanDich_Brown_27042026.docx",
+    "doc_type": "verification_report",
+    "topic": "verification_report_3_translations_Brown",
+    "date": "2026-04-27",
+    "language": "Vietnamese_pure"
+  },
+  {
+    "id": "TLN_001",
+    "type": "Paper",
+    "descriptor": "Frontiers Psychiatry 2025 SR-MA 38 RCTs",
+    "paper_type": "systematic_review_meta_analysis",
+    "topic": "school_resilience",
+    "source_doc": "TLNN_Coping_v3",
+    "doi": "10.3389/fpsyt.2025.1594658",
+    "pmc": "PMC12127306"
+  },
+  {
+    "id": "TLN_002",
+    "type": "Paper",
+    "descriptor": "Springer Child Psychiatry HumDev 2024 SR 31 studies",
+    "paper_type": "systematic_review",
+    "topic": "academic_stress_HS",
+    "source_doc": "TLNN_Coping_v3",
+    "doi": "10.1007/s10578-024-01667-5",
+    "pmc": "PMC12628395"
+  },
+  {
+    "id": "TLN_003",
+    "type": "Paper",
+    "descriptor": "Vogelaar 2024 Stress Lessons cluster RCT",
+    "paper_type": "cluster_RCT",
+    "topic": "stress_management_NL",
+    "source_doc": "TLNN_Coping_v3"
+  },
+  {
+    "id": "TLN_004",
+    "type": "Paper",
+    "descriptor": "Lochman 2025 Coping Power early adolescent",
+    "paper_type": "cluster_RCT",
+    "topic": "coping_power_USA",
+    "source_doc": "TLNN_Coping_v3"
+  },
+  {
+    "id": "TLN_005",
+    "type": "Paper",
+    "descriptor": "MDPI Pediatric Reports 2025 MBI SR-MA 14 studies",
+    "paper_type": "systematic_review_meta_analysis",
+    "topic": "mindfulness_MBI",
+    "source_doc": "TLNN_Coping_v3"
+  },
+  {
+    "id": "TLN_006",
+    "type": "Paper",
+    "descriptor": "PMC12173555 2025 MBI 8+4 weeks booster RCT",
+    "paper_type": "RCT",
+    "topic": "mindfulness_booster",
+    "source_doc": "TLNN_Coping_v3",
+    "pmc": "PMC12173555"
+  },
+  {
+    "id": "TLN_007",
+    "type": "Paper",
+    "descriptor": "Fulambarkar 2023 cautionary MA mindfulness school",
+    "paper_type": "meta_analysis_critical",
+    "topic": "mindfulness_cautionary",
+    "source_doc": "TLNN_Coping_v3",
+    "doi": "10.1111/camh.12572"
+  },
+  {
+    "id": "TLN_008",
+    "type": "Paper",
+    "descriptor": "School Mental Health 2023 MBI 10 weeks",
+    "paper_type": "controlled_study",
+    "topic": "mindfulness_10w",
+    "source_doc": "TLNN_Coping_v3",
+    "doi": "10.1007/s12310-023-09620-y"
+  },
+  {
+    "id": "TLN_009",
+    "type": "Paper",
+    "descriptor": "Springer Admin Policy MH 2024 ER MA d=0.37",
+    "paper_type": "meta_analysis",
+    "topic": "emotion_regulation",
+    "source_doc": "TLNN_Coping_v3",
+    "doi": "10.1007/s10488-024-01373-3"
+  },
+  {
+    "id": "TLN_010",
+    "type": "Paper",
+    "descriptor": "Frontiers Psychiatry 2024 ER skills training adol+parents",
+    "paper_type": "feasibility",
+    "topic": "ER_parents",
+    "source_doc": "TLNN_Coping_v3",
+    "doi": "10.3389/fpsyt.2024.1448529"
+  },
+  {
+    "id": "TLN_011",
+    "type": "Paper",
+    "descriptor": "JMIR Pediatrics 2024 Unguided iCBT subthreshold SAD multicenter RCT",
+    "paper_type": "multicenter_RCT",
+    "topic": "iCBT_SAD",
+    "source_doc": "TLNN_Coping_v3",
+    "doi": "10.2196/55786"
+  },
+  {
+    "id": "TLN_012",
+    "type": "Paper",
+    "descriptor": "JMIR Serious Games 2022 Digital interventions ER SR-MA",
+    "paper_type": "systematic_review_meta_analysis",
+    "topic": "digital_games",
+    "source_doc": "TLNN_Coping_v3",
+    "doi": "10.2196/31456"
+  },
+  {
+    "id": "TLN_013",
+    "type": "Paper",
+    "descriptor": "Murphy 2024 peer support scoping review",
+    "paper_type": "scoping_review",
+    "topic": "peer_support",
+    "source_doc": "TLNN_Coping_v3",
+    "doi": "10.1002/jcop.23090"
+  },
+  {
+    "id": "TLN_014",
+    "type": "Paper",
+    "descriptor": "NCBI Bookshelf NBK602668 UK gov peer support youth",
+    "paper_type": "government_review",
+    "topic": "peer_support_UK",
+    "source_doc": "TLNN_Coping_v3",
+    "pmc": "NBK602668"
+  },
+  {
+    "id": "TLN_015",
+    "type": "Paper",
+    "descriptor": "Lancet RH Western Pacific 2024 China school MH scoping",
+    "paper_type": "scoping_review",
+    "topic": "china_school_MH",
+    "source_doc": "TLNN_Coping_v3"
+  },
+  {
+    "id": "TraLoi_HieuQuaCoping_v1",
+    "type": "Document",
+    "topic": "effectiveness_spontaneous_coping",
+    "doc_type": "qa_for_thay",
+    "date": "2026-04-27"
+  },
+  {
+    "id": "TLN_Herres2015_CopingProfiles",
+    "type": "Document",
+    "topic": "coping_profiles_LPA",
+    "doc_type": "translation_critique",
+    "date": "2026-04-27",
+    "doi": "10.1016/j.jad.2015.07.031",
+    "pmid": "26275359",
+    "pmc": "PMC4565746",
+    "sample_size": 982,
+    "study_type": "cross_sectional_LPA"
+  },
+  {
+    "id": "TLN_Steinhoff2023_LongCoping",
+    "type": "Document",
+    "topic": "longitudinal_coping_predictors",
+    "doc_type": "translation_critique",
+    "date": "2026-04-27",
+    "doi": "10.1177/02724316231181660",
+    "pmid": "39372429",
+    "pmc": "PMC10261967",
+    "sample_size": 786,
+    "study_type": "longitudinal_cohort_9y"
+  },
+  {
+    "id": "GiaiThich_I2",
+    "type": "Document",
+    "topic": "I_squared_heterogeneity_meta_analysis",
+    "doc_type": "methodology_explanation",
+    "date": "2026-04-27"
+  }
+]

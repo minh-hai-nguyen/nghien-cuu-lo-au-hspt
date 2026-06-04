@@ -1,0 +1,2152 @@
+{
+ "meta": {
+  "created": "2026-04-24",
+  "version": "questions-kg-v1",
+  "n_nodes": 110,
+  "n_edges": 278,
+  "node_types": {
+   "Question": 15,
+   "Concept": 64,
+   "Topic": 11,
+   "Doc": 10,
+   "Paper": 10
+  },
+  "edge_relations": {
+   "EXPLAINS": 76,
+   "BELONGS_TO": 15,
+   "ANSWERED_IN": 10,
+   "CITES": 21,
+   "RELATED_TO": 156
+  }
+ },
+ "nodes": [
+  {
+   "id": "QA_01",
+   "type": "Question",
+   "label": "Cohen's d, hoặc Hedges g gọi là gì? Chỉ số hay thước đo, hay công thức? Khi nào ",
+   "topic": "Effect size",
+   "date_asked": "2026-04-20"
+  },
+  {
+   "id": "QA_02",
+   "type": "Question",
+   "label": "Walder et al. (2025) — Meta-analysis 21 RCT về DMHI cho lo âu xã hội. Các tác gi",
+   "topic": "SR/MA methodology",
+   "date_asked": "2026-04-20"
+  },
+  {
+   "id": "QA_03",
+   "type": "Question",
+   "label": "Waitlist cũng đạt tiêu chuẩn chọn lọc nhưng vì sao phải chờ?",
+   "topic": "RCT design",
+   "date_asked": "2026-04-20"
+  },
+  {
+   "id": "QA_04",
+   "type": "Question",
+   "label": "CAMS là RCT đa trung tâm 488 trẻ 7–17 tuổi, từ 'đa trung tâm' này nghĩa là gì?",
+   "topic": "RCT design",
+   "date_asked": "2026-04-20"
+  },
+  {
+   "id": "QA_05",
+   "type": "Question",
+   "label": "ACT ra đời như thế nào? Vì sao chỉ có một nghiên cứu xếp hiệu quả can thiệp của ",
+   "topic": "Psychotherapy history",
+   "date_asked": "2026-04-20"
+  },
+  {
+   "id": "QA_06",
+   "type": "Question",
+   "label": "NNT diễn giải cụ thể như thế nào? Vì sao chỉ số này càng nhỏ thì can thiệp càng ",
+   "topic": "Clinical statistics",
+   "date_asked": "2026-04-20"
+  },
+  {
+   "id": "QA_07",
+   "type": "Question",
+   "label": "Bài Jenkins 2023: 'học sinh nữ có điểm GAD10 cao hơn học sinh nam (p=0,016, kiểm",
+   "topic": "Statistical test",
+   "date_asked": "2026-04-20"
+  },
+  {
+   "id": "QA_08",
+   "type": "Question",
+   "label": "AOR (Adjusted Odds Ratio) — tỷ số chênh lệch đã điều chỉnh được tính toán như th",
+   "topic": "Regression",
+   "date_asked": "2026-04-20"
+  },
+  {
+   "id": "QA_09",
+   "type": "Question",
+   "label": "Đọc PRISMA flow là đọc như thế nào?",
+   "topic": "SR methodology",
+   "date_asked": "2026-04-22"
+  },
+  {
+   "id": "QA_10",
+   "type": "Question",
+   "label": "Chi bình phương là hồi quy đơn biến, phân tích logistic là hồi quy đa biến — các",
+   "topic": "Statistical terminology",
+   "date_asked": "2026-04-22"
+  },
+  {
+   "id": "QA_11",
+   "type": "Question",
+   "label": "Trong Chen 2023: 'Hiệu ứng cụm được điều chỉnh bằng gói survey của R để tính tỷ ",
+   "topic": "Survey methodology",
+   "date_asked": "2026-04-22"
+  },
+  {
+   "id": "QA_12",
+   "type": "Question",
+   "label": "SE có phải là 'size' không? DEFF có phải là 'design effect' không?",
+   "topic": "Statistical terminology",
+   "date_asked": "2026-04-23"
+  },
+  {
+   "id": "QA_13",
+   "type": "Question",
+   "label": "Câu: 'Bỏ qua cấu trúc phân cấp của dữ liệu dẫn đến sai số chuẩn bị đánh giá thấp",
+   "topic": "Statistical interpretation",
+   "date_asked": "2026-04-23"
+  },
+  {
+   "id": "QA_14",
+   "type": "Question",
+   "label": "Tỷ lệ có trọng số (weighted prevalence) nghĩa là như thế nào?",
+   "topic": "Survey methodology",
+   "date_asked": "2026-04-23"
+  },
+  {
+   "id": "QA_15",
+   "type": "Question",
+   "label": "Trong bài 07 có câu: 'khoảng tin cậy khá rộng cho trầm cảm (19,6–27,0%) và lo âu",
+   "topic": "Statistical interpretation",
+   "date_asked": "2026-04-24"
+  },
+  {
+   "id": "CONCEPT_COHEN_S_D",
+   "type": "Concept",
+   "label": "Cohen's d"
+  },
+  {
+   "id": "CONCEPT_HEDGES_G",
+   "type": "Concept",
+   "label": "Hedges' g"
+  },
+  {
+   "id": "CONCEPT_SMD",
+   "type": "Concept",
+   "label": "SMD"
+  },
+  {
+   "id": "CONCEPT_EFFECT_SIZE",
+   "type": "Concept",
+   "label": "Effect size"
+  },
+  {
+   "id": "CONCEPT_COCHRANE",
+   "type": "Concept",
+   "label": "Cochrane"
+  },
+  {
+   "id": "CONCEPT_PICOS",
+   "type": "Concept",
+   "label": "PICOS"
+  },
+  {
+   "id": "CONCEPT_ELIGIBILITY_CRITERIA",
+   "type": "Concept",
+   "label": "Eligibility criteria"
+  },
+  {
+   "id": "CONCEPT_PRISMA_FLOW",
+   "type": "Concept",
+   "label": "PRISMA flow"
+  },
+  {
+   "id": "CONCEPT_SR_VS_MA",
+   "type": "Concept",
+   "label": "SR vs MA"
+  },
+  {
+   "id": "CONCEPT_WAITLIST",
+   "type": "Concept",
+   "label": "Waitlist"
+  },
+  {
+   "id": "CONCEPT_CONTROL_GROUP",
+   "type": "Concept",
+   "label": "Control group"
+  },
+  {
+   "id": "CONCEPT_RCT",
+   "type": "Concept",
+   "label": "RCT"
+  },
+  {
+   "id": "CONCEPT_MULTICENTER_RCT",
+   "type": "Concept",
+   "label": "Multicenter RCT"
+  },
+  {
+   "id": "CONCEPT_CAMS",
+   "type": "Concept",
+   "label": "CAMS"
+  },
+  {
+   "id": "CONCEPT_GENERALIZABILITY",
+   "type": "Concept",
+   "label": "Generalizability"
+  },
+  {
+   "id": "CONCEPT_PROSPERO",
+   "type": "Concept",
+   "label": "PROSPERO"
+  },
+  {
+   "id": "CONCEPT_ACT",
+   "type": "Concept",
+   "label": "ACT"
+  },
+  {
+   "id": "CONCEPT_CBT",
+   "type": "Concept",
+   "label": "CBT"
+  },
+  {
+   "id": "CONCEPT_RFT",
+   "type": "Concept",
+   "label": "RFT"
+  },
+  {
+   "id": "CONCEPT_STEVEN_HAYES",
+   "type": "Concept",
+   "label": "Steven Hayes"
+  },
+  {
+   "id": "CONCEPT_HEXAFLEX",
+   "type": "Concept",
+   "label": "Hexaflex"
+  },
+  {
+   "id": "CONCEPT_THIRD_WAVE",
+   "type": "Concept",
+   "label": "Third wave"
+  },
+  {
+   "id": "CONCEPT_BAYESIAN_NMA",
+   "type": "Concept",
+   "label": "Bayesian NMA"
+  },
+  {
+   "id": "CONCEPT_NNT",
+   "type": "Concept",
+   "label": "NNT"
+  },
+  {
+   "id": "CONCEPT_ARR",
+   "type": "Concept",
+   "label": "ARR"
+  },
+  {
+   "id": "CONCEPT_RESPONSE_RATE",
+   "type": "Concept",
+   "label": "Response rate"
+  },
+  {
+   "id": "CONCEPT_MANN_WHITNEY",
+   "type": "Concept",
+   "label": "Mann-Whitney"
+  },
+  {
+   "id": "CONCEPT_HODGES_LEHMANN",
+   "type": "Concept",
+   "label": "Hodges-Lehmann"
+  },
+  {
+   "id": "CONCEPT_MEDIAN_DIFFERENCE",
+   "type": "Concept",
+   "label": "Median difference"
+  },
+  {
+   "id": "CONCEPT_NON_PARAMETRIC",
+   "type": "Concept",
+   "label": "Non-parametric"
+  },
+  {
+   "id": "CONCEPT_GAD_10",
+   "type": "Concept",
+   "label": "GAD-10"
+  },
+  {
+   "id": "CONCEPT_AOR",
+   "type": "Concept",
+   "label": "AOR"
+  },
+  {
+   "id": "CONCEPT_OR",
+   "type": "Concept",
+   "label": "OR"
+  },
+  {
+   "id": "CONCEPT_LOGISTIC_REGRESSION",
+   "type": "Concept",
+   "label": "Logistic regression"
+  },
+  {
+   "id": "CONCEPT_MULTIVARIABLE",
+   "type": "Concept",
+   "label": "Multivariable"
+  },
+  {
+   "id": "CONCEPT_CONFOUNDING",
+   "type": "Concept",
+   "label": "Confounding"
+  },
+  {
+   "id": "CONCEPT_Β_COEFFICIENT",
+   "type": "Concept",
+   "label": "β coefficient"
+  },
+  {
+   "id": "CONCEPT_PRISMA",
+   "type": "Concept",
+   "label": "PRISMA"
+  },
+  {
+   "id": "CONCEPT_FLOW_DIAGRAM",
+   "type": "Concept",
+   "label": "Flow diagram"
+  },
+  {
+   "id": "CONCEPT_SCREENING",
+   "type": "Concept",
+   "label": "Screening"
+  },
+  {
+   "id": "CONCEPT_ELIGIBILITY",
+   "type": "Concept",
+   "label": "Eligibility"
+  },
+  {
+   "id": "CONCEPT_RISK_OF_BIAS",
+   "type": "Concept",
+   "label": "Risk of bias"
+  },
+  {
+   "id": "CONCEPT_CHI_SQUARE",
+   "type": "Concept",
+   "label": "Chi-square"
+  },
+  {
+   "id": "CONCEPT_UNIVARIABLE",
+   "type": "Concept",
+   "label": "Univariable"
+  },
+  {
+   "id": "CONCEPT_HYPOTHESIS_TESTING",
+   "type": "Concept",
+   "label": "Hypothesis testing"
+  },
+  {
+   "id": "CONCEPT_CLUSTER_EFFECT",
+   "type": "Concept",
+   "label": "Cluster effect"
+  },
+  {
+   "id": "CONCEPT_ICC",
+   "type": "Concept",
+   "label": "ICC"
+  },
+  {
+   "id": "CONCEPT_WEIGHTED_PREVALENCE",
+   "type": "Concept",
+   "label": "Weighted prevalence"
+  },
+  {
+   "id": "CONCEPT_SURVEY_PACKAGE_R",
+   "type": "Concept",
+   "label": "survey package R"
+  },
+  {
+   "id": "CONCEPT_DESIGN_EFFECT",
+   "type": "Concept",
+   "label": "Design effect"
+  },
+  {
+   "id": "CONCEPT_SE",
+   "type": "Concept",
+   "label": "SE"
+  },
+  {
+   "id": "CONCEPT_DEFF",
+   "type": "Concept",
+   "label": "DEFF"
+  },
+  {
+   "id": "CONCEPT_SAMPLE_SIZE",
+   "type": "Concept",
+   "label": "Sample size"
+  },
+  {
+   "id": "CONCEPT_STANDARD_ERROR",
+   "type": "Concept",
+   "label": "Standard error"
+  },
+  {
+   "id": "CONCEPT_UNDERESTIMATION",
+   "type": "Concept",
+   "label": "Underestimation"
+  },
+  {
+   "id": "CONCEPT_INFLATED_SIGNIFICANCE",
+   "type": "Concept",
+   "label": "Inflated significance"
+  },
+  {
+   "id": "CONCEPT_TYPE_I_ERROR",
+   "type": "Concept",
+   "label": "Type I error"
+  },
+  {
+   "id": "CONCEPT_SAMPLING_WEIGHT",
+   "type": "Concept",
+   "label": "Sampling weight"
+  },
+  {
+   "id": "CONCEPT_NON_RESPONSE",
+   "type": "Concept",
+   "label": "Non-response"
+  },
+  {
+   "id": "CONCEPT_POST_STRATIFICATION",
+   "type": "Concept",
+   "label": "Post-stratification"
+  },
+  {
+   "id": "CONCEPT_CONFIDENCE_INTERVAL",
+   "type": "Concept",
+   "label": "Confidence interval"
+  },
+  {
+   "id": "CONCEPT_CI_WIDTH",
+   "type": "Concept",
+   "label": "CI width"
+  },
+  {
+   "id": "CONCEPT_PRECISION",
+   "type": "Concept",
+   "label": "Precision"
+  },
+  {
+   "id": "CONCEPT_EFFECTIVE_SAMPLE_SIZE",
+   "type": "Concept",
+   "label": "Effective sample size"
+  },
+  {
+   "id": "TOPIC_EFFECT_SIZE",
+   "type": "Topic",
+   "label": "Effect size"
+  },
+  {
+   "id": "TOPIC_SR_MA_METHODOLOGY",
+   "type": "Topic",
+   "label": "SR/MA methodology"
+  },
+  {
+   "id": "TOPIC_RCT_DESIGN",
+   "type": "Topic",
+   "label": "RCT design"
+  },
+  {
+   "id": "TOPIC_PSYCHOTHERAPY_HISTORY",
+   "type": "Topic",
+   "label": "Psychotherapy history"
+  },
+  {
+   "id": "TOPIC_CLINICAL_STATISTICS",
+   "type": "Topic",
+   "label": "Clinical statistics"
+  },
+  {
+   "id": "TOPIC_STATISTICAL_TEST",
+   "type": "Topic",
+   "label": "Statistical test"
+  },
+  {
+   "id": "TOPIC_REGRESSION",
+   "type": "Topic",
+   "label": "Regression"
+  },
+  {
+   "id": "TOPIC_SR_METHODOLOGY",
+   "type": "Topic",
+   "label": "SR methodology"
+  },
+  {
+   "id": "TOPIC_STATISTICAL_TERMINOLOGY",
+   "type": "Topic",
+   "label": "Statistical terminology"
+  },
+  {
+   "id": "TOPIC_SURVEY_METHODOLOGY",
+   "type": "Topic",
+   "label": "Survey methodology"
+  },
+  {
+   "id": "TOPIC_STATISTICAL_INTERPRETATION",
+   "type": "Topic",
+   "label": "Statistical interpretation"
+  },
+  {
+   "id": "DOC_glossary_json_v3_1",
+   "type": "Doc",
+   "label": "glossary.json (v3.1)"
+  },
+  {
+   "id": "DOC_01_Bao_cao_QT040_Walder_2025_Quy_trinh_loc_22_vs_2",
+   "type": "Doc",
+   "label": "01_Bao-cao/QT040_Walder_2025_Quy_trinh_loc_22_vs_21.docx"
+  },
+  {
+   "id": "DOC_01_Bao_cao_CAMS_RCT_da_trung_tam_la_gi_docx",
+   "type": "Doc",
+   "label": "01_Bao-cao/CAMS_RCT_da_trung_tam_la_gi.docx"
+  },
+  {
+   "id": "DOC_01_Bao_cao_ACT_ra_doi_va_vi_sao_xep_hang_cao_hon_C",
+   "type": "Doc",
+   "label": "01_Bao-cao/ACT_ra_doi_va_vi_sao_xep_hang_cao_hon_CBT.docx"
+  },
+  {
+   "id": "DOC_01_Bao_cao_NNT_dien_giai_va_vi_sao_cang_nho_cang_h",
+   "type": "Doc",
+   "label": "01_Bao-cao/NNT_dien_giai_va_vi_sao_cang_nho_cang_hieu_qua.docx"
+  },
+  {
+   "id": "DOC_01_Bao_cao_NNT_va_MannWhitney_chenh_lech_trung_vi_",
+   "type": "Doc",
+   "label": "01_Bao-cao/NNT_va_MannWhitney_chenh_lech_trung_vi.docx"
+  },
+  {
+   "id": "DOC_01_Bao_cao_AOR_Adjusted_Odds_Ratio_cach_tinh_docx",
+   "type": "Doc",
+   "label": "01_Bao-cao/AOR_Adjusted_Odds_Ratio_cach_tinh.docx"
+  },
+  {
+   "id": "DOC_01_Bao_cao_PRISMA_flow_cach_doc_tung_buoc_docx",
+   "type": "Doc",
+   "label": "01_Bao-cao/PRISMA_flow_cach_doc_tung_buoc.docx"
+  },
+  {
+   "id": "DOC_01_Bao_cao_Weighted_prevalence_ty_le_co_trong_so_d",
+   "type": "Doc",
+   "label": "01_Bao-cao/Weighted_prevalence_ty_le_co_trong_so.docx"
+  },
+  {
+   "id": "DOC_01_Bao_cao_KTC_rong_hep_vua_du_Chen_2023_docx",
+   "type": "Doc",
+   "label": "01_Bao-cao/KTC_rong_hep_vua_du_Chen_2023.docx"
+  },
+  {
+   "id": "PAPER_QT049",
+   "type": "Paper",
+   "label": "QT049"
+  },
+  {
+   "id": "PAPER_QT029",
+   "type": "Paper",
+   "label": "QT029"
+  },
+  {
+   "id": "PAPER_QT040",
+   "type": "Paper",
+   "label": "QT040"
+  },
+  {
+   "id": "PAPER_QT028",
+   "type": "Paper",
+   "label": "QT028"
+  },
+  {
+   "id": "PAPER_CAMS_Walkup_2008",
+   "type": "Paper",
+   "label": "CAMS_Walkup_2008"
+  },
+  {
+   "id": "PAPER_QT001",
+   "type": "Paper",
+   "label": "QT001"
+  },
+  {
+   "id": "PAPER_QT05_Zhu",
+   "type": "Paper",
+   "label": "QT05_Zhu"
+  },
+  {
+   "id": "PAPER_QT23_JAACAP",
+   "type": "Paper",
+   "label": "QT23_JAACAP"
+  },
+  {
+   "id": "PAPER_QT31_Islam",
+   "type": "Paper",
+   "label": "QT31_Islam"
+  },
+  {
+   "id": "PAPER_QT007_Chen_2023",
+   "type": "Paper",
+   "label": "QT007_Chen_2023"
+  }
+ ],
+ "edges": [
+  {
+   "source": "QA_01",
+   "target": "CONCEPT_COHEN_S_D",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_01",
+   "target": "CONCEPT_HEDGES_G",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_01",
+   "target": "CONCEPT_SMD",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_01",
+   "target": "CONCEPT_EFFECT_SIZE",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_01",
+   "target": "CONCEPT_COCHRANE",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_02",
+   "target": "CONCEPT_PICOS",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_02",
+   "target": "CONCEPT_ELIGIBILITY_CRITERIA",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_02",
+   "target": "CONCEPT_PRISMA_FLOW",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_02",
+   "target": "CONCEPT_SR_VS_MA",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_03",
+   "target": "CONCEPT_WAITLIST",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_03",
+   "target": "CONCEPT_CONTROL_GROUP",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_03",
+   "target": "CONCEPT_RCT",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_03",
+   "target": "CONCEPT_EFFECT_SIZE",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_04",
+   "target": "CONCEPT_MULTICENTER_RCT",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_04",
+   "target": "CONCEPT_CAMS",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_04",
+   "target": "CONCEPT_GENERALIZABILITY",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_04",
+   "target": "CONCEPT_PROSPERO",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_05",
+   "target": "CONCEPT_ACT",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_05",
+   "target": "CONCEPT_CBT",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_05",
+   "target": "CONCEPT_RFT",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_05",
+   "target": "CONCEPT_STEVEN_HAYES",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_05",
+   "target": "CONCEPT_HEXAFLEX",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_05",
+   "target": "CONCEPT_THIRD_WAVE",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_05",
+   "target": "CONCEPT_BAYESIAN_NMA",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_06",
+   "target": "CONCEPT_NNT",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_06",
+   "target": "CONCEPT_ARR",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_06",
+   "target": "CONCEPT_RESPONSE_RATE",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_06",
+   "target": "CONCEPT_CAMS",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_06",
+   "target": "CONCEPT_EFFECT_SIZE",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_07",
+   "target": "CONCEPT_MANN_WHITNEY",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_07",
+   "target": "CONCEPT_HODGES_LEHMANN",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_07",
+   "target": "CONCEPT_MEDIAN_DIFFERENCE",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_07",
+   "target": "CONCEPT_NON_PARAMETRIC",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_07",
+   "target": "CONCEPT_GAD_10",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_08",
+   "target": "CONCEPT_AOR",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_08",
+   "target": "CONCEPT_OR",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_08",
+   "target": "CONCEPT_LOGISTIC_REGRESSION",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_08",
+   "target": "CONCEPT_MULTIVARIABLE",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_08",
+   "target": "CONCEPT_CONFOUNDING",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_08",
+   "target": "CONCEPT_Β_COEFFICIENT",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_09",
+   "target": "CONCEPT_PRISMA",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_09",
+   "target": "CONCEPT_FLOW_DIAGRAM",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_09",
+   "target": "CONCEPT_SCREENING",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_09",
+   "target": "CONCEPT_ELIGIBILITY",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_09",
+   "target": "CONCEPT_RISK_OF_BIAS",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_10",
+   "target": "CONCEPT_CHI_SQUARE",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_10",
+   "target": "CONCEPT_LOGISTIC_REGRESSION",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_10",
+   "target": "CONCEPT_UNIVARIABLE",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_10",
+   "target": "CONCEPT_MULTIVARIABLE",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_10",
+   "target": "CONCEPT_HYPOTHESIS_TESTING",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_11",
+   "target": "CONCEPT_CLUSTER_EFFECT",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_11",
+   "target": "CONCEPT_ICC",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_11",
+   "target": "CONCEPT_WEIGHTED_PREVALENCE",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_11",
+   "target": "CONCEPT_SURVEY_PACKAGE_R",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_11",
+   "target": "CONCEPT_DESIGN_EFFECT",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_12",
+   "target": "CONCEPT_SE",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_12",
+   "target": "CONCEPT_DEFF",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_12",
+   "target": "CONCEPT_DESIGN_EFFECT",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_12",
+   "target": "CONCEPT_SAMPLE_SIZE",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_12",
+   "target": "CONCEPT_EFFECT_SIZE",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_12",
+   "target": "CONCEPT_ICC",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_13",
+   "target": "CONCEPT_STANDARD_ERROR",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_13",
+   "target": "CONCEPT_UNDERESTIMATION",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_13",
+   "target": "CONCEPT_INFLATED_SIGNIFICANCE",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_13",
+   "target": "CONCEPT_TYPE_I_ERROR",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_13",
+   "target": "CONCEPT_CLUSTER_EFFECT",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_14",
+   "target": "CONCEPT_WEIGHTED_PREVALENCE",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_14",
+   "target": "CONCEPT_SAMPLING_WEIGHT",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_14",
+   "target": "CONCEPT_NON_RESPONSE",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_14",
+   "target": "CONCEPT_POST_STRATIFICATION",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_14",
+   "target": "CONCEPT_SURVEY_PACKAGE_R",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_15",
+   "target": "CONCEPT_CONFIDENCE_INTERVAL",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_15",
+   "target": "CONCEPT_CI_WIDTH",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_15",
+   "target": "CONCEPT_PRECISION",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_15",
+   "target": "CONCEPT_DESIGN_EFFECT",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_15",
+   "target": "CONCEPT_EFFECTIVE_SAMPLE_SIZE",
+   "relation": "EXPLAINS"
+  },
+  {
+   "source": "QA_01",
+   "target": "TOPIC_EFFECT_SIZE",
+   "relation": "BELONGS_TO"
+  },
+  {
+   "source": "QA_02",
+   "target": "TOPIC_SR_MA_METHODOLOGY",
+   "relation": "BELONGS_TO"
+  },
+  {
+   "source": "QA_03",
+   "target": "TOPIC_RCT_DESIGN",
+   "relation": "BELONGS_TO"
+  },
+  {
+   "source": "QA_04",
+   "target": "TOPIC_RCT_DESIGN",
+   "relation": "BELONGS_TO"
+  },
+  {
+   "source": "QA_05",
+   "target": "TOPIC_PSYCHOTHERAPY_HISTORY",
+   "relation": "BELONGS_TO"
+  },
+  {
+   "source": "QA_06",
+   "target": "TOPIC_CLINICAL_STATISTICS",
+   "relation": "BELONGS_TO"
+  },
+  {
+   "source": "QA_07",
+   "target": "TOPIC_STATISTICAL_TEST",
+   "relation": "BELONGS_TO"
+  },
+  {
+   "source": "QA_08",
+   "target": "TOPIC_REGRESSION",
+   "relation": "BELONGS_TO"
+  },
+  {
+   "source": "QA_09",
+   "target": "TOPIC_SR_METHODOLOGY",
+   "relation": "BELONGS_TO"
+  },
+  {
+   "source": "QA_10",
+   "target": "TOPIC_STATISTICAL_TERMINOLOGY",
+   "relation": "BELONGS_TO"
+  },
+  {
+   "source": "QA_11",
+   "target": "TOPIC_SURVEY_METHODOLOGY",
+   "relation": "BELONGS_TO"
+  },
+  {
+   "source": "QA_12",
+   "target": "TOPIC_STATISTICAL_TERMINOLOGY",
+   "relation": "BELONGS_TO"
+  },
+  {
+   "source": "QA_13",
+   "target": "TOPIC_STATISTICAL_INTERPRETATION",
+   "relation": "BELONGS_TO"
+  },
+  {
+   "source": "QA_14",
+   "target": "TOPIC_SURVEY_METHODOLOGY",
+   "relation": "BELONGS_TO"
+  },
+  {
+   "source": "QA_15",
+   "target": "TOPIC_STATISTICAL_INTERPRETATION",
+   "relation": "BELONGS_TO"
+  },
+  {
+   "source": "QA_01",
+   "target": "DOC_glossary_json_v3_1",
+   "relation": "ANSWERED_IN"
+  },
+  {
+   "source": "QA_02",
+   "target": "DOC_01_Bao_cao_QT040_Walder_2025_Quy_trinh_loc_22_vs_2",
+   "relation": "ANSWERED_IN"
+  },
+  {
+   "source": "QA_04",
+   "target": "DOC_01_Bao_cao_CAMS_RCT_da_trung_tam_la_gi_docx",
+   "relation": "ANSWERED_IN"
+  },
+  {
+   "source": "QA_05",
+   "target": "DOC_01_Bao_cao_ACT_ra_doi_va_vi_sao_xep_hang_cao_hon_C",
+   "relation": "ANSWERED_IN"
+  },
+  {
+   "source": "QA_06",
+   "target": "DOC_01_Bao_cao_NNT_dien_giai_va_vi_sao_cang_nho_cang_h",
+   "relation": "ANSWERED_IN"
+  },
+  {
+   "source": "QA_07",
+   "target": "DOC_01_Bao_cao_NNT_va_MannWhitney_chenh_lech_trung_vi_",
+   "relation": "ANSWERED_IN"
+  },
+  {
+   "source": "QA_08",
+   "target": "DOC_01_Bao_cao_AOR_Adjusted_Odds_Ratio_cach_tinh_docx",
+   "relation": "ANSWERED_IN"
+  },
+  {
+   "source": "QA_09",
+   "target": "DOC_01_Bao_cao_PRISMA_flow_cach_doc_tung_buoc_docx",
+   "relation": "ANSWERED_IN"
+  },
+  {
+   "source": "QA_14",
+   "target": "DOC_01_Bao_cao_Weighted_prevalence_ty_le_co_trong_so_d",
+   "relation": "ANSWERED_IN"
+  },
+  {
+   "source": "QA_15",
+   "target": "DOC_01_Bao_cao_KTC_rong_hep_vua_du_Chen_2023_docx",
+   "relation": "ANSWERED_IN"
+  },
+  {
+   "source": "QA_01",
+   "target": "PAPER_QT049",
+   "relation": "CITES"
+  },
+  {
+   "source": "QA_01",
+   "target": "PAPER_QT029",
+   "relation": "CITES"
+  },
+  {
+   "source": "QA_01",
+   "target": "PAPER_QT040",
+   "relation": "CITES"
+  },
+  {
+   "source": "QA_02",
+   "target": "PAPER_QT040",
+   "relation": "CITES"
+  },
+  {
+   "source": "QA_03",
+   "target": "PAPER_QT040",
+   "relation": "CITES"
+  },
+  {
+   "source": "QA_04",
+   "target": "PAPER_QT028",
+   "relation": "CITES"
+  },
+  {
+   "source": "QA_04",
+   "target": "PAPER_CAMS_Walkup_2008",
+   "relation": "CITES"
+  },
+  {
+   "source": "QA_05",
+   "target": "PAPER_QT029",
+   "relation": "CITES"
+  },
+  {
+   "source": "QA_05",
+   "target": "PAPER_QT028",
+   "relation": "CITES"
+  },
+  {
+   "source": "QA_06",
+   "target": "PAPER_QT028",
+   "relation": "CITES"
+  },
+  {
+   "source": "QA_06",
+   "target": "PAPER_CAMS_Walkup_2008",
+   "relation": "CITES"
+  },
+  {
+   "source": "QA_07",
+   "target": "PAPER_QT001",
+   "relation": "CITES"
+  },
+  {
+   "source": "QA_08",
+   "target": "PAPER_QT05_Zhu",
+   "relation": "CITES"
+  },
+  {
+   "source": "QA_08",
+   "target": "PAPER_QT23_JAACAP",
+   "relation": "CITES"
+  },
+  {
+   "source": "QA_08",
+   "target": "PAPER_QT31_Islam",
+   "relation": "CITES"
+  },
+  {
+   "source": "QA_09",
+   "target": "PAPER_QT040",
+   "relation": "CITES"
+  },
+  {
+   "source": "QA_09",
+   "target": "PAPER_QT029",
+   "relation": "CITES"
+  },
+  {
+   "source": "QA_11",
+   "target": "PAPER_QT007_Chen_2023",
+   "relation": "CITES"
+  },
+  {
+   "source": "QA_13",
+   "target": "PAPER_QT007_Chen_2023",
+   "relation": "CITES"
+  },
+  {
+   "source": "QA_14",
+   "target": "PAPER_QT007_Chen_2023",
+   "relation": "CITES"
+  },
+  {
+   "source": "QA_15",
+   "target": "PAPER_QT007_Chen_2023",
+   "relation": "CITES"
+  },
+  {
+   "source": "CONCEPT_COCHRANE",
+   "target": "CONCEPT_COHEN_S_D",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_COCHRANE",
+   "target": "CONCEPT_EFFECT_SIZE",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_COCHRANE",
+   "target": "CONCEPT_HEDGES_G",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_COCHRANE",
+   "target": "CONCEPT_SMD",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_COHEN_S_D",
+   "target": "CONCEPT_EFFECT_SIZE",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_COHEN_S_D",
+   "target": "CONCEPT_HEDGES_G",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_COHEN_S_D",
+   "target": "CONCEPT_SMD",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_EFFECT_SIZE",
+   "target": "CONCEPT_HEDGES_G",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_EFFECT_SIZE",
+   "target": "CONCEPT_SMD",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_HEDGES_G",
+   "target": "CONCEPT_SMD",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_ELIGIBILITY_CRITERIA",
+   "target": "CONCEPT_PICOS",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_ELIGIBILITY_CRITERIA",
+   "target": "CONCEPT_PRISMA_FLOW",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_ELIGIBILITY_CRITERIA",
+   "target": "CONCEPT_SR_VS_MA",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_PICOS",
+   "target": "CONCEPT_PRISMA_FLOW",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_PICOS",
+   "target": "CONCEPT_SR_VS_MA",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_PRISMA_FLOW",
+   "target": "CONCEPT_SR_VS_MA",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_CONTROL_GROUP",
+   "target": "CONCEPT_EFFECT_SIZE",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_CONTROL_GROUP",
+   "target": "CONCEPT_RCT",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_CONTROL_GROUP",
+   "target": "CONCEPT_WAITLIST",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_EFFECT_SIZE",
+   "target": "CONCEPT_RCT",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_EFFECT_SIZE",
+   "target": "CONCEPT_WAITLIST",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_RCT",
+   "target": "CONCEPT_WAITLIST",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_CAMS",
+   "target": "CONCEPT_GENERALIZABILITY",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_CAMS",
+   "target": "CONCEPT_MULTICENTER_RCT",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_CAMS",
+   "target": "CONCEPT_PROSPERO",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_GENERALIZABILITY",
+   "target": "CONCEPT_MULTICENTER_RCT",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_GENERALIZABILITY",
+   "target": "CONCEPT_PROSPERO",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_MULTICENTER_RCT",
+   "target": "CONCEPT_PROSPERO",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_ACT",
+   "target": "CONCEPT_BAYESIAN_NMA",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_ACT",
+   "target": "CONCEPT_CBT",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_ACT",
+   "target": "CONCEPT_HEXAFLEX",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_ACT",
+   "target": "CONCEPT_RFT",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_ACT",
+   "target": "CONCEPT_STEVEN_HAYES",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_ACT",
+   "target": "CONCEPT_THIRD_WAVE",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_BAYESIAN_NMA",
+   "target": "CONCEPT_CBT",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_BAYESIAN_NMA",
+   "target": "CONCEPT_HEXAFLEX",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_BAYESIAN_NMA",
+   "target": "CONCEPT_RFT",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_BAYESIAN_NMA",
+   "target": "CONCEPT_STEVEN_HAYES",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_BAYESIAN_NMA",
+   "target": "CONCEPT_THIRD_WAVE",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_CBT",
+   "target": "CONCEPT_HEXAFLEX",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_CBT",
+   "target": "CONCEPT_RFT",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_CBT",
+   "target": "CONCEPT_STEVEN_HAYES",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_CBT",
+   "target": "CONCEPT_THIRD_WAVE",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_HEXAFLEX",
+   "target": "CONCEPT_RFT",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_HEXAFLEX",
+   "target": "CONCEPT_STEVEN_HAYES",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_HEXAFLEX",
+   "target": "CONCEPT_THIRD_WAVE",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_RFT",
+   "target": "CONCEPT_STEVEN_HAYES",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_RFT",
+   "target": "CONCEPT_THIRD_WAVE",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_STEVEN_HAYES",
+   "target": "CONCEPT_THIRD_WAVE",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_ARR",
+   "target": "CONCEPT_CAMS",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_ARR",
+   "target": "CONCEPT_EFFECT_SIZE",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_ARR",
+   "target": "CONCEPT_NNT",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_ARR",
+   "target": "CONCEPT_RESPONSE_RATE",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_CAMS",
+   "target": "CONCEPT_EFFECT_SIZE",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_CAMS",
+   "target": "CONCEPT_NNT",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_CAMS",
+   "target": "CONCEPT_RESPONSE_RATE",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_EFFECT_SIZE",
+   "target": "CONCEPT_NNT",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_EFFECT_SIZE",
+   "target": "CONCEPT_RESPONSE_RATE",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_NNT",
+   "target": "CONCEPT_RESPONSE_RATE",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_GAD_10",
+   "target": "CONCEPT_HODGES_LEHMANN",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_GAD_10",
+   "target": "CONCEPT_MANN_WHITNEY",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_GAD_10",
+   "target": "CONCEPT_MEDIAN_DIFFERENCE",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_GAD_10",
+   "target": "CONCEPT_NON_PARAMETRIC",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_HODGES_LEHMANN",
+   "target": "CONCEPT_MANN_WHITNEY",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_HODGES_LEHMANN",
+   "target": "CONCEPT_MEDIAN_DIFFERENCE",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_HODGES_LEHMANN",
+   "target": "CONCEPT_NON_PARAMETRIC",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_MANN_WHITNEY",
+   "target": "CONCEPT_MEDIAN_DIFFERENCE",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_MANN_WHITNEY",
+   "target": "CONCEPT_NON_PARAMETRIC",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_MEDIAN_DIFFERENCE",
+   "target": "CONCEPT_NON_PARAMETRIC",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_AOR",
+   "target": "CONCEPT_CONFOUNDING",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_AOR",
+   "target": "CONCEPT_LOGISTIC_REGRESSION",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_AOR",
+   "target": "CONCEPT_MULTIVARIABLE",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_AOR",
+   "target": "CONCEPT_OR",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_AOR",
+   "target": "CONCEPT_Β_COEFFICIENT",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_CONFOUNDING",
+   "target": "CONCEPT_LOGISTIC_REGRESSION",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_CONFOUNDING",
+   "target": "CONCEPT_MULTIVARIABLE",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_CONFOUNDING",
+   "target": "CONCEPT_OR",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_CONFOUNDING",
+   "target": "CONCEPT_Β_COEFFICIENT",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_LOGISTIC_REGRESSION",
+   "target": "CONCEPT_MULTIVARIABLE",
+   "relation": "RELATED_TO",
+   "weight": 2
+  },
+  {
+   "source": "CONCEPT_LOGISTIC_REGRESSION",
+   "target": "CONCEPT_OR",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_LOGISTIC_REGRESSION",
+   "target": "CONCEPT_Β_COEFFICIENT",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_MULTIVARIABLE",
+   "target": "CONCEPT_OR",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_MULTIVARIABLE",
+   "target": "CONCEPT_Β_COEFFICIENT",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_OR",
+   "target": "CONCEPT_Β_COEFFICIENT",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_ELIGIBILITY",
+   "target": "CONCEPT_FLOW_DIAGRAM",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_ELIGIBILITY",
+   "target": "CONCEPT_PRISMA",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_ELIGIBILITY",
+   "target": "CONCEPT_RISK_OF_BIAS",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_ELIGIBILITY",
+   "target": "CONCEPT_SCREENING",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_FLOW_DIAGRAM",
+   "target": "CONCEPT_PRISMA",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_FLOW_DIAGRAM",
+   "target": "CONCEPT_RISK_OF_BIAS",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_FLOW_DIAGRAM",
+   "target": "CONCEPT_SCREENING",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_PRISMA",
+   "target": "CONCEPT_RISK_OF_BIAS",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_PRISMA",
+   "target": "CONCEPT_SCREENING",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_RISK_OF_BIAS",
+   "target": "CONCEPT_SCREENING",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_CHI_SQUARE",
+   "target": "CONCEPT_HYPOTHESIS_TESTING",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_CHI_SQUARE",
+   "target": "CONCEPT_LOGISTIC_REGRESSION",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_CHI_SQUARE",
+   "target": "CONCEPT_MULTIVARIABLE",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_CHI_SQUARE",
+   "target": "CONCEPT_UNIVARIABLE",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_HYPOTHESIS_TESTING",
+   "target": "CONCEPT_LOGISTIC_REGRESSION",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_HYPOTHESIS_TESTING",
+   "target": "CONCEPT_MULTIVARIABLE",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_HYPOTHESIS_TESTING",
+   "target": "CONCEPT_UNIVARIABLE",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_LOGISTIC_REGRESSION",
+   "target": "CONCEPT_UNIVARIABLE",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_MULTIVARIABLE",
+   "target": "CONCEPT_UNIVARIABLE",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_CLUSTER_EFFECT",
+   "target": "CONCEPT_DESIGN_EFFECT",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_CLUSTER_EFFECT",
+   "target": "CONCEPT_ICC",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_CLUSTER_EFFECT",
+   "target": "CONCEPT_SURVEY_PACKAGE_R",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_CLUSTER_EFFECT",
+   "target": "CONCEPT_WEIGHTED_PREVALENCE",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_DESIGN_EFFECT",
+   "target": "CONCEPT_ICC",
+   "relation": "RELATED_TO",
+   "weight": 2
+  },
+  {
+   "source": "CONCEPT_DESIGN_EFFECT",
+   "target": "CONCEPT_SURVEY_PACKAGE_R",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_DESIGN_EFFECT",
+   "target": "CONCEPT_WEIGHTED_PREVALENCE",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_ICC",
+   "target": "CONCEPT_SURVEY_PACKAGE_R",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_ICC",
+   "target": "CONCEPT_WEIGHTED_PREVALENCE",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_SURVEY_PACKAGE_R",
+   "target": "CONCEPT_WEIGHTED_PREVALENCE",
+   "relation": "RELATED_TO",
+   "weight": 2
+  },
+  {
+   "source": "CONCEPT_DEFF",
+   "target": "CONCEPT_DESIGN_EFFECT",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_DEFF",
+   "target": "CONCEPT_EFFECT_SIZE",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_DEFF",
+   "target": "CONCEPT_ICC",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_DEFF",
+   "target": "CONCEPT_SAMPLE_SIZE",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_DEFF",
+   "target": "CONCEPT_SE",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_DESIGN_EFFECT",
+   "target": "CONCEPT_EFFECT_SIZE",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_DESIGN_EFFECT",
+   "target": "CONCEPT_SAMPLE_SIZE",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_DESIGN_EFFECT",
+   "target": "CONCEPT_SE",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_EFFECT_SIZE",
+   "target": "CONCEPT_ICC",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_EFFECT_SIZE",
+   "target": "CONCEPT_SAMPLE_SIZE",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_EFFECT_SIZE",
+   "target": "CONCEPT_SE",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_ICC",
+   "target": "CONCEPT_SAMPLE_SIZE",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_ICC",
+   "target": "CONCEPT_SE",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_SAMPLE_SIZE",
+   "target": "CONCEPT_SE",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_CLUSTER_EFFECT",
+   "target": "CONCEPT_INFLATED_SIGNIFICANCE",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_CLUSTER_EFFECT",
+   "target": "CONCEPT_STANDARD_ERROR",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_CLUSTER_EFFECT",
+   "target": "CONCEPT_TYPE_I_ERROR",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_CLUSTER_EFFECT",
+   "target": "CONCEPT_UNDERESTIMATION",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_INFLATED_SIGNIFICANCE",
+   "target": "CONCEPT_STANDARD_ERROR",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_INFLATED_SIGNIFICANCE",
+   "target": "CONCEPT_TYPE_I_ERROR",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_INFLATED_SIGNIFICANCE",
+   "target": "CONCEPT_UNDERESTIMATION",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_STANDARD_ERROR",
+   "target": "CONCEPT_TYPE_I_ERROR",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_STANDARD_ERROR",
+   "target": "CONCEPT_UNDERESTIMATION",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_TYPE_I_ERROR",
+   "target": "CONCEPT_UNDERESTIMATION",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_NON_RESPONSE",
+   "target": "CONCEPT_POST_STRATIFICATION",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_NON_RESPONSE",
+   "target": "CONCEPT_SAMPLING_WEIGHT",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_NON_RESPONSE",
+   "target": "CONCEPT_SURVEY_PACKAGE_R",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_NON_RESPONSE",
+   "target": "CONCEPT_WEIGHTED_PREVALENCE",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_POST_STRATIFICATION",
+   "target": "CONCEPT_SAMPLING_WEIGHT",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_POST_STRATIFICATION",
+   "target": "CONCEPT_SURVEY_PACKAGE_R",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_POST_STRATIFICATION",
+   "target": "CONCEPT_WEIGHTED_PREVALENCE",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_SAMPLING_WEIGHT",
+   "target": "CONCEPT_SURVEY_PACKAGE_R",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_SAMPLING_WEIGHT",
+   "target": "CONCEPT_WEIGHTED_PREVALENCE",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_CI_WIDTH",
+   "target": "CONCEPT_CONFIDENCE_INTERVAL",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_CI_WIDTH",
+   "target": "CONCEPT_DESIGN_EFFECT",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_CI_WIDTH",
+   "target": "CONCEPT_EFFECTIVE_SAMPLE_SIZE",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_CI_WIDTH",
+   "target": "CONCEPT_PRECISION",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_CONFIDENCE_INTERVAL",
+   "target": "CONCEPT_DESIGN_EFFECT",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_CONFIDENCE_INTERVAL",
+   "target": "CONCEPT_EFFECTIVE_SAMPLE_SIZE",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_CONFIDENCE_INTERVAL",
+   "target": "CONCEPT_PRECISION",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_DESIGN_EFFECT",
+   "target": "CONCEPT_EFFECTIVE_SAMPLE_SIZE",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_DESIGN_EFFECT",
+   "target": "CONCEPT_PRECISION",
+   "relation": "RELATED_TO",
+   "weight": 1
+  },
+  {
+   "source": "CONCEPT_EFFECTIVE_SAMPLE_SIZE",
+   "target": "CONCEPT_PRECISION",
+   "relation": "RELATED_TO",
+   "weight": 1
+  }
+ ]
+}

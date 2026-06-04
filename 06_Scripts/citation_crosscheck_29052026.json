@@ -1,0 +1,879 @@
+{
+  "total_citations": 191,
+  "matched": 56,
+  "unmatched": [
+    {
+      "file": "TT_EN",
+      "author": "Carver",
+      "year": "1997",
+      "context": "(Carver, 1997)"
+    },
+    {
+      "file": "TT_EN",
+      "author": "Bhardwaj et al.",
+      "year": "2020",
+      "context": "Bhardwaj et al. (2020)"
+    },
+    {
+      "file": "TY",
+      "author": "Carver",
+      "year": "1997",
+      "context": "(Carver, 1997)"
+    },
+    {
+      "file": "BaiA",
+      "author": "Hayes & Coutts",
+      "year": "2020",
+      "context": "(Hayes & Coutts 2020)"
+    },
+    {
+      "file": "BaiA",
+      "author": "Compas et al.",
+      "year": "2017",
+      "context": "Compas et al. (2017)"
+    },
+    {
+      "file": "BaiA",
+      "author": "Borkovec et al.",
+      "year": "2004",
+      "context": "(Borkovec et al. 2004)"
+    },
+    {
+      "file": "BaiA",
+      "author": "Raniti et al.",
+      "year": "2022",
+      "context": "(Raniti et al., 2022)"
+    },
+    {
+      "file": "BaiA",
+      "author": "Bronfenbrenner & Morris",
+      "year": "2006",
+      "context": "(Bronfenbrenner & Morris, 2006)"
+    },
+    {
+      "file": "BaiA",
+      "author": "Kajastus et al.",
+      "year": "2024",
+      "context": "Kajastus et al. (2024)"
+    },
+    {
+      "file": "BaiA",
+      "author": "Hu & Bentler",
+      "year": "1999",
+      "context": "(Hu & Bentler 1999)"
+    },
+    {
+      "file": "BaiD",
+      "author": "Bonanno & Burton",
+      "year": "2013",
+      "context": "Bonanno & Burton (2013)"
+    },
+    {
+      "file": "BaiD",
+      "author": "Lazarus & Folkman",
+      "year": "1984",
+      "context": "(Lazarus & Folkman 1984)"
+    },
+    {
+      "file": "BaiD",
+      "author": "Compas et al.",
+      "year": "2017",
+      "context": "Compas et al. (2017)"
+    },
+    {
+      "file": "BaiD",
+      "author": "Compas",
+      "year": "2017",
+      "context": "Compas (2017)"
+    },
+    {
+      "file": "BaiD",
+      "author": "Lazarus & Folkman",
+      "year": "1984",
+      "context": "Lazarus & Folkman (1984)"
+    },
+    {
+      "file": "BaiD",
+      "author": "Carver",
+      "year": "1997",
+      "context": "(Carver 1997)"
+    },
+    {
+      "file": "BaiD",
+      "author": "Skinner et al.",
+      "year": "2003",
+      "context": "Skinner et al. (2003)"
+    },
+    {
+      "file": "BaiD",
+      "author": "Compas et al.",
+      "year": "2017",
+      "context": "(Compas et al. 2017)"
+    },
+    {
+      "file": "BaiD",
+      "author": "Roth & Cohen",
+      "year": "1986",
+      "context": "(Roth & Cohen 1986)"
+    },
+    {
+      "file": "BaiD",
+      "author": "Rose",
+      "year": "2002",
+      "context": "(Rose 2002)"
+    },
+    {
+      "file": "LA",
+      "author": "Cicognani",
+      "year": "2011",
+      "context": "(Cicognani 2011)"
+    },
+    {
+      "file": "LA",
+      "author": "Darbyshire & Beitsayadeh",
+      "year": "2025",
+      "context": "(Darbyshire & Beitsayadeh, 2025)"
+    },
+    {
+      "file": "LA",
+      "author": "Clark & Wells",
+      "year": "1995",
+      "context": "Clark & Wells (1995)"
+    },
+    {
+      "file": "LA",
+      "author": "WK et al.",
+      "year": "2022",
+      "context": "WK et al. (2022)"
+    },
+    {
+      "file": "LA",
+      "author": "Yahui",
+      "year": "2025",
+      "context": "Yahui (2025)"
+    },
+    {
+      "file": "LA",
+      "author": "Thùy",
+      "year": "2024",
+      "context": "Thùy (2024)"
+    },
+    {
+      "file": "LA",
+      "author": "Chorpita",
+      "year": "2000",
+      "context": "Chorpita (2000)"
+    },
+    {
+      "file": "LA",
+      "author": "Lochman",
+      "year": "2025",
+      "context": "(Lochman, 2025)"
+    },
+    {
+      "file": "LA",
+      "author": "Tình",
+      "year": "2025",
+      "context": "Tình (2025)"
+    },
+    {
+      "file": "LA",
+      "author": "Brown & Larson",
+      "year": "2009",
+      "context": "(Brown & Larson, 2009)"
+    },
+    {
+      "file": "LA",
+      "author": "Beesdo et al.",
+      "year": "2010",
+      "context": "(Beesdo et al., 2010)"
+    },
+    {
+      "file": "LA",
+      "author": "Myruski et al.",
+      "year": "2024",
+      "context": "(Myruski et al., 2024)"
+    },
+    {
+      "file": "LA",
+      "author": "Pryor",
+      "year": "2023",
+      "context": "Pryor (2023)"
+    },
+    {
+      "file": "LA",
+      "author": "Sun",
+      "year": "2011",
+      "context": "(Sun, 2011)"
+    },
+    {
+      "file": "LA",
+      "author": "Kong",
+      "year": "2025",
+      "context": "Kong (2025)"
+    },
+    {
+      "file": "LA",
+      "author": "LeDoux & Pine",
+      "year": "2016",
+      "context": "(LeDoux & Pine, 2016)"
+    },
+    {
+      "file": "LA",
+      "author": "Deng et al.",
+      "year": "2024",
+      "context": "(Deng et al., 2024)"
+    },
+    {
+      "file": "LA",
+      "author": "Itao và Kaneko",
+      "year": "2021",
+      "context": "(Itao và Kaneko 2021)"
+    },
+    {
+      "file": "LA",
+      "author": "Persson",
+      "year": "2024",
+      "context": "Persson (2024)"
+    },
+    {
+      "file": "LA",
+      "author": "Santrock",
+      "year": "2021",
+      "context": "(Santrock, 2021)"
+    },
+    {
+      "file": "LA",
+      "author": "Steinberg",
+      "year": "2014",
+      "context": "(Steinberg, 2014)"
+    },
+    {
+      "file": "LA",
+      "author": "Fazel et al.",
+      "year": "2014",
+      "context": "(Fazel et al., 2014)"
+    },
+    {
+      "file": "LA",
+      "author": "Qiaochu & Wang",
+      "year": "2025",
+      "context": "Qiaochu & Wang (2025)"
+    },
+    {
+      "file": "LA",
+      "author": "Ungar",
+      "year": "2020",
+      "context": "Ungar (2020)"
+    },
+    {
+      "file": "LA",
+      "author": "Carver",
+      "year": "1997",
+      "context": "Carver (1997)"
+    },
+    {
+      "file": "LA",
+      "author": "Alyahya",
+      "year": "2019",
+      "context": "Alyahya (2019)"
+    },
+    {
+      "file": "LA",
+      "author": "Carskadon",
+      "year": "2011",
+      "context": "Carskadon (2011)"
+    },
+    {
+      "file": "LA",
+      "author": "Kwon et al.",
+      "year": "2013",
+      "context": "(Kwon et al., 2013)"
+    },
+    {
+      "file": "LA",
+      "author": "Steinberg",
+      "year": "2005",
+      "context": "(Steinberg, 2005)"
+    },
+    {
+      "file": "LA",
+      "author": "Chorpita",
+      "year": "2000",
+      "context": "(Chorpita, 2000)"
+    },
+    {
+      "file": "LA",
+      "author": "Hofmann",
+      "year": "2012",
+      "context": "Hofmann (2012)"
+    },
+    {
+      "file": "LA",
+      "author": "Wakefield",
+      "year": "1992",
+      "context": "(Wakefield, 1992)"
+    },
+    {
+      "file": "LA",
+      "author": "Zimet",
+      "year": "1988",
+      "context": "(Zimet, 1988)"
+    },
+    {
+      "file": "LA",
+      "author": "Olweus",
+      "year": "1996",
+      "context": "Olweus (1996)"
+    },
+    {
+      "file": "LA",
+      "author": "Nemeroff",
+      "year": "2002",
+      "context": "(Nemeroff, 2002)"
+    },
+    {
+      "file": "LA",
+      "author": "Sun et al.",
+      "year": "2011",
+      "context": "(Sun et al., 2011)"
+    },
+    {
+      "file": "LA",
+      "author": "Barlow",
+      "year": "2002",
+      "context": "Barlow (2002)"
+    },
+    {
+      "file": "LA",
+      "author": "Rajendran",
+      "year": "2023",
+      "context": "Rajendran (2023)"
+    },
+    {
+      "file": "LA",
+      "author": "Lazarus và Folkman",
+      "year": "1984",
+      "context": "Lazarus và Folkman (1984)"
+    },
+    {
+      "file": "LA",
+      "author": "Bress et al.",
+      "year": "2024",
+      "context": "(Bress et al. 2024)"
+    },
+    {
+      "file": "LA",
+      "author": "Sisk & Foster",
+      "year": "2004",
+      "context": "(Sisk & Foster, 2004)"
+    },
+    {
+      "file": "LA",
+      "author": "Wakefield",
+      "year": "1992",
+      "context": "Wakefield (1992)"
+    },
+    {
+      "file": "LA",
+      "author": "Egger và Angold",
+      "year": "2005",
+      "context": "Egger và Angold (2005)"
+    },
+    {
+      "file": "LA",
+      "author": "Collaborators",
+      "year": "2025",
+      "context": "Collaborators (2025)"
+    },
+    {
+      "file": "LA",
+      "author": "Kiên",
+      "year": "2024",
+      "context": "Kiên (2024)"
+    },
+    {
+      "file": "LA",
+      "author": "Bản",
+      "year": "2002",
+      "context": "Bản (2002)"
+    },
+    {
+      "file": "LA",
+      "author": "Association",
+      "year": "2013",
+      "context": "Association (2013)"
+    },
+    {
+      "file": "LA",
+      "author": "Lazarus & Folkman",
+      "year": "1984",
+      "context": "(Lazarus & Folkman, 1984)"
+    },
+    {
+      "file": "LA",
+      "author": "Chorpita et al.",
+      "year": "2000",
+      "context": "(Chorpita et al., 2000)"
+    },
+    {
+      "file": "LA",
+      "author": "Taylor và Conger",
+      "year": "2017",
+      "context": "(Taylor và Conger 2017)"
+    },
+    {
+      "file": "LA",
+      "author": "Auxier",
+      "year": "2020",
+      "context": "(Auxier 2020)"
+    },
+    {
+      "file": "LA",
+      "author": "Lawrence et al.",
+      "year": "2015",
+      "context": "(Lawrence et al., 2015)"
+    },
+    {
+      "file": "LA",
+      "author": "Feng et al",
+      "year": "2024",
+      "context": "(Feng et al, 2024)"
+    },
+    {
+      "file": "LA",
+      "author": "Blakemore & Choudhury",
+      "year": "2006",
+      "context": "(Blakemore & Choudhury, 2006)"
+    },
+    {
+      "file": "LA",
+      "author": "Sun",
+      "year": "2011",
+      "context": "Sun (2011)"
+    },
+    {
+      "file": "LA",
+      "author": "UNICEF",
+      "year": "2021",
+      "context": "(UNICEF, 2021)"
+    },
+    {
+      "file": "LA",
+      "author": "Barlow",
+      "year": "2002",
+      "context": "(Barlow, 2002)"
+    },
+    {
+      "file": "LA",
+      "author": "Vân",
+      "year": "2018",
+      "context": "Vân (2018)"
+    },
+    {
+      "file": "LA",
+      "author": "Qian et al",
+      "year": "2018",
+      "context": "(Qian et al, 2018)"
+    },
+    {
+      "file": "LA",
+      "author": "Rudolph",
+      "year": "2002",
+      "context": "(Rudolph 2002)"
+    },
+    {
+      "file": "LA",
+      "author": "Feriante et al",
+      "year": "2023",
+      "context": "(Feriante et al, 2023)"
+    },
+    {
+      "file": "LA",
+      "author": "Tang",
+      "year": "2023",
+      "context": "Tang (2023)"
+    },
+    {
+      "file": "LA",
+      "author": "Racine et al.",
+      "year": "2021",
+      "context": "(Racine et al., 2021)"
+    },
+    {
+      "file": "LA",
+      "author": "Matsumoto",
+      "year": "2024",
+      "context": "Matsumoto (2024)"
+    },
+    {
+      "file": "LA",
+      "author": "Byrd & Ollendick",
+      "year": "2012",
+      "context": "Byrd & Ollendick (2012)"
+    },
+    {
+      "file": "LA",
+      "author": "IV",
+      "year": "1994",
+      "context": "IV (1994)"
+    },
+    {
+      "file": "LA",
+      "author": "Fang et al",
+      "year": "2022",
+      "context": "(Fang et al, 2022)"
+    },
+    {
+      "file": "LA",
+      "author": "Compas et al.",
+      "year": "2020",
+      "context": "(Compas et al., 2020)"
+    },
+    {
+      "file": "LA",
+      "author": "Amirkhan & Auyeung",
+      "year": "2007",
+      "context": "(Amirkhan & Auyeung 2007)"
+    },
+    {
+      "file": "LA",
+      "author": "Zheng và Peng",
+      "year": "2025",
+      "context": "Zheng và Peng (2025)"
+    },
+    {
+      "file": "LA",
+      "author": "APA",
+      "year": "1994",
+      "context": "(APA, 1994)"
+    },
+    {
+      "file": "LA",
+      "author": "Fitzpatrick et al.",
+      "year": "2024",
+      "context": "(Fitzpatrick et al., 2024)"
+    },
+    {
+      "file": "LA",
+      "author": "Yap",
+      "year": "2014",
+      "context": "Yap (2014)"
+    },
+    {
+      "file": "LA",
+      "author": "Persson et al.",
+      "year": "2024",
+      "context": "Persson et al. (2024)"
+    },
+    {
+      "file": "LA",
+      "author": "Carver",
+      "year": "1997",
+      "context": "(Carver, 1997)"
+    },
+    {
+      "file": "LA",
+      "author": "MD",
+      "year": "2024",
+      "context": "MD (2024)"
+    },
+    {
+      "file": "LA",
+      "author": "Elkind",
+      "year": "1967",
+      "context": "Elkind (1967)"
+    },
+    {
+      "file": "LA",
+      "author": "Rosenberg",
+      "year": "1965",
+      "context": "Rosenberg (1965)"
+    },
+    {
+      "file": "LA",
+      "author": "Rapee et al.",
+      "year": "2023",
+      "context": "(Rapee et al., 2023)"
+    },
+    {
+      "file": "LA",
+      "author": "Goodenow",
+      "year": "1993",
+      "context": "(Goodenow, 1993)"
+    },
+    {
+      "file": "LA",
+      "author": "Bhardwaj",
+      "year": "2020",
+      "context": "Bhardwaj (2020)"
+    },
+    {
+      "file": "LA",
+      "author": "Rosenberg",
+      "year": "1965",
+      "context": "(Rosenberg, 1965)"
+    },
+    {
+      "file": "LA",
+      "author": "Costello et al.",
+      "year": "2005",
+      "context": "(Costello et al., 2005)"
+    },
+    {
+      "file": "LA",
+      "author": "MPH",
+      "year": "2025",
+      "context": "MPH (2025)"
+    },
+    {
+      "file": "LA",
+      "author": "APA",
+      "year": "1987",
+      "context": "(APA, 1987)"
+    },
+    {
+      "file": "LA",
+      "author": "Pine & Klein",
+      "year": "2010",
+      "context": "(Pine & Klein, 2010)"
+    },
+    {
+      "file": "LA",
+      "author": "Essau et al.",
+      "year": "2012",
+      "context": "(Essau et al., 2012)"
+    },
+    {
+      "file": "LA",
+      "author": "Gore et al.",
+      "year": "2011",
+      "context": "(Gore et al., 2011)"
+    },
+    {
+      "file": "LA",
+      "author": "Goodenow",
+      "year": "1993",
+      "context": "Goodenow (1993)"
+    },
+    {
+      "file": "LA",
+      "author": "Merikangas et al.",
+      "year": "2010",
+      "context": "(Merikangas et al., 2010)"
+    },
+    {
+      "file": "LA",
+      "author": "Islam et al",
+      "year": "2025",
+      "context": "(Islam et al, 2025)"
+    },
+    {
+      "file": "LA",
+      "author": "Silverman et al.",
+      "year": "2020",
+      "context": "(Silverman et al., 2020)"
+    },
+    {
+      "file": "LA",
+      "author": "Casey et al.",
+      "year": "2008",
+      "context": "(Casey et al., 2008)"
+    },
+    {
+      "file": "LA",
+      "author": "Smetana",
+      "year": "2011",
+      "context": "(Smetana, 2011)"
+    },
+    {
+      "file": "LA",
+      "author": "Pine và Klein",
+      "year": "2010",
+      "context": "Pine và Klein (2010)"
+    },
+    {
+      "file": "LA",
+      "author": "Ramaiya",
+      "year": "2022",
+      "context": "Ramaiya (2022)"
+    },
+    {
+      "file": "LA",
+      "author": "Steinberg",
+      "year": "2014",
+      "context": "Steinberg (2014)"
+    },
+    {
+      "file": "LA",
+      "author": "Bronfenbrenner",
+      "year": "1979",
+      "context": "(Bronfenbrenner, 1979)"
+    },
+    {
+      "file": "LA",
+      "author": "Beck",
+      "year": "1976",
+      "context": "Beck (1976)"
+    },
+    {
+      "file": "LA",
+      "author": "Jystad et al",
+      "year": "2021",
+      "context": "(Jystad et al, 2021)"
+    },
+    {
+      "file": "LA",
+      "author": "APA",
+      "year": "2013",
+      "context": "(APA, 2013)"
+    },
+    {
+      "file": "LA",
+      "author": "Sowislo và Orth",
+      "year": "2013",
+      "context": "Sowislo và Orth (2013)"
+    },
+    {
+      "file": "LA",
+      "author": "Quỳnh",
+      "year": "2025",
+      "context": "Quỳnh (2025)"
+    },
+    {
+      "file": "LA",
+      "author": "Samaranayake",
+      "year": "2024",
+      "context": "Samaranayake (2024)"
+    },
+    {
+      "file": "LA",
+      "author": "Hale et al.",
+      "year": "2018",
+      "context": "(Hale et al., 2018)"
+    },
+    {
+      "file": "LA",
+      "author": "Olweus",
+      "year": "1996",
+      "context": "(Olweus, 1996)"
+    },
+    {
+      "file": "LA",
+      "author": "Fisher",
+      "year": "2025",
+      "context": "Fisher (2025)"
+    },
+    {
+      "file": "LA",
+      "author": "Erikson",
+      "year": "1968",
+      "context": "Erikson (1968)"
+    },
+    {
+      "file": "LA",
+      "author": "Revet & Kennedy",
+      "year": "2022",
+      "context": "(Revet & Kennedy, 2022)"
+    },
+    {
+      "file": "LA",
+      "author": "Ohannessian",
+      "year": "2015",
+      "context": "Ohannessian (2015)"
+    },
+    {
+      "file": "LA",
+      "author": "Zimet et al.",
+      "year": "1988",
+      "context": "(Zimet et al., 1988)"
+    }
+  ],
+  "year_mismatches": [
+    {
+      "file": "LA",
+      "author": "Hetrick và Parker",
+      "cited_year": "2020",
+      "pdf_matches": [
+        "Pascoe_2020.pdf",
+        "QT067_Pascoe_AcademicStress_IJAY_2020.pdf"
+      ]
+    },
+    {
+      "file": "LA",
+      "author": "Jenkins et al.",
+      "cited_year": "2023",
+      "pdf_matches": [
+        "QT001_Jenkins_2023_USA_SanDiego.pdf"
+      ]
+    },
+    {
+      "file": "LA",
+      "author": "Bang",
+      "cited_year": "2025",
+      "pdf_matches": [
+        "QT021_Norway_Brunborg_2025_SocSciMed.pdf"
+      ]
+    },
+    {
+      "file": "LA",
+      "author": "Zeleke",
+      "cited_year": "2022",
+      "pdf_matches": [
+        "06_Nakie_et_al_2022.pdf",
+        "QT006_Nakie_et_al_2022_Ethiopia.pdf"
+      ]
+    },
+    {
+      "file": "LA",
+      "author": "Murphy",
+      "cited_year": "2024",
+      "pdf_matches": [
+        "QT066_Murphy_PeerSupport_ScopingReview_JCommPsych_2024.pdf"
+      ]
+    },
+    {
+      "file": "LA",
+      "author": "Walder",
+      "cited_year": "2025",
+      "pdf_matches": [
+        "QT040_Walder_JMIR_DMHI_SAD_2025.pdf",
+        "Bai_44__QT040_Walder_JMIR_DMHI_SAD_2025.pdf"
+      ]
+    },
+    {
+      "file": "LA",
+      "author": "Bouman",
+      "cited_year": "2024",
+      "pdf_matches": [
+        "1-s2.0-S1876201823004537-main.pdf"
+      ]
+    },
+    {
+      "file": "LA",
+      "author": "Pascoe",
+      "cited_year": "2020",
+      "pdf_matches": [
+        "Pascoe_2020.pdf",
+        "QT067_Pascoe_AcademicStress_IJAY_2020.pdf"
+      ]
+    },
+    {
+      "file": "LA",
+      "author": "Psychiatry",
+      "cited_year": "2025",
+      "pdf_matches": [
+        "QT046_Jagiello_AcademicStress_SR_2025.pdf",
+        "Brown_2024_BESST_Lancet_Psychiatry.pdf"
+      ]
+    },
+    {
+      "file": "LA",
+      "author": "Murphy",
+      "cited_year": "2024",
+      "pdf_matches": [
+        "QT066_Murphy_PeerSupport_ScopingReview_JCommPsych_2024.pdf"
+      ]
+    }
+  ]
+}

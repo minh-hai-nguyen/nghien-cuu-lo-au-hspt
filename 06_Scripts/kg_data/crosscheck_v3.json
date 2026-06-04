@@ -1,0 +1,181 @@
+{
+  "matched_claims_count": 3,
+  "ghost_claims_count": 1,
+  "orphan_facts_count": 33,
+  "ghost_claims": [
+    {
+      "papers": [
+        "QT047"
+      ],
+      "value": 0.11,
+      "claim": "Tuy nhiên, khoảng trống vẫn còn lớn: Happy House là UNIVERSAL (toàn lớp), hiệu ứng nhỏ (d = 0,11) và FADE-OUT ở 6 tháng;"
+    }
+  ],
+  "orphan_facts": [
+    {
+      "paper": "VN001",
+      "type": "OR",
+      "value": 11.6
+    },
+    {
+      "paper": "QT008",
+      "type": "OR",
+      "value": 11.6
+    },
+    {
+      "paper": "QT010",
+      "type": "OR",
+      "value": 1.3
+    },
+    {
+      "paper": "VN015",
+      "type": "OR",
+      "value": 1.29
+    },
+    {
+      "paper": "VN015",
+      "type": "OR",
+      "value": 6.84
+    },
+    {
+      "paper": "VN015",
+      "type": "OR",
+      "value": 0.43
+    },
+    {
+      "paper": "VN015",
+      "type": "OR",
+      "value": 0.72
+    },
+    {
+      "paper": "VN015",
+      "type": "OR",
+      "value": 0.57
+    },
+    {
+      "paper": "VN020",
+      "type": "OR",
+      "value": 11.6
+    },
+    {
+      "paper": "QT021",
+      "type": "g",
+      "value": 0.46
+    },
+    {
+      "paper": "QT023",
+      "type": "AOR",
+      "value": 2.17
+    },
+    {
+      "paper": "QT023",
+      "type": "AOR",
+      "value": 2.93
+    },
+    {
+      "paper": "QT026",
+      "type": "AOR",
+      "value": 2.17
+    },
+    {
+      "paper": "QT031",
+      "type": "OR",
+      "value": 1.51
+    },
+    {
+      "paper": "QT031",
+      "type": "OR",
+      "value": 6.84
+    },
+    {
+      "paper": "QT032",
+      "type": "AOR",
+      "value": 2.17
+    },
+    {
+      "paper": "VN021",
+      "type": "OR",
+      "value": 11.58
+    },
+    {
+      "paper": "VN021",
+      "type": "AOR",
+      "value": 1.51
+    },
+    {
+      "paper": "VN021",
+      "type": "beta",
+      "value": 4.73
+    },
+    {
+      "paper": "VN021",
+      "type": "beta",
+      "value": 2.24
+    },
+    {
+      "paper": "QT036",
+      "type": "AOR",
+      "value": 1.28
+    },
+    {
+      "paper": "VN022",
+      "type": "OR",
+      "value": 11.58
+    },
+    {
+      "paper": "VN022",
+      "type": "AOR",
+      "value": 1.68
+    },
+    {
+      "paper": "VN022",
+      "type": "AOR",
+      "value": 1.51
+    },
+    {
+      "paper": "QT039",
+      "type": "SUCRA",
+      "value": 68.4
+    },
+    {
+      "paper": "QT040",
+      "type": "g",
+      "value": 0.825
+    },
+    {
+      "paper": "QT041",
+      "type": "beta",
+      "value": 0.615
+    },
+    {
+      "paper": "QT041",
+      "type": "beta",
+      "value": 0.153
+    },
+    {
+      "paper": "QT043",
+      "type": "Cohen_d",
+      "value": 0.93
+    },
+    {
+      "paper": "QT043",
+      "type": "d",
+      "value": 0.93
+    },
+    {
+      "paper": "QT043",
+      "type": "d",
+      "value": 1.07
+    },
+    {
+      "paper": "QT046",
+      "type": "OR",
+      "value": 11.58
+    },
+    {
+      "paper": "QT046",
+      "type": "beta",
+      "value": 4.73
+    }
+  ]
+}

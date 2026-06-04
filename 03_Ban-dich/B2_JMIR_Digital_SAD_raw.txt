@@ -1,0 +1,3377 @@
+PAGE 1:
+JMIR Preprints
+Walder et al
+Digital Mental Health Interventions for Prevention
+and Treatment of Social Anxiety Disorder in Children,
+Adolescents and Young Adults: Systematic Review
+and Meta-Analysis of Randomised Controlled Trials.
+ Noemi Walder, Alessja Frey, Thomas Berger, Stefanie Julia Schmidt
+Submitted to: Journal of Medical Internet Research
+on: October 01, 2024
+Disclaimer: © The authors. All rights reserved. This is a privileged document currently under peer-review/community
+review. Authors have provided JMIR Publications with an exclusive license to publish this preprint on it's website for
+review purposes only. While the final peer-reviewed paper may be licensed under a CC BY license on publication, at this
+stage authors and publisher expressively prohibit redistribution of this draft paper other than for review purposes.
+https://preprints.jmir.org/preprint/67067
+[unpublished, peer-reviewed preprint]
+
+===
+PAGE 2:
+JMIR Preprints
+Walder et al
+Table of Contents
+Original Manuscript ....................................................................................................................................................................... 5
+Supplementary Files ..................................................................................................................................................................... 44
+Multimedia Appendixes ................................................................................................................................................................. 45
+Multimedia Appendix 1 .................................................................................................................................................................. 45
+Multimedia Appendix 2 .................................................................................................................................................................. 45
+Multimedia Appendix 3 .................................................................................................................................................................. 45
+Multimedia Appendix 4 .................................................................................................................................................................. 45
+https://preprints.jmir.org/preprint/67067
+[unpublished, peer-reviewed preprint]
+
+===
+PAGE 3:
+JMIR Preprints
+Walder et al
+Digital Mental Health Interventions for Prevention and Treatment of Social
+Anxiety Disorder in Children, Adolescents and Young Adults: Systematic
+Review and Meta-Analysis of Randomised Controlled Trials.
+Noemi Walder1 PhD; Alessja Frey1 MSc; Thomas Berger2 PhD; Stefanie Julia Schmidt1 PhD
+1Division of Clinical Child and Adolescent Psychology Institute of Psychology University of Bern Bern CH
+2Division of Clinical Psychology and Psychotherapy Institute of Psychology University of Bern Bern CH
+Corresponding Author:
+Noemi Walder PhD
+Division of Clinical Child and Adolescent Psychology
+Institute of Psychology
+University of Bern
+Fabrikstrasse 8
+Bern
+CH
+Abstract
+Background: Social anxiety disorder (SAD) significantly affects young individuals' social and academic functioning,
+emphasising the need for accessible and effective treatments such as digital mental health interventions (DMHI).
+Objective: This systematic review and meta-analysis aimed to evaluate the efficacy of DMHI for children, adolescents and
+young adults with social anxiety.
+Methods: For review and meta-analysis databases were searched for randomised controlled trials investigating DMHI
+addressing social anxiety in young people (mean age <25 years). Two authors independently screened the records, extracted data
+and assessed the Risk of Bias.
+Results: This systematic review includes k=22 and the meta-analysis k=21 studies. Results significantly favoured DMHIs
+(g=0.508; 95% CI: 0.308; 0.707) over any control condition (i.e., waitlist or active interventions) after the intervention,
+specifically those compared to waitlist control conditions (g=0.576; 95% CI: 0.343; 0.809), based on cognitive behavioural
+principles (g=0.610; 95% CI: 0.361; 0.859), incorporating SAD-specific components (g=0.878; 95% CI: 0.469; 1.278) and those
+with human guidance (g=0.825; 95% CI: 0.425; 1.224). Neither parental involvement nor age influenced outcomes significantly.
+When publication bias was considered, the overall effect remained significant (g=0.506 (95% CI= 0.308; 0.707).
+Conclusions: This meta-analysis provides support for the efficacy of DMHI for social anxiety compared to no intervention and
+the beneficial effects of guidance and interventions specifically designed for SAD. Further, it highlights methodological
+shortcomings and heterogeneous reporting standards. Future research should prioritise higher methodological quality and should
+explore how effects are related to age and specific intervention components, including guidance and treatment modules. Clinical
+Trial: This systematic review and meta-analysis was preregistered on PROSPERO (ID: CRD42023424181).
+(JMIR Preprints 01/10/2024:67067)
+DOI: https://doi.org/10.2196/preprints.67067
+Preprint Settings
+1) Would you like to publish your submitted manuscript as preprint?
+Please make my preprint PDF available to anyone at any time (recommended).
+Please make my preprint PDF available only to logged-in users; I understand that my title and abstract will remain visible to all users.
+Only make the preprint title and abstract visible.
+No, I do not wish to publish my submitted manuscript as a preprint.
+2) If accepted for publication in a JMIR journal, would you like the PDF to be visible to the public?
+https://preprints.jmir.org/preprint/67067
+[unpublished, peer-reviewed preprint]
+
+===
+PAGE 4:
+JMIR Preprints
+Walder et al
+Yes, please make my accepted manuscript PDF available to anyone at any time (Recommended). 
+Yes, but please make my accepted manuscript PDF available only to logged-in users; I understand that the title and abstract will remain v
+Yes, but only make the title and abstract visible (see Important note, above). I understand that if I later pay to participate in  <a href="http
+No. Please do not make my accepted manuscript PDF available to anyone.
+https://preprints.jmir.org/preprint/67067
+[unpublished, peer-reviewed preprint]
+
+===
+PAGE 5:
+JMIR Preprints
+Walder et al
+Original Manuscript
+https://preprints.jmir.org/preprint/67067
+[unpublished, peer-reviewed preprint]
+
+===
+PAGE 6:
+JMIR Preprints
+Walder et al
+Original Paper
+Digital Mental Health Interventions for Prevention and
+Treatment  of  Social  Anxiety  Disorder  in  Children,
+Adolescents and Young Adults: Systematic Review and
+Meta-Analysis of Randomised Controlled Trials.
+Abstract
+Background:  Social anxiety disorder (SAD) significantly affects young individuals'
+social and academic functioning, emphasising the need for accessible and effective
+treatments such as digital mental health interventions (DMHI). 
+Objective: This systematic review and meta-analysis aimed to evaluate the efficacy of
+DMHI for children, adolescents and young adults with social anxiety.
+Methods:  For  review  and  meta-analysis  six  electronic  databases  (APA PsycINFO,
+Embase, MEDLINE, PsyIndex, PubMed, Web of Science) were searched for randomised
+controlled trials investigating DMHI addressing social anxiety in young people (mean
+age <25 years). Two authors independently screened the records, extracted data and
+assessed the Risk of Bias. For data analysis, a standardised effect size was calculated
+using Hedges’ g, along with 95% confidence intervals for each study. Meta-analyses were
+conducted using a random-effects model to account for heterogeneity.
+Results:  This systematic review includes  k=22 and the meta-analysis  k=21 studies.
+Results significantly favoured DMHIs (g=0.508; 95% CI: 0.308; 0.707) over any control
+condition (i.e., waitlist or active interventions) after the intervention, specifically those
+compared to waitlist control conditions (g=0.576; 95% CI: 0.343; 0.809), based on
+cognitive behavioural principles (g=0.610; 95% CI: 0.361; 0.859), incorporating SAD-
+specific components (g=0.878; 95% CI: 0.469; 1.278) and those with human guidance
+(g=0.825; 95% CI: 0.425; 1.224). Neither parental involvement nor age influenced
+outcomes  significantly.  When  publication  bias  was  considered,  the  overall  effect
+remained significant (g=0.506; 95% CI= 0.308; 0.707). Risk of bias assessment indicated
+that most studies showed some concerns, three studies were classified as high risk and
+three were rated as low risk. The reporting of adherence varied greatly and could not be
+analysed meta-analytically. 
+Conclusion:  This meta-analysis provides support for the efficacy of DMHI for social
+anxiety  compared  to control  conditions  and  the  beneficial  effects  of guidance  and
+interventions  specifically  designed  for  SAD.  Further,  it  highlights  methodological
+shortcomings and heterogeneous reporting standards. Future research should prioritise
+higher methodological quality and should explore how effects are related to age and
+specific intervention components, including guidance and treatment modules.
+Trial Registration: This systematic review and meta-analysis was  preregistered on
+PROSPERO (ID: CRD42023424181). 
+https://preprints.jmir.org/preprint/67067
+[unpublished, peer-reviewed preprint]
+
+===
+PAGE 7:
+JMIR Preprints
+Walder et al
+Keywords: Social anxiety; digital mental health intervention; digital mental health prevention;
+children; adolescents; young adults; meta-analysis; systematic review
+https://preprints.jmir.org/preprint/67067
+[unpublished, peer-reviewed preprint]
+
+===
+PAGE 8:
+JMIR Preprints
+Walder et al
+Introduction
+Social Anxiety Disorder in Children, Adolescents and Young Adults
+Anxiety disorders are the most prevalent mental disorders in children, adolescents and young adults
+[1–3]. Especially in adolescence, social anxiety disorder (SAD) is highly relevant, with prevalence
+rates between 12 to 36% [4,5]. Notably, 88% of SAD cases have their onset before the age of 25
+years and 50% before 14 years [6]. The first symptoms (e.g., shyness, fear of embarrassment) often
+appear in childhood [7,8] and in adolescence up to 50% report subclinical levels of social anxiety
+symptoms [9,10]. 
+SAD is characterised by an intense and persistent fear of embarrassing oneself in front of others or
+being judged negatively by others [11]. To endure feared situations, those affected by SAD often
+engage in safety behaviours to minimise negative evaluations or avoid social situations altogether
+[11].  These  behaviours  maintain  social  anxiety  symptoms  [12–14],  contribute  to  substantial
+impairment in their psychosocial functioning (e.g., fewer friends than their healthy peers) and the
+development of comorbid disorders (e.g., depression, substance use) and lead to negative long-term
+effects, such as poorer academic and job opportunities and lack of social support due to a small or
+non-existent social network [15–20]. These detrimental consequences demand prevention efforts and
+effective treatments to intervene early. 
+Efficacy of Treatment and Barriers to Treatment
+Established treatment protocols (e.g., based on the Cognitive Model by Clark and Wells  [12]) in
+adults have been adapted to suit the specific needs of children and adolescents [21]. Meta-analyses
+support their efficacy in individual and group settings compared to waitlist or psychological placebo
+control  groups  (i.e.,  attention  control)  [22–24].  Accordingly,  individual  or  group  cognitive
+behavioural therapy (CBT) is recommended as a first-line treatment for children and adolescents
+with SAD [25,26]. 
+Although effective treatments exist, treatment delivery and uptake are impeded by poor mental
+health literacy (e.g., poor symptom recognition), public- and self-stigma, particularly in those with
+SAD, and a gap in the provision of care [27–30]. The care gap is even more exacerbated in children
+and adolescents, in ethnic minority groups, those living in rural areas or in lower-income countries
+and those with lower socio-economic status [31–33]. Various efforts have addressed some of these
+barriers  by  integrating  care  in  primary  physician  settings,  implementing  psychoeducational
+interventions  in  educational settings, or by task sharing  (e.g., non-professional people  deliver
+interventions under supervision) [34–36]. Digital interventions are a highly scalable and far-reaching
+solution that represents another promising option that may circumvent some of the barriers not
+addressed in the previously mentioned efforts (i.e., time and place independence). 
+Digital Mental Health Interventions for Social Anxiety
+Digital mental health interventions (DMHI) aim to manage, alleviate, or treat mental health problems
+through a digital medium (i.e., internet, mobile phone application (app), wearables, SMS) [37,38].
+They  can  include  some form of human  support (i.e., guided self-help),  for instance,  through
+asynchronous messages or synchronous real-time chatting or phone calls by a professional, or they
+can be completely standalone (i.e., unguided self-help) [39]. Several DMHIs have been developed
+for adult  SAD, with the evidence base  for SAD  being  among  the most extensive, including
+interventions based on CBT, psychodynamic therapy, interpersonal therapy and acceptance-based
+CBT [39,40]. For this age group, meta-analytic evidence supports the efficacy of DMHIs as internet-
+based CBT (ICBT) and virtual reality exposure significantly outperformed passive or waitlist control
+conditions. Compared to other active control conditions, ICBT yielded small effects and showed to
+be equally efficacious as face-to-face psychotherapy [41–43]. 
+In children and adolescents, meta-analyses on the efficacy of DMHIs have focused predominantly on
+https://preprints.jmir.org/preprint/67067
+[unpublished, peer-reviewed preprint]
+
+===
+PAGE 9:
+JMIR Preprints
+Walder et al
+depressive and/or anxiety symptoms but have not reported effect sizes for either the prevention or
+treatment of SAD specifically [37,38]. Although SAD was displayed separately in one meta-analysis,
+no pooled effect size was calculated [44]. For DMHIs for anxiety disorders in general, meta-analyses
+reported significant effects for interventions based on CBT principles compared to a waitlist control
+condition (ages 6 to 16: SMD = 0.68; ages 7 to 18:  g = 1.41; ages 6 to 25:  g = 0.68) and no
+significant difference to other active conditions (e.g., face-to-face: g = 0.30; SMD = -0.04) [45–47].
+For DMHIs for the prevention of anxiety disorders, meta-analyses did not yield significant overall
+effects, but some RCTs found small effects in favour of DMHIs [48,49]. Likewise, meta-analyses of
+prevention programmes for anxiety disorders in school-based settings reported small to medium
+effect sizes compared to passive control conditions after the intervention [50,51]. 
+Notably, some studies  suggest that young people with  SAD  benefit  less  from transdiagnostic
+interventions that target several anxiety disorders than young people with other anxiety disorders
+[52–54].  However other studies found no difference between SAD-specific and transdiagnostic
+anxiety interventions for children and adolescents with SAD [55,56]. Thus, it would be relevant to
+compare the effects of DMHIs that specifically target SAD with those that target anxiety disorders in
+general. To the best of the authors’ knowledge, so far, no systematic review and meta-analysis has
+investigated the effect of DMHI on social anxiety in children and adolescents specifically. 
+Moderators in Treatment Outcome
+DMHIs are not equally effective for all children, adolescents and young adults. The subsequent
+section will discuss potential moderators of treatment efficacy, which include control conditions,
+psychological principles of the interventions, age, adherence and the extent of support. Generally, the
+effect sizes are larger when DMHIs are compared with inactive control conditions (e.g., waiting list)
+than with active control conditions [57,58]. Most DMHIs developed are based on CBT principles
+[37] though when compared to DMHIs based on other psychological interventions (e.g., Cognitive
+bias modification (CBM), mindfulness) they do not result in better effects [59]. Evidence concerning
+age shows that older adolescents and young adults generally benefit more from DMHIs than children
+[46,60,61].  Similarly, adherence is supposed to be linked to symptom improvement, reflecting
+compliance with a predefined and recommended use and engagement with the intervention [62–64].
+However, results regarding the association between adherence and outcome are more complex. Some
+studies point to a direct link between adherence and symptom improvement [65], some to an inverse
+relationship [66] and others identify only single aspects of adherence (e.g., module completion) to be
+relevant for symptom improvement [67]. Furthermore, studies indicate that adherence itself is, in
+turn, influenced by symptom severity, which may thereby affect symptom reduction [62]. Overall,
+adherence plays an important role in implementing DMHIs, and human support is a known factor in
+improving adherence [68,69]. This support can be provided in the form of guidance by professionals
+(i.e., psychologists and therapists) or by the social context of the young people (i.e., parents and
+teachers). 
+Objectives of this Systematic Review and Meta-Analysis
+DMHIs are especially promising in young people as they are digital natives and generally seek help
+later and to a lesser extent than adults [38,70,71]. Thereby, the low-threshold and confidential nature
+of DMHIs may appeal especially to young people with SAD [30,72]. Thus, this systematic review
+and meta-analysis aims to evaluate the efficacy of DMHI in reducing social anxiety symptoms in
+children, adolescents and young adults. 
+Our primary research question is: Are DMHIs efficacious in reducing social anxiety symptoms in
+children, adolescents and young adults? Secondary research questions include moderator analyses: Is
+the between-group effect size of DMHIs moderated by control condition, age, the underlying
+psychological principle of the DMHI (i.e., CBT, other interventions), the intervention focus (SAD-
+specific or anxiety disorders in general), or human support (i.e., guided self-help vs. unguided self-
+https://preprints.jmir.org/preprint/67067
+[unpublished, peer-reviewed preprint]
+
+===
+PAGE 10:
+JMIR Preprints
+Walder et al
+help and parental involvement vs. no involvement)? In addition to evaluating efficacy, we will
+systematically synthesize and assess adherence to the DMHIs, focusing on how adherence is defined,
+measured, and reported across studies. 
+Method
+The study protocol for this review and meta-analysis was published on the International Prospective
+Register of Systematic Reviews PROSPERO, ID: CRD42023424181, on 15.08.2023 and conducted
+following the PRISMA guidelines. 
+Search Strategy and Study Selection
+Search Strategy 
+Six electronic databases (APA PsycINFO, Embase, MEDLINE, PsyIndex, PubMed, Web of Science)
+were searched on 10 July 2024. The search was restricted to journal articles in the PsycInfo and
+Medline databases and randomised controlled trials in the Embase, Medline and Pubmed databases.
+Details  for  the  full  search  string  and  all  syntaxes  are  given  in  the  multimedia  appendix  1.
+Furthermore, the clinical trials database ClinicalTrials.gov was searched on 31 July 2024 for studies
+not identified in the electronic search, which yielded no additional studies. Previously published
+meta-analyses on DMHIs for anxiety disorders in children and adolescents were checked for studies
+not found with the database search. 
+Eligibility Criteria
+Studies needed to meet the following inclusion criteria: 1) including young people with a mean age
+between 0 to <25 years [73,74], 2) evaluating a DMHI based on psychological principles that can be
+used remotely, 3) in a randomised controlled trial (RCT) comparing an experimental group to
+another active intervention, a waitlist, care-as-usual or treatment-as-usual condition, 4) reporting an
+outcome measure assessing social anxiety and 5) is published in a peer-reviewed journal in English
+or German. Study protocols, reviews, or meta-analyses were excluded. 
+The age range of under 25 years was selected to reflect current theories in child and adolescent
+psychiatry [75,76] and epidemiological evidence indicating the age of onset of SAD often occurs in
+this age range  [6]. The rationale for including both prevention and treatment in the diagnostic
+spectrum is based on the understanding that social anxiety symptoms exist on a continuum, and the
+intervention  techniques  underlying  both  the  prevention  and  treatment  of  SAD  are  similar
+[12,13,21,77–79]. 
+Study Selection 
+Titles, abstracts and full texts were systematically reviewed. Author NW extracted all relevant
+information (title, abstract) for the study selection process to Excel. Independently, authors NW and
+AF first screened all titles and second all abstracts of the records identified through the searches. No
+specialised software was used. In case of discrepancies between the raters, the records were moved
+to the next screening round. Afterwards, NW and AF reviewed the full texts of the remaining
+records. If they disagreed about inclusion or exclusion, they discussed each study decision until
+consensus. If they did not reach an agreement, the final decision was taken together with SJS. Since
+the consensus method was followed, no inter-rater reliability was calculated. 
+Data Extraction
+The data were extracted by two authors (NW and AF) independently into an Excel file as prepared in
+advance following the Cochrane Data Collection Form (Higgins et al., 2020). No automation tools
+were used. Information extracted from primary studies included study characteristics (i.e., country,
+ethical  approval,  trial  preregistration,  funding,  study  aims,  study  design,  recruitment  method,
+randomisation procedure, justification of sample size, dropouts, handling of missing values), sample
+https://preprints.jmir.org/preprint/67067
+[unpublished, peer-reviewed preprint]
+
+===
+PAGE 11:
+JMIR Preprints
+Walder et al
+characteristics (i.e., informed consent procedure, eligibility criteria, sample size, sociodemographic
+information, clinical status), intervention characteristics (description of intervention, psychological
+principles, duration, amount of modules and delivery setting of intervention, extent of guidance,
+guidance provider and training thereof, adherence to and satisfaction with the intervention), control
+condition characteristics (i.e., waitlist, care-as-usual, treatment-as-usual, another active intervention,
+description and psychological principles thereof) and outcome data for all available measurement
+timepoints (i.e., assessment tool, sample size, unstandardized means, standard deviation (SD) and
+standard error, if SD was not available). If transdiagnostic anxiety measures were used and no
+outcome data for SAD were reported, corresponding authors were contacted. Authors who provided
+us with unpublished outcome data on SAD are indicated in Table 1. 
+Data Analysis
+Data analyses followed the practical guide for meta-analyses in mental health research [80] and were
+analysed with the Comprehensive Meta-Analysis (CMA) version 4.0 software [81]. For each study, a
+standardised effect size was computed using Hedges’ g and the 95% confidence intervals derived
+from means, standard deviations and sample sizes of the intervention and control groups. To account
+for potential heterogeneity, all analyses were computed with random effects models [80]. In 3-armed
+RCTs, we prioritised comparisons with the waitlist control group over another active control group
+as there were more studies with passive comparison conditions leading to a more homogenous
+comparison group [e.g., 82–85]. 
+Heterogeneity was assessed through visual inspection of the forest plot, the Q-test and the calculation
+of the I2 statistic. The Q-test assesses whether the observed effect sizes significantly differ from each
+other beyond chance. A significant Q-test indicates heterogeneity, but in small meta-analyses, there
+might be insufficient power to detect it [80]. I2 values explain the proportion of heterogeneity, that is,
+the variability in treatment effect estimates due to real study differences and not due to chance, with
+25% indicating low, 50% moderate and 75% high heterogeneity [86]. Additionally, we calculated Tau
+and Tau2. Tau measures the standard deviation of the true effects across studies, while Tau2 is its
+square representing the estimated between-study variance. A significant Tau2 suggests heterogeneity,
+supporting the use of random effects models [87]. 
+As high heterogeneity was expected, we explored possible sources of heterogeneity in moderator
+analyses. Moderators were explored in subgroup analyses if the moderator was categorical (i.e.,
+control condition, Risk of Bias, psychological principles, SAD-specific intervention, guidance,
+parental involvement, age group) or in a meta-regression analysis if the moderator was continuous
+(i.e., age, symptom severity). Subgroup analyses included the computation of average effect sizes
+and the Q-statistic as an indicator of a common effect size. A significant Q-statistic suggests
+heterogeneity in effect sizes within the subgroup. 
+Sensitivity analyses were performed to investigate the robustness of our findings. We conducted
+analyses excluding studies with the highest and lowest effect sizes to assess the potential influence of
+outliers on the meta-analytic results. This allowed us to evaluate the stability of the overall effect size
+when extreme values were omitted. In another sensitivity analysis, we only included studies with
+participants who all met diagnostic criteria for SAD to control for heterogeneous diagnostic samples.
+Moreover, in a subgroup analysis, studies were stratified based on their Risk of Bias ratings to
+investigate the influence of the methodological quality. In addition to these preregistered analyses,
+we conducted a sensitivity analysis by excluding studies with an age range over 25 years to test
+whether older participants altered the effects and we carried out a moderator analysis with age groups
+(children (>10 years), adolescents (11-17 years), young adults (<18 years)) as moderator. 
+Additionally, numbers needed to treat (NNT) were computed for all effect sizes using the dmetar
+package in R with the default Kraemer and Kupfer method  [88]. NNT indicate the number of
+participants to be treated to achieve one case with reliable symptom change. 
+To address a possible publication bias, we visually inspected the funnel plot for symmetry and
+https://preprints.jmir.org/preprint/67067
+[unpublished, peer-reviewed preprint]
+
+===
+PAGE 12:
+JMIR Preprints
+Walder et al
+conducted Begg and Mazumdar’s test and Egger’s test to quantify asymmetry. Using the approach by
+Duval and Tweedie, we assessed missing studies in the funnel plot to estimate the effect size after
+imputation [80,89–91]. 
+Risk of Bias Assessment
+Risk of bias was assessed by two reviewers (NW, AF) independently following the Risk of Bias
+Assessment (RoB2) procedure and using the RoB2 Excel template [92]. After the individual rating,
+discrepancies between ratings were discussed until consensus was reached. The RoB2 tool includes
+five domains for randomised trials: 1) Bias arising from the randomisation process, 2) bias due to
+deviations  from  intended  interventions,  3)  bias  due  to  missing  outcome  data,  4)  bias  in  the
+measurement of the outcome and 5) bias in the selection of the reported result. Risk of bias was rated
+separately for each domain based on whether it was likely to have influenced study outcomes.
+Studies categorised as low overall risk have low bias ratings in all five domains. Some concerns in at
+least one domain led to some concerns about the overall judgment of the study. High Risk of Bias
+was assigned to studies with at least one domain rated as high risk [80].
+Results
+Study Selection
+The systematic literature search yielded 2149 records over all electronic databases. 474 records were
+removed before screening as they were duplicates over different databases. After the title screening,
+1357 records, and after the abstract screening, 205 records, respectively, were excluded due to
+nonfulfillment of eligibility criteria. Therefore, 113 full texts were assessed for eligibility. Finally, 22
+records were included in the systematic review and 21 in the meta-analysis. The study by Vigerland
+and colleagues [93] was not included in the meta-analytic calculations because there was insufficient
+data of social anxiety at post-assessment. For a complete overview, consider the flow diagram in
+Figure 1.
+https://preprints.jmir.org/preprint/67067
+[unpublished, peer-reviewed preprint]
+
+===
+PAGE 13:
+JMIR Preprints
+Walder et al
+Figure 1. Flow diagram of identification and screening process. 
+Study Characteristics
+The selected 22 papers were published between 2011 and 2024. The 22 trials were conducted in
+Australia (k = 7), USA (k=4), Sweden (k=3), UK (k=2), China (k=2), Spain (k=1), Iran (k=1),
+Canada (k=1) and the Netherlands (k=1). For a detailed overview of study characteristics, see Table
+1. 
+Sample Characteristics
+Participants  were  recruited  via  different  strategies,  mostly  sought  in  self-selected  sampling
+procedures  for  instance  through  posters  and  flyers,  word  of  mouth,  social  media  and  online
+advertisements, postings on parental or health care providers, or media and newsletter articles
+[56,82,85,93–102].  The  remaining  RCTs  recruited  participants  via  convenience  sampling  (i.e.,
+students research pool [103,104], school-based screening procedures [83,105–108], or an associated
+mental health clinic [109]. Few studies mentioned efforts to ensure a broad socioeconomic range
+either by choosing schools that cover multiple socioeconomic backgrounds [108] or by aligning the
+demographic profile of the study cohort to the country [56]. 
+In total, 4196 participants were randomised across all RCTs. Their age spanned from 3 to 48 years,
+with means from 4.8 to 24.9 years. In all studies, more than half of the participants were female. A
+https://preprints.jmir.org/preprint/67067
+[unpublished, peer-reviewed preprint]
+
+===
+PAGE 14:
+JMIR Preprints
+Walder et al
+comprehensive  compilation  of participant-related  characteristics,  including  ethnic  diversity  and
+socioeconomic information on the final sample, can be found in Table 1. 
+https://preprints.jmir.org/preprint/67067
+[unpublished, peer-reviewed preprint]
+
+===
+PAGE 15:
+JMIR Preprints
+Walder et al
+Table 1.
+Overview of included studies. 
+Study 
+Country
+Participants
+Study
+Dropout
+(1st Author
+& Year)
+Recruitment strategy
+N
+Total, (I:C)
+Age
+M(SD)
+; range
+Gender
+%
+ 
+with
+SAD
+diagnosis
+Ethnic diversity Socio-economic
+information
+Study
+design
+Measurement
+timepoints 
+SAD
+outcome
+measure
+Intervention
+name
+Control
+condition
+Control
+condition
+%
+without
+post-
+assessme
+nt
+(Rad et al.,
+2024)
+Iran
+School-based Screening 54
+(18:18:18)
+17
+(1.16);
+15-19
+f:100.0%
+m: 0.0%
+100%
+Iranian: 100.0% 84.3% belonged to
+average  economic
+group;
+15.5% belonged to
+lower  economic
+groups
+RCT 
+(3-arm)
+Baseline
+Post:14 weeks
+FU: 3 months
+SPIN
+ICBT
+Face-to-
+face CBT
+Waitlist
+24.3%
+Espinosa et
+al., 2024
+Spain
+Self-selected sample: 
+Referrals  by  school
+counsellors
+58
+14.9
+(2.0);
+12-18
+f: 81.0%
+m: 19.0%
+31%
+Caucasian: 90% Yearly
+ 
+family
+income: 
+>10’000€: 23.2%
+10’000 – 25’000€:
+57.1%
+>25.’000: 19.6%
+RCT 
+(2-arm)
+Baseline
+Post:
+FU: 3 months
+RCADS-30
+Social
+Phobia
+Subscale
+AMtE 
+UP-A
+telehealth
+administere
+d
+N/A
+16.7% 
+Mao  et  al.
+2023
+China
+School-based Screening 30 (15:15) 15.1
+(2.6);
+14-17
+f: 64.3%
+m: 35.7%
+No
+clinician
+assessed
+diagnosis,
+all  scored
+in top 10%
+of SAS-A
+Not reported
+Not reported
+RCT 
+(2-arm)
+Baseline
+Post: 4 weeks
+SAS-A
+CBM-I-app
+Waitlist
+N/A
+6.6%
+(Hilt et al.,
+2023)a
+USA
+Self-selected sample
+letters to guardians of
+6-9th grade students at
+public schools
+word-of-mouth
+study posters in public
+spaces
+online advertisements
+152
+(80:72)
+13.7
+(0.9);
+12-15
+f: 58.6%
+m: 41.5%
+No
+clinician
+assessed
+diagnosis
+White: 82.3%
+Black: 3.3%
+Asian: 2.0%
+Native: 0.7%
+Multiracial:
+10.5%
+Other: 1.3%
+Non-Hispanic:
+89.5%
+Hispanic: 10.5%
+median  household
+income
+ 
+90'000-
+100'000$
+9.21% recipients of
+government-
+assisted
+ 
+food
+program
+RCT 
+(2-arm)
+Baseline
+Post: 3 weeks
+FU:  6,  12
+weeks, 
+6 months
+MASC-SA App-based
+mindfulness
+exercises
+Mood
+monitoring
+N/A
+0.00%
+(Mueller &
+Cougle,
+2023)
+USA
+Convenience sample: 
+Online advertisements
+Student research pool
+55
+(28:27)
+19.45
+(2.1)
+f: 85.2%
+m: 14.8%
+100.0%
+White: 77.7%
+Black: 12.1%
+Asian: 5.5%
+Latino*a: 22.2%
+Non-hispanic:
+75.9%
+Not reported
+RCT
+(2-arm)
+Baseline
+Post: 4 weeks
+FU: 1 month
+SPIN
+Building
+Closer
+Friendships
+Waitlist
+N/A
+23.64%
+(Leigh  &
+Clark,
+2022)
+UK
+School-based Screening 43
+(22:21)
+16.2
+(1.1);
+14-18
+f:91.0%
+m: 9.0%
+100.0%
+48.8%
+ 
+from
+minority  ethnic
+backgrounds
+Not reported
+RCT
+(2-arm)
+Baseline
+Post: 14 weeks
+FU:  3,  6
+months
+LSASCA-
+SR
+OSCA
+Waitlist
+N/A
+4.65%
+(Bautista et
+al., 2022)
+USA
+Self-selected sample:
+Flyers
+ 
+on
+ 
+the
+35
+(20:15)
+21.9
+(4.8);
+f: 71.4%
+m: 28.6%
+No
+clinician
+European
+American: 71.4%
+Not reported
+RCT
+(2-arm)
+Baseline
+Post: 6 weeks
+SIAS
+Social
+Phobia
+Waitlist
+N/A
+17.14%
+10
+https://preprints.jmir.org/preprint/67067
+[unpublished, peer-reviewed preprint]
+
+===
+PAGE 16:
+JMIR Preprints
+Walder et al
+university campus
+19-24
+assessed
+diagnosis
+African
+American: 11.4%
+Hispanic/Latin:
+8.6%
+Asian/Asian
+American/Pacific
+Islander: 17.1%
+course
+ 
+at
+This Way Up
+Clinic
+(Schnierin
+g  et  al.,
+2022)a
+Australia Clinical sample: 
+Adolescents  and  their
+parents  contacting  the
+clinic for treatment were
+initially screened
+91
+(45:46)
+14.3
+(1.6);
+12-17
+f: 66.0%
+m: 34.0%
+28.5%
+Not reported
+Not reported
+RCT
+(2-arm)
+Baseline
+Post: 8 weeks
+FU:  3  months
+(intervention
+group only)
+SCASy
+Chilled  Plus
+Program
+Waitlist
+N/A
+14.46%
+(Nordh  et
+al., 2021)
+Sweden
+Self-selected sample
+Referrals  from  health
+care professionals
+Advertisements
+ 
+at
+CAMHS
+ 
+clinics,
+newspapers  +  social
+media
+103
+(51:52)
+14.1
+(2.1);
+10-17
+f: 77.0%
+m: 23.0%
+100.0%
+Not reported
+Not reported
+RCT
+(2-arm)
+Baseline
+Post: 10 weeks
+FU: 3 months
+LSAS-C
+ICBT
+ 
+for
+SAD
+ISUPPORT
+:
+Psychoedu
+cation
+about SAD
++  healthy
+habits
+N/A
+1.94%
+(Stapinski
+et
+ 
+al.,
+2021)
+Australia Self-selected sample: 
+Media coverage
+Social media postings
+123
+(62:61)
+21.6
+(2.2);
+17-24
+f: 67.0%
+m: 31.7%
+d: 0.8%
+No
+clinician
+assessed
+diagnosis
+82.1%:
+Australian-born
+17.9%:  of  other
+origin
+Not reported
+RCT
+(2-arm)
+Baseline: 
+Post: 2 months
+FU: 6 months
+Composite
+Score  of
+SIAS  &
+SPIN
+Inroads
+Psycho-
+education
+on alcohol
+N/A
+30.65%
+(Wang  et
+al., 2020)
+China
+Self-selected sample: 
+Advertisements
+ 
+on
+different
+ 
+internet
+platforms
+randomised
+210
+(70:70:70);
+analysed:
+104
+(33:37:24)
+24.9
+(4.6);
+18-45
+f: 70.2%
+m: 29.8%
+100.0%
+Not reported
+Not reported
+RCT
+(3-arm)
+Baseline
+Post: 8 weeks
+SIAS
+ICBT guided
+for SAD
+ICBT  self-
+help  for
+SAD
+Waitlist
+50.48%
+(Farrer  et
+al., 2019)
+Australia Self-selected sample:
+Social media postings
+School-based  through
+newspaper, email
+200
+22.1
+(4.9);
+18< 
+f: 77.5%
+m: 17.0%
+d: 5.5%
+No
+clinician
+assessed
+diagnosis
+Caucasian/
+European: 64.5%
+Asian/Indian:
+28.0%
+Aboriginal/
+Torres
+ 
+Strait
+Islander/Pacific
+Islander: 1.0%
+Latino/South
+American: 1.5%
+African: 1.0%
+Other: 4.0%
+No financial stress:
+28%
+Occasional
+financial
+ 
+stress:
+42.5%
+Frequent  financial
+stress: 21.0%
+Constant  financial
+stress: 8.5%
+RCT
+(2-arm)
+Baseline
+Post: 6 weeks
+FU: 3 months
+SOPHS
+Uni  Virtual
+Clinic
+Waitlist
+N/A
+28.00%
+(McCall  et
+al., 2018)
+Canada
+Convenience sample:
+Student research pool
+101 
+(51:50)
+21.9
+(5.5)
+17-46
+f: 72.0%
+m: 28.0%
+No
+clinician
+assessed
+diagnosis,
+Elevated
+score  of
+Mini-SPIN
+and
+ 
+no
+prior  SAD
+White: 18.0%
+Asian: 62.0%
+Other: 20.0%
+Not reported
+RCT
+(2-arm)
+Baseline
+Post: 4 months
+SIAS
+Overcome
+Social
+Anxiety
+Waitlist
+N/A
+35.64%
+11
+https://preprints.jmir.org/preprint/67067
+[unpublished, peer-reviewed preprint]
+
+===
+PAGE 17:
+JMIR Preprints
+Walder et al
+diagnosis
+(Spence  et
+al.,  2017
+and  Hearn
+et
+ 
+al.,
+2018)b
+Australia Self-selected sample:
+via schools
+parent groups
+mental
+ 
+health
+professionals
+guidance officers
+media, Facebook 
+125
+(47:48:30)
+11.3
+(2.7);
+8-17
+f: 60.0%
+m: 40.0%
+100.0%
+Country of Birth:
+Australia: 83.2%
+USA/Canada: 4.8
+United Kingdom:
+4.0%
+New  Zealand:
+2.4%
+Europe: 1.6%
+Africa: 1.6%
+Asia: 0.8%
+Other: 1.6%
+Indigenous
+Australian: 2.4%
+High  (>AUS$100
+001): 57.9%
+Low  +  Middle
+(<100,000): 42.0%
+RCT
+(3-arm)
+Baseline
+Post: 12 weeks
+FU: 6 months
+SPAI-C
+ICBT-SAD
+ICBT-
+Generic
+Waitlist
+21.60%
+(Morgan et
+al., 2017)
+Australia Self-selected sample:
+Paid
+ 
+google
+ 
++
+facebook ads
+Postings on parenting
++  mental  health
+websites
+Flyers  in  preschool
+services
+433
+(215:218)
+4.8
+(1.0);
+3-6
+f:52.3%
+ m: 47.7%
+No
+clinician
+assessed
+diagnosis
+Not reported
+Financial
+difficulty: 17.1%
+RCT
+(2-arm)
+Baseline
+Post: 12 weeks
+FU: 24 weeks
+PAS-R
+SAD
+subscale
+Cool  Little
+Kids
+ 
+for
+parents
+Waitlist
+N/A
+20.79%
+(Sanchez et
+al., 2017)
+USA
+Self-selected sample:
+Social media postings
+Postings on parenting
+list servers
+Referrals  by  national
+school  systems  and
+child service providers
+69
+(33:36)
+8.9
+(1.2)
+7-11
+f: 40.5%
+m: 59.5%
+No
+clinician
+assessed
+diagnosis
+White/Non-
+White: I: 55.0%/
+45.0%, C:56.0%/
+44.0%, Hispanic/
+Non-Hispanic:  I:
+6.0%/94.0%,  C:
+6.0%/94.0%
+Not reported
+RCT
+(2-arm)
+Baseline
+Post: 9 weeks
+SASC-R 
+Adventures
+aboard  the
+S.S. GRIN
+Waitlist
+N/A
+Not
+indicated
+(Calear,
+Christense
+n,  et  al.,
+2016)
+Australia School-based sample: 
+Recruited  schools  from
+the  Australian  Capital
+Territory  and  South
+Australia 
+225
+(127:98)
+15.0
+(1.08);
+13-17
+f: 70.6%
+m: 16.8%
+No
+clinician
+assessed
+diagnosis
+Not reported
+Not reported
+Cluster-
+RCT
+(2-arm)
+Baseline
+Post: 6 weeks
+FU: 3 months
+SAS-A
+E-couch
+Anxiety  and
+Worry
+program
+Waitlist
+N/A
+I:  38.8%
+C: 27:6%
+(Calear,
+Batterham,
+et
+ 
+al.,
+2016)
+Australia School-based sample of
+six
+ 
+participating
+headspace centres
+1767
+14.8
+(1.0);
+12-18
+f: 62.8%
+m: 37.2%
+No
+clinician
+assessed
+diagnosis
+Not reported
+Not reported
+Cluster-
+RCT
+(3-arm)
+Baseline
+Post: 6 weeks
+FU:  6,  12
+months
+SAS-A
+e-GAD
+health
+services
+e-GAD
+school
+Waitlist
+52.52%
+(Vigerland,
+Ljótsson,
+et
+ 
+al.,
+2016)
+Sweden
+Self-selected sample: 
+Media advertisements
+93 
+(46:47)
+10.1
+(1.7);
+8-12
+f: 55%
+m: 45%
+10.0%
+Not reported
+Not reported
+RCT
+(2-arm)
+Baseline
+Post: 11 weeks
+FU: 3 months
+FU: 12 monthsc
+SPAI-C/P
+ICBT
+Waitlist
+N/A
+96.77%
+(Sportel  et
+al., 2013)
+Netherlan
+ds
+N/A
+240
+(84:86:70)
+14.1
+(0.6);
+12-15
+f: 73.3%
+m: 26.7%
+12.9%  met
+SAD
+diagnosis;
+remaining
+elevated
+symptoms
+of  social
+and/or  test
+Not reported
+Not reported
+Cluster-
+RCT  (3-
+arm)
+Baseline
+Post: 12 weeks
+FU:  6,  12
+months
+RCADS
+SAD
+Subscale
+CBM-I
+Group
+CBT
+Waitlist
+16.67%
+12
+https://preprints.jmir.org/preprint/67067
+[unpublished, peer-reviewed preprint]
+
+===
+PAGE 18:
+JMIR Preprints
+Walder et al
+anxiety
+(Bowler  et
+al., 2012)
+UK
+Self-selected sample: 
+posters
+e-mail campaign
+71
+(24:25:22)
+22.7
+(5.9);
+18-48
+f: n=43
+m: n=20
+No
+clinician
+assessed
+diagnosis;
+elevated
+SPIN
+scores
+primarily
+Caucasian
+Not reported
+RCT
+(3-arm)
+Baseline
+Post: 2 weeks
+SPIN
+E-couch
+social
+anxiety
+program
+CBM-I
+Waitlist
+11.27%
+Tillfors
+(2011)
+Sweden
+Self-selected sample: 
+regional  newspaper
+articles
+school staff
+advertisements in high
+school
+19
+(10:9)
+16.5
+(1.6);
+15-21
+f: n=17
+m: n=2
+100.0%
+Not reported
+Not reported
+RCT
+(2-arm)
+Baseline
+Post: 9 weeks
+FU: 1 year
+SPSQ-C &
+LSAS-SR
+CBT-based
+online-
+intervention
+Waitlist
+N/A
+5.26%
+Notes: Gender: f: = female; m = male; d = diverse; 
+Outcome Measures: SIAS = Social Interaction Anxiety Scale (Mattick & Clarke, 1998); SPIN = Social Phobia Inventory (Connor et al., 2000); LSAS-C =
+Liebowitz Social Anxiety Scale-Child version; LSASCA-SR = Liebowitz Social Anxiety Scale for Children and Adolescents- Self-report Version; (Masia-Warner
+et al., 2003); SCAS-C = Spence Children's Anxiety Scale; SCASy = Spence Children's Anxiety Scale, youth report; SCAS-P = Spence Children's Anxiety Scale,
+parent report (Spence, 1998); SAS-A = Social Anxiety Scale for Adolescents (La Greca & Lopez, 1998); SOPHS = Social Phobia Screener (Batterham et al.,
+2017); SPAI-C = Social Phobia and Anxiety Inventory for Children (Beidel et al., 2000); RCADS-SP = Revised Children's Anxiety and Depression Scale, Social
+Phobia Subscale (Chorpita et al., 2005); SPSQ-C = Social Phobia Screening Questionnaire for Children and adolescents (Gren-Landell et al., 2009) 
+a We obtained unpublished, SAD-specific outcome data directly from the authors, which was not included in the original outcome paper. 
+b:The data reported by Spence et al. (2017) were later used by Hearn et al. (2018); Spence compared three arms of the RCT with each other (transdiagnostic
+ICBT, SAD-specific ICBT and waitlist control), and Hearn compared both intervention groups to the waitlist group. Depending on the analysis, data were either
+drawn from Spence et al. (2017) or Hearn et al. (2018). 
+c:12 months follow-up data were reported in a sperate publication (Vigerland et al., 2017). 
+13
+https://preprints.jmir.org/preprint/67067
+[unpublished, peer-reviewed preprint]
+
+===
+PAGE 19:
+JMIR Preprints
+Walder et al
+Intervention Characteristics
+For a detailed overview of intervention characteristics, consider Table 2. All interventions
+were  delivered  via  computer,  except  two  studies  that  investigated  a  smartphone
+application (app) [96,105]. In most studies, participants completed the interventions from
+home (or from anywhere) and only some interventions were delivered at a lab [82] or in a
+school setting [83] under the observation of a researcher or teacher, respectively. Except
+for the apps and the social skills game, all interventions were module-based. Participants
+either had access to all modules from the beginning or one module was activated per
+week. 
+Most interventions were based on CBT principles (k=16); some were CBM interventions
+(k=3) and some were based on mindfulness (k=1) or social skills training (k=1). The
+interventions  either  addressed  anxiety  symptoms  or  disorders  in  general  or  were
+specifically
+ 
+designed
+ 
+for
+ 
+SAD.
+ 
+SAD-specific
+ 
+interventions
+[56,85,98,101,103,104,106,108,110],  particularly  incorporated  examples  of  fears  and
+cognitions that are important in SAD (for example based on the Cognitive Model [12] or
+the cognitive-behavioral model  [14])or focused on different biases that play a role in
+SAD [82,84,105]. 
+Adherence
+Most commonly, adherence was operationalised as a mean number of completed modules
+per  participant  or  percentage  of  participants  that  completed  individual  modules
+[56,82,84,93,94,100–102,104–107]. Leigh and Clark  [108] reported the average time
+spent  with  the  intervention  and  Nordh  and  colleagues  [98] applied  the  “Internet
+Intervention Patient Adherence Scale” [111]. Only one study [100] analysed the effect of
+adherence on symptom reduction and found a dose effect with more completed modules
+resulting in a greater change from baseline to post treatment. 
+Guidance
+The extent of guidance varied greatly over all studies. Nine studies were unguided self-
+help; in six studies participants had no contact [94,96,99,104,105,107] and three studies
+sent automated reminders or summary emails [84,97,103]. In two studies the presence of
+teachers or researchers ensured that participants were using the DMHI but they gave no
+feedback on the intervention progress [82,83]. Most programs individualised their human
+guidance in asynchronous weekly messages in the program, via email or as feedback on
+worksheets [56,85,93,98,100,101,108]. Some offered scheduled or on-request telephone
+support during the DMHI time [97,98,100,102,106,108,109]. One study offered weekly
+in-person meetings with a trained undergraduate student in the role of a peer coach [110].
+Generally, guidance was provided by trained Psychology graduate students under regular
+supervision  or  by  trained  (CBT-)therapists.  Some  studies  indicated  time  spent  for
+guidance, e.g., [108] reported an overall mean of 398.67 minutes (6.64 h) spent directly
+communicating with participants. Other studies recorded the average effort per week and
+participant (15 to 30 minutes;[85,98]) or the average meeting time (5 to 35 minutes;
+[97,106,110]). 
+14
+https://preprints.jmir.org/preprint/67067
+[unpublished, peer-reviewed preprint]
+
+===
+PAGE 20:
+JMIR Preprints
+Walder et al
+Table 2. 
+Characteristics of interventions. 
+RCT
+Psychological principal
+SAD-
+specific
+Modules
+Intervention
+duration
+Adherence
+Guidance format
+Guidance amount
+Parental
+involve-
+ment
+(Rad et al., 2024)
+Integrated  CBT-based  program
+based on CBT manual for anxious
+children (Kendal & Hedtke, 2006)
+and CBT for SAD (Hofmann &
+Otto, 2017)
+Yes
+10 modules
+10 weeks
+83.3% completed all 10 modules Yes
+Weekly 5 min video call by a
+licenced therapist
+Not reported
+No
+(Espinosa  et  al.,
+2024)
+Transdiagnostic  CBT program  to
+support emotion regulation based
+on  UP-A  and  previous  Spanish
+program for adults
+No
+8 modules
+8 weeks
+≤ 1 modules completed: 100%
+Mean  number  of  completed
+modules: 7.05 (SD=1.25)
+(Yes)
+One  phone  call  with
+adolescents/parents  at  the
+beginning
+ 
+and
+ 
+after
+intervention completion
+Not reported
+No
+(Mao et al., 2023) CBM including interpretation bias
+modification tasks
+Yes
+8 modules
+4 weeks
+93.3% completed entire training No
+Not reported
+No
+(Hilt et al., 2023)
+Mood  monitoring  +  Mindfulness
+exercises 
+No
+Pax  received  mindfulness
+exercises
+ 
+after
+ 
+mood
+monitoring questions. 
+Exercise length depended on
+availability of pax: 1, 5 or 10
+minutes
+3 weeks
+Not reported
+No
+Not reported
+No
+(Mueller
+ 
+&
+Cougle, 2023)
+Building
+ 
+closer
+ 
+friendships
+consisted  of  3  components:  1)
+emotional writing, 2) social skills,
+3)  exposure  exercises  addressing
+individuals with SAD, specifically
+fear of intimacy
+Yes
+3  modules  including  10
+treatment components
+4 weeks
+≤ 1  treatment  component
+completed: 100%
+Mean  number  of  completed
+treatment  components:  7.65
+(SD=2.38)
+No
+Not reported
+No
+(Leigh  &  Clark,
+2022)
+OSCA:  CBT-based  program  for
+SAD  based  on  the  Cognitive
+Model by Clark and Wells
+Yes
+8 core modules for weeks 1
+and 2
+Up to 16 additional modules
+to individualize treatment on
+specific problems and fears
+14 weeks
+Mean  hours  spent  on  OSCA:
+26.14h (SD=11.32)
+Mean  number  of  completed
+exercises: 25 (SD=10.75)
+Yes
+Weekly 20 min phone calls
+and messages in the program
+by a clinical psychologist
+Mean  time  spent  in  direct
+communication
+ 
+with
+participants:  398.67  minutes
+(SD =59.38)
+No
+(Bautista  et  al.,
+2022)
+CBT-based  program  addressing
+SAD  provided  via  this  way  up
+clinic.
+Yes
+6 modules
+6  to  10
+weeks
+Not reported
+Yes
+Weekly in-person meetings
+by  undergraduate  students
+who  participated  in  3
+training sessions
+Meeting  time:
+ M=11.73
+minutes (SD=6.57)
+No
+(Schniering  et  al.,
+2022)
+Chilled  Plus  is  a  CBT-based
+program  addressing  anxiety  and
+depression  based  on  the  face-to-
+face Chilled program. 
+No
+8 modules
+8 weeks
+Not reported
+Yes
+Eight 30 min phone calls
+by therapists 
+Not reported
+Yes
+(Nordh  et  al.,
+2021)
+CBT-based  program  addressing
+SAD  based  on  the  program  by
+Nordh et al. (2017)
+Yes
+10 child modules
+5 parent modules
+10 weeks
+Patient  adherence  scale  rating:
+M=22.84 (SD=10.10)
+Yes
+Three  30  minutes  phone
+calls; asynchronous support
+by clinical psychologists
+Therapists  time  per  week
+M=28.85 (SD=16.79)
+Yes
+(Stapinski  et  al.,
+2021)
+Inroads:  CBT-based  program
+addressing anxiety and hazardous
+alcohol use
+No
+5 modules
+8 weeks
+≤ 1 module completed: 77.0%
+≤ 3 modules completed: 51.0%
+All 5 modules completed: 39.0%
+Yes
+Weekly emails; two 30 min
+phone calls or chat sessions
+Not reported
+No
+15
+https://preprints.jmir.org/preprint/67067
+[unpublished, peer-reviewed preprint]
+
+===
+PAGE 21:
+JMIR Preprints
+Walder et al
+by clinical psychologists
+(Wang et al., 2020) CBT-based  treatment  addressing
+SAD  based  on  the  program  of
+Berger et al. (2009) (guided and
+unguided self-help)
+Yes
+5 modules
+8 weeks
+Not reported
+Yes
+Weekly emails
+by  psychology  graduate
+students  with  training  in
+CBT under supervision of a
+clinical psychologist
+Mean time spent for guidance
+per participant per week= 15
+minutes
+No
+Not reported
+No
+Not reported
+No
+(Farrer et al., 2019)Uni  Virtual  Clinic:  CBT-based
+online mental health program 
+No
+Multiple modules covering a
+topics  students  might  be
+affected  of  (e.g.,  mood,
+anxiety, substance use, eating
+disorders  and  loneliness,
+homesickness,  adjusting  to
+university)
+6 weeks
+75.8%: accessed the program.
+63.8% logged in weekly.
+42.6% spent < than 5 minutes
+per visit
+No
+Not reported
+No
+(McCall  et  al.,
+2018)
+Overcome Social Anxiety
+CBT-based addressing SAD
+Yes
+7 modules
+4-6 months
+Not reported
+(No) 
+Automated emails
+Not reported
+No
+(Spence et al. 2017
+and  Hearn  et  al.,
+2018)
+CBT-based
+ 
+generic
+ 
+anxiety
+program (BRAVE ONLINE)
+No
+10 modules of 60 min
+12 weeks
+Mean  number  of  modules
+completed at postintervention:
+Children: 4.75 of 10
+Their parents: 4.32 of 6
+Adolescents: 4.00 of 10
+Their parents: 3.18 of 5
+Yes
+Weekly email feedback
+By  trained  psychologists
+supervised
+ 
+by
+ 
+an
+experienced
+ 
+clinical
+psychologist
+Not reported
+Yes
+CBT-based  program  addressing
+SAD that specifically focused on
+social anxiety and included social
+skills  training  and  SAD  specific
+cognitive  elements  based  on  the
+Clark and Wells (1995) model.  
+Yes
+(Morgan  et  al.,
+2017)
+Cool little kids online: CBT-based
+program based on the cool little
+kids  parenting  group  program
+addressing anxiety in children
+No
+8 modules
+8 weeks
+Not reported
+Yes
+Automated summary emails;
+telephone support on request
+By psychologist
+12 calls to 11 parents (Mean
+duration=35 minutes)
+Yes
+(Sanchez  et  al.,
+2017)
+Adventures  is  an  online  game
+based  on  the  social  skills  group
+intervention (DeRosier, 2004). 
+No
+9 modules of 25 min
+9 weeks
+Not reported
+No
+Not reported
+No
+(Calear,
+Christensen, et al.,
+2016)
+E-couch  anxiety  and  worry
+program:  CBT-based  program
+addressing anxiety and worry
+No
+6 modules of 30-40 min
+6 weeks
+2 modules completed: 98.0%
+4 modules completed: 68.0%
+All 6 modules completed: 45.0%
+(No)
+But  classroom  teachers
+assisted  with  logins  and
+supervised
+ 
+participants
+during  time  of  program
+completion
+Not reported
+No
+(Calear, Batterham,
+et al., 2016)
+E-couch  anxiety  and  worry
+program:  CBT-based  program
+mental health condition
+No
+6 modules of 30 to 40 min
+6 weeks
+Not reported
+(No)
+Participants were supervised
+to complete the program and
+assisted  if  they  had
+questions.
+By  teachers  and  headspace
+education officers 
+Not reported
+No
+E-couch  anxiety  and  worry
+program:  CBT-based  program
+school condition
+No
+6 modules of 30 to 40 min
+6 weeks
+Not reported
+(No)
+But  classroom  teachers
+assisted  with  logins  and
+supervised
+ 
+participants
+during  time  of  program
+Not reported
+No
+16
+https://preprints.jmir.org/preprint/67067
+[unpublished, peer-reviewed preprint]
+
+===
+PAGE 22:
+JMIR Preprints
+Walder et al
+completion
+(Vigerland,
+Ljótsson,  et  al.,
+2016)
+CBT-based  program  addressing
+anxiety disorders
+No
+4 modules for children
+7 modules for parents
+10 weeks
+Mean  number  of  completed
+modules:9.7 (SD=1.8)
+Yes
+online messages and written
+feedback on worksheets
+by
+ 
+psychologists/CBT-
+therapists 
+Not reported
+Yes
+(Sportel  et  al.,
+2013)
+CBM including interpretation bias
+and  attention  bias  modification
+tasks
+Yes
+20 sessions (40 minutes)
+10 weeks
+Mean  number  of  completed
+sessions: 8.5 (SD=6.7)
+(No) 
+Automated  E-mails  to
+complete sessions
+Not reported
+No
+(Bowler  et  al.,
+2012)
+E-couch  social  anxiety  program
+based on CBT principles
+Yes
+4 sessions
+2 weeks
+All  participants  completed  all
+four sessions.
+ 
+(No)
+Researcher
+ 
+ensured
+attendance  and  compliance
+with the program in the lab. 
+Not reported
+No
+CBM with 40 scenarios that relate
+to  socially  anxious  persons  per
+module
+(Tillfors  et  al.,
+2011)
+CBT-based  self-help  manual
+addressing  SAD  based  on  a
+previously  tested  program  for
+students 
+Yes
+9 modules
+9 weeks
+Mean  number  of  completed
+modules finished:2.9 (Range 1-
+6).
+Yes
+feedback  on  the  homework
+assignment
+by therapists 
+Not reported
+No
+Notes: CBT = Cognitive behavioral therapy; CBM = Cogntive bias modification; SAD = Social anxiety disorder; SD = standard deviation; M = mean
+17
+https://preprints.jmir.org/preprint/67067
+[unpublished, peer-reviewed preprint]
+
+===
+PAGE 23:
+JMIR Preprints
+Walder et al
+Risk of Bias 
+Risk of Bias assessment indicated that most studies showed some concerns (see Figure
+2). A main concern was the fact that RCTs investigating psychological intervention do not
+facilitate adequate masking of participants to the treatment condition. Therefore, only
+studies with another active intervention that mimicked the initial intervention and in
+which participants were blinded to the condition (e.g., [98]) were rated with low risk in
+the dimension 4 Measurement of the outcome. Three studies were classified as high risk
+due to insufficient information on randomisation, no indication of analysis to estimate the
+effect of assignment to the intervention group, high missingness and no indication of any
+measures that account for that [85,94,99]. Insufficient information on the randomisation
+process (i.e., concealment of allocation sequence or assessment of baseline differences
+between groups) was reported in 39% (9/22) of the studies. In 30% (7/22) of the studies,
+there was  no information  on possible trial  deviation  or estimation  of an effect of
+assignment to the intervention. Most studies (83%; 19/22) followed the intention-to-treat
+(ITT) approach and investigated their missing data. All but five studies (22%) reported
+their plan of analysis and the reporting of the result was transparent and complete. The
+Risk of Bias assessments of all studies are included in the supplementary material. 
+Randomization process
+Deviations from intended interventions
+Mising outcome data
+Measurement of the outcome
+Selection of the reported result
+Overall Bias
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+As percentage (intention-to-treat)
+Low risk
+Some concerns
+High risk
+Figure 2. Overall Risk of Bias assessment displayed in percentages. 
+Effect of DMHIs on social anxiety symptoms
+The random effects model yielded an overall effect size in favour of DMHI compared to
+any control condition at post-assessment of g=0.508 (95% CI: 0.308 to 0.707) (see Figure
+3). Sensitivity analyses were performed a) excluding studies with the highest [108] and
+the lowest  [83] effect size, b) excluding studies  with an age range over 25 years
+[82,85,94,103] and c) including studies with the full sample being diagnosed with SAD
+[85, 95, 98, 101, 104, 106, 108]. Two additional analyses were performed for follow-up
+between-group effect sizes; one was computed with follow-up data collected 3 to 6
+months and one with data collected 12 months after post-assessment. For a detailed
+overview, see Table 3. 
+18
+https://preprints.jmir.org/preprint/67067
+[unpublished, peer-reviewed preprint]
+
+===
+PAGE 24:
+JMIR Preprints
+Walder et al
+Figure 3. Forest plot of all studies included in the main outcome meta-analysis with the
+pooled effect size from the random effects model. 
+Subgroup analyses
+In subgroup analyses, the moderating effect of the control condition, Risk of Bias, age
+group, underlying psychological principles, the focus of the intervention on SAD or
+transdiagnostic anxiety symptoms, guidance and parental involvement was investigated.
+Except for the subgroup analysis comparing the effect of control conditions, both active
+and inactive conditions were included in all analyses. The effect size was significantly
+greater if the DMHI was compared to a waitlist (g=0.576, 95% CI: 0.343 to 0.809) than
+to another active intervention (g=0.101, 95% CI: 0.021 to 0.261). Furthermore, DMHIs
+based on CBT (g=0.610, 95% CI: 0.361 to 0.859) were significantly more effective than
+DMHIs based on other therapeutic interventions (g=0.176, 95% CI: -0.052 to 0.405) (i.e.,
+CBM). DMHIs including therapeutic elements specifically addressing SAD (g=0.878,
+95% CI: 0.469 to 1.278), were significantly more effective than DMHIs addressing
+transdiagnostic anxiety symptoms (g=0.195, 95% CI: 0.040 to 0.277). Guided self-help
+(g=0.825,  95%  CI: 0.425  to  1.224)  was  more  efficacious  than  unguided  self-help
+(g=0.271, 95% CI: 0.083 to 0.458). Age groups (i.e., children: g=0.185, 95% CI: -0.008
+to 0.379, adolescents: g=0.575, 95% CI: 0.270 to 0.880, young adults: g=0.578, 95% CI:
+0.276 to 0.879) differed significantly with children having the smallest and a non-
+significant effect. No significant difference was found for DMHIs with (g=0.281, 95%
+CI: 0.117 to 0.445) or without (g=0.602, 95% CI: 0.242 to 0.962) parental involvement.
+The computed effect sizes for different levels of Risk of Bias were not significantly
+different from each other (i.e., low risk:  g=0.201, 95% CI: -0.029 to 0.431; some
+concerns:  g= 0.622, 95% CI: 0.359 to 0.885; high risk:  g=0.399, 95% CI: -0.213 to
+1.011); however, while the prediction interval for the low  and some-risk subgroup
+analyses were small, the one in the high-risk bias subgroup analysis spanned from 6.9 to
+7.7. Consider Table 3 for a complete overview and the multimedia appendix (MA. 3) for
+all forest plots. 
+19
+https://preprints.jmir.org/preprint/67067
+[unpublished, peer-reviewed preprint]
+
+===
+PAGE 25:
+JMIR Preprints
+Walder et al
+Table 3.
+Effect sizes of DMHIs compared with control groups (random effects model at post-assessment if not otherwise indicated). 
+Effect size 
+Test  of  null
+ 
+(2-tail)
+Prediction interval
+Between-study
+Heterogeneity statistics
+NNT
+Nco
+Hedges’  g
+(SE)
+95% CI
+Z
+P
+Lower
+Limit
+Upper
+Limit
+Tau
+TauSq
+Q-value
+df (Q)
+P-value
+I2
+Overall effect 
+21
+0.508 (0.104)
+0.308 to 0.707
+4.995
+>.001
+-0.332
+1.347
+0.388
+0.151
+100.164
+20
+>.001
+80.033
+3.6
+Sensitivity Analyses
+Highest effect size removed
+20
+0.414 (0.088)
+0.242 to 0.587
+4.705
+>.001
+-0.262
+1.091
+0.310
+0.096
+69.414
+19
+>.001
+72.628
+4.3
+Lowest effect size removed
+20
+0.551 (0.111)
+0.333 to 0.769
+4.963
+>.001
+-0.358 
+1.461
+0.418
+0.175
+88.354
+19
+>.001
+78.496
+3.3
+3 to 6 months Follow-up
+12
+0.378 (0.110)
+0.162 to 0.594
+3.427
+>.001
+-0.366
+1.122
+0.315
+0.099
+50.871
+11
+>.001
+78.376
+4.8
+12 months Follow-up
+2
+0.064 (0.086)
+-0.105 to 0.233
+0.748
+0.455
+0.000
+0.000
+0.168
+1
+0.682
+0.000
+27.7
+Adults >25 omitted
+17
+0.485 (0.113)
+0.264 to 0.706
+4.306
+<.001
+-0.373
+1.343
+0.387
+0.149
+83.418
+16
+>.001
+80.820
+3.7
+Only 100% SAD sample
+7
+1.149 (0.331)
+0.510 to 1.798
+3.473
+0.001
+-1.084
+3.383
+0.803
+0.646
+46.931
+6
+>.001
+87.215
+1.7
+Subgroup Analyses
+Study characteristics
+Control condition
+10.561 
+1
+0.001
+Waitlist
+18
+0.576 (0.119)
+0.343 to 0.809
+4.842
+<.001
+-0.363
+1.515
+0.427
+0.182
+98.592
+17
+>.001
+82.757
+3.2
+Active
+9
+0.141 (0.061)
+0.021 to 0.261
+2.310
+0.021
+0.000
+0.000
+4.068
+8
+0.851
+0.000
+12.6
+Risk of Bias score
+1.554
+2
+0.460
+Low risk
+3
+0.201 (0.117)
+-0.029 to 0.431
+1.715
+0.086
+0.000
+0.000
+1.417
+2
+0.493
+0.000
+8.9
+Some concerns
+15
+0.622 (0.134)
+0.359 to 0.885
+4.633
+<.001
+-0.371
+1.614
+0.439
+0.193
+87.152
+14
+0.000
+83.936
+2.9
+High risk 
+3
+0.399 (0.312)
+-0.213 to 1.011
+1.277
+0.202
+-6.972
+7.770
+0.489
+0.239
+11.344
+2
+0.003
+82.370
+4.5
+Age group
+7.042
+2
+0.030
+Children (<10 yrs)
+2
+0.185 (0.099)
+-0.008 to 0.379
+1.877
+0.060
+0.000
+0.000
+0.346
+1
+0.556
+0.000
+9.6
+Adolescents (11-17yrs)
+12
+0.575 (0.156)
+0.270 to 0.880
+3.697
+<.001
+-0.521
+1.672
+0.467
+0.218
+76.542
+11
+>.001
+85.629
+3.2
+Young adults (>18 yrs)
+7
+0.578 (0.154)
+0.276 to 0.879
+3.754
+<.001
+-0.301
+1.457
+0.305
+0.093
+14.484
+6
+0.025
+58.576
+3.2
+Intervention characteristics
+Psychological principal
+6.302
+1
+0.012
+CBT
+16
+0.610 (0.127)
+0.361 to 0.859
+4.800
+<.001
+-0.361
+1.580
+0.434
+0.189
+93.551
+15
+0.000
+83.966
+3.0
+Others
+5
+0.176 (0.117)
+-0.052 to 0.405
+1.512
+0.729
+-0.376
+0.729
+0.129
+0.017
+5.285
+4
+0.259
+24.307
+10.1
+SAD-specific intervention
+11.034
+1
+0.001
+Yes
+12
+0.878 (0.206)
+0.469 to 1.278
+4.231
+<.001
+-0.615
+2.362
+0.635
+0.403
+63.447
+11
+0.000
+82.663
+2.2
+No (transdiagnostic)
+9
+0.195 (0.061)
+0.040 to 0.277
+2.622
+0.009
+-0.104
+0.422
+0.093
+0.093
+11.150
+8
+0.193
+28.250
+9.1
+Guidance
+6.065
+1
+0.014
+No
+11
+0.271 (0.096)
+0.083 to 0.458
+2.834
+0.005
+-0.301
+0.842
+0.234
+0.055
+27.308
+10
+0.002
+63.381
+6.6
+Yes
+10
+0.825 (0.204)
+0.425 to 1.224
+4.049
+0.000
+-0.567
+2.216
+0.568
+0.323
+58.760
+9
+<.001
+84.683
+2.3
+20
+https://preprints.jmir.org/preprint/67067
+[unpublished, peer-reviewed preprint]
+
+===
+PAGE 26:
+JMIR Preprints
+Walder et al
+Parental involvement
+0.670
+1
+0.413
+Yes
+4
+0.281 (0.084)
+0.117 to 0.445
+3.355
+0.001
+0.000
+0.000
+1.476
+3
+0.688
+0.000
+6.4
+No
+10
+0.602 (0.184)
+0.242 to 0.962
+3.275
+0.001
+-0.644
+1.847
+0.508
+0.258
+74.031
+9
+<.001
+87.843
+3.0
+Notes: Nco = Number of comparisons (i.e., number of primary studies that went into the meta-analytical evaluation and subgroup analyses). 
+21
+https://preprints.jmir.org/preprint/67067
+[unpublished, peer-reviewed preprint]
+
+===
+PAGE 27:
+JMIR Preprints
+Walder et al
+Meta-regression of age and symptom severity 
+Age and baseline symptom severity of social anxiety were introduced as a moderator in
+the main analysis. The meta-regression indicated that age had no significant effect on the
+efficacy of DMHIs on social anxiety ( =
+𝛽
+.038, 95%: -0.003 to 0.079, p=.067). Higher
+baseline symptom severity increased the effect size significantly ( =
+𝛽
+.014, 95%: 0.005 to
+0.023, p=.002). 
+Publication Bias
+Visual inspection of the funnel plot suggested the presence of a publication bias as the
+standard errors were not equally scattered around the overall mean (see Figure 4). Both
+the Begg and Mazumdar’s test and the Egger’s test of the intercept were significant (both
+p>.001), supporting an underlying publication bias. When adjusting for missing studies
+using the Duval and Tweedie trim and fill procedure in the random effects model, the
+effect size resulted in g=0.506 (95% CI= 0.308 to 0.707). 
+Figure 4. Funnel plot of all studies included in the meta-analysis and corrected mean
+effect (black diamond) and imputed effect sizes (black dots). 
+Discussion
+This meta-analysis evaluated the efficacy of DMHIs on SAD in young people. Across 21
+RCTs and 4196 participants, we found a small to medium pooled effect size in favour of
+DMHIs  compared to both inactive and active control conditions  assessed after the
+intervention. The effect size remained after taking the publication bias into account.
+Notably, the treatment gains decreased until 3 to 6 months follow-up and were no longer
+significant at 12 months follow-up. Subgroup analyses revealed that DMHIs based on
+CBT, including SAD-specific elements and support by human guidance carried out in
+adolescents and young adults resulted in higher pooled effect sizes compared to other
+psychological interventions, transdiagnostic interventions for several anxiety disorders
+and unguided self-help programmes in children. Mean age and parental involvement had
+no significant effect on the outcome. 
+Overall Effects in comparison with other meta-analyses
+22
+https://preprints.jmir.org/preprint/67067
+[unpublished, peer-reviewed preprint]
+
+===
+PAGE 28:
+JMIR Preprints
+Walder et al
+Compared to other meta-analyses of DMHIs addressing anxiety disorders, the overall
+effect size found in this meta-analysis is smaller. In a sample with the same age span but
+mixed anxiety disorders, a meta-analysis found a large pooled effect size (g=0.68) [45].
+Even in children and adolescents at risk for an anxiety disorder (i.e., subthreshold of
+diagnosis), where smaller effect sizes would be expected, a large pooled effect size
+(SMD=0.77)  was  found  [44].  Possible  reasons  for  the  smaller  effect  compared  to
+previous meta-analyses could be the large heterogeneity between the included studies
+regarding the interventions, the samples and the study designs. Another reason could be
+the fact that despite the focus of this meta-analysis on SAD samples the primary studies
+included a broad range of mental health problems or disorders (e.g., other anxiety
+disorders, depression). Consequently, study participants did not necessarily suffer from
+social  anxiety.  In  other  meta-analyses,  either  a  measure  assessing  various  anxiety
+disorders was defined as the primary outcome, or the interventions and samples were
+primarily geared towards SAD. The sensitivity analysis in this meta-analysis showed that
+when only studies with participants with a SAD diagnosis were included, the calculated
+effect  size  was  large  (g=1.15).  Meta-analytic  evidence  of  face-to-face  settings  for
+children and adolescents diagnosed with SAD only also yielded a larger effect (g= 0.71)
+that even increased until follow-up [22]. Similar effect sizes [112] were found in ICBTs
+for adults with SAD (g=0.55[112];  g=0.76 [113]). In line with this, the moderator
+analyses showed that there are, in some cases, indeed large differences between the effect
+sizes of the subgroups. These differences are discussed in the following. 
+Psychological Principles of Effective DMHIs
+The  superiority  of  CBT-based  treatments  over  other  treatments,  such  as  ICBM  or
+mindfulness  exercises  is  also  reflected  in  other  studies  [58,114].  However,  most
+treatments for young people with SAD are based on CBT and the evidence for other
+treatments is still limited  [115]. Interestingly, SAD-specific treatments, including CBT
+and  CBM,  outperformed  treatments  addressing  anxiety  in  general.  This  finding
+contradicts RCTs directly comparing two treatments (transdiagnostic anxiety vs. SAD-
+specific, i.e.,[55,56]) but aligns with other evidence suggesting adolescents with SAD
+have poorer chances compared to other anxiety disorders  [53,54,116]. This finding is
+quite striking because, DMHIs addressing SAD in adults have an extensive evidence base
+with  RCTs  demonstrating  efficacious  interventions  based  on  CBT,  psychodynamic
+therapy, and acceptance-based interventions [39] and meta-analytic evidence supporting
+ICBT to be equally efficacious compared to face-to-face CBT [42]. In young people, the
+question remains as to which treatment components have a generic effect in anxiety
+disorders and which would improve the treatment effect in SAD and thus indicate a
+disorder-specific treatment. Treatment components specific to SAD are theoretically
+discussed in aetiological and maintenance models of SAD  [12–14]. So far, there is
+limited empirical evidence of whether these components are specifically important for
+young people with SAD [21]. It would be valuable to test both transdiagnostic anxiety
+and SAD-specific components individually in interventions. Compared to RCTs so far,
+study designs such as factorial or leapfrog designs would be more suitable for obtaining
+information on the efficacy of individual components and the optimal compilation of
+those components to an intervention [117–120]. 
+Supporting Factors in DMHI Implementation for Young People
+23
+https://preprints.jmir.org/preprint/67067
+[unpublished, peer-reviewed preprint]
+
+===
+PAGE 29:
+JMIR Preprints
+Walder et al
+Similar  to previous  evidence,  moderator  analyses  supported  the  efficacy  of  guided
+DMHIs but not unguided DMHIs [59]. Notably, there was great variety in the extent of
+human guidance: Some studies provided participants only with summaries of exercises
+via chat or email, while others phoned them regularly. The amount of support was
+quantified only in a minority of the trials. Furthermore, while some guidance formats
+reflected strategies to improve engagement with the intervention, the guidance of other
+trials could be viewed as an additional treatment in a format of blended therapy. To
+investigate how to optimise the amount, the content or the delivery setting of guidance for
+young people, future papers should be more detailed in their rapport of the guidance
+format and purpose and may even compare different ways of supporting young people in
+their studies [e.g., 121]. Possible results could streamline future implementation research
+and support the use of and continuous engagement with digital approaches. 
+Another aspect that varied considerably across studies was parental involvement. In one
+study, the intervention was only directed at parents [97], while others included specific
+parent information or modules that complemented the children’s modules [56,93,98,109],
+or only addressed the young people. Research to date shows an inconclusive picture of
+how parents can be best involved in treatments to increase their overall effectiveness
+compared to child/adolescent only interventions. [122]. Comparable to our results, other
+meta-analyses  also  found  no  additional  effect  of  parental  involvement  [123–125].
+Especially in adolescence and young adulthood, the social context relevant to anxiety-
+inducing situations lies primarily outside the parental home (e.g., at school, with peers).
+Therefore, the involvement of parents might be less relevant for symptom reduction.
+Nevertheless, for young people parents play an important role in accessing mental health
+services [126,127] and could therefore be a crucial supporting factor in their children’s
+adherence to the intervention [128].
+Adherence has been defined and reported, if at all, in great variety in the included studies.
+Most commonly, completed modules or time spent in the DMHI were reported, but
+rarely, their effect on treatment outcome. Although these indices give some information
+on DMHI usage, they do not provide any information about reasons for non-adherence.
+Previously, some efforts have been made to find explanations for DMHI or treatment
+non-usage. One explanation given in adult samples is the  good enough effect; that is,
+researchers explained the discontinuation of the DMHI in that the participants had
+reached their set goals  [129]. This type of participant was also found in a qualitative
+examination  of  adolescents  who  stopped  treatment  for  depression.  Thereby,  two
+additional  types  were  also  identified:  the  dissatisfied,  those  who  did  not  find  the
+intervention helpful and the troubled, those who reported a lack of stability in their lives
+to  engage  in  an  intervention  [130].  Future  research  should  report  a  minimum  of
+adherence parameters (e.g., completed modules, time spent in the programme) and might
+even add reasons for non-adherence. Furthermore, it would be important to report the
+analysis of whether adherence influenced the outcome within the publication reporting
+the main results of the RCT. With this information, studies could be better compared and
+the influence of adherence on the outcome could be assessed meta-analytically [131]. 
+Moderators of Treatment Efficacy
+Regarding potential moderators, age did not emerge as a moderator of treatment efficacy
+in the meta-regression analysis, but subgroup analysis reported significantly higher effect
+sizes for adolescents and young adults compared to children. Likewise, other meta-
+24
+https://preprints.jmir.org/preprint/67067
+[unpublished, peer-reviewed preprint]
+
+===
+PAGE 30:
+JMIR Preprints
+Walder et al
+analyses have indicated that older adolescents profit more from DMHIs than children
+[37]. However, the small number of studies including child samples in this meta-analysis
+could also be a reason for this result. Furthermore, even though the influence of age was
+taken into account in this meta-analysis - using meta-regression (mean age), subgroup
+analyses (age groups), and by excluding studies with an age range over 25, many of the
+primary studies included wide age ranges and did not report results for different age
+groups. This highlights the need to replicate the results in future studies. 
+Symptom severity at the beginning of the intervention moderated treatment outcome with
+a small effect. In other studies, larger treatment effects were also found for adults with
+higher symptom severity  [132]. The evidence in childhood and adolescence is mixed;
+some meta-analyses or studies found a significant effect while others did not [133]. This
+result, therefore, is in line with the overall mixed picture. 
+Designing and implementing DMHIs in the Future
+This review included DMHIs that were developed primarily in high-income countries and
+provided in English, Swedish, Chinese, Persian, Spanish, or Dutch. Furthermore, few
+undertook efforts to match the socio-economic composition of the study with that of the
+home country [56,108]. A recurring argument advancing DMHIs is that they offer help at
+low cost, low threshold and high accessibility to young people from non-urban and lower
+financial  sectors  [38,134,135].  However,  this  presumption  can  only  be  realised  if
+measures are taken to design DMHIs for diverse target groups, evaluate them in different
+demographic groups and support their implementation, particularly in those groups that
+otherwise have little access to mental health care. To achieve this, young people need to
+be  actively  involved  in  designing  interventions  and  validation  studies,  recruiting
+participants  for  trials  and  communicating  about  and  implementing  digital  self-help
+options [115,136]. 
+Limitations and Implications for Future Research
+This review and meta-analysis have some limitations and the results should be considered
+thoughtfully. Firstly, the meta-analysis and included subgroup analyses are based on a
+small number of studies and results should be interpreted cautiously. The limited number
+of studies precluded an examination of the efficacy of specific intervention components
+(e.g., psychoeducation, exposure therapy, social skills training, CBM or relaxation and
+mindfulness exercises) or for diagnostic categories (subclinical vs. clinical). Most studies
+included participants with elevated scores in social anxiety screenings based on self-
+reports and few of the identified prevention studies made diagnostic efforts to distinguish
+youths with subclinical social anxiety symptoms from those with a previous or current
+SAD diagnosis. Thus, prevention and treatment studies could not be categorised reliably
+to investigate potential differential treatment effects in subgroup analyses. Moreover, only
+two studies provided long-term follow-up data, resulting in limited information on the
+sustainability of treatment effects. Next, this meta-analysis encompassed a broad age
+range, spanning distinct developmental stages and diverse target groups. For instance,
+while adolescents are typically the primary end-users of digital interventions, in the case
+of preschool-aged children parents or legal guardians generally serve as the end-users,
+given that young children often lack the cognitive and emotional capacities to engage
+with such interventions independently. To explore potential age-related effects, subgroup
+analyses were conducted across three age categories (i.e., children, adolescents, young
+25
+https://preprints.jmir.org/preprint/67067
+[unpublished, peer-reviewed preprint]
+
+===
+PAGE 31:
+JMIR Preprints
+Walder et al
+adults). However, these analyses were limited by the small number of primary studies
+within each subgroup and did not account for developmental differences  within or
+between age groups. Given the substantial developmental variability that exists within
+these broad categories, future research should examine potential moderator effects using
+more granular  age  distinctions  and developmental profiles, particularly  in  terms  of
+cognitive, emotional, and social competencies. 
+Furthermore, factors  influencing the efficacy, such as  adherence, were inadequately
+reported in primary studies, preventing their incorporation into the meta-analysis, for
+instance, in a meta-regression. Lastly, the methodological quality of the studies varied in
+terms  of  transparency  in  randomisation,  masking  procedures  and  consideration  of
+appropriate statistical procedures.  
+Future intervention studies should, therefore, be methodologically more rigorous, include
+thorough diagnostic procedures, provide long-term follow-up data and report on potential
+moderators  such  as  adherence,  parental  involvement,  guidance  and  participant
+characteristics in more detail. Moreover, more details on how access to the modules was
+managed  would be interesting as  it  may  have  an  impact  on the adherence  of the
+participants as well as on the efficacy of the intervention. Furthermore, future studies
+should  aim  to  target  a  socioeconomically  diverse  study  population  and  report  on
+demographic information that may influence the availability and efficacy of treatments
+(e.g., gender, age, country, urbanicity, socioeconomic status, culture and minoritised
+status,  [137]).  This  additional  information  could  inform  future  meta-analyses  or,
+preferably, meta-analyses of individual participant data that don’t rely on summary
+statistics to investigate subgroup effects. 
+Conclusions
+In conclusion, while further research is necessary to provide conclusive evidence on the
+efficacy of DMHIs for young people, our meta-analysis and review shows their potential
+to alleviate SAD. The preliminary findings underscore the importance of future research
+efforts  aimed  at  clarifying  the  specific  treatment  components  that  render  DMHIs
+effective,  optimising  human  guidance  strategies  and  individualising  interventions  to
+enhance therapeutic outcomes. Moreover, our study highlights inclusivity in DMHIs and
+research design, emphasising the need for future studies to encompass participants from
+all  socio-economic  backgrounds.  By  addressing  these  considerations,  DMHIs  hold
+promise  in  bridging  the  care  gap  and  democratising  access  to  psychotherapeutic
+interventions for all young people, thus fostering mental health equity in the future. 
+26
+https://preprints.jmir.org/preprint/67067
+[unpublished, peer-reviewed preprint]
+
+===
+PAGE 32:
+JMIR Preprints
+Walder et al
+Registration and protocol
+The study protocol for this review and meta-analysis was published on the International
+Prospective Register of Systematic Reviews PROSPERO, ID: CRD42023424181, on
+15.08.2023.
+Financial support
+The Division of Clinical Child and Adolescent Psychology and the Division of Clinical
+Psychology  and  Psychotherapy,  University  of  Bern,  Switzerland  provided  financial
+support in terms of salaries.
+Conflicts of Interest
+No authors declare competing interests. 
+Author Contributions
+Noemi Walder: Conceptualization, Methodology, Formal Analysis, Investigation, Writing
+– Original Draft, Project Administration; Alessja Frey: Formal Analysis, Investigation,
+Writing  –  Reviewing  &  Editing;  Thomas  Berger:  Conceptualization,  Methodology,
+Writing – Reviewing & Editing; Stefanie J Schmidt: Conceptualization, Methodology,
+Writing – Reviewing & Editing, Supervision
+Abbreviations
+CBM = Cognitive bias modification
+CMA = Comprehensive Meta-Analysis
+CBT = Cognitive behavioral therapy
+DMHI = Digital mental health intervention
+ICBT = Internet-based cognitive behavioral therapy
+NNT = Number needed to treat
+RCT = Randomised controlled trial
+PROSPERO = Prospective Register of Systematic Reviews
+PRISMA = Preferred Reporting Items for Systematic reviews and Meta-Analyses
+ROB2 = Risk of bias assessment tool 2
+SAD = Social anxiety disorder
+SD = Standard deviation
+SMD = Standardized mean deviation
+Multimedia Appendix 1 
+Search Strings used for the systematic literature review. 
+Multimedia Appendix 2
+Risk of Bias assessment of all studies over all five domains.
+Multimedia Appendix 3
+Forest plots for all meta-analyses. 
+27
+https://preprints.jmir.org/preprint/67067
+[unpublished, peer-reviewed preprint]
+
+===
+PAGE 33:
+JMIR Preprints
+Walder et al
+Multimedia Appendix 4
+Prisma Checklist. 
+28
+https://preprints.jmir.org/preprint/67067
+[unpublished, peer-reviewed preprint]
+
+===
+PAGE 34:
+JMIR Preprints
+Walder et al
+References
+1.
+Goodwin RD, Weinberger AH, Kim JH, Wu M, Galea S. Trends in anxiety among adults
+in the United States, 2008–2018: Rapid increases among young adults. J Psychiatr Res.
+2020;130:441-446. PMID:32905958
+2.
+Polanczyk G V., Salum GA, Sugaya LS, Caye A, Rohde LA. Annual Research Review: A
+meta-analysis  of  the  worldwide  prevalence  of  mental  disorders  in  children  and
+adolescents.  Journal  of  Child  Psychology  and  Psychiatry.  2015;56(3):345-365.
+PMID:25649325
+3.
+Vasileva M, Graf RK, Reinelt T, Petermann U, Petermann F. Research review: A meta-
+analysis of the international prevalence and comorbidity of mental disorders in children
+between 1 and 7 years. Journal of Child Psychology and Psychiatry. 2021;62(4):372-381.
+PMID:32433792
+4.
+Halldorsson B, Creswell C. Social anxiety in pre-adolescent children: What do we know
+about maintenance? Behaviour Research and Therapy. 2017;99:19-36. PMID:28881221
+5.
+Jefferies P, Ungar M. Social anxiety in young people: A prevalence study in seven
+countries. PLoS One. 2020;15(9):1-18. PMID:32941482
+6.
+Solmi M, Radua J, Olivola M, et al. Age at onset of mental disorders worldwide: large-
+scale meta-analysis of 192 epidemiological studies.  Molecular Psychiatry 2021 27:1.
+2021;27(1):281-295. PMID:34079068
+7.
+Burstein M, He JP, Kattan G, Albano AM, Avenevoli S, Merikangas KR. Social Phobia
+and Subtypes in the National Comorbidity Survey–Adolescent Supplement: Prevalence,
+Correlates, and Comorbidity. J Am Acad Child Adolesc Psychiatry. 2011;50(9):870-880.
+PMID:21871369
+8.
+Fehm L, Beesdo K, Jacobi F, Fiedler A. Social anxiety disorder above and below the
+diagnostic threshold: Prevalence, comorbidity and impairment in the general population.
+Soc Psychiatry Psychiatr Epidemiol. 2008;43(4):257-265. PMID:18084686
+9.
+Mörtberg E, Jansson Fröjmark M, Van Zalk N, Tillfors M. A longitudinal study of
+prevalence and predictors of incidence and persistence of sub-diagnostic social anxiety
+among Swedish adolescents. Nord Psychol. Published online 2021:1-9. PMID:29115896
+10.
+Ranta K, Aalto-Setälä T, Heikkinen T, Kiviruusu O. Social anxiety in Finnish adolescents
+from 2013 to 2021: change from pre-COVID-19 to COVID-19 era, and mid-pandemic
+correlates. Soc Psychiatry Psychiatr Epidemiol. 2023;1:1-16. PMID:37095373
+11.
+American Psychiatric Association. Diagnostisches Und Statistisches Manual Psychischer
+Störungen DSM-5.; 2013.
+12.
+Clark DM, Wells A. A cognitive model of social phobia. In: Heimberg RG, Liebowitz
+MR, Hope DA, Schneier FR, eds. Social Phobia: Diagnosis, Assessment, and Treatment.
+Guilford Press; 1995:69-93.
+13.
+Hofmann SG. Cognitive Factors that Maintain Social Anxiety Disorder: a Comprehensive
+Model  and  its  Treatment  Implications.  Cogn  Behav  Ther.  2007;36(4):193-209.
+PMID:18049945
+14.
+Rapee RM, Heimberg RG. A Cognitive-Behavioural Model of Anxiety in Social Phobia.
+Behaviour Research and Therapy. 1997;35(8):741-756.
+15.
+Dryman MT, Gardner S, Weeks JW, Heimberg RG. Social anxiety disorder and quality of
+life: How fears of negative and positive evaluation relate to specific domains of life
+satisfaction. J Anxiety Disord. 2016;38:1-8. PMID:26709747
+29
+https://preprints.jmir.org/preprint/67067
+[unpublished, peer-reviewed preprint]
+
+===
+PAGE 35:
+JMIR Preprints
+Walder et al
+16.
+Hur J, Deyoung KA, Islam S, Anderson AS, Barstead MG, Shackman AJ. Social context
+and the real-world consequences of social anxiety. Psychol Med. 2020;50(12):1989-2000.
+PMID:31423954
+17.
+Piccirillo ML, Lim MH, Fernandez KA, Pasch LA, Rodebaugh TL.  Social Anxiety
+Disorder and Social Support Behavior in Friendships. Behav Ther. 2021;52(3):720-733.
+PMID:33990245
+18.
+Vilaplana-Pérez A, Pérez-Vigil A, Sidorchuk A, et al. Much more than just shyness: the
+impact of social anxiety disorder on educational performance across the lifespan. Psychol
+Med. 2021;51(5):861-869. PMID:31907098
+19.
+Archbell  KA,  Coplan  RJ.  Too  Anxious  to  Talk:  Social  Anxiety,  Academic
+Communication, and Students’ Experiences in Higher Education. J Emot Behav Disord.
+2022;30(4):273-286. Accessed November 23, 2023. https://journals.sagepub.com/doi/full/
+10.1177/10634266211060079
+20.
+Asselmann E, Wittchen HU, Lieb R, Beesdo-Baum K. Sociodemographic, clinical, and
+functional long-term outcomes in adolescents and young adults with mental disorders.
+Acta Psychiatr Scand. 2018;137(1):6-17. PMID:28861892
+21.
+Leigh E, Clark DM. Understanding social anxiety disorder in adolescents and improving
+treatment outcomes: Applying the cognitive model of Clark and Wells (1995). Clin Child
+Fam Psychol Rev. 2018;21(3):388-414. PMID:29654442
+22.
+Scaini S, Belotti R, Ogliari A, Battaglia M. A comprehensive meta-analysis of cognitive-
+behavioral interventions for social anxiety disorder in children and adolescents. J Anxiety
+Disord. 2016;42:105-112. PMID:27399932
+23.
+Sigurvinsdóttir AL, Jensínudóttir KB, Baldvinsdóttir KD, Smárason O, Skarphedinsson
+G. Effectiveness of cognitive behavioral therapy (CBT) for child and adolescent anxiety
+disorders across different CBT modalities and comparisons: a systematic review and
+meta-analysis. Nord J Psychiatry. 2020;74(3):168-180. PMID:31738631
+24.
+Yang L, Zhou X, Pu J, et al. Efficacy and acceptability of psychological interventions for
+social  anxiety  disorder  in  children  and adolescents:  a  meta-analysis  of  randomized
+controlled trials. Eur Child Adolesc Psychiatry. 2019;28(1):79-89. PMID:30006672
+25.
+National Institute for Health and Care Excellence. Social anxiety disorder: Recognition,
+assessment and treatment of social anxiety disorder.
+26.
+Walter  HJ,  Bukstein  OG,  Abright  AR,  et  al.  Clinical  Practice  Guideline  for  the
+Assessment and Treatment of Children and Adolescents With Anxiety Disorders. J Am
+Acad Child Adolesc Psychiatry. 2020;59(10):1107-1124. PMID:32439401
+27.
+Andrade LH, Alonso J, Mneimneh Z, et al. Barriers to mental health treatment: results
+from the WHO World Mental Health surveys.  Psychol Med. 2014;44(6):1303-1317.
+PMID:23931656
+28.
+Baker  HJ,  Lawrence  PJ,  Karalus  J,  Creswell  C,  Waite  P.  The  Effectiveness  of
+Psychological Therapies for Anxiety Disorders in Adolescents: A Meta-Analysis.  Clin
+Child Fam Psychol Rev. 2021;24(4):765-782. PMID:34471966
+29.
+Kazdin AE. Addressing the treatment gap: A key challenge for extending evidence-based
+psychosocial  interventions.
+ Behaviour  Research  and  Therapy.  2017;88:7-18.
+PMID:28110678
+30.
+McDonagh C, Lynch H, Hennessy E. Do stigma and level of social anxiety predict
+adolescents’ help-seeking intentions for social anxiety disorder? Early Interv Psychiatry.
+2022;16(4):456-460. PMID:34291581
+30
+https://preprints.jmir.org/preprint/67067
+[unpublished, peer-reviewed preprint]
+
+===
+PAGE 36:
+JMIR Preprints
+Walder et al
+31.
+Horwitz AG, McGuire T, Busby DR, et al. Sociodemographic differences in barriers to
+mental health care among college students at elevated suicide risk.  J Affect Disord.
+2020;271:123-130. PMID:32479307
+32.
+Patel V, Saxena S, Lund C, et al. The Lancet Commission on global mental health and
+sustainable development. The Lancet. 2018;392(10157):1553-1598. PMID:30314863
+33.
+Rocha TBM, Graeff-Martins AS, Kieling C, Rohde LA. Provision of mental healthcare
+for children and adolescents: A worldwide view. Curr Opin Psychiatry. 2015;28(4):330-
+335. PMID:26001925
+34.
+Aguirre Velasco A, Cruz ISS, Billings J, Jimenez M, Rowe S. What are the barriers,
+facilitators  and  interventions  targeting  help-seeking  behaviours  for  common  mental
+health  problems  in  adolescents?  A systematic  review.  BMC  Psychiatry  2020  20:1.
+2020;20(1):1-22. PMID:32527236
+35.
+Kazdin AE. Interventions in Everyday Life to Improve Mental Health and Reduce
+Symptoms  of Psychiatric Disorders.  American Psychologist. Published online 2023.
+PMID:37079813
+36.
+Raviola G, Naslund JA, Smith SL, Patel V. Innovative Models in Mental Health Delivery
+Systems: Task Sharing Care with Non-specialist Providers to Close the Mental Health
+Treatment Gap. Curr Psychiatry Rep. 2019;21(6):1-13. PMID:31041554
+37.
+Lehtimaki S, Martic J, Wahl B, Foster KT, Schwalbe N. Evidence on Digital Mental
+Health Interventions for Adolescents and Young People: Systematic Overview.  JMIR
+Ment Health. 2021;8(4):e25847. PMID:33913817
+38.
+Hollis  C,  Falconer  CJ,  Martin  JL,  et  al.  Annual  research  review:  Digital  health
+interventions for children and young people with mental health problems – a systematic
+and meta-review.  Journal of Child Psychology and Psychiatry. 2017;58(4):474-503.
+PMID:27943285
+39.
+Andersson G, Berger T. Internet approaches to psychotherapy: Empirical findings and
+future directions. In: Barkham M, Lutz W, Castonguay L, eds.  Bergin and Garfield’s
+Handbook  of  Psychotherapy  and  Behavior  Change.  50th  Anniversary  Ed.  Wiley;
+2021:739-762.
+40.
+Boettcher J, Berger T, Renneberg B. Internet-based attention training for social anxiety: A
+randomized controlled trial. Cognit Ther Res. 2012;36(5):522-536.
+41.
+Carlbring P, Andersson G, Cuijpers P, Riper H, Hedman-Lagerlöf E. Internet-based vs.
+face-to-face cognitive behavior therapy for psychiatric and somatic disorders: an updated
+systematic  review  and  meta-analysis.
+ Cogn  Behav  Ther.  2018;47(1):1-18.
+PMID:29215315
+42.
+Hedman-Lagerlöf  E,  Carlbring  P,  Svärdman  F,  Riper  H, Cuijpers  P,  Andersson G.
+Therapist-supported Internet-based cognitive behaviour therapy yields similar effects as
+face-to-face therapy for psychiatric and somatic disorders: an updated systematic review
+and meta-analysis. World Psychiatry. 2023;22(2):305-314. PMID:37159350
+43.
+Kampmann  IL, Emmelkamp PMG, Morina N. Meta-analysis  of technology-assisted
+interventions  for  social  anxiety  disorder.  J  Anxiety  Disord.  2016;42:71-84.
+PMID:27376634
+44.
+Pennant ME, Loucas CE, Whittington C, et al. Computerised therapies for anxiety and
+depression  in  children  and  young  people:  A systematic  review  and  meta-analysis.
+Behaviour Research and Therapy. 2015;67:1-18. PMID:25727678
+45.
+Ebert DD, Zarski AC, Christensen H, et al.  Internet and Computer-Based Cognitive
+31
+https://preprints.jmir.org/preprint/67067
+[unpublished, peer-reviewed preprint]
+
+===
+PAGE 37:
+JMIR Preprints
+Walder et al
+Behavioral  Therapy  for  Anxiety  and  Depression  in  Youth:  A  Meta-Analysis  of
+Randomized  Controlled  Outcome  Trials.
+ PLoS  One.  2015;10(3):e0119895.
+PMID:25786025
+46.
+Podina IR, Mogoase C, David D, Szentagotai A, Dobrean A. A Meta-Analysis on the
+Efficacy of Technology Mediated CBT for Anxious Children and Adolescents. Journal of
+Rational - Emotive and Cognitive - Behavior Therapy. 2016;34(1):31-50. 
+47.
+Rooksby M, Elouafkaoui  P,  Humphris  G, Clarkson J, Freeman R. Internet-assisted
+delivery  of  cognitive  behavioural  therapy  (CBT)  for  childhood  anxiety:  Systematic
+review and meta-analysis. J Anxiety Disord. 2015;29(1):83-92. PMID:25527900
+48.
+Clarke AM, Kuosmanen T, Barry MM. A systematic review of online youth mental health
+promotion  and  prevention  interventions.  J  Youth  Adolesc.  2014;44(1):90-113.
+PMID:25115460
+49.
+Noh D, Kim H. Effectiveness of Online Interventions for the Universal and Selective
+Prevention of Mental Health Problems Among Adolescents: a Systematic Review and
+Meta-Analysis. Prev Sci. 2023;24(2):353-364. PMID:36181636
+50.
+Gee B, Reynolds S, Carroll B, et al. Practitioner Review: Effectiveness of indicated
+school-based  interventions  for  adolescent  depression  and  anxiety  –  a  meta-analytic
+review.
+ Journal  of  Child  Psychology  and  Psychiatry.  2020;61(7):739-756.
+PMID:32250447
+51.
+Werner-Seidler  A,  Perry  Y,  Calear  AL,  Newby  JM,  Christensen  H.  School-based
+depression and anxiety prevention programs for young people: A systematic review and
+meta-analysis. Clin Psychol Rev. 2017;51:30-47. PMID:27821267
+52.
+Creswell C, Waite P, Hudson J. Practitioner Review: Anxiety disorders in children and
+young people – assessment and treatment. Journal of Child Psychology and Psychiatry.
+2020;61(6):628-643. PMID:31960440
+53.
+Kodal A, Fjermestad K, Bjelland I, et al. Long-term effectiveness of cognitive behavioral
+therapy  for  youth  with  anxiety  disorders.  J  Anxiety  Disord.  2018;53:58-67.
+PMID:29195188
+54.
+Hudson JL, Rapee RM, Lyneham HJ, McLellan LF, Wuthrich VM, Schniering CA.
+Comparing outcomes for children with different anxiety disorders following cognitive
+behavioural therapy. Behaviour Research and Therapy. 2015;72:30-37. PMID:26164621
+55.
+Rapee RM, McLellan LF, Carl T, et al. Comparison of Transdiagnostic Treatment and
+Specialized Social Anxiety Treatment for Children and Adolescents With Social Anxiety
+Disorder:  A Randomized  Controlled  Trial.  J  Am  Acad  Child  Adolesc  Psychiatry.
+2023;62(6):646-655. PMID:35987298
+56.
+Spence SH, Donovan CL, March S, Kenardy JA, Hearn CS. Generic versus disorder
+specific cognitive behavior therapy for social anxiety disorder in youth: A randomized
+controlled trial using internet delivery. Behaviour Research and Therapy. 2017;90:41-57.
+PMID:27988427
+57.
+Dülsen P, Baumeister H. Internet- and mobile-based anxiety and depression interventions
+for children and adolescents: efficacy and negative effects - a systematic review and
+meta-analysis.  Eur Child Adolesc Psychiatry. Published online March 2, 2024:1-21.
+PMID:38430237
+58.
+Grist  R,  Croker  A,  Denne  M,  Stallard  P.  Technology  Delivered  Interventions  for
+Depression and Anxiety in Children and Adolescents: A Systematic Review and Meta-
+analysis. Clin Child Fam Psychol Rev. 2019;22(2):147-171. PMID:30229343
+32
+https://preprints.jmir.org/preprint/67067
+[unpublished, peer-reviewed preprint]
+
+===
+PAGE 38:
+JMIR Preprints
+Walder et al
+59.
+Domhardt M, Geßlein H, von Rezori RE, Baumeister H. Internet- and mobile-based
+interventions for anxiety disorders: A meta-analytic review of intervention components.
+Depress Anxiety. 2019;36(3):213-224. PMID:30450811
+60.
+Domhardt M, Steubl L, Boettcher J, et al. Mediators and mechanisms of change in
+internet-  and  mobile-based  interventions  for  depression:  A systematic  review.  Clin
+Psychol Rev. 2021;83:101953. PMID:33422841
+61.
+Vigerland S, Lenhard F, Bonnert M, et al. Internet-delivered cognitive behavior therapy
+for children and adolescents: A systematic review and meta-analysis. Clin Psychol Rev.
+2016;50:1-10. PMID:27668988
+62.
+Achilles MR, Anderson M, Li SH, Subotic-Kerry M, Parker B, O’Dea B. Adherence to e-
+mental health among youth: Considerations for intervention development and research
+design. https://doi.org/101177/2055207620926064. 2020;6. PMID:32547775
+63.
+Doherty G, Coyle D, Matthews M. Design and evaluation guidelines for mental health
+technologies. Interact Comput. 2010;22(4):243-252. 
+64.
+Sieverink F, Kelders SM, Gemert-Pijnen V. Clarifying the concept of adherence to
+ehealth  technology:  Systematic  review  on  when  usage  becomes  adherence.  J  Med
+Internet Res. 2017;19(12):e8578. PMID:29212630
+65.
+Hilvert-Bruce Z, Rossouw PJ, Wong N, Sunderland M, Andrews G. Adherence as a
+determinant of effectiveness of internet cognitive behavioural therapy for anxiety and
+depressive  disorders.  Behaviour  Research  and  Therapy.  2012;50(7-8):463-468.
+PMID:22659155
+66.
+Clarke G, Kelleher C, Hornbrook M, DeBar L, Dickerson J, Gullion C. Randomized
+Effectiveness Trial of an Internet, Pure Self-Help, Cognitive Behavioral Intervention for
+Depressive  Symptoms  in  Young  Adults.  Cogn  Behav  Ther.  2009;38(4):222-234.
+PMID:19440896
+67.
+Donkin L, Christensen H, Naismith SL, Neal B, Hickie IB, Glozier N. A systematic
+review of the impact of adherence on the effectiveness of e-therapies. J Med Internet Res.
+2011;13(3):e52. PMID:21821503
+68.
+Liverpool S, Mota CP, Sales CMD, et al. Engaging Children and Young People in Digital
+Mental Health Interventions: Systematic Review of Modes of Delivery, Facilitators, and
+Barriers. J Med Internet Res. 2020;22(6):1-17. PMID:32442160
+69.
+Werntz A, Amado S, Jasman M, Ervin A, Rhodes JE. Providing Human Support for the
+Use of Digital Mental Health Interventions: Systematic Meta-review. J Med Internet Res.
+2023;25(1):e42864. PMID:36745497
+70.
+Ebert DD, Cuijpers P, Muñoz RF, Baumeister H. Prevention of mental health disorders
+using internet- and mobile-based interventions: A narrative review and recommendations
+for future research. Front Psychiatry. 2017;8:1-16. PMID:28848454
+71.
+Radez J, Reardon T, Creswell C, Lawrence PJ, Evdoka-Burton G, Waite P. Why do
+children and adolescents (not) seek and access professional help for their mental health
+problems? A systematic review of quantitative and qualitative studies. Eur Child Adolesc
+Psychiatry. 2021;30(2):183-211. PMID:31965309
+72.
+Olfson M, Guardino M, Struening E, Schneier FR, Hellman F, Klein DF. Barriers to the
+treatment  of  social  anxiety.  American  Journal  of  Psychiatry.  2000;157(4):521-527.
+PMID:10739410
+73.
+McGorry PD, Mei C, Chanen A, Hodges C, Alvarez-Jimenez M, Killackey E. Designing
+and scaling up integrated youth mental health care.  World Psychiatry. 2022;21(1):61.
+33
+https://preprints.jmir.org/preprint/67067
+[unpublished, peer-reviewed preprint]
+
+===
+PAGE 39:
+JMIR Preprints
+Walder et al
+PMID:35015367
+74.
+Sawyer SM, Azzopardi PS, Wickremarathne D, Patton GC. The age of adolescence.
+Lancet Child Adolesc Health. 2018;2(3):223-228. PMID:30169257
+75.
+McGorry PD, Mei C. Early intervention in youth mental health: progress and future
+directions. Evid Based Ment Health. 2018;21(4):182-184. PMID:30352884
+76.
+Uhlhaas PJ, Davey CG, Mehta UM, et al. Towards a youth mental health paradigm: a
+perspective  and  roadmap.  Molecular  Psychiatry  2023  28:8.  2023;28(8):3171-3181.
+PMID:37580524
+77.
+Spence SH, Rapee RM. The etiology of social anxiety disorder: An evidence-based
+model. Behaviour Research and Therapy. 2016;86:50-67. PMID:27406470
+78.
+Ruscio AM. The latent structure of social anxiety disorder: consequences of shifting to a
+dimensional diagnosis. J Abnorm Psychol. 2010;119(4):662-671. PMID:20853918
+79.
+Aune T, Stiles TC. Universal-Based Prevention of Syndromal and Subsyndromal Social
+Anxiety: A Randomized Controlled Study. J Consult Clin Psychol. 2009;77(5):867-879.
+PMID:19803567
+80.
+Cuijpers  P.  Meta-Analyses  in  Mental  Health  Research.  A  Practical  Guide.  Vrije
+Universiteit Amsterdam; 2016.
+81.
+Borenstein M, Hedges L, Higgins J, Rothstein H. Comprehensive Meta Analysis Version
+4. Published online 2022.
+82.
+Bowler JO, Mackintosh B, Dunn BD, Mathews A, Dalgleish T, Hoppitt L. A comparison
+of cognitive bias modification for interpretation and computerized cognitive behavior
+therapy:  Effects  on anxiety,  depression, attentional  control, and  interpretive  bias.  J
+Consult Clin Psychol. 2012;80(6):1021-1033. PMID:22963595
+83.
+Calear AL, Batterham PJ, Poyser CT, Mackinnon AJ, Griffiths KM, Christensen H.
+Cluster randomised controlled trial of the e-couch Anxiety and Worry program in schools.
+J Affect Disord. 2016;196:210-217. PMID:26926660
+84.
+Sportel BE, de Hullu E, de Jong PJ, Nauta MH. Cognitive Bias Modification versus CBT
+in Reducing Adolescent Social Anxiety: A Randomized Controlled Trial.  PLoS One.
+2013;8(5):e64355. PMID:23691203
+85.
+Wang HY, Zhao QX, Mu WT, Rodriguez M, Qian MY, Berger T. The Effect of Shame on
+Patients With Social Anxiety Disorder in Internet-Based Cognitive Behavioral Therapy:
+Randomized Controlled Trial. JMIR Ment Health. 2020;7(7). PMID:32347799
+86.
+Higgins JPT, Thompson SG, Deeks JJ, Altman DG. Measuring inconsistency in meta-
+analyses Testing for heterogeneity. BMJ. 2003;327(6):557-560. 
+87.
+Borenstein M, Hedges L V., Higgins JPT, Rothstein HR. Introduction to meta-analysis.
+Introduction to Meta-Analysis. Published online January 1, 2009:1-421. 
+88.
+Harrer M, Cuijpers P, Furukawa T, Ebert DD. dmetar: Companion R Package For The
+Guide “Doing Meta-Analysis in R.” Published online 2019.
+89.
+Begg  CB,  Mazumdar  M.  Operating  Characteristics  of  a  Rank  Correlation  Test  for
+Publication Bias. Biometrics. 1994;50(4):1088. PMID:7786990
+90.
+Duval S, Tweedie R. Trim and Fill: A Simple Funnel-Plot–Based Method of Testing and
+Adjusting  for  Publication  Bias  in  Meta-Analysis.  Biometrics.  2000;56(2):455-463.
+PMID:10877304
+91.
+Egger M, Smith GD, Schneider M, Minder C. Bias in meta-analysis detected by a simple,
+graphical test. BMJ. 1997;315(7109):629-634. PMID:9310563
+92.
+Sterne JAC, Savović J, Page MJ, et al. RoB 2: a revised tool for assessing risk of bias in
+34
+https://preprints.jmir.org/preprint/67067
+[unpublished, peer-reviewed preprint]
+
+===
+PAGE 40:
+JMIR Preprints
+Walder et al
+randomised trials. BMJ. 2019;366. PMID:31462531
+93.
+Vigerland S, Ljótsson B, Thulin U, Öst  LG, Andersson G, Serlachius  E.  Internet-
+delivered  cognitive  behavioural  therapy  for  children  with  anxiety  disorders:  A
+randomised  controlled  trial.  Behaviour  Research  and  Therapy.  2016;76:47-56.
+PMID:26649465
+94.
+Farrer LM, Gulliver A, Katruss N, Fassnacht DB, Kyrios M, Batterham PJ. A novel
+multi-component online intervention to improve the mental health of university students:
+Randomised controlled trial of the Uni Virtual Clinic. Internet Interv. 2019;18:100276.
+PMID:31890625
+95.
+Hearn CS, Donovan CL, Spence SH, March S. Do worry and its associated cognitive
+variables alter following CBT treatment in a youth population with Social Anxiety
+Disorder?  Results  from  a  randomized  controlled  trial.
+ J  Anxiety  Disord.
+2018;53(February 2017):46-57. PMID:29195187
+96.
+Hilt LM, Swords CM, Webb CA. Randomized Controlled Trial of a Mindfulness Mobile
+Application  for  Ruminative  Adolescents.  Journal  of  Clinical  Child  &  Adolescent
+Psychology. Published online January 9, 2023:1-14. PMID:36622879
+97.
+Morgan  AJ,  Rapee  RM,  Salim  A,  et  al.  Internet-Delivered  Parenting  Program  for
+Prevention and Early Intervention of Anxiety Problems in Young Children: Randomized
+Controlled  Trial.  J  Am  Acad  Child  Adolesc  Psychiatry.  2017;56(5):417-425.
+PMID:28433091
+98.
+Nordh M, Wahlund T, Jolstedt M, et al. Therapist-guided internet-delivered cognitive
+behavioral therapy vs internet-delivered supportive therapy for children and adolescents
+with  social  anxiety  disorder:  a  randomized  clinical  trial.  JAMA  Psychiatry.
+2021;78(7):705-713. PMID:33978699
+99.
+Sanchez R, Brown E, Kocher K, DeRosier M. Improving Children’s Mental Health with a
+Digital Social Skills Development Game: A Randomized Controlled Efficacy Trial of
+Adventures aboard the S.S. GRIN. Games Health J. 2017;6(1):19-27. PMID:28051877
+100.
+Stapinski LA, Prior K, Newton NC, et al. Are we making Inroads? A randomized
+controlled trial of a psychologistsupported, web-based, cognitive behavioral therapy
+intervention  to  reduce  anxiety  and  hazardous  alcohol  use  among  emerging  adults.
+EClinicalMedicine. 2021;39(101048):1-10. PMID:34622183
+101.
+Tillfors M, Andersson G, Ekselius L, et al. A randomized trial of internet-delivered
+treatment  for  social  anxiety  disorder  in  high  school  students.  Cogn  Behav  Ther.
+2011;40(2):147-157. PMID:25155815
+102.
+Espinosa V, Valiente RM, García-Escalera J, et al. Efficacy of a transdiagnostic internet-
+based program for adolescents with emotional disorders: A randomized controlled trial.
+Behaviour Research and Therapy. 2024;179:104560. PMID:38744141
+103.
+McCall HC, Richardson CG, Helgadottir FD, Chen FS. Evaluating a web-based social
+anxiety intervention among university students: Randomized controlled trial.  J Med
+Internet Res. 2018;20(3):1-12. PMID:29563078
+104.
+Mueller NE, Cougle JR. Building Closer Friendships  in social anxiety disorder: A
+randomized control trial of an internet-based intervention. J Behav Ther Exp Psychiatry.
+2023;78:101799. PMID:36435541
+105.
+Mao N, Li T, Li C, Ding R, Zhang Q, Cui L. Smartphone Based Training of Cognitive
+‐
+Bias Modification: Efficacy for Reducing Social Anxiety in Chinese Adolescents. J Child
+Fam Stud. 2023;32(8):2394-2405. 
+35
+https://preprints.jmir.org/preprint/67067
+[unpublished, peer-reviewed preprint]
+
+===
+PAGE 41:
+JMIR Preprints
+Walder et al
+106.
+Soleimani Rad H, Goodarzi H, Bahrami L, Abolghasemi A. Internet-Based Versus Face-
+to-Face  Cognitive-Behavioral  Therapy  for  Social  Anxiety  Disorder:  A Randomized
+Control Trial. Behav Ther. 2024;55(3):528-542. PMID:38670666
+107.
+Calear AL, Christensen H, Brewer J, Mackinnon A, Griffiths KM. A pilot randomized
+controlled trial of the e-couch anxiety and worry program in schools.  Internet Interv.
+2016;6:1-5. PMID:30135808
+108.
+Leigh E, Clark DM. Internet-delivered therapist-assisted cognitive therapy for adolescent
+social anxiety disorder (OSCA): a randomised controlled trial addressing preliminary
+efficacy  and  mechanisms  of  action.  Journal  of  Child  Psychology  and  Psychiatry.
+Published online August 9, 2022. PMID:35943064
+109.
+Schniering CA, Einstein D, Kirkman JJL, Rapee RM. Online treatment of adolescents
+with comorbid anxiety and depression: A randomized controlled trial.  J Affect Disord.
+2022;311:88-94. PMID:35594970
+110.
+Bautista CL, Ralston AL, Brock RL, Hope DA. Peer coach support in internet-based
+cognitive behavioral therapy for college students with social anxiety disorder: efficacy
+and acceptability. Cogent Psychol. 2022;9(1).
+111.
+Lenhard F, Mitsell K, Jolstedt M, et al. The internet intervention patient adherence scale
+for guided internet-delivered behavioral interventions: Development and psychometric
+evaluation. J Med Internet Res. 2019;21(10):e13602. PMID:31573901
+112.
+Guo S, Deng W, Wang H, et al. The efficacy of internet-based cognitive behavioural
+therapy for social anxiety disorder: A systematic review and meta-analysis. Clin Psychol
+Psychother. 2021;28(3):656-668. PMID:33142004
+113.
+Pauley  D,  Cuijpers  P,  Papola  D,  Miguel  C,  Karyotaki  E.  Two  decades  of  digital
+interventions for anxiety disorders: a systematic review and meta-analysis of treatment
+effectiveness. Psychol Med. 2023;53(2):567-579. PMID:34047264
+114.
+Odgers  K,  Dargue  N,  Creswell  C,  Jones  MP,  Hudson  JL.  The  Limited  Effect  of
+Mindfulness-Based Interventions  on Anxiety in Children and  Adolescents:  A Meta-
+Analysis. Clin Child Fam Psychol Rev. 2020;23(3):407-426. PMID:32583200
+115.
+Rapee RM, Creswell C, Kendall PC, Pine DS, Waters AM. Anxiety disorders in children
+and adolescents: A summary and overview of the literature.  Behaviour Research and
+Therapy. 2023;168:104376. PMID:37499294
+116.
+Ginsburg GS, Kendall PC, Sakolsky D, et al. Remission after acute treatment in children
+and  adolescents  with  anxiety  disorders:  Findings  from  the  CAMS.  J  Consult  Clin
+Psychol. 2011;79(6):806-813. PMID:22122292
+117.
+Blackwell SE, Woud ML, Margraf J, Schönbrodt FD. Introducing the Leapfrog Design: A
+Simple Bayesian Adaptive Rolling Trial Design for Accelerated Treatment Development
+and  Optimization.
+ Clinical  Psychological  Science.  2019;7(6):1222-1243.
+https://journals.sagepub.com/doi/10.1177/2167702619858071
+118.
+Collins LM, Dziak JJ, Kugler KC, Trail JB. Factorial Experiments: Efficient Tools for
+Evaluation  of  Intervention  Components.  Am  J  Prev  Med.  2014;47(4):498-504.
+PMID:25092122
+119.
+Lopes RCT, Šipka D, Krieger T, Klein JP, Berger T. Optimizing cognitive-behavioral
+therapy for social anxiety disorder and understanding the mechanisms of change: Study
+protocol  for  a  randomized  factorial  trial.
+ Internet  Interv.  2021;26:100480.
+PMID:34824982
+120.
+Watkins ER, Newbold A. Factorial designs help to understand how psychological therapy
+36
+https://preprints.jmir.org/preprint/67067
+[unpublished, peer-reviewed preprint]
+
+===
+PAGE 42:
+JMIR Preprints
+Walder et al
+works. Front Psychiatry. 2020;11:477682. PMID:32477195
+121.
+Berg M, Rozental A, de Brun Mangs J, et al. The Role of Learning Support and Chat-
+Sessions in Guided Internet-Based Cognitive Behavioral Therapy for Adolescents With
+Anxiety: A Factorial Design Study. Front Psychiatry. 2020;11:515935. PMID:32587533
+122.
+Lawrence PJ, Parkinson M, Jasper B, Creswell C, Halligan SL. Supporting the parents of
+children and young people with anxiety and depressive disorders is an opportunity not to
+be missed: a scoping review. Lancet Psychiatry. 2021;8(10):909-918. PMID:34537101
+123.
+Cordier R, Speyer R, Mahoney N, Arnesen A, Heidi Mjelve L, Nyborg G. Effects of
+interventions for social anxiety and shyness in school-aged children: A systematic review
+and meta-analysis. PLoS One. 2021;16(7):e0254117. PMID:34242303
+124.
+Reynolds S, Wilson C, Austin J, Hooper L. Effects of psychotherapy for anxiety in
+children and adolescents: a meta-analytic review. Clin Psychol Rev. 2012;32(4):251-262.
+PMID:22459788
+125.
+Thulin  U,  Svirsky  L,  Serlachius  E,  Andersson  G,  Öst  LG.  The  effect  of  parent
+involvement in the treatment of anxiety disorders in children: a meta-analysis.  Cogn
+Behav Ther. 2014;43(3):185-200. PMID:24950054
+126.
+Maiuolo M, Deane FP, Ciarrochi J. Parental Authoritativeness, Social Support and Help-
+seeking for Mental Health Problems in Adolescents. J Youth Adolesc. 2019;48(6):1056-
+1067. PMID:30783955
+127.
+Reardon T, Harvey K, Baranowska M, O’Brien D, Smith L, Creswell C. What do parents
+perceive are the barriers and facilitators to accessing psychological treatment for mental
+health problems in children and adolescents? A systematic review of qualitative and
+quantitative studies. Eur Child Adolesc Psychiatry. 2017;26(6):623-647. PMID:28054223
+128.
+Lilja JL, Rupcic Ljustina M, Nissling L, Larsson AC, Weineland S. Youths’ and Parents’
+Experiences and Perceived Effects of Internet-Based Cognitive Behavioral Therapy for
+Anxiety  Disorders  in  Primary  Care:  Mixed  Methods  Study.  JMIR  Pediatr  Parent.
+2021;4(4):e26842. PMID:34723830
+129.
+Berger T, Krieger T, Sude K, Meyer B, Maercker A. Evaluating an e-mental health
+program  (“deprexis”)  as  adjunctive  treatment  tool  in  psychotherapy  for depression:
+Results of a pragmatic randomized controlled trial. J Affect Disord. 2018;227:455-462.
+PMID:29154168
+130.
+O’Keeffe S, Martin P, Target M, Midgley N. “I just stopped going”: A Mixed Methods
+Investigation Into Types of Therapy Dropout in Adolescents With Depression.  Front
+Psychol. 2019;10(FEB):423542. PMID:30804827
+131.
+Gan DZQ, McGillivray L, Han J, Christensen H, Torok M. Effect of Engagement With
+Digital Interventions on Mental Health Outcomes: A Systematic Review and Meta-
+Analysis. Front Digit Health. 2021;3:764079. PMID:34806079
+132.
+Scholten W, Seldenrijk A, Hoogendoorn A, et al. Baseline Severity as a Moderator of the
+Waiting List-Controlled Association of Cognitive Behavioral Therapy With Symptom
+Change in Social Anxiety Disorder: A Systematic Review and Individual Patient Data
+Meta-analysis. JAMA Psychiatry. 2023;80(8):822-831. PMID:37256597
+133.
+Norris LA, Kendall PC. Moderators of Outcome for Youth Anxiety Treatments: Current
+Findings and Future Directions.  Journal of Clinical Child & Adolescent Psychology.
+2021;50(4):450-463. PMID:33140992
+134.
+Murray E, Hekler EB, Andersson G, et al. Evaluating Digital Health Interventions: Key
+Questions and Approaches. Am J Prev Med. 2016;51(5):843-851. PMID:27745684
+37
+https://preprints.jmir.org/preprint/67067
+[unpublished, peer-reviewed preprint]
+
+===
+PAGE 43:
+JMIR Preprints
+Walder et al
+135.
+Pretorius C, Chambers D, Coyle D. Young people’s online help-seeking and mental
+health difficulties: Systematic narrative review. J Med Internet Res. 2019;21(11):e13873.
+PMID:31742562
+136.
+Malloy J, Partridge SR, Kemper JA, Braakhuis A, Roy R. Co-design of digital health
+interventions  with  young  people:  A  scoping  review.  Digit  Health.  2023;9.
+PMID:38107986
+137.
+Gunnar  MR.  Editorial:  Placing  research  in  context  –  what  participant  and  study
+characteristics should be routinely reported in studies of child and adolescent mental
+health?
+ Journal  of  Child  Psychology  and  Psychiatry.  2024;65(2):121-123.
+PMID:38226802
+38
+https://preprints.jmir.org/preprint/67067
+[unpublished, peer-reviewed preprint]
+
+===
+PAGE 44:
+JMIR Preprints
+Walder et al
+Supplementary Files
+https://preprints.jmir.org/preprint/67067
+[unpublished, peer-reviewed preprint]
+
+===
+PAGE 45:
+JMIR Preprints
+Walder et al
+Multimedia Appendixes
+Search Strings used for the systematic literature review.
+URL: http://asset.jmir.pub/assets/0b2ba5e9feaeade5c2d20c82c1469d03.docx
+Risk of Bias assessment of all studies over all five domains.
+URL: http://asset.jmir.pub/assets/42b2f9840dbf289c2be19299b51fe98b.docx
+Forrest plots for all meta-analyses.
+URL: http://asset.jmir.pub/assets/9cc8d85031903d52c9eca4ac487f0dc0.pptx
+Prisma Checklist.
+URL: http://asset.jmir.pub/assets/f3973bd720df90deb74735153714adba.docx
+Powered by TCPDF (www.tcpdf.org)
+https://preprints.jmir.org/preprint/67067
+[unpublished, peer-reviewed preprint]
+
+===

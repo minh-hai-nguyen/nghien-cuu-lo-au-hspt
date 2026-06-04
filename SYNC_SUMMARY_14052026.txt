@@ -1,0 +1,224 @@
+SYNC SUMMARY — Files to send to OTHER MACHINE
+======================================================================
+
+Date: 2026-05-14
+Source machine: c:\Users\OS\OneDrive\read_books\Lo-au
+Target machine: c:\Users\HLC\OneDrive\read_books\Lo-au
+
+Files copied to staging: 155
+Files missing on this machine: 30
+Total uncompressed size: 47.0MB
+Zip size: 37.4MB
+
+Staging folder: c:\Users\OS\OneDrive\read_books\Lo-au\_to_send_to_other_machine
+Zip file: c:\Users\OS\OneDrive\read_books\Lo-au\Lo-au_sync_to_other_machine_14052026.zip
+
+BREAKDOWN by top-level directory:
+----------------------------------------------------------------------
+  02_Papers-goc                                          31 file      18.7MB
+  Cropped_Figures                                        62 file      16.8MB
+  rag_dich_phan_bien                                      5 file       4.4MB
+  03_Ban-dich                                             9 file       2.6MB
+  tro-ly-nghien-cuu-tam-ly                                3 file       1.8MB
+  paper-may                                               5 file       1.2MB
+  06_Scripts                                             24 file       1.0MB
+  01_Bao-cao                                             16 file     697.9KB
+
+
+FILES MISSING ON THIS MACHINE (cannot copy):
+----------------------------------------------------------------------
+  - 02_Papers-goc/Chua-phan-loai/Bhardwaj_2020_Chandigarh_DASS21.pdf (copy error: [Errno 22] Invalid argument)
+  - 02_Papers-goc/Chua-phan-loai/CBT_Delivery_GAD_TranslPsych_2025.pdf (copy error: [Errno 22] Invalid argument)
+  - 02_Papers-goc/Chua-phan-loai/Chen_2023_Chinese_SecondarySchool_BMCPsych.pdf (copy error: [Errno 22] Invalid argument)
+  - 02_Papers-goc/Chua-phan-loai/Chronic_Stress_Neuroinflammation_FrontPsych_2023.pdf (copy error: [Errno 22] Invalid argument)
+  - 02_Papers-goc/Chua-phan-loai/Epigenetics_Childhood_Maltreatment_TranslPsych_2021.pdf (copy error: [Errno 22] Invalid argument)
+  - 02_Papers-goc/Chua-phan-loai/HoangTrungHoc_2025_COVID_VN.pdf (copy error: [Errno 22] Invalid argument)
+  - 02_Papers-goc/Chua-phan-loai/Indonesia_Adolescent_MH_2024.pdf (copy error: [Errno 22] Invalid argument)
+  - 02_Papers-goc/Chua-phan-loai/Korea_Adolescent_MH_Trends_2024.pdf (copy error: [Errno 22] Invalid argument)
+  - 02_Papers-goc/Chua-phan-loai/Microbiota_GutBrain_Anxiety_2024_FrontNeuro.pdf (copy error: [Errno 22] Invalid argument)
+  - 02_Papers-goc/Chua-phan-loai/Mindfulness_Nature_MentalHealth_2023.pdf (copy error: [Errno 22] Invalid argument)
+  - 02_Papers-goc/Chua-phan-loai/Nakie_2022_Ethiopia_HighSchool_BMCPsych.pdf (copy error: [Errno 22] Invalid argument)
+  - 02_Papers-goc/Chua-phan-loai/Neural_Circuits_Mechanisms_Anxiety_2025_FrontNeuralCirc.pdf (copy error: [Errno 22] Invalid argument)
+  - 02_Papers-goc/Chua-phan-loai/Neuroinflammation_Neuromodulation_TranslPsych_2022.pdf (copy error: [Errno 22] Invalid argument)
+  - 02_Papers-goc/Chua-phan-loai/NgoAnhVinh_2024_DTTS_LangSon.pdf (copy error: [Errno 22] Invalid argument)
+  - 02_Papers-goc/Chua-phan-loai/PIIS2468266725000982.pdf (copy error: [Errno 22] Invalid argument)
+  - 02_Papers-goc/Chua-phan-loai/Pham_2024_QualityCare_VN_Adolescents.pdf (copy error: [Errno 22] Invalid argument)
+  - 02_Papers-goc/Chua-phan-loai/Pharmacotherapy_Anxiety_2020_Frontiers.pdf (copy error: [Errno 22] Invalid argument)
+  - 02_Papers-goc/Chua-phan-loai/Qiu_2022_ParentingStyle_Resilience_FrontPsych.pdf (copy error: [Errno 22] Invalid argument)
+  - 02_Papers-goc/Chua-phan-loai/SchoolFactors_VN_Anxiety_2021.pdf (copy error: [Errno 22] Invalid argument)
+  - 02_Papers-goc/Chua-phan-loai/Social_Anxiety_Young_People_7Countries_2020_PLOSONE.pdf (copy error: [Errno 22] Invalid argument)
+  - 02_Papers-goc/Chua-phan-loai/VNAMHS-Report_Eng_15-Feb-2023.pdf (copy error: [Errno 22] Invalid argument)
+  - 02_Papers-goc/Chua-phan-loai/VN_Hue_LoAu_TramCam_VTN_2025.pdf (copy error: [Errno 22] Invalid argument)
+  - 02_Papers-goc/Chua-phan-loai/VN_PNT_DASS_THPT_2025.pdf (copy error: [Errno 22] Invalid argument)
+  - 02_Papers-goc/Chua-phan-loai/VN_TPHCM_DASS_THPT_2024.pdf (copy error: [Errno 22] Invalid argument)
+  - 02_Papers-goc/Chua-phan-loai/Wen_2020_LPA_Anxiety_Rural_China.pdf (copy error: [Errno 22] Invalid argument)
+  - 02_Papers-goc/Chua-phan-loai/fpubh-12-1232856.pdf (copy error: [Errno 22] Invalid argument)
+  - 02_Papers-goc/Chua-phan-loai/journal.pone.0316825.pdf (copy error: [Errno 22] Invalid argument)
+  - 02_Papers-goc/Chua-phan-loai/Viet-nam/16.-NguyenThiVan.pdf (copy error: [Errno 22] Invalid argument)
+  - 02_Papers-goc/Chua-phan-loai/Viet-nam/TRANNGUYENNGOC-TamThan.pdf (copy error: [Errno 22] Invalid argument)
+  - 02_Papers-goc/Viet-Nam/2617-Văn bản của bài báo-2387-1-10-20250619 (1).pdf (copy error: [Errno 22] Invalid argument)
+
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+HƯỚNG DẪN XỬ LÝ FILE CLOUD-ONLY (30 file thiếu)
+======================================================================
+
+30 file đang ở trạng thái OneDrive Cloud-only (chưa download local).
+Vì chưa có nội dung trên ổ cứng → không gom được vào zip.
+
+CÁCH XỬ LÝ:
+
+1. Mở File Explorer → vào thư mục:
+   02_Papers-goc/Chua-phan-loai/
+
+2. Chọn TẤT CẢ file (Ctrl+A) → chuột PHẢI → chọn 'Always keep on this device'
+
+3. Đợi OneDrive download (icon cloud → icon check tròn xanh).
+   Có thể mất vài phút tuỳ mạng.
+
+4. Sau khi download xong → chạy lại script:
+   python _workspace_inventory/gather_and_zip.py
+   Script sẽ tự thêm 30 file này vào zip.
+
+5. Hoặc nếu không muốn chờ → gửi zip hiện tại (155 file) trước,
+   30 file Chua-phan-loai gửi đợt sau.
+
+======================================================================

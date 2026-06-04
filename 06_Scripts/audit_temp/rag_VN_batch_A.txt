@@ -1,0 +1,207 @@
+======================================================================
+[VN001] RAG SUMMARY:
+Tóm tắt bài VN-1: Hoa et al. 2024
+Tên công trình, tác giả, năm, mẫu khảo sát, đối tượng, khách thể, địa bàn
+Công trình « Triệu chứng lo âu và chiến lược ứng phó ở học sinh THPT tại Việt Nam sau đại dịch COVID-19 » (Anxiety Symptoms and Coping Strategies among High School Students in Vietnam after COVID-19 Pandemic), do Phạm Thị Thu Hoa, Đỗ Thị Trang, Nguyễn Thị Liên và Ngô Anh Vinh (2024), khảo sát 3.910 học sinh từ 13 trường THPT tại Hà Nội, Việt Nam. Frontiers in Public Health, 12:1232856. DOI: 10.3389/fpubh.2024.1232856.
+Phương pháp nghiên cứu
+Công trình sử dụng Thang đo Rối loạn Lo âu Tổng quát 7 mục (GAD-7 — Generalized Anxiety Disorder 7-item Scale) kết hợp phỏng vấn sâu (in-depth interviews). Nói cách khác, đây là phương pháp hỗn hợp (mixed methods) kết hợp nghiên cứu cắt ngang và phỏng vấn định tính.
+GAD-7 (Spitzer et al., 2006) với Cronbach alpha = 0,916 — độ tin cậy rất cao. Mẫu 3.910 HS từ 13 trường THPT Hà Nội.
+Kết quả nghiên cứu định lượng
+Bảng 1. Tỷ lệ lo âu GAD-7 HS THPT Hà Nội
+Bảng 2. Khác biệt giới tính
+Khác biệt giới tính : Nữ có điểm GAD-7 trung bình cao hơn nam (1,74 vs 1,50, P < 0,01) — phù hợp xu hướng quốc tế.
+Nhận xét, phát hiện qua kết quả nghiên cứu
+• Tỷ lệ 40,6% là mức cao — nhưng cần lưu ý đây là sàng lọc (GAD-7 ≥5), không phải chẩn đoán. So với V-NAMHS 2022 (chẩn đoán DISC-5: chỉ 2,3%), chênh lệch 17 lần.
+• Phỏng vấn sâu phát hiện 4 nguồn lo âu: áp lực học tập, quan hệ xã hội, định kiến xã hội, kỳ vọng gia đình — tương tự Jenkins 2023 (COVID, phân biệt đối xử) và Wen 2020 (áp lực học tập OR=11,6).
+Kết luận
+Lo âu 40,6% ở 3.910 HS THPT Hà Nội sau COVID-19. Nữ > nam (P<0,01). Cần can thiệp nhắm vào áp lực học tập và kỳ vọng gia đình — hai nguồn lo âu phổ biến nhất theo phỏng vấn định tính.
+Phản biện
+Frontiers in Public Health (Q1, PubMed). Phương pháp hỗn hợp sáng tạo, GAD-7 alpha=0,916. Tuy nhiên, chỉ Hà Nội (đô thị) — không đại diện nông thôn/DTTS. Thiết kế cắt ngang. Phỏng vấn sâu không nêu rõ số lượng và cách chọn mẫu định tính.
+Hướng nghiên cứu tiếp theo
+Mở rộng ra nông thôn và vùng DTTS. So sánh GAD-7 với DISC-5 trên cùng mẫu để ước tính khoảng cách sàng lọc–chẩn đoán. Nghiên cứu dọc theo dõi lo âu hậu COVID.
+Đánh giá: ⭐⭐⭐⭐ Cao. Q1, n=3.910, GAD-7 alpha=0,916, phương pháp hỗn hợp.
+Mức độ lo âu | Tỷ lệ
+Tổng có lo âu (GAD-7 ≥5) | 40,6%
+Nhẹ (5–9) | 23,9%
+Trung bình (10–14) | 10,9%
+Nặng (15–21) | 5,8%
+Chỉ số | Nam | Nữ | P
+Điểm GAD-7 trung bình | 1,50 | 1,74 | <0,01
+Hướng | — | Cao hơn | Nữ > Nam
+
+======================================================================
+[VN002] RAG SUMMARY:
+Tóm tắt bài VN002 — Khảo sát Sức khoẻ Tâm thần Vị thành niên Việt Nam (V-NAMHS 2022)
+Cập nhật từ PDF gốc (14/04/2026) — rebuild theo Framework Jenkins + Nguyên tắc dịch v2.
+Tên công trình, tác giả, năm, mẫu khảo sát, đối tượng, khách thể, địa bàn khảo sát
+Công trình "Viet Nam Adolescent Mental Health Survey (V-NAMHS): Report on Main Findings" của Vũ Mạnh Lợi, Nguyễn Đức Vinh (Viện Xã hội học, VASS); Đào Thị Khánh Hoa (Hội Xã hội học Việt Nam); Holly E. Erskine, Cartiah McGrath, Krystina Wallis, Sarah J. Blondell, Harvey A. Whiteford, James G. Scott (The University of Queensland); Robert Blum, Shoshanna Fine, Mengmeng Li, Astha Ramaiya (Johns Hopkins Bloomberg School of Public Health). Publish tháng 11/2022 bởi Institute of Sociology, Hà Nội. Báo cáo điều tra quốc gia ĐẦU TIÊN của Việt Nam về rối loạn sức khoẻ tâm thần ở vị thành niên 10–17 tuổi theo chuẩn chẩn đoán DSM-5 (DISC-5). Mẫu 5.996 cặp phụ huynh–vị thành niên từ 38 tỉnh/thành phố trải 4 vùng địa lý (Trung du miền núi phía Bắc + Tây Nguyên, Đồng bằng sông Hồng, Bắc Trung Bộ + Duyên hải miền Trung, Đông Nam Bộ + ĐBSCL), bao phủ cả đô thị và nông thôn.
+Phương pháp nghiên cứu
+Điều tra cắt ngang hộ gia đình. Chọn ngẫu nhiên 200 Enumeration Areas (EA) phân đều 50 EA/vùng (25 đô thị + 25 nông thôn), 38 hộ/EA. Tổng 7.599 hộ được tiếp cận, 6.048 đủ điều kiện tham gia (response rate 81,1 %), loại 52 hộ dữ liệu không đầy đủ → mẫu cuối cùng 5.996 cặp. Công cụ đo: DISC-5 (Diagnostic Interview Schedule for Children Version 5) trên vị thành niên cho 5 module (social phobia, generalised anxiety disorder, major depressive disorder, PTSD, conduct disorder); module ADHD hỏi phụ huynh. Phụ huynh cũng hoàn thành PSC-17, PHQ-9, GAD-7. Vị thành niên còn trả lời Rosenberg Self-Esteem, bắt nạt, ACE, peer relationships, GEAS Family Connectedness, self-rated health, physical activity, sexual behaviour (12–17 tuổi, self-administered). Module COVID-19 phát triển riêng. Thu thập dữ liệu 21/9/2021 – 16/12/2021 (bắt đầu miền Bắc, sau miền Nam) với 127 phỏng vấn viên được đào tạo. Tỷ lệ và số lượng weighted theo phân bố tuổi–giới–đô thị/nông thôn của quần thể VTN VN 10–17. Adaptation: dịch tiếng Việt → dịch ngược tiếng Anh → rà soát bác sĩ lâm sàng VN → phản hồi tập huấn → pilot tại Hà Nội + Đồng Nai 2019–2020.
+Kết quả nghiên cứu (đã verify 42/42 claims vs PDF gốc)
+1. Đặc điểm mẫu
+• n = 5.996 cặp phụ huynh–VTN; tuổi VTN trung bình 13,3; 54,2 % ở 10–13 tuổi, 45,8 % ở 14–17
+• 52,6 % nam, 47,5 % nữ [lưu ý bản gốc có thể đảo cột tỷ lệ nam/nữ]; 94,5 % hiện đi học; 94,6 % chưa từng làm việc
+• Phụ huynh TB 44,2 tuổi; 71,7 % nữ; 63,6 % là mẹ/mẹ kế; 47 % hoàn thành ≤ THCS; 54,1 % toàn thời gian
+2. Vấn đề SKTT (mental health problem, 12 tháng qua, weighted)
+Không có khác biệt theo giới (nam 20,8 % vs nữ 22,6 %) hay nhóm tuổi (10–13: 20,8 % vs 14–17: 22,7 %).
+3. Rối loạn tâm thần (DSM-5 full criteria, 12 tháng qua)
+Anxiety disorders cao hơn có ý nghĩa so với tất cả rối loạn khác. Không khác biệt theo giới hay tuổi.
+4. Lĩnh vực suy giảm chức năng (impairment domains)
+5. Hành vi tự sát & tự làm hại (12 tháng qua)
+• Ý nghĩ tự sát 1,4 %; lập kế hoạch 0,4 %; toan tự sát 0,2 %; từng toan trong đời 1,6 %
+• Tự làm hại 12 tháng 1 %; từng tự làm hại trong đời 4,7 %
+• 73,5 % có ý nghĩ tự sát đồng thời có vấn đề SKTT; 76,3 % tự làm hại có vấn đề SKTT
+• Note: tỷ lệ thấp hơn GSHS 2019 (ý nghĩ tự sát 15,6 %, toan 3,1 %) — có thể do phỏng vấn trực tiếp face-to-face underestimate do stigma
+6. Sử dụng dịch vụ
+• 8,4 % VTN có vấn đề SKTT đã sử dụng dịch vụ; 6,5 % toàn mẫu (n = 389)
+• 56,2 % đến bác sĩ/điều dưỡng; 10,7 % nhân viên y tế cộng đồng; 5,5 % nhân viên trường; chỉ 1,4 % chuyên gia tâm thần
+• Chỉ 5,1 % phụ huynh xác định con cần trợ giúp; 37,7 % trong số đó đã nhận đủ trợ giúp
+• Rào cản hàng đầu: "tự giải quyết trong gia đình" 20,4 %; "không chắc con có cần" 10,7 %; "không biết chỗ tìm" 10,0 %
+• Hỗ trợ phi chính thức: 73,9 % VTN nói với gia đình; 38,2 % với bạn bè; 9,5 % không nói với ai
+7. Tác động COVID-19
+• 7,7 % VTN "rất đồng ý" thường xuyên có vấn đề cảm xúc/hành vi nhiều hơn bình thường (cộng cả "đồng ý" = 67 %)
+• 71,5 % hộ giảm thu nhập; 12,3 % thường xuyên thiếu tiền nhu yếu phẩm
+• 7,1 % phụ huynh báo cáo con cần trợ giúp trong đại dịch; 80,3 % không tiếp cận (69,2 % sợ nhiễm COVID-19)
+Nhận xét, phát hiện qua kết quả nghiên cứu
+• Lần ĐẦU TIÊN có dữ liệu đại diện quốc gia về tỷ lệ rối loạn tâm thần VTN VN theo chuẩn DSM-5 — lấp khoảng trống thông tin chiến lược
+• Khoảng cách rất lớn giữa sàng lọc (GAD-7 VN
+
+======================================================================
+[VN003] RAG SUMMARY:
+Tóm tắt bài VN-3: Pham et al. 2024
+Tên công trình, tác giả, năm, mẫu khảo sát, đối tượng, khách thể, địa bàn
+Công trình nghiên cứu về mối quan hệ giữa chăm sóc xã hội và sức khỏe tâm thần ở thanh thiếu niên tại các cơ sở hỗ trợ xã hội tại Huế, Việt Nam, do Pham và cộng sự (2024), khảo sát trên 273+273 thanh thiếu niên (nhóm can thiệp và nhóm đối chứng) tại các cơ sở hỗ trợ xã hội.
+Phương pháp nghiên cứu
+Nghiên cứu đánh giá tác động của chăm sóc cảm xúc (emotional care) và chăm sóc thể chất (physical care) đến sức khỏe tâm thần thanh thiếu niên. Nói cách khác, nghiên cứu phân tách hai loại chăm sóc để xác định loại nào có tác động thực sự.
+Kết quả nghiên cứu định lượng
+Bảng 1. Kết quả chính
+Phát hiện quan trọng nhất : Chăm sóc CẢM XÚC (beta = –0,40, P < 0,001) giảm lo âu mạnh, trong khi chăm sóc THỂ CHẤT không có tác động có ý nghĩa. Điều này gợi ý can thiệp nên tập trung vào hỗ trợ cảm xúc (lắng nghe, chia sẻ, đồng cảm) hơn là chỉ đáp ứng nhu cầu vật chất.
+Nhận xét, phát hiện qua kết quả nghiên cứu
+• Phát hiện chăm sóc cảm xúc (beta = –0,40) tương tự Qiu et al. 2022: nuôi dạy tích cực giảm 70% nguy cơ trầm cảm (OR = 0,30) và 68% lo âu (OR = 0,32). Cả hai đều nhấn mạnh yếu tố gia đình/chăm sóc cảm xúc.
+• Phát hiện chăm sóc thể chất không có ý nghĩa là bất ngờ — thách thức quan niệm "cung cấp vật chất đầy đủ = sức khỏe tâm thần tốt".
+Kết luận
+Chăm sóc cảm xúc (beta = –0,40) là yếu tố bảo vệ mạnh cho SKTT thanh thiếu niên, trong khi chăm sóc thể chất không có tác động. Can thiệp nên tập trung đào tạo kỹ năng chăm sóc cảm xúc cho người chăm sóc tại cơ sở hỗ trợ xã hội.
+Phản biện
+Phân tách rõ ràng chăm sóc cảm xúc vs thể chất — ít NC nào làm. Tuy nhiên, cỡ mẫu nhỏ (273+273), chỉ tại Huế, đối tượng đặc thù (cơ sở hỗ trợ xã hội, không phải trường học phổ thông). Thiết kế cắt ngang.
+Hướng nghiên cứu tiếp theo
+Mở rộng sang trường học phổ thông. Nghiên cứu can thiệp đào tạo chăm sóc cảm xúc cho phụ huynh/giáo viên. Đánh giá dọc tác động dài hạn.
+Đánh giá: ⭐⭐⭐ Trung bình-Khá. Phân tách cảm xúc/thể chất sáng tạo nhưng cỡ mẫu nhỏ và đối tượng đặc thù.
+Bảng 2. So sánh / Bổ sung
+Loại chăm sóc | Beta (lo âu) | P | Ý nghĩa
+Chăm sóc cảm xúc | –0,40 | <0,001 | Giảm lo âu mạnh — YẾU TỐ BẢO VỆ
+Chăm sóc thể chất | Không có ý nghĩa | >0,05 | KHÔNG tác động
+Yếu tố | Liên quan | Hướng
+Hỗ trợ xã hội | Lo âu + Trầm cảm | Bảo vệ (giảm)
+Giới tính nữ | Lo âu | Nữ > Nam
+Chất lượng chăm sóc | SKTT | Tích cực
+
+======================================================================
+[VN004] RAG SUMMARY:
+VN004 — Tóm tắt bài nghiên cứu
+Phương pháp nghiên cứu
+Cắt ngang, 2 pha (sàng lọc + khảo sát sâu)
+Mẫu: Sàng lọc 558 HS THPT (STAI) → 90 HS phân tích sâu (mẫu thuận tiện, 4 trường nội + ngoại thành TPHCM)
+Công cụ đo: STAI Spielberger (bản Việt hoá Nguyễn Công Khanh 2000) + SAS
+Kết quả nghiên cứu
+Tỷ lệ RLLA: 15–18,5 % (STAI ≥ ngưỡng)
+4 nhóm yếu tố: học tập / gia đình / quan hệ xã hội / bản thân HS
+Nhóm "bản thân HS" ảnh hưởng mạnh nhất: r = 0,42 (tác giả công bố 85,4 % — em nghi là R² hồi quy đa biến nhiều biến bản thân, không phải r² bivariate vì r²=0,176)
+Top 3 yếu tố bản thân: ít giao tiếp chia sẻ (X̄=0,91), thất vọng (0,90), lo sợ khó khăn (0,88)
+Nhóm học tập: r = 0,37; áp lực thi ĐH 56,7 %; định hướng nghề 51,5 %; kỳ vọng cha mẹ 48,9 %
+Điểm mạnh
+• Một trong số ít NC VN chuyên về YẾU TỐ ẢNH HƯỞNG (không chỉ prevalence)
+• Phân tích 4 nhóm yếu tố hệ thống
+• Kết hợp số liệu + phỏng vấn định tính
+Hạn chế
+• Mẫu thuận tiện (không ngẫu nhiên) → không đại diện TPHCM
+• STAI bản Việt 2000 — chưa cập nhật psychometric trong 20 năm
+• Thiếu phân tích đa biến rõ ràng (R² 85,4 % cần verify)
+• Thiếu nhóm chứng
+• Chỉ 1 thành phố, không phân biệt quận đô thị vs ngoại thành sâu
+Phản biện ngắn
+NC quan trọng về YẾU TỐ nguy cơ RLLA ở HS THPT VN (hiếm có). Tuy nhiên mẫu thuận tiện + công cụ cũ + số liệu R² gây nghi ngờ. Con số 85,4 % giải thích của nhóm "bản thân HS" không khớp với r=0,42 (r²=0,176) — có thể là R² đa biến hoặc tỷ lệ % nhóm có biểu hiện. Cần verify bản gốc.
+Hướng nghiên cứu tiếp theo
+Sao chép thiết kế với mẫu ngẫu nhiên đại diện + STAI cập nhật hoặc DASS-21 + phân tích đa biến rõ ràng + nhóm chứng.
+Đánh giá chất lượng: ⭐⭐⭐ (3/5)
+Key fact cho RAG: Trong 4 nhóm yếu tố: "bản thân HS" (personality/self) MẠNH NHẤT > học tập > gia đình > quan hệ xã hội.
+Tên công trình (VN) | Một số yếu tố ảnh hưởng đến rối loạn lo âu ở học sinh trung học phổ thông tại Th
+Tên công trình (EN) | Some causes of anxiety disorders in high school students in Ho Chi Minh City
+Tác giả | Nguyễn Thị Vân
+Đơn vị | Đại học Khoa học Xã hội và Nhân văn — ĐHQG TPHCM
+Nơi công bố | Tạp chí Khoa học Quản lý Giáo dục, số 01(25), tháng 3/2020. ISSN 2354-0788
+Năm | 2020
+Địa bàn + mẫu + công cụ | TPHCM (4 trường THPT) | Sàng lọc 558 HS THPT (STAI) → 90 HS phân tích sâu (mẫu t
+
+======================================================================
+[VN005] RAG SUMMARY:
+VN005 — Tóm tắt bài nghiên cứu
+Phương pháp nghiên cứu
+Can thiệp trước-sau (có thể có nhóm chứng) — thiết kế cụ thể verify từ PDF
+Mẫu: Bệnh nhân GAD (chẩn đoán DSM/ICD) điều trị tại bệnh viện — số liệu cụ thể cần verify từ chương "Đối tượng và phương pháp"
+Công cụ đo: DSM/ICD chẩn đoán + thang đo lo âu (HAM-A, Beck, Zung — cần verify) + liệu pháp thư giãn luyện tập
+Kết quả nghiên cứu
+Công trình nghiên cứu CAN THIỆP RLLA tại Việt Nam — RẤT HIẾM trong thư viện
+Trọng tâm: liệu pháp thư giãn luyện tập (relaxation training) cho GAD người lớn
+Đánh giá hiệu quả giảm triệu chứng trước-sau can thiệp (số cụ thể cần verify)
+Điểm mạnh
+• Công trình VN về can thiệp RLLA — hầu như không có công trình khác cùng hướng trong thư viện
+• Luận án TS → methodology được bảo vệ
+• Bệnh viện Bạch Mai — trung tâm tâm thần học đầu ngành VN
+• 177 trang chi tiết (hiếm có ở VN)
+Hạn chế
+• Đối tượng NGƯỜI LỚN (không phải HS THCS/THPT — trọng tâm đề tài) — giá trị liên hệ gián tiếp
+• Liệu pháp thư giãn đơn thuần, không phải CBT đầy đủ
+• Chưa publish quốc tế — visibility thấp
+• Năm 2018 — dữ liệu có thể outdated với bối cảnh hậu COVID
+Phản biện ngắn
+Công trình can thiệp RLLA HIẾM ở VN — có giá trị làm nền cho RCT can thiệp HS/VTN tương lai. Nhưng đối tượng là NGƯỜI LỚN, liệu pháp đơn chỉ thư giãn — không thay thế CBT hoặc kết hợp. Dùng làm tài liệu tham chiếu methodology, không dùng cho effect size HS.
+Hướng nghiên cứu tiếp theo
+Mở rộng thiết kế: (1) đối tượng VTN 12–17 tuổi; (2) so sánh thư giãn vs CBT nhóm vs kết hợp; (3) RCT với randomization + nhóm chứng chặt chẽ.
+Đánh giá chất lượng: ⭐⭐⭐ (3/5)
+Key fact cho RAG: Can thiệp RLLA tại VN — thư giãn luyện tập, bệnh viện Bạch Mai, người lớn, 2018, luận án TS.
+Tên công trình (VN) | Đánh giá hiệu quả điều trị rối loạn lo âu lan tỏa bằng liệu pháp thư giãn luyện 
+Tên công trình (EN) | Evaluation of treatment efficacy for generalized anxiety disorder using relaxati
+Tác giả | Trần Nguyễn Ngọc
+Đơn vị | Đại học Y Hà Nội / Bạch Mai
+Nơi công bố | Luận án Tiến sĩ Y học, ĐH Y Hà Nội, 2018 (177 trang)
+Năm | 2018
+Địa bàn + mẫu + công cụ | Bệnh viện Bạch Mai, Hà Nội | Bệnh nhân GAD (chẩn đoán DSM/ICD) điều trị tại bệnh
+
+======================================================================
+[VN006] RAG SUMMARY:
+VN006 — Tóm tắt bài nghiên cứu
+Phương pháp nghiên cứu
+Cắt ngang, sàng lọc
+Mẫu: 540 HS THPT chuyên → 77 HS có RLLA (tỷ lệ 14,2 %)
+Công cụ đo: DASS-42 (40 mục về lo âu — cutoff không nêu rõ trong bản tóm tắt)
+Kết quả nghiên cứu
+Tỷ lệ lo âu tổng: 14,2 % (nhẹ 3,5 % / vừa 7,2 % / nặng 2,4 % / rất nặng 1,1 %)
+PHÁT HIỆN BẤT NGỜ: Khối 11 chiếm 48,1 % (CAO NHẤT), khối 10 31,1 %, khối 12 chỉ 20,8 %
+→ TRÁI giả thuyết rằng khối 12 (thi ĐH) cao nhất. Lý giải: khối 11 áp lực đa chiều chọn ngành/khối; khối 12 đã ổn định định hướng
+Biểu hiện: choáng váng 85,7 %, khó tập trung 76,6 %, cảm thấy "vô dụng" 67,5 %
+Trích phỏng vấn: "Em là HS Chuyên mà mấy cái đó cũng không làm được, em thấy tệ quá!" → "perfectionism trap" trường chuyên
+Giới: nữ 66,5 % (lệch giới)
+Điểm mạnh
+• Một trong ít NC VN chuyên về HS TRƯỜNG CHUYÊN — đặc thù áp lực cao
+• Phân tầng theo khối lớp → phát hiện mẫu hình TRÁI với giả thuyết
+• Kết hợp định lượng + phỏng vấn định tính
+• DASS-42 (full version) thay vì chỉ DASS-21 → thêm chi tiết
+Hạn chế
+• Chỉ 1 trường chuyên đặc thù → không ngoại suy ra toàn bộ HS chuyên VN
+• Không nêu cutoff DASS-42 cụ thể → khó đối chiếu với NC khác
+• Lệch giới (nữ 66,5 %) → có thể phóng đại tỷ lệ
+• Thiếu phân tích đa biến
+• Thiếu nhóm chứng (so với HS không-chuyên)
+Phản biện ngắn
+Phát hiện KHỐI 11 > KHỐI 12 lo âu trong trường chuyên là đóng góp đặc sắc, ngược giả định "thi ĐH gây lo âu nhất". Gợi ý cho can thiệp: tập trung vào KHỐI 11 trường chuyên, không phải khối 12. Tuy nhiên chỉ 1 trường nên cần nhân rộng để confirm.
+Hướng nghiên cứu tiếp theo
+So sánh HS chuyên vs HS không-chuyên cùng khối với cùng công cụ. Điều tra yếu tố "perfectionism" qua thang đo MPS. Theo dõi dọc khối 11 → khối 12 xem lo âu có giảm tự nhiên không.
+Đánh giá chất lượng: ⭐⭐⭐⭐ (4/5)
+Key fact cho RAG: HS THPT chuyên khối 11 lo âu cao nhất 48,1 %, TRÁI với giả định khối 12 cao nhất. Perfectionism trap. DASS-42 n=540.
+Tên công trình (VN) | Rối loạn lo âu ở học sinh trung học phổ thông chuyên
+Tên công trình (EN) | Anxiety disorders in students of specialized (selective) high schools
+Tác giả | Trần Thị Mỵ Lương (và có thể Đặng Đức Anh)
+Đơn vị | Học viện Phụ nữ Việt Nam
+Nơi công bố | Tạp chí Khoa học ĐH Thủ Đô Hà Nội, số 40/2020, tr 122
+Năm | 2020
+Địa bàn + mẫu + công cụ | Trường THPT chuyên (1 trường, cần verify tên trường cụ thể từ PDF) | 540 HS THPT

@@ -1,0 +1,244 @@
+============================================================
+[QT001] RAG SUMMARY:
+Tóm tắt bài 1
+Tên công trình, tác giả, năm, mẫu khảo sát, đối tượng, khách thể, địa bàn khảo sát
+BÀI BÁO 1: Trầm cảm và lo âu ở học sinh trung học cơ sở đa sắc tộc: Tuổi, giới tính và môi trường văn hóa xã hội Tiêu đề gốc (English):** Depression and anxiety among multiethnic middle school students: Age, gender, and sociocultural environment Tiêu đề dịch (Vietnamese):** Trầm cảm và lo âu ở học sinh trung học cơ sở đa sắc tộc: Tuổi, giới tính và môi trường văn hóa xã hội Tác giả:** Janis H. Jenkins, Giselle Sanchez, Eric A. Miller, Nadia Irina Santillanes Allande, Grace Urano, Alexandra J. Pr
+Phương pháp nghiên cứu
+Tổng quan về thiết kế và quy trình nghiên cứu Nghiên cứu này được thiết kế để khảo sát trải nghiệm sống và sức khỏe tâm thần trong giai đoạn tuổi vị thành niên thông qua phương pháp hỗn hợp và tiếp cận dân tộc học. Bối cảnh của nghiên cứu phi lâm sàng này là một trường học và cộng đồng đa sắc tộc thu nhập thấp ở Nam California, Hoa Kỳ. Kế hoạch nghiên cứu tập trung vào việc khảo sát các thói quen hàng ngày, tình trạng sức khỏe tâm thần và sự tham gia giáo dục của học sinh trung học cơ sở được tuyển chọn ở trình độ lớp sáu (độ tuổi 10-11). Việc lựa chọn từ nhóm tuổi trẻ hơn này nhằm đóng góp và
+Kết quả nghiên cứu định lượng
+Nữ có điểm PHQ-9A cao hơn nam (p = 0,002, kiểm định Mann-Whitney) và điểm GAD-10 cao hơn (p = 0,016).
+Đặc điểm nhân khẩu xã hội Bảng 1 liệt kê các đặc điểm nhân khẩu xã hội của mẫu nghiên cứu, bao gồm giới tính, tuổi, trình độ lớp, nền tảng sắc tộc và loại hộ gia đình. Tuổi trung bình là 11,2 với phạm vi tuổi hạn chế giữa các học sinh tham gia. Trong mẫu này, phần lớn học sinh xác định là nam hoặc nữ; tuy nhiên, điều đáng lưu ý là trong các cuộc phỏng vấn, một số học sinh đang đặt câu hỏi về bản dạng giới tính và xu hướng tình dục của mình, cho thấy những hạn chế của việc mã hóa giới tính hoặc tính dục theo kiểu nhị phân. Nhận dạng sắc tộc phổ biến nhất là gốc Mexico, tiếp theo là các tổ hợp nền tảng Âu-Mỹ. Các nhận dạng bổ sung bao gồm người Mỹ gốc Phi và Da đen, Trung Mỹ, quần đảo Thái Bình Dương, Nam Á và Đông Á, và người bản địa Mỹ. Về nền tảng sắc tộc, chúng tôi lưu ý rằng đối với một
+Nhận xét, phát hiện qua kết quả nghiên cứu
+Phát hiện về tuổi trong trầm cảm và lo âu Chúng tôi nhận thấy 44% thanh thiếu niên trong nghiên cứu rơi vào phạm vi nhẹ đến nặng của thang sàng lọc trầm cảm PHQ-9A, trong khi các phản hồi GAD-10 cho thấy khoảng một nửa (50,6%) thanh thiếu niên rơi vào phạm vi sàng lọc lo âu từ nhẹ đến cực kỳ nặng. Với đây là một nghiên cứu phi lâm sàng, dựa trên trường học, kết quả của chúng tôi cho thấy việc sàng lọc các vấn đề sức khỏe tâm thần phổ biến này có thể quan trọng cho việc nhận diện sớm các tình trạng khó chịu có thể tiếp tục hoặc trở nên trầm trọng hơn sau 11 tuổi. Nghiên cứu của chúng tôi là một
+Kết luận
+Dữ liệu của chúng tôi, cho thấy sự hiện diện của các mức độ triệu chứng trầm cảm và lo âu từ nhẹ đến nặng trong một mẫu phi lâm sàng gồm các học sinh trung học cơ sở trẻ tuổi, gợi ý rằng cần chú ý nghiên cứu ở độ tuổi sớm hơn cho các quy trình sàng lọc cơ bản. Những phát hiện ở trẻ 11 tuổi này có ý nghĩa lâm sàng tiềm năng cho việc nhận diện các tình trạng dưới ngưỡng hội chứng trong giai đoạn đầu tuổi vị thành niên. Sự khác biệt giới tính có ý nghĩa, trước đây được tìm thấy ở thanh thiếu niên l
+Phản biện
+Cỡ mẫu rất nhỏ (N=75), snowball sampling tại 1 trường duy nhất — không đại diện. GAD-10 sửa đổi thiếu dữ liệu xác thực. Thiết kế kéo dài 2018-2021 trùng COVID-19 nhưng không kiểm soát hiệu ứng thời điểm. Phương pháp hỗn hợp là điểm sáng.
+Hướng nghiên cứu tiếp theo
+Mở rộng cỡ mẫu. Phát triển công cụ sàng lọc nhạy cảm văn hóa. Nghiên cứu dọc theo dõi từ đầu vị thành niên. Đánh giá can thiệp giải quyết yếu tố văn hóa xã hội.
+Đánh giá chất lượng: ⭐⭐⭐ Trung bình-Khá
+Bảng 1. Tỷ lệ trầm cảm và lo âu — Jenkins et al. 2023
+Bảng 2. Yếu tố liên quan — Jenkins et al. 2023
+Chỉ số | Tỷ lệ | Ghi chú
+Trầm cảm (PHQ-9A nhẹ–nặng) | 44% | Mẫu phi lâm sàng
+Lo âu (GAD-10 nhẹ–cực nặng) | 50,6%
+Tuổi TB | 11,2 | THCS
+Yếu tố | Ảnh hưởng | p
+Tuổi | Tăng triệu chứng theo tuổi | <0,05
+Giới tính | Nữ > Nam (trầm cảm + lo âu) | <0,05
+Sắc tộc / Văn hóa | Khác biệt giữa nhóm | <0,05
+
+============================================================
+[QT002] RAG SUMMARY:
+Tóm tắt bài 2
+Tên công trình, tác giả, năm, mẫu khảo sát, đối tượng, khách thể, địa bàn khảo sát
+Công trình nghiên cứu « Các bệnh lý sức khỏe tâm thần và các yếu tố liên quan ở thanh thiếu niên tại Kamrup (Metro), Assam: Một nghiên cứu tại trường học » (Mental Health Morbidities and their Correlates among the Adolescents in Kamrup (Metro), Assam: A School-Based Study), do Anku M. Saikia, Hemen Das và Vinoth Rajendran (2023) tại Khoa Y học Cộng đồng, Trường Y khoa và Bệnh viện Gauhati, Guwahati, Assam, Ấn Độ, khảo sát trên mẫu 360 thanh thiếu niên từ 14 đến 17 tuổi tại 10 trường trung học công lập ở quận Kamrup (Metro), vùng Đông Bắc Ấn Độ.
+Phương pháp nghiên cứu
+Công trình này sử dụng Thang đo Trầm cảm Lo âu Căng thẳng 21 mục (DASS-21 — Depression Anxiety Stress Scale) phiên bản tiếng Assam kết hợp với lịch phỏng vấn được thiết kế sẵn và thang đo Kuppuswamy sửa đổi để đánh giá tình trạng kinh tế xã hội. Nói cách khác, công trình này sử dụng phương pháp sàng lọc cắt ngang tại trường học.
+DASS-21 là phiên bản rút gọn 21 mục của Thang đo Trầm cảm Lo âu Căng thẳng (Depression Anxiety Stress Scale) gốc 42 mục (Lovibond & Lovibond, 1995), được thiết kế để sàng lọc đồng thời ba tình trạng: trầm cảm, lo âu và căng thẳng.
+Thang đo Kuppuswamy sửa đổi (Modified Kuppuswamy Scale) là công cụ đánh giá tình trạng kinh tế xã hội được sử dụng rộng rãi tại Ấn Độ, dựa trên ba tiêu chí: học vấn của trụ cột gia đình, nghề nghiệp và thu nhập hộ gia đình.
+Tổng quan tài liệu của chúng tôi cho thấy phần lớn các nghiên cứu về sức khỏe tâm thần thanh thiếu niên tại Ấn Độ tập trung vào các bang miền Nam và miền Bắc, trong khi vùng Đông Bắc Ấn Độ — nơi có đặc điểm văn hóa bộ lạc khác biệt — hầu như chưa được khảo sát. Đây là nghiên cứu tiên phong tại khu vực này.
+Dữ liệu nhân khẩu xã hội bao gồm tuổi, giới tính, loại gia đình (hạt nhân hoặc mở rộng), tầng lớp kinh tế xã hội, tình trạng cha mẹ (đơn thân hoặc đủ), sử dụng rượu của cha mẹ, tiền sử bị lạm dụng, tiền sử bệnh tâm thần trong gia đình, thói quen chơi trò chơi điện tử và kết quả học tập.
+Nghiên cứu được thực hiện từ tháng 4/2019 đến tháng 6/2020. Từ tổng số 120 trường trung học công lập, 10 trường được chọn ngẫu nhiên đơn giản. Từ mỗi trường, 36 học sinh được chọn ngẫu nhiên (12 từ mỗi lớp 8, 9, 10), đảm bảo số lượng nam và nữ bằng nhau. Quyền riêng tư và tính bảo mật nghiêm ngặt được duy trì trong quá trình phỏng vấn. DASS-21 được dịch sang tiếng Assam, dịch ngược bởi chuyên gia song ngữ và xác nhận bởi nhóm chuyên gia tâm thần học và y học cộng đồng.
+Kết quả nghiên cứu định lượng
+Tỷ lệ trầm cảm, lo âu và căng thẳng theo DASS-21 (N = 360):
+Bảng 1. Tỷ lệ lo âu/trầm cảm
+Tỷ lệ lo âu theo giới tính:
+Bảng 2. Yếu tố liên quan
+Yếu tố liên quan có ý nghĩa thống kê với lo âu:
+Bảng 3. So sánh liên bài
+Khác biệt giới tính : Nam giới luôn được báo cáo có tỷ lệ lo âu thấp hơn nữ giới trong y văn quốc tế (McLean và cộng sự, 2011). Thực tế, sự chênh lệch giới trong lo âu ở thanh thiếu niên đã được xác nhận trong hàng chục nghiên cứu đa quốc gia (Daly, 2022). Tuy nhiên, nghiên cứu hiện tại cho thấy kết quả TRÁI NGƯỢC: nam giới có tỷ lệ lo âu cao hơn nữ (30,0% so với 18,9%, P = 0,049). Phát hiện này phù hợp với Wen và cộng sự (2020) tại nông thôn Trung Quốc và Xu và cộng sự (2021) trong bối cảnh COVID-19 tại Trung Quốc.
+Nhận xét, phát hiện qua kết quả nghiên cứu
+Phát hiện về yếu tố gia đình, lối sống và bối cảnh văn hóa Đông Bắc Ấn Độ
+*Cha mẹ đơn thân và sử dụng rượu.* Nổi bật đối với cả nam và nữ thanh thiếu niên là mối liên hệ mạnh giữa hoàn cảnh gia đình bất lợi và sức khỏe tâm thần. Thanh thiếu niên sống với cha hoặc mẹ đơn thân có tỷ lệ lo âu 63,2% — gấp gần 3 lần so với nhóm sống với cả hai bố mẹ (22,3%). Đây là một yếu tố nguy cơ không nằm trong các mục sàng lọc của DASS-21 nhưng được xác nhận rõ ràng bởi phân tích chi-square.
+*Trò chơi điện tử và kết quả học tập.* Sự tác động của thói quen chơi trò chơi điện tử đến sức khỏe tâm thần thanh thiếu niên là rất nổi bật. Những vấn đề này được liên hệ với kết quả học tập kém — thanh thiếu niên bị lưu ban có tỷ lệ lo âu 51,7%, gấp đôi nhóm có kết quả bình thường.
+*Bối cảnh văn hóa bộ lạc Đông Bắc.* Các phân tích cho thấy bối cảnh liên quan đến trải nghiệm lo âu của thanh thiếu niên, bao gồm đặc thù văn hóa bộ lạc vùng Đông Bắc Ấn Độ — nơi kỳ vọng về vai trò nam giới có thể khác biệt so với phần còn lại của Ấn Độ, gợi ý rằng yếu tố văn hóa địa phương có thể đảo ngược xu hướng giới tính thông thường.
+Kết luận
+Dữ liệu của chúng tôi, cho thấy sự hiện diện c
+
+============================================================
+[QT006] RAG SUMMARY:
+Tóm tắt bài 6
+Tên công trình, tác giả, năm, mẫu khảo sát, đối tượng, khách thể, địa bàn khảo sát
+Công trình nghiên cứu « Tỷ lệ và các yếu tố liên quan của trầm cảm, lo âu và căng thẳng ở học sinh trung học phổ thông tại Tây Bắc Ethiopia, 2021 » (Prevalence and Associated Factors of Depression, Anxiety, and Stress among High School Students in Northwest Ethiopia, 2021), do Girum Nakie, Tesfaye Segon, Mamaru Melkam, Getachew Tesfaw Desalegn và Tadele Amare Zeleke (2022), thuộc Khoa Tâm thần, Đại học Gondar và Đại học Metu, Ethiopia, khảo sát trên mẫu 849 học sinh (810 phản hồi, tỷ lệ 96,1%) từ 15 đến 25 tuổi tại 6 trường trung học phổ thông công lập ở Tây Bắc Ethiopia, xuất bản trên BMC Psychiatry, 22:739.
+Phương pháp nghiên cứu
+Công trình này sử dụng Thang đo Trầm cảm Lo âu Căng thẳng 21 mục (DASS-21 — Depression Anxiety Stress Scale) kết hợp với Thang đo Ám ảnh Xã hội (SPIN), Thang đo Hỗ trợ Xã hội Oslo-3 và Bài Kiểm tra Sàng lọc ASSIST (Rượu, Hút thuốc và Chất gây nghiện). Nói cách khác, công trình này sử dụng phương pháp sàng lọc cắt ngang với phân tích hồi quy logistic đa biến.
+DASS-21 là phiên bản rút gọn 21 mục của Thang đo Trầm cảm Lo âu Căng thẳng gốc 42 mục (Lovibond & Lovibond, 1995). Bảng câu hỏi đã được xác thực ở các nước châu Phi với Cronbach alpha: trầm cảm 0,81, lo âu 0,89, căng thẳng 0,78. Pilot test trên 42 học sinh tại Ethiopia cho Cronbach alpha: trầm cảm 0,72, lo âu 0,84, căng thẳng 0,87.
+SPIN (Social Phobia Inventory) là thang đo ám ảnh xã hội với điểm ≥20 gợi ý có ám ảnh xã hội, đã được xác thực ở Nigeria và sử dụng tại Ethiopia.
+ASSIST (Alcohol, Smoking and Substance Involvement Screening Test) là công cụ sàng lọc sử dụng chất gây nghiện do WHO phát triển, phân loại nguy cơ thấp/trung bình/cao.
+Tổng quan tài liệu của chúng tôi cho thấy, mặc dù trầm cảm, lo âu và căng thẳng ở học sinh trung học phổ thông đã được nghiên cứu ở các nước phát triển, không có nghiên cứu nào được công bố ở châu Phi về thanh thiếu niên trung học phổ thông (trước nghiên cứu này). Đây là nghiên cứu tiên phong tại lục địa này.
+Dữ liệu nhân khẩu học-xã hội bao gồm tuổi, giới tính, khối lớp, nơi xuất thân (nông thôn/thành thị), sắp xếp sống (cả hai cha mẹ/đơn thân/một mình/người thân), trình độ học vấn của cha và mẹ, tình trạng hôn nhân, kết quả học tập. Dữ liệu lâm sàng: ám ảnh xã hội, bệnh mãn tính, tiền sử gia đình bệnh tâm thần, ý tưởng và nỗ lực tự sát, hỗ trợ xã hội. Dữ liệu sử dụng chất: rượu, khat, thuốc lá.
+Nghiên cứu cắt ngang được thực hiện vào tháng 4/2021 tại 6 trường trung học phổ thông công lập được chọn ngẫu nhiên ở vùng Amhara, Tây Bắc Ethiopia. Lấy mẫu phân tầng đa giai đoạn: chọn ngẫu nhiên trường → phân bổ tỷ lệ theo khối lớp → chọn ngẫu nhiên đơn giản từng học sinh. DASS-21 được dịch sang tiếng Amharic và dịch ngược bởi chuyên gia ngôn ngữ. Pilot test trên 42 học sinh. Phân tích bằng SPSS 25.0: hồi quy logistic nhị phân, P < 0,05 trong phân tích đa biến. Kiểm định Hosmer-Lemeshow để đánh giá phù hợp mô hình.
+Kết quả nghiên cứu định lượng
+Tỷ lệ trầm cảm, lo âu và căng thẳng theo DASS-21 (N = 810):
+Bảng 1. Tỷ lệ lo âu Ethiopia
+Yếu tố liên quan đến trầm cảm (phân tích đa biến):
+Bảng 2. Yếu tố nguy cơ
+Yếu tố liên quan đến lo âu (phân tích đa biến):
+Bảng 3. Mô hình hồi quy
+Yếu tố liên quan đến căng thẳng (phân tích đa biến):
+Bảng 4. So sánh liên bài
+Khác biệt giới tính : Nữ giới luôn được báo cáo có tỷ lệ trầm cảm cao hơn nam giới trong y văn quốc tế (Salk và cộng sự, 2017). Thực tế, nghiên cứu tại các quốc gia đang phát triển cũng xác nhận xu hướng này. Chúng tôi xác nhận trong mẫu học sinh Ethiopia rằng nữ có nguy cơ trầm cảm cao gấp 1,3 lần so với nam (AOR = 1,304, P = 0,046) — phù hợp với xu hướng quốc tế nhưng mức chênh lệch khiêm tốn hơn so với các nghiên cứu phương Tây.
+Nhận xét, phát hiện qua kết quả nghiên cứu
+Phát hiện về vai trò của chất gây nghiện và yếu tố xã hội trong bối cảnh châu Phi
+*Khat và thuốc lá.* Nổi bật nhất là mối liên hệ cực mạnh giữa nhai khat nguy cơ cao và trầm cảm (AOR = 5,595) cũng như hút thuốc lá nguy cơ cao và lo âu (AOR = 4,777). Đây là hai yếu tố nguy cơ đặc thù văn hóa Đông Phi mà các nghiên cứu tại châu Á và phương Tây không đề cập. Khat (Catha edulis) là chất kích thích phổ biến ở vùng Sừng châu Phi, gây tác động trên hệ thần kinh trung ương tương tự amphetamine.
+*Hỗ trợ xã hội.* Học sinh có hỗ trợ xã hội kém (Oslo-3 điểm 3–8) có nguy cơ căng thẳng cao gấp 1,7 lần (AOR = 1,739). Phát hiện này tương đồng với kết luận của Pham và cộng sự (2024) tại Việt Nam về vai trò bảo
+
+============================================================
+[QT007] RAG SUMMARY:
+Tóm tắt bài 7
+Tên công trình, tác giả, năm, mẫu khảo sát, đối tượng, khách thể, địa bàn khảo sát
+Công trình nghiên cứu « Tỷ lệ và các yếu tố liên quan của triệu chứng trầm cảm và lo âu ở học sinh trung học Trung Quốc » (Prevalence and Associated Factors of Depressive and Anxiety Symptoms among Chinese Secondary School Students), do Zhangming Chen, Silan Ren, Ruini He và cộng sự (2023), thuộc Khoa Tâm thần, Bệnh viện Tương Nhã 2, Đại học Trung Nam, Trung Quốc, khảo sát trên mẫu 63.205 học sinh trung học cơ sở và trung học phổ thông (tuổi trung bình 14,3) tại thành phố Tự Cống, tỉnh Tứ Xuyên, miền Tây Trung Quốc, xuất bản trên BMC Psychiatry, 23:580.
+Phương pháp nghiên cứu
+Công trình này sử dụng Bảng câu hỏi Sức khỏe Bệnh nhân 9 mục (PHQ-9), Thang đo Rối loạn Lo âu Tổng quát 7 mục (GAD-7), Thang đo Đa chiều về Nạn nhân Bắt nạt Đồng trang lứa (MPVS), Chỉ số Chất lượng Giấc ngủ Pittsburgh (PSQI) và Thang đo Rối loạn Chơi Game Trực tuyến 9 mục-Rút gọn (IGDS9-SF). Nói cách khác, công trình này sử dụng phương pháp sàng lọc cắt ngang quy mô lớn với hồi quy logistic đa biến và điều chỉnh hiệu ứng cụm.
+PHQ-9 là thang đo 9 mục dựa trên tiêu chí DSM-IV, điểm 0–27, ngưỡng ≥10 cho dương tính trầm cảm (Kroenke và cộng sự, 2001). GAD-7 là thang đo 7 mục, điểm 0–21, ngưỡng ≥10 cho dương tính lo âu (Spitzer và cộng sự, 2006). Cả hai phiên bản tiếng Trung đã được xác thực cho thanh thiếu niên Trung Quốc.
+MPVS (Multidimensional Peer-Victimization Scale) gồm 16 mục đo 4 loại bắt nạt: thể chất, lời nói, thao túng xã hội và tấn công tài sản. PSQI đo chất lượng giấc ngủ, điểm >5 là rối loạn giấc ngủ. IGDS9-SF đo rối loạn chơi game, điểm ≥32 là dương tính.
+Tổng quan tài liệu của chúng tôi cho thấy nghiên cứu tập trung vào miền Tây Trung Quốc còn rất ít — chỉ 9/51 công bố trong phân tích tổng hợp về trầm cảm thanh thiếu niên Trung Quốc liên quan đến miền Tây. Nghiên cứu trước đây cũng chưa đánh giá toàn diện các yếu tố bắt nạt, giấc ngủ và chơi game trực tuyến cùng lúc.
+Dữ liệu bao gồm giới tính, tuổi, giai đoạn học tập (THCS/THPT), nơi cư trú (nông thôn/thành thị), loại hình gia đình (hạt nhân/không hạt nhân), con một, trẻ bị bỏ lại (left-behind), bắt nạt đồng trang lứa (4 loại), chất lượng giấc ngủ (PSQI) và rối loạn chơi game trực tuyến (IGDS9-SF).
+Khảo sát cắt ngang từ tháng 9 đến 12/2020 tại Tự Cống (giai đoạn thuyên giảm COVID-19). Lấy mẫu cụm: chọn 2 quận và 1 huyện, bao gồm tất cả trường trung học trong khu vực. 63.487 học sinh hoàn thành bảng câu hỏi điện tử tại phòng máy tính trường, loại 282 do thiếu dữ liệu (tỷ lệ phản hồi 99,6%). Phân tích bằng R 3.3.3 với gói "survey" để điều chỉnh hiệu ứng cụm và tính tỷ lệ có trọng số. P < 0,001 do cỡ mẫu rất lớn.
+Kết quả nghiên cứu định lượng
+Tỷ lệ có trọng số của triệu chứng trầm cảm và lo âu (N = 63.205):
+Bảng 1. Tỷ lệ lo âu HS Trung Quốc
+Yếu tố liên quan độc lập (hồi quy logistic đa biến):
+Bảng 2. Yếu tố liên quan
+Khác biệt giới tính : Nữ giới luôn được báo cáo có nguy cơ trầm cảm và lo âu cao hơn nam giới (Salk và cộng sự, 2017). Thực tế, phân tích tổng hợp thanh thiếu niên Trung Quốc xác nhận xu hướng này. Chúng tôi xác nhận trong mẫu 63.205 học sinh rằng nữ chiếm 58% nhóm căng thẳng so với 48% nhóm không căng thẳng (OR = 1,55, P < 0,001). Đáng chú ý, rối loạn giấc ngủ (OR = 6,99) và rối loạn chơi game (OR = 5,00) là hai yếu tố mạnh nhất — vượt trội hơn mọi yếu tố nhân khẩu học.
+Nhận xét, phát hiện qua kết quả nghiên cứu
+Phát hiện về vai trò trung tâm của giấc ngủ, game và bắt nạt
+*Rối loạn giấc ngủ — yếu tố nguy cơ mạnh nhất.* Nổi bật nhất là rối loạn giấc ngủ (PSQI >5) có OR = 6,99 — yếu tố nguy cơ mạnh nhất trong tất cả các biến. 66% học sinh có căng thẳng tâm thần có rối loạn giấc ngủ, so với 17% nhóm không căng thẳng. Phát hiện này tương tự Zhu và cộng sự (2025): ngủ <5 giờ có AOR = 13,71 cho trầm cảm tại Trung Quốc. Giấc ngủ là yếu tố bảo vệ có thể can thiệp được.
+*Rối loạn chơi game trực tuyến.* IGD (IGDS9-SF ≥32) có OR = 5,00 — yếu tố nguy cơ mạnh thứ hai. 8,3% học sinh căng thẳng có triệu chứng IGD so với 1,0% nhóm không căng thẳng. Đây là bằng chứng mạnh cho mối quan hệ giữa chơi game gây nghiện và sức khỏe tâm thần, tương tự phát hiện của Saikia và cộng sự (2023) về game tại Ấn Độ.
+*Bắt nạt đồng trang lứa — 4 loại.* Tất cả 4 loại bắt nạt đều liên quan có ý nghĩa, nhưng thao túng xã hội (OR = 1,97) và bắt nạt lời nói (OR = 1,70) mạnh hơn bắt nạt thể chất (OR = 1,51) và tấn công tài sản (OR = 1,25). Phân tích chi tiết theo loại bắt nạt là điểm mạnh phương pháp luận, ít nghiên cứ
+
+============================================================
+[QT008] RAG SUMMARY:
+Tóm tắt bài 8
+Tên công trình, tác giả, năm, mẫu khảo sát, đối tượng, khách thể, địa bàn khảo sát
+Công trình « Phân tích hồ sơ tiềm ẩn về lo âu ở học sinh trung học cơ sở tại các vùng nông thôn kém phát triển của Trung Quốc » (A Latent Profile Analysis of Anxiety among Junior High School Students in Less Developed Rural Regions of China), do Xiaotong Wen và cộng sự (2020), thuộc Đại học Nam Xương, tỉnh Giang Tây, khảo sát trên 900 học sinh lớp 9–12 (tuổi TB 14,14) tại 6 huyện nông thôn tỉnh Giang Tây, miền Đông Trung Quốc, xuất bản trên Int J Environ Res Public Health, 17(11):4079.
+Phương pháp nghiên cứu
+Công trình sử dụng Trắc nghiệm Sức khỏe Tâm thần (MHT — Mental Health Test, 100 mục, 8 thang nội dung) — thang chẩn đoán lo âu tiêu chuẩn hóa dành cho học sinh tiểu học và THCS tại Trung Quốc (Cronbach alpha 0,878). Nói cách khác, nghiên cứu sử dụng phân tích hồ sơ tiềm ẩn (LPA) kết hợp hồi quy logistic đa biến — phương pháp tập trung vào cá nhân (person-centered) thay vì biến (variable-centered).
+Lấy mẫu cụm ngẫu nhiên phân tầng nhiều giai đoạn: Ủy ban Y tế tỉnh chọn huyện → chọn xã → chọn trường → chọn ngẫu nhiên lớp. Phân tích bằng Mplus 7.4 (LPA) và SPSS 24.0 (hồi quy logistic).
+Kết quả nghiên cứu định lượng
+LPA xác định 3 hồ sơ lo âu (N = 900):
+Bảng 1. Phân tích LPA — Các hồ sơ lo âu
+Yếu tố liên quan (hồi quy logistic, nhóm tham chiếu: lo âu nhẹ):
+Bảng 2. Yếu tố dự báo
+Khác biệt giới tính : Trái ngược với đa số y văn (nữ > nam), nghiên cứu này cho thấy nam có nguy cơ lo âu nặng chỉ bằng 0,262 lần so với nữ (P < 0,05) — tức nữ lo âu nặng gấp gần 4 lần nam. Phát hiện này phù hợp với xu hướng quốc tế nhưng mức chênh lệch lớn bất thường.
+Nhận xét, phát hiện qua kết quả nghiên cứu
+*Áp lực học tập — yếu tố nguy cơ mạnh nhất.* Học sinh tự đánh giá áp lực "rất cao" có nguy cơ lo âu nặng gấp 11,6 lần. Đây là OR lớn nhất trong tất cả 11 bài nghiên cứu, phản ánh đặc thù hệ thống giáo dục Trung Quốc tập trung vào thi cử.
+*Hỗ trợ SKTT tại trường — yếu tố bảo vệ.* Khi trường có dịch vụ SKTT đầy đủ, nguy cơ lo âu nặng giảm (OR = 0,562), gợi ý can thiệp hiệu quả dựa trên trường học.
+Kết luận
+Dữ liệu cho thấy 24,8% học sinh THCS nông thôn Trung Quốc có lo âu nặng, với áp lực học tập là yếu tố nguy cơ mạnh nhất (OR = 11,6). Hỗ trợ SKTT tại trường giảm nguy cơ lo âu nặng (OR = 0,562). Nữ sinh có nguy cơ cao gấp gần 4 lần nam sinh. Giảm áp lực học tập và thiết lập phòng tư vấn tâm lý chuyên nghiệp tại trường là hai khuyến nghị chính.
+Phản biện
+Điểm mạnh: phương pháp LPA độc đáo, tập trung vào cá nhân thay vì biến. Tuy nhiên, cỡ mẫu 900 khiêm tốn, chỉ khảo sát nông thôn một tỉnh. MHT là thang đo Trung Quốc, khó so sánh quốc tế (không dùng GAD-7/DASS-21). Tạp chí IJERPH (PubMed-indexed) nhưng impact factor trung bình.
+Hướng nghiên cứu tiếp theo
+Nghiên cứu dọc theo dõi lo âu từ THCS đến THPT. So sánh nông thôn–thành thị cùng tỉnh. Can thiệp giảm áp lực học tập và đánh giá hiệu quả.
+Đánh giá chất lượng: ⭐⭐⭐ Trung bình-Khá. LPA độc đáo nhưng cỡ mẫu nhỏ, công cụ đặc thù Trung Quốc.
+Hồ sơ | n | Tỷ lệ | Đặc điểm
+Lo âu nhẹ | 173 | 19,2% | Điểm thấp nhất trên 8 yếu tố
+Lo âu trung bình | 504 | 56,0% | Điểm trung bình
+Lo âu nặng | 223 | 24,8% | Điểm cao nhất trên 8 yếu tố
+Yếu tố | Lo âu TB (OR) | Lo âu nặng (OR)
+Áp lực học tập rất cao | 6,523* | 11,579*
+Áp lực học tập cao | 6,122* | 5,894*
+Giới tính nam (vs nữ) | 0,649* (bảo vệ) | 0,262* (bảo vệ)
+SKTT trường đầy đủ | — | 0,562* (bảo vệ)
+Thành tích xuất sắc | 0,377* (bảo vệ) | —
+
+============================================================
+[QT009] RAG SUMMARY:
+Tóm tắt bài 9
+Tên công trình, tác giả, năm, mẫu khảo sát, đối tượng, khách thể, địa bàn khảo sát
+Công trình « Mối liên hệ giữa phong cách nuôi dạy con và khả năng phục hồi với triệu chứng trầm cảm và lo âu ở học sinh trung học cơ sở Trung Quốc » (Associations of Parenting Style and Resilience With Depression and Anxiety Symptoms in Chinese Middle School Students), do Zhihai Qiu, Ying Guo, Jun Wang và Hongbo Zhang (2022), khảo sát trên 2.079 học sinh (tuổi TB 16,7) tại thành phố Hợp Phì, tỉnh An Huy, Trung Quốc, xuất bản trên Frontiers in Psychology, 13:897339.
+Phương pháp nghiên cứu
+Công trình sử dụng Thang đo Trầm cảm CES-D (20 mục, ngưỡng ≥20, α = 0,910) và Thang đo Lo âu Tự đánh giá SAS (20 mục, ngưỡng ≥50, α = 0,799), kết hợp Thang đo Khả năng Phục hồi SRSMSS (α = 0,931) và Thang đo Phong cách Nuôi dạy EMBU (9 chiều). Nói cách khác, nghiên cứu sử dụng phân tích hồ sơ tiềm ẩn (LPA) cho phong cách nuôi dạy kết hợp hồi quy logistic đa biến.
+Lấy mẫu cụm tháng 9–10/2021 tại Hợp Phì. Tỷ lệ phản hồi 98,06%. LPA xác định 3 hồ sơ nuôi dạy: Tích cực (58,6%), Trung bình (32,2%), Tiêu cực (9,1%).
+Kết quả nghiên cứu định lượng
+Bảng 1. Kết quả chính — Phong cách nuôi dạy
+Yếu tố liên quan (hồi quy logistic đa biến):
+Bảng 2. Vai trò trung gian
+Khác biệt giới tính : Nữ có tỷ lệ lo âu (17,5%) cao hơn nam (11,1%, P < 0,01) — phù hợp xu hướng quốc tế.
+Nhận xét, phát hiện qua kết quả nghiên cứu
+*Khả năng phục hồi thấp* là yếu tố nguy cơ mạnh nhất cho trầm cảm (OR = 6,74) — gợi ý can thiệp tăng cường khả năng phục hồi (resilience) có thể hiệu quả. *Nuôi dạy tích cực* giảm nguy cơ trầm cảm 70% (OR = 0,30) và lo âu 68% (OR = 0,32), tương tự phát hiện của Pham và cộng sự (2024) tại Việt Nam (chăm sóc cảm xúc beta = –0,40).
+Kết luận
+Trầm cảm 26% và lo âu 13,4% ở học sinh Trung Quốc. Khả năng phục hồi thấp (OR = 6,74) và nuôi dạy tiêu cực (OR = 2,01) là yếu tố nguy cơ mạnh nhất. Nuôi dạy tích cực là yếu tố bảo vệ quan trọng. Can thiệp cần nhắm vào cả gia đình (cải thiện phong cách nuôi dạy) và cá nhân (tăng cường resilience).
+Phản biện
+Frontiers in Psychology (Q2, PubMed-indexed), LPA nâng cao. Tuy nhiên, cỡ mẫu chỉ ở 1 thành phố, nam chiếm 63,4% (thiên lệch giới), thiết kế cắt ngang, tương tác nuôi dạy × resilience không đạt ý nghĩa thống kê.
+Hướng nghiên cứu tiếp theo
+Nghiên cứu dọc đánh giá tác động dài hạn của phong cách nuôi dạy. Can thiệp đào tạo phụ huynh kỹ năng nuôi dạy tích cực và đánh giá hiệu quả. Mở rộng đến nhiều thành phố với tỷ lệ giới cân bằng hơn.
+Đánh giá chất lượng: ⭐⭐⭐ Trung bình-Khá. LPA nâng cao, nhiều công cụ xác thực, nhưng 1 thành phố và thiên lệch giới.
+Chỉ số | Tỷ lệ | Nam | Nữ | P
+Trầm cảm (CES-D ≥20) | 26,0% | 24,3% | 28,9% | <0,05
+Lo âu (SAS ≥50) | 13,4% | 11,1% | 17,5% | <0,01
+Yếu tố | OR trầm cảm | OR lo âu
+Khả năng phục hồi thấp (vs cao) | 6,74 | 2,80
+Nuôi dạy tiêu cực (vs trung bình) | 1,82 | 2,01
+Nuôi dạy tích cực (vs trung bình) | 0,30 (bảo vệ) | 0,32 (bảo vệ)
+
+============================================================
+[QT010] RAG SUMMARY:
+Tóm tắt bài 10
+Tên công trình, tác giả, năm, mẫu khảo sát, đối tượng, khách thể, địa bàn khảo sát
+Công trình « Tỷ lệ và các yếu tố nguy cơ đối với triệu chứng lo âu trong thời kỳ bùng phát COVID-19: Khảo sát quy mô lớn trên 373.216 học sinh trung học tại Trung Quốc » (Prevalence and Risk Factors for Anxiety Symptoms during the Outbreak of COVID-19), do Qingqing Xu và cộng sự (2021), khảo sát trên 373.216 học sinh (244.193 THCS + 129.023 THPT, tuổi TB 15,24) tại 3 thành phố tỉnh Hà Nam, Trung Quốc, trong 8 ngày (4–12/02/2020 — đỉnh dịch COVID-19), xuất bản trên Journal of Affective Disorders, 288:17–22 (tạp chí Q1).
+Phương pháp nghiên cứu
+Công trình sử dụng GAD-7 (Thang đo Rối loạn Lo âu Tổng quát, ngưỡng ≥10 cho dương tính) kết hợp đánh giá kiến thức COVID-19 (3 mục), mức lo lắng (Likert 5 điểm) và hành vi phòng ngừa (4 mục). Nói cách khác, đây là khảo sát cắt ngang trực tuyến quy mô cực lớn — CỠ MẪU LỚN NHẤT TOÀN CẦU về lo âu thanh thiếu niên.
+Kết quả nghiên cứu định lượng
+Bảng 1. Tỷ lệ lo âu VTN Trung Quốc
+Yếu tố liên quan (hồi quy logistic đa biến, THCS):
+Bảng 2. Yếu tố liên quan
+Khác biệt giới tính : Trái ngược với đa số y văn, nam có tỷ lệ lo âu cao hơn nữ (10,11% vs 9,66%, P < 0,001). Trong 11 bài NC của Đề tài, chỉ có 2 nghiên cứu cho thấy nam > nữ: Saikia 2023 (Đông Bắc Ấn Độ) và Xu 2021 (bài này). Điều này có thể do bối cảnh COVID-19 và đặc thù nông thôn.
+Nhận xét, phát hiện qua kết quả nghiên cứu
+*Cỡ mẫu kỷ lục.* 373.216 học sinh là cỡ mẫu lớn nhất toàn cầu về lo âu thanh thiếu niên, đảm bảo sức mạnh thống kê rất cao. Tỷ lệ 9,89% sử dụng ngưỡng GAD-7 ≥10 (trung bình-nặng) là bảo thủ so với ngưỡng ≥5.
+*Nông thôn > thành thị.* Khoảng cách nông thôn-thành thị (11,33% vs 8,77%, OR = 1,30) phản ánh bất bình đẳng trong tiếp cận dịch vụ SKTT, tương tự phát hiện của Nakie (2022) tại Ethiopia.
+Kết luận
+Tỷ lệ lo âu 9,89% trong đỉnh dịch COVID-19 ở 373.216 học sinh Trung Quốc. Nông thôn, THCS và hành vi phòng ngừa kém là yếu tố nguy cơ. Sợ hãi quá mức về COVID-19 liên quan mạnh đến lo âu (OR sợ hãi cao gấp 5 lần). Can thiệp cần giảm sợ hãi không hợp lý và tăng cường dịch vụ SKTT tại vùng nông thôn.
+Phản biện
+J Affect Disord Q1, cỡ mẫu kỷ lục. Tuy nhiên, khảo sát trực tuyến trong 8 ngày có thiên lệch tự chọn. Chỉ dùng GAD-7 (sàng lọc, không chẩn đoán). Thu thập đỉnh dịch (02/2020) — kết quả phản ánh bối cảnh khủng hoảng cấp tính, không thể khái quát cho thời bình. Kiến thức COVID-19 đánh giá bằng 3 câu chưa xác thực.
+Hướng nghiên cứu tiếp theo
+So sánh dọc lo âu đỉnh dịch vs hậu COVID. Nghiên cứu can thiệp giảm sợ hãi không hợp lý ở thanh thiếu niên. Mở rộng đến nhiều tỉnh ngoài Hà Nam.
+Đánh giá chất lượng: ⭐⭐⭐⭐ Cao. Q1, cỡ mẫu kỷ lục 373.216, GAD-7 xác thực, nhưng bối cảnh COVID-19 hạn chế tính khái quát.
+Nhóm | Tỷ lệ lo âu (GAD-7 ≥10) | Ghi chú
+Tổng thể | 9,89% (36.918/373.216) | —
+THCS | 10,85% | Cao hơn
+THPT | 8,08% | Thấp hơn
+Nam | 10,11% | Cao hơn nữ
+Nữ | 9,66% | —
+Nông thôn | 11,33% | Cao nhất
+Thành thị | 8,77% | Thấp nhất
+Yếu tố | OR | KTC 95%
+Nông thôn (vs thành thị) | 1,30 | 1,26–1,34
+Hành vi phòng ngừa kém | 2,72 | 2,01–3,68
+Nữ (vs nam) | 0,92 (bảo vệ) | 0,89–0,94
+Lo lắng COVID TB (vs cao) | 0,60 | 0,56–0,64
+Sợ hãi TB (vs cao) | 0,21 | 0,20–0,22
+
+============================================================
+[QT011] RAG SUMMARY:
+Tóm tắt bài 11
+Tên công trình, tác giả, năm, mẫu khảo sát, đối tượng, khách thể, địa bàn khảo sát
+Công trình « Nghiên cứu mô tả đánh giá trầm cảm, lo âu và căng thẳng ở học sinh trung học phổ thông các trường công lập tại Chandigarh, Ấn Độ » (A Descriptive Study to Assess Depression, Anxiety & Stress among Higher Secondary Students of Government Schools of Chandigarh, India), do Ridhul Bhardwaj và cộng sự (2020), khảo sát trên 288 học sinh (13–21 tuổi, 72,9% nhóm 16–18) tại 5 trường công lập ở Chandigarh, xuất bản trên Journal of IPHA Chandigarh State Branch.
+Phương pháp nghiên cứu
+Công trình sử dụng DASS-21 (Thang đo Trầm cảm Lo âu Căng thẳng 21 mục, Lovibond & Lovibond, 1995) để đánh giá đồng thời ba tình trạng. Nói cách khác, nghiên cứu mô tả cắt ngang sử dụng lấy mẫu xác suất tỷ lệ (probability proportionate sampling) từ 5 trường.
+Pilot test trên 20 học sinh. Phân tích bằng chi-square, tương quan Pearson, ANOVA và t-test. Chấp thuận đạo đức đã được lấy.
+Kết quả nghiên cứu định lượng
+Tỷ lệ trầm cảm, lo âu, căng thẳng theo DASS-21 (N = 288):
+Bảng 1. Tỷ lệ DASS-21 Chandigarh
+Mối liên quan giữa ba tình trạng:
+Bảng 2. So sánh
+Khác biệt giới tính : Nữ có tỷ lệ lo âu nặng + cực nặng 63,7% so với nam 36,0% (P < 0,001) — chênh lệch lớn nhất trong 11 bài. Trầm cảm: nữ 23,9% nặng vs nam 11,4% (P = 0,04). Căng thẳng: nữ 44,2% trung bình/nặng vs nam 23,3% (P < 0,001).
+Nhận xét, phát hiện qua kết quả nghiên cứu
+*Tỷ lệ lo âu CAO NHẤT trong 11 bài* (81,9%). DASS-21 với ngưỡng cắt thấp (≥8 cho lo âu) dẫn đến tỷ lệ rất cao khi bao gồm cả mức "nhẹ". Nếu chỉ tính nặng + cực nặng (46,8%), tỷ lệ vẫn rất đáng báo động.
+*Đồng mắc rất cao.* OR giữa các cặp rối loạn từ 9,77 đến 17,26, xác nhận sự chồng chéo mạnh giữa trầm cảm, lo âu và căng thẳng — gợi ý sàng lọc cả 3 tình trạng đồng thời.
+Kết luận
+Lo âu 81,9%, trầm cảm 64,9%, căng thẳng 55,2% ở 288 học sinh trường công Chandigarh — tỷ lệ cao nhất trong 11 bài. Nữ bị ảnh hưởng nặng hơn nam ở cả 3 tình trạng. Đồng mắc rất cao (OR = 9,77–17,26). Cần tăng cường nhận thức của giáo viên và phụ huynh về nguồn căng thẳng ngoài học tập, và mở rộng đánh giá SKTT ra nhiều lĩnh vực.
+Phản biện
+Tạp chí Journal of IPHA Chandigarh State Branch là tạp chí cấp chi nhánh địa phương, không có impact factor, không được lập chỉ mục PubMed/Scopus. Cỡ mẫu nhỏ (288), chỉ 5 trường công lập. Tỷ lệ 81,9% lo âu cao bất thường — có thể do ngưỡng cắt thấp hoặc đặc thù mẫu. Chỉ dùng chi-square đơn biến, không có hồi quy đa biến (AOR). Pilot test chỉ 20 học sinh.
+Hướng nghiên cứu tiếp theo
+Tái lặp với cỡ mẫu lớn hơn, bao gồm cả trường tư thục. Sử dụng hồi quy đa biến để xác định yếu tố nguy cơ độc lập. So sánh DASS-21 với công cụ chẩn đoán trên cùng mẫu. Xuất bản trên tạp chí có chỉ mục quốc tế.
+Đánh giá chất lượng: ⭐⭐ Thấp-Trung bình. DASS-21 xác thực nhưng tạp chí không chỉ mục, cỡ mẫu nhỏ, thiếu phân tích đa biến.
+Tình trạng | Tỷ lệ tổng | Điểm TB | Nặng+Cực nặng
+Lo âu | 81,9% | 14,09 ± 6,7 | 46,8%
+Trầm cảm | 64,9% | 13,05 ± 7,2 | 16,3%
+Căng thẳng | 55,2% | 15,6 ± 7,1 | 8,6%
+Cặp liên quan | OR | Tương quan Pearson r
+Căng thẳng ↔ Trầm cảm | 17,26 | 0,664
+Lo âu ↔ Trầm cảm | 10,93 | 0,617
+Lo âu ↔ Căng thẳng | 9,77 | 0,575

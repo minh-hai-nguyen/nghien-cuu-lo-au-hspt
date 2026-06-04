@@ -1,0 +1,2120 @@
+{
+  "QT001": {
+    "descriptor": "Jenkins_et_al_2023_USA",
+    "year": "2023",
+    "country_hint": "USA",
+    "pdf_folder": "11-bai-ban-dau-va-mo-rong",
+    "authors_raw": "** Janis H. Jenkins, Giselle Sanchez, Eric A. Miller, Nadia Irina Santillanes Allande, Grace Urano, Alexandra J. Pr",
+    "authors_list": [
+      {
+        "name": "** Janis H. Jenkins",
+        "position": 1,
+        "is_corresponding": true
+      },
+      {
+        "name": "Giselle Sanchez",
+        "position": 2,
+        "is_corresponding": false
+      },
+      {
+        "name": "Eric A. Miller",
+        "position": 3,
+        "is_corresponding": false
+      },
+      {
+        "name": "Nadia Irina Santillanes Allande",
+        "position": 4,
+        "is_corresponding": false
+      },
+      {
+        "name": "Grace Urano",
+        "position": 5,
+        "is_corresponding": false
+      },
+      {
+        "name": "Alexandra J. Pr",
+        "position": 6,
+        "is_corresponding": false
+      }
+    ],
+    "has_etal": false,
+    "n_authors_extracted": 6,
+    "summary_file": "QT001_Jenkins_et_al_2023_USA.docx",
+    "pdf_file": "QT001_Jenkins_2023_USA_SanDiego.pdf"
+  },
+  "QT002": {
+    "descriptor": "Saikia_et_al_2023_India_Assam",
+    "year": "2023",
+    "country_hint": "India",
+    "pdf_folder": "11-bai-ban-dau-va-mo-rong",
+    "authors_raw": "không giải thích sâu cơ chế văn hóa cụ thể của vùng Đông Bắc. DASS-21 phiên bản tiếng Assam thiếu báo cáo Cronbach alpha — không rõ độ tin cậy của phiên bản dịch. Chỉ sử dụng chi-square (đơn biến) mà không dùng hồi quy logistic đa biến — không thể đánh giá ảnh hưởng độc lập của từng yếu tố sau khi kiểm soát biến gây nhiễu (Rothman và cộng sự, 2008). Thu thập dữ liệu từ tháng 4/2019 đến tháng 6/2020 — trùng với giai đoạn đầu đại dịch COVID-19 nhưng tác giả không đề cập đến tác động tiềm tàng của đại dịch lên kết quả (Racine và cộng sự, 2021). Tuy nhiên, đây là nghiên cứu tiên phong tại Đông Bắc Ấn Độ với thiết kế lấy mẫu ngẫu nhiên tốt từ 10/120 trường.",
+    "authors_list": [
+      {
+        "name": "không giải thích sâu cơ chế văn hóa cụ thể của vùng Đông Bắc. DASS-21 phiên bản tiếng Assam thiếu báo cáo Cronbach alpha — không rõ độ tin cậy của phiên bản dịch. Chỉ sử dụng chi-square (đơn biến) mà không dùng hồi quy logistic đa biến — không thể đánh giá ảnh hưởng độc lập của từng yếu tố sau khi kiểm soát biến gây nhiễu (Rothman",
+        "position": 1,
+        "is_corresponding": true
+      }
+    ],
+    "has_etal": true,
+    "n_authors_extracted": 1,
+    "summary_file": "QT002_Saikia_et_al_2023_India_Assam.docx",
+    "pdf_file": "QT002_Saikia_2023_India_Assam.pdf"
+  },
+  "QT003": {
+    "descriptor": "Mandaknalli_Malusare_2021",
+    "year": "2021",
+    "country_hint": "",
+    "pdf_folder": null,
+    "authors_raw": "Rahul Mandaknalli và Ragini Malusare",
+    "authors_list": [
+      {
+        "name": "Rahul Mandaknalli",
+        "position": 1,
+        "is_corresponding": true
+      },
+      {
+        "name": "Ragini Malusare",
+        "position": 2,
+        "is_corresponding": false
+      }
+    ],
+    "has_etal": false,
+    "n_authors_extracted": 2,
+    "summary_file": "QT003_Mandaknalli_Malusare_2021.docx",
+    "pdf_file": null
+  },
+  "QT004": {
+    "descriptor": "NSCH_2020_USA",
+    "year": "2020",
+    "country_hint": "USA",
+    "pdf_folder": null,
+    "authors_raw": "Jenkins và cộng sự",
+    "authors_list": [
+      {
+        "name": "Jenkins",
+        "position": 1,
+        "is_corresponding": true
+      }
+    ],
+    "has_etal": true,
+    "n_authors_extracted": 1,
+    "summary_file": "QT004_NSCH_2020_USA.docx",
+    "pdf_file": null
+  },
+  "QT005": {
+    "descriptor": "Alharbi_et_al_2019_SaudiArabia",
+    "year": "2019",
+    "country_hint": "Saudi Arabia",
+    "pdf_folder": null,
+    "authors_raw": "Reem Alharbi, Khalid Alsuhaibani, Abdullah Almarshad và Abdulhameed Alyahya",
+    "authors_list": [
+      {
+        "name": "Reem Alharbi",
+        "position": 1,
+        "is_corresponding": true
+      },
+      {
+        "name": "Khalid Alsuhaibani",
+        "position": 2,
+        "is_corresponding": false
+      },
+      {
+        "name": "Abdullah Almarshad",
+        "position": 3,
+        "is_corresponding": false
+      },
+      {
+        "name": "Abdulhameed Alyahya",
+        "position": 4,
+        "is_corresponding": false
+      }
+    ],
+    "has_etal": false,
+    "n_authors_extracted": 4,
+    "summary_file": "QT005_Alharbi_et_al_2019_SaudiArabia.docx",
+    "pdf_file": null
+  },
+  "QT006": {
+    "descriptor": "Nakie_et_al_2022_Ethiopia",
+    "year": "2022",
+    "country_hint": "Ethiopia",
+    "pdf_folder": null,
+    "authors_raw": "Girum Nakie, Tesfaye Segon, Mamaru Melkam, Getachew Tesfaw Desalegn và Tadele Amare Zeleke",
+    "authors_list": [
+      {
+        "name": "Girum Nakie",
+        "position": 1,
+        "is_corresponding": true
+      },
+      {
+        "name": "Tesfaye Segon",
+        "position": 2,
+        "is_corresponding": false
+      },
+      {
+        "name": "Mamaru Melkam",
+        "position": 3,
+        "is_corresponding": false
+      },
+      {
+        "name": "Getachew Tesfaw Desalegn",
+        "position": 4,
+        "is_corresponding": false
+      },
+      {
+        "name": "Tadele Amare Zeleke",
+        "position": 5,
+        "is_corresponding": false
+      }
+    ],
+    "has_etal": false,
+    "n_authors_extracted": 5,
+    "summary_file": "QT006_Nakie_et_al_2022_Ethiopia.docx",
+    "pdf_file": null
+  },
+  "QT007": {
+    "descriptor": "Chen_et_al_2023_China_BMCPsych",
+    "year": "2023",
+    "country_hint": "China",
+    "pdf_folder": null,
+    "authors_raw": "Zhangming Chen, Silan Ren, Ruini He và cộng sự",
+    "authors_list": [
+      {
+        "name": "Zhangming Chen",
+        "position": 1,
+        "is_corresponding": true
+      },
+      {
+        "name": "Silan Ren",
+        "position": 2,
+        "is_corresponding": false
+      },
+      {
+        "name": "Ruini He",
+        "position": 3,
+        "is_corresponding": false
+      }
+    ],
+    "has_etal": true,
+    "n_authors_extracted": 3,
+    "summary_file": "QT007_Chen_et_al_2023_China_BMCPsych.docx",
+    "pdf_file": null
+  },
+  "QT008": {
+    "descriptor": "Wen_et_al_2020_China_Rural",
+    "year": "2020",
+    "country_hint": "China",
+    "pdf_folder": "The-gioi_Khac",
+    "authors_raw": "Xiaotong Wen và cộng sự",
+    "authors_list": [
+      {
+        "name": "Xiaotong Wen",
+        "position": 1,
+        "is_corresponding": true
+      }
+    ],
+    "has_etal": true,
+    "n_authors_extracted": 1,
+    "summary_file": "QT008_Wen_et_al_2020_China_Rural.docx",
+    "pdf_file": "QT008_Wen_2020_China_Rural_LPA.pdf"
+  },
+  "QT009": {
+    "descriptor": "Qiu_et_al_2022_China_Parenting",
+    "year": "2022",
+    "country_hint": "China",
+    "pdf_folder": null,
+    "authors_raw": "Zhihai Qiu, Ying Guo, Jun Wang và Hongbo Zhang",
+    "authors_list": [
+      {
+        "name": "Zhihai Qiu",
+        "position": 1,
+        "is_corresponding": true
+      },
+      {
+        "name": "Ying Guo",
+        "position": 2,
+        "is_corresponding": false
+      },
+      {
+        "name": "Jun Wang",
+        "position": 3,
+        "is_corresponding": false
+      },
+      {
+        "name": "Hongbo Zhang",
+        "position": 4,
+        "is_corresponding": false
+      }
+    ],
+    "has_etal": false,
+    "n_authors_extracted": 4,
+    "summary_file": "QT009_Qiu_et_al_2022_China_Parenting.docx",
+    "pdf_file": null
+  },
+  "QT010": {
+    "descriptor": "Xu_et_al_2021_China_LargestEpi",
+    "year": "2021",
+    "country_hint": "China",
+    "pdf_folder": "11-bai-ban-dau-va-mo-rong",
+    "authors_raw": "Qingqing Xu và cộng sự",
+    "authors_list": [
+      {
+        "name": "Qingqing Xu",
+        "position": 1,
+        "is_corresponding": true
+      }
+    ],
+    "has_etal": true,
+    "n_authors_extracted": 1,
+    "summary_file": "QT010_Xu_et_al_2021_China_LargestEpi.docx",
+    "pdf_file": "QT010_Xu_2021_China_LargestEpi.pdf"
+  },
+  "QT011": {
+    "descriptor": "Bhardwaj_et_al_2020_India_Chandigarh",
+    "year": "2020",
+    "country_hint": "India",
+    "pdf_folder": null,
+    "authors_raw": "Ridhul Bhardwaj và cộng sự",
+    "authors_list": [
+      {
+        "name": "Ridhul Bhardwaj",
+        "position": 1,
+        "is_corresponding": true
+      }
+    ],
+    "has_etal": true,
+    "n_authors_extracted": 1,
+    "summary_file": "QT011_Bhardwaj_et_al_2020_India_Chandigarh.docx",
+    "pdf_file": null
+  },
+  "QT012": {
+    "descriptor": "GBD_ASEAN_2025_Lancet",
+    "year": "2025",
+    "country_hint": "",
+    "pdf_folder": "Dong-Nam-A",
+    "authors_raw": "GBD 2021 ASEAN Collaborators (2025), đăng trên The Lancet Public Health vol",
+    "authors_list": [
+      {
+        "name": "GBD 2021 ASEAN Collaborators (2025)",
+        "position": 1,
+        "is_corresponding": true
+      },
+      {
+        "name": "đăng trên The Lancet Public Health vol",
+        "position": 2,
+        "is_corresponding": false
+      }
+    ],
+    "has_etal": false,
+    "n_authors_extracted": 2,
+    "summary_file": "QT012_GBD_ASEAN_2025_Lancet.docx",
+    "pdf_file": "QT012_GBD_ASEAN_2025_Lancet.pdf"
+  },
+  "QT013": {
+    "descriptor": "Zhameden_2025_PLOSONE_LMIC",
+    "year": "2025",
+    "country_hint": "",
+    "pdf_folder": "The-gioi_Au-My-Uc",
+    "authors_raw": "Yin SZD, Low MK, Mishu MP",
+    "authors_list": [
+      {
+        "name": "Yin SZD",
+        "position": 1,
+        "is_corresponding": true
+      },
+      {
+        "name": "Low MK",
+        "position": 2,
+        "is_corresponding": false
+      },
+      {
+        "name": "Mishu MP",
+        "position": 3,
+        "is_corresponding": false
+      }
+    ],
+    "has_etal": false,
+    "n_authors_extracted": 3,
+    "summary_file": "QT013_Zhameden_2025_PLOSONE_LMIC.docx",
+    "pdf_file": "QT013_Zhameden_2025_PLOSONE_LMIC.pdf"
+  },
+  "QT014": {
+    "descriptor": "Anderson_2025_Wiley_Narrative",
+    "year": "2025",
+    "country_hint": "",
+    "pdf_folder": "The-gioi_Au-My-Uc",
+    "authors_raw": "Journal of Child and Adolescent Psychiatric Nursing",
+    "authors_list": [
+      {
+        "name": "Journal of Child",
+        "position": 1,
+        "is_corresponding": true
+      },
+      {
+        "name": "Adolescent Psychiatric Nursing",
+        "position": 2,
+        "is_corresponding": false
+      }
+    ],
+    "has_etal": false,
+    "n_authors_extracted": 2,
+    "summary_file": "QT014_Anderson_2025_Wiley_Narrative.docx",
+    "pdf_file": "QT014_Anderson_2025_Wiley_Narrative.pdf",
+    "authors_raw_pdf": "Journal of Child and Adolescent Psychiatric Nursing",
+    "authors_list_pdf": [
+      {
+        "name": "Journal of Child",
+        "position": 1,
+        "is_corresponding": true
+      },
+      {
+        "name": "Adolescent Psychiatric Nursing",
+        "position": 2,
+        "is_corresponding": false
+      }
+    ],
+    "has_etal_pdf": false,
+    "n_authors_pdf": 2,
+    "source": "pdf_fallback"
+  },
+  "QT015": {
+    "descriptor": "Zhu_2025_BMC_China",
+    "year": "2025",
+    "country_hint": "China",
+    "pdf_folder": "The-gioi_Khac",
+    "authors_raw": "Zhu và cộng sự",
+    "authors_list": [
+      {
+        "name": "Zhu",
+        "position": 1,
+        "is_corresponding": true
+      }
+    ],
+    "has_etal": true,
+    "n_authors_extracted": 1,
+    "summary_file": "QT015_Zhu_2025_BMC_China.docx",
+    "pdf_file": "QT015_Zhu_2025_BMC_China.pdf"
+  },
+  "QT016": {
+    "descriptor": "Mudunna_2025_LancetSEA_SouthAsia",
+    "year": "2025",
+    "country_hint": "",
+    "pdf_folder": "Dong-Nam-A",
+    "authors_raw": "Mudunna và cộng sự",
+    "authors_list": [
+      {
+        "name": "Mudunna",
+        "position": 1,
+        "is_corresponding": true
+      }
+    ],
+    "has_etal": true,
+    "n_authors_extracted": 1,
+    "summary_file": "QT016_Mudunna_2025_LancetSEA_SouthAsia.docx",
+    "pdf_file": "QT016_Mudunna_2025_LancetSEA_SouthAsia.pdf"
+  },
+  "QT017": {
+    "descriptor": "Puyat_2025_Filipino_Youth",
+    "year": "2025",
+    "country_hint": "Philippines",
+    "pdf_folder": "Dong-Nam-A",
+    "authors_raw": "Puyat và cộng sự",
+    "authors_list": [
+      {
+        "name": "Puyat",
+        "position": 1,
+        "is_corresponding": true
+      }
+    ],
+    "has_etal": true,
+    "n_authors_extracted": 1,
+    "summary_file": "QT017_Puyat_2025_Filipino_Youth.docx",
+    "pdf_file": "QT017_Puyat_2025_Filipino_Youth.pdf"
+  },
+  "QT021": {
+    "descriptor": "Norway_Brunborg_2025_SocSciMed",
+    "year": "2025",
+    "country_hint": "Norway",
+    "pdf_folder": "The-gioi_Au-My-Uc",
+    "authors_raw": "Geir Scott Brunborg, Sondre Aasen Nilsen, Jens Christoffer Skogen và Lasse Bang",
+    "authors_list": [
+      {
+        "name": "Geir Scott Brunborg",
+        "position": 1,
+        "is_corresponding": true
+      },
+      {
+        "name": "Sondre Aasen Nilsen",
+        "position": 2,
+        "is_corresponding": false
+      },
+      {
+        "name": "Jens Christoffer Skogen",
+        "position": 3,
+        "is_corresponding": false
+      },
+      {
+        "name": "Lasse Bang",
+        "position": 4,
+        "is_corresponding": false
+      }
+    ],
+    "has_etal": false,
+    "n_authors_extracted": 4,
+    "summary_file": "QT021_Norway_Brunborg_2025_SocSciMed.docx",
+    "pdf_file": "QT021_Norway_Brunborg_2025_SocSciMed.pdf"
+  },
+  "QT022": {
+    "descriptor": "ScreenTime_Li_2025_BJCP",
+    "year": "2025",
+    "country_hint": "",
+    "pdf_folder": "The-gioi_Au-My-Uc",
+    "authors_raw": "© 2025 The Author(s). British Journal of Clinical Psycholog y published by John Wiley & Sons Ltd on behalf of British Psychological Society.",
+    "authors_list": [
+      {
+        "name": "© The Author(s). British Journal of Clinical Psycholog y published by John Wiley",
+        "position": 1,
+        "is_corresponding": true
+      },
+      {
+        "name": "Sons Ltd on behalf of British Psychological Society",
+        "position": 2,
+        "is_corresponding": false
+      }
+    ],
+    "has_etal": false,
+    "n_authors_extracted": 2,
+    "summary_file": "QT022_ScreenTime_Li_2025_BJCP.docx",
+    "pdf_file": "QT022_ScreenTime_Li_2025_BJCP.pdf",
+    "authors_raw_pdf": "© 2025 The Author(s). British Journal of Clinical Psycholog y published by John Wiley & Sons Ltd on behalf of British Psychological Society.",
+    "authors_list_pdf": [
+      {
+        "name": "© The Author(s). British Journal of Clinical Psycholog y published by John Wiley",
+        "position": 1,
+        "is_corresponding": true
+      },
+      {
+        "name": "Sons Ltd on behalf of British Psychological Society",
+        "position": 2,
+        "is_corresponding": false
+      }
+    ],
+    "has_etal_pdf": false,
+    "n_authors_pdf": 2,
+    "source": "pdf_fallback"
+  },
+  "QT023": {
+    "descriptor": "JAACAP_USA_Mojtabai_Trends_2024",
+    "year": "2024",
+    "country_hint": "USA",
+    "pdf_folder": "The-gioi_Au-My-Uc",
+    "authors_raw": "Ramin Mojtabai và Mark Olfson",
+    "authors_list": [
+      {
+        "name": "Ramin Mojtabai",
+        "position": 1,
+        "is_corresponding": true
+      },
+      {
+        "name": "Mark Olfson",
+        "position": 2,
+        "is_corresponding": false
+      }
+    ],
+    "has_etal": false,
+    "n_authors_extracted": 2,
+    "summary_file": "QT023_JAACAP_USA_Mojtabai_Trends_2024.docx",
+    "pdf_file": "QT023_JAACAP_USA_Mojtabai_Trends_2024.pdf"
+  },
+  "QT024": {
+    "descriptor": "WHO_Europe_2025_LancetRegional",
+    "year": "2025",
+    "country_hint": "",
+    "pdf_folder": "The-gioi_Au-My-Uc",
+    "authors_raw": "Anna Tarasenko và cộng sự",
+    "authors_list": [
+      {
+        "name": "Anna Tarasenko",
+        "position": 1,
+        "is_corresponding": true
+      }
+    ],
+    "has_etal": true,
+    "n_authors_extracted": 1,
+    "summary_file": "QT024_WHO_Europe_2025_LancetRegional.docx",
+    "pdf_file": "QT024_WHO_Europe_2025_LancetRegional.pdf"
+  },
+  "QT025": {
+    "descriptor": "EpiPsychSci_Crisp_Australia_2025",
+    "year": "2025",
+    "country_hint": "Australia",
+    "pdf_folder": "The-gioi_Au-My-Uc",
+    "authors_raw": "Dimity Crisp, Debra Rickwood, Richard Burns và Emily Bariola",
+    "authors_list": [
+      {
+        "name": "Dimity Crisp",
+        "position": 1,
+        "is_corresponding": true
+      },
+      {
+        "name": "Debra Rickwood",
+        "position": 2,
+        "is_corresponding": false
+      },
+      {
+        "name": "Richard Burns",
+        "position": 3,
+        "is_corresponding": false
+      },
+      {
+        "name": "Emily Bariola",
+        "position": 4,
+        "is_corresponding": false
+      }
+    ],
+    "has_etal": false,
+    "n_authors_extracted": 4,
+    "summary_file": "QT025_EpiPsychSci_Crisp_Australia_2025.docx",
+    "pdf_file": "QT025_EpiPsychSci_Crisp_Australia_2025.pdf"
+  },
+  "QT026": {
+    "descriptor": "UK_NHS_Parliament_2025",
+    "year": "2025",
+    "country_hint": "UK",
+    "pdf_folder": "The-gioi_Au-My-Uc",
+    "authors_raw": "Carl Baker, House of Commons Library, UK Parliament",
+    "authors_list": [
+      {
+        "name": "Carl Baker",
+        "position": 1,
+        "is_corresponding": true
+      },
+      {
+        "name": "House of Commons Library",
+        "position": 2,
+        "is_corresponding": false
+      },
+      {
+        "name": "UK Parliament",
+        "position": 3,
+        "is_corresponding": false
+      }
+    ],
+    "has_etal": false,
+    "n_authors_extracted": 3,
+    "summary_file": "QT026_UK_NHS_Parliament_2025.docx",
+    "pdf_file": "QT026_UK_NHS_Parliament_2025.pdf"
+  },
+  "QT027": {
+    "descriptor": "NatureHumanBehav_Fassi_SocialMedia_2025",
+    "year": "2025",
+    "country_hint": "",
+    "pdf_folder": "The-gioi_Au-My-Uc",
+    "authors_raw": "",
+    "authors_list": [],
+    "has_etal": false,
+    "n_authors_extracted": 0,
+    "summary_file": "QT027_NatureHumanBehav_Fassi_SocialMedia_2025.docx",
+    "pdf_file": "QT027_NatureHumanBehav_Fassi_SocialMedia_2025.pdf"
+  },
+  "QT028": {
+    "descriptor": "AJP_Zugman_PediatricAnxiety_2024",
+    "year": "2024",
+    "country_hint": "",
+    "pdf_folder": "The-gioi_Au-My-Uc",
+    "authors_raw": "",
+    "authors_list": [],
+    "has_etal": false,
+    "n_authors_extracted": 0,
+    "summary_file": "QT028_AJP_Zugman_PediatricAnxiety_2024.docx",
+    "pdf_file": "QT028_AJP_Zugman_PediatricAnxiety_2024.pdf"
+  },
+  "QT029": {
+    "descriptor": "BMC_Li_CBT_NMA_2025",
+    "year": "2025",
+    "country_hint": "",
+    "pdf_folder": "The-gioi_Khac",
+    "authors_raw": "material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or",
+    "authors_list": [
+      {
+        "name": "material. If material is not included in the article’s Creative Commons licence",
+        "position": 1,
+        "is_corresponding": true
+      },
+      {
+        "name": "your intended use is not permitted by statutory regulation or",
+        "position": 2,
+        "is_corresponding": false
+      }
+    ],
+    "has_etal": false,
+    "n_authors_extracted": 2,
+    "summary_file": "QT029_BMC_Li_CBT_NMA_2025.docx",
+    "pdf_file": "QT029_BMC_Li_CBT_NMA_2025.pdf",
+    "authors_raw_pdf": "material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or",
+    "authors_list_pdf": [
+      {
+        "name": "material. If material is not included in the article’s Creative Commons licence",
+        "position": 1,
+        "is_corresponding": true
+      },
+      {
+        "name": "your intended use is not permitted by statutory regulation or",
+        "position": 2,
+        "is_corresponding": false
+      }
+    ],
+    "has_etal_pdf": false,
+    "n_authors_pdf": 2,
+    "source": "pdf_fallback"
+  },
+  "QT030": {
+    "descriptor": "GBD_Trends_10-24y_2025",
+    "year": "2025",
+    "country_hint": "",
+    "pdf_folder": "The-gioi_Khac",
+    "authors_raw": "Zhang Dongjun, Wu Mingyue và cộng sự",
+    "authors_list": [
+      {
+        "name": "Zhang Dongjun",
+        "position": 1,
+        "is_corresponding": true
+      },
+      {
+        "name": "Wu Mingyue",
+        "position": 2,
+        "is_corresponding": false
+      }
+    ],
+    "has_etal": true,
+    "n_authors_extracted": 2,
+    "summary_file": "QT030_GBD_Trends_10-24y_2025.docx",
+    "pdf_file": "QT030_GBD_Trends_10-24y_2025.pdf"
+  },
+  "QT031": {
+    "descriptor": "Islam_59Countries_2025",
+    "year": "2025",
+    "country_hint": "",
+    "pdf_folder": "The-gioi_Khac",
+    "authors_raw": "Islam MA và cộng sự",
+    "authors_list": [
+      {
+        "name": "Islam MA",
+        "position": 1,
+        "is_corresponding": true
+      }
+    ],
+    "has_etal": true,
+    "n_authors_extracted": 1,
+    "summary_file": "QT031_Islam_59Countries_2025.docx",
+    "pdf_file": "QT031_Islam_59Countries_2025.pdf"
+  },
+  "QT032": {
+    "descriptor": "Ireland_Fitzgerald_MyWorld_2024",
+    "year": "2024",
+    "country_hint": "Ireland",
+    "pdf_folder": "The-gioi_Au-My-Uc",
+    "authors_raw": "1School of Psychology, Dublin, Ireland",
+    "authors_list": [
+      {
+        "name": "School of Psychology",
+        "position": 1,
+        "is_corresponding": true
+      },
+      {
+        "name": "Dublin",
+        "position": 2,
+        "is_corresponding": false
+      },
+      {
+        "name": "Ireland",
+        "position": 3,
+        "is_corresponding": false
+      }
+    ],
+    "has_etal": false,
+    "n_authors_extracted": 3,
+    "summary_file": "QT032_Ireland_Fitzgerald_MyWorld_2024.docx",
+    "pdf_file": "QT032_Ireland_Fitzgerald_MyWorld_2024.pdf",
+    "authors_raw_pdf": "1School of Psychology, Dublin, Ireland",
+    "authors_list_pdf": [
+      {
+        "name": "School of Psychology",
+        "position": 1,
+        "is_corresponding": true
+      },
+      {
+        "name": "Dublin",
+        "position": 2,
+        "is_corresponding": false
+      },
+      {
+        "name": "Ireland",
+        "position": 3,
+        "is_corresponding": false
+      }
+    ],
+    "has_etal_pdf": false,
+    "n_authors_pdf": 3,
+    "source": "pdf_fallback"
+  },
+  "QT033": {
+    "descriptor": "JAMA_SchmidtPersson_ScreenMedia_2024",
+    "year": "2024",
+    "country_hint": "",
+    "pdf_folder": "The-gioi_Au-My-Uc",
+    "authors_raw": "Jesper Schmidt-Persson, PhD; Martin Gillies Banke Rasmussen, PhD; Sarah Overgaard Sørensen, MSc; Sofie Rath Mortensen, MSc; Line Grønholt Olesen,PhD;",
+    "authors_list": [
+      {
+        "name": "Jesper Schmidt-Persson",
+        "position": 1,
+        "is_corresponding": true
+      },
+      {
+        "name": "PhD",
+        "position": 2,
+        "is_corresponding": false
+      },
+      {
+        "name": "Martin Gillies Banke Rasmussen",
+        "position": 3,
+        "is_corresponding": false
+      },
+      {
+        "name": "PhD",
+        "position": 4,
+        "is_corresponding": false
+      },
+      {
+        "name": "Sarah Overgaard Sørensen",
+        "position": 5,
+        "is_corresponding": false
+      },
+      {
+        "name": "MSc",
+        "position": 6,
+        "is_corresponding": false
+      },
+      {
+        "name": "Sofie Rath Mortensen",
+        "position": 7,
+        "is_corresponding": false
+      },
+      {
+        "name": "MSc",
+        "position": 8,
+        "is_corresponding": false
+      },
+      {
+        "name": "Line Grønholt Olesen",
+        "position": 9,
+        "is_corresponding": false
+      },
+      {
+        "name": "PhD",
+        "position": 10,
+        "is_corresponding": false
+      }
+    ],
+    "has_etal": false,
+    "n_authors_extracted": 10,
+    "summary_file": "QT033_JAMA_SchmidtPersson_ScreenMedia_2024.docx",
+    "pdf_file": "QT033_JAMA_SchmidtPersson_ScreenMedia_2024.pdf",
+    "authors_raw_pdf": "Jesper Schmidt-Persson, PhD; Martin Gillies Banke Rasmussen, PhD; Sarah Overgaard Sørensen, MSc; Sofie Rath Mortensen, MSc; Line Grønholt Olesen,PhD;",
+    "authors_list_pdf": [
+      {
+        "name": "Jesper Schmidt-Persson",
+        "position": 1,
+        "is_corresponding": true
+      },
+      {
+        "name": "PhD",
+        "position": 2,
+        "is_corresponding": false
+      },
+      {
+        "name": "Martin Gillies Banke Rasmussen",
+        "position": 3,
+        "is_corresponding": false
+      },
+      {
+        "name": "PhD",
+        "position": 4,
+        "is_corresponding": false
+      },
+      {
+        "name": "Sarah Overgaard Sørensen",
+        "position": 5,
+        "is_corresponding": false
+      },
+      {
+        "name": "MSc",
+        "position": 6,
+        "is_corresponding": false
+      },
+      {
+        "name": "Sofie Rath Mortensen",
+        "position": 7,
+        "is_corresponding": false
+      },
+      {
+        "name": "MSc",
+        "position": 8,
+        "is_corresponding": false
+      },
+      {
+        "name": "Line Grønholt Olesen",
+        "position": 9,
+        "is_corresponding": false
+      },
+      {
+        "name": "PhD",
+        "position": 10,
+        "is_corresponding": false
+      }
+    ],
+    "has_etal_pdf": false,
+    "n_authors_pdf": 10,
+    "source": "pdf_fallback"
+  },
+  "QT034": {
+    "descriptor": "Korea_Cho_MH_Trends_NatSciRep_2024",
+    "year": "2024",
+    "country_hint": "Korea",
+    "pdf_folder": "The-gioi_Khac",
+    "authors_raw": "",
+    "authors_list": [],
+    "has_etal": false,
+    "n_authors_extracted": 0,
+    "summary_file": "QT034_Korea_Cho_MH_Trends_NatSciRep_2024.docx",
+    "pdf_file": "QT034_Korea_Cho_MH_Trends_NatSciRep_2024.pdf"
+  },
+  "QT035": {
+    "descriptor": "Jefferies_SocialAnxiety_7Countries_2020",
+    "year": "2020",
+    "country_hint": "",
+    "pdf_folder": "The-gioi_Au-My-Uc",
+    "authors_raw": "Philip Jefferies và Michael Ungar",
+    "authors_list": [
+      {
+        "name": "Philip Jefferies",
+        "position": 1,
+        "is_corresponding": true
+      },
+      {
+        "name": "Michael Ungar",
+        "position": 2,
+        "is_corresponding": false
+      }
+    ],
+    "has_etal": false,
+    "n_authors_extracted": 2,
+    "summary_file": "QT035_Jefferies_SocialAnxiety_7Countries_2020.docx",
+    "pdf_file": "QT035_Jefferies_SocialAnxiety_7Countries_2020.pdf"
+  },
+  "QT036": {
+    "descriptor": "Moon_Korea_GAD_ML_2025",
+    "year": "2025",
+    "country_hint": "Korea",
+    "pdf_folder": "The-gioi_Khac",
+    "authors_raw": "Yonghwan Moon và Hyekyung Woo",
+    "authors_list": [
+      {
+        "name": "Yonghwan Moon",
+        "position": 1,
+        "is_corresponding": true
+      },
+      {
+        "name": "Hyekyung Woo",
+        "position": 2,
+        "is_corresponding": false
+      }
+    ],
+    "has_etal": false,
+    "n_authors_extracted": 2,
+    "summary_file": "QT036_Moon_Korea_GAD_ML_2025.docx",
+    "pdf_file": "QT036_Moon_Korea_GAD_ML_2025.pdf"
+  },
+  "QT037": {
+    "descriptor": "Praptomojati_CA-CBT_SEA_AJP_2024",
+    "year": "2024",
+    "country_hint": "",
+    "pdf_folder": null,
+    "authors_raw": "",
+    "authors_list": [],
+    "has_etal": false,
+    "n_authors_extracted": 0,
+    "summary_file": "QT037_Praptomojati_CA-CBT_SEA_AJP_2024.docx",
+    "pdf_file": null
+  },
+  "QT038": {
+    "descriptor": "DeSilva_SriLanka_RCT_2024",
+    "year": "2024",
+    "country_hint": "Sri Lanka",
+    "pdf_folder": "The-gioi_Khac",
+    "authors_raw": "article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included",
+    "authors_list": [
+      {
+        "name": "article are included in the article’s Creative Commons licence",
+        "position": 1,
+        "is_corresponding": true
+      },
+      {
+        "name": "unless indicated otherwise in a credit line to the material. If material is not included",
+        "position": 2,
+        "is_corresponding": false
+      }
+    ],
+    "has_etal": false,
+    "n_authors_extracted": 2,
+    "summary_file": "QT038_DeSilva_SriLanka_RCT_2024.docx",
+    "pdf_file": "QT038_DeSilva_SriLanka_RCT_2024.pdf",
+    "authors_raw_pdf": "article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included",
+    "authors_list_pdf": [
+      {
+        "name": "article are included in the article’s Creative Commons licence",
+        "position": 1,
+        "is_corresponding": true
+      },
+      {
+        "name": "unless indicated otherwise in a credit line to the material. If material is not included",
+        "position": 2,
+        "is_corresponding": false
+      }
+    ],
+    "has_etal_pdf": false,
+    "n_authors_pdf": 2,
+    "source": "pdf_fallback"
+  },
+  "QT039": {
+    "descriptor": "Xian_NMA_SAD_JAD_2024",
+    "year": "2024",
+    "country_hint": "",
+    "pdf_folder": "The-gioi_Khac",
+    "authors_raw": "Jinhua Xian , Yan Zhang , Bo Jiang",
+    "authors_list": [
+      {
+        "name": "Jinhua Xian",
+        "position": 1,
+        "is_corresponding": true
+      },
+      {
+        "name": "Yan Zhang",
+        "position": 2,
+        "is_corresponding": false
+      },
+      {
+        "name": "Bo Jiang",
+        "position": 3,
+        "is_corresponding": false
+      }
+    ],
+    "has_etal": false,
+    "n_authors_extracted": 3,
+    "summary_file": "QT039_Xian_NMA_SAD_JAD_2024.docx",
+    "pdf_file": "QT039_Xian_NMA_SAD_JAD_2024.pdf",
+    "authors_raw_pdf": "Jinhua Xian , Yan Zhang , Bo Jiang",
+    "authors_list_pdf": [
+      {
+        "name": "Jinhua Xian",
+        "position": 1,
+        "is_corresponding": true
+      },
+      {
+        "name": "Yan Zhang",
+        "position": 2,
+        "is_corresponding": false
+      },
+      {
+        "name": "Bo Jiang",
+        "position": 3,
+        "is_corresponding": false
+      }
+    ],
+    "has_etal_pdf": false,
+    "n_authors_pdf": 3,
+    "source": "pdf_fallback"
+  },
+  "QT040": {
+    "descriptor": "Walder_JMIR_DMHI_SAD_2025",
+    "year": "2025",
+    "country_hint": "",
+    "pdf_folder": "The-gioi_Au-My-Uc",
+    "authors_raw": "độc lập sàng lọc, trích xuất, đánh giá thiên lệch. Random-effects meta-analysis sử dụng Hedges g. Phân tích phụ theo: nền tảng (CBT vs khác), thiết kế (SAD-specific vs tổng quát), có hướng dẫn người vs tự học, đối chứng (WL vs khác).",
+    "authors_list": [
+      {
+        "name": "độc lập sàng lọc",
+        "position": 1,
+        "is_corresponding": true
+      },
+      {
+        "name": "trích xuất",
+        "position": 2,
+        "is_corresponding": false
+      },
+      {
+        "name": "đánh giá thiên lệch. Random-effects meta-analysis sử dụng Hedges g. Phân tích phụ theo: nền tảng (CBT vs khác)",
+        "position": 3,
+        "is_corresponding": false
+      },
+      {
+        "name": "thiết kế (SAD-specific vs tổng quát)",
+        "position": 4,
+        "is_corresponding": false
+      },
+      {
+        "name": "có hướng dẫn người vs tự học",
+        "position": 5,
+        "is_corresponding": false
+      },
+      {
+        "name": "đối chứng (WL vs khác)",
+        "position": 6,
+        "is_corresponding": false
+      }
+    ],
+    "has_etal": false,
+    "n_authors_extracted": 6,
+    "summary_file": "QT040_Walder_JMIR_DMHI_SAD_2025.docx",
+    "pdf_file": "QT040_Walder_JMIR_DMHI_SAD_2025.pdf"
+  },
+  "QT041": {
+    "descriptor": "Zheng_China_MXH_PRBM_2025",
+    "year": "2025",
+    "country_hint": "China",
+    "pdf_folder": "The-gioi_Khac",
+    "authors_raw": "The Effects of Social Media Addiction, Academic",
+    "authors_list": [
+      {
+        "name": "The Effects of Social Media Addiction",
+        "position": 1,
+        "is_corresponding": true
+      },
+      {
+        "name": "Academic",
+        "position": 2,
+        "is_corresponding": false
+      }
+    ],
+    "has_etal": false,
+    "n_authors_extracted": 2,
+    "summary_file": "QT041_Zheng_China_MXH_PRBM_2025.docx",
+    "pdf_file": "QT041_Zheng_China_MXH_PRBM_2025.pdf",
+    "authors_raw_pdf": "The Effects of Social Media Addiction, Academic",
+    "authors_list_pdf": [
+      {
+        "name": "The Effects of Social Media Addiction",
+        "position": 1,
+        "is_corresponding": true
+      },
+      {
+        "name": "Academic",
+        "position": 2,
+        "is_corresponding": false
+      }
+    ],
+    "has_etal_pdf": false,
+    "n_authors_pdf": 2,
+    "source": "pdf_fallback"
+  },
+  "QT042": {
+    "descriptor": "BrownCarter_UK_School_JMH_2025",
+    "year": "2025",
+    "country_hint": "UK",
+    "pdf_folder": "The-gioi_Au-My-Uc",
+    "authors_raw": "",
+    "authors_list": [],
+    "has_etal": false,
+    "n_authors_extracted": 0,
+    "summary_file": "QT042_BrownCarter_UK_School_JMH_2025.docx",
+    "pdf_file": "QT042_BrownCarter_UK_School_JMH_2025.pdf"
+  },
+  "QT043": {
+    "descriptor": "Bress_JAMA_Maya_App_2024",
+    "year": "2024",
+    "country_hint": "",
+    "pdf_folder": "The-gioi_Au-My-Uc",
+    "authors_raw": "Jennifer N. Bress, PhD; Avital Falk, PhD; Maddy M. Schier, BA; Abhishek Jaywant, PhD; Elizabeth Moroney, PhD; Monika Dargis, PhD;",
+    "authors_list": [
+      {
+        "name": "Jennifer N. Bress",
+        "position": 1,
+        "is_corresponding": true
+      },
+      {
+        "name": "PhD",
+        "position": 2,
+        "is_corresponding": false
+      },
+      {
+        "name": "Avital Falk",
+        "position": 3,
+        "is_corresponding": false
+      },
+      {
+        "name": "PhD",
+        "position": 4,
+        "is_corresponding": false
+      },
+      {
+        "name": "Maddy M. Schier",
+        "position": 5,
+        "is_corresponding": false
+      },
+      {
+        "name": "Abhishek Jaywant",
+        "position": 6,
+        "is_corresponding": false
+      },
+      {
+        "name": "PhD",
+        "position": 7,
+        "is_corresponding": false
+      },
+      {
+        "name": "Elizabeth Moroney",
+        "position": 8,
+        "is_corresponding": false
+      },
+      {
+        "name": "PhD",
+        "position": 9,
+        "is_corresponding": false
+      },
+      {
+        "name": "Monika Dargis",
+        "position": 10,
+        "is_corresponding": false
+      },
+      {
+        "name": "PhD",
+        "position": 11,
+        "is_corresponding": false
+      }
+    ],
+    "has_etal": false,
+    "n_authors_extracted": 11,
+    "summary_file": "QT043_Bress_JAMA_Maya_App_2024.docx",
+    "pdf_file": "QT043_Bress_JAMA_Maya_App_2024.pdf",
+    "authors_raw_pdf": "Jennifer N. Bress, PhD; Avital Falk, PhD; Maddy M. Schier, BA; Abhishek Jaywant, PhD; Elizabeth Moroney, PhD; Monika Dargis, PhD;",
+    "authors_list_pdf": [
+      {
+        "name": "Jennifer N. Bress",
+        "position": 1,
+        "is_corresponding": true
+      },
+      {
+        "name": "PhD",
+        "position": 2,
+        "is_corresponding": false
+      },
+      {
+        "name": "Avital Falk",
+        "position": 3,
+        "is_corresponding": false
+      },
+      {
+        "name": "PhD",
+        "position": 4,
+        "is_corresponding": false
+      },
+      {
+        "name": "Maddy M. Schier",
+        "position": 5,
+        "is_corresponding": false
+      },
+      {
+        "name": "Abhishek Jaywant",
+        "position": 6,
+        "is_corresponding": false
+      },
+      {
+        "name": "PhD",
+        "position": 7,
+        "is_corresponding": false
+      },
+      {
+        "name": "Elizabeth Moroney",
+        "position": 8,
+        "is_corresponding": false
+      },
+      {
+        "name": "PhD",
+        "position": 9,
+        "is_corresponding": false
+      },
+      {
+        "name": "Monika Dargis",
+        "position": 10,
+        "is_corresponding": false
+      },
+      {
+        "name": "PhD",
+        "position": 11,
+        "is_corresponding": false
+      }
+    ],
+    "has_etal_pdf": false,
+    "n_authors_pdf": 11,
+    "source": "pdf_fallback"
+  },
+  "QT044": {
+    "descriptor": "Cai_Resilience_Frontiers_2025",
+    "year": "2025",
+    "country_hint": "",
+    "pdf_folder": "The-gioi_Khac",
+    "authors_raw": "chính Chenyi Cai). Tổng quan hệ thống và phân tích tổng hợp các RCT về can thiệp khả năng phục hồi (resilience) tại trường cho trẻ em + vị thành niên. LƯU Ý: tác giả chính là Cai (không phải Cao) theo Pinyin của 蔡 (họ Cai).",
+    "authors_list": [
+      {
+        "name": "chính Chenyi Cai). Tổng quan hệ thống",
+        "position": 1,
+        "is_corresponding": true
+      },
+      {
+        "name": "phân tích tổng hợp các RCT về can thiệp khả năng phục hồi (resilience) tại trường cho trẻ em + vị thành niên. LƯU Ý: tác giả chính là Cai (không phải Cao) theo Pinyin của 蔡 (họ Cai)",
+        "position": 2,
+        "is_corresponding": false
+      }
+    ],
+    "has_etal": false,
+    "n_authors_extracted": 2,
+    "summary_file": "QT044_Cai_Resilience_Frontiers_2025.docx",
+    "pdf_file": "QT044_Cai_Resilience_Frontiers_2025.pdf"
+  },
+  "QT045": {
+    "descriptor": "Matsumoto_Japan_iCBT_JMIR_2024",
+    "year": "2024",
+    "country_hint": "Japan",
+    "pdf_folder": "The-gioi_Khac",
+    "authors_raw": "Kazuki Matsumoto1, PhD; Sayo Hamatani2,3, PhD; Kiko Shiga4, PhD; Kiyoko Iiboshi4, PhD; Makiko Kasai5, PhD;",
+    "authors_list": [
+      {
+        "name": "Kazuki Matsumoto PhD",
+        "position": 1,
+        "is_corresponding": true
+      },
+      {
+        "name": "Sayo Hamatani PhD",
+        "position": 2,
+        "is_corresponding": false
+      },
+      {
+        "name": "Kiko Shiga PhD",
+        "position": 3,
+        "is_corresponding": false
+      },
+      {
+        "name": "Kiyoko Iiboshi PhD",
+        "position": 4,
+        "is_corresponding": false
+      },
+      {
+        "name": "Makiko Kasai PhD",
+        "position": 5,
+        "is_corresponding": false
+      }
+    ],
+    "has_etal": false,
+    "n_authors_extracted": 5,
+    "summary_file": "QT045_Matsumoto_Japan_iCBT_JMIR_2024.docx",
+    "pdf_file": "QT045_Matsumoto_Japan_iCBT_JMIR_2024.pdf",
+    "authors_raw_pdf": "Kazuki Matsumoto1, PhD; Sayo Hamatani2,3, PhD; Kiko Shiga4, PhD; Kiyoko Iiboshi4, PhD; Makiko Kasai5, PhD;",
+    "authors_list_pdf": [
+      {
+        "name": "Kazuki Matsumoto PhD",
+        "position": 1,
+        "is_corresponding": true
+      },
+      {
+        "name": "Sayo Hamatani PhD",
+        "position": 2,
+        "is_corresponding": false
+      },
+      {
+        "name": "Kiko Shiga PhD",
+        "position": 3,
+        "is_corresponding": false
+      },
+      {
+        "name": "Kiyoko Iiboshi PhD",
+        "position": 4,
+        "is_corresponding": false
+      },
+      {
+        "name": "Makiko Kasai PhD",
+        "position": 5,
+        "is_corresponding": false
+      }
+    ],
+    "has_etal_pdf": false,
+    "n_authors_pdf": 5,
+    "source": "pdf_fallback"
+  },
+  "QT046": {
+    "descriptor": "Jagiello_AcademicStress_SR_2025",
+    "year": "2025",
+    "country_hint": "",
+    "pdf_folder": "The-gioi_Au-My-Uc",
+    "authors_raw": "Child Psychiatry & Human Development (2025) 56:1836–1869",
+    "authors_list": [
+      {
+        "name": "Child Psychiatry",
+        "position": 1,
+        "is_corresponding": true
+      },
+      {
+        "name": "Human Development () :–",
+        "position": 2,
+        "is_corresponding": false
+      }
+    ],
+    "has_etal": false,
+    "n_authors_extracted": 2,
+    "summary_file": "QT046_Jagiello_AcademicStress_SR_2025.docx",
+    "pdf_file": "QT046_Jagiello_AcademicStress_SR_2025.pdf",
+    "authors_raw_pdf": "Child Psychiatry & Human Development (2025) 56:1836–1869",
+    "authors_list_pdf": [
+      {
+        "name": "Child Psychiatry",
+        "position": 1,
+        "is_corresponding": true
+      },
+      {
+        "name": "Human Development () :–",
+        "position": 2,
+        "is_corresponding": false
+      }
+    ],
+    "has_etal_pdf": false,
+    "n_authors_pdf": 2,
+    "source": "pdf_fallback"
+  },
+  "QT047": {
+    "descriptor": "Dong_PLOS_DASS_YaAn_2025",
+    "year": "2025",
+    "country_hint": "",
+    "pdf_folder": "The-gioi_Khac",
+    "authors_raw": "PLOS One | https://doi.org/10.1371/journal.pone.0328785 September 3, 2025 1 / 10",
+    "authors_list": [
+      {
+        "name": "PLOS One | https://doi.org/./journal.pone.September  /",
+        "position": 1,
+        "is_corresponding": true
+      }
+    ],
+    "has_etal": false,
+    "n_authors_extracted": 1,
+    "summary_file": "QT047_Dong_PLOS_DASS_YaAn_2025.docx",
+    "pdf_file": "QT047_Dong_PLOS_DASS_YaAn_2025.pdf",
+    "authors_raw_pdf": "PLOS One | https://doi.org/10.1371/journal.pone.0328785 September 3, 2025 1 / 10",
+    "authors_list_pdf": [
+      {
+        "name": "PLOS One | https://doi.org/./journal.pone.September  /",
+        "position": 1,
+        "is_corresponding": true
+      }
+    ],
+    "has_etal_pdf": false,
+    "n_authors_pdf": 1,
+    "source": "pdf_fallback"
+  },
+  "QT048": {
+    "descriptor": "Chen_COVID_Meta141_JAD_2025_ABSTRACT",
+    "year": "2025",
+    "country_hint": "",
+    "pdf_folder": null,
+    "authors_raw": "",
+    "authors_list": [],
+    "has_etal": false,
+    "n_authors_extracted": 0,
+    "summary_file": "QT048_Chen_COVID_Meta141_JAD_2025_ABSTRACT.docx",
+    "pdf_file": null
+  },
+  "QT049": {
+    "descriptor": "Zhang_Bayesian_CBT_JCP_2026_ABSTRACT",
+    "year": "2026",
+    "country_hint": "",
+    "pdf_folder": null,
+    "authors_raw": "\"Chất lượng bằng chứng nền RẤT THẤP khiến phát hiện này CHƯA ĐỦ vững chắc để hỗ trợ triển khai rộng rãi tại thời điểm này.\"",
+    "authors_list": [
+      {
+        "name": "\"Chất lượng bằng chứng nền RẤT THẤP khiến phát hiện này CHƯA ĐỦ vững chắc để hỗ trợ triển khai rộng rãi tại thời điểm này.\"",
+        "position": 1,
+        "is_corresponding": true
+      }
+    ],
+    "has_etal": false,
+    "n_authors_extracted": 1,
+    "summary_file": "QT049_Zhang_Bayesian_CBT_JCP_2026_ABSTRACT.docx",
+    "pdf_file": null
+  },
+  "QT050": {
+    "descriptor": "Qiaochu_MobileCBT_CPP_2025_ABSTRACT",
+    "year": "2025",
+    "country_hint": "",
+    "pdf_folder": null,
+    "authors_raw": "",
+    "authors_list": [],
+    "has_etal": false,
+    "n_authors_extracted": 0,
+    "summary_file": "QT050_Qiaochu_MobileCBT_CPP_2025_ABSTRACT.docx",
+    "pdf_file": null
+  },
+  "QT051": {
+    "descriptor": "Menon_LMIC_SEA_Pacific_APJPH_2025_ABSTRACT",
+    "year": "2025",
+    "country_hint": "",
+    "pdf_folder": null,
+    "authors_raw": "",
+    "authors_list": [],
+    "has_etal": false,
+    "n_authors_extracted": 0,
+    "summary_file": "QT051_Menon_LMIC_SEA_Pacific_APJPH_2025_ABSTRACT.docx",
+    "pdf_file": null
+  },
+  "VN001": {
+    "descriptor": "Hoa_2024_Frontiers_HaNoi",
+    "year": "2024",
+    "country_hint": "Vietnam",
+    "pdf_folder": "Viet-Nam",
+    "authors_raw": "Phạm Thị Thu Hoa, Đỗ Thị Trang, Nguyễn Thị Liên và Ngô Anh Vinh",
+    "authors_list": [
+      {
+        "name": "Phạm Thị Thu Hoa",
+        "position": 1,
+        "is_corresponding": true
+      },
+      {
+        "name": "Đỗ Thị Trang",
+        "position": 2,
+        "is_corresponding": false
+      },
+      {
+        "name": "Nguyễn Thị Liên",
+        "position": 3,
+        "is_corresponding": false
+      },
+      {
+        "name": "Ngô Anh Vinh",
+        "position": 4,
+        "is_corresponding": false
+      }
+    ],
+    "has_etal": false,
+    "n_authors_extracted": 4,
+    "summary_file": "VN001_Hoa_2024_Frontiers_HaNoi.docx",
+    "pdf_file": "VN001_Hoa_2024_Frontiers_HaNoi.pdf"
+  },
+  "VN002": {
+    "descriptor": "VNAMHS_2022_National",
+    "year": "2022",
+    "country_hint": "Vietnam",
+    "pdf_folder": "Viet-Nam",
+    "authors_raw": "Vũ Mạnh Lợi, Nguyễn Đức Vinh (Viện Xã hội học, VASS); Đào Thị Khánh Hoa (Hội Xã hội học Việt Nam); Holly E",
+    "authors_list": [
+      {
+        "name": "Vũ Mạnh Lợi",
+        "position": 1,
+        "is_corresponding": true
+      },
+      {
+        "name": "Nguyễn Đức Vinh (Viện Xã hội học",
+        "position": 2,
+        "is_corresponding": false
+      },
+      {
+        "name": "VASS)",
+        "position": 3,
+        "is_corresponding": false
+      },
+      {
+        "name": "Đào Thị Khánh Hoa (Hội Xã hội học Việt Nam)",
+        "position": 4,
+        "is_corresponding": false
+      },
+      {
+        "name": "Holly E",
+        "position": 5,
+        "is_corresponding": false
+      }
+    ],
+    "has_etal": false,
+    "n_authors_extracted": 5,
+    "summary_file": "VN002_VNAMHS_2022_National.docx",
+    "pdf_file": "VN002_VNAMHS_2022_National.pdf"
+  },
+  "VN003": {
+    "descriptor": "Pham_2024_Hue_SocialSupport",
+    "year": "2024",
+    "country_hint": "Vietnam",
+    "pdf_folder": "Viet-Nam",
+    "authors_raw": "Pham và cộng sự",
+    "authors_list": [
+      {
+        "name": "Pham",
+        "position": 1,
+        "is_corresponding": true
+      }
+    ],
+    "has_etal": true,
+    "n_authors_extracted": 1,
+    "summary_file": "VN003_Pham_2024_Hue_SocialSupport.docx",
+    "pdf_file": "VN003_Pham_2024_Hue_SocialSupport.pdf"
+  },
+  "VN014": {
+    "descriptor": "HoangTrungHoc_2025_VN_COVID",
+    "year": "2025",
+    "country_hint": "Vietnam",
+    "pdf_folder": "Viet-Nam",
+    "authors_raw": "Levels of Stress, Anxiety, and Depression in Adolescents during and",
+    "authors_list": [
+      {
+        "name": "Levels of Stress",
+        "position": 1,
+        "is_corresponding": true
+      },
+      {
+        "name": "Anxiety",
+        "position": 2,
+        "is_corresponding": false
+      }
+    ],
+    "has_etal": false,
+    "n_authors_extracted": 2,
+    "summary_file": "VN014_HoangTrungHoc_2025_VN_COVID.docx",
+    "pdf_file": "VN014_HoangTrungHoc_2025_VN_COVID.pdf",
+    "authors_raw_pdf": "Levels of Stress, Anxiety, and Depression in Adolescents during and",
+    "authors_list_pdf": [
+      {
+        "name": "Levels of Stress",
+        "position": 1,
+        "is_corresponding": true
+      },
+      {
+        "name": "Anxiety",
+        "position": 2,
+        "is_corresponding": false
+      }
+    ],
+    "has_etal_pdf": false,
+    "n_authors_pdf": 2,
+    "source": "pdf_fallback"
+  },
+  "VN015": {
+    "descriptor": "NgoAnhVinh_2024_LangSon_DTTS",
+    "year": "2024",
+    "country_hint": "Vietnam",
+    "pdf_folder": "Viet-Nam",
+    "authors_raw": "Ngô Anh Vinh, Vũ Thị Mỹ Hạnh, Đỗ Thị Bích Vân, Dương Anh Tài, Đỗ Minh Loan và Lê Thị Thanh Thùy",
+    "authors_list": [
+      {
+        "name": "Ngô Anh Vinh",
+        "position": 1,
+        "is_corresponding": true
+      },
+      {
+        "name": "Vũ Thị Mỹ Hạnh",
+        "position": 2,
+        "is_corresponding": false
+      },
+      {
+        "name": "Đỗ Thị Bích Vân",
+        "position": 3,
+        "is_corresponding": false
+      },
+      {
+        "name": "Dương Anh Tài",
+        "position": 4,
+        "is_corresponding": false
+      },
+      {
+        "name": "Đỗ Minh Loan",
+        "position": 5,
+        "is_corresponding": false
+      },
+      {
+        "name": "Lê Thị Thanh Thùy",
+        "position": 6,
+        "is_corresponding": false
+      }
+    ],
+    "has_etal": false,
+    "n_authors_extracted": 6,
+    "summary_file": "VN015_NgoAnhVinh_2024_LangSon_DTTS.docx",
+    "pdf_file": "VN015_NgoAnhVinh_2024_LangSon_DTTS.pdf"
+  },
+  "VN016": {
+    "descriptor": "BaoQuyen_2025_YHCD",
+    "year": "2025",
+    "country_hint": "Vietnam",
+    "pdf_folder": "Viet-Nam",
+    "authors_raw": "Nguyễn Ngọc Bảo Quyên, Lưu Minh Đức, Vũ Minh Thy, Nguyễn Yến Minh, Nguyễn Châu Anh, Hoàng Lan Vân và Giáp Thị Thanh Tình",
+    "authors_list": [
+      {
+        "name": "Nguyễn Ngọc Bảo Quyên",
+        "position": 1,
+        "is_corresponding": true
+      },
+      {
+        "name": "Lưu Minh Đức",
+        "position": 2,
+        "is_corresponding": false
+      },
+      {
+        "name": "Vũ Minh Thy",
+        "position": 3,
+        "is_corresponding": false
+      },
+      {
+        "name": "Nguyễn Yến Minh",
+        "position": 4,
+        "is_corresponding": false
+      },
+      {
+        "name": "Nguyễn Châu Anh",
+        "position": 5,
+        "is_corresponding": false
+      },
+      {
+        "name": "Hoàng Lan Vân",
+        "position": 6,
+        "is_corresponding": false
+      },
+      {
+        "name": "Giáp Thị Thanh Tình",
+        "position": 7,
+        "is_corresponding": false
+      }
+    ],
+    "has_etal": false,
+    "n_authors_extracted": 7,
+    "summary_file": "VN016_BaoQuyen_2025_YHCD.docx",
+    "pdf_file": "VN016_BaoQuyen_2025_YHCD.pdf"
+  },
+  "VN017": {
+    "descriptor": "NguyenDanhLam_2022_YHVN",
+    "year": "2022",
+    "country_hint": "Vietnam",
+    "pdf_folder": "Viet-Nam",
+    "authors_raw": "",
+    "authors_list": [],
+    "has_etal": false,
+    "n_authors_extracted": 0,
+    "summary_file": "VN017_NguyenDanhLam_2022_YHVN.docx",
+    "pdf_file": "VN017_NguyenDanhLam_2022_YHVN.pdf"
+  },
+  "VN018": {
+    "descriptor": "AnGiang_2025_YHVN",
+    "year": "2025",
+    "country_hint": "Vietnam",
+    "pdf_folder": "Viet-Nam",
+    "authors_raw": "",
+    "authors_list": [],
+    "has_etal": false,
+    "n_authors_extracted": 0,
+    "summary_file": "VN018_AnGiang_2025_YHVN.docx",
+    "pdf_file": "VN018_AnGiang_2025_YHVN.pdf"
+  },
+  "VN019": {
+    "descriptor": "HoThiTrucQuynh_2025_Hue_TLH",
+    "year": "2025",
+    "country_hint": "Vietnam",
+    "pdf_folder": "Viet-Nam",
+    "authors_raw": "Hồ Thị Trúc Quỳnh",
+    "authors_list": [
+      {
+        "name": "Hồ Thị Trúc Quỳnh",
+        "position": 1,
+        "is_corresponding": true
+      }
+    ],
+    "has_etal": false,
+    "n_authors_extracted": 1,
+    "summary_file": "VN019_HoThiTrucQuynh_2025_Hue_TLH.docx",
+    "pdf_file": "VN019_HoThiTrucQuynh_2025_Hue_TLH.pdf"
+  },
+  "VN020": {
+    "descriptor": "TranHoVinhLoc_2024_TPHCM_DASS-Y",
+    "year": "2024",
+    "country_hint": "Vietnam",
+    "pdf_folder": "Viet-Nam",
+    "authors_raw": "Trần Hồ Vĩnh Lộc, Huỳnh Ngọc Vân Anh, Tô Gia Kiên",
+    "authors_list": [
+      {
+        "name": "Trần Hồ Vĩnh Lộc",
+        "position": 1,
+        "is_corresponding": true
+      },
+      {
+        "name": "Huỳnh Ngọc Vân Anh",
+        "position": 2,
+        "is_corresponding": false
+      },
+      {
+        "name": "Tô Gia Kiên",
+        "position": 3,
+        "is_corresponding": false
+      }
+    ],
+    "has_etal": false,
+    "n_authors_extracted": 3,
+    "summary_file": "VN020_TranHoVinhLoc_2024_TPHCM_DASS-Y.docx",
+    "pdf_file": "VN020_TranHoVinhLoc_2024_TPHCM_DASS-Y.pdf"
+  },
+  "VN021": {
+    "descriptor": "TranThaoVi_2024_JRuralMed_Hue",
+    "year": "2024",
+    "country_hint": "Vietnam",
+    "pdf_folder": "Viet-Nam",
+    "authors_raw": "Thao Vi Tran, Hoang Thuy Linh Nguyen, Xuan Minh Tri Tran, Yuri Tashiro, Kaoruko Seino, Thang Van Vo và Keiko Nakamura",
+    "authors_list": [
+      {
+        "name": "Thao Vi Tran",
+        "position": 1,
+        "is_corresponding": true
+      },
+      {
+        "name": "Hoang Thuy Linh Nguyen",
+        "position": 2,
+        "is_corresponding": false
+      },
+      {
+        "name": "Xuan Minh Tri Tran",
+        "position": 3,
+        "is_corresponding": false
+      },
+      {
+        "name": "Yuri Tashiro",
+        "position": 4,
+        "is_corresponding": false
+      },
+      {
+        "name": "Kaoruko Seino",
+        "position": 5,
+        "is_corresponding": false
+      },
+      {
+        "name": "Thang Van Vo",
+        "position": 6,
+        "is_corresponding": false
+      },
+      {
+        "name": "Keiko Nakamura",
+        "position": 7,
+        "is_corresponding": false
+      }
+    ],
+    "has_etal": false,
+    "n_authors_extracted": 7,
+    "summary_file": "VN021_TranThaoVi_2024_JRuralMed_Hue.docx",
+    "pdf_file": "VN021_TranThaoVi_2024_JRuralMed_Hue.pdf"
+  },
+  "VN022": {
+    "descriptor": "UNICEF_VN_2022_SchoolFactors",
+    "year": "2022",
+    "country_hint": "Vietnam",
+    "pdf_folder": "Viet-Nam",
+    "authors_raw": "",
+    "authors_list": [],
+    "has_etal": false,
+    "n_authors_extracted": 0,
+    "summary_file": "VN022_UNICEF_VN_2022_SchoolFactors.docx",
+    "pdf_file": "VN022_UNICEF_VN_2022_SchoolFactors.pdf"
+  },
+  "VN023": {
+    "descriptor": "NguyenLX_VN_COVID_Medicine_2023",
+    "year": "2023",
+    "country_hint": "Vietnam",
+    "pdf_folder": "Viet-Nam",
+    "authors_raw": "Hieu Van Nguyen, PhDc, Lan Thi Mai Nguyen, PhDd, Phuong Thi Nguyen, MSa, Thang Thi Nguyen, PhDa,",
+    "authors_list": [
+      {
+        "name": "Hieu Van Nguyen",
+        "position": 1,
+        "is_corresponding": true
+      },
+      {
+        "name": "PhDc",
+        "position": 2,
+        "is_corresponding": false
+      },
+      {
+        "name": "Lan Thi Mai Nguyen",
+        "position": 3,
+        "is_corresponding": false
+      },
+      {
+        "name": "PhDd",
+        "position": 4,
+        "is_corresponding": false
+      },
+      {
+        "name": "Phuong Thi Nguyen",
+        "position": 5,
+        "is_corresponding": false
+      },
+      {
+        "name": "MSa",
+        "position": 6,
+        "is_corresponding": false
+      },
+      {
+        "name": "Thang Thi Nguyen",
+        "position": 7,
+        "is_corresponding": false
+      },
+      {
+        "name": "PhDa",
+        "position": 8,
+        "is_corresponding": false
+      }
+    ],
+    "has_etal": false,
+    "n_authors_extracted": 8,
+    "summary_file": "VN023_NguyenLX_VN_COVID_Medicine_2023.docx",
+    "pdf_file": "VN023_NguyenLX_VN_COVID_Medicine_2023.pdf",
+    "authors_raw_pdf": "Hieu Van Nguyen, PhDc, Lan Thi Mai Nguyen, PhDd, Phuong Thi Nguyen, MSa, Thang Thi Nguyen, PhDa,",
+    "authors_list_pdf": [
+      {
+        "name": "Hieu Van Nguyen",
+        "position": 1,
+        "is_corresponding": true
+      },
+      {
+        "name": "PhDc",
+        "position": 2,
+        "is_corresponding": false
+      },
+      {
+        "name": "Lan Thi Mai Nguyen",
+        "position": 3,
+        "is_corresponding": false
+      },
+      {
+        "name": "PhDd",
+        "position": 4,
+        "is_corresponding": false
+      },
+      {
+        "name": "Phuong Thi Nguyen",
+        "position": 5,
+        "is_corresponding": false
+      },
+      {
+        "name": "MSa",
+        "position": 6,
+        "is_corresponding": false
+      },
+      {
+        "name": "Thang Thi Nguyen",
+        "position": 7,
+        "is_corresponding": false
+      },
+      {
+        "name": "PhDa",
+        "position": 8,
+        "is_corresponding": false
+      }
+    ],
+    "has_etal_pdf": false,
+    "n_authors_pdf": 8,
+    "source": "pdf_fallback"
+  },
+  "VN024": {
+    "descriptor": "NguyenThanhTruyen_VinhLong_YHVN_2024",
+    "year": "2024",
+    "country_hint": "Vietnam",
+    "pdf_folder": "Viet-Nam",
+    "authors_raw": "Nguyễn Thanh Truyền và cộng sự",
+    "authors_list": [
+      {
+        "name": "Nguyễn Thanh Truyền",
+        "position": 1,
+        "is_corresponding": true
+      }
+    ],
+    "has_etal": true,
+    "n_authors_extracted": 1,
+    "summary_file": "VN024_NguyenThanhTruyen_VinhLong_YHVN_2024.docx",
+    "pdf_file": "VN024_NguyenThanhTruyen_VinhLong_YHVN_2024.pdf"
+  },
+  "VN025": {
+    "descriptor": "PhamThiNgoc_HaiPhong_VinhBao_2024",
+    "year": "2024",
+    "country_hint": "Vietnam",
+    "pdf_folder": "Viet-Nam",
+    "authors_raw": "Phạm Thị Ngọc, Hoàng Thị Giang, Phạm Khánh Linh, Vũ Thị Châu",
+    "authors_list": [
+      {
+        "name": "Phạm Thị Ngọc",
+        "position": 1,
+        "is_corresponding": true
+      },
+      {
+        "name": "Hoàng Thị Giang",
+        "position": 2,
+        "is_corresponding": false
+      },
+      {
+        "name": "Phạm Khánh Linh",
+        "position": 3,
+        "is_corresponding": false
+      },
+      {
+        "name": "Vũ Thị Châu",
+        "position": 4,
+        "is_corresponding": false
+      }
+    ],
+    "has_etal": false,
+    "n_authors_extracted": 4,
+    "summary_file": "VN025_PhamThiNgoc_HaiPhong_VinhBao_2024.docx",
+    "pdf_file": "VN025_PhamThiNgoc_HaiPhong_VinhBao_2024.pdf"
+  },
+  "VN026": {
+    "descriptor": "TranDucSi_LongAn_PNT_2025",
+    "year": "2025",
+    "country_hint": "Vietnam",
+    "pdf_folder": "Viet-Nam",
+    "authors_raw": "sinh có trầm cảm, lo âu, stress trên địa bàn thành phố Tân An, tỉnh Long An lần lượt",
+    "authors_list": [
+      {
+        "name": "sinh có trầm cảm",
+        "position": 1,
+        "is_corresponding": true
+      },
+      {
+        "name": "lo âu",
+        "position": 2,
+        "is_corresponding": false
+      },
+      {
+        "name": "stress trên địa bàn thành phố Tân An",
+        "position": 3,
+        "is_corresponding": false
+      },
+      {
+        "name": "tỉnh Long An lần lượt",
+        "position": 4,
+        "is_corresponding": false
+      }
+    ],
+    "has_etal": false,
+    "n_authors_extracted": 4,
+    "summary_file": "VN026_TranDucSi_LongAn_PNT_2025.docx",
+    "pdf_file": "VN026_TranDucSi_LongAn_PNT_2025.pdf",
+    "authors_raw_pdf": "sinh có trầm cảm, lo âu, stress trên địa bàn thành phố Tân An, tỉnh Long An lần lượt",
+    "authors_list_pdf": [
+      {
+        "name": "sinh có trầm cảm",
+        "position": 1,
+        "is_corresponding": true
+      },
+      {
+        "name": "lo âu",
+        "position": 2,
+        "is_corresponding": false
+      },
+      {
+        "name": "stress trên địa bàn thành phố Tân An",
+        "position": 3,
+        "is_corresponding": false
+      },
+      {
+        "name": "tỉnh Long An lần lượt",
+        "position": 4,
+        "is_corresponding": false
+      }
+    ],
+    "has_etal_pdf": false,
+    "n_authors_pdf": 4,
+    "source": "pdf_fallback"
+  },
+  "VN027": {
+    "descriptor": "Dinh_SchoolFactors_VN_2021",
+    "year": "2021",
+    "country_hint": "Vietnam",
+    "pdf_folder": "Viet-Nam",
+    "authors_raw": "Dinh và cộng sự",
+    "authors_list": [
+      {
+        "name": "Dinh",
+        "position": 1,
+        "is_corresponding": true
+      }
+    ],
+    "has_etal": true,
+    "n_authors_extracted": 1,
+    "summary_file": "VN027_Dinh_SchoolFactors_VN_2021.docx",
+    "pdf_file": "VN027_Dinh_SchoolFactors_VN_2021.pdf"
+  },
+  "VN028": {
+    "descriptor": "DaoThiNgoan_TCNCYH_SVY4_HMU_2025",
+    "year": "2025",
+    "country_hint": "Vietnam",
+    "pdf_folder": "Viet-Nam",
+    "authors_raw": "Đào Thị Ngoãn và cộng sự",
+    "authors_list": [
+      {
+        "name": "Đào Thị Ngoãn",
+        "position": 1,
+        "is_corresponding": true
+      }
+    ],
+    "has_etal": true,
+    "n_authors_extracted": 1,
+    "summary_file": "VN028_DaoThiNgoan_TCNCYH_SVY4_HMU_2025.docx",
+    "pdf_file": "VN028_DaoThiNgoan_TCNCYH_SVY4_HMU_2025.pdf"
+  },
+  "VN029": {
+    "descriptor": "Duong_SocPsychiatry_2631HS_TPHCM_2025",
+    "year": "2631",
+    "country_hint": "Vietnam",
+    "pdf_folder": "Viet-Nam",
+    "authors_raw": "Truc Thanh Thai, Minh Cuong Duong và cộng sự",
+    "authors_list": [
+      {
+        "name": "Truc Thanh Thai",
+        "position": 1,
+        "is_corresponding": true
+      },
+      {
+        "name": "Minh Cuong Duong",
+        "position": 2,
+        "is_corresponding": false
+      }
+    ],
+    "has_etal": true,
+    "n_authors_extracted": 2,
+    "summary_file": "VN029_Duong_SocPsychiatry_2631HS_TPHCM_2025.docx",
+    "pdf_file": "VN029_Duong_SocPsychiatry_2631HS_TPHCM_2025.pdf"
+  },
+  "VN030": {
+    "descriptor": "Tran_HappyHouse_Cambridge_2023",
+    "year": "2023",
+    "country_hint": "Vietnam",
+    "pdf_folder": null,
+    "authors_raw": "Monash–QUT–HUPH. Hạn chế: universal intervention với hiệu ứng nhỏ (d = 0,11), không đo lo âu riêng, không randomized. PHẢI trích dẫn trong mọi báo cáo can thiệp VN từ nay.",
+    "authors_list": [
+      {
+        "name": "Monash–QUT–HUPH. Hạn chế: universal intervention với hiệu ứng nhỏ (d = 0",
+        "position": 1,
+        "is_corresponding": true
+      },
+      {
+        "name": "không đo lo âu riêng",
+        "position": 3,
+        "is_corresponding": false
+      },
+      {
+        "name": "không randomized. PHẢI trích dẫn trong mọi báo cáo can thiệp VN từ nay",
+        "position": 4,
+        "is_corresponding": false
+      }
+    ],
+    "has_etal": false,
+    "n_authors_extracted": 3,
+    "summary_file": "VN030_Tran_HappyHouse_Cambridge_2023.docx",
+    "pdf_file": null
+  }
+}

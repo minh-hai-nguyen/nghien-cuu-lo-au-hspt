@@ -1,0 +1,1705 @@
+{
+  "total_aeps": 113,
+  "papers_with_aeps": 39,
+  "report_issues": [],
+  "aeps": [
+    {
+      "assertion": "cộng sự (2025) rằng hoạt động ngoài trời 2–3 giờ/ngày giảm AOR = 0,557 cho trầm cảm. *Mối quan hệ bạn bè.* Sự cảm nhận về mối quan",
+      "evidence": {
+        "source": "QT003",
+        "metric": "AOR",
+        "value": 0.557,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Depression",
+        "instrument": "GAD-7",
+        "n": 450,
+        "population": "450 học sinh từ lớp 9 đến lớp 12 tại 3 trường thuộc khu vực đô thị tự t"
+      }
+    },
+    {
+      "assertion": "pia rằng nữ có nguy cơ trầm cảm cao gấp 1,3 lần so với nam (AOR = 1,304, P = 0,046) — phù hợp với xu hướng quốc tế nhưng mức chênh",
+      "evidence": {
+        "source": "QT006",
+        "metric": "AOR",
+        "value": 1.304,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Depression",
+        "instrument": "DASS-21",
+        "n": 810,
+        "population": "học sinh trung học phổ thông tại Tây Bắc Ethiopi"
+      }
+    },
+    {
+      "assertion": "ối liên hệ cực mạnh giữa nhai khat nguy cơ cao và trầm cảm (AOR = 5,595) cũng như hút thuốc lá nguy cơ cao và lo âu (AOR = 4,777).",
+      "evidence": {
+        "source": "QT006",
+        "metric": "AOR",
+        "value": 5.595,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Anxiety",
+        "instrument": "DASS-21",
+        "n": 810,
+        "population": "học sinh trung học phổ thông tại Tây Bắc Ethiopi"
+      }
+    },
+    {
+      "assertion": "m (AOR = 5,595) cũng như hút thuốc lá nguy cơ cao và lo âu (AOR = 4,777). Đây là hai yếu tố nguy cơ đặc thù văn hóa Đông Phi mà các",
+      "evidence": {
+        "source": "QT006",
+        "metric": "AOR",
+        "value": 4.777,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Anxiety",
+        "instrument": "DASS-21",
+        "n": 810,
+        "population": "học sinh trung học phổ thông tại Tây Bắc Ethiopi"
+      }
+    },
+    {
+      "assertion": "ém (Oslo-3 điểm 3–8) có nguy cơ căng thẳng cao gấp 1,7 lần (AOR = 1,739). Phát hiện này tương đồng với kết luận của Pham và cộng sự",
+      "evidence": {
+        "source": "QT006",
+        "metric": "AOR",
+        "value": 1.739,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Stress",
+        "instrument": "DASS-21",
+        "n": 810,
+        "population": "học sinh trung học phổ thông tại Tây Bắc Ethiopi"
+      }
+    },
+    {
+      "assertion": "ẫu) có nguy cơ căng thẳng cao gấp 1,4 lần so với thành thị (AOR = 1,395). Điều này tương tự với Xu và cộng sự (2021) tại Trung Quốc",
+      "evidence": {
+        "source": "QT006",
+        "metric": "AOR",
+        "value": 1.395,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Anxiety",
+        "instrument": "DASS-21",
+        "n": 810,
+        "population": "học sinh trung học phổ thông tại Tây Bắc Ethiopi"
+      }
+    },
+    {
+      "assertion": "ý khẩn cấp. Các yếu tố nguy cơ đặc thù văn hóa — nhai khat (AOR = 5,6), hút thuốc lá (AOR = 4,8) — và yếu tố xã hội — hỗ trợ xã h",
+      "evidence": {
+        "source": "QT006",
+        "metric": "AOR",
+        "value": 5.6,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Depression",
+        "instrument": "DASS-21",
+        "n": 810,
+        "population": "học sinh trung học phổ thông tại Tây Bắc Ethiopi"
+      }
+    },
+    {
+      "assertion": "y cơ đặc thù văn hóa — nhai khat (AOR = 5,6), hút thuốc lá (AOR = 4,8) — và yếu tố xã hội — hỗ trợ xã hội kém, cư trú nông thôn —",
+      "evidence": {
+        "source": "QT006",
+        "metric": "AOR",
+        "value": 4.8,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Depression",
+        "instrument": "DASS-21",
+        "n": 810,
+        "population": "học sinh trung học phổ thông tại Tây Bắc Ethiopi"
+      }
+    },
+    {
+      "assertion": "chiếm 58% nhóm căng thẳng so với 48% nhóm không căng thẳng (OR = 1,55, P < 0,001). Đáng chú ý, rối loạn giấc ngủ (OR = 6,99) và r",
+      "evidence": {
+        "source": "QT007",
+        "metric": "OR",
+        "value": 1.55,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Stress",
+        "instrument": "GAD-7",
+        "n": 63205,
+        "population": "học sinh trung học Trung Quốc » (Prevalence and"
+      }
+    },
+    {
+      "assertion": "hẳng (OR = 1,55, P < 0,001). Đáng chú ý, rối loạn giấc ngủ (OR = 6,99) và rối loạn chơi game (OR = 5,00) là hai yếu tố mạnh nhất",
+      "evidence": {
+        "source": "QT007",
+        "metric": "OR",
+        "value": 6.99,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Stress",
+        "instrument": "GAD-7",
+        "n": 63205,
+        "population": "học sinh trung học Trung Quốc » (Prevalence and"
+      }
+    },
+    {
+      "assertion": "chú ý, rối loạn giấc ngủ (OR = 6,99) và rối loạn chơi game (OR = 5,00) là hai yếu tố mạnh nhất — vượt trội hơn mọi yếu tố nhân kh",
+      "evidence": {
+        "source": "QT007",
+        "metric": "OR",
+        "value": 5.0,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Stress",
+        "instrument": "GAD-7",
+        "n": 63205,
+        "population": "học sinh trung học Trung Quốc » (Prevalence and"
+      }
+    },
+    {
+      "assertion": "mạnh nhất.* Nổi bật nhất là rối loạn giấc ngủ (PSQI >5) có OR = 6,99 — yếu tố nguy cơ mạnh nhất trong tất cả các biến. 66% học s",
+      "evidence": {
+        "source": "QT007",
+        "metric": "OR",
+        "value": 6.99,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Stress",
+        "instrument": "PSQI",
+        "n": 63205,
+        "population": "học sinh trung học Trung Quốc » (Prevalence and"
+      }
+    },
+    {
+      "assertion": "Phát hiện này tương tự Zhu và cộng sự (2025): ngủ <5 giờ có AOR = 13,71 cho trầm cảm tại Trung Quốc. Giấc ngủ là yếu tố bảo vệ có t",
+      "evidence": {
+        "source": "QT007",
+        "metric": "AOR",
+        "value": 13.71,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Depression",
+        "instrument": "GAD-7",
+        "n": 63205,
+        "population": "học sinh trung học Trung Quốc » (Prevalence and"
+      }
+    },
+    {
+      "assertion": "ược. *Rối loạn chơi game trực tuyến.* IGD (IGDS9-SF ≥32) có OR = 5,00 — yếu tố nguy cơ mạnh thứ hai. 8,3% học sinh căng thẳng có",
+      "evidence": {
+        "source": "QT007",
+        "metric": "OR",
+        "value": 5.0,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Stress",
+        "instrument": "IGDS9-SF",
+        "n": 63205,
+        "population": "học sinh trung học Trung Quốc » (Prevalence and"
+      }
+    },
+    {
+      "assertion": "i bắt nạt đều liên quan có ý nghĩa, nhưng thao túng xã hội (OR = 1,97) và bắt nạt lời nói (OR = 1,70) mạnh hơn bắt nạt thể chất (",
+      "evidence": {
+        "source": "QT007",
+        "metric": "OR",
+        "value": 1.97,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Depression",
+        "instrument": "GAD-7",
+        "n": 63205,
+        "population": "học sinh trung học Trung Quốc » (Prevalence and"
+      }
+    },
+    {
+      "assertion": "hĩa, nhưng thao túng xã hội (OR = 1,97) và bắt nạt lời nói (OR = 1,70) mạnh hơn bắt nạt thể chất (OR = 1,51) và tấn công tài sản",
+      "evidence": {
+        "source": "QT007",
+        "metric": "OR",
+        "value": 1.7,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Depression",
+        "instrument": "GAD-7",
+        "n": 63205,
+        "population": "học sinh trung học Trung Quốc » (Prevalence and"
+      }
+    },
+    {
+      "assertion": ") và bắt nạt lời nói (OR = 1,70) mạnh hơn bắt nạt thể chất (OR = 1,51) và tấn công tài sản (OR = 1,25). Phân tích chi tiết theo l",
+      "evidence": {
+        "source": "QT007",
+        "metric": "OR",
+        "value": 1.51,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Depression",
+        "instrument": "GAD-7",
+        "n": 63205,
+        "population": "học sinh trung học Trung Quốc » (Prevalence and"
+      }
+    },
+    {
+      "assertion": "mạnh hơn bắt nạt thể chất (OR = 1,51) và tấn công tài sản (OR = 1,25). Phân tích chi tiết theo loại bắt nạt là điểm mạnh phương",
+      "evidence": {
+        "source": "QT007",
+        "metric": "OR",
+        "value": 1.25,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Depression",
+        "instrument": "GAD-7",
+        "n": 63205,
+        "population": "học sinh trung học Trung Quốc » (Prevalence and"
+      }
+    },
+    {
+      "assertion": "ng giấc ngủ và chơi game là hai mục tiêu can thiệp ưu tiên (OR = 6,99 và 5,00). Bắt nạt học đường, đặc biệt thao túng xã hội và b",
+      "evidence": {
+        "source": "QT007",
+        "metric": "OR",
+        "value": 6.99,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Depression",
+        "instrument": "GAD-7",
+        "n": 63205,
+        "population": "học sinh trung học Trung Quốc » (Prevalence and"
+      }
+    },
+    {
+      "assertion": "Khi trường có dịch vụ SKTT đầy đủ, nguy cơ lo âu nặng giảm (OR = 0,562), gợi ý can thiệp hiệu quả dựa trên trường học. Kết luận Dữ",
+      "evidence": {
+        "source": "QT008",
+        "metric": "OR",
+        "value": 0.562,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Anxiety",
+        "instrument": "GAD-7",
+        "n": 900,
+        "population": "900 học sinh lớp 9–12 (tuổi TB 14,14) tại 6 huyện nông thôn tỉnh Giang"
+      }
+    },
+    {
+      "assertion": "lo âu nặng, với áp lực học tập là yếu tố nguy cơ mạnh nhất (OR = 11,6). Hỗ trợ SKTT tại trường giảm nguy cơ lo âu nặng (OR = 0,56",
+      "evidence": {
+        "source": "QT008",
+        "metric": "OR",
+        "value": 11.6,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Anxiety",
+        "instrument": "GAD-7",
+        "n": 900,
+        "population": "900 học sinh lớp 9–12 (tuổi TB 14,14) tại 6 huyện nông thôn tỉnh Giang"
+      }
+    },
+    {
+      "assertion": "OR = 11,6). Hỗ trợ SKTT tại trường giảm nguy cơ lo âu nặng (OR = 0,562). Nữ sinh có nguy cơ cao gấp gần 4 lần nam sinh. Giảm áp lự",
+      "evidence": {
+        "source": "QT008",
+        "metric": "OR",
+        "value": 0.562,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Anxiety",
+        "instrument": "GAD-7",
+        "n": 900,
+        "population": "900 học sinh lớp 9–12 (tuổi TB 14,14) tại 6 huyện nông thôn tỉnh Giang"
+      }
+    },
+    {
+      "assertion": "ng phục hồi thấp* là yếu tố nguy cơ mạnh nhất cho trầm cảm (OR = 6,74) — gợi ý can thiệp tăng cường khả năng phục hồi (resilience",
+      "evidence": {
+        "source": "QT009",
+        "metric": "OR",
+        "value": 6.74,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Depression",
+        "instrument": "CES-D",
+        "n": 79,
+        "population": "079 học sinh (tuổi TB 16,7) tại thành phố Hợp Phì"
+      }
+    },
+    {
+      "assertion": "hể hiệu quả. *Nuôi dạy tích cực* giảm nguy cơ trầm cảm 70% (OR = 0,30) và lo âu 68% (OR = 0,32), tương tự phát hiện của Pham và c",
+      "evidence": {
+        "source": "QT009",
+        "metric": "OR",
+        "value": 0.3,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Anxiety",
+        "instrument": "CES-D",
+        "n": 79,
+        "population": "079 học sinh (tuổi TB 16,7) tại thành phố Hợp Phì"
+      }
+    },
+    {
+      "assertion": "ch cực* giảm nguy cơ trầm cảm 70% (OR = 0,30) và lo âu 68% (OR = 0,32), tương tự phát hiện của Pham và cộng sự (2024) tại Việt Na",
+      "evidence": {
+        "source": "QT009",
+        "metric": "OR",
+        "value": 0.32,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Anxiety",
+        "instrument": "CES-D",
+        "n": 79,
+        "population": "079 học sinh (tuổi TB 16,7) tại thành phố Hợp Phì"
+      }
+    },
+    {
+      "assertion": "lo âu 13,4% ở học sinh Trung Quốc. Khả năng phục hồi thấp (OR = 6,74) và nuôi dạy tiêu cực (OR = 2,01) là yếu tố nguy cơ mạnh nh",
+      "evidence": {
+        "source": "QT009",
+        "metric": "OR",
+        "value": 6.74,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Anxiety",
+        "instrument": "CES-D",
+        "n": 79,
+        "population": "079 học sinh (tuổi TB 16,7) tại thành phố Hợp Phì"
+      }
+    },
+    {
+      "assertion": "c. Khả năng phục hồi thấp (OR = 6,74) và nuôi dạy tiêu cực (OR = 2,01) là yếu tố nguy cơ mạnh nhất. Nuôi dạy tích cực là yếu tố b",
+      "evidence": {
+        "source": "QT009",
+        "metric": "OR",
+        "value": 2.01,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Anxiety",
+        "instrument": "CES-D",
+        "n": 79,
+        "population": "079 học sinh (tuổi TB 16,7) tại thành phố Hợp Phì"
+      }
+    },
+    {
+      "assertion": "ành thị.* Khoảng cách nông thôn-thành thị (11,33% vs 8,77%, OR = 1,30) phản ánh bất bình đẳng trong tiếp cận dịch vụ SKTT, tương",
+      "evidence": {
+        "source": "QT010",
+        "metric": "OR",
+        "value": 1.3,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Anxiety",
+        "instrument": "GAD-7",
+        "n": 34276,
+        "population": "216 học sinh trung học tại Trung Quốc » (Prevalence and Risk Factor"
+      }
+    },
+    {
+      "assertion": "ảnh hưởng nặng hơn nam ở cả 3 tình trạng. Đồng mắc rất cao (OR = 9,77–17,26). Cần tăng cường nhận thức của giáo viên và phụ huynh",
+      "evidence": {
+        "source": "QT011",
+        "metric": "OR",
+        "value": 9.77,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Stress",
+        "instrument": "DASS-21",
+        "n": 288,
+        "population": "288 học sinh (13–21 tuổi, 72,9% nhóm 16–18) tại 5 trường công lập ở C"
+      }
+    },
+    {
+      "assertion": "u NC khác ở Trung Quốc. PHÁT HIỆN THEN CHỐT: Ngủ < 5 giờ có AOR = 13,71 cho \"trầm cảm chắc chắn\" — yếu tố nguy cơ mạnh nhất được ph",
+      "evidence": {
+        "source": "QT015",
+        "metric": "AOR",
+        "value": 13.71,
+        "CI": null,
+        "p": null,
+        "design": "meta-analysis",
+        "outcome": "Depression",
+        "instrument": "GAD-7",
+        "n": 9831,
+        "population": "831 học sinh THCS và THPT tại Suzhou"
+      }
+    },
+    {
+      "assertion": "bao gồm cả giai đoạn COVID. BMC Public Health Q1. Phát hiện AOR=13,71 cho giấc ngủ < 5h là CON SỐ ĐÁNG NHỚ — dễ ứng dụng cho can",
+      "evidence": {
+        "source": "QT015",
+        "metric": "AOR",
+        "value": 13.71,
+        "CI": null,
+        "p": null,
+        "design": "meta-analysis",
+        "outcome": "Depression",
+        "instrument": "GAD-7",
+        "n": 9831,
+        "population": "831 học sinh THCS và THPT tại Suzhou"
+      }
+    },
+    {
+      "assertion": "ò giấc ngủ (VN có Hoàng Trung Học 2025 đã ghi nhận giấc ngủ β = −0,149). Nghiên cứu dọc theo dõi cùng nhóm qua COVID. RCT can thiệ",
+      "evidence": {
+        "source": "QT015",
+        "metric": "β",
+        "value": -0.149,
+        "CI": null,
+        "p": null,
+        "design": "meta-analysis",
+        "outcome": "Depression",
+        "instrument": "GAD-7",
+        "n": 9831,
+        "population": "831 học sinh THCS và THPT tại Suzhou"
+      }
+    },
+    {
+      "assertion": ". Đánh giá chất lượng: ⭐⭐⭐⭐ Cao. BMC Q1, mẫu lớn, phát hiện AOR=13,71 giấc ngủ rất quan trọng cho thực hành. Yếu tố | AOR | KTC 9",
+      "evidence": {
+        "source": "QT015",
+        "metric": "AOR",
+        "value": 13.71,
+        "CI": null,
+        "p": null,
+        "design": "meta-analysis",
+        "outcome": "Depression",
+        "instrument": "GAD-7",
+        "n": 9831,
+        "population": "831 học sinh THCS và THPT tại Suzhou"
+      }
+    },
+    {
+      "assertion": "với Nature 2025 (Fassi et al.: VTN SKTT dùng MXH nhiều hơn, g = 0,46). Tuy nhiên, bằng chứng vẫn lẫn lộn — Li 2025 (BJCP) tìm th",
+      "evidence": {
+        "source": "QT021",
+        "metric": "g",
+        "value": 0.46,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Depression",
+        "instrument": "GAD-7",
+        "n": 979043,
+        "population": ""
+      }
+    },
+    {
+      "assertion": "Đối chiếu liên bài Thiết kế dọc bổ sung cho Chen 2023 (game OR = 5,00 — cắt ngang), Hoàng Trung Học 2025 (điện tử Beta = 0,176 —",
+      "evidence": {
+        "source": "QT022",
+        "metric": "OR",
+        "value": 5.0,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Depression",
+        "instrument": "PHQ-9",
+        "n": 4058,
+        "population": "VTN Úc (tuổi TB = 13,9) từ 134 trường trung học"
+      }
+    },
+    {
+      "assertion": "ảng 1. Kết quả chính Đối chiếu liên bài Lo âu tăng gấp đôi (AOR = 2,17) — xu hướng nhất quán toàn cầu: Norway 2025 (13 năm tăng),",
+      "evidence": {
+        "source": "QT023",
+        "metric": "AOR",
+        "value": 2.17,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Anxiety",
+        "instrument": "GAD-7",
+        "n": 13684154,
+        "population": ""
+      }
+    },
+    {
+      "assertion": "qua kết quả nghiên cứu *Lo âu — rối loạn tăng nhanh nhất.* AOR = 2,17 vượt trội trầm cảm (1,20) và sang chấn (1,31). Lo âu đang t",
+      "evidence": {
+        "source": "QT023",
+        "metric": "AOR",
+        "value": 2.17,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Anxiety",
+        "instrument": "GAD-7",
+        "n": 13684154,
+        "population": ""
+      }
+    },
+    {
+      "assertion": "trẻ em/VTN phương Tây. *Lo âu tăng mạnh nhất ở 15–17 tuổi* (AOR = 2,93 — gần gấp BA). *Lưỡng cực giảm 8 lần* — phản ánh thay đổi t",
+      "evidence": {
+        "source": "QT023",
+        "metric": "AOR",
+        "value": 2.93,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Anxiety",
+        "instrument": "GAD-7",
+        "n": 13684154,
+        "population": ""
+      }
+    },
+    {
+      "assertion": "13,7 triệu hồ sơ lâm sàng Mỹ, cho thấy lo âu tăng gấp đôi (AOR = 2,17) trong 8 năm — xu hướng mạnh nhất, đặc biệt ở 15–17 tuổi, g",
+      "evidence": {
+        "source": "QT023",
+        "metric": "AOR",
+        "value": 2.17,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Anxiety",
+        "instrument": "GAD-7",
+        "n": 13684154,
+        "population": ""
+      }
+    },
+    {
+      "assertion": "ch hợp SKTT vào giáo dục* — phù hợp Wen 2020 (hỗ trợ trường OR = 0,562) và Zhameden 2025 (can thiệp trường LMIC). *Lo âu + trầm cả",
+      "evidence": {
+        "source": "QT024",
+        "metric": "OR",
+        "value": 0.562,
+        "CI": null,
+        "p": null,
+        "design": "RCT",
+        "outcome": "Anxiety",
+        "instrument": null,
+        "n": null,
+        "population": ""
+      }
+    },
+    {
+      "assertion": "ờng học | SKTT vào giáo dục | MindMatters, SEAL | Wen 2020: OR = 0,562 bảo vệ MXH | Yếu tố nguy cơ | Kiểm soát nội dung | Norway 2",
+      "evidence": {
+        "source": "QT024",
+        "metric": "OR",
+        "value": 0.562,
+        "CI": null,
+        "p": null,
+        "design": "RCT",
+        "outcome": "Anxiety",
+        "instrument": null,
+        "n": null,
+        "population": ""
+      }
+    },
+    {
+      "assertion": "cho VN Trường học | Tích hợp SKTT vào giáo dục | Wen 2020: OR = 0,562 Dịch vụ | Phát triển cộng đồng | VN: 8,4% tiếp cận MXH | Ki",
+      "evidence": {
+        "source": "QT024",
+        "metric": "OR",
+        "value": 0.562,
+        "CI": null,
+        "p": null,
+        "design": "RCT",
+        "outcome": "Depression",
+        "instrument": null,
+        "n": null,
+        "population": ""
+      }
+    },
+    {
+      "assertion": "16–24 | Bài này Hoa Kỳ (JAACAP) | 2013–2021 | Lo âu +100% (AOR=2,17) | QT23 Hoa Kỳ (NSCH) | 2016–2023 | Lo âu +61% | Bài 04 Na",
+      "evidence": {
+        "source": "QT026",
+        "metric": "AOR",
+        "value": 2.17,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Anxiety",
+        "instrument": "SDQ",
+        "n": null,
+        "population": ""
+      }
+    },
+    {
+      "assertion": "giảm screen time cải thiện SKTT (RCT); (4) Chen 2023 — game OR = 5,00; (5) Norway 2025 — MXH giải thích xu hướng tăng; (6) Hoàng",
+      "evidence": {
+        "source": "QT027",
+        "metric": "OR",
+        "value": 5.0,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Anxiety",
+        "instrument": "GAD-7",
+        "n": 3340,
+        "population": ""
+      }
+    },
+    {
+      "assertion": ",0 Chen 2023 (bài 07) | Cắt ngang, n=63.205 | Rối loạn game OR = 5,00 | 4,4 Norway 2025 (QT21) | Xu hướng 13 năm | MXH giải thích",
+      "evidence": {
+        "source": "QT027",
+        "metric": "OR",
+        "value": 5.0,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Depression",
+        "instrument": "GAD-7",
+        "n": 3340,
+        "population": ""
+      }
+    },
+    {
+      "assertion": "tốt nhất | Ít LMIC Wen 2020 | Quan sát | Hỗ trợ SKTT trường OR=0,562 | Cắt ngang Hoàng Trung Học VN | Hồi quy | Gia đình Beta=0,",
+      "evidence": {
+        "source": "QT028",
+        "metric": "OR",
+        "value": 0.562,
+        "CI": null,
+        "p": null,
+        "design": "meta-analysis",
+        "outcome": "Depression",
+        "instrument": null,
+        "n": 559,
+        "population": ""
+      }
+    },
+    {
+      "assertion": "t thấp, 0 VN Wen 2020 | Quan sát nông thôn TQ | SKTT trường OR = 0,562 | Không can thiệp",
+      "evidence": {
+        "source": "QT029",
+        "metric": "OR",
+        "value": 0.562,
+        "CI": null,
+        "p": null,
+        "design": "meta-analysis",
+        "outcome": "SAD",
+        "instrument": "SAS",
+        "n": 711,
+        "population": ""
+      }
+    },
+    {
+      "assertion": "nguy cơ nhất quán liên quốc gia, phù hợp Chen 2023 (bắt nạt OR = 1,51–1,97) và Ngo Anh Vinh 2024 (bạn bè kém OR = 6,84). *Hỗ trợ",
+      "evidence": {
+        "source": "QT031",
+        "metric": "OR",
+        "value": 1.51,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Depression",
+        "instrument": "GAD-7",
+        "n": 179937,
+        "population": ""
+      }
+    },
+    {
+      "assertion": "3 (bắt nạt OR = 1,51–1,97) và Ngo Anh Vinh 2024 (bạn bè kém OR = 6,84). *Hỗ trợ cha mẹ bảo vệ.* Phù hợp Pham 2024 VN (chăm sóc cả",
+      "evidence": {
+        "source": "QT031",
+        "metric": "OR",
+        "value": 6.84,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Depression",
+        "instrument": "GAD-7",
+        "n": 179937,
+        "population": ""
+      }
+    },
+    {
+      "assertion": "ăm sóc cảm xúc beta = –0,40) và Qiu 2022 (nuôi dạy tích cực OR = 0,30). Kết luận Dữ liệu GSHS từ 59 quốc gia, cho thấy ĐNA có tỷ",
+      "evidence": {
+        "source": "QT031",
+        "metric": "OR",
+        "value": 0.3,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Anxiety",
+        "instrument": "GAD-7",
+        "n": 179937,
+        "population": ""
+      }
+    },
+    {
+      "assertion": "ăm | Decomposition Hoa Kỳ (QT23) | 2013–2021 | Lo âu +100% (AOR=2,17) | Hồ sơ lâm sàng Hàn Quốc (QT34) | 2006–2022 | Giảm trước,",
+      "evidence": {
+        "source": "QT032",
+        "metric": "AOR",
+        "value": 2.17,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Anxiety",
+        "instrument": "DASS-21",
+        "n": 5490,
+        "population": ""
+      }
+    },
+    {
+      "assertion": "ng Trung Học 2025 (điện tử Beta = 0,176) và Chen 2023 (game OR = 5,00), cung cấp cơ sở mạnh cho can thiệp quản lý thời gian màn h",
+      "evidence": {
+        "source": "QT033",
+        "metric": "OR",
+        "value": 5.0,
+        "CI": null,
+        "p": null,
+        "design": "meta-analysis",
+        "outcome": "Depression",
+        "instrument": "SIAS",
+        "n": 63205,
+        "population": ""
+      }
+    },
+    {
+      "assertion": "Trung bình Chen 2023 (bài 07) | Cắt ngang, n=63.205 | Game OR = 5,00 | Trung bình Hoàng Trung Học VN | Cắt ngang, n=8.473 | Điện",
+      "evidence": {
+        "source": "QT033",
+        "metric": "OR",
+        "value": 5.0,
+        "CI": null,
+        "p": null,
+        "design": "meta-analysis",
+        "outcome": "Depression",
+        "instrument": "SIAS",
+        "n": 63205,
+        "population": ""
+      }
+    },
+    {
+      "assertion": "d 2024 (QT32, OGA bảo vệ), Islam 2025 (QT31, không bạn thân AOR=1,28). Giấc ngủ — phù hợp Zhu 2025 (QT05, <5h AOR=13,71). GAD-7",
+      "evidence": {
+        "source": "QT036",
+        "metric": "AOR",
+        "value": 1.28,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Depression",
+        "instrument": "GAD-7",
+        "n": 213820,
+        "population": "VTN: Nghiên cứu học máy » (Key risk factors of GAD in adolescents: machine learn"
+      }
+    },
+    {
+      "assertion": "bạn thân AOR=1,28). Giấc ngủ — phù hợp Zhu 2025 (QT05, <5h AOR=13,71). GAD-7 — phù hợp Hoa 2024 (VN01, 40,6% nhưng ≥5). ML trên",
+      "evidence": {
+        "source": "QT036",
+        "metric": "AOR",
+        "value": 13.71,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Depression",
+        "instrument": "GAD-7",
+        "n": 213820,
+        "population": "VTN: Nghiên cứu học máy » (Key risk factors of GAD in adolescents: machine learn"
+      }
+    },
+    {
+      "assertion": "iấc ngủ phục hồi kém | 0,10 | 5.081 | 0,02 | Zhu 2025 QT05: AOR=13,71 5 | Bạo lực | 0,10 | 5.117 | 0,01 | VN15: ACEs→lo âu Chỉ số",
+      "evidence": {
+        "source": "QT036",
+        "metric": "AOR",
+        "value": 13.71,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Anxiety",
+        "instrument": "GAD-7",
+        "n": 213820,
+        "population": "VTN: Nghiên cứu học máy » (Key risk factors of GAD in adolescents: machine learn"
+      }
+    },
+    {
+      "assertion": "hi của mô hình. Lo âu giảm có ý nghĩa thống kê sau 3 tháng: β = −0,096 (KTC 95 %: −0,186 đến −0,005, p = 0,038). Tự trọng (self-es",
+      "evidence": {
+        "source": "QT038",
+        "metric": "β",
+        "value": -0.096,
+        "CI": null,
+        "p": null,
+        "design": "RCT",
+        "outcome": "Anxiety",
+        "instrument": "GAD-7",
+        "n": 720,
+        "population": ""
+      }
+    },
+    {
+      "assertion": "Kết quả nghiên cứu iCBT (CBT qua internet) đứng HẠNG 1 với SUCRA = 71,2 % — bằng chứng mạnh nhất cho can thiệp SAD ở VTN. gCBT (CBT",
+      "evidence": {
+        "source": "QT039",
+        "metric": "SUCRA",
+        "value": 71.2,
+        "CI": null,
+        "p": null,
+        "design": "meta-analysis",
+        "outcome": "SAD",
+        "instrument": "SAS",
+        "n": null,
+        "population": ""
+      }
+    },
+    {
+      "assertion": "ất cho can thiệp SAD ở VTN. gCBT (CBT nhóm) đứng hạng 2 với SUCRA = 68,4 %. Hai phát hiện phụ quan trọng: (1) iCBT cho hiệu quả tốt",
+      "evidence": {
+        "source": "QT039",
+        "metric": "SUCRA",
+        "value": 68.4,
+        "CI": null,
+        "p": null,
+        "design": "meta-analysis",
+        "outcome": "Depression",
+        "instrument": "SAS",
+        "n": null,
+        "population": ""
+      }
+    },
+    {
+      "assertion": "ứu DMHI có hiệu lực TRUNG BÌNH so với bất kỳ đối chứng nào (g = 0,508; KTC 95 %: 0,308–0,707). Hai phát hiện cốt lõi: (1) DMHI th",
+      "evidence": {
+        "source": "QT040",
+        "metric": "g",
+        "value": 0.508,
+        "CI": null,
+        "p": null,
+        "design": "systematic-review",
+        "outcome": "SAD",
+        "instrument": null,
+        "n": null,
+        "population": ""
+      }
+    },
+    {
+      "assertion": "õi: (1) DMHI thiết kế ĐẶC THÙ cho SAD có hiệu lực LỚN NHẤT (g = 0,878), gần gấp đôi DMHI tổng quát; (2) DMHI có HƯỚNG DẪN người (",
+      "evidence": {
+        "source": "QT040",
+        "metric": "g",
+        "value": 0.878,
+        "CI": null,
+        "p": null,
+        "design": "systematic-review",
+        "outcome": "SAD",
+        "instrument": null,
+        "n": null,
+        "population": ""
+      }
+    },
+    {
+      "assertion": "), gần gấp đôi DMHI tổng quát; (2) DMHI có HƯỚNG DẪN người (g = 0,825) hiệu lực gần gấp đôi DMHI không hướng dẫn (g ≈ 0,3–0,4). P",
+      "evidence": {
+        "source": "QT040",
+        "metric": "g",
+        "value": 0.825,
+        "CI": null,
+        "p": null,
+        "design": "systematic-review",
+        "outcome": "SAD",
+        "instrument": null,
+        "n": null,
+        "population": ""
+      }
+    },
+    {
+      "assertion": "lực HT r = 0,505, MXH r = 0,415. Hồi quy đa biến: giấc ngủ β = 0,615 (mạnh nhất), áp lực β = 0,223, MXH β = 0,153. PHÁT HIỆN QUA",
+      "evidence": {
+        "source": "QT041",
+        "metric": "β",
+        "value": 0.615,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Stress",
+        "instrument": "GAD-7",
+        "n": 469,
+        "population": ""
+      }
+    },
+    {
+      "assertion": "15. Hồi quy đa biến: giấc ngủ β = 0,615 (mạnh nhất), áp lực β = 0,223, MXH β = 0,153. PHÁT HIỆN QUAN TRỌNG: self-efficacy là biến",
+      "evidence": {
+        "source": "QT041",
+        "metric": "β",
+        "value": 0.223,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Stress",
+        "instrument": "GAD-7",
+        "n": 469,
+        "population": ""
+      }
+    },
+    {
+      "assertion": "biến: giấc ngủ β = 0,615 (mạnh nhất), áp lực β = 0,223, MXH β = 0,153. PHÁT HIỆN QUAN TRỌNG: self-efficacy là biến TRUNG GIAN — M",
+      "evidence": {
+        "source": "QT041",
+        "metric": "β",
+        "value": 0.153,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Stress",
+        "instrument": "GAD-7",
+        "n": 469,
+        "population": ""
+      }
+    },
+    {
+      "assertion": "-efficacy, không trực tiếp. Phù hợp Zhu QT05 (giấc ngủ < 5h AOR = 13,71). GAD-7 cùng công cụ với Hoa 2024 và A8 VN COVID. Hạn chế:",
+      "evidence": {
+        "source": "QT041",
+        "metric": "AOR",
+        "value": 13.71,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Anxiety",
+        "instrument": "GAD-7",
+        "n": 469,
+        "population": ""
+      }
+    },
+    {
+      "assertion": "thời gian: Trên các thang đo phụ: ASI (anxiety sensitivity) Cohen d = 0,93 (tuần 6); LSAS (lo âu xã hội) d = 1,07 (tuần 12). Giả thuyế",
+      "evidence": {
+        "source": "QT043",
+        "metric": "d",
+        "value": 0.93,
+        "CI": null,
+        "p": null,
+        "design": "RCT",
+        "outcome": "Anxiety",
+        "instrument": "SAS",
+        "n": 59,
+        "population": ""
+      }
+    },
+    {
+      "assertion": "y sensitivity) Cohen d = 0,93 (tuần 6); LSAS (lo âu xã hội) d = 1,07 (tuần 12). Giả thuyết chính (gain-frame + social support hi",
+      "evidence": {
+        "source": "QT043",
+        "metric": "d",
+        "value": 1.07,
+        "CI": null,
+        "p": null,
+        "design": "RCT",
+        "outcome": "Anxiety",
+        "instrument": "SAS",
+        "n": 59,
+        "population": ""
+      }
+    },
+    {
+      "assertion": "ng chất lượng cực cao. RCT đăng ký pre-registered. Hiệu lực Cohen d = 1,04 là RẤT LỚN cho can thiệp app — gần như tương đương CBT mặt",
+      "evidence": {
+        "source": "QT043",
+        "metric": "d",
+        "value": 1.04,
+        "CI": null,
+        "p": null,
+        "design": "RCT",
+        "outcome": "Depression",
+        "instrument": "SAS",
+        "n": 59,
+        "population": ""
+      }
+    },
+    {
+      "assertion": ". Đánh giá chất lượng: ⭐⭐⭐⭐⭐ Rất cao. RCT JAMA Q1, hiệu lực Cohen d = 1,04 cho mobile app CBT. Thời điểm | Chênh lệch HAM-A | KTC 95 %",
+      "evidence": {
+        "source": "QT043",
+        "metric": "d",
+        "value": 1.04,
+        "CI": null,
+        "p": null,
+        "design": "RCT",
+        "outcome": "Depression",
+        "instrument": "SAS",
+        "n": 59,
+        "population": ""
+      }
+    },
+    {
+      "assertion": "ay thế. Phù hợp với Trần Thảo Vi 2025 (lạc quan trung gian, β = −0,24) và Ireland MyWorld 2024 (resilience + tự trọng quan trọng",
+      "evidence": {
+        "source": "QT044",
+        "metric": "β",
+        "value": -0.24,
+        "CI": null,
+        "p": null,
+        "design": "systematic-review",
+        "outcome": "Depression",
+        "instrument": null,
+        "n": 10,
+        "population": ""
+      }
+    },
+    {
+      "assertion": "g SKTT VTN châu Á — đã được xác nhận bởi VN21 Trần Thảo Vi (β = 4,73 cho học thêm), Wen QT08 (OR = 11,58 cho áp lực HT), Norway",
+      "evidence": {
+        "source": "QT046",
+        "metric": "β",
+        "value": 4.73,
+        "CI": null,
+        "p": null,
+        "design": "meta-analysis",
+        "outcome": "Stress",
+        "instrument": null,
+        "n": 376,
+        "population": "HS trung học"
+      }
+    },
+    {
+      "assertion": "ận bởi VN21 Trần Thảo Vi (β = 4,73 cho học thêm), Wen QT08 (OR = 11,58 cho áp lực HT), Norway QT21, UNICEF VN22 (47 % HS học thêm",
+      "evidence": {
+        "source": "QT046",
+        "metric": "OR",
+        "value": 11.58,
+        "CI": null,
+        "p": null,
+        "design": "meta-analysis",
+        "outcome": "Stress",
+        "instrument": null,
+        "n": 376,
+        "population": "HS trung học"
+      }
+    },
+    {
+      "assertion": "BT (RCT đa trung tâm dương tính cho SAD) và Walder DMHI MA (g = 0,878 cho SAD-specific). Lý do: các app trong Qiaochu có thể là c",
+      "evidence": {
+        "source": "QT050",
+        "metric": "g",
+        "value": 0.878,
+        "CI": null,
+        "p": null,
+        "design": "systematic-review",
+        "outcome": "Depression",
+        "instrument": null,
+        "n": 2479,
+        "population": ""
+      }
+    },
+    {
+      "assertion": "N. Phù hợp với phát hiện Dong QT47 (kênh giao tiếp gia đình OR = 0,22) và UNICEF VN22 + đề cương VN. Cảnh báo: TQ + ĐNA chiếm phầ",
+      "evidence": {
+        "source": "QT051",
+        "metric": "OR",
+        "value": 0.22,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Unknown",
+        "instrument": null,
+        "n": null,
+        "population": ""
+      }
+    },
+    {
+      "assertion": "2023 (COVID, phân biệt đối xử) và Wen 2020 (áp lực học tập OR=11,6). Kết luận Lo âu 40,6% ở 3.910 HS THPT Hà Nội sau COVID-19.",
+      "evidence": {
+        "source": "VN001",
+        "metric": "OR",
+        "value": 11.6,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Anxiety",
+        "instrument": "GAD-7",
+        "n": 3910,
+        "population": "910 học sinh từ 13 trường THPT tại Hà Nội"
+      }
+    },
+    {
+      "assertion": "u et al. 2022: nuôi dạy tích cực giảm 70% nguy cơ trầm cảm (OR = 0,30) và 68% lo âu (OR = 0,32). Cả hai đều nhấn mạnh yếu tố gia",
+      "evidence": {
+        "source": "VN003",
+        "metric": "OR",
+        "value": 0.3,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Anxiety",
+        "instrument": "CES-D",
+        "n": 273,
+        "population": ""
+      }
+    },
+    {
+      "assertion": "ích cực giảm 70% nguy cơ trầm cảm (OR = 0,30) và 68% lo âu (OR = 0,32). Cả hai đều nhấn mạnh yếu tố gia đình/chăm sóc cảm xúc. •",
+      "evidence": {
+        "source": "VN003",
+        "metric": "OR",
+        "value": 0.32,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Anxiety",
+        "instrument": "CES-D",
+        "n": 273,
+        "population": ""
+      }
+    },
+    {
+      "assertion": "(2022) tại Trung Quốc: nuôi dạy tích cực giảm 70% trầm cảm (OR = 0,30). *Sử dụng thiết bị điện tử.* Thời gian dùng máy tính/điện",
+      "evidence": {
+        "source": "VN014",
+        "metric": "OR",
+        "value": 0.3,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Depression",
+        "instrument": "DASS-21",
+        "n": 8473,
+        "population": ""
+      }
+    },
+    {
+      "assertion": "ự Chen và cộng sự (2023) tại Trung Quốc (rối loạn chơi game OR = 5,00) và Nature Human Behaviour (2025): VTN có rối loạn SKTT dùn",
+      "evidence": {
+        "source": "VN014",
+        "metric": "OR",
+        "value": 5.0,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Depression",
+        "instrument": "DASS-21",
+        "n": 8473,
+        "population": ""
+      }
+    },
+    {
+      "assertion": "à yếu tố bảo vệ, phù hợp với Zhu và cộng sự (2025): ngủ <5h AOR = 13,71 cho trầm cảm, hoạt động ngoài trời 2–3h AOR = 0,557 bảo vệ.",
+      "evidence": {
+        "source": "VN014",
+        "metric": "AOR",
+        "value": 13.71,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Depression",
+        "instrument": "DASS-21",
+        "n": 8473,
+        "population": ""
+      }
+    },
+    {
+      "assertion": "ngủ <5h AOR = 13,71 cho trầm cảm, hoạt động ngoài trời 2–3h AOR = 0,557 bảo vệ. Kết luận Dữ liệu của chúng tôi, cho thấy sự giảm đá",
+      "evidence": {
+        "source": "VN014",
+        "metric": "AOR",
+        "value": 0.557,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Depression",
+        "instrument": "DASS-21",
+        "n": 8473,
+        "population": ""
+      }
+    },
+    {
+      "assertion": "u này không phân tích giới tính chi tiết cho lo âu — chỉ có OR = 1,29 cho căng thẳng ở nữ, không đạt ý nghĩa (P > 0,05). Đây là k",
+      "evidence": {
+        "source": "VN015",
+        "metric": "OR",
+        "value": 1.29,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Anxiety",
+        "instrument": "DASS-21",
+        "n": 845,
+        "population": ""
+      }
+    },
+    {
+      "assertion": "bạn bè.* Bạn bè kém (Poor) tăng nguy cơ trầm cảm cực mạnh: OR = 6,84 (KTC 2,03–23,02). Trong bối cảnh trường nội trú — nơi HS sống xa gia đình —",
+      "evidence": {
+        "source": "VN015",
+        "metric": "OR",
+        "value": 6.84,
+        "CI": [
+          2.03,
+          23.02
+        ],
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Depression",
+        "instrument": "DASS-21",
+        "n": 845,
+        "population": ""
+      }
+    },
+    {
+      "assertion": "gày.* Sử dụng internet hàng ngày (5h) bảo vệ hơn cuối tuần (OR = 0,43) — có thể do sử dụng đều đặn giúp kết nối xã hội tốt hơn. N",
+      "evidence": {
+        "source": "VN015",
+        "metric": "OR",
+        "value": 0.43,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Depression",
+        "instrument": "DASS-21",
+        "n": 845,
+        "population": ""
+      }
+    },
+    {
+      "assertion": "oef. = 0,16 | — | Dương, có ý nghĩa Bạn bè kém → trầm cảm | OR = 6,84*** | 2,03–23,02 | RẤT MẠNH Bạn bè kém → lo âu | Coef. = 0,5",
+      "evidence": {
+        "source": "VN015",
+        "metric": "OR",
+        "value": 6.84,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Anxiety",
+        "instrument": "DASS-21",
+        "n": 845,
+        "population": ""
+      }
+    },
+    {
+      "assertion": "0,54–1,46 | — | Fair/Poor đều tăng Sống ≥10 người → lo âu | OR = 0,51*** | 0,33–0,77 | Bảo vệ Hoạt động thể chất → lo âu | OR = 0",
+      "evidence": {
+        "source": "VN015",
+        "metric": "OR",
+        "value": 0.51,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Anxiety",
+        "instrument": "DASS-21",
+        "n": 845,
+        "population": ""
+      }
+    },
+    {
+      "assertion": "= 0,51*** | 0,33–0,77 | Bảo vệ Hoạt động thể chất → lo âu | OR = 0,72** | 0,51–1,00 | Bảo vệ Internet 5h/ngày → lo âu | OR = 0,43",
+      "evidence": {
+        "source": "VN015",
+        "metric": "OR",
+        "value": 0.72,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Anxiety",
+        "instrument": "DASS-21",
+        "n": 845,
+        "population": ""
+      }
+    },
+    {
+      "assertion": "OR = 0,72** | 0,51–1,00 | Bảo vệ Internet 5h/ngày → lo âu | OR = 0,43** | 0,21–0,86 | Bảo vệ (vs cuối tuần) TT từ bạn bè → lo âu",
+      "evidence": {
+        "source": "VN015",
+        "metric": "OR",
+        "value": 0.43,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Anxiety",
+        "instrument": "DASS-21",
+        "n": 845,
+        "population": ""
+      }
+    },
+    {
+      "assertion": "| 0,21–0,86 | Bảo vệ (vs cuối tuần) TT từ bạn bè → lo âu | OR = 0,57* | — | Bảo vệ",
+      "evidence": {
+        "source": "VN015",
+        "metric": "OR",
+        "value": 0.57,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Anxiety",
+        "instrument": "DASS-21",
+        "n": 845,
+        "population": ""
+      }
+    },
+    {
+      "assertion": "trung gian — phát hiện quan trọng:* Lạc quan → giảm lo âu (β = −0,15***) → giảm trầm cảm. Tác động gián tiếp qua lo âu (β = −0,2",
+      "evidence": {
+        "source": "VN019",
+        "metric": "β",
+        "value": -0.15,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Anxiety",
+        "instrument": "GAD-7",
+        "n": 685,
+        "population": "685 HS THPT (233 nam, 452 nữ, tuổi 15–18) tại Thừa Thiên Huế"
+      }
+    },
+    {
+      "assertion": "= −0,15***) → giảm trầm cảm. Tác động gián tiếp qua lo âu (β = −0,24) LỚN HƠN tác động trực tiếp (β = −0,21). *Lo âu có vai trò",
+      "evidence": {
+        "source": "VN019",
+        "metric": "β",
+        "value": -0.24,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Anxiety",
+        "instrument": "GAD-7",
+        "n": 685,
+        "population": "685 HS THPT (233 nam, 452 nữ, tuổi 15–18) tại Thừa Thiên Huế"
+      }
+    },
+    {
+      "assertion": "gián tiếp qua lo âu (β = −0,24) LỚN HƠN tác động trực tiếp (β = −0,21). *Lo âu có vai trò TRUNG GIAN:* Nghĩa là sự lạc quan giúp",
+      "evidence": {
+        "source": "VN019",
+        "metric": "β",
+        "value": -0.21,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Anxiety",
+        "instrument": "GAD-7",
+        "n": 685,
+        "population": "685 HS THPT (233 nam, 452 nữ, tuổi 15–18) tại Thừa Thiên Huế"
+      }
+    },
+    {
+      "assertion": "ESSA ≥59 tăng nguy cơ cả 3 chỉ số. Phù hợp Wen 2020 (áp lực OR = 11,6), Norway 2025 (bất mãn trường giải thích chính). *Cấu trúc",
+      "evidence": {
+        "source": "VN020",
+        "metric": "OR",
+        "value": 11.6,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Depression",
+        "instrument": "ESSA",
+        "n": 976,
+        "population": "976 HS THPT tại 2 trường TPHCM"
+      }
+    },
+    {
+      "assertion": "áo căng thẳng (hồi quy đa biến) Đối chiếu liên bài Học thêm β = 4,73 — phù hợp Wen 2020 (QT08, áp lực OR = 11,58 TQ nông thôn),",
+      "evidence": {
+        "source": "VN021",
+        "metric": "β",
+        "value": 4.73,
+        "CI": null,
+        "p": null,
+        "design": "cohort",
+        "outcome": "Stress",
+        "instrument": "GAD-7",
+        "n": 341,
+        "population": ""
+      }
+    },
+    {
+      "assertion": "liên bài Học thêm β = 4,73 — phù hợp Wen 2020 (QT08, áp lực OR = 11,58 TQ nông thôn), Norway 2025 (QT21, bất mãn trường giải thích",
+      "evidence": {
+        "source": "VN021",
+        "metric": "OR",
+        "value": 11.58,
+        "CI": null,
+        "p": null,
+        "design": "cohort",
+        "outcome": "Stress",
+        "instrument": "GAD-7",
+        "n": 341,
+        "population": ""
+      }
+    },
+    {
+      "assertion": "n trường giải thích chính). Nữ > nam — phù hợp 59 Countries AOR = 1,51 (Islam 2025, QT31), Ireland 2024 (QT32, nữ tăng nhanh hơn).",
+      "evidence": {
+        "source": "VN021",
+        "metric": "AOR",
+        "value": 1.51,
+        "CI": null,
+        "p": null,
+        "design": "cohort",
+        "outcome": "Depression",
+        "instrument": "GAD-7",
+        "n": 341,
+        "population": ""
+      }
+    },
+    {
+      "assertion": "đầu DỰ BÁO stress 3 năm sau. *Học thêm = yếu tố mạnh nhất (β = 4,73).* 92,1% HS học thêm — tỷ lệ cực cao. Cha mẹ cho con học th",
+      "evidence": {
+        "source": "VN021",
+        "metric": "β",
+        "value": 4.73,
+        "CI": null,
+        "p": null,
+        "design": "cohort",
+        "outcome": "Stress",
+        "instrument": "GAD-7",
+        "n": 341,
+        "population": ""
+      }
+    },
+    {
+      "assertion": "ớp 6 (M = 46,4) đến lớp 9 (M = 53,5, +15,3%), với học thêm (β = 4,73), cha học vấn cao (β = 3,20), và nhiều anh chị em (β = 2,24",
+      "evidence": {
+        "source": "VN021",
+        "metric": "β",
+        "value": 4.73,
+        "CI": null,
+        "p": null,
+        "design": "cohort",
+        "outcome": "Stress",
+        "instrument": "GAD-7",
+        "n": 341,
+        "population": ""
+      }
+    },
+    {
+      "assertion": "= 53,5, +15,3%), với học thêm (β = 4,73), cha học vấn cao (β = 3,20), và nhiều anh chị em (β = 2,24) là yếu tố dự báo mạnh nhất",
+      "evidence": {
+        "source": "VN021",
+        "metric": "β",
+        "value": 3.2,
+        "CI": null,
+        "p": null,
+        "design": "cohort",
+        "outcome": "Depression",
+        "instrument": "GAD-7",
+        "n": 341,
+        "population": ""
+      }
+    },
+    {
+      "assertion": "β = 4,73), cha học vấn cao (β = 3,20), và nhiều anh chị em (β = 2,24) là yếu tố dự báo mạnh nhất, gợi ý rằng giảm khối lượng học",
+      "evidence": {
+        "source": "VN021",
+        "metric": "β",
+        "value": 2.24,
+        "CI": null,
+        "p": null,
+        "design": "cohort",
+        "outcome": "Depression",
+        "instrument": "GAD-7",
+        "n": 341,
+        "population": ""
+      }
+    },
+    {
+      "assertion": "thiệp giảm học thêm + thể chất tại trường (BMC NMA QT29: PE SUCRA = 0,51). Đánh giá: ⭐⭐⭐⭐ Cao. NC dọc đầu tiên tại VN cho HS THCS. J",
+      "evidence": {
+        "source": "VN021",
+        "metric": "SUCRA",
+        "value": 0.51,
+        "CI": null,
+        "p": null,
+        "design": "cohort",
+        "outcome": "Depression",
+        "instrument": "ESSA",
+        "n": 341,
+        "population": ""
+      }
+    },
+    {
+      "assertion": "bài tập suốt — trường, bài tập, và mọi thứ.” Phù hợp VN21 (beta=4,73) và Wen 2020 (OR=11,58). *Kỳ thị SKTT vẫn phổ biến.* Gia đì",
+      "evidence": {
+        "source": "VN022",
+        "metric": "β",
+        "value": 4.73,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Depression",
+        "instrument": "GAD-7",
+        "n": 668,
+        "population": ""
+      }
+    },
+    {
+      "assertion": "bài tập, và mọi thứ.” Phù hợp VN21 (beta=4,73) và Wen 2020 (OR=11,58). *Kỳ thị SKTT vẫn phổ biến.* Gia đình miễn cưỡng tìm kiếm",
+      "evidence": {
+        "source": "VN022",
+        "metric": "OR",
+        "value": 11.58,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Depression",
+        "instrument": "GAD-7",
+        "n": 668,
+        "population": ""
+      }
+    },
+    {
+      "assertion": "g thẳng CHÍNH | 47% học thêm >3h/tuần; 15% >9h/tuần | VN21: beta=4,73; Wen QT08: OR=11,58 Gắn kết trường | Thấp → SKTT kém hơn |",
+      "evidence": {
+        "source": "VN022",
+        "metric": "β",
+        "value": 4.73,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Stress",
+        "instrument": "GAD-7",
+        "n": 668,
+        "population": ""
+      }
+    },
+    {
+      "assertion": "ọc thêm >3h/tuần; 15% >9h/tuần | VN21: beta=4,73; Wen QT08: OR=11,58 Gắn kết trường | Thấp → SKTT kém hơn | Nữ ít gắn kết hơn na",
+      "evidence": {
+        "source": "VN022",
+        "metric": "OR",
+        "value": 11.58,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Stress",
+        "instrument": "GAD-7",
+        "n": 668,
+        "population": ""
+      }
+    },
+    {
+      "assertion": "g | Yếu tố nguy cơ nghiêm trọng | THCS > THPT | Islam QT31: AOR=1,68 Quan hệ thầy-trò | HS không thoải mái tìm GV | Rào cản: bảo",
+      "evidence": {
+        "source": "VN022",
+        "metric": "AOR",
+        "value": 1.68,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Depression",
+        "instrument": "GAD-7",
+        "n": 668,
+        "population": ""
+      }
+    },
+    {
+      "assertion": "| Nữ cảm xúc > Nam; Nam hành vi > | SDQ-25 | Islam QT31: nữ AOR=1,51 Lĩnh vực | Khuyến nghị then chốt | Liên bài Giáo dục (MOET)",
+      "evidence": {
+        "source": "VN022",
+        "metric": "AOR",
+        "value": 1.51,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Depression",
+        "instrument": "SDQ",
+        "n": 668,
+        "population": ""
+      }
+    },
+    {
+      "assertion": "u tính theo công thức ước tính tỷ lệ quần thể với p = 0,85, d = 0,05, α = 0,05 → n_min = 195. Sinh viên trả lời trực tiếp tại ph",
+      "evidence": {
+        "source": "VN028",
+        "metric": "d",
+        "value": 0.05,
+        "CI": null,
+        "p": null,
+        "design": "cross-sectional",
+        "outcome": "Depression",
+        "instrument": "DASS-21",
+        "n": 195,
+        "population": ""
+      }
+    },
+    {
+      "assertion": "6 (kết cục chính): Kết cục phụ: • Phúc lợi tâm lý (MHC-SF): d = 0,13 (p < 0,05) ở 2 tuần, không còn ý nghĩa ở 6 tháng • CSES ứng",
+      "evidence": {
+        "source": "VN030",
+        "metric": "d",
+        "value": 0.13,
+        "CI": null,
+        "p": null,
+        "design": "quasi-RCT",
+        "outcome": "Depression",
+        "instrument": "CESD-R",
+        "n": 1084,
+        "population": ""
+      }
+    },
+    {
+      "assertion": "2 tuần, không còn ý nghĩa ở 6 tháng • CSES ứng phó vấn đề: d = 0,17–0,26 DUY TRÌ ở cả 2 tuần và 6 tháng * • CSES tìm kiếm hỗ tr",
+      "evidence": {
+        "source": "VN030",
+        "metric": "d",
+        "value": 0.17,
+        "CI": null,
+        "p": null,
+        "design": "quasi-RCT",
+        "outcome": "Depression",
+        "instrument": "CSES",
+        "n": 1084,
+        "population": ""
+      }
+    },
+    {
+      "assertion": "1) Can thiệp UNIVERSAL (không phải TARGETED) → hiệu ứng nhỏ d = 0,11; (2) FADE-OUT ở 6 tháng — gợi ý cần BOOSTER SESSIONS; (3) Đ",
+      "evidence": {
+        "source": "VN030",
+        "metric": "d",
+        "value": 0.11,
+        "CI": null,
+        "p": null,
+        "design": "quasi-RCT",
+        "outcome": "Anxiety",
+        "instrument": "GAD-7",
+        "n": 1084,
+        "population": ""
+      }
+    },
+    {
+      "assertion": "QUT–HUPH. Hạn chế: universal intervention với hiệu ứng nhỏ (d = 0,11), không đo lo âu riêng, không randomized. PHẢI trích dẫn tr",
+      "evidence": {
+        "source": "VN030",
+        "metric": "d",
+        "value": 0.11,
+        "CI": null,
+        "p": null,
+        "design": "quasi-RCT",
+        "outcome": "Anxiety",
+        "instrument": "GAD-7",
+        "n": 1084,
+        "population": ""
+      }
+    }
+  ]
+}

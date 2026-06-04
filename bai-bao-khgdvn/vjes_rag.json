@@ -1,0 +1,2607 @@
+{
+  "meta": {
+    "name": "VJES Guidelines RAG",
+    "version": "1.0",
+    "created": "2026-05-14 16:33",
+    "source": [
+      "bai-bao-khgdvn/huong-dan-tac-gia-tap-chi-khgdvn/1.Tóm tắt Hướng dẫn dành cho tác giả 2025.pdf",
+      "bai-bao-khgdvn/huong-dan-tac-gia-tap-chi-khgdvn/3. VJES. Hướng dẫn sắp xếp tài liệu tham khảo.pdf",
+      "bai-bao-khgdvn/huong-dan-tac-gia-tap-chi-khgdvn/VJES Article Template V06.2025.docx"
+    ],
+    "n_chunks": 30,
+    "topics": [
+      "bang_hinh",
+      "cau_truc_review_paper",
+      "dinh_ky",
+      "do_dai",
+      "format",
+      "heading",
+      "kiem_tra_ho_so",
+      "kinh_phi",
+      "llm",
+      "lo_chinh",
+      "nop_bai",
+      "phan_bien",
+      "sap_xep_tltk",
+      "tac_gia",
+      "template",
+      "ten_bai",
+      "the_loai_bai",
+      "thong_tin_chung",
+      "thuat_ngu",
+      "tltk",
+      "tltk_format_baibao",
+      "tltk_format_khac",
+      "tltk_format_sach",
+      "tom_tat",
+      "trich_dan",
+      "trich_dan_dac_biet",
+      "tu_khoa",
+      "turnitin"
+    ]
+  },
+  "chunks": [
+    {
+      "id": "VJES_01",
+      "topic": "thong_tin_chung",
+      "title": "Cơ quan chủ quản + tên tạp chí",
+      "content": "Tạp chí Khoa học Giáo dục Việt Nam (Vietnam Journal of Educational Sciences - VJES) là cơ quan ngôn luận khoa học của Viện Khoa học Giáo dục Việt Nam (VNIES). ISSN 2615-8957; e-ISSN 3030-4490. Tổng biên tập gắn với viện trưởng VNIES (thầy Lê Anh Vinh). Bài đăng VJES được Hội đồng Giáo sư Nhà nước tính đến 1 điểm.",
+      "source": "Hướng dẫn 2025 — Mục I.1"
+    },
+    {
+      "id": "VJES_02",
+      "topic": "thong_tin_chung",
+      "title": "Mục đích, phạm vi xuất bản",
+      "content": "VJES công bố các kết quả nghiên cứu lý luận + thực tiễn chất lượng cao trong giáo dục - đào tạo: lý thuyết, ứng dụng, đánh giá, triển khai, thực nghiệm, định hướng. Chủ đề: dạy-học; chiến lược, chính sách, quản lý giáo dục; điều kiện đảm bảo chất lượng các bậc học.",
+      "source": "Hướng dẫn 2025 — Mục I.1.1"
+    },
+    {
+      "id": "VJES_03",
+      "topic": "the_loai_bai",
+      "title": "6 thể loại bài chấp nhận",
+      "content": "VJES chấp nhận 6 thể loại: (1) Nghiên cứu gốc (Original research) — phổ biến nhất, 4 mục Giới thiệu / PP NC / Kết quả / Kết luận; (2) Tổng quan tài liệu (Review paper) — phân tích toàn diện tài liệu đã có, 4 mục như Original research; (3) Bài báo thực nghiệm (Experimental article) — lý thuyết + thực hành; (4) Bài báo phương pháp luận (Methodology paper); (5) Bài đánh giá (Review article); (6) Nghiên cứu trường hợp (Case studies) — 6 mục có Mô tả trường hợp + Thảo luận.",
+      "source": "Hướng dẫn 2025 — Mục 2.3.2"
+    },
+    {
+      "id": "VJES_04",
+      "topic": "cau_truc_review_paper",
+      "title": "Cấu trúc Review paper (Tổng quan tài liệu)",
+      "content": "Cấu trúc 4 mục BẮT BUỘC: (1) Giới thiệu / Đặt vấn đề; (2) Phương pháp nghiên cứu; (3) Kết quả nghiên cứu; (4) Kết luận. Có thể thêm mục Thảo luận (không bắt buộc). Review paper có 3 dạng: phân tích tổng hợp; đánh giá có hệ thống; đánh giá tài liệu.",
+      "source": "Hướng dẫn 2025 — Bảng thể loại + Template"
+    },
+    {
+      "id": "VJES_05",
+      "topic": "dinh_ky",
+      "title": "Định kỳ xuất bản",
+      "content": "VJES xuất bản 2 phiên bản: số tiếng Việt (12 số/năm, mỗi cuối tháng) và số tiếng Anh (4 số/năm vào cuối tháng 3, 6, 9, 12). Mỗi số có bản in + bản trực tuyến. Có thể có số đặc biệt (số chuyên đề).",
+      "source": "Hướng dẫn 2025 — Mục I.1.2"
+    },
+    {
+      "id": "VJES_06",
+      "topic": "phan_bien",
+      "title": "Quy trình phản biện",
+      "content": "Phản biện kín 2 chiều (double-blind peer review) bởi các nhà khoa học uy tín đúng lĩnh vực. Quy trình 6 bước: Tác giả gửi bài → Sơ loại → Phản biện kín 2 chiều → Sửa chữa → Quyết định của Tổng biên tập (Chấp nhận / Từ chối) → Chế bản và biên tập → Trực tuyến → Xuất bản.",
+      "source": "Hướng dẫn 2025 — Mục I.1.3"
+    },
+    {
+      "id": "VJES_07",
+      "topic": "kinh_phi",
+      "title": "Kinh phí xuất bản",
+      "content": "Bài số tiếng Việt: 2.500.000 VNĐ/bài (đóng SAU KHI bài được chấp nhận đăng). Bài số tiếng Anh: KHÔNG phải hỗ trợ kinh phí (theo quy định hiện hành). Tạp chí truy cập mở (Creative Commons Attribution-Non-Commercial-NoDerivatives 4.0).",
+      "source": "Hướng dẫn 2025 — Mục I.1.4"
+    },
+    {
+      "id": "VJES_08",
+      "topic": "turnitin",
+      "title": "Tỷ lệ trùng lặp Turnitin",
+      "content": "VJES kiểm tra trùng lặp qua Turnitin. KHUYẾN NGHỊ: tỷ lệ trùng lặp ≤ 25% (KHÔNG tính TLTK). Đây là TIÊU CHÍ SƠ LOẠI — Ban Biên tập căn cứ tỷ lệ + nội dung + mức độ trùng lặp để quyết định cuối cùng. → CHIẾN LƯỢC: paraphrase 100%; không copy từ tác phẩm đã upload Turnitin (luận án CTH, báo cáo Can thiệp v5, CLEAN_v3_CTH_v6).",
+      "source": "Hướng dẫn 2025 — Mục 2.1 điểm 9"
+    },
+    {
+      "id": "VJES_09",
+      "topic": "do_dai",
+      "title": "Độ dài bài + số trang",
+      "content": "Độ dài: TỐI THIỂU 5.000 TỪ, KHÔNG QUÁ 7.000 TỪ (tương đương 8-12 trang A4). Áp dụng cho TẤT CẢ thể loại bài.",
+      "source": "Hướng dẫn 2025 — Mục Định dạng văn bản"
+    },
+    {
+      "id": "VJES_10",
+      "topic": "format",
+      "title": "Định dạng văn bản",
+      "content": "Định dạng: Microsoft Word hoặc RTF (KHÔNG nhận PDF). Spacing: Before 3pt, After 3pt. Line spacing: Multiple 1.1. Font: Times New Roman. Cỡ chữ: Tên bài 12pt in đậm; Tóm tắt + Từ khóa 11pt thường (nhưng chữ 'Tóm tắt'/'Từ khóa' in đậm); Body 12pt. Đánh số trang tự động. Indent bằng tab, KHÔNG dùng phím cách. Bảng bằng chức năng table, không phải spreadsheet.",
+      "source": "Hướng dẫn 2025 — Mục Định dạng văn bản"
+    },
+    {
+      "id": "VJES_11",
+      "topic": "heading",
+      "title": "Mục và tiểu mục",
+      "content": "Tối đa 3 cấp độ heading. Cấp 1 (mục chính): chữ thường, in đậm. VD: '1. Đặt vấn đề'. Cấp 2 (tiểu mục cấp 1): chữ nghiêng, in đậm. VD: '2.3. Một số kết quả'. Cấp 3 (tiểu mục cấp 2): chữ nghiêng, in thường. VD: '2.3.1. Kết quả khảo sát'. KHÔNG dùng chú thích cuối trang (footnote). KHÔNG viết tắt (trừ thông lệ quốc tế).",
+      "source": "Hướng dẫn 2025 — Mục Mục và tiểu mục + Viết tắt"
+    },
+    {
+      "id": "VJES_12",
+      "topic": "ten_bai",
+      "title": "Tên bài báo",
+      "content": "Tên bài phải NGẮN GỌN: DƯỚI 40 KÝ TỰ, không quá 12 từ. Chứa 1-2 từ khóa chính. KHÔNG viết tắt trong tên bài. Bằng cả tiếng Việt + tiếng Anh. Thân thiện với công cụ tìm kiếm (SEO).",
+      "source": "Hướng dẫn 2025 — Mục 2.3.1 Tên bài báo"
+    },
+    {
+      "id": "VJES_13",
+      "topic": "tom_tat",
+      "title": "Tóm tắt (Abstract)",
+      "content": "Tóm tắt 150-250 TỪ, bằng cả VN + EN. KHÔNG chứa viết tắt không xác định hoặc TLTK. Phải trả lời 3 câu hỏi: (1) Mục đích NC + khoảng trống đang giải quyết; (2) Phương pháp đạt mục tiêu; (3) Kết quả quan trọng nhất. NÊN: dùng cụm từ trong tên bài ở 1-2 câu đầu (chỉ 2 câu đầu hiển thị trong kết quả công cụ tìm kiếm); lặp từ khóa 3-6 lần.",
+      "source": "Hướng dẫn 2025 — Mục 2.3.1 Tóm tắt"
+    },
+    {
+      "id": "VJES_14",
+      "topic": "tu_khoa",
+      "title": "Từ khóa",
+      "content": "TỪ KHÓA: 4-6 từ khóa (hoặc cụm từ khóa ngắn), bằng VN + EN. Phản ánh sát nhất nội dung bản thảo. NÊN tra Google Trends/AdWords trước khi chọn — từ khóa quan trọng với SEO + AI.",
+      "source": "Hướng dẫn 2025 — Mục 2.3.1 Từ khóa"
+    },
+    {
+      "id": "VJES_15",
+      "topic": "tac_gia",
+      "title": "Thông tin tác giả",
+      "content": "BẮT BUỘC ghi đầy đủ: (1) Họ + tên đầy đủ của các tác giả; (2) Đơn vị công tác, điện thoại, email (tương ứng từng tác giả); (3) Ghi rõ TÁC GIẢ LIÊN HỆ + email đang hoạt động; (4) ORCID (KHUYẾN NGHỊ — sẽ tự đính vào hồ sơ ORCID khi bài đăng). Đăng ký ORCID miễn phí tại https://orcid.org.",
+      "source": "Hướng dẫn 2025 — Mục 2.3.1 Thông tin tác giả"
+    },
+    {
+      "id": "VJES_16",
+      "topic": "llm",
+      "title": "Khai báo sử dụng LLM/AI",
+      "content": "Nếu tác giả đã sử dụng LLM (ChatGPT, Claude, ...) trong quá trình phát triển bài báo, PHẢI KHAI BÁO trong mục Phương pháp nghiên cứu (hoặc vị trí phù hợp khác). Phải nêu rõ: cách thức sử dụng công cụ + cách thức sử dụng dữ liệu mà công cụ tạo ra. VJES KHÔNG chấp nhận LLM làm đồng tác giả. Khuyến nghị tham chiếu EU AI Act.",
+      "source": "Hướng dẫn 2025 — Mục 2.1 điểm 12 + Mục Lưu ý"
+    },
+    {
+      "id": "VJES_17",
+      "topic": "tltk",
+      "title": "Quy định TLTK",
+      "content": "TLTK tuân thủ APA Style 7th Edition. Chỉ liệt kê tài liệu ĐÃ được trích dẫn trong văn bản và ngược lại. TLTK trực tuyến PHẢI có DOI hoặc URL kèm ngày truy cập. KHÔNG dùng footnote.",
+      "source": "Hướng dẫn 2025 — Mục 2.3.3 + Mục TLTK"
+    },
+    {
+      "id": "VJES_18",
+      "topic": "tltk_format_baibao",
+      "title": "TLTK: Bài báo tạp chí",
+      "content": "Bài báo (Anh): Họ, A. (năm). Tên bài viết in đứng. Tên tạp chí in nghiêng, Tập in nghiêng(Số in đứng), Trang đầu-Trang cuối. DOI. VD: Paivio, A. (1975). Perceptual comparisons through the mind's eye. Memory & Cognition, 3(1), 635-647. Bài báo (Việt): Họ và tên đầy đủ. (năm). Tên bài viết in đứng. Tên tạp chí in nghiêng, Tập(Số), trang. VD: Nguyễn Văn Hoàng. (2024). Một số giải pháp nâng cao chất lượng dạy học. Tạp chí Khoa học Giáo dục Việt Nam, 26(2), 12-20.",
+      "source": "Hướng dẫn APA 7 — Mục 2.1.1"
+    },
+    {
+      "id": "VJES_19",
+      "topic": "tltk_format_baibao",
+      "title": "TLTK: Bài báo nhiều tác giả",
+      "content": "2-7 tác giả: Liệt kê đầy đủ tất cả, tác giả cuối có '&'. VD: Grady, J. S., Her, M., Moreno, G., Perez, C., & Yelinek, J. (2019). Trên 20 tác giả: 19 tác giả đầu tiên + dấu cách-chấm-cách-chấm-cách-chấm-cách + tác giả cuối cùng. Tác giả VN: VIẾT ĐẦY ĐỦ HỌ VÀ TÊN (không viết tắt). VD: Nguyễn Văn Hoàng, Lê Văn Ngọc & Trần Anh. (2024).",
+      "source": "Hướng dẫn APA 7 — Mục 2.1.2 + 2.1.3"
+    },
+    {
+      "id": "VJES_20",
+      "topic": "tltk_format_sach",
+      "title": "TLTK: Sách + Chương sách",
+      "content": "Sách (Anh): Họ, A. (năm). Tên sách in nghiêng (Số lần xuất bản, Tập). Nhà xuất bản. DOI. VD: Strunk, W., Jr., Becker, E., & White, E. B. (1979). The guide to everything and then some more stuff (3rd ed.). Macmillan. Chương sách: Họ, A. (năm). Tên chương đứng. In B. Họ (Ed.), Tên sách in nghiêng (trang đầu-cuối). NXB.",
+      "source": "Hướng dẫn APA 7 — Mục 2.2 + 2.3"
+    },
+    {
+      "id": "VJES_21",
+      "topic": "tltk_format_khac",
+      "title": "TLTK: Báo cáo, Luận án, Hội thảo, Web",
+      "content": "Báo cáo: Các tác giả. (năm). Tiêu đề viết nghiêng (Số báo cáo). NXB. URL. Luận án/luận văn: Họ, A. (năm). Tên LA in nghiêng [Doctoral thesis, Tên CSĐT]. Tên cơ sở lưu trữ. URL. Hội thảo: Họ, A. (năm, ngày-ngày tháng). Tiêu đề bài in nghiêng [Paper presentation]. Tên Hội nghị, Thành phố, Quốc gia. Web: Họ, A. (năm). Tiêu đề bài viết in nghiêng. Tên trang in đứng. URL.",
+      "source": "Hướng dẫn APA 7 — Mục 2.4, 2.7, 2.8, 2.6"
+    },
+    {
+      "id": "VJES_22",
+      "topic": "sap_xep_tltk",
+      "title": "Sắp xếp danh sách TLTK",
+      "content": "Sắp xếp ALPHABET theo Họ tác giả đầu tiên (TLTK tiếng nước ngoài). TLTK tiếng Việt: sắp xếp theo TÊN (không phải họ). Cùng tác giả: theo thời gian từ xa đến gần. Cùng tác giả + cùng năm: thêm hậu tố a/b/c... (Berndt, T. J. (1981a), (1981b)). Cùng họ-cùng chữ đầu tên: thêm tên đầy đủ trong ngoặc vuông (Green, L. [Laura]).",
+      "source": "Hướng dẫn APA 7 — Mục 3"
+    },
+    {
+      "id": "VJES_23",
+      "topic": "trich_dan",
+      "title": "Trích dẫn trong văn bản (in-text)",
+      "content": "Phương pháp tác giả-năm (Jones, 1998). KHÔNG trực tiếp: chỉ cite tác giả + năm. Trực tiếp/mượn nguyên văn: thêm số trang (Jones, 1998, tr. 199) hoặc (Jones, 1998, tr. 199-201). Trích dẫn dài ≥ 40 từ: tách thành block riêng, thụt lề 1/2 inch, BỎ ngoặc kép. 2 tác giả: Walker và Allen (2004). 3+ tác giả: 'Wasserstein và cộng sự (2005)' hoặc '(Wasserstein & cs, 2005)'.",
+      "source": "Hướng dẫn APA 7 — Mục 4.1-4.4"
+    },
+    {
+      "id": "VJES_24",
+      "topic": "trich_dan_dac_biet",
+      "title": "Trích dẫn đặc biệt",
+      "content": "Nhiều tác phẩm trong 1 ngoặc: sắp xếp alphabet, ngăn cách bằng dấu chấm phẩy. VD: (Bộ Giáo dục, 1996; Durie, 2003; McShane & Travaglione, 2007). Cùng tác giả nhiều năm: liệt kê năm ngăn cách bằng dấu phẩy. VD: (Bộ Giáo dục, 1996, 1999). Trích nguồn thứ cấp (HẠN CHẾ): Wright (được trích dẫn bởi Bragdon, 2013, tr. 223). Chỉ đưa nguồn thứ cấp vào danh sách TLTK; tác phẩm gốc CHỈ trích trong văn bản.",
+      "source": "Hướng dẫn APA 7 — Mục 4.9"
+    },
+    {
+      "id": "VJES_25",
+      "topic": "kiem_tra_ho_so",
+      "title": "Checklist trước khi nộp bài",
+      "content": "12 điểm kiểm tra: (1) Phù hợp tôn chỉ VJES; (2) Bài CHƯA xuất bản/đang bình duyệt ở tạp chí khác; (3) Xác định đúng loại bài; (4) Hồ sơ có bản thảo (Word/RTF) + tệp nguồn bảng/hình riêng; (5) Bảng/hình ở định dạng CHỈNH SỬA ĐƯỢC; (6) TLTK online có DOI/URL; (8) Đề xuất người phản biện (tùy chọn); (9) Turnitin ≤25%; (10) Đồng thuận tất cả đồng tác giả; (11) Tuân thủ CC BY-NC-ND 4.0; (12) Khai báo LLM nếu sử dụng.",
+      "source": "Hướng dẫn 2025 — Mục 2.1"
+    },
+    {
+      "id": "VJES_26",
+      "topic": "nop_bai",
+      "title": "Cách nộp hồ sơ",
+      "content": "Email: vjes@vnies.edu.vn (hệ thống online đang bảo trì). Hồ sơ gồm: (i) Bản thảo Word/RTF/Open Office; (ii) Tệp nguồn bảng + hình (nếu có) RIÊNG BIỆT. KHÔNG chấp nhận PDF.",
+      "source": "Hướng dẫn 2025 — Mục 2.2"
+    },
+    {
+      "id": "VJES_27",
+      "topic": "template",
+      "title": "Template VJES 06.2025 — Cấu trúc",
+      "content": "Template có cả 2 ngôn ngữ: (Phần 1 EN) Title EN; Authors EN; Abstract EN + Keywords EN; Author info EN (đơn vị, địa chỉ, chức danh, email, ORCID); (Phần 2 VN) Tên bài VN; Tác giả VN; Tóm tắt VN + Từ khóa VN; Thông tin tác giả VN; (Phần 3) 4 mục chính (1. Đặt vấn đề; 2. PP NC; 3. Kết quả; 4. Kết luận); (Tùy chọn) Thảo luận trước Kết luận; (Cuối) Lời cảm ơn + TLTK.",
+      "source": "VJES Article Template V06.2025.docx"
+    },
+    {
+      "id": "VJES_28",
+      "topic": "lo_chinh",
+      "title": "Lời cảm ơn",
+      "content": "Trình bày lời cảm ơn các đơn vị/tổ chức/cá nhân liên quan kết quả NC trình bày (nếu có). VD: 'Các tác giả trân trọng cảm ơn... vì đã...'; 'Bài báo được tài trợ bởi...'; 'Bài báo là sản phẩm của đề tài KH&CN cấp Bộ của Bộ GD&ĐT, mã số B2024.xxx-yyy'.",
+      "source": "Hướng dẫn 2025 — Mục Lời cảm ơn"
+    },
+    {
+      "id": "VJES_29",
+      "topic": "bang_hinh",
+      "title": "Bảng + Đồ thị + Hình",
+      "content": "Bảng/đồ thị/hình minh họa vẽ bằng gói vẽ phù hợp. Có thể dùng màu. Đặt tại nơi xuất hiện trong văn bản. Đảm bảo vừa lề + có thể thay đổi kích thước không biến dạng. ĐỊNH DẠNG CHỈNH SỬA ĐƯỢC tại mỗi lần nộp/sửa đổi (tránh ảnh PNG flatten).",
+      "source": "Hướng dẫn 2025 — Mục Bảng/hình"
+    },
+    {
+      "id": "VJES_30",
+      "topic": "thuat_ngu",
+      "title": "Thuật ngữ + Viết tắt",
+      "content": "VIẾT TẮT: ngoài cụm từ viết tắt theo thông lệ quốc tế (DSM-5, WHO, GBD, RCT, CBT, ...), VJES quy định KHÔNG VIẾT TẮT trong nội dung bài. Lần đầu xuất hiện: viết đầy đủ + viết tắt trong ngoặc. Sử dụng chữ in nghiêng để nhấn mạnh (KHÔNG dùng bold body text).",
+      "source": "Hướng dẫn 2025 — Mục Viết tắt"
+    }
+  ],
+  "inverted_index": {
+    "nước": [
+      "VJES_01",
+      "VJES_22"
+    ],
+    "học": [
+      "VJES_01",
+      "VJES_02",
+      "VJES_06",
+      "VJES_18"
+    ],
+    "khoa": [
+      "VJES_01",
+      "VJES_06",
+      "VJES_18"
+    ],
+    "của": [
+      "VJES_01",
+      "VJES_06",
+      "VJES_15",
+      "VJES_28"
+    ],
+    "chí": [
+      "VJES_01",
+      "VJES_07",
+      "VJES_08",
+      "VJES_18",
+      "VJES_25"
+    ],
+    "vnies": [
+      "VJES_01"
+    ],
+    "anh": [
+      "VJES_01",
+      "VJES_05",
+      "VJES_07",
+      "VJES_12",
+      "VJES_18",
+      "VJES_19",
+      "VJES_20"
+    ],
+    "chủ": [
+      "VJES_01",
+      "VJES_02"
+    ],
+    "vinh": [
+      "VJES_01"
+    ],
+    "đồng": [
+      "VJES_01",
+      "VJES_16",
+      "VJES_25"
+    ],
+    "thong_tin_chung": [
+      "VJES_01",
+      "VJES_02"
+    ],
+    "vietnam": [
+      "VJES_01"
+    ],
+    "issn": [
+      "VJES_01"
+    ],
+    "trưởng": [
+      "VJES_01"
+    ],
+    "đến": [
+      "VJES_01",
+      "VJES_22"
+    ],
+    "quản": [
+      "VJES_01",
+      "VJES_02"
+    ],
+    "việt": [
+      "VJES_01",
+      "VJES_05",
+      "VJES_07",
+      "VJES_12",
+      "VJES_18",
+      "VJES_22"
+    ],
+    "bài": [
+      "VJES_01",
+      "VJES_03",
+      "VJES_06",
+      "VJES_07",
+      "VJES_09",
+      "VJES_10",
+      "VJES_12",
+      "VJES_13",
+      "VJES_15",
+      "VJES_16",
+      "VJES_18",
+      "VJES_19",
+      "VJES_21",
+      "VJES_25",
+      "VJES_27",
+      "VJES_30"
+    ],
+    "luận": [
+      "VJES_01",
+      "VJES_02",
+      "VJES_03",
+      "VJES_04",
+      "VJES_08",
+      "VJES_21",
+      "VJES_27"
+    ],
+    "giáo": [
+      "VJES_01",
+      "VJES_02",
+      "VJES_18",
+      "VJES_24"
+    ],
+    "ngôn": [
+      "VJES_01",
+      "VJES_27"
+    ],
+    "điểm": [
+      "VJES_01",
+      "VJES_25"
+    ],
+    "quan": [
+      "VJES_01",
+      "VJES_03",
+      "VJES_04",
+      "VJES_13",
+      "VJES_14",
+      "VJES_28"
+    ],
+    "sciences": [
+      "VJES_01"
+    ],
+    "được": [
+      "VJES_01",
+      "VJES_07",
+      "VJES_17",
+      "VJES_24",
+      "VJES_25",
+      "VJES_28",
+      "VJES_29"
+    ],
+    "tính": [
+      "VJES_01",
+      "VJES_08"
+    ],
+    "biên": [
+      "VJES_01",
+      "VJES_06",
+      "VJES_08"
+    ],
+    "gắn": [
+      "VJES_01"
+    ],
+    "e-issn": [
+      "VJES_01"
+    ],
+    "thầy": [
+      "VJES_01"
+    ],
+    "tạp": [
+      "VJES_01",
+      "VJES_07",
+      "VJES_18",
+      "VJES_25"
+    ],
+    "tổng": [
+      "VJES_01",
+      "VJES_03",
+      "VJES_04",
+      "VJES_06"
+    ],
+    "vjes": [
+      "VJES_01",
+      "VJES_02",
+      "VJES_03",
+      "VJES_05",
+      "VJES_08",
+      "VJES_16",
+      "VJES_25",
+      "VJES_27",
+      "VJES_30"
+    ],
+    "với": [
+      "VJES_01",
+      "VJES_12",
+      "VJES_14"
+    ],
+    "2615-8957": [
+      "VJES_01"
+    ],
+    "nhà": [
+      "VJES_01",
+      "VJES_06",
+      "VJES_20"
+    ],
+    "tập": [
+      "VJES_01",
+      "VJES_06",
+      "VJES_08",
+      "VJES_18",
+      "VJES_20"
+    ],
+    "viện": [
+      "VJES_01"
+    ],
+    "dục": [
+      "VJES_01",
+      "VJES_02",
+      "VJES_18",
+      "VJES_24"
+    ],
+    "journal": [
+      "VJES_01"
+    ],
+    "hội": [
+      "VJES_01",
+      "VJES_21"
+    ],
+    "tên": [
+      "VJES_01",
+      "VJES_10",
+      "VJES_12",
+      "VJES_13",
+      "VJES_15",
+      "VJES_18",
+      "VJES_19",
+      "VJES_20",
+      "VJES_21",
+      "VJES_22",
+      "VJES_27"
+    ],
+    "đăng": [
+      "VJES_01",
+      "VJES_07",
+      "VJES_15"
+    ],
+    "educational": [
+      "VJES_01"
+    ],
+    "3030-4490": [
+      "VJES_01"
+    ],
+    "nam": [
+      "VJES_01",
+      "VJES_18"
+    ],
+    "xuất": [
+      "VJES_02",
+      "VJES_05",
+      "VJES_06",
+      "VJES_07",
+      "VJES_20",
+      "VJES_25",
+      "VJES_29",
+      "VJES_30"
+    ],
+    "nghiệm": [
+      "VJES_02",
+      "VJES_03"
+    ],
+    "bảo": [
+      "VJES_02",
+      "VJES_26",
+      "VJES_29"
+    ],
+    "bản": [
+      "VJES_02",
+      "VJES_05",
+      "VJES_06",
+      "VJES_07",
+      "VJES_10",
+      "VJES_14",
+      "VJES_17",
+      "VJES_20",
+      "VJES_23",
+      "VJES_24",
+      "VJES_25",
+      "VJES_26",
+      "VJES_29"
+    ],
+    "lược": [
+      "VJES_02",
+      "VJES_08"
+    ],
+    "các": [
+      "VJES_02",
+      "VJES_06",
+      "VJES_15",
+      "VJES_21",
+      "VJES_28"
+    ],
+    "triển": [
+      "VJES_02",
+      "VJES_16"
+    ],
+    "chiến": [
+      "VJES_02",
+      "VJES_08"
+    ],
+    "đích": [
+      "VJES_02",
+      "VJES_13"
+    ],
+    "cứu": [
+      "VJES_02",
+      "VJES_03",
+      "VJES_04",
+      "VJES_16"
+    ],
+    "công": [
+      "VJES_02",
+      "VJES_12",
+      "VJES_13",
+      "VJES_15",
+      "VJES_16"
+    ],
+    "tạo": [
+      "VJES_02",
+      "VJES_16"
+    ],
+    "chính": [
+      "VJES_02",
+      "VJES_11",
+      "VJES_12",
+      "VJES_27"
+    ],
+    "đào": [
+      "VJES_02"
+    ],
+    "điều": [
+      "VJES_02"
+    ],
+    "mục": [
+      "VJES_02",
+      "VJES_03",
+      "VJES_04",
+      "VJES_11",
+      "VJES_13",
+      "VJES_16",
+      "VJES_27"
+    ],
+    "giá": [
+      "VJES_02",
+      "VJES_03",
+      "VJES_04"
+    ],
+    "bậc": [
+      "VJES_02"
+    ],
+    "chất": [
+      "VJES_02",
+      "VJES_18"
+    ],
+    "quả": [
+      "VJES_02",
+      "VJES_03",
+      "VJES_04",
+      "VJES_11",
+      "VJES_13",
+      "VJES_27",
+      "VJES_28"
+    ],
+    "lượng": [
+      "VJES_02",
+      "VJES_18"
+    ],
+    "thuyết": [
+      "VJES_02",
+      "VJES_03"
+    ],
+    "nghiên": [
+      "VJES_02",
+      "VJES_03",
+      "VJES_04",
+      "VJES_16"
+    ],
+    "dụng": [
+      "VJES_02",
+      "VJES_09",
+      "VJES_16",
+      "VJES_25",
+      "VJES_30"
+    ],
+    "định": [
+      "VJES_02",
+      "VJES_05",
+      "VJES_06",
+      "VJES_07",
+      "VJES_08",
+      "VJES_10",
+      "VJES_13",
+      "VJES_17",
+      "VJES_25",
+      "VJES_29",
+      "VJES_30"
+    ],
+    "tiễn": [
+      "VJES_02"
+    ],
+    "hướng": [
+      "VJES_02"
+    ],
+    "dạy-học": [
+      "VJES_02"
+    ],
+    "đảm": [
+      "VJES_02",
+      "VJES_29"
+    ],
+    "ứng": [
+      "VJES_02",
+      "VJES_15"
+    ],
+    "đánh": [
+      "VJES_02",
+      "VJES_03",
+      "VJES_04",
+      "VJES_10"
+    ],
+    "sách": [
+      "VJES_02",
+      "VJES_20",
+      "VJES_22",
+      "VJES_24"
+    ],
+    "kết": [
+      "VJES_02",
+      "VJES_03",
+      "VJES_04",
+      "VJES_11",
+      "VJES_13",
+      "VJES_27",
+      "VJES_28"
+    ],
+    "trong": [
+      "VJES_02",
+      "VJES_12",
+      "VJES_13",
+      "VJES_16",
+      "VJES_17",
+      "VJES_22",
+      "VJES_23",
+      "VJES_24",
+      "VJES_29",
+      "VJES_30"
+    ],
+    "thực": [
+      "VJES_02",
+      "VJES_03"
+    ],
+    "khai": [
+      "VJES_02",
+      "VJES_16",
+      "VJES_25"
+    ],
+    "cao": [
+      "VJES_02",
+      "VJES_18"
+    ],
+    "kiện": [
+      "VJES_02"
+    ],
+    "phạm": [
+      "VJES_02"
+    ],
+    "original": [
+      "VJES_03"
+    ],
+    "tài": [
+      "VJES_03",
+      "VJES_04",
+      "VJES_17",
+      "VJES_28"
+    ],
+    "tích": [
+      "VJES_03",
+      "VJES_04"
+    ],
+    "pháp": [
+      "VJES_03",
+      "VJES_04",
+      "VJES_13",
+      "VJES_16",
+      "VJES_18",
+      "VJES_23"
+    ],
+    "paper": [
+      "VJES_03",
+      "VJES_04",
+      "VJES_21"
+    ],
+    "thảo": [
+      "VJES_03",
+      "VJES_04",
+      "VJES_14",
+      "VJES_21",
+      "VJES_25",
+      "VJES_26",
+      "VJES_27"
+    ],
+    "chấp": [
+      "VJES_03",
+      "VJES_06",
+      "VJES_07",
+      "VJES_16",
+      "VJES_26"
+    ],
+    "thiệu": [
+      "VJES_03",
+      "VJES_04"
+    ],
+    "research": [
+      "VJES_03"
+    ],
+    "loại": [
+      "VJES_03",
+      "VJES_06",
+      "VJES_08",
+      "VJES_09",
+      "VJES_25"
+    ],
+    "diện": [
+      "VJES_03"
+    ],
+    "hành": [
+      "VJES_03",
+      "VJES_07"
+    ],
+    "trường": [
+      "VJES_03"
+    ],
+    "nhận": [
+      "VJES_03",
+      "VJES_06",
+      "VJES_07",
+      "VJES_10",
+      "VJES_16",
+      "VJES_26"
+    ],
+    "case": [
+      "VJES_03"
+    ],
+    "article": [
+      "VJES_03"
+    ],
+    "biến": [
+      "VJES_03",
+      "VJES_29"
+    ],
+    "the_loai_bai": [
+      "VJES_03"
+    ],
+    "toàn": [
+      "VJES_03"
+    ],
+    "methodology": [
+      "VJES_03"
+    ],
+    "thể": [
+      "VJES_03",
+      "VJES_04",
+      "VJES_05",
+      "VJES_09",
+      "VJES_29"
+    ],
+    "experimental": [
+      "VJES_03"
+    ],
+    "review": [
+      "VJES_03",
+      "VJES_04",
+      "VJES_06"
+    ],
+    "báo": [
+      "VJES_03",
+      "VJES_08",
+      "VJES_12",
+      "VJES_16",
+      "VJES_18",
+      "VJES_19",
+      "VJES_21",
+      "VJES_25",
+      "VJES_28"
+    ],
+    "hợp": [
+      "VJES_03",
+      "VJES_04",
+      "VJES_16",
+      "VJES_25",
+      "VJES_29"
+    ],
+    "giới": [
+      "VJES_03",
+      "VJES_04"
+    ],
+    "phổ": [
+      "VJES_03"
+    ],
+    "phương": [
+      "VJES_03",
+      "VJES_04",
+      "VJES_13",
+      "VJES_16",
+      "VJES_23"
+    ],
+    "phân": [
+      "VJES_03",
+      "VJES_04"
+    ],
+    "studies": [
+      "VJES_03"
+    ],
+    "gốc": [
+      "VJES_03",
+      "VJES_24"
+    ],
+    "như": [
+      "VJES_03"
+    ],
+    "liệu": [
+      "VJES_03",
+      "VJES_04",
+      "VJES_16",
+      "VJES_17"
+    ],
+    "nhất": [
+      "VJES_03",
+      "VJES_13",
+      "VJES_14"
+    ],
+    "thêm": [
+      "VJES_04",
+      "VJES_22",
+      "VJES_23"
+    ],
+    "vấn": [
+      "VJES_04",
+      "VJES_11",
+      "VJES_27"
+    ],
+    "bắt": [
+      "VJES_04",
+      "VJES_15"
+    ],
+    "đặt": [
+      "VJES_04",
+      "VJES_11",
+      "VJES_27",
+      "VJES_29"
+    ],
+    "cấu": [
+      "VJES_04",
+      "VJES_27"
+    ],
+    "buộc": [
+      "VJES_04",
+      "VJES_15"
+    ],
+    "dạng": [
+      "VJES_04",
+      "VJES_10",
+      "VJES_25",
+      "VJES_29"
+    ],
+    "không": [
+      "VJES_04",
+      "VJES_07",
+      "VJES_08",
+      "VJES_09",
+      "VJES_10",
+      "VJES_11",
+      "VJES_12",
+      "VJES_13",
+      "VJES_16",
+      "VJES_17",
+      "VJES_19",
+      "VJES_22",
+      "VJES_23",
+      "VJES_26",
+      "VJES_29",
+      "VJES_30"
+    ],
+    "cau_truc_review_paper": [
+      "VJES_04"
+    ],
+    "thống": [
+      "VJES_04",
+      "VJES_26"
+    ],
+    "trúc": [
+      "VJES_04",
+      "VJES_27"
+    ],
+    "mỗi": [
+      "VJES_05",
+      "VJES_29"
+    ],
+    "trực": [
+      "VJES_05",
+      "VJES_06",
+      "VJES_17",
+      "VJES_23"
+    ],
+    "tuyến": [
+      "VJES_05",
+      "VJES_06",
+      "VJES_17"
+    ],
+    "tháng": [
+      "VJES_05",
+      "VJES_21"
+    ],
+    "phiên": [
+      "VJES_05"
+    ],
+    "tiếng": [
+      "VJES_05",
+      "VJES_07",
+      "VJES_12",
+      "VJES_22"
+    ],
+    "đặc": [
+      "VJES_05",
+      "VJES_24"
+    ],
+    "dinh_ky": [
+      "VJES_05"
+    ],
+    "cuối": [
+      "VJES_05",
+      "VJES_08",
+      "VJES_11",
+      "VJES_18",
+      "VJES_19",
+      "VJES_27"
+    ],
+    "số/năm": [
+      "VJES_05"
+    ],
+    "biệt": [
+      "VJES_05",
+      "VJES_24",
+      "VJES_26"
+    ],
+    "chuyên": [
+      "VJES_05"
+    ],
+    "vào": [
+      "VJES_05",
+      "VJES_15",
+      "VJES_24"
+    ],
+    "đúng": [
+      "VJES_06",
+      "VJES_25"
+    ],
+    "biện": [
+      "VJES_06",
+      "VJES_25"
+    ],
+    "bởi": [
+      "VJES_06",
+      "VJES_24"
+    ],
+    "double-blind": [
+      "VJES_06"
+    ],
+    "bước": [
+      "VJES_06"
+    ],
+    "chiều": [
+      "VJES_06"
+    ],
+    "phan_bien": [
+      "VJES_06"
+    ],
+    "sửa": [
+      "VJES_06",
+      "VJES_25",
+      "VJES_29"
+    ],
+    "peer": [
+      "VJES_06"
+    ],
+    "giả": [
+      "VJES_06",
+      "VJES_15",
+      "VJES_16",
+      "VJES_19",
+      "VJES_21",
+      "VJES_22",
+      "VJES_23",
+      "VJES_24",
+      "VJES_25",
+      "VJES_27",
+      "VJES_28"
+    ],
+    "trình": [
+      "VJES_06",
+      "VJES_16",
+      "VJES_28"
+    ],
+    "vực": [
+      "VJES_06"
+    ],
+    "chữa": [
+      "VJES_06"
+    ],
+    "chối": [
+      "VJES_06"
+    ],
+    "quyết": [
+      "VJES_06",
+      "VJES_08",
+      "VJES_13"
+    ],
+    "chế": [
+      "VJES_06",
+      "VJES_24"
+    ],
+    "lĩnh": [
+      "VJES_06"
+    ],
+    "quy": [
+      "VJES_06",
+      "VJES_07",
+      "VJES_17",
+      "VJES_30"
+    ],
+    "kín": [
+      "VJES_06"
+    ],
+    "gửi": [
+      "VJES_06"
+    ],
+    "tác": [
+      "VJES_06",
+      "VJES_08",
+      "VJES_15",
+      "VJES_16",
+      "VJES_19",
+      "VJES_21",
+      "VJES_22",
+      "VJES_23",
+      "VJES_24",
+      "VJES_25",
+      "VJES_27",
+      "VJES_28"
+    ],
+    "tín": [
+      "VJES_06"
+    ],
+    "phản": [
+      "VJES_06",
+      "VJES_14",
+      "VJES_25"
+    ],
+    "commons": [
+      "VJES_07"
+    ],
+    "2.500.000": [
+      "VJES_07"
+    ],
+    "4.0": [
+      "VJES_07",
+      "VJES_25"
+    ],
+    "theo": [
+      "VJES_07",
+      "VJES_22",
+      "VJES_30"
+    ],
+    "đóng": [
+      "VJES_07"
+    ],
+    "truy": [
+      "VJES_07",
+      "VJES_17"
+    ],
+    "kinh_phi": [
+      "VJES_07"
+    ],
+    "phải": [
+      "VJES_07",
+      "VJES_10",
+      "VJES_12",
+      "VJES_13",
+      "VJES_16",
+      "VJES_17",
+      "VJES_22"
+    ],
+    "attribution-non-commercial-noderivatives": [
+      "VJES_07"
+    ],
+    "cập": [
+      "VJES_07",
+      "VJES_17"
+    ],
+    "trợ": [
+      "VJES_07",
+      "VJES_28"
+    ],
+    "hiện": [
+      "VJES_07",
+      "VJES_29",
+      "VJES_30"
+    ],
+    "phí": [
+      "VJES_07",
+      "VJES_15"
+    ],
+    "sau": [
+      "VJES_07"
+    ],
+    "vnđ/bài": [
+      "VJES_07"
+    ],
+    "khi": [
+      "VJES_07",
+      "VJES_14",
+      "VJES_15",
+      "VJES_25"
+    ],
+    "kinh": [
+      "VJES_07"
+    ],
+    "creative": [
+      "VJES_07"
+    ],
+    "paraphrase": [
+      "VJES_08"
+    ],
+    "copy": [
+      "VJES_08"
+    ],
+    "đây": [
+      "VJES_08"
+    ],
+    "kiểm": [
+      "VJES_08",
+      "VJES_25"
+    ],
+    "turnitin": [
+      "VJES_08",
+      "VJES_25"
+    ],
+    "khuyến": [
+      "VJES_08",
+      "VJES_15",
+      "VJES_16"
+    ],
+    "thiệp": [
+      "VJES_08"
+    ],
+    "100%": [
+      "VJES_08"
+    ],
+    "căn": [
+      "VJES_08"
+    ],
+    "tiêu": [
+      "VJES_08",
+      "VJES_13",
+      "VJES_21"
+    ],
+    "lặp": [
+      "VJES_08",
+      "VJES_13"
+    ],
+    "qua": [
+      "VJES_08"
+    ],
+    "cùng": [
+      "VJES_08",
+      "VJES_19",
+      "VJES_22",
+      "VJES_24"
+    ],
+    "cáo": [
+      "VJES_08",
+      "VJES_21"
+    ],
+    "phẩm": [
+      "VJES_08",
+      "VJES_24",
+      "VJES_28"
+    ],
+    "tra": [
+      "VJES_08",
+      "VJES_14",
+      "VJES_25"
+    ],
+    "25%": [
+      "VJES_08"
+    ],
+    "can": [
+      "VJES_08"
+    ],
+    "tltk": [
+      "VJES_08",
+      "VJES_13",
+      "VJES_17",
+      "VJES_18",
+      "VJES_19",
+      "VJES_20",
+      "VJES_21",
+      "VJES_22",
+      "VJES_24",
+      "VJES_25",
+      "VJES_27"
+    ],
+    "mức": [
+      "VJES_08"
+    ],
+    "trùng": [
+      "VJES_08"
+    ],
+    "cth": [
+      "VJES_08"
+    ],
+    "nội": [
+      "VJES_08",
+      "VJES_14",
+      "VJES_30"
+    ],
+    "upload": [
+      "VJES_08"
+    ],
+    "ban": [
+      "VJES_08"
+    ],
+    "nghị": [
+      "VJES_08",
+      "VJES_15",
+      "VJES_16",
+      "VJES_21"
+    ],
+    "clean_v3_cth_v6": [
+      "VJES_08"
+    ],
+    "dung": [
+      "VJES_08",
+      "VJES_14",
+      "VJES_30"
+    ],
+    "thiểu": [
+      "VJES_09"
+    ],
+    "5.000": [
+      "VJES_09"
+    ],
+    "tương": [
+      "VJES_09",
+      "VJES_15"
+    ],
+    "8-12": [
+      "VJES_09"
+    ],
+    "do_dai": [
+      "VJES_09"
+    ],
+    "cho": [
+      "VJES_09"
+    ],
+    "trang": [
+      "VJES_09",
+      "VJES_10",
+      "VJES_11",
+      "VJES_18",
+      "VJES_20",
+      "VJES_21",
+      "VJES_23"
+    ],
+    "quá": [
+      "VJES_09",
+      "VJES_12",
+      "VJES_16"
+    ],
+    "tất": [
+      "VJES_09",
+      "VJES_19",
+      "VJES_25"
+    ],
+    "dài": [
+      "VJES_09",
+      "VJES_23"
+    ],
+    "tối": [
+      "VJES_09",
+      "VJES_11"
+    ],
+    "đương": [
+      "VJES_09"
+    ],
+    "7.000": [
+      "VJES_09"
+    ],
+    "'tóm": [
+      "VJES_10"
+    ],
+    "bằng": [
+      "VJES_10",
+      "VJES_12",
+      "VJES_13",
+      "VJES_14",
+      "VJES_24",
+      "VJES_29"
+    ],
+    "thường": [
+      "VJES_10",
+      "VJES_11"
+    ],
+    "cách": [
+      "VJES_10",
+      "VJES_16",
+      "VJES_24",
+      "VJES_26"
+    ],
+    "format": [
+      "VJES_10"
+    ],
+    "roman": [
+      "VJES_10"
+    ],
+    "3pt": [
+      "VJES_10"
+    ],
+    "rtf": [
+      "VJES_10"
+    ],
+    "12pt": [
+      "VJES_10"
+    ],
+    "11pt": [
+      "VJES_10"
+    ],
+    "văn": [
+      "VJES_10",
+      "VJES_17",
+      "VJES_18",
+      "VJES_19",
+      "VJES_21",
+      "VJES_23",
+      "VJES_24",
+      "VJES_29"
+    ],
+    "spacing": [
+      "VJES_10"
+    ],
+    "spreadsheet": [
+      "VJES_10"
+    ],
+    "tab": [
+      "VJES_10"
+    ],
+    "pdf": [
+      "VJES_10",
+      "VJES_26"
+    ],
+    "khóa'": [
+      "VJES_10"
+    ],
+    "động": [
+      "VJES_10",
+      "VJES_15"
+    ],
+    "1.1": [
+      "VJES_10"
+    ],
+    "indent": [
+      "VJES_10"
+    ],
+    "dùng": [
+      "VJES_10",
+      "VJES_11",
+      "VJES_13",
+      "VJES_17",
+      "VJES_29",
+      "VJES_30"
+    ],
+    "chữ": [
+      "VJES_10",
+      "VJES_11",
+      "VJES_22",
+      "VJES_30"
+    ],
+    "microsoft": [
+      "VJES_10"
+    ],
+    "line": [
+      "VJES_10"
+    ],
+    "hoặc": [
+      "VJES_10",
+      "VJES_13",
+      "VJES_14",
+      "VJES_16",
+      "VJES_17",
+      "VJES_23"
+    ],
+    "năng": [
+      "VJES_10"
+    ],
+    "before": [
+      "VJES_10"
+    ],
+    "đậm": [
+      "VJES_10",
+      "VJES_11"
+    ],
+    "times": [
+      "VJES_10"
+    ],
+    "tắt": [
+      "VJES_10",
+      "VJES_11",
+      "VJES_12",
+      "VJES_13",
+      "VJES_19",
+      "VJES_27",
+      "VJES_30"
+    ],
+    "body": [
+      "VJES_10",
+      "VJES_30"
+    ],
+    "khóa": [
+      "VJES_10",
+      "VJES_12",
+      "VJES_13",
+      "VJES_14",
+      "VJES_27"
+    ],
+    "nhưng": [
+      "VJES_10"
+    ],
+    "bảng": [
+      "VJES_10",
+      "VJES_26",
+      "VJES_29"
+    ],
+    "phím": [
+      "VJES_10"
+    ],
+    "tóm": [
+      "VJES_10",
+      "VJES_13",
+      "VJES_27"
+    ],
+    "font": [
+      "VJES_10"
+    ],
+    "new": [
+      "VJES_10"
+    ],
+    "multiple": [
+      "VJES_10"
+    ],
+    "chức": [
+      "VJES_10",
+      "VJES_27"
+    ],
+    "table": [
+      "VJES_10"
+    ],
+    "tắt'/'từ": [
+      "VJES_10"
+    ],
+    "after": [
+      "VJES_10"
+    ],
+    "word": [
+      "VJES_10"
+    ],
+    "một": [
+      "VJES_11",
+      "VJES_18"
+    ],
+    "heading": [
+      "VJES_11"
+    ],
+    "thông": [
+      "VJES_11",
+      "VJES_15",
+      "VJES_27",
+      "VJES_30"
+    ],
+    "thích": [
+      "VJES_11"
+    ],
+    "'2.3.1": [
+      "VJES_11"
+    ],
+    "trừ": [
+      "VJES_11"
+    ],
+    "viết": [
+      "VJES_11",
+      "VJES_12",
+      "VJES_13",
+      "VJES_18",
+      "VJES_19",
+      "VJES_21",
+      "VJES_30"
+    ],
+    "sát'": [
+      "VJES_11"
+    ],
+    "'2.3": [
+      "VJES_11"
+    ],
+    "chú": [
+      "VJES_11"
+    ],
+    "tiểu": [
+      "VJES_11"
+    ],
+    "quốc": [
+      "VJES_11",
+      "VJES_21",
+      "VJES_30"
+    ],
+    "đề'": [
+      "VJES_11"
+    ],
+    "footnote": [
+      "VJES_11",
+      "VJES_17"
+    ],
+    "cấp": [
+      "VJES_11",
+      "VJES_24",
+      "VJES_28"
+    ],
+    "khảo": [
+      "VJES_11"
+    ],
+    "quả'": [
+      "VJES_11"
+    ],
+    "nghiêng": [
+      "VJES_11",
+      "VJES_18",
+      "VJES_20",
+      "VJES_21",
+      "VJES_30"
+    ],
+    "dưới": [
+      "VJES_12"
+    ],
+    "thiện": [
+      "VJES_12"
+    ],
+    "seo": [
+      "VJES_12",
+      "VJES_14"
+    ],
+    "tìm": [
+      "VJES_12",
+      "VJES_13"
+    ],
+    "thân": [
+      "VJES_12"
+    ],
+    "kiếm": [
+      "VJES_12",
+      "VJES_13"
+    ],
+    "ten_bai": [
+      "VJES_12"
+    ],
+    "chứa": [
+      "VJES_12",
+      "VJES_13"
+    ],
+    "1-2": [
+      "VJES_12",
+      "VJES_13"
+    ],
+    "ngắn": [
+      "VJES_12",
+      "VJES_14"
+    ],
+    "gọn": [
+      "VJES_12"
+    ],
+    "150-250": [
+      "VJES_13"
+    ],
+    "trọng": [
+      "VJES_13",
+      "VJES_14",
+      "VJES_28"
+    ],
+    "chỉ": [
+      "VJES_13",
+      "VJES_17",
+      "VJES_23",
+      "VJES_24",
+      "VJES_25",
+      "VJES_27"
+    ],
+    "khoảng": [
+      "VJES_13"
+    ],
+    "xác": [
+      "VJES_13",
+      "VJES_25"
+    ],
+    "trống": [
+      "VJES_13"
+    ],
+    "đầu": [
+      "VJES_13",
+      "VJES_19",
+      "VJES_22",
+      "VJES_30"
+    ],
+    "lời": [
+      "VJES_13",
+      "VJES_27",
+      "VJES_28"
+    ],
+    "trả": [
+      "VJES_13"
+    ],
+    "tom_tat": [
+      "VJES_13"
+    ],
+    "giải": [
+      "VJES_13",
+      "VJES_18"
+    ],
+    "3-6": [
+      "VJES_13"
+    ],
+    "đạt": [
+      "VJES_13"
+    ],
+    "lần": [
+      "VJES_13",
+      "VJES_20",
+      "VJES_29",
+      "VJES_30"
+    ],
+    "thị": [
+      "VJES_13",
+      "VJES_29"
+    ],
+    "đang": [
+      "VJES_13",
+      "VJES_15",
+      "VJES_26"
+    ],
+    "hỏi": [
+      "VJES_13"
+    ],
+    "hiển": [
+      "VJES_13"
+    ],
+    "abstract": [
+      "VJES_13",
+      "VJES_27"
+    ],
+    "nên": [
+      "VJES_13",
+      "VJES_14"
+    ],
+    "cụm": [
+      "VJES_13",
+      "VJES_14",
+      "VJES_30"
+    ],
+    "câu": [
+      "VJES_13"
+    ],
+    "4-6": [
+      "VJES_14"
+    ],
+    "google": [
+      "VJES_14"
+    ],
+    "chọn": [
+      "VJES_14",
+      "VJES_25",
+      "VJES_27"
+    ],
+    "ánh": [
+      "VJES_14"
+    ],
+    "tu_khoa": [
+      "VJES_14"
+    ],
+    "trends/adwords": [
+      "VJES_14"
+    ],
+    "trước": [
+      "VJES_14",
+      "VJES_25",
+      "VJES_27"
+    ],
+    "sát": [
+      "VJES_14"
+    ],
+    "email": [
+      "VJES_15",
+      "VJES_26",
+      "VJES_27"
+    ],
+    "thoại": [
+      "VJES_15"
+    ],
+    "điện": [
+      "VJES_15"
+    ],
+    "hoạt": [
+      "VJES_15"
+    ],
+    "tại": [
+      "VJES_15",
+      "VJES_29"
+    ],
+    "https://orcid.org": [
+      "VJES_15"
+    ],
+    "đơn": [
+      "VJES_15",
+      "VJES_27",
+      "VJES_28"
+    ],
+    "liên": [
+      "VJES_15",
+      "VJES_28"
+    ],
+    "tin": [
+      "VJES_15",
+      "VJES_27"
+    ],
+    "miễn": [
+      "VJES_15"
+    ],
+    "orcid": [
+      "VJES_15",
+      "VJES_27"
+    ],
+    "ghi": [
+      "VJES_15"
+    ],
+    "từng": [
+      "VJES_15"
+    ],
+    "đầy": [
+      "VJES_15",
+      "VJES_18",
+      "VJES_19",
+      "VJES_22",
+      "VJES_30"
+    ],
+    "tac_gia": [
+      "VJES_15"
+    ],
+    "đính": [
+      "VJES_15"
+    ],
+    "phát": [
+      "VJES_16"
+    ],
+    "thức": [
+      "VJES_16"
+    ],
+    "llm/ai": [
+      "VJES_16"
+    ],
+    "nếu": [
+      "VJES_16",
+      "VJES_25",
+      "VJES_26",
+      "VJES_28"
+    ],
+    "phù": [
+      "VJES_16",
+      "VJES_25",
+      "VJES_29"
+    ],
+    "làm": [
+      "VJES_16"
+    ],
+    "claude": [
+      "VJES_16"
+    ],
+    "chiếu": [
+      "VJES_16"
+    ],
+    "llm": [
+      "VJES_16",
+      "VJES_25"
+    ],
+    "nêu": [
+      "VJES_16"
+    ],
+    "trí": [
+      "VJES_16"
+    ],
+    "act": [
+      "VJES_16"
+    ],
+    "chatgpt": [
+      "VJES_16"
+    ],
+    "tham": [
+      "VJES_16"
+    ],
+    "khác": [
+      "VJES_16",
+      "VJES_25"
+    ],
+    "edition": [
+      "VJES_17"
+    ],
+    "thủ": [
+      "VJES_17",
+      "VJES_25"
+    ],
+    "doi": [
+      "VJES_17",
+      "VJES_18",
+      "VJES_20"
+    ],
+    "liệt": [
+      "VJES_17",
+      "VJES_19",
+      "VJES_24"
+    ],
+    "lại": [
+      "VJES_17"
+    ],
+    "dẫn": [
+      "VJES_17",
+      "VJES_23",
+      "VJES_24"
+    ],
+    "apa": [
+      "VJES_17"
+    ],
+    "style": [
+      "VJES_17"
+    ],
+    "url": [
+      "VJES_17",
+      "VJES_21"
+    ],
+    "ngược": [
+      "VJES_17"
+    ],
+    "kèm": [
+      "VJES_17"
+    ],
+    "7th": [
+      "VJES_17"
+    ],
+    "ngày": [
+      "VJES_17"
+    ],
+    "trích": [
+      "VJES_17",
+      "VJES_23",
+      "VJES_24"
+    ],
+    "tuân": [
+      "VJES_17",
+      "VJES_25"
+    ],
+    "đầu-trang": [
+      "VJES_18"
+    ],
+    "memory": [
+      "VJES_18"
+    ],
+    "tập(số": [
+      "VJES_18"
+    ],
+    "năm": [
+      "VJES_18",
+      "VJES_20",
+      "VJES_21",
+      "VJES_22",
+      "VJES_23",
+      "VJES_24"
+    ],
+    "đứng": [
+      "VJES_18",
+      "VJES_20",
+      "VJES_21"
+    ],
+    "nguyễn": [
+      "VJES_18",
+      "VJES_19"
+    ],
+    "635-647": [
+      "VJES_18"
+    ],
+    "cognition": [
+      "VJES_18"
+    ],
+    "tltk_format_baibao": [
+      "VJES_18",
+      "VJES_19"
+    ],
+    "hoàng": [
+      "VJES_18",
+      "VJES_19"
+    ],
+    "2024": [
+      "VJES_18",
+      "VJES_19"
+    ],
+    "comparisons": [
+      "VJES_18"
+    ],
+    "through": [
+      "VJES_18"
+    ],
+    "dạy": [
+      "VJES_18"
+    ],
+    "paivio": [
+      "VJES_18"
+    ],
+    "eye": [
+      "VJES_18"
+    ],
+    "nâng": [
+      "VJES_18"
+    ],
+    "3(1": [
+      "VJES_18"
+    ],
+    "26(2": [
+      "VJES_18"
+    ],
+    "12-20": [
+      "VJES_18"
+    ],
+    "perceptual": [
+      "VJES_18"
+    ],
+    "mind's": [
+      "VJES_18"
+    ],
+    "1975": [
+      "VJES_18"
+    ],
+    "nghiêng(số": [
+      "VJES_18"
+    ],
+    "the": [
+      "VJES_18",
+      "VJES_20"
+    ],
+    "her": [
+      "VJES_19"
+    ],
+    "'&'": [
+      "VJES_19"
+    ],
+    "perez": [
+      "VJES_19"
+    ],
+    "nhiều": [
+      "VJES_19",
+      "VJES_24"
+    ],
+    "grady": [
+      "VJES_19"
+    ],
+    "2-7": [
+      "VJES_19"
+    ],
+    "trên": [
+      "VJES_19"
+    ],
+    "cách-chấm-cách-chấm-cách-chấm-cách": [
+      "VJES_19"
+    ],
+    "yelinek": [
+      "VJES_19"
+    ],
+    "tiên": [
+      "VJES_19",
+      "VJES_22"
+    ],
+    "dấu": [
+      "VJES_19",
+      "VJES_24"
+    ],
+    "moreno": [
+      "VJES_19"
+    ],
+    "trần": [
+      "VJES_19"
+    ],
+    "ngọc": [
+      "VJES_19"
+    ],
+    "2019": [
+      "VJES_19"
+    ],
+    "and": [
+      "VJES_20"
+    ],
+    "đầu-cuối": [
+      "VJES_20"
+    ],
+    "1979": [
+      "VJES_20"
+    ],
+    "everything": [
+      "VJES_20"
+    ],
+    "strunk": [
+      "VJES_20"
+    ],
+    "stuff": [
+      "VJES_20"
+    ],
+    "chương": [
+      "VJES_20"
+    ],
+    "white": [
+      "VJES_20"
+    ],
+    "becker": [
+      "VJES_20"
+    ],
+    "3rd": [
+      "VJES_20"
+    ],
+    "guide": [
+      "VJES_20"
+    ],
+    "then": [
+      "VJES_20"
+    ],
+    "macmillan": [
+      "VJES_20"
+    ],
+    "nxb": [
+      "VJES_20",
+      "VJES_21"
+    ],
+    "some": [
+      "VJES_20"
+    ],
+    "more": [
+      "VJES_20"
+    ],
+    "tltk_format_sach": [
+      "VJES_20"
+    ],
+    "trữ": [
+      "VJES_21"
+    ],
+    "ngày-ngày": [
+      "VJES_21"
+    ],
+    "doctoral": [
+      "VJES_21"
+    ],
+    "web": [
+      "VJES_21"
+    ],
+    "lưu": [
+      "VJES_21"
+    ],
+    "thesis": [
+      "VJES_21"
+    ],
+    "tltk_format_khac": [
+      "VJES_21"
+    ],
+    "gia": [
+      "VJES_21"
+    ],
+    "thành": [
+      "VJES_21",
+      "VJES_23"
+    ],
+    "phố": [
+      "VJES_21"
+    ],
+    "csđt": [
+      "VJES_21"
+    ],
+    "presentation": [
+      "VJES_21"
+    ],
+    "án/luận": [
+      "VJES_21"
+    ],
+    "thời": [
+      "VJES_22"
+    ],
+    "1981b": [
+      "VJES_22"
+    ],
+    "danh": [
+      "VJES_22",
+      "VJES_24",
+      "VJES_27"
+    ],
+    "vuông": [
+      "VJES_22"
+    ],
+    "green": [
+      "VJES_22"
+    ],
+    "hậu": [
+      "VJES_22"
+    ],
+    "sap_xep_tltk": [
+      "VJES_22"
+    ],
+    "1981a": [
+      "VJES_22"
+    ],
+    "họ-cùng": [
+      "VJES_22"
+    ],
+    "ngoặc": [
+      "VJES_22",
+      "VJES_23",
+      "VJES_24",
+      "VJES_30"
+    ],
+    "alphabet": [
+      "VJES_22",
+      "VJES_24"
+    ],
+    "gian": [
+      "VJES_22"
+    ],
+    "laura": [
+      "VJES_22"
+    ],
+    "berndt": [
+      "VJES_22"
+    ],
+    "sắp": [
+      "VJES_22",
+      "VJES_24"
+    ],
+    "gần": [
+      "VJES_22"
+    ],
+    "xếp": [
+      "VJES_22",
+      "VJES_24"
+    ],
+    "a/b/c": [
+      "VJES_22"
+    ],
+    "ngoài": [
+      "VJES_22",
+      "VJES_30"
+    ],
+    "inch": [
+      "VJES_23"
+    ],
+    "2005)'": [
+      "VJES_23"
+    ],
+    "cộng": [
+      "VJES_23"
+    ],
+    "block": [
+      "VJES_23"
+    ],
+    "kép": [
+      "VJES_23"
+    ],
+    "'wasserstein": [
+      "VJES_23"
+    ],
+    "walker": [
+      "VJES_23"
+    ],
+    "1/2": [
+      "VJES_23"
+    ],
+    "in-text": [
+      "VJES_23"
+    ],
+    "thụt": [
+      "VJES_23"
+    ],
+    "199-201": [
+      "VJES_23"
+    ],
+    "'(wasserstein": [
+      "VJES_23"
+    ],
+    "tiếp": [
+      "VJES_23"
+    ],
+    "tiếp/mượn": [
+      "VJES_23"
+    ],
+    "2004": [
+      "VJES_23"
+    ],
+    "nguyên": [
+      "VJES_23"
+    ],
+    "giả-năm": [
+      "VJES_23"
+    ],
+    "jones": [
+      "VJES_23"
+    ],
+    "cite": [
+      "VJES_23"
+    ],
+    "1998": [
+      "VJES_23"
+    ],
+    "tách": [
+      "VJES_23"
+    ],
+    "trich_dan": [
+      "VJES_23"
+    ],
+    "199": [
+      "VJES_23"
+    ],
+    "riêng": [
+      "VJES_23",
+      "VJES_25",
+      "VJES_26"
+    ],
+    "allen": [
+      "VJES_23"
+    ],
+    "wright": [
+      "VJES_24"
+    ],
+    "1996": [
+      "VJES_24"
+    ],
+    "thứ": [
+      "VJES_24"
+    ],
+    "hạn": [
+      "VJES_24"
+    ],
+    "nguồn": [
+      "VJES_24",
+      "VJES_25",
+      "VJES_26"
+    ],
+    "phẩy": [
+      "VJES_24"
+    ],
+    "travaglione": [
+      "VJES_24"
+    ],
+    "durie": [
+      "VJES_24"
+    ],
+    "223": [
+      "VJES_24"
+    ],
+    "2013": [
+      "VJES_24"
+    ],
+    "trich_dan_dac_biet": [
+      "VJES_24"
+    ],
+    "ngăn": [
+      "VJES_24"
+    ],
+    "đưa": [
+      "VJES_24"
+    ],
+    "mcshane": [
+      "VJES_24"
+    ],
+    "bragdon": [
+      "VJES_24"
+    ],
+    "chấm": [
+      "VJES_24"
+    ],
+    "2003": [
+      "VJES_24"
+    ],
+    "2007": [
+      "VJES_24"
+    ],
+    "1999": [
+      "VJES_24"
+    ],
+    "chưa": [
+      "VJES_25"
+    ],
+    "≤25%": [
+      "VJES_25"
+    ],
+    "bình": [
+      "VJES_25"
+    ],
+    "word/rtf": [
+      "VJES_25"
+    ],
+    "tệp": [
+      "VJES_25",
+      "VJES_26"
+    ],
+    "doi/url": [
+      "VJES_25"
+    ],
+    "checklist": [
+      "VJES_25"
+    ],
+    "tôn": [
+      "VJES_25"
+    ],
+    "bảng/hình": [
+      "VJES_25"
+    ],
+    "duyệt": [
+      "VJES_25"
+    ],
+    "người": [
+      "VJES_25"
+    ],
+    "tùy": [
+      "VJES_25",
+      "VJES_27"
+    ],
+    "thuận": [
+      "VJES_25"
+    ],
+    "nộp": [
+      "VJES_25",
+      "VJES_26"
+    ],
+    "kiem_tra_ho_so": [
+      "VJES_25"
+    ],
+    "bản/đang": [
+      "VJES_25"
+    ],
+    "chỉnh": [
+      "VJES_25",
+      "VJES_29"
+    ],
+    "online": [
+      "VJES_25",
+      "VJES_26"
+    ],
+    "by-nc-nd": [
+      "VJES_25"
+    ],
+    "nop_bai": [
+      "VJES_26"
+    ],
+    "office": [
+      "VJES_26"
+    ],
+    "word/rtf/open": [
+      "VJES_26"
+    ],
+    "trì": [
+      "VJES_26"
+    ],
+    "hình": [
+      "VJES_26",
+      "VJES_29"
+    ],
+    "vjes@vnies.edu.vn": [
+      "VJES_26"
+    ],
+    "gồm": [
+      "VJES_26"
+    ],
+    "địa": [
+      "VJES_27"
+    ],
+    "title": [
+      "VJES_27"
+    ],
+    "ngữ": [
+      "VJES_27",
+      "VJES_30"
+    ],
+    "template": [
+      "VJES_27"
+    ],
+    "keywords": [
+      "VJES_27"
+    ],
+    "phần": [
+      "VJES_27"
+    ],
+    "cảm": [
+      "VJES_27",
+      "VJES_28"
+    ],
+    "info": [
+      "VJES_27"
+    ],
+    "authors": [
+      "VJES_27"
+    ],
+    "06.2025": [
+      "VJES_27"
+    ],
+    "author": [
+      "VJES_27"
+    ],
+    "chức/cá": [
+      "VJES_28"
+    ],
+    "nhân": [
+      "VJES_28"
+    ],
+    "gd&đt": [
+      "VJES_28"
+    ],
+    "sản": [
+      "VJES_28"
+    ],
+    "lo_chinh": [
+      "VJES_28"
+    ],
+    "'các": [
+      "VJES_28"
+    ],
+    "vị/tổ": [
+      "VJES_28"
+    ],
+    "bởi...'": [
+      "VJES_28"
+    ],
+    "đã...'": [
+      "VJES_28"
+    ],
+    "b2024.xxx-yyy'": [
+      "VJES_28"
+    ],
+    "kh&cn": [
+      "VJES_28"
+    ],
+    "trân": [
+      "VJES_28"
+    ],
+    "bày": [
+      "VJES_28"
+    ],
+    "'bài": [
+      "VJES_28"
+    ],
+    "tránh": [
+      "VJES_29"
+    ],
+    "flatten": [
+      "VJES_29"
+    ],
+    "gói": [
+      "VJES_29"
+    ],
+    "png": [
+      "VJES_29"
+    ],
+    "bảng/đồ": [
+      "VJES_29"
+    ],
+    "thị/hình": [
+      "VJES_29"
+    ],
+    "bang_hinh": [
+      "VJES_29"
+    ],
+    "nộp/sửa": [
+      "VJES_29"
+    ],
+    "họa": [
+      "VJES_29"
+    ],
+    "vừa": [
+      "VJES_29"
+    ],
+    "đổi": [
+      "VJES_29"
+    ],
+    "minh": [
+      "VJES_29"
+    ],
+    "ảnh": [
+      "VJES_29"
+    ],
+    "màu": [
+      "VJES_29"
+    ],
+    "thước": [
+      "VJES_29"
+    ],
+    "thay": [
+      "VJES_29"
+    ],
+    "nơi": [
+      "VJES_29"
+    ],
+    "kích": [
+      "VJES_29"
+    ],
+    "thuật": [
+      "VJES_30"
+    ],
+    "bold": [
+      "VJES_30"
+    ],
+    "mạnh": [
+      "VJES_30"
+    ],
+    "thuat_ngu": [
+      "VJES_30"
+    ],
+    "text": [
+      "VJES_30"
+    ],
+    "dsm-5": [
+      "VJES_30"
+    ],
+    "gbd": [
+      "VJES_30"
+    ],
+    "nhấn": [
+      "VJES_30"
+    ],
+    "cbt": [
+      "VJES_30"
+    ],
+    "rct": [
+      "VJES_30"
+    ],
+    "who": [
+      "VJES_30"
+    ]
+  }
+}

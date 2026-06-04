@@ -1,0 +1,683 @@
+----- VN025 page 1 -----
+115
+Tạp chí Y học dự phòng, Tập 34, số 1 Phụ bản - 2024
+THỰC TRẠNG SỨC KHỎE TÂM THẦN VÀ MỘT SỐ YẾU TỐ LIÊN QUAN 
+CỦA HỌC SINH TẠI 2 TRƯỜNG TRUNG HỌC PHỔ THÔNG 
+HUYỆN VĨNH BẢO, HẢI PHÒNG NĂM 2023
+Phạm Thị Ngọc1*, Hoàng Thị Giang1, Phạm Khánh Linh2, Vũ Thị Châu3 
+1Trường Đại học Y Dược Hải Phòng
+2Bệnh viện Vinmec Phú Quốc
+3Trung tâm Kiểm dịch Y tế quốc tế Hải Phòng
+TÓM TẮT
+Nghiên cứu mô tả cắt ngang trên 420 học sinh hai trường bao gồm trường Trung học phổ thông (THPT) 
+Cộng Hiền và Trung tâm Giáo dục nghề nghiệp - Giáo dục thường xuyên (GDNN - GDTX) Vĩnh Bảo từ 
+tháng 10/2022 đến tháng 05/2023 nhằm mô tả thực trạng sức khoẻ tâm thần cũng như các yếu tố liên 
+quan của học sinh. Kết quả nghiên cứu cho thấy: Tỷ lệ học sinh THPT Cộng Hiền mắc rối trầm cảm loạn, 
+lo âu, căng thẳng lần lượt là 42,38%, 53,81%, 49,05%, tỷ lệ này là 32,38%, 43,33% và 28,57% ở học sinh 
+trung tâm GDNN-GDTX Vĩnh Bảo. Các yếu tố liên quan với tăng nguy cơ trầm cảm bao gồm học sinh là 
+giới nữ, không có mối quan hệ hòa đồng với bạn bè. Tăng nguy cơ lo âu có liên quan đến yếu tố: Học sinh 
+áp lực cao với học tập và thi cử; không có mối quan hệ hòa đồng với bạn bè; bị bạo lực học đường.  Học 
+sinh của trường THPT Cộng Hiền, áp lực cao với kỳ vọng của gia đình và gia đình mâu thuẫn tăng nguy 
+cơ mắc căng thẳng.
+Từ khoá: Sức khoẻ tâm thần; yếu tố liên quan, học sinh THPT, Hải Phòng
+Ngày nhận bài: 26/01/2024
+Ngày phản biện: 26/02/2024 
+Ngày đăng bài: 12/04/2024
+I. ĐẶT VẤN ĐỀ
+Theo Tổ chức Y tế Thế giới ước tính cứ 7 
+người thanh thiếu niên từ 10 - 19 tuổi thì có 
+1 người gặp phải các tình trạng sức khỏe tâm 
+thần (SKTT), chiếm 13% gánh nặng bệnh tật 
+toàn cầu ở nhóm này. Tuy nhiên, phần lớn các 
+tình trạng này vẫn chưa được phát hiện và điều 
+trị [1]. Tại Việt Nam, theo kết quả nghiên cứu 
+“Điều tra sức khỏe tâm thần vị thành niên Việt 
+Nam” do Viện Xã hội học, Viện Hàn lâm Khoa 
+học Xã hội Việt Nam tại 38 tỉnh, thành phố 
+(2021) cho thấy trong 12 tháng qua có 21,7% 
+số trẻ thanh thiếu niên Việt Nam có vấn đề về 
+sức khỏe tâm thần [2]. Lứa tuổi học sinh đang 
+học trung học phổ thông (THPT) là giai đoạn 
+cuối của tuổi vị thành niên, khi cả thể chất và 
+tinh thần đều chưa ổn định, dưới áp lực của học 
+tập, thi cử, gia đình và các mối quan hệ khác 
+khiến cho các em dễ bị tổn thương tâm lý và có 
+nhiều vấn đề SKTT. 
+Vĩnh Bảo là một huyện của thành phố Hải 
+Phòng, huyện có 5 trường THPT công lập và 2 
+cơ sở Trung tâm Giáo dục nghề nghiệp – Giáo 
+dục thường xuyên (GDNN-GDTX), chiếm một 
+lượng lớn học sinh của thành phố. Đã có một số 
+nghiên cứu được thực hiện ở các trường THPT 
+trên địa bàn Hải Phòng [3, 4]. Tuy nhiên cho 
+đến nay, huyện Vĩnh Bảo chưa có bất kỳ một 
+nghiên cứu nào về sức khỏe tâm thần trên nhóm 
+đối tượng này. Sàng lọc, phát hiện và điều trị 
+sớm các rối loạn tâm thần là những biện pháp 
+cần thiết để nâng cao chất lượng cuộc sống 
+cũng như sự hình thành và phát triển nhân cách 
+của học sinh trong tương lai. Do đó chúng tôi 
+thực hiện nghiên cứu nhằm mô tả thực trạng 
+*Tác giả: Phạm Thị Ngọc
+Địa chỉ: Trường Đại học Y Dược Hải Phòng
+Điện thoại: 0941686328
+Email: pthngoc@hpmu.edu.vn
+DOI: https://doi.org/10.51403/0868-2836/2024/1571
+----- VN025 page 2 -----
+116
+Tạp chí Y học dự phòng, Tập 34, số 1 Phụ bản - 2024
+cũng như các yếu tố ảnh hưởng đến sức khoẻ 
+tâm thần của học sinh. 
+II. PHƯƠNG PHÁP NGHIÊN CỨU
+2.1 Đối tượng nghiên cứu
+Học sinh lớp 10, 11, 12 trường THPT Cộng 
+Hiền và trường Trung tâm GDNN - GDTX  
+Vĩnh Bảo đồng ý tham gia nghiên cứu và có 
+mặt tại thời điểm thu thập số liệu.
+2.2 Địa điểm và thời gian nghiên cứu
+Nghiên cứu được thực hiện tại trường THPT 
+Cộng Hiền và Trung tâm GDNN - GDTX Vĩnh 
+Bảo, thành phố Hải Phòng từ tháng 10/2022 
+đến tháng 05/2023.
+2.3 Thiết kế nghiên cứu
+Nghiên cứu mô tả cắt ngang.
+2.4 Cỡ mẫu nghiên cứu
+Sử dụng công thức tính cỡ mẫu cho ước 
+lượng một tỷ lệ quần thể:
+n = Z2
+(1 - /2)
+p (1 - p)
+d2
+Trong đó: n là cỡ mẫu tối thiểu; d là sai số 
+mong muốn, chọn d = 0,05; Z 2
+1-α/2 = 1,96 2 (độ 
+tin cậy 95%); p tỷ lệ rối loạn tâm thần chung 
+tham khảo từ nghiên cứu của Nguyễn Thị Thùy 
+Linh và cộng sự, ta có: p = 0,6867 [4]. Sau khi 
+tính toán, nghiên cứu cần có tối thiểu 331 học 
+sinh tham gia. Dự kiến mất mẫu 20%. Cỡ mẫu 
+thực tế: 420 học sinh.
+2.5 Phương pháp chọn mẫu
+Chọn chủ đích 2 trường THPT tại huyện 
+Vĩnh Bảo: THPT Cộng Hiền và Trung tâm 
+GDNN-GDTX Vĩnh Bảo. Lập danh sách các 
+lớp của 2 trường, chọn ngẫu nhiên 2 lớp của 
+mỗi khối trong mỗi trường. Tiếp theo lập danh 
+sách học sinh của mỗi lớp. Tại mỗi lớp của 
+trường đó chọn 35 đối tượng trực tiếp tham gia 
+vào nghiên cứu bằng phương pháp bốc thăm 
+ngẫu nhiên.
+2.6 Biến số nghiên cứu
+Thông tin về đối tượng nghiên cứu: Trường 
+THPT Cộng Hiền, trung tâm GDNN - GDTX, 
+giới: Nam, nữ, khối lớp, điểm học tập (đánh giá 
+ở kỳ học gần nhất) , mức độ hài lòng kết quả 
+học tập, thời gian cho việc học.
+Tỷ lệ lo âu, căng thẳng, trầm cảm.
+Một số yếu tố liên quan đến SKTT: Yếu tố 
+cá nhân, gia đình, nhà trường.  
+2.7 Phương pháp thu thập thông tin 
+Số liệu được thu thập bằng cách phát vấn bộ 
+câu hỏi thiết kế sẵn. 
+Phần các câu hỏi liên quan đến SKTT sử 
+dụng thang đo DASS-21. DASS-21 là thang tự 
+đánh giá gồm 21 mục hỏi về sự tự cảm nhận 
+tình hình sức khỏe tinh thần của đối tượng 
+nghiên cứu trong 1 tuần vừa qua, chia thành 3 
+phần (lo âu, trầm cảm, căng thẳng), mỗi phần 
+có 7 câu [5]. Tính tổng điểm DASS của từng 
+phần bằng cách lấy tổng điểm của từng phần rồi 
+nhân đôi. Ta có bảng đánh giá:
+Bảng 1. Phân loại mức độ đánh giá lo âu, trầm cảm, cẳng thẳng theo thang điểm DASS-21
+Mức độ Lo âu Trầm cảm Căng thẳng
+Bình thường 0 – 7 0 – 9 0 – 14
+Nhẹ 8 – 9 10 – 13 15 – 18
+Vừa 10 – 14 14 – 20 19 – 25
+Nặng 15 – 19 21 – 27 26 – 33
+Rất nặng ≥ 20 ≥ 28 ≥ 34
+----- VN025 page 3 -----
+117
+Tạp chí Y học dự phòng, Tập 34, số 1 Phụ bản - 2024
+2.8 Xử lý và phân tích số liệu 
+Phiếu điều tra được làm sạch, kiểm tra thông 
+tin ngay sau khi kết thúc phát vấn.
+Số liệu được nhập bằng phần mềm Epi Data 
+3.1 và phân tích bằng phần mềm Stata 14.0.  Sử 
+dụng các thuật toán thống kê mô tả với các giá 
+trị biến định tính được trình bày dưới dạng tần 
+số và tỷ lệ %. 
+2.9 Đạo đức nghiên cứu
+Nghiên cứu được sự đồng ý của trường 
+Đại học Y Dược Hải Phòng theo Quyết định 
+số 2811/QĐ-YDHP ngày 26 tháng 12 năm 
+2022, Ban giám hiệu trường THPT Cộng Hiền 
+và Giám đốc Trung tâm GDNN - GDTX Vĩnh 
+Bảo, thành phố Hải Phòng. Đối tượng nghiên 
+cứu tự nguyện tham gia sau khi được giải thích 
+rõ về mục đích và nội dung nghiên cứu. Thông 
+tin thu thập trung thực, khách quan, được bảo 
+mật và chỉ sử dụng cho mục đích nghiên cứu.
+III. KẾT QUẢ
+3.1 Thông tin chung về đối tượng nghiên cứu
+Bảng 2. Thông tin chung về đối tượng nghiên cứu (n = 420)
+Thông tin chung Tần số (n) Tỉ lệ (%)
+Giới tính
+Nam 250 59,52
+Nữ 170 40,48
+Học lực
+Trung bình, khá 328 78,10
+Giỏi 92 21,90
+Tình trạng hôn nhân của cha mẹ 
+Sống cùng nhau 363 86,43
+Ly thân 12 2,86
+Ly dị 45 10,71
+Trong số 420 học sinh tham gia nghiên 
+cứu, học sinh nam chiếm 59,52%. Học sinh 
+học lực khá, trung bình chiếm tỷ lệ cao hơn 
+với 79,10%. Đa số những học sinh tham gia 
+nghiên cứu đều có bố mẹ đang sống cùng nhau 
+là 86,43%.
+3.2 Thực trạng trầm cảm, lo âu, căng thẳng
+53,81
+49,05
+42,38
+70,00
+43,33
+28,57
+32,38
+55,24
+48,57
+38,10 37,38
+62,62
+0,00
+10,00
+20,00
+30,00
+40,00
+50,00
+60,00
+70,00
+80,00
+Lo âu Căng thẳng Trầm cảm RLSKTT
+THPT Cộng Hiền
+ Trung tâm GDNN-GDTX
+ Tổng
+%
+RLSKTT: Rối loạn sức khoẻ tâm thần
+Hình 1. Tỷ lệ học sinh trầm cảm, lo âu, căng thẳng (n = 420)
+----- VN025 page 4 -----
+118
+Tạp chí Y học dự phòng, Tập 34, số 1 Phụ bản - 2024
+Bảng 3. Mô hình hồi quy logistic các yếu tố liên quan đến tình trạng trầm cảm của học sinh (n = 420)
+Biến số độc lập OR (95%CI)
+p
+aOR (95%CI)
+p
+Trường
+THPT Cộng Hiền 1,53 (1,01 - 2,33)
+0,034
+1,24 (0,79 - 1,96)
+0,345
+GDNN - GDTX 1 1
+Giới tính
+Nữ 1,75 (1,15 - 2,7)
+0,006
+1,75 (1,13 - 2,7)
+0,011
+Nam 1 1
+Thời gian học nhiều
+Có 2,02 (1,19 - 3,43)
+0,005
+1,57 (0,9 - 2,75)
+0,109
+Không 1 1
+Hài lòng với kết quả học tập
+Có 1 1
+Không 1,97 (1,17 - 3,31)
+0,006
+1,65 (0,95 - 2,86)
+0,073
+Áp lực với kỳ vọng cao của gia đình
+Có 1,97 (1,17 - 3,31) 
+0,023
+1,51 (0,81 - 2,83)
+0,193
+Khôg 1 1
+Mâu thuẫn gia đình
+Có 1,77 (1,12 - 2,78) 
+0,009
+1,4 (0,88 - 2,26)
+0,156
+Không 1 1
+Gia đình thường xuyên quan tâm
+Có 1 1
+Không 1,6 (1,02 - 2,5) 
+0,029
+1,32 (0,83 - 2,17)
+0,244
+Áp lực cao với học tập, thi cử
+Có 1,9 (1,21 - 2,96)
+ 0,003
+1,33 (0,82 - 2,17)
+0,249
+Không 1 1
+Thầy cô thường xuyên quan tâm
+Có 1 1
+Không 1,8 (1,12 - 2,9) 
+0,009
+1,22 (0,73 - 2,04)
+0,447
+Mối quan hệ hòa đồng với bạn bè
+Có 1 1
+Không 3,025 (1,81 - 5,17) 
+< 0,001
+2,37 (1,38 - 4,05)
+0,001
+Khi phân tích mô hình hồi quy đa biến 
+logistic, tìm thấy mối liên quan có ý nghĩa 
+thống kê giữa các yếu tố: Giới tính nam và 
+không có mối quan hệ hòa đồng với bạn bè là 
+những yếu tố làm tăng khả năng mắc trầm cảm 
+ở học sinh (p < 0,05).
+Có 62,62% học sinh gặp ít nhất 1 loạn rối loạn 
+sức khoẻ tâm thần. Trong tổng 48,57% học sinh 
+mắc lo âu, 38,1% mắc căng thẳng và 37,38% mắc 
+trầm cảm, trường THPT Cộng Hiền có tỷ lệ học 
+sinh có dấu hiệu lo âu là cao nhất chiếm 53,81%, 
+tỷ lệ căng thẳng là 49,05% và tỷ lệ thấp nhất là 
+học sinh bị trầm cảm (42,38%). Trường trung tâm 
+GDNN - GDTX có tỷ lệ học sinh mắc lo âu là cao 
+nhất là 43,33%, tỷ lệ trầm cảm (32,38%) và thấp 
+nhất là tỷ lệ HS mắc căng thẳng (28,57%).
+GDNN-GDTX: Giáo dục nghề nghiệp - Giáo dục thường xuyên; THPT: Trung học phổ thông
+----- VN025 page 5 -----
+119
+Tạp chí Y học dự phòng, Tập 34, số 1 Phụ bản - 2024
+Bảng 4. Mô hình hồi quy logistic các yếu tố liên quan đến tình trạng lo âu của học sinh (n = 420)
+Biến số độc lập OR (95%CI)
+p
+aOR (95%CI)
+p
+Trường
+THPT Cộng Hiền 1,52 (1,01 - 2,28)
+0,032
+1,25 (0,78 - 2,01)
+0,35
+GDNN - GDTX 1 1
+Giới tính
+Nữ 1,52 (1,01 - 2,28)
+0,023
+1,53 (0,99 - 2,37)
+0,054
+Nam 1 1
+Thời gian học nhiều
+Có 2,5 (1,45 - 4,37)
+< 0,001
+1,83 (1 - 3,37)
+0,051
+Không 1 1
+Áp lực với kỳ vọng cao của gia đình
+Có 2,37 (1,27 - 4,52)
+0,003
+1,62 (0,83 - 3,16)
+0,154
+Không 1 1
+Mâu thuẫn gia đình
+Có 1 1
+Không 2,14 (1,36 - 3,39)
+< 0,001
+1,62 (1 - 2,6)
+0,05
+Gia đình thường xuyên quan tâm
+Có 1 1
+Không 1,8 (1,15 - 2,8)
+0,006
+1,54 (0,96 - 2,45)
+0,07
+Áp lực cao với học tập, thi cử
+Có 2,43 (1,55 - 3,8)
+< 0,001
+1,95 (1,16 - 3,29)
+0,012
+Không 1 1
+Thầy cô thường xuyên quan tâm
+Có 1 1
+Không 2,24 (1,38 - 3,64)
+< 0,001
+1,52 (0,9 - 2,56)
+0,111
+Mối quan hệ hòa đồng với bạn bè
+Có 1 1
+Không 3,03 (1,76 - 5,3)
+< 0,001
+2,25 (1,28 - 3,95)
+0,005
+Bạo lực học đường
+Có 3,2 (1,4 - 8,01)
+0,002
+2,42 (1,03 - 5,71)
+0,043
+Không 1 1
+GDNN - GDTX: Giáo dục nghề nghiệp - Giáo dục thường xuyên; THPT: Trung học phổ thông
+Khi phân tích mô hình hồi quy đa biến 
+logistic, tìm thấy mối liên quan có ý nghĩa 
+thống kê giữa các yếu tố: Áp lực cao với học 
+tập, thi cử; mối quan hệ không hòa đồng với 
+bạn bè và bị bạo lực học đường với tình trạng 
+lo âu của học sinh (p < 0,05) và đây là những 
+yếu tố làm tăng khả năng mắc rối loạn lo âu 
+ở học sinh. Chưa tìm thấy sự khác biệt có ý 
+nghĩa thống kê giữa các yếu còn lại với tình 
+trạng mắc rối loạn lo âu ở học sinh (p > 0,05).
+----- VN025 page 6 -----
+120
+Tạp chí Y học dự phòng, Tập 34, số 1 Phụ bản - 2024
+Bảng 5. Mô hình hồi quy logistic các yếu tố liên quan đến tình trạng căng thẳng của học sinh (n = 420)
+Biến số độc lập OR (95%CI)
+p
+aOR (95%CI)
+p
+Trường
+THPT Cộng Hiền 2,4 (1,57 - 3,67)
+< 0,001
+1,95 (1,14 - 3,33)
+0,014
+GDNN - GDTX 1 1
+Giới tính
+Nữ 1,94 (1,27 - 2,96)
+0,001
+1,96 (1,23 - 3,12)
+0,005
+Nam
+Học lực
+Khá/trung bình 1 1
+Giỏi 1,78 (1,08 - 2,94)
+0,015
+1,29 (0,72 - 2,3)
+0,395
+Thời gian học nhiều
+Có 2,5 (1,45 - 4,37)
+< 0,001
+1,74 (0,96 - 3,17)
+0,069
+Không 1 1
+Áp lực với kỳ vọng cao của gia đình
+Có 3,48 (1,87 - 6,59)
+< 0,001
+3,09 (1,57 - 6,09)
+0,001
+Không 1 1
+Mâu thuẫn gia đình
+Có 2,76 (1,74 - 4,35)
+< 0,001
+2,39 (1,43 - 3,92)
+0,001
+Không 1 1
+Gia đình thường xuyên quan tâm
+Có 1 1
+Không 1,85 (1,83 - 2,89)
+0,004
+1,39 (0,84 - 2,29)
+0,193
+Áp lực cao với học tập, thi cử
+Có 1,85 (1,83 - 2,89)
+< 0,001
+1,37 (0,8 - 2,33)
+0,245
+Không 1 1
+Thầy cô thường xuyên quan tâm
+Có 1 1
+Không 3,2 (1,89 - 5,44)
+< 0,001
+1,54 (0,9 - 2,64)
+0,113
+Mối quan hệ hòa đồng với bạn bè
+Có 1 1
+Không 3,2 (1,89 - 5,44)
+< 0,001
+2,4 (1,33 - 4,31)
+0,003
+Nội quy nhà trường
+Khắt khe 1,53 (1,01 - 2,31)
+0,036
+1,44 (0,89 - 2,32)
+0,138
+Không 1 1
+GDNN - GDTX: Giáo dục nghề nghiệp - Giáo dục thường xuyên; THPT: Trung học phổ thông
+Khi phân tích mô hình hồi quy đa biến 
+logistic, tìm thấy mối liên quan có ý nghĩa thống 
+kê giữa các yếu tố: Trường THPT Cộng Hiền; 
+nữ giới; mối quan hệ không hòa đồng với bạn 
+bè; áp lực với kỳ vọng của gia đình; mâu thuẫn 
+gia đình là những yếu tố làm tăng khả năng mắc 
+căng thẳng ở học sinh (p < 0,05). 
+IV. BÀN LUẬN
+4.1 Thực trạng trầm cảm, lo âu, căng thẳng 
+của học sinh 
+Theo Tổ chức Y tế Thế giới, sức khỏe tâm 
+thần là trạng thái thoải mái về tinh thần, giúp 
+con người đối phó với những căng thẳng trong 
+----- VN025 page 7 -----
+121
+Tạp chí Y học dự phòng, Tập 34, số 1 Phụ bản - 2024
+cuộc sống, nhận ra khả năng của mình, học tập 
+tốt và làm việc hiệu quả cũng như đóng góp 
+cho cộng đồng [6]. Sức khỏe tâm thần là nền 
+tảng cho cảm xúc, suy nghĩ, giao tiếp, học tập, 
+khả năng phục hồi, hy vọng và lòng tự trọng 
+[7]. Trong tổng 420 học sinh tham gia nghiên 
+cứu có 62,62% mắc ít nhất một rối loạn tâm 
+thần trong đó có 70% HS trường THPT Cộng 
+Hiền và tỷ lệ này là 55,24% ở trường Trung 
+tâm GDNN - GDTX Vĩnh Bảo. So sánh với 
+nghiên cứu của tác giả Danh Thành Tín tại 
+trường THPT chuyên Vị Thanh tỉnh Hậu 
+Giang cho kết quả có 77,3% học sinh mắc rối 
+loạn tâm thần, cao hơn so với nghiên cứu của 
+chúng tôi [8]. Sự khác nhau này có thể do địa 
+điểm nghiên cứu của tác giả Danh Thành Tín 
+được thực hiện ở trường chuyên của tỉnh, môi 
+trường học tập có phần áp lực hơn từ chuẩn 
+đầu vào đến đầu ra để đảm bảo chất lượng luôn 
+đứng đầu tỉnh. Tỷ lệ học sinh trầm cảm, lo âu, 
+căng thẳng cho thấy tỷ lệ học sinh mắc trầm 
+cảm là 37,38%, tỷ lệ mắc lo âu là 48,57% và tỷ 
+lệ căng thẳng là 38,1% trong đó tỷ lệ mắc các 
+rối loạn tâm thần của trường THPT Cộng Hiền 
+đều cao hơn trường trung tâm GDNN - GDTX 
+Vĩnh Bảo. Nghiên cứu của Nguyễn Danh Lâm 
+và cộng sự tại trường THPT Yên Định – Thanh 
+Hóa chỉ ra rằng tỷ lệ học sinh mắc rối loạn lo 
+âu là 49%, căng thẳng là 41,7% và trầm cảm là 
+43,6% [9]. Kết quả này cũng gần tương tự với 
+kết của của chúng tôi tại trường THPT Cộng 
+Hiền. Điều này cho thấy, xã hội ngày càng 
+phát triển khiến áp lực cuộc sống ngày càng 
+cao, học sinh cũng phải chịu những áp lực về 
+học tập, áp lực từ gia đình, bạn bè có thể dẫn 
+đến các vấn đề SKTT. So sánh kết quả trên với 
+nghiên cứu của tác giả Lê Trần Tuấn Anh tại 
+trường THPT Phù Cừ tỉnh Hưng Yên có tỷ lệ 
+mắc lo âu (25,8%), căng thẳng (20,5%) và trầm 
+cảm (15%) [10] thì trong nghiên cứu của chúng 
+tôi có tỷ lệ mắc các rối loạn tâm thần cao hơn. 
+Sự khác nhau này có thể giải thích là do nghiên 
+cứu của chúng tôi được thực hiện sau khi bùng 
+dịch COVID-19 , việc đóng cửa trường học, 
+cách ly tại nhà, lo lắng về dịch bệnh…dù đã 
+giảm trong thời gian gần đây nhưng nó vẫn 
+để lại những ảnh hưởng đối với các đối tượng 
+trong lứa tuổi này.
+4.2 Mô tả một số yếu tố liên quan đến thực 
+trạng sức khỏe tâm thần 
+Khi đưa các yếu tố liên quan làm tăng khả 
+năng mắc trầm cảm vào mô hình hồi quy logistic 
+nhị phân, chúng tôi thấy rằng: Học sinh nữ có 
+nguy cơ mắc rối loạn trầm cảm cao gấp 1,75 lần 
+(95%CI: 1,13 - 2,7) so với nam giới. Ngoài ra, 
+học sinh không có mối quan hệ hòa đồng với bạn 
+bè có khả năng mắc trầm cảm cao gấp 2,37 lần 
+so với nhóm còn lại (95%CI: 1,38 - 4,05). Đây 
+cũng là những yếu tố liên quan đến khả năng mắc 
+trầm cảm ở học sinh (p < 0,05). Như vậy, qua kết 
+quả bảng 3, chúng tôi thấy rằng những học sinh 
+không có mối quan hệ hòa đồng với bạn bè, đặc 
+biệt là học sinh nữ là những đối tượng nhạy cảm, 
+ít thổ lộ, sống nội tâm, dễ bị tổn thương về mặt 
+tinh thần và có khả năng mắc các rối loạn trầm 
+cảm hơn so với nam cùng trang lứa. Trong các 
+yếu tố liên quan có ý nghĩa thống kê với tình 
+trạng mắc rối loạn lo âu thu được kết quả bảng 
+4, học sinh có áp lực cao với học tập, thi cử có 
+khả năng mắc rối loạn lo âu cao gấp 1,95 lần 
+(95%CI: 1,16 - 3,29) so với nhóm còn lại; học 
+sinh có mối quan hệ không hòa đồng với bạn bè 
+có nguy cơ mắc rối loạn lo âu cao gấp 2,25 lần 
+(95%CI: 1,28 - 3,95) và học sinh bị bạo lực học 
+đường có nguy cơ bị lo âu cao gấp 2,42 lần so 
+với nhóm không bị bạo lực và đây là những yếu 
+tố ảnh hưởng thực sự đến nguy cơ mắc rối loạn 
+lo âu ở học sinh (p < 0,05). Từ đó ta thấy, những 
+học sinh bị bạo lực học đường, không có mối 
+quan hệ hòa đồng với bạn bè và cảm thấy áp lực 
+với học tập thi cử có khả năng mắc rối loạn lo 
+âu cao hơn những đối tượng khác. Quá trình học 
+cần song hành với việc nghỉ ngơi, thư giãn, nếu 
+học liên tục trong một thời gian dài, trẻ sẽ mất 
+đi hứng thú và cảm thấy chán nản lâu dần sẽ ảnh 
+hưởng đến tình trạng SKTT.
+Trong bảng 5, khi chúng tôi đưa tất cả các 
+yếu tố làm tăng khả năng mắc căng thẳng ở 
+đối tượng nghiên cứu vào mô hình thấy rằng: 
+Nguy cơ mắc rối loạn căng thẳng khi học tại 
+trường THPT Cộng Hiền cao hơn gấp 1,95 
+(95%CI:1,14 - 3,33) lần so với học tại Trung 
+tâm GDNN - GDTX; học sinh nữ có nguy cơ 
+mắc căng thẳng cao hơn gấp 1,96 lần so với 
+học sinh nam (95%CI: 1,23 - 3,12); học sinh 
+----- VN025 page 8 -----
+122
+Tạp chí Y học dự phòng, Tập 34, số 1 Phụ bản - 2024
+có mối quan hệ không hòa đồng với bạn bè làm 
+tăng khả năng mắc căng thẳng lên 2,4 lần so với 
+nhóm còn lại; áp lực với kỳ vọng của gia đình 
+là yếu tố làm tăng khả năng mắc căng thẳng 
+ở học sinh gấp 3,09 lần (95%CI: 1,57 - 6,09) 
+so với nhóm không bị áp lực; học sinh sống 
+trong gia đình có mâu thuẫn trong một tháng 
+gần đây có nguy cơ mắc căng thẳng cao gấp 
+2,39 lần (95%CI: 1,43 - 3,92). Đây là những 
+yếu tố liên quan đến khả năng mắc căng thẳng 
+ở học sinh (p < 0,05). Từ kết quả trên, chúng 
+tôi thấy rằng, học sinh nữ học tại trường THPT 
+Cộng Hiền và ít tiếp xúc, không có mối quan 
+hệ hòa đồng với bạn bè, sống trong gia đình 
+có mâu thuẫn và cảm thấy áp lực với kỳ vọng 
+của gia đình có nguy cơ mắc căng thẳng cao. 
+Hạn chế nghiên cứu của chúng tôi là học sinh 
+tự điền dưới sự hướng dẫn của nghiên cứu viên 
+nên không tránh khỏi gặp một số sai số trong 
+quá trình thu thập thông tin. Bên cạnh đó vấn 
+đề nghiên cứu SKTT trừu tượng, nhóm tác giả 
+hy vọng trong tương lai có những nghiên cứu 
+sâu hơn trên nhóm đối tượng này.
+V . KẾT LUẬN 
+Tỷ lệ học sinh trung học phổ thông ở huyện 
+Vĩnh Bảo mắc ít nhất một rối loạn tâm thần là 
+62,62% trong đó lo âu (48,57%), căng thẳng 
+(38,10%), trầm cảm (37,38%). Các yếu tố liên 
+quan có ý nghĩa thống kê đến rối loạn tâm thần 
+là giới nữ, không có mối quan hệ hòa đồng với 
+bạn bè, học sinh bị áp lực cao với học tập và thi 
+cử và kỳ vọng của gia đình, gia đình mâu thuẫn. 
+Học sinh cần lên kế hoạch và sắp xếp thời gian 
+biểu hợp lý. Gia đình và nhà trường thường 
+xuyên quan tâm, động viên, khích lệ không chỉ 
+học tập và các vấn đề trong cuộc sống.
+TÀI LIỆU THAM KHẢO
+1. World Health Organization. Mental health of 
+adolescents. 2021. Truy cập ngày 17/04/2023. 
+https://www.who.int/news-room/fact-sheets/
+detail/adolescent-mental-health.
+2. Viện Xã hội học, Đại học Queensland, và Trường 
+Y tế Công cộng Bloomberg Đại học Johns 
+Hopkins. Điều tra Sức khỏe Tâm thần Vị thành 
+niên Việt Nam: Báo cáo Kết quả chủ yếu. Hà Nội, 
+Việt Nam. 2022.
+3. Trịnh Thanh Xuân, Nguyễn Thị Mai, Phạm Thanh 
+Hải, Trần Thị Thúy Hà. Thực trạng mắc rối loạn 
+trầm cảm của học sinh trường Trung học phổ 
+thông Quốc Tuấn, An Lão, Hải Phòng. Tạp chí Y 
+học dự phòng. 2019; 29 (9): 117 - 122.
+4. Nguyễn Thị Thùy Linh, Tăng Công Đức Minh, 
+Nguyễn Thị Thắm và cộng sự. Thực trạng sức 
+khoẻ tâm thần của học sinh trường Trung học 
+phổ thông Phan Đăng Lưu, quận Kiến An, Hải 
+Phòng. Tạp chí Y học dự phòng. 2022; 32 (1): 
+216 - 222.
+5. Lan HTQ, Long NT, Hanh NV. Validation of 
+Depression, Anxiety and Stress Scales (DASS-
+21): Immediate Psychological Responses 
+of Students in the ELearning Environment. 
+International Journal of Higher Education. 2020; 
+9 (5): 125 - 133.
+6. World Health Organization. Mental Health 
+ATLAS. Accessed 07/05/2023. https://www.who.
+int/publications-detail-redirect/9789240036703. 
+7. Zhou SJ, Zhang LG, Wang LL, et al. Prevalence 
+and socio-demographic correlates of psychological 
+health problems in Chinese adolescents during 
+the outbreak of COVID-19. Eur Child Adolesc 
+Psychiatry. 2020; 29 (6): 749 – 758.
+8. Danh Thành Tín, Lê Minh Thuận, Huỳnh Ngọc 
+Thanh. Tỷ lệ stress, lo âu, trầm cảm của học sinh 
+trường THPT chuyên Vị Thanh tỉnh Hậu Giang và 
+các yếu tố liên quan. 2021. Tạp chí Y học Thành 
+phố Hồ Chí Minh. 2021; 25 (2): 161 - 167.
+9. Nguyễn Danh Lâm, Lê Minh Giang, Nguyễn 
+Thị Phương Mai và cộng sự. Thực trạng nguy cơ 
+stress, lo âu, trầm cảm của học sinh trung học phổ 
+thông huyện Yên Định, Thanh Hóa. Tạp chí Y học 
+Việt Nam. 2022; 618 (1): 67 - 70.
+10. Lê Trần Tuấn Anh, Nguyễn Thanh Hải, Nguyễn 
+Quang Đức và cộng sự. Thực trạng stress, lo âu, 
+trầm cảm và một số yếu tố liên quan ở học sinh 
+THPT Phù Cừ - huyện Phù Cừ - tỉnh Hưng Yên 
+năm học 2016 - 2017. Tạp chí Y học dự phòng. 
+2019; 27 (10): 74 – 78.
+----- VN025 page 9 -----
+123
+Tạp chí Y học dự phòng, Tập 34, số 1 Phụ bản - 2024
+CURRENT SITUATION OF MENTAL HEALTH AND SOME RELATED 
+FACTORS OF STUDENTS AT 2 SCHOOLS IN VINH BAO DISTRICT, 
+HAI PHONG CITY IN 2023
+Pham Thi Ngoc1, Hoang Thi Giang1, Pham Khanh Linh2, Vu Thi Chau3
+1Hai Phong University of Medicine and Pharmacy
+2Phu Quoc Vinmec Hospital
+3Hai Phong International Health Quarantine Center
+A cross - sectional descriptive study was 
+conducted among 420 students from two 
+schools, including: Cong Hien High School 
+and Vinh Bao Vocational and Continuing 
+Education Center from October 2022 to May 
+2023 to describe the mental health status 
+and related factors of students. The research 
+results showed that: The percentage of Cong 
+Hien high school students suffering from 
+depression, anxiety, and stress disorders were 
+42.38%, 53.81%, and 49.05%, respectively, 
+these percentages were 32.38%, 43.33%, and 
+28.57% in students at Vinh Bao Vocational 
+and Continuing Education Center. Factors 
+associated with an increased risk of depression 
+include students being female and not having 
+friendly relationships with friends. Increased 
+risk of anxiety is related to factors such as 
+students having high pressure with studying 
+and exams; not having a pleasant relationship 
+with friends, and experiencing school 
+violence. Students of Cong Hien High School, 
+high pressure with family expectations and 
+conflicting families increase the risk of stress.
+Keywords: Mental health; related factors; 
+high school students; Hai Phong

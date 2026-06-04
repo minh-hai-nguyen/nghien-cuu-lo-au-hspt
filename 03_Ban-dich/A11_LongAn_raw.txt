@@ -1,0 +1,816 @@
+PAGE 1:
+Trần Đức Sĩ. Tạp chí Y Dược học Phạm Ngọc Thạch. 2025; 4(4): 31-39 
+ 
+ 
+31 
+ 
+DOI: 10.59715/pntjmp.4.4.4 
+Tỷ lệ trầm cảm, lo âu, stress ở học sinh trung học phổ 
+thông tại thành phố Tân An, tỉnh Long An 
+Trần Đức Sĩ1, Mai Phương Dung1 
+1Bộ môn Y học Gia đình, Khoa Y, Trường Đại học Y khoa Phạm Ngọc Thạch 
+ 
+Tóm tắt 
+Ngày nhận bài: 
+07/10/2024 
+Ngày phản biện: 
+24/12/2024 
+Ngày đăng bài: 
+20/10/2025 
+Tác giả liên hệ: 
+Trần Đức Sĩ 
+Email: 
+sitd@pnt.edu.vn 
+ĐT: 0906609518 
+Đặt vấn đề: Tuổi vị thành niên, đặc biệt là độ tuổi trung học, là giai đoạn phát 
+triển tâm lý và điều chỉnh cảm xúc. Các rối loạn tâm lý trong giai đoạn này là vấn đề 
+đáng lưu tâm về sức khỏe cộng đồng, trong đó trầm cảm, lo âu và căng thẳng là 
+những rối loạn chính.  
+Đối tượng, phương pháp: Nghiên cứu cắt ngang, sử dụng thang đánh giá trầm 
+cảm, lo âu, stress DASS-21 cho 360 học sinh trung học phổ thông trên địa bàn thành 
+phố Tân An.   
+Kết quả: Sau khi hiệu chỉnh theo tỷ lệ số học sinh trong từng cụm thì tỷ lệ học 
+sinh có trầm cảm, lo âu, stress trên địa bàn thành phố Tân An, tỉnh Long An lần lượt 
+là 38,48%, 57,20% và 33,37%.  
+Kết luận: Tỷ lệ trầm cảm, lo âu và stress ở học sinh trung học phổ thông tại thành 
+phố Tân An khá cao. Học sinh trường chuyên và trường tư có trầm cảm, lo âu và 
+stress nhiều hơn đáng kể so với học sinh trường thường; Tỉ lệ cũng cao nhất ở năm 
+cuối cấp. 
+Từ khoá: trầm cảm, lo âu, stress, học sinh trung học phổ thông, DASS-21 
+ 
+Abstract 
+The prevalence of depression, anxiety, stress in high school 
+students in Tan An city, Long An province 
+ 
+Background: Adolescence, especially high school age, is a period of mental 
+development and emotional regulation. Mental disorders during this period are major 
+problem of public health in which, depression, anxiety and stress are the main 
+disorders. 
+Subjects and Methods: Cross-sectional study, using a questionnaire, including 
+the Depression, anxiety, and stress scale 21 (DASS-21) to interview 360 high school 
+students in Tan An city.  
+Results: After adjusting for the proportion of students in each cluster, the rates of 
+students with depression, anxiety, and stress in Tan An city, Long An province were 
+38.48%, 57.20%, and 33.37%, respectively.  
+Conclusions: Prevalences of suspected depression, anxiety and stress cases 
+screened among high school students in Tan An city are moderately high. Students 
+from specialized schools and private schools experience significantly higher levels of 
+depression, anxiety, and stress compared to students from regular schools; the 
+highest rates are observed in the final year of highschool. 
+Keywords: depression, anxiety, stress, highschool students, DASS-21 
+Nghiên cứu 
+Tạp chí Y Dược học Phạm Ngọc Thạch 
+
+===
+PAGE 2:
+Trần Đức Sĩ. Tạp chí Y Dược học Phạm Ngọc Thạch. 2025; 4(4): 31-39 
+ 
+ 
+32 
+1. ĐẶT VẤN ĐỀ 
+Lứa tuổi vị thành niên, đặc biệt là độ tuổi 
+trung học phổ thông, là lứa tuổi có sự thay đổi 
+nhanh chóng trong quá trình phát triển thể chất, 
+tinh thần và điều tiết cảm xúc. Các rối loạn tâm 
+thần trong giai đoạn này là một vấn đề rất lớn 
+đối với sức khỏe cộng đồng, là nguyên nhân 
+hàng đầu gây nên bệnh tật ở người trẻ, có thể 
+dẫn đến nhiều hậu quả nghiêm trọng đối với sức 
+khỏe hiện tại và tương lai của thanh thiếu niên. 
+Việc chẩn đoán và điều trị thích hợp các rối loạn 
+tâm thần trong giai đoạn này mang lại cho thanh 
+thiếu niên những lợi ích tích cực ngay lập tức 
+và ngăn ngừa các hậu quả như kết quả học tập 
+kém, lạm dụng chất gây nghiện, bạo lực và 
+hành vi tự tử [1-5]. Tại Hoa Kỳ và Úc, cứ 5 
+thanh thiếu niên thì có một người mắc các vấn 
+đề sức khỏe tâm thần; ở các nước đang phát 
+triển, tỷ lệ này dao động từ 12,0-29,0% [6]. 
+Trầm cảm, lo âu và stress là những rối loạn 
+chủ yếu. Một số nghiên cứu chỉ ra rằng, tỷ lệ 
+mắc trầm cảm, lo âu và stress đang gia tăng ở 
+thanh thiếu niên [7-9]. Nghiên cứu của 
+Mohammed M Banarwi ở thanh thiếu niên cho 
+thấy tỷ lệ có các triệu chứng của trầm cảm, lo 
+âu và stress lần lượt là 30,8%, 35,2% và 
+14,7% [10]. Tại Việt Nam, nghiên cứu của Ngô 
+Thị Diệu Hường tại thành phố Huế cho thấy tỷ 
+lệ học sinh trung học phổ thông có triệu chứng 
+trầm cảm, lo âu, stress là 46,1%, 68,2% và 
+49,6% [11]. Phần lớn nghiên cứu đều ghi nhận 
+rằng đối tượng tham gia trong nghiên cứu 
+không hoặc ít tìm kiếm sự giúp đỡ khi có vấn 
+đề sức khỏe tâm thần, để lại nhiều hậu quả, đặc 
+biệt làm gia tăng tỉ lệ tự sát. Theo nghiên cứu 
+của Nguyễn Tấn Đạt, tỷ lệ có kế hoạch tự sát ở 
+học sinh trung học phổ thông là 12,9%, đã có 
+hành vi tự sát là 3,8%, trong đó, trầm cảm và lo 
+âu là những yếu tố nguy cơ tự sát ở nhóm đối 
+tượng này [12]. 
+Thành phố Tân An là trung tâm kinh tế, 
+chính trị, văn hóa, giáo dục và khoa học-kỹ 
+thuật của tỉnh Long An. Tân An có vị trí chiến 
+lược, là cầu nối giữa thành phố Hồ Chí Minh và 
+các tỉnh vùng đồng bằng Sông Cửu Long, thuộc 
+vùng kinh tế trọng điểm phía Nam. Theo thống 
+kê của Sở Giáo dục – Đào tạo Long An, vào đầu 
+năm học 2023-2024, thành phố Tân An có 6281 
+học sinh trung học phổ thông đang theo học tại 
+bốn trường trung học phổ thông công lập và hai 
+trường tư thục. Cùng với giáo dục, mạng lưới y 
+tế thành phố Tân An cũng có những bước phát 
+triển vượt bậc. Tuy nhiên, các vấn đề sức khỏe 
+tâm thần, trong đó có tình trạng trầm cảm, lo âu 
+và stress ở học sinh trung học phổ thông vẫn 
+chưa được quan tâm, đánh giá đúng mức. 
+Từ những thực tế trên, nghiên cứu này được 
+thực hiện nhằm đánh giá thực trạng trầm cảm, lo 
+âu, stress ở học sinh trung học phổ thông tại 
+thành phố Tân An, tỉnh Long An năm 2024. Kết 
+quả nghiên cứu tạo cơ sở dữ liệu, nhằm đề xuất 
+các giải pháp cho nhà trường và phụ huynh trong 
+việc chăm sóc sức khỏe tâm thần cho học sinh. 
+ 
+2. ĐỐI TƯỢNG VÀ PHƯƠNG PHÁP 
+NGHIÊN CỨU 
+ Đối tượng 
+Đối tượng của nghiên cứu là học sinh đang 
+theo học tại các trường THPT tại thành phố Tân 
+An, tỉnh Long An, gồm học sinh trường chuyên, 
+trường công lập không chuyên và trường tư lần 
+lượt là 868, 4623 và 790 học sinh. Các khảo sát 
+được thực hiện từ tháng 01/2024 đến tháng 
+03/2024. Đối với tiêu chuẩn chọn vào, học sinh 
+được chọn theo khung chọn mẫu và đồng ý tham 
+gia nghiên cứu. Các tiêu chuẩn loại trừ bao gồm: 
+Học sinh không trả lời đầy đủ các câu hỏi; học 
+sinh trả lời hiện đang có những vấn đề như gia 
+đình có tang, gia đình bất hòa, chia tay bạn 
+trai/bạn gái. 
+ Phương pháp nghiên cứu 
+Cỡ mẫu tối thiểu được xác định dựa trên công 
+thức tính cỡ mẫu cho nghiên cứu cắt ngang ước 
+lượng một tỷ lệ: 
+ 
+Trong đó, α là xác suất sai lầm loại I = 0,05; 
+d là độ chính xác (sai số cho phép 0,1); và 
+P là 0,598 [13]. Nghiên cứu sử dụng phương 
+pháp chọn mẫu ngẫu nhiên có phân tầng và phân 
+cụm; cỡ mẫu do đó được nhân hệ số thiết kế là 2. 
+Cỡ mẫu tối thiểu tính được n = 186 học sinh. Khi 
+phân tổng số mẫu cho 3 trường dựa trên tỷ lệ học 
+sinh từng cụm, số mẫu được phân bổ cho trường 
+THPT Chuyên Long An, Lê Quý Đôn và Hà 
+Long lần lượt là 35, 120 và 32 học sinh. Tuy 
+nhiên, mẫu tối thiểu tại trường chuyên và trường 
+tư quá ít, khó khảo sát các đặc tính của dân số 
+
+===
+PAGE 3:
+Trần Đức Sĩ. Tạp chí Y Dược học Phạm Ngọc Thạch. 2025; 4(4): 31-39 
+ 
+ 
+33 
+từng trường. Vậy nên chúng tôi đã chọn số 
+lượng mẫu là 120 học sinh ở mỗi trường. Tỉ lệ 
+trầm cảm, lo âu, stress của học sinh tỉnh Long 
+An được chuẩn hóa theo phân bố các trường.  
+ Phương pháp chọn mẫu 
+Mẫu được chọn tại ba trong sáu trường 
+THPT tại thành phố Tân An, bao gồm Trường 
+THPT Chuyên Long An; bốc thăm ngẫu nhiên 
+chọn một trong ba trường THPT công lập 
+không chuyên (THPT Lê Quý Đôn); và bốc 
+thăm ngẫu nhiên chọn một trong hai trường 
+THPT tư thục (THPT Hà Long). Mẫu được 
+phân bổ đều cho cả ba trường. Tại mỗi trường, 
+số lượng mẫu được chia đều cho ba khối. Tại 
+mỗi khối, danh sách học sinh toàn khối được sử 
+dụng để làm khung chọn mẫu để chọn ngẫu 
+nhiên người được phỏng vấn. Bất cứ em nào 
+được chọn mà không đồng ý tham gia nghiên 
+cứu thì em liền kề trong danh sách và đồng ý 
+tham gia nghiên cứu sẽ được chọn thay thế. 
+ Phương pháp thu thập số liệu 
+Học sinh được chọn và đồng ý tham gia 
+nghiên cứu sẽ được nghiên cứu viên phỏng vấn 
+thông qua bảng câu hỏi. Quá trình phỏng vấn 
+có thể linh động bằng nhiều hình thức như trực 
+tiếp (vào các giờ giải lao, nghỉ tiết, học sinh 
+được về sớm) hoặc thông qua các nền tảng trực 
+tuyến sau giờ học (zalo, viber) để đảm bảo việc 
+phỏng vấn thuận tiện nhất cho học sinh và 
+không ảnh hưởng đến việc học của các em. 
+ Thang đo sử dụng trong nghiên cứu 
+Nghiên cứu sử dụng thang đo Stress, trầm 
+cảm, lo âu (DASS-21). Thang đo DASS-21 
+được đánh giá tính tin cậy và tính giá trị với chỉ 
+số Cronbach’s Alpha từ 0,70 đến 0,88 cho các 
+tiểu mục và toàn bộ thang đo. Các mục được 
+đánh giá trên thang điểm Likert 4 điểm, với “0” 
+điểm tương ứng với tình trạng đó không xảy ra 
+và “3” là tương ứng với việc tình trạng hiện tại 
+thường xuyên xảy ra. Điểm tổng hợp của mỗi 
+thang điểm được nhân với hai để tính điểm lo âu, 
+trầm cảm và stress [14]. 
+ Xử lý số liệu 
+Số liệu được thu thập và nhập liệu bằng phần 
+mềm Epidata. Sau đó, số liệu được phân tích 
+bằng phần mềm SPSS 25.0. 
+Ở nghiên cứu này, phép kiểm Chi bình 
+phương hoặc Fisher được dùng để xác định mối 
+liên quan giữa các biến nhị giá. Ngoài ra, tương 
+quan Spearman cũng được sử dụng để đánh giá 
+sự tương quan giữa các biến định lượng. 
+ Vấn đề y đức 
+Đề cương nghiên cứu đã được chấp thuận về mặt 
+y đức trong nghiên cứu thông qua Hội đồng Đạo đức 
+trong nghiên cứu Y sinh học Trường Đại học Y khoa 
+Phạm Ngọc Thạch số 982/TĐHYKPNT-HĐĐĐ 
+ngày 04 tháng 01 năm 2024. 
+ 
+3. KẾT QUẢ 
+Trong nghiên cứu này, có tổng 360 học sinh 
+thuộc ba trường THPT tham gia, số học sinh 
+đến từ mỗi trường là 120 học sinh, chiếm 
+33,33%, số học sinh mỗi khối là 120 học sinh, 
+tỷ lệ 33,33%, giới tính tham gia nghiên cứu là 
+150 học sinh nam, chiếm 41,70% và 210 học 
+sinh nữ, chiếm tỷ lệ 58,30%.
+ 
+Bảng 1. Tỷ lệ và mức độ trầm cảm lo âu, stress qua khảo sát bằng DASS-21 (n=360)
+ 
+      Bệnh lý 
+ 
+Mức độ 
+Trầm cảm 
+Lo âu 
+Stress 
+n 
+Tỷ lệ % 
+n 
+Tỷ lệ % 
+n 
+Tỷ lệ % 
+Không 
+203 
+56,4 
+137 
+38,1 
+128 
+60,6 
+Nhẹ 
+53 
+14,7 
+52 
+14,4 
+58 
+16,1 
+Vừa 
+55 
+15,3 
+91 
+25,3 
+45 
+12,5 
+Nặng 
+25 
+6,9 
+31 
+8,6 
+30 
+8,3 
+Rất nặng 
+24 
+6,7 
+49 
+13,6 
+9 
+2,5 
+ 
+
+===
+PAGE 4:
+Trần Đức Sĩ. Tạp chí Y Dược học Phạm Ngọc Thạch. 2025; 4(4): 31-39 
+ 
+ 
+34 
+Qua khảo sát bằng DASS-21, có 43,6% (157) học sinh có biểu hiện trầm cảm, chủ yếu là mức 
+độ vừa và nhẹ. 6,9% học sinh có biểu hiện trầm cảm mức độ nặng, mức độ rất nặng có 6,7% học 
+sinh. Với tình trạng lo âu, có 61,9% (223) học sinh có biểu hiện lo âu, chủ yếu là mức độ vừa và 
+nhẹ. Tuy nhiên, có đến 13,6% học sinh có biểu hiện lo âu mức độ rất nặng. Trong khảo sát về 
+stress, có 39,4% (142) học sinh có biểu hiện stress, chủ yếu là mức độ vừa và nhẹ. Có 8,3% học 
+sinh có biểu hiện stress mức độ nặng và 2,5% học sinh có stress rất nặng. 
+Sau khi hiệu chỉnh theo tỷ lệ số học sinh trong từng cụm (nêu trên) thì tỷ lệ học sinh có trầm cảm, 
+lo âu, stress trên địa bàn thành phố Tân An, tỉnh Long An lần lượt là 38,48%, 57,20% và 33,37%. 
+So với học sinh trường THPT Chuyên Long An, học sinh trường THPT Lê Quý Đôn có tỷ lệ 
+trầm cảm ít hơn, sự khác biệt này có ý nghĩa thống kê (p = 0,009). Tỷ lệ trầm cảm không khác biệt 
+giữa trường THPT Hà Long và THPT Chuyên Long An. So với học sinh lớp 10, học sinh lớp 11 
+có tỷ lệ trầm cảm thấp hơn và học sinh lớp 12 có tỷ lệ trầm cảm cao hơn. Tuy nhiên, sự khác biệt 
+này không có ý nghĩa thống kê. Học sinh nữ có tỷ lệ trầm cảm cao hơn học sinh nam, với OR= 
+1,229, sự khác biệt không có ý nghĩa thống kê. 
+Tương tự, học sinh trường THPT Lê Quý Đôn có tỷ lệ lo âu ít hơn hẳn so với học sinh trường 
+THPT Chuyên Long An, sự khác biệt này có ý nghĩa thống kê (p = 0,012). So với học sinh lớp 10 
+thì học sinh lớp 11 có tỷ lệ lo âu thấp hơn và học sinh lớp 12 có tỷ lệ lo âu cao hơn, tuy nhiên, sự 
+khác biệt không có ý nghĩa thống kê. Học sinh nữ cũng có tỷ lệ lo âu cao hơn học sinh nam nhưng 
+không có ý nghĩa thống kê. 
+ 
+ 
+
+===
+PAGE 5:
+Trần Đức Sĩ. Tạp chí Y Dược học Phạm Ngọc Thạch. 2025; 4(4): 31-39 
+ 
+ 
+35 
+ 
+ 
+ 
+Yếu tố 
+Trầm cảm 
+Lo âu 
+Stress 
+n 
+OR 
+p 
+CI 95% 
+n 
+OR 
+p 
+CI 95% 
+n 
+OR 
+p 
+CI 95% 
+Trường 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+THPT Chuyên Long An 
+59 
+1 
+ 
+ 
+81 
+1 
+ 
+ 
+54 
+1 
+ 
+ 
+THPT Lê Quý Đôn 
+39 
+0,489 
+0,009 
+0,295 – 0,840 
+62 
+0,505 
+0,012 
+0,297 – 0,860 
+32 
+0,440 
+0,003 
+0,255 – 0,759 
+TH-THCS-THPT Hà Long 
+59 
+1 
+1 
+0,603 – 1,659 
+80 
+0,993 
+0,980 
+0,573 – 1,719 
+56 
+1,082 
+0,763 
+0,646 – 1,812 
+Lớp 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10 
+53 
+1 
+ 
+ 
+75 
+1 
+ 
+ 
+41 
+1 
+ 
+ 
+11 
+40 
+0,632 
+0,086 
+0,375 – 1,067 
+63 
+0,657 
+0,115 
+0,390 – 1,107 
+44 
+1,121 
+0,678 
+0,654 – 1,920 
+12 
+64 
+1,145 
+0,156 
+0,869 – 2,402 
+85 
+1,464 
+0,173 
+0,864 – 2,531 
+57 
+1,774 
+0,034 
+1,043 – 3,015 
+Giới tính 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nam 
+61 
+1 
+ 
+ 
+88 
+1 
+ 
+ 
+58 
+1 
+ 
+ 
+Nữ 
+96 
+1,229 
+0,341 
+0,804 –1,878 
+135 
+1,300 
+0,246 
+0,834 – 2,027 
+84 
+1,806 
+0,716 
+0,697 – 1,691 
+Bảng 2. Các yếu tố nhân khẩu học liên quan đến trầm cảm, lo âu và stress 
+
+===
+PAGE 6:
+Trần Đức Sĩ. Tạp chí Y Dược học Phạm Ngọc Thạch. 2025; 4(4): 31-39 
+ 
+ 
+36 
+Kiểm định Chi bình phương 
+So với học sinh trường THPT Lê Quý Đôn có tỷ lệ stress thấp hơn so với học sinh trường THPT 
+Chuyên Long An, với OR= 0,440, sự khác biệt có ý nghĩa thống kê (p = 0,003). Học sinh trường 
+TH-THCS-THPT Hà Long có tỷ lệ stress cao hơn học sinh trường THPT Chuyên Long An nhưng 
+sự khác biệt không có ý nghĩa thống kê. Học sinh lớp 12 có tỷ lệ stress cao hơn học sinh lớp 10, 
+với OR = 1,774, sự khác biệt này có ý nghĩa thống kê (p = 0,034). Học sinh lớp 11 lại có tỷ lệ stress 
+thấp hơn so với lớp 10, nhưng sự khác biệt không có ý nghĩa thống kê. Tương tự như lo âu, trầm 
+cảm, nữ sinh cũng stress nhiều hơn nam. 
+Sử dụng phép kiểm Chi bình phương để kiểm định mối liên quan giữa lo âu, stress và trầm cảm, 
+cho thấy học sinh có lo âu có tỷ lệ trầm cảm cao hơn những học sinh không có tình trạng lo âu 
+(OR=9,319 ; CI95%: 0,295 - 0,840), mối liên quan có ý nghĩa thống kê (p = 0,009), học sinh có 
+stress có tỷ lệ trầm cảm cao hơn học sinh không stress (OR=10,956 ; CI95%: 6,647 – 18,057), mối 
+liên quan có ý nghĩa thống kê (p < 0,001). 
+Sử dụng tương quan Spearman để đánh giá tương quan giữa điểm DASS-21 trầm cảm so với 
+DASS-21 lo âu và DASS-21 stress, cho thấy có mối tương quan thuận, mức độ mạnh giữa DASS-
+21 trầm cảm và DASS-21 lo âu (p < 0,001; rho = 0,561), có mối tương quan thuận, mức độ mạnh 
+giữa DASS-21 trầm cảm và DASS-21 stress (p < 0,001; rho = 0,567). 
+ 
+4. BÀN LUẬN 
+Lứa tuổi trung học phổ thông là giai đoạn 
+chuyển tiếp giữa trẻ em và người lớn, đây là 
+khoảng thời gian vô cùng nhạy cảm, dễ xảy ra 
+các rối loạn tâm sinh lý và các vấn đề về sức 
+khỏe tâm thần, trong đó nổi bật là tình trạng trầm 
+cảm, lo âu và stress. Trong nghiên cứu này, có 
+360 học sinh thuộc ba trường THPT tham gia, 
+gồm 150 học sinh nam, chiếm 41,70% và 210 
+học sinh nữ, chiếm tỷ lệ 58,30%. Tỷ lệ giới tính 
+của đối tượng tham gia nghiên cứu tương đồng 
+với tỷ lệ giới tính của quần thể nghiên cứu là 
+45,55% nam và 54,45% nữ. 
+Kết quả cho thấy, trong 360 học sinh tham 
+gia, tỷ lệ học sinh có dấu hiệu trầm cảm, lo âu 
+và stress lần lượt là 43,6%, 61,9% và 39,4%. 
+Sau khi hiệu chỉnh theo tỷ lệ số học sinh trong 
+từng cụm thì tỷ lệ học sinh có trầm cảm, lo âu, 
+stress trên địa bàn thành phố Tân An, tỉnh Long 
+An lần lượt là 38,48%, 57,20% và 33,37%. So 
+với các nghiên cứu tại Việt Nam có cùng thang 
+đo DASS-21, kết quả này có cùng xu hướng (tỷ 
+lệ rối loạn lo âu cao vượt trội hơn trầm cảm và 
+stress) nhưng tỷ lệ thấp hơn với nghiên cứu của 
+tác giả Hà Thị Kim Hoàng được thực hiện tại 
+thành phố Cần Thơ năm 2022, với tỷ lệ trầm 
+cảm là 48,1%, tỷ lệ lo âu là 58,9%, stress là 
+40,4%  [15]; So với nghiên cứu của tác giả 
+Danh Thành Tín được thực hiện tại trường 
+THPT Chuyên Vị Thanh, tỉnh Hậu Giang năm 
+2021 với tỷ lệ trầm cảm, lo âu, stress lần lượt là 
+42,1%, 63,8% và 52,1%  [16] thì kết quả tại 
+trường THPT Chuyên Long An của chúng tôi có 
+sự tương đồng (49,17%, 67,5% và 45%). Bên 
+cạnh đó, kết quả nghiên cứu của chúng tôi thấp 
+hơn nghiên cứu của tác giả Trần Văn Công được 
+thực hiện tại thành phố Hà Nội năm 2019 với tỷ 
+lệ trầm cảm là 36,9%, tỷ lệ lo âu là 77,9%, tỷ lệ 
+stress là 69,9% [13]. Sự tương đồng và khác biệt 
+giữa các nghiên cứu có thể do sự tương đồng và 
+khác biệt về vùng miền, khí hậu, điều kiện kinh 
+tế, văn hóa, xã hội và sự phát triển khoa học, kỹ 
+thuật giữa các địa phương. Tuy nhiên, tất cả các 
+kết quả này đều cho thấy tỷ lệ học sinh trung học 
+phổ thông ở Việt Nam có dấu hiệu stress, lo âu 
+và trầm cảm là rất cao so với ước tính của Quỹ 
+Nhi đồng Liên Hợp Quốc UNICEF về tỷ lệ hiện 
+mắc các vấn đề sức khỏe tâm thần ở trẻ em và vị 
+thành niên tại Việt Nam (8 – 29%) [27], cũng 
+như tỷ lệ trẻ vị thành niên có các vấn đề sức khỏe 
+tâm thần trên toàn thế giới (khoảng 13%) [18]. 
+Điều này một lần nữa khẳng định, trầm cảm, lo 
+âu và stress ở lứa tuổi trung học phổ thông là một 
+vấn đề cấp bách mà nhà trường, gia định và toàn 
+xã hội phải quan tâm sàng lọc, chẩn đoán và can 
+thiệp tích cực.  
+Về phân loại mức độ (nhẹ, vừa, nặng và rất 
+nặng), nghiên cứu ghi nhận đa số trong 360 học 
+sinh có rối loạn ở mức độ nhẹ và vừa. Tỷ lệ trầm 
+cảm, lo âu và stress mức độ vừa, nặng và rất nặng 
+lần lượt là 28,9%, 47,5%, 23,3%. Tỷ lệ này 
+tương đồng với nghiên cứu của tác giả Ngô Thị 
+
+===
+PAGE 7:
+Trần Đức Sĩ. Tạp chí Y Dược học Phạm Ngọc Thạch. 2025; 4(4): 31-39 
+ 
+ 
+37 
+Diệu Hường thực hiện ở thành phố Huế năm 
+2022 (28,9%, 48,7% và 32,4%) nhưng lại cao 
+hơn nghiên cứu của tác giả Trần Thị Hương 
+Quỳnh thực hiện tại thành phố Vinh, tỉnh Nghệ 
+An năm 2020 (tỷ lệ trầm cảm, lo âu mức độ vừa 
+trở lên là 29,9% và 28,7%). Sự khác biệt này là 
+do tỷ lệ trầm cảm, lo âu chung trong nghiên cứu 
+của chúng tôi cao hơn [19]. 
+Về mối liên quan giữa trầm cảm, lo âu và 
+stress và các yếu tố nhân khẩu học, nghiên cứu 
+của chúng tôi chỉ ra rằng: Học sinh nữ có tỷ lệ 
+trầm cảm, lo âu và stress cao hơn học sinh nam, 
+nhưng sự khác biệt không có ý nghĩa thống kê. 
+Học sinh trường THPT Lê Quý Đôn có tỷ lệ 
+trầm cảm, lo âu, stress thấp hơn so với học sinh 
+trường THPT Chuyên Long An, sự khác biệt có 
+ý nghĩa thống kê (p lần lượt là 0,009; 0,012 và 
+0,003). Điều này có thể dễ dàng lý giải là vì học 
+sinh trường chuyên phải tiếp thu một lượng 
+kiến thức nhiều hơn và thường xuyên phải đối 
+mặt với nhiều kì thi chọn học sinh giỏi với 
+nhiều kì vọng từ gia đình, thầy cô và kì vọng từ 
+bản thân các em. Học sinh trường tư thục có 
+mức độ trầm cảm, lo âu, stress gần bằng học 
+sinh trường chuyên có thể do kì vọng của gia 
+đình cao hoặc do chương trình học của trường 
+tư cũng được tăng cường so với trường trung 
+học phổ thông công lập. Học sinh lớp 12 có tỷ 
+lệ stress cao hơn học sinh lớp 10, sự khác biệt 
+này có ý nghĩa thống kê (p = 0,034). Nguyên 
+nhân rất có thể do học sinh lớp 12 phải chuẩn bị 
+cho kỳ thi cuối cấp với số lượng bài vở khá 
+nhiều nên stress nhiều hơn học sinh lớp 10. 
+Ngoài ra, học sinh lớp 12 cũng có tỷ lệ trầm cảm 
+và lo âu cao hơn so với lớp 10, nhưng không có 
+ý nghĩa thống kê. 
+Về mối liên quan giữa lo âu, stress và trầm 
+cảm, học sinh có lo âu tỷ lệ trầm cảm cao hơn 
+những học sinh không có tình trạng lo âu, mối 
+liên quan có ý nghĩa thống kê (p = 0,009). Học 
+sinh có stress có tỷ lệ trầm cảm cao hơn học 
+sinh không stress, mối liên quan có ý nghĩa 
+thống kê (p < 0,001). Tương quan Spearman 
+cho thấy có mối tương quan thuận, mức độ 
+mạnh giữa DASS-21 trầm cảm và DASS-21 
+stress (p < 0,001, rho = 0,567). Về mối liên 
+quan này, có những giả thuyết khác nhau về 
+mối quan hệ nhân quả giữa lo âu, stress và trầm 
+cảm. Đã có những nghiên cứu cho thấy lo âu và 
+stress kéo dài có thể dẫn đến trầm cảm. Bên cạnh 
+đó, có đề xuất cho rằng trầm cảm là tiền thân của 
+lo âu, mặc dù số lượng giả thuyết như vậy là rất 
+ít và cũng có quan điểm cho rằng lo âu, stress và 
+trầm cảm là những bệnh lý đi kèm, các triệu 
+chứng của chúng kết hợp cùng nhau, chồng chéo 
+nhau nhiều hơn là xuất hiện một cách riêng lẻ 
+[20, 21]. Nghiên cứu của chúng tôi ghi nhận mối 
+quan hệ có ý nghĩa thống kê giữa lo âu và trầm 
+cảm, giữa stress và trầm cảm, cũng như mối 
+tương quan mạnh giữa điểm lo âu và điểm stress 
+với điểm trầm cảm theo thang DASS-21, tuy 
+nhiên, đây chỉ là nghiên cứu cắt ngang, không 
+nói lên được mối liên quan nhân quả của lo âu, 
+stress và trầm cảm.  
+Một hạn chế của nghiên cứu là chúng tôi chỉ 
+khảo sát ở 3 trường THPT trong tỉnh. Chúng tôi 
+hạn chế phần nào các sai số, nâng cao tính hợp 
+tác của người tham gia bằng cách giải thích nhiều 
+lần về mục đích, tính ẩn danh của nghiên cứu 
+thông qua các buổi nói chuyện toàn trường, thầy 
+cô, học sinh từng lớp và thư ngỏ về gia đình. Việc 
+lựa chọn phỏng vấn trực tiếp hay trực tuyến, thời 
+điểm phỏng vấn tùy theo ý kiến từng học sinh 
+tham gia. 
+ 
+5. KẾT LUẬN 
+Nghiên cứu trên 360 học sinh trung học phổ 
+thông cho thấy tỷ lệ học sinh có dấu hiệu trầm 
+cảm, lo âu, stress theo thang điểm DASS-21 lần 
+lượt là 43,6%, 61,9% và 39,4%,. Sau khi hiệu 
+chỉnh theo tỷ lệ số học sinh trong từng cụm thì tỷ 
+lệ học sinh có trầm cảm, lo âu, stress trên địa bàn 
+thành phố Tân An, tỉnh Long An lần lượt là 
+38,48%, 57,20% và 33,37%. Học sinh cuối cấp 
+có tỉ lệ stress cao hơn học sinh lớp 10, 11. Học 
+sinh trường tư có mức độ trầm cảm, lo âu, stress 
+tương tự như học sinh trường chuyên và cao hơn 
+so với trường công lập không chuyên. Các 
+trường, đặc biệt là các trường chuyên, trường tư 
+nên tầm soát stress, lo âu, trầm cảm trên học sinh 
+để có những hỗ trợ cụ thể cho từng trường hợp 
+cũng như xem xét về áp lực học tập, kỳ vọng 
+chung nếu cần. 
+Kết quả nghiên cứu làm tiền đề để thực hiện 
+nhiều nghiên cứu sâu rộng hơn về những yếu tố 
+liên quan đến trầm cảm, lo âu, stress, để đề ra 
+những biện pháp để sàng lọc, phát hiện sớm các 
+rối loạn tâm lý, tâm thần cũng như xây dựng hệ 
+
+===
+PAGE 8:
+Trần Đức Sĩ. Tạp chí Y Dược học Phạm Ngọc Thạch. 2025; 4(4): 31-39 
+ 
+ 
+38 
+thống hỗ trợ học sinh trong việc kiểm soát hành 
+vi và điều tiết cảm xúc, để nâng cao sức khỏe 
+tinh thần và sức khỏe tổng quát cho học sinh, 
+đồng thời, giảm gánh nặng cho nhà trường, gia 
+đình và xã hội ở hiện tại và tương lai. 
+ 
+TÀI LIỆU THAM KHẢO 
+1. Ringeisen H, Oliver K A, Menvielle E. 
+Recognition and treatment of mental 
+disorders in children: considerations for 
+pediatric health systems, Paediatr Drugs. 
+(2002);4(11):697-703. 
+2. Pollock R A, Rosenbaum J F, Marrs A, 
+Miller B S, Biederman J. Anxiety disorders 
+of childhood, Implications for adult 
+psychopathology, The Psychiatric clinics 
+of North America. (1995);18(4): 745 -66. 
+3. Brooks T L, Harris S K, Thrall J S, Woods 
+E R. Association of adolescent risk 
+behaviors with mental health symptoms in 
+high school students, J Adolesc Health. 
+(2002);31(3):240-6. 
+4. Gregory A M, Caspi A, Moffitt T E, 
+Koenen K, Eley T C, Poulton R. Juvenile 
+mental health histories of adults with 
+anxiety disorders, Am J Psychiatry. (2007); 
+164(2):301-8. 
+5. Alvi T, Assad F, Ramzan M, Khan F A. 
+Depression, anxiety and their associated 
+factors among medical students, Journal of 
+the College of Physicians and Surgeons--
+Pakistan : JCPSP. (2010);20(2):122-6. 
+6. Rask K, Astedt-Kurki P, Laippala P. 
+Adolescent 
+subjective 
+well-being 
+and 
+realized values, J Adv Nurs. (2002);38(3):  
+254-63. 
+7. Kessler R C, McGonagle K A, Zhao S, 
+Nelson C B, Hughes M, Eshleman S, et al. 
+Lifetime and 12-month prevalence of 
+DSM-III-R psychiatric disorders in the 
+United States. Results from the National 
+Comorbidity Survey, Arch Gen Psychiatry. 
+(1994);51(1):8-19. 
+8. The health behaviours of secondary school 
+students in New South Wales 2002, New 
+South Wales public health bulletin. (2004); 
+15 Suppl 2:1-85. 
+9. Newman D L, Moffitt T E, Caspi A, 
+Magdol L, Silva P A, Stanton W R. 
+Psychiatric disorder in a birth cohort of 
+young adults: prevalence, comorbidity, 
+clinical significance, and new case incidence 
+from ages 11 to 21, Journal of consulting and 
+clinical psychology. (1996); 64(3):552-62. 
+10. Barnawi M M, Sonbaa A M, Barnawi M M, 
+Alqahtani A H, Fairaq B A. Prevalence and 
+Determinants of Depression, Anxiety, and 
+Stress Among Secondary School Students, 
+Cureus. (2023);15(8):e44182. 
+11. Hường N T D, Diễm Đ T H, Đức V N H, 
+Thủy P T T, Trí T T C. Thực trạng trầm cảm, 
+lo âu, stress ở học sinh trung học phổ thông 
+thành phố Huế năm học 2020 - 2021, Tạp chí 
+Y học Dự phòng. (2022);32(3):85-92. 
+12. Nguyen D T, Dedding C, Pham T T, Wright 
+P, Bunders J. Depression, anxiety, and 
+suicidal 
+ideation 
+among 
+Vietnamese 
+secondary school students and proposed 
+solutions: a cross-sectional study, BMC 
+public health. (2013);13:1195. 
+13. Trúc TT, Ngọc TLL. Rối loạn lo âu, trầm 
+cảm, căng thẳng trên học sinh một số trường 
+trung học phổ thông trên địa bàn thành phố 
+Hồ Chí Minh. Hội nghị khoa học bệnh viện 
+quận Thủ Đức; 2018. 
+14. Tran T D, Tran T, Fisher J. Validation of the 
+depression anxiety stress scales (DASS) 21 
+as a screening instrument for depression and 
+anxiety in a rural community-based cohort of 
+northern 
+Vietnamese 
+women, 
+BMC 
+Psychiatry. (2013);13:24. 
+15. Ha T K H, Nguyen T L, Do M H, Le T H. 
+Stress, anxiety, depression and related 
+factors among students at Thot Not High 
+school, Can Tho City in 2022, Journal of 
+Health and Development Studies. (2023); 
+07(05):9-17. 
+16. Tín D T, Thuận L M, Thanh H N. Tỷ lệ 
+Stress, lo âu, trầm cảm của học sinh trường 
+THPT chuyên Vị Thanh tỉnh Hậu Giang và 
+các yếu tố liên quan, Tạp chí Y học Thành 
+phố Hồ Chí Minh. (2021);25(2):161-7. 
+17. Viện Nghiên cứu và Phát triển (ODI) 
+UNICEF Việt Nam. Sức khỏe tâm thần và 
+tâm lý xã hội của trẻ em và thanh niên tại một 
+số tỉnh và thành phố ở Việt Nam. 2018. 
+18. UNICEF. Báo cáo tình hình trẻ em thế giới 
+năm 2021. 2021. 
+
+===
+PAGE 9:
+Trần Đức Sĩ. Tạp chí Y Dược học Phạm Ngọc Thạch. 2025; 4(4): 31-39 
+ 
+ 
+39 
+19. Quỳnh T T H. Thực trạng trầm cảm, lo âu, 
+stress ở học sinh trường trung học phổ thông 
+Hà Huy Tập, thành phố Vinh, tỉnh Nghệ An 
+năm học 2019-2020 và một số yếu tố liên 
+quan: Trường Đại học Y Hà Nội; 2020. 
+20. Shek D T L, Chai W, Tan L. The relationship 
+between anxiety and depression under the 
+pandemic: The role of life meaning, Frontiers 
+in psychology. (2022);13: 1059330. 
+21. Richter-Levin G, Xu L. How could stress 
+lead to major depressive disorder?, IBRO 
+reports. (2018);4:38-43
+ 
+
+===

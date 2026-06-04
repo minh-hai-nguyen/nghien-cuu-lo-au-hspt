@@ -1,0 +1,187 @@
+{
+  "total": 60,
+  "ok_count": 24,
+  "mismatches": [
+    {
+      "qt": "002",
+      "filename": "QT002_Saikia_2023_India_Assam.pdf",
+      "expected_author": "Saikia",
+      "expected_year": "2023",
+      "year_in_pdf": false,
+      "likely_pdf_authors": [
+        "Original Article",
+        "Descriptive",
+        "Depression",
+        "Anxiety",
+        "Stress"
+      ],
+      "first_300": "Original Article    1  A Descriptive study to assess Depression, Anxiety & Stress among higher  secondary students of Government schools of Chandigarh, India  Ridhul Bhardwaj1, Suchpreet Kaur2, NL Gupta3, Neelam Kaur4, Davinder Singh5  1MPH Scholar, 2Assistant Professor, Center for Public Health & H"
+    },
+    {
+      "qt": "022",
+      "filename": "QT022_ScreenTime_Li_2025_BJCP.pdf",
+      "expected_author": "ScreenTime",
+      "expected_year": "2025",
+      "year_in_pdf": true,
+      "likely_pdf_authors": [
+        "Clin Psychol",
+        "Received",
+        "December",
+        "Accepted",
+        "April"
+      ],
+      "first_300": "Br J Clin Psychol. 2025;64:873–887.\t ﻿\t   |  873 wileyonlinelibrary.com/journal/bjc Received: 4 December 2024  |  Accepted: 11 April 2025 DOI: 10.1111/bjc.12547   A R T I C L E Cross-­sectional and longitudinal associations of  screen time with adolescent depression and anxiety Sophie H. Li1,2   |"
+    },
+    {
+      "qt": "023",
+      "filename": "QT023_JAACAP_USA_Mojtabai_Trends_2024.pdf",
+      "expected_author": "JAACAP",
+      "expected_year": "2024",
+      "year_in_pdf": false,
+      "likely_pdf_authors": [
+        "Trends",
+        "Mental Disorders",
+        "Children",
+        "Adolescents\nReceiving Treatment",
+        "State Mental Health System\nRamin Mojtabai"
+      ],
+      "first_300": "NEW RESEARCH Trends in Mental Disorders in Children and Adolescents Receiving Treatment in the State Mental Health System Ramin Mojtabai, MD, PhD, MPH , and Mark Olfson, MD, MPH Objective: To examine recent trends in clinical diagnoses of children and adolescents receiving treatment in publicly fund"
+    },
+    {
+      "qt": "025",
+      "filename": "QT025_EpiPsychSci_Crisp_Australia_2025.pdf",
+      "expected_author": "EpiPsychSci",
+      "expected_year": "2025",
+      "year_in_pdf": true,
+      "likely_pdf_authors": [
+        "Epidemiology",
+        "Psychiatric\nSciences",
+        "Original Article\nCite",
+        "Crisp",
+        "Rickwood"
+      ],
+      "first_300": "Epidemiology and Psychiatric Sciences cambridge.org/eps Original Article Cite this article: Crisp D, Rickwood D, Burns R, Bariola E (2025) The complete mental health of Australia’s adolescents and emerging adults: distress and wellbeing across 3 nationally representative community samples. Epidemiol"
+    },
+    {
+      "qt": "027",
+      "filename": "QT027_NatureHumanBehav_Fassi_SocialMedia_2025.pdf",
+      "expected_author": "NatureHumanBehav",
+      "expected_year": "2025",
+      "year_in_pdf": true,
+      "likely_pdf_authors": [
+        "Nature Human Behaviour",
+        "Volume",
+        "June",
+        "Registered Report\nSocial",
+        "Luisa Fassi"
+      ],
+      "first_300": "Nature Human Behaviour | Volume 9 | June 2025 | 1283–1299 1283 nature human behaviour https://doi.org/10.1038/s41562-025-02134-4 Registered Report Social media use in adolescents with and  without mental health conditions   Luisa Fassi    1,2  , Amanda M. Ferguson1, Andrew K. Przybylski    3,  Tamsi"
+    },
+    {
+      "qt": "033",
+      "filename": "QT033_JAMA_SchmidtPersson_ScreenMedia_2024.pdf",
+      "expected_author": "JAMA",
+      "expected_year": "2024",
+      "year_in_pdf": false,
+      "likely_pdf_authors": [
+        "Original Investigation",
+        "Pediatrics\nScreen Media Use",
+        "Mental Health",
+        "Children",
+        "Adolescents"
+      ],
+      "first_300": "Original Investigation | Pediatrics Screen Media Use and Mental Health of Children and Adolescents A Secondary Analysis of a Randomized Clinical Trial Jesper Schmidt-Persson, PhD; Martin Gillies Banke Rasmussen, PhD; Sarah Overgaard Sørensen, MSc; Sofie Rath Mortensen, MSc; Line Grønholt Olesen, PhD"
+    },
+    {
+      "qt": "042",
+      "filename": "QT042_BrownCarter_UK_School_JMH_2025.pdf",
+      "expected_author": "BrownCarter",
+      "expected_year": "2025",
+      "year_in_pdf": true,
+      "likely_pdf_authors": [
+        "Mental Health",
+        "Print",
+        "Online",
+        "June",
+        "Brown"
+      ],
+      "first_300": "Journal of Mental Health ISSN: 0963-8237 (Print) 1360-0567 (Online) Journal homepage: www.tandfonline.com/journals/ijmh20 School based interventions for depression and anxiety in UK June S. L. Brown & Ben Carter To cite this article: June S. L. Brown & Ben Carter (2025) School based interventions fo"
+    },
+    {
+      "qt": "054",
+      "filename": "QT054_ChronicStress_Neuroinflammation_FrontPsych_2023.pdf",
+      "expected_author": "ChronicStress",
+      "expected_year": "2023",
+      "year_in_pdf": false,
+      "likely_pdf_authors": [
+        "Frontiers",
+        "Psychiatry",
+        "Chronic",
+        "Sameer Hassamal",
+        "California University"
+      ],
+      "first_300": "Frontiers in Psychiatry 01 frontiersin.org Chronic stress, neuroinflammation,  and depression: an overview of  pathophysiological mechanisms  and emerging anti-inflammatories Sameer Hassamal 1,2,3* 1 California University of Sciences and Medicine, Colton, CA, United States, 2 Clinicaltriallink, Los"
+    },
+    {
+      "qt": "061",
+      "filename": "QT061_LiSH_ClearlyMe_CoDesign_CambridgeCBT_2024.pdf",
+      "expected_author": "LiSH",
+      "expected_year": "2024",
+      "year_in_pdf": false,
+      "likely_pdf_authors": [
+        "Werner",
+        "Dog Institute",
+        "Psychology",
+        "New South Wales",
+        "Sydney"
+      ],
+      "first_300": "ORIGINAL RESEARCH A cognitive behavioural therapy smartphone app for adolescent depression and anxiety: co-design of ClearlyMe S.H. Li1* , M.R. Achilles2, S. Spanos2, S. Habak2, A. Werner-Seidler2 and B. O’Dea2 1Black Dog Institute and School of Psychology, University of New South Wales, Sydney, New"
+    },
+    {
+      "qt": "038",
+      "filename": "QT038_DeSilva_SriLanka_RCT_2024.pdf",
+      "expected_author": "DeSilva",
+      "expected_year": "2024",
+      "year_in_pdf": true,
+      "likely_pdf_authors": [
+        "Open Access",
+        "The Author",
+        "Open Access  This",
+        "Creative Commons Attribution",
+        "International License"
+      ],
+      "first_300": "RESEARCH Open Access © The Author(s) 2024. Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use,  sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original auth"
+    },
+    {
+      "qt": "057",
+      "filename": "QT057_NeuralCircuits_Mechanisms_Anxiety_FrontNeuralCirc_2025.pdf",
+      "expected_author": "NeuralCircuits",
+      "expected_year": "2025",
+      "year_in_pdf": false,
+      "likely_pdf_authors": [
+        "Frontiers",
+        "Neural Circuits",
+        "Wenxuan Gong",
+        "Life Science",
+        "Beijing University"
+      ],
+      "first_300": "Frontiers in Neural Circuits 01 frontiersin.org Research progress on the neural  circuits mechanisms of anxiety Wenxuan Gong * School of Life Science, Beijing University of Chinese Medicine, Beijing, China Anxiety disorders, as a critical mental health issue, profoundly impact an individual’s  quali"
+    },
+    {
+      "qt": "063",
+      "filename": "QT063_ChenSJ_AppCBTI_DepressionPrev_PLOSMed_2025.pdf",
+      "expected_author": "ChenSJ",
+      "expected_year": "2025",
+      "year_in_pdf": true,
+      "likely_pdf_authors": [
+        "Medicine",
+        "January",
+        "Citation",
+        "Chen",
+        "Chan"
+      ],
+      "first_300": "PLOS Medicine | https://doi.org/10.1371/journal.pmed.1004510  January 21, 2025 1 / 18    OPEN ACCESS Citation: Chen S-J, Que J-Y, Chan NY, Shi L,  Li SX, Chan JWY, et al. (2025) Effectiveness  of app-based cognitive behavioral therapy  for insomnia on preventing major depressive  disorder in youth w"
+    }
+  ],
+  "errors": []
+}

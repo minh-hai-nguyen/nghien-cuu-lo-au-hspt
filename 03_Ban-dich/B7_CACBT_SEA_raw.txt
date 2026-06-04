@@ -1,0 +1,1092 @@
+PAGE 1:
+Asian Journal of Psychiatry 92 (2024) 103896
+Available online 28 December 2023
+1876-2018/© 2023 The Author(s). Published by Elsevier B.V. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/).
+A systematic review of Culturally Adapted Cognitive Behavioral Therapy 
+(CA-CBT) for anxiety disorders in Southeast Asia 
+Ardian Praptomojati a,b,*, Ajeng Viska Icanervilia c,d,e, Maaike H. Nauta a, Theo K. Bouman a 
+a Department of Clinical Psychology and Experimental Psychopathology, University of Groningen, Grote Kruisstraat 2/1, 9712 TS Groningen, the Netherlands 
+b Faculty of Psychology, Universitas Gadjah Mada, Jl. Sosio Humaniora Bulaksumur, 55281 Yogyakarta, Indonesia 
+c Department of Health Sciences, University of Groningen, University Medical Center Groningen, Hanzeplein 1, 9713 GZ Groningen, the Netherlands 
+d Department of Radiology, Faculty of Medicine, Public Health, and Nursing, Universitas Gadjah Mada, RSUP. Dr. Sardjito, Jl. Kesehatan 1, Sekip, 55284 Yogyakarta, 
+Indonesia 
+e Clinical Epidemiology and Biostatistics Unit (CEBU), Faculty of Medicine, Public Health and Nursing, Universitas Gadjah Mada, Gedung Litbang FK-KMK UGM Lantai 
+1, Jl. Medika, Senolowo, Mlati, Sleman, Yogyakarta, Indonesia   
+A R T I C L E  I N F O   
+Keywords: 
+Anxiety 
+Cultural adaptation 
+Cognitive Behavioral Therapy 
+Cbt 
+Southeast asia 
+A B S T R A C T   
+Background: Cognitive Behavioral Therapy (CBT) has been proven an effective treatment for anxiety disorders. 
+However, CBT still dominantly uses concepts and constructs rooted in Western cultures, and most research fo­
+cuses on Western populations. It is unsure how this translates to non-Western cultures like Southeast Asia. 
+Aims: Our objective is to explore which types of cultural adaptations in CBT have been implemented for anxiety 
+disorders in Southeast Asia and their effectiveness. 
+Methods: We systematically searched PubMed, PsycINFO, Embase, CENTRAL, GARUDA, and Google Scholar for 
+CA-CBT for anxiety disorders in local communities in Southeast Asian countries. Data were analyzed using a 
+narrative approach distinguishing between peripheral and core component adaptations. PROSPERO database 
+preregistration number was CRD42022336376. 
+Results: Seven studies (one randomized controlled trial, three quasi-experimental studies, and three case reports) 
+were selected. Two studies made cultural adaptations in multiple components. Two studies modified core 
+treatment components by incorporating local values in the CBT restructuring process. Three studies conducted 
+cultural adaptation on peripheral treatment components: adaptation to materials and semantics, cultural ex­
+amples and themes, and session structure. Three studies did not provide detailed information. One RCT study 
+showed better improvement for those who got CA-CBT than those in treatment as usual (TAU). 
+Conclusion: The findings suggest some components to consider when conducting cultural adaptation. We could 
+not establish the degree of superiority of CA-CBT over non-CA-CBT nor identify components with the most in­
+fluence due to the limited number of studies found. Employing standard documentation in reporting trials is also 
+important to increase transparency.   
+1. Introduction 
+Anxiety disorders are among the most prevalent psychiatric disor­
+ders, with the highest illness burden and healthcare expenses (Bandelow 
+and Michaelis, 2015). The World Health Organization (WHO) estimated 
+that 60.05 million (23 % population prevalence) people live with anx­
+iety disorders in Southeast Asia (World Health Organization, 2017). In 
+Indonesia, around 8 million people (3.3 % of the population) suffer from 
+anxiety disorders (World Health Organization, 2017). However, not all 
+people with mental illness in Southeast Asia, including Indonesia, get 
+professional help due to the limited mental health services and human 
+resources (ASEAN Secretariat, 2016). 
+The WHO Mental Health Gap Action Programme (mhGAP) has been 
+initiated to scale up services to reduce the mental health gap (World 
+Health Organization, 2008). One of the important factors in succeeding 
+in scaling up the mental health intervention implementation is cultural 
+adaptation (Faregh et al., 2019). Many critics highlight that the concepts 
+and interventions developed in Europe or America are out of step with 
+* Corresponding author at: Department of Clinical Psychology and Experimental Psychopathology, University of Groningen, Grote Kruisstraat 2/1, 9712 TS 
+Groningen, the Netherlands. 
+E-mail addresses: a.praptomojati@rug.nl, ardian.praptomojati@ugm.ac.id (A. Praptomojati).  
+Contents lists available at ScienceDirect 
+Asian Journal of Psychiatry 
+journal homepage: www.elsevier.com/locate/ajp 
+https://doi.org/10.1016/j.ajp.2023.103896 
+Received 29 August 2023; Received in revised form 19 December 2023; Accepted 23 December 2023   
+
+===
+PAGE 2:
+Asian Journal of Psychiatry 92 (2024) 103896
+2
+the diverse cultural values found in non-Western countries (White, 
+2013). 
+Cognitive Behavioral Therapy (CBT), one of the most studied psy­
+chological treatments worldwide and has been proven to have good 
+outcomes across different delivery formats (Baker et al., 2021; Cuijpers 
+et al., 2019), dominantly uses concepts and constructs rooted in Western 
+cultures (Iwamasa and Hays, 2019; Naeem et al., 2016; Rathod et al., 
+2019). This condition may lead to the question of the efficacy of the 
+treatment when delivered to the Asian population because of the 
+different cultural values, beliefs, and attitudes (Rathod et al., 2018). 
+Cultural differences may influence the process of psychosocial in­
+terventions (Hwang, 2006; Rathod and Kingdon, 2014). 
+To deal with the different cultural gaps, researchers proposed the 
+idea of cultural adaptation (Cardemil, 2010; Castro et al., 2010). Cul­
+tural adaptation is defined as “the systematic modification of an 
+evidence-based treatment (EBT) or intervention protocol to consider 
+language, culture, and context in such a way that it is compatible with 
+the client’s cultural patterns, meanings, and values” (Bernal et al., 2009, 
+p. 362). One way to organize and map adapted components in the cul­
+tural adaptation of treatment is by using the classification of the Cultural 
+Treatment Adaptation Framework (CTAF) (Chu and Leino, 2017). This 
+framework divides adaptation components into two first-order cate­
+gories: peripheral and core treatment components. Peripheral treatment 
+components focus on making the treatment understandable and 
+acceptable, while core treatment components focus on the main treat­
+ment components that mediate symptom change. 
+According to a review of meta-analyses conducted in 2018, research 
+on culturally adapted interventions is still limited, lacks methodological 
+rigor, and pays insufficient attention to theoretical foundations and 
+cultural considerations. Moreover, most research explored the general 
+therapeutic principles, which were not specific to CBT or any other 
+specific intervention (Rathod et al., 2018). A previous finding also 
+revealed that no clear definition and consistent evidence supports 
+implementing any specific type of adaptation to its effectiveness (Healey 
+et al., 2017). 
+Based on the explanation above, our current research aimed to sys­
+tematically review empirical studies of Culturally Adapted CBT (CA- 
+CBT), specifically in anxiety disorders focusing on the Southeast Asia 
+region. A systematic review with this exclusive scope might help focus 
+on revealing the face of cultural adaptation in Southeast Asia, which 
+generally has socio-cultural similarities between countries (King, 2008). 
+Understanding the cultural adaptation of CBT for anxiety in Southeast 
+Asia is expected to gain in-depth information on why and how to 
+develop a CBT protocol that will fit local people’s culture and context. In 
+summary, this systematic review aimed to answer the following 
+questions:  
+1. What types of cultural adaptations in CBT have been implemented in 
+Southeast Asia for local communities?  
+2. What is the effectiveness of CA-CBT in treating anxiety disorders in 
+local Southeast Asian populations? 
+2. Method 
+2.1. Approach and design of the review 
+This systematic review followed the guidelines outlined by Preferred 
+Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) 
+(Moher et al., 2009) and was registered on the Prospective Register of 
+Systematic Reviews (PROSPERO) (ID: CRD42022336376). For research 
+question 1, this systematic review employed studies with various de­
+signs (including non-controlled pre-post studies) to thoroughly under­
+stand reported cultural adaptations across the literature. For research 
+question 2, we only used randomized controlled trials (RCTs) that 
+assessed the efficacy of CA-CBT. 
+2.2. Inclusion and exclusion criteria 
+Inclusion criteria considered (1) target population: Southeast Asian 
+people with anxiety disorders under the classification of DSM-III-R, 
+DSM-IV-TR, or DSM-5; (2) type of intervention: Culturally Adapted 
+Cognitive Behavioral Therapy (CA-CBT); (3) study design: randomized 
+controlled trials (RCTs) and non-randomized controlled trials (non- 
+RCTs), including quasi-experimental studies, observational studies, and 
+case reports; (4) the control group could receive treatment as usual, 
+another active or passive treatment, placebo, waiting list, or no inter­
+vention; (5) outcome data was reported on anxiety severity; (6) pub­
+lished in English or Indonesian, in peer-reviewed journals with available 
+full-text articles. 
+We referenced Southeast Asian countries according to the United 
+Nations: Brunei Darussalam, Cambodia, Indonesia, Lao PDR, Malaysia, 
+Myanmar, Philippines, Singapore, Thailand, Timor-Leste, and Viet Nam 
+(United Nations, 2022; United Nations Statistics Division, 2022). Post­
+traumatic stress disorder (PTSD) was included since PTSD was regarded 
+as an anxiety disorder before DSM-5. There were no restrictions on age, 
+gender, or any other sociodemographic variables. 
+Exclusion criteria included the following: (1) studies using Southeast 
+Asian people living outside their home country, for example, refugees; 
+(2) CA-CBT combined with pharmacological treatments or other psy­
+chological treatments; (3) study protocol without data. 
+2.3. Search Strategies 
+This study followed Cochrane guidelines for conducting a systematic 
+review (Higgins and Green, 2011). We searched in July 2022 and con­
+ducted an updated search in June 2023 in the following databases: 
+PubMed, PsycINFO, Embase, Cochrane Central Register of Controlled 
+Trials (CENTRAL), Garba Rujukan Digital (GARUDA), and Google 
+Scholar. Our search strategy included the combination of MeSH terms, 
+Thesaurus, and free text words. No limitations were imposed regarding 
+the papers’ publishing dates. We sought clarification from the corre­
+sponding authors in case of unclarities or missing information in the 
+published study. The full search strategy is available in supplementary 
+file 1. 
+2.4. Screening and data extraction 
+Titles and abstracts were screened by two authors (AP and AVI) 
+independently. After completing the screening process, the full-text ar­
+ticles were collected and checked for their eligibility. Any discrepancies 
+were resolved by discussing between two authors (AP and AVI) and 
+involving the third and fourth authors (MHN and TKB) if needed. 
+Extracted data included the authors, year, country, target population 
+and sample size, study design, outcome measures used, intervention, 
+type of cultural adaptation, delivery format, comparator, and outcomes. 
+2.5. Quality assessment 
+Since bias could affect the credibility of the evidence presented, we 
+assessed the risk of bias in all studies included. Two reviewers inde­
+pendently assessed the risk of bias using the Cochrane risk-of-bias tool 
+(RoB 2) for randomized trials (Sterne et al., 2019). For non-randomized 
+studies, ROBINS-I was used (Sterne et al., 2016), and Joanna Briggs 
+Institute’s (JBI’s) critical appraisal tool was used for studies with case 
+report design (Moola et al., 2020). During the assessment process, dis­
+agreements between the review authors were resolved by discussion. 
+2.6. Data analysis 
+To address Research Question 1, a narrative synthesis was conducted 
+following the Cultural Treatment Adaptation Framework (CTAF), which 
+identifies two components, specifically peripheral and core treatment 
+A. Praptomojati et al.                                                                                                                                                                                                                          
+
+===
+PAGE 3:
+Asian Journal of Psychiatry 92 (2024) 103896
+3
+components (Chu and Leino, 2017). For addressing Research Question 2, 
+only RCTs were included. Due to the scarcity of trials, a narrative syn­
+thesis was undertaken because it was not feasible to do a meta-analysis. 
+The results of the included studies were synthesized, summarized, and 
+presented with no reference to the statistical significance of the findings 
+(Siddaway et al., 2019). 
+3. Result 
+3.1. Search results 
+A total of 1653 records were retrieved from the search. After 
+removing duplicates, 1073 records were included for titles and abstract 
+screening. Then, we removed 1051 irrelevant records based on title and 
+abstract, which led to 22 records that were identified as potentially 
+relevant in the full-text review. Finally, seven studies (one RCT, three 
+quasi-experimental studies, and three case reports) were found eligible 
+for the review for data extraction. The study selection process is pre­
+sented in Fig. 1 using the PRISMA flow diagram. 
+3.2. 3.2. Study characteristics 
+All seven included studies were published between 2007 and 2022 
+(two published in 2007–2011; five published in 2017–2022). One study 
+was a randomized controlled trial (RCT), three were quasi-experimental 
+studies using pre-test and post-test designs, and three were case reports. 
+Of the seven studies, three were conducted in Indonesia, two in 
+Thailand, one in Singapore, and one in Malaysia. Furthermore, three 
+studies focused on PTSD, two on social anxiety disorder, one on panic 
+disorder, and one on multiple anxiety disorders. Three studies focusing 
+on PTSD were included because they were published before the DSM-5 
+was released or referred to DSM IV/DSM-IV-TR, which still included 
+PTSD as part of anxiety disorders. For detailed study characteristics, see  
+Table 1. 
+3.3. Quality assessment 
+According to the reviewers’ assessment, one randomized study was 
+assessed in the category of some concerns. Three quasi-experimental 
+studies were assessed to have a moderate risk of bias, and all three 
+case studies were assessed as qualified enough to be included in this 
+review. For detailed information, see supplementary file 2. 
+3.4. The design of the CBT 
+All CBTs were delivered face-to-face. Five studies were CBT delivered 
+Fig. 1. PRISMA flow diagram of study selection.  
+A. Praptomojati et al.                                                                                                                                                                                                                          
+
+===
+PAGE 4:
+Asian Journal of Psychiatry 92 (2024) 103896
+4
+Table 1 
+Study characteristics of included studies.  
+Authors 
+Country 
+Study design 
+Target 
+Population 
+Outcome 
+Anxiety Measure 
+How to Diagnose Anxiety 
+DSM Diagnosis 
+Comparison 
+n 
+Summary of study 
+findings 
+Bryant et al. 
+(2011) 
+Thailand 
+Randomized 
+controlled 
+trial 
+Survivors of 
+terrorist 
+attacks 
+Symptoms of PTSD, 
+Depression, 
+Complicated Grief 
+The PTSD Symptom 
+Scale - Interview 
+(PSS-I) 
+PTSD diagnosis was 
+determined by the PSS-I; 
+this study used DSM-IV 
+criteria in diagnosing 
+PTSD. 
+Posttraumatic 
+Stress Disorder 
+(DSM-IV) 
+Treatment as 
+usual (TAU) 
+consisting of 
+generic 
+counseling 
+28 total (16 
+intervention; 
+12 control) 
+At the follow-up, CBT 
+substantially 
+outperformed TAU in 
+terms of symptom 
+reduction, including 
+PTSD, depression, and 
+complicated grief. At 
+follow-up, CBT had 
+larger effect sizes for 
+PTSD, depression, and 
+complicated grief 
+compared to TAU. 
+Compared to 
+participants in the TAU 
+(33 %), more patients in 
+the CBT condition (75 
+%) had high end-state 
+functioning. 
+Drmic et al. 
+(2017) 
+Singapore 
+One group 
+pre-test post- 
+test design 
+Adolescents 
+with autism 
+spectrum 
+disorder and 
+anxiety  
+• Child-related 
+anxiety disorder: 
+panic/ somatic, 
+generalized anxiety, 
+separation anxiety, 
+school avoidance  
+• Developmental 
+behavioral: 
+disruptive/ 
+antisocial, self- 
+absorbed, communi­
+cation disturbance, 
+anxiety, social 
+relating  
+• Screen for Child 
+Related Anxiety 
+Disorders 
+(SCARED) – child 
+and parent 
+versions  
+• Developmental 
+Behavioral 
+Checklist-Teacher 
+(DBCT) 
+A screening 
+questionnaire, the 
+SCARED (child and 
+parent) was used to select 
+participants. Each 
+student had to meet or 
+exceed the cut-off for the 
+Total Anxiety Disorder 
+score or for at least one 
+subscale score (i.e., Panic 
+Disorder, Generalized 
+Anxiety Disorder, 
+Separation Anxiety 
+Disorder, Social Anxiety 
+Disorder, or Significant 
+School Avoidance) on the 
+child or parent version. 
+One of the 
+diagnoses: Panic 
+Disorder, 
+Generalized 
+Anxiety Disorder, 
+Separation Anxiety 
+Disorder, Social 
+Anxiety Disorder 
+(DSM 5) 
+No 
+comparison 
+44 total 
+Significant decreases in 
+anxiety symptoms were 
+found both from the 
+child’s and parents’ 
+ratings after the 
+intervention. However, 
+there was no differences 
+in the presence of 
+emotional and 
+behavioral issues using 
+DBC-T. 
+Pityaratstian 
+et al. (2007) 
+Thailand 
+One group 
+pre-test post- 
+test design 
+Children (aged 
+9-15 years) 
+Posttraumatic stress 
+symptoms 
+Children’s Impact of 
+Events Scale (13) 
+(CRIES-13) 
+The scores above the cut- 
+off point (sum of 
+Intrusion and Avoidance 
+scores of 17 or more) 
+suggest the significant 
+impact of trauma on the 
+child that the probability 
+is very high that he/she 
+will obtain the diagnosis 
+of PTSD after formal 
+diagnostic procedures; 
+this study was published 
+before DSM-V was 
+released. 
+Posttraumatic 
+Stress Disorder 
+(DSM-IV-TR) 
+No 
+comparison 
+152 total 
+No significant difference 
+in CRIES scores was 
+found between before 
+and after the 
+intervention. However, 
+when the sample was 
+categorized into two 
+groups (CRIES+ve and 
+CRIES-ve), there were 
+significant differences. 
+In the CRIES+ve group, 
+significantly decreased 
+was found in the Total, 
+Intrusion, and Arousal 
+scores. At the same time, 
+in the CRIES-ve group, 
+significantly increased 
+was found in the Total, 
+(continued on next page) 
+A. Praptomojati et al.                                                                                                                                                                                                                          
+
+===
+PAGE 5:
+Asian Journal of Psychiatry 92 (2024) 103896
+5
+Table 1 (continued) 
+Authors 
+Country 
+Study design 
+Target 
+Population 
+Outcome 
+Anxiety Measure 
+How to Diagnose Anxiety 
+DSM Diagnosis 
+Comparison 
+n 
+Summary of study 
+findings 
+Intrusion, and 
+Avoidance Scores. No 
+statistically significant 
+correlation between 
+practice days and mean 
+difference in pre- and 
+post-intervention CRIES 
+scores was found. 
+Hayati et al. 
+(2018) 
+Indonesia 
+Two-group 
+pre-test post- 
+test design 
+Adolescent 
+(aged 12–18) 
+PTSD symptoms 
+Child PTSD 
+Symptom Scale 
+(CPSS) 
+Using the CPSS score to 
+assess PTSD; in the article 
+using the DSM-4-TR as 
+the reference 
+Posttraumatic 
+Stress Disorder 
+(DSM-IV-TR) 
+CBT 5 
+sessions vs. 
+CBT 12 
+sessions 
+38 total 
+19 group 1 
+19 group 2 
+The PTSD score 
+decreased in the CBT 
+group of 5 sessions and 
+the CBT group of 12 
+sessions. No significant 
+difference in 
+effectiveness was found 
+between the two groups. 
+Subhas et al. 
+(2021) 
+Malaysia 
+Single-case 
+study 
+Malaysian 
+Muslim with 
+panic disorder 
+with 
+agoraphobia  
+• Anxiety symptoms  
+• Panic attack 
+symptoms  
+• Beck Anxiety 
+Inventory (BAI)  
+• Panic attack 
+progress records 
+Diagnostic status was 
+assessed using the BAI, 
+mental state 
+examination, clinical 
+interview, physical 
+examinations, and panic 
+attack progress records. 
+Panic Disorder 
+(DSM 5) 
+No 
+comparison 
+1 total 
+CBT reduced anxiety 
+symptoms substantially 
+in the participant. 
+Wahyuningsih 
+and 
+Daengsari 
+(2020) 
+Indonesia 
+Single subject 
+A-B-A′ design 
+Adolescents 
+with 
+Borderline 
+Intellectual 
+Functioning 
+(BIF) 
+Social anxiety 
+Social Anxiety Scale 
+for Adolescent (SAS- 
+A) 
+Using observation, 
+interview, and 
+psychological 
+examination to diagnose 
+social anxiety. In 
+addition, a score of SAS- 
+A was used (the 
+participant got a score of 
+85 out of 90) 
+Social Anxiety 
+Disorder (DSM 5) 
+No 
+comparison 
+1 total 
+The treatment decreased 
+the social anxiety level 
+of the participant. 
+Hayati and 
+Tohari (2022) 
+Indonesia 
+A single-case 
+experimental 
+design 
+Students with 
+social anxiety 
+disorder and 
+obsessive 
+compulsive 
+disorder 
+Social anxiety 
+symptoms, obsessive- 
+compulsive symptoms 
+Social Anxiety Scale 
+(SAS) 
+Using the SAS category 
+(high) in assessing social 
+anxiety disorders 
+Social Anxiety 
+Disorder (DSM 5) 
+No 
+comparison 
+1 total 
+The participant showed 
+significant differences in 
+the frequency of social 
+anxiety and obsessive- 
+compulsive behavior 
+before and after being 
+given an intervention.  
+A. Praptomojati et al.                                                                                                                                                                                                                          
+
+===
+PAGE 6:
+Asian Journal of Psychiatry 92 (2024) 103896
+6
+in an individual format, whereas the remaining used a group format. The 
+number of CBT sessions varies, ranging from 2 to 15 sessions. The 
+duration of the CBT ranged from 2 days to 15 weeks, with the length of 
+each session ranging from 1 h to 2 h. For detailed information, see 
+supplementary file 3. 
+3.5. Type of cultural adaptations 
+Of all studies, four explicitly reported cultural adaptation compo­
+nents, while three did not explicitly report the components of adapta­
+tions they made. Two studies considered multiple components of 
+cultural adaptation (Drmic et al., 2017; Subhas et al., 2021). Of seven 
+studies, two modified CBT’s core treatment components (Bryant et al., 
+2011; Subhas et al., 2021), and three culturally adapted peripheral 
+treatment components (Drmic et al., 2017; Hayati et al., 2018; Subhas 
+et al., 2021). Three studies that provide undetailed information (Hayati 
+and Tohari, 2022; Pityaratstian et al., 2007; Wahyuningsih and 
+Daengsari, 2020) only stated performing adaptation but did not provide 
+further information on which specific components or elements of CBT. 
+All cultural adaptations were made to improve its acceptability to the 
+local communities. One example of cultural adaptation in the CBT 
+technique as part of the core treatment components was integrating the 
+Buddhist technique of distancing oneself from one’s thoughts into 
+cognitive restructuring (Bryant et al., 2011). Other examples focusing on 
+peripheral treatment components were translating the language to 
+Bahasa Malaysia (Subhas et al., 2021) and changing the example of fear 
+in the graded exposure video (Drmic et al., 2017). Detailed information 
+on identifying cultural components of the adaptation of the studies using 
+CTAF can be seen in Table 2. 
+3.6. Cultural adaptation process 
+Of seven studies, only two provide information on how the adapta­
+tion process was carried out. For more detailed information, see Table 3. 
+For the other five studies, we could not identify and synthesize the in­
+formation from them due to the limited information provided. 
+3.7. Effectiveness of CA-CBT 
+This review was not feasible to continue to meta-analysis due to the 
+scarcity of trials. This systematic review found only one RCT of CA-CBT 
+in Southeast Asia (Bryant et al., 2011), which developed CA-CBT for 
+survivors of terrorist attacks in Thailand. The participants who received 
+culturally adapted CBT experienced a significantly higher reduction in 
+PTSD scores than participants in the control condition who received 
+treatment as usual (TAU) consisting of generic counseling. 
+4. Discussion 
+This study aimed to synthesize the literature on the type and effec­
+tiveness of CA-CBT. To the best of the author’s knowledge, this is the 
+first study focusing on the Southeast Asian population on CA-CBT for 
+anxiety disorders. Based on our inclusion criteria, we found seven 
+studies, including one RCT, three quasi-experimental, and three case 
+reports. Of seven studies, only four explicitly reported the cultural 
+adaptation components they made. Two studies modified CBT’s core 
+treatment components, and three conducted cultural adaptations on 
+peripheral treatment components – two made cultural adaptations in 
+multiple components. Due to the limited number of studies, this study 
+could not establish the degree of superiority of CA-CBT over non-CA- 
+CBT nor identify the components with the most influence. 
+We found interesting examples of cultural adaptation in the core 
+component of the treatment, namely incorporating religious and cul­
+tural values in the CBT (Bryant et al., 2011; Subhas et al., 2021). 
+Implementing cultural adaptation in peripheral components is reported 
+in several types. First is modifying the materials and semantics by 
+Table 2 
+Type of cultural adaptation and examples.  
+Authors 
+Type of Adaptation 
+Cultural adaptation component 
+and example 
+Bryant et al. (2011) 
+Core treatment 
+components – 
+modification 
+They modified relaxation with 
+Thai meditation techniques and 
+Buddhist meditation. They also 
+integrated Buddhist techniques 
+of distancing oneself from one’s 
+thoughts (in a Western, it might 
+be called a mindfulness strategy) 
+into cognitive restructuring to 
+reduce a tendency toward 
+catastrophic thinking. 
+Drmic et al. (2017) 
+Peripheral treatment 
+components – materials 
+and semantics 
+Translating the language and 
+changing vocabulary to be more 
+culturally appropriate  
+Peripheral treatment 
+components – cultural 
+examples and themes 
+Changing the example of fear in 
+the graded exposure video from a 
+video of a child facing his fear of 
+dogs into a video of a child facing 
+fear of ‘talking on phone’ and 
+‘being in a store when it’s 
+closing’ due to the advice from 
+school administrators that there 
+could be a cultural objection for 
+some members of their 
+community. 
+Pityaratstian et al. 
+(2007) 
+No information 
+Some adaptations for sensitivity 
+to the religious, socio-economic, 
+and cultural backgrounds of the 
+sample (no further information 
+about the type of adaptation) 
+Hayati et al. (2018) 
+Peripheral treatment 
+components – session 
+structure 
+Designing shorter sessions of CBT 
+(5-session CBT). According to the 
+previous studies they found, 
+shorter sessions to be more 
+compatible with the Indonesian 
+culture. On the contrary, the 
+therapy process which is 
+designed for up to 12 meetings, is 
+often seen by Indonesians as too 
+long, costly, complex, boring, 
+and can reduce the trust in the 
+therapist’s abilities. 
+Subhas et al. (2021) 
+Core treatment 
+components – 
+modification 
+Integrating Islamic values into 
+CBT by accommodating Islamic 
+practice as aspects of the CBT 
+technique, for example, 
+practicing Muslim prayer as a 
+form of meditation, referring to 
+the Holy Quran and zikr 
+(commemoration of Allah’s 
+name) as the way to enhance the 
+spirituality, using Islamic based 
+on gratitude, and inserting 
+religion and spirituality when 
+talking about the support system.  
+Peripheral treatment 
+components – materials 
+and semantics 
+Translating the language to 
+Bahasa Malaysia  
+Peripheral treatment 
+components – cultural 
+examples and themes 
+Referencing Prophet 
+Muhammad’s story as the 
+example in the CBT because most 
+Malaysian are Muslim. Changing 
+in vivo situational exposure 
+(from agoraphobic situations 
+which they have avoided 
+previously to a place close to his 
+heart, the Mosque) 
+Wahyuningsih and 
+Daengsari (2020) 
+No information 
+No detailed information was 
+provided for the cultural 
+adaptation they made. 
+Hayati and Tohari 
+(2022) 
+No information 
+No detailed information was 
+provided for the cultural 
+adaptation they made. 
+A. Praptomojati et al.                                                                                                                                                                                                                          
+
+===
+PAGE 7:
+Asian Journal of Psychiatry 92 (2024) 103896
+7
+translating the module and adjusting the more acceptable vocabulary for 
+the patients (Drmic et al., 2017; Subhas et al., 2021). The second is 
+modifying cultural examples and themes by embedding cultural exam­
+ples, identities, values, beliefs, and practices into treatment (Drmic 
+et al., 2017; Subhas et al., 2021). The third is modifying the session 
+structure by changing the number of sessions (Hayati et al., 2018). 
+Based on this review, we conclude that cultural adaptations are 
+insufficiently reported in several studies. Three of the seven studies 
+provided incomplete information about the cultural adaptation type and 
+component (Hayati and Tohari, 2022; Pityaratstian et al., 2007; 
+Wahyuningsih and Daengsari, 2020). They did not elaborate on which 
+specific CBT components were culturally adapted; they simply indicated 
+that performing adaptation was made. Moreover, only two studies 
+explicitly reported their framework and explained the adapting process 
+in more detail (Drmic et al., 2017; Subhas et al., 2021). 
+Several reasons could be indicated why cultural adaptation is not 
+sufficiently reported. First, no standard framework has been universally 
+agreed upon and applied in research and practice (Rathod et al., 2018). 
+In addition, the limited knowledge about cultural adaptation might be 
+why several studies made cultural adaptation without a standardized 
+framework. As a result, some researchers change or adapt without a 
+transparent process. This finding aligns with a review of meta-analyses 
+conducted by Rathod and colleagues in 2018 that revealed that from 
+12 articles found, most lacked methodological rigor and lacked 
+consideration of underlying theory and cultural issues (Rathod et al., 
+2018). It becomes a challenge, and further research still needs to be 
+developed. On the bright side, it may also be that some researchers have 
+argued for the right balance between making new treatments for sub­
+groups versus personalization (Bennett and Shafran, 2023). 
+The other possible reason is that the authors may not explicitly report 
+on the process and content of cultural adaptations. On the one hand, 
+standard documentation can lead to high-quality research with 
+increased transparency on what, how, and why the cultural adaptation 
+was made. Heim et al. (2021) proposed the Reporting Cultural Adap­
+tation in Psychological Trials (RECAPT) criteria for reporting cultural 
+adaptation in psychological trials. In RECAPT, each trial needs to 
+document and report the following criteria: (1) set-up, (2) formative 
+research methods, (3) intervention adaptation, and (4) measuring out­
+comes and implementation (Heim et al., 2021). 
+We could not continue to meta-analysis due to the scarcity of trials. 
+This limitation indicates that research on CA-CBT for anxiety in South­
+east Asian countries is still much needed. However, one study we found 
+in this review (Bryant et al., 2011) reported that CA-CBT showed better 
+improvement compared to the control group (treatment as usual 
+consisting of generic counseling). This aligns with previous research that 
+showed culturally adapted intervention is effective and may even be 
+more effective than unadapted intervention (Griner and Smith, 2006; 
+Hall et al., 2016) and increases the acceptability of the treatment 
+(Chowdhary et al., 2014). A case series study in India has also high­
+lighted the need for culturally appropriate and acceptable forms of CBT 
+to improve the outcome of CBT – one of them is by maximizing the 
+non-specific factors in CBT (Samantaray et al., 2022). 
+There is still debate about the extent to which cultural adaptation 
+should be made. The critical point is that keeping fidelity to the core 
+components while incorporating local values and adaptations is crucial 
+(Rathod et al., 2015). Moreover, Bennett and Shafran (2023) stated that 
+evidence-based practice needs flexibility in intervention delivery, and 
+not all modifications to therapy should be viewed as new treatments but 
+instead regarded as meta-competence. Treatments always need adap­
+tation to the context and preferences of an individual, also addressing 
+individual differences within cultures or countries. Most experts sug­
+gested that adapting existing interventions into new contexts is prefer­
+able to designing new interventions (Bennett and Shafran, 2023). Such 
+an approach would make implementing evidence-based treatments 
+across different cultures much more feasible. 
+Several recommendations could be drawn from this research. First, 
+further research focusing on cultural adaptation needs to be developed 
+to get a comprehensive understanding. Second, trials must follow a 
+standardized adaptation framework considering theoretical founda­
+tions. A clear guideline in reporting criteria is also vital to document and 
+report all adaptation processes more transparently. Third, it is important 
+to publish a separate article focusing on the cultural adaptation process 
+rather than compiling the development in the same article with the 
+trials. Explaining the cultural adaptation process in a separate paper 
+enhances transparency, leaving more room for other important infor­
+mation in the trial paper. 
+This review has some strengths and limitations. First, the type of 
+anxiety disorders varies, increasing the study’s heterogeneity. This re­
+view also could not be continued to meta-analysis, so we could not 
+determine the extent to which culturally adapted CBT is more effective 
+than non-adapted CBT and which components have the most significant 
+impact. Second, the quality of the studies, based on the risk of bias 
+assessment, was quite heterogeneous, which may have affected the 
+conclusions that can be drawn from the studies. Also, we did not 
+consider grey literature in our review and only focused on the paper 
+written in English and Indonesian, which might lead to selection bias. 
+Despite all the limitations, this paper has several strengths. First, we 
+systematically searched databases and used a comprehensive method 
+that followed Cochrane guidelines. We only included papers from peer- 
+reviewed journals and assessed each paper’s quality and bias using 
+standardized tools. Second, although including the paper in Indonesian 
+could result in bias, this could make the review sharper in picturing the 
+condition in Indonesia. 
+In all, this study identified some examples of CBT adaptation in the 
+context of anxiety disorders in Southeast Asia. Adaptations included 
+both changes to the core components as well as to peripheral details such 
+as language and case examples. Further studies will need to show 
+whether such structural adaptations indeed lead to better treatment 
+outcomes or whether we can invest in “meta-competence”, training 
+professionals to adapt the CBT framework to any individual rather than 
+developing many local variants. Future studies could also extend the 
+region to more than Southeast Asia and cover other psychiatric disorders 
+(i.e., depressive disorders) to provide sufficient insight into the cultural 
+adaptation of CBT. 
+Financial disclosure 
+This study was supported by the Indonesia Endowment Funds for 
+Education (Lembaga Pengelola Dana Pendidikan) and Center for Higher 
+Education Funding (Balai Pembiayaan Pendidikan Tinggi) Ministry of 
+Note: 2 studies modified core treatment components; 3 studies modified pe­
+ripheral treatment components; 3 studies did not provide detailed information; 2 
+studies made cultural adaptations in multiple components 
+Table 3 
+The cultural adaptation process and framework used.  
+Authors 
+Cultural adaptation process and framework 
+Subhas et al. 
+(2021) 
+Most of their adaptations in this study involved incorporating 
+Islamic beliefs into CBT following: (1) a CBT manual that had 
+been previously modified and adjusted following Malaysian 
+society’s norms and (2) general guidelines in “Religious–Cultural 
+Psychotherapy in the Management of Anxiety Patients” by Razali 
+and his colleagues 
+Drmic et al. 
+(2017) 
+Emphasized the importance of a collaborative approach involving 
+sharing decision-making between the investigators and key 
+stakeholders at all phases of the implementation project. They 
+used the traffic light model framework by the Centers for Disease 
+Control and Prevention, Division of Reproductive Health, & ETR 
+Associates. This framework was designed to guide intervention 
+adaptations to accommodate the unique characteristics of local 
+populations, including cultures.  
+A. Praptomojati et al.                                                                                                                                                                                                                          
+
+===
+PAGE 8:
+Asian Journal of Psychiatry 92 (2024) 103896
+8
+Education, Culture, Research, and Technology of Republic Indonesia. 
+The funding sources had no role in the study design, data collection, data 
+analysis, data interpretation, or writing of the report. 
+CRediT authorship contribution statement 
+Theo K. Bouman: Conceptualization, Formal analysis, Methodol­
+ogy, Supervision, Validation, Writing – review & editing. Maaike H. 
+Nauta: Conceptualization, Formal analysis, Methodology, Supervision, 
+Validation, Writing – review & editing. Ajeng Viska Icanervilia: 
+Conceptualization, Formal analysis, Investigation, Methodology, Vali­
+dation, Writing – review & editing. Ardian Praptomojati: Conceptu­
+alization, Data curation, Formal analysis, Investigation, Methodology, 
+Validation, Visualization, Writing – original draft, Writing – review & 
+editing, Project administration. 
+Declaration of Competing Interest 
+The authors declare no conflict of interest for the current study. MHN 
+reports travel expenses, some subsistence, and speaker honoraria for 
+lectures and clinical training workshops, mostly in the field of anxiety 
+disorders in children and adolescents, and is a member of the national 
+workgroup of the Dutch multi-disciplinary guideline for anxiety prob­
+lems and disorders (non-remunerated). 
+Acknowledgments 
+We would like to acknowledge the Indonesia Endowment Funds for 
+Education (Lembaga Pengelola Dana Pendidikan) and Center for Higher 
+Education Funding (Balai Pembiayaan Pendidikan Tinggi) Ministry of 
+Education, Culture, Research, and Technology of Republic Indonesia, for 
+making this study possible by providing a PhD scholarship and research 
+funding for the first author [AP (202101120028)]. 
+Appendix A. Supporting information 
+Supplementary data associated with this article can be found in the 
+online version at doi:10.1016/j.ajp.2023.103896. 
+References 
+ASEAN Secretariat, 2016. ASEAN mental health systems. ASEAN: A Community Oppor. 
+Baker, H.J., Lawrence, P.J., Karalus, J., Creswell, C., Waite, P., 2021. The effectiveness of 
+psychological therapies for anxiety disorders in adolescents: a meta-analysis. Clin. 
+Child Fam. Psychol. Rev. 24 (4), 765–782. https://doi.org/10.1007/s10567-021- 
+00364-2. 
+Bandelow, B., Michaelis, S., 2015. Epidemiology of anxiety disorders in the 21st century. 
+Dialog-. Clin. Neurosci. 17 (3), 327–335. 
+Bennett, S.D., Shafran, R., 2023. Adaptation, personalization and capacity in mental 
+health treatments: a balancing act? Curr. Opin. Psychiatry 36 (1), 28–33. https://doi. 
+org/10.1097/YCO.0000000000000834. 
+Bernal, G., Jim´enez-Chafey, M.I., Domenech Rodríguez, M.M., 2009. Cultural adaptation 
+of treatments: a resource for considering culture in evidence-based practice. Prof. 
+Psychol. Res. Pract. 40 (4), 361–368. https://doi.org/10.1037/a0016401. 
+Bryant, R.A., Ekasawin, S., Chakrabhand, S., Suwanmitri, S., Duangchun, O., 
+Chantaluckwong, T., 2011. A randomized controlled effectiveness trial of cognitive 
+behavior therapy for post-traumatic stress disorder in terrorist-affected people in 
+Thailand. World Psychiatry 10 (3), 205–209. https://doi.org/10.1002/j.2051- 
+5545.2011.tb00058.x. 
+Cardemil, E.V., 2010. Cultural adaptations to empirically supported treatments: a 
+research agenda. Sci. Rev. Ment. Heal. Pract. 7 (2), 8–21. 
+Castro, F.G., BarreraJr, M., Steiker, L.K.H., 2010. Issues and challenges in the design of 
+culturally adapted evidence-based interventions. Annu. Rev. Clin. Psychol. 6, 
+213–239. https://doi.org/10.1146/annurev-clinpsy-033109-132032. 
+Chowdhary, N., Jotheeswaran, A.T., Nadkarni, A., Hollon, S.D., King, M., Jordans, M.J. 
+D., Rahman, A., Verdeli, H., Araya, R., Patel, V., 2014. The methods and outcomes of 
+cultural adaptations of psychological treatments for depressive disorders: a 
+systematic review. Psychol. Med. 44 (6), 1131–1146. https://doi.org/10.1017/ 
+S0033291713001785. 
+Chu, J., Leino, A., 2017. Advancement in the maturing science of cultural adaptations of 
+evidence-based interventions. J. Consult. Clin. Psychol. 85 (1), 45–57. https://doi. 
+org/10.1037/ccp0000145. 
+Cuijpers, P., Noma, H., Karyotaki, E., Cipriani, A., Furukawa, T.A., 2019. Effectiveness 
+and acceptability of cognitive behavior therapy delivery formats in adults with 
+depression: a network meta-analysis. JAMA Psychiatry 76 (7), 700–707. https://doi. 
+org/10.1001/jamapsychiatry.2019.0268. 
+Drmic, I.E., Aljunied, M., Reaven, J., 2017. Feasibility, acceptability and preliminary 
+treatment outcomes in a school-based CBT intervention program for adolescents 
+with ASD and anxiety in Singapore. J. Autism Dev. Disord. 47 (12), 3909–3929. 
+https://doi.org/10.1007/s10803-016-3007-y. 
+Faregh, N., Lencucha, R., Ventevogel, P., Dubale, B.W., Kirmayer, L.J., 2019. Considering 
+culture, context and community in mhGAP implementation and training: Challenges 
+and recommendations from the field. Int. J. Ment. Health Syst. 13 (1), 1–13. https:// 
+doi.org/10.1186/s13033-019-0312-9. 
+Griner, D., Smith, T.B., 2006. Culturally adapted mental health intervention: a meta- 
+analytic review. Psychother. Theory, Res. Pract. Train. 43 (4), 531–548. https://doi. 
+org/10.1037/0033-3204.43.4.531. 
+Hall, G.C.N., Ibaraki, A.Y., Huang, E.R., Marti, C.N., Stice, E., 2016. A meta-analysis of 
+cultural adaptations of psychological interventions. Behav. Ther. 47 (6), 993–1014. 
+https://doi.org/10.1016/j.beth.2016.09.005. 
+Hayati, S.A., Tohari, S., 2022. Cognitive behavioral therapy (CBT) dalam menurunkan 
+social anxiety disorder (SAD) dan Obsessive Compulsive Disorder (OCD) Pada 
+Remaja. Bull. Couns. Psychother. 4 (2), 153–159. https://doi.org/10.51214/bocp. 
+v4i2.163. 
+Hayati, U.F., Fatimah, S., Mardhiyah, A., 2018. Comparative effectiveness of cognitive 
+behavioral therapy 5 sessions and 12 sessions toward to post traumatic stress 
+disorder on post flood disaster adolescent. J. Keperawatan Padjadjaran 6 (1), 37–49. 
+https://doi.org/10.24198/jkp.v6i1.357. 
+Healey, P., Stager, M.L., Woodmass, K., Dettlaff, A.J., Vergara, A., Janke, R., Wells, S.J., 
+2017. Cultural adaptations to augment health and mental health services: a 
+systematic review. BMC Health Serv. Res. 17 (1), 1–26. https://doi.org/10.1186/ 
+s12913-016-1953-x. 
+Heim, E., Mewes, R., Ramia, J.A., Glaesmer, H., Hall, B., Shehadeh, M.H., Ünlü, B., 
+Kananian, S., Kohrt, B.A., Lechner-Meichsner, F., Lotzin, A., Moro, M.R., Radjack, R., 
+Salamanca-Sanabria, A., Singla, D.R., Starck, A., Sturm, G., Tol, W., Weise, C., 
+Knaevelsrud, C., 2021. Reporting cultural adaptation in psychological trials – the 
+RECAPT criteria. Clin. Psychol. Eur. 3 (Special Issue), 11–23. https://doi.org/ 
+10.32872/cpe.6351. 
+Higgins, J.P., Green, S., 2011. Cochrane handbook for systematic reviews of 
+interventions Version 5.1.0 [updated March 2011]. The Cochrane Collaboration. 
+Hwang, W.C., 2006. The psychotherapy adaptation and modification framework: 
+application to Asian Americans. Am. Psychol. 61 (7), 702–715. https://doi.org/ 
+10.1037/0003-066X.61.7.702. 
+Iwamasa, G.Y., Hays, P.A., 2019. Culturally responsive cognitive behavior therapy: 
+practice and supervision (2nd ed.). Am. Psychol. Assoc. 
+King, V.T., 2008. The sociology of Southeast Asia: transformations in a developing 
+region. NIAS Press. 
+Moher, D., Liberati, A., Tetzlaff, J., Altman, D.G., The PRISMA Group, 2009. Preferred 
+reporting items for systematic reviews and meta-analyses: the PRISMA statement. 
+PLoS Med. 6 (7), e1000097 https://doi.org/10.1136/bmj.b2535. 
+Moola, S., Munn, Z., Tufanaru, C., Aromataris, E., Sears, K., Sfetcu, R., Currie, M., 
+Lisy, K., Qureshi, R., Mattis, P., Mu, P., 2020. Systematic reviews of etiology and risk. 
+In: Aromataris, E., Munn, Z. (Eds.), JBI Manual for Evidence Synthesis. JBI. 
+Naeem, F., Phiri, P., Nasar, A., Gerada, A., Munshi, T., Ayub, M., Rathod, S., 2016. An 
+evidence-based framework for cultural adaptation of Cognitive Behaviour Therapy: 
+Process, methodology and foci of adaptation. World Cult. Psychiatry Res. Rev. 112 
+(1), 61–70. 
+Pityaratstian, N., Liamwanich, K., Ngamsamut, N., Narkpongphun, A., Chinajitphant, N., 
+Burapakajornpong, N., Thongphitakwong, W., Khunchit, W., Weerapakorn, W., 
+Rojanapornthip, B., Jayasvasti, K., 2007. Cognitive-behavioral intervention for 
+young tsunami victims. J. Med. Assoc. Thail. 90 (3), 518–523. 
+Rathod, S., Kingdon, D., 2014. Case for cultural adaptation of psychological interventions 
+for mental healthcare in low and middle income countries. BMJ 349, 7636. https:// 
+doi.org/10.1136/bmj.g7636. 
+Rathod, S., Kingdon, D., Pinninti, N., Turkington, D., Phiri, P., 2015. Cultural Adaptation 
+of CBT for Serious Mental Illness: A Guide for Training and Practice. John Wiley & 
+Sons, Ltd. https://doi.org/10.1002/9781118976159. 
+Rathod, S., Gega, L., Degnan, A., Pikard, J., Khan, T., Husain, N., Munshi, T., Naeem, F., 
+2018. The current status of culturally adapted mental health interventions: a 
+practice-focused review of meta-analyses. Neuropsychiatr. Dis. Treat. 14, 165–178. 
+https://doi.org/10.2147/NDT.S138430. 
+Rathod, S., Persaud, A., Naeem, F., Pinninti, N., Tribe, R., Eylem, O., Gorczynski, P., 
+Phiri, P., Husain, N., Muzaffar, S., Irfan, M., 2019. Culturally adapted interventions 
+in mental health: Global position statement. World Cult. Psychiatry Res. Rev. 14 
+(1–2), 21–29. 
+Samantaray, N.N., Singh, P., Sudhir, P.M., 2022. Maximizing the non-specific factors in 
+brief cognitive behavioral therapy for panic disorder and agoraphobia: a multiple 
+baseline case series documenting feasibility and initial efficacy. Asian J. Psychiatr. 
+72, 103069 https://doi.org/10.1016/j.ajp.2022.103069. 
+Siddaway, A.P., Wood, A.M., Hedges, L.V., 2019. How to do a systematic review: a best 
+practice guide for conducting and reporting narrative reviews, meta-analyses, and 
+meta-syntheses. Annu. Rev. Psychol. 70 (1), 747–770. https://doi.org/10.1146/ 
+annurev-psych-010418-102803. 
+Sterne, J.A., Hern´an, M.A., Reeves, B.C., Savovi´c, J., Berkman, N.D., Viswanathan, M., 
+Henry, D., Altman, D.G., Ansari, M.T., Boutron, I., Carpenter, J.R., Chan, A.W., 
+Churchill, R., Deeks, J.J., Hr´objartsson, A., Kirkham, J., Jüni, P., Loke, Y.K., 
+Pigott, T.D., Higgins, J.P., 2016. ROBINS-I: a tool for assessing risk of bias in non- 
+A. Praptomojati et al.                                                                                                                                                                                                                          
+
+===
+PAGE 9:
+Asian Journal of Psychiatry 92 (2024) 103896
+9
+randomised studies of interventions. BMJ 355, 4–10. https://doi.org/10.1136/bmj. 
+i4919. 
+Sterne, J.A.C., Savovi´c, J., Page, M.J., Elbers, R.G., Blencowe, N.S., Boutron, I., Cates, C. 
+J., Cheng, H.Y., Corbett, M.S., Eldridge, S.M., Emberson, J.R., Hern´an, M.A., 
+Hopewell, S., Hr´objartsson, A., Junqueira, D.R., Jüni, P., Kirkham, J.J., Lasserson, T., 
+Li, T., Higgins, J.P.T., 2019. RoB 2: A revised tool for assessing risk of bias in 
+randomised trials. BMJ 366, 1–8. https://doi.org/10.1136/bmj.l4898. 
+Subhas, N., Mukhtar, F., Munawar, K., 2021. Adapting cognitive-behavioral therapy for a 
+Malaysian muslim. Med. J. Islam Repub. Iran. 35 (1), 1–11. https://doi.org/ 
+10.47176/mjiri.35.28. 
+United Nations, 2022. Subregional Office for South-East Asia. https://www.unescap.org/ 
+subregional-office/south-east-asia. 
+United Nations Statistics Division, 2022. United Nations Statistics Division - Standard 
+Country and Area Codes Classifications (M49). https://unstats.un.org/unsd/ 
+methodology/m49/. 
+Wahyuningsih, L., Daengsari, D.P., 2020. Efektivitas modifikasi kognitif perilaku untuk 
+menurunkan kecemasan sosial pada remaja dengan Borderline Intellectual 
+Functioning (BIF). Persona 9 (1), 1–16. https://doi.org/10.30996/persona. 
+v9i1.2782. 
+White, R., 2013. The globalisation of mental illness. Psychologist 26 (3), 182–185. 
+World Health Organization, 2008. mhGAP: Mental Health Gap Action Programme: 
+Scaling up care for mental, neurological, and substance use disorders. World Health 
+Organ. 
+World Health Organization, 2017. Depression and other common mental disorders: 
+Global health estimates. World Health Organ. https://apps.who.int/iris/handle/ 
+10665/254610.  
+A. Praptomojati et al.                                                                                                                                                                                                                          
+
+===

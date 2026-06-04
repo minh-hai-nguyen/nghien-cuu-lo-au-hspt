@@ -1,0 +1,1580 @@
+PAGE 1:
+Review article
+Psychological interventions for social anxiety disorder in children and 
+adolescents: A systematic review and network meta-analysis
+Jinhua Xian , Yan Zhang , Bo Jiang *
+School of Education Science, Jiangsu Second Normal University, Nanjing, China
+A R T I C L E  I N F O
+Keywords:
+Children
+Adolescents
+Social anxiety disorder
+Psychological interventions
+Network meta-analysis
+A B S T R A C T
+Background: Social anxiety disorder (SAD) is a high-prevalence mental disorder among children and adolescents. 
+The aim of this study is to compare and rank the effectiveness of several psychotherapies for SAD among children 
+and adolescents.
+Methods: Only randomized controlled trials (RCTs) were utilized by searching PubMed, Embase, Cochrane Li­
+brary, and Web of Science. We used network meta-analysis in the Bayesian framework to analyze the data. This 
+study is registered with PROSPERO, number CRD42023476829.
+Results: In total, 30 RCTs with 1547 individuals were included, and nine psychotherapies with three control 
+conditions were compared and ranked in this study. The findings revealed that internet-delivered cognitive 
+behavioural therapy (surface under the cumulative ranking curve [SUCRA: 71.2 %]), group cognitive behav­
+ioural therapy (SUCRA: 68.4 %), and individual cognitive behavioural therapy (SUCRA: 66.0 %) significantly 
+reduced social anxiety symptoms; internet-delivered cognitive behavioural therapy also significantly decreased 
+depression symptoms in these patients (SUCRA: 92.2 %). In addition, group cognitive behavioural therapy can 
+enhance functioning in these patients (SUCRA: 89.6 %).
+Conclusion: These results suggest that internet-delivered cognitive behavioural therapy is the optimal type of 
+psychotherapy for reducing social anxiety and depression symptoms in children and adolescents with SAD, 
+internet-delivered parent-child interaction therapy and cognitive bias modification of interpretation have rela­
+tively poor treatment effects on social anxiety symptoms in children than other psychological interventions, and 
+group cognitive behavioural therapy has better benefits in enhancing the functioning among children and ad­
+olescents with SAD. Further studies are needed to ascertain these results due to the limited number of included 
+studies.
+1. Introduction
+Social anxiety disorder (SAD) is a common mental disorder among 
+children and adolescents, with a lifetime prevalence of approximately 
+10 % (Burstein et al., 2011; Davidson et al., 1994). The average age at 
+which children are diagnosed with SAD is approximately 9.2 years 
+(Burstein et al., 2011). This condition is often comorbid with depressive 
+disorder (Stein et al., 2001). Moreover, several functional impairments 
+(including poor academic achievement, interpersonal relationship is­
+sues, and dropping out of school) were reported (Beidel et al., 2007; 
+Rapee and Spence, 2004). Although the high prevalence of SAD, few 
+younger people with SAD receive effective treatments (Merikangas 
+et al., 2011; Wittchen and Fehm, 2003). That could be because SAD 
+symptoms are frequently mistaken for shyness and that it would fade 
+with age (Dalrymple and Zimmerman, 2011). However, SAD tends to 
+persist without effective treatment (Beidel et al., 1996; Bruce et al., 
+2005). Therefore, early intervention is necessary for youth with SAD.
+With the focus on youth with SAD, a range of effective psychological 
+intervention programmes have emerged. Social Effectiveness Training 
+for Children and Adolescents (SET–C) is a behavioural therapy (BT) 
+that consist of education, social skills training, peer generalization, and 
+exposure. SET-C is delivered through group training and individual 
+exposure, and research findings have shown that SET-C can significantly 
+reduce social anxiety among youth (Beidel et al., 2000). Later re­
+searchers developed a school-based group cognitive behavioural ther­
+apy (CBT), Skills for Academic and Social Success (SASS), which 
+includes education, social skills training, exposure, realistic thinking, 
+and relapse prevention. Of these, SET-C is largely used to inform the 
+* Corresponding author at: School of Education Science, Jiangsu Second Normal University, 6 Xinhe West Road, Lishui District, Nanjing 211200, China.
+E-mail address: jiangb@jssnu.edu.cn (B. Jiang). 
+Contents lists available at ScienceDirect
+Journal of Affective Disorders
+journal homepage: www.elsevier.com/locate/jad
+https://doi.org/10.1016/j.jad.2024.08.097
+Received 29 November 2023; Received in revised form 16 August 2024; Accepted 17 August 2024  
+Journal of Aϱective Disorders 365 (2024) 614–627 
+Available online 22 August 2024 
+0165-0327/© 2024 Elsevier B.V. All rights are reserved, including those for text and data mining, AI training, and similar technologies. 
+
+===
+PAGE 2:
+social skills and exposure sessions, while Ronald Rapee's (1998) book is 
+used to inform the realistic thinking and relapse prevention sessions 
+(Masia et al., 2001). Cognitive-Behavioural Group Therapy for Adoles­
+cents (CBGT-A) is a group cognitive behavioural therapy that includes 
+education, social skills, problem-solving skills, assertiveness, cognitive 
+restructuring, and exposure (Albano et al., 1995). Research finding has 
+shown that the therapy reduces social anxiety compared to control 
+group (Hayward et al., 2000). Intervention in Adolescents with Gener­
+alized Social Phobia (IAFS) is another effective group cognitive behav­
+ioural therapy that has been applied in the spanish adolescents, where 
+this group treatment consists of education, training in social skills, 
+exposure, and cognitive restructuring (Olivares et al., 2002). It can be 
+suggested that BT and CBT for treating SAD in youth commonly include 
+components such as education, social skills training, and exposure 
+(Masia Warner et al., 2007); the difference between the two lies in the 
+presence or absence of the cognitive restructuring (Yang et al., 2019; 
+Zhou et al., 2019). CBT is a widely used psychological intervention to 
+treat social anxiety that specifically emphasises cognition is crucial to 
+maintain SAD (Pilling et al., 2013; Rapee and Heimberg, 1997; Rapee 
+et al., 2009; Wong and Rapee, 2016), and therefore focuses on cognitive 
+restructuring which encourage children to recognize and modify irra­
+tional and automatic beliefs associated with social interactions (Iverach 
+and Rapee, 2014; O'Toole et al., 2015). To enhance the therapeutic ef­
+fect, researchers have developed a new CBT program for treating SAD 
+among youth based on the model of Clark and Well (1995), which em­
+phasises intervening in individuals' overly negative beliefs about social 
+interactions through attention training, updating negative impressions 
+with the help of video feedback, and behavioural experiments (Leigh 
+and Clark, 2018; Spence and Rapee, 2016). A review has been shown 
+that the results of psychological interventions based on the model of 
+Clark and Well (1995) in adolescents are encouraging (Leigh and Clark, 
+2018). CBT is typically delivered by face-to-face format (Mancini et al., 
+2005). Due to the stigmatization of psychotherapy, the high cost of 
+treatment, and the core symptoms of SAD, receiving face-to-face 
+psychotherapy is quite hard for those younger patients (Ollendick and 
+Hirshfeld-Becker, 2002; Radez et al., 2021). With the rapid development 
+of digital technology in the psychological interventions and the highly 
+structured nature of CBT, a range of research findings suggest that 
+internet-delivered CBT is also effective in reducing social anxiety in 
+adolescents with SAD (Erwin et al., 2004; Ollendick and Hirshfeld- 
+Becker, 2002; Ollendick et al., 2018). Psychodynamic therapy (PDT) 
+suggests that social anxiety disorder is associated with an individual's 
+underlying core conflictual relationship theme (Leichsenring et al., 
+2015); therapists can help children reduce their social anxiety symptoms 
+by integrating supportive and expressive interventions (Salzer et al., 
+2018). Most of the recent psychological interventions for SAD are aimed 
+at childhood and adolescence (ages 7+), but there are fewer in­
+terventions for early children. One study used internet-delivered parent- 
+child interaction therapy (Int-PCIT) to treat early children (3-8 years) 
+with SAD, which remodels child behaviour by directly reshaping the 
+parent-child interaction; the result showed a positive intervention effect 
+on SAD (Comer et al., 2021). In addition, there have been studies using 
+computer-based treatment, for example, attention bias modification 
+treatment (ABMT) focuses on decreasing attentional bias by shifting 
+children's attention away from threat stimuli to reduce through using 
+the dot-probe task, which in turn reduces social anxiety symptoms in 
+youth (Ollendick et al., 2019). However, which psychotherapeutic 
+approach, form of intervention (individual, group, or a combination of 
+both), and mode of delivery (face-to-face or internet) is more beneficial 
+for treating children and adolescents with SAD is still under discussion. 
+Previous meta-analyses showed that specific types of psychotherapy are 
+effective for youth with SAD (Scaini et al., 2016; Yang et al., 2019). 
+However, these meta-analyses only compared one or two psychological 
+interventions for youth with SAD to a control condition. In addition, 
+traditional meta-analysis can only analyze direct comparison studies. 
+Therefore, the optimal type of psychotherapy for the children and 
+adolescent with SAD remains undetermined.
+Network meta-analysis has the benefit of evaluating the effect of 
+Fig. 1. PRISMA guidelines – study selection process.
+J. Xian et al.                                                                                                                                                                                                                                     
+Journal of Aϱective Disorders 365 (2024) 614–627 
+615 
+
+===
+PAGE 3:
+Table 1 
+Characteristics of included studies.
+Study name
+Country
+Definition of 
+SAD
+Age Mean (SD)
+Total/male/ 
+female
+Intervention
+Control
+Outcome
+(Asbrand et al., 2020)
+Germany
+DIPS-K
+T: 11.5 (1.35) 
+C: 11.2 (1.33)
+T:31/15/16 
+C:36/12/24
+G-CBT 
+Length of Intervention: 12 weeks 
+Freq: one time a week 
+Duration: 100 min
+WL
+SPAI
+(Baer and Garland, 2005)
+Canada
+ADIS-C
+T: 14.5(NA) 
+C: 16.5(NA)
+T:6/3/3 
+C:6/4/2
+G-CBT 
+Length of Intervention: 12 weeks 
+Freq: one time a week 
+Duration: 60/90 min
+WL
+SPAI 
+BDI
+(Beidel et al., 2000)
+USA
+ADIS-C
+T: 10.5 (1.6) 
+C: 10.6 (1.4)
+T:30/14/16 
+C:20/6/14
+I + G-BT 
+Length of Intervention: 12 weeks 
+Freq: two times a week 
+Duration: 90 min
+PBO
+SPAI 
+CDI 
+K-GAS
+(Comer et al., 2021)
+USA
+ADIS-P
+T: 5.9 (1.7) 
+C:6.5 (2.0)
+T:20/5/15 
+C:20/6/14
+Int-PCIT 
+Length of Intervention: 16 weeks 
+Freq: 12 sessions in 16 weeks 
+Duration: NA
+WL
+CBCL- 
+Anxiety
+(Ebrahiminejad et al., 2016)
+Iran
+SCID
+T: 14.8(NA) 
+C: 15.1(NA)
+T:15/0/15 
+C:15/0/15
+G-CBT 
+Length of Intervention: 8 weeks 
+Freq: one time a week 
+Duration: 120 min
+NT
+SPIN
+(Gallagher et al., 2004)
+USA
+ADIS-C
+T:NA 
+C:NA
+T:12/NA/NA 
+C:11/NA/NA
+G-CBT 
+Length of Intervention: 3 weeks 
+Freq: one time a week 
+Duration: 180 min
+WL
+SPAI 
+CDI
+(Gil-Bernal and Hernandez- 
+Guzman, 2009)
+Mexico
+SCID
+T:NA 
+C:NA
+T:6/NA/NA 
+C:6/NA/NA
+G-CBT 
+Length of Intervention: 5 weeks 
+Freq: 9 sessions in 5 weeks 
+Duration: 90 min
+WL
+SCAS
+(Hayward et al., 2000)
+USA
+ADIS-C/P
+T + C:15.8 (1.6)
+T:12/0/12 
+C:23/0/23
+G-CBT 
+Length of Intervention: 16 weeks 
+Freq: one time a week 
+Duration: 90 min
+NT
+SPAI
+(Herbert et al., 2009)
+USA
+ADIS- C
+T1:14.3 (2.1) 
+T2:14.6 (2.8) 
+C:15.1 (1.4)
+T1:24/6/18 
+T2:23/13/10 
+C:26/12/14
+T1: I-CBT 
+Length of Intervention: 12 weeks 
+Freq: one time a week 
+Duration: 60 min 
+T2: G-CBT 
+Length of Intervention: 12 weeks 
+Freq: one time a week 
+Duration:120 min
+PBO
+SPAI
+(Ingul et al., 2014)
+Norway
+ADIS-C
+T1:14.98 (0.94) 
+T2:14.3 (0.89) 
+C:14.16 (1.08)
+T1:21/12/9 
+T2:20/12/8 
+C:16/8/8
+T1: I-CBT 
+Length of Intervention: 12 weeks 
+Freq: one time a week 
+Duration: 50 min 
+T2: G-CBT 
+Length of Intervention: 10 weeks 
+Freq: one time a week 
+Duration: 90 min
+PBO
+SPAI 
+CDI
+(Leigh and Clark, 2023)
+UK
+ADIS-C/P
+T: 16.04 (1.03) 
+C:16.42 (1.11)
+T:22/2/20 
+C:21/2/19
+Int-CBT 
+Length of Intervention: 14 weeks 
+Freq: 24 modules in14 weeks 
+Duration: NA
+WL
+LSAS-CA 
+SMFQ
+(Masia-Warner et al., 2005)
+USA
+ADIS-C/P
+T:15.0 (0.59) 
+C:14.5 (0.94)
+T:18/14/4 
+C:17/12/5
+G-CBT 
+Length of Intervention: 12 weeks 
+Freq: one time a week 
+Duration: 40 min
+WL
+SPAI 
+CDI 
+CGAS
+(Masia Warner et al., 2007)
+USA
+ADIS-C/P
+T: 15.0 (0.6) 
+C: 15.1 (0.7)
+T:19/3/16 
+C:17/3/14
+G-CBT 
+Length of Intervention: 12 weeks 
+Freq: one time a week 
+Duration: 40 min
+PBO
+SPAI 
+BDI 
+CGAS
+(Masia Warner et al., 2016)
+USA
+ADIS-C/P
+T:15.34 (0.85) 
+C:15.37 (0.81)
+T:47/14/33 
+C:43/16/27
+G-CBT 
+Length of Intervention: 12 weeks 
+Freq: one time a week 
+Duration: 40 min
+PBO
+SPAI 
+SAS-SR
+(continued on next page)
+J. Xian et al.                                                                                                                                                                                                                                     
+Journal of Aϱective Disorders 365 (2024) 614–627 
+616 
+
+===
+PAGE 4:
+Table 1 (continued)
+Study name
+Country
+Definition of 
+SAD
+Age Mean (SD)
+Total/male/ 
+female
+Intervention
+Control
+Outcome
+(Melfsen et al., 2011)
+Germany
+DIPS-K
+T:10.6 (1.64) 
+C:10.76 (1.90)
+T:21/13/8 
+C:23/10/13
+I-CBT 
+Length of Intervention: 20 weeks 
+Freq: one time a week 
+Duration: 50 min
+WL
+SPAI 
+CDI 
+CGAS
+(Nordh et al., 2021)
+Sweden
+ADIS-C
+T: 13.6 (2.0) 
+C: 14.5 (2.1)
+T:51/10/41 
+C:52/14/38
+Int-CBT 
+Length of Intervention: 10 weeks 
+Freq: one module one week 
+Duration: NA
+PBO
+LSAS-C 
+CGAS
+(Olivares et al., 2005)
+Spain
+ADIS-C
+T:15.0 (0.71) 
+C:15.06 (0.96)
+T:17/7/10 
+C:17/7/10
+G-CBT 
+Length of Intervention: 12 weeks 
+Freq: one time a week 
+Duration: 90 min
+WL
+SPAI
+(Olivares et al., 2009)
+Spain
+ADIS-C
+T:15.0(NA) 
+C:14.75(NA)
+T:20/5/15 
+C:20/8/12
+G-CBT 
+Length of Intervention: 12 weeks 
+Freq: one time a week 
+Duration: 90 min
+WL
+SPAI
+(Olivares et al., 2014)
+Spain
+ADIS-C
+T:15.58 (0.76) 
+C:15.23 (1.26)
+T:38/14/24 
+C:35/13/22
+G-CBT 
+Length of Intervention: 12 weeks 
+Freq: one time a week 
+Duration: 90 min
+WL
+SAS
+(Olivares-Olivares et al., 2019)
+Spain
+ADIS-C
+T:NA 
+C: NA
+T:36/14/22 
+C:36/13/23
+G-CBT 
+Length of Intervention: 12 weeks 
+Freq: one time a week 
+Duration: 90 min
+WL
+SPAI
+(Ollendick et al., 2019)
+USA
+ADIS-C/P
+T:14.34(NA) 
+C:14.24(NA)
+T:29/9/20 
+C:29/8/21
+ABMT 
+Length of Intervention: 5 weeks 
+Freq: 2 times a week 
+Duration: 30 min
+PBO
+SCARED
+(Orchard et al., 2017)
+UK
+ADIS-C/P
+T:9.89 (1.43) 
+C:9.65 (1.61)
+T:29/10/19 
+C:27/14/13
+CBM-I 
+Length of Intervention: 2 weeks 
+Freq: 3 sessions in 2 weeks 
+Duration: 30 min
+WL
+SCAS
+(¨Ost et al., 2015)
+Sweden
+ADIS-C/P
+T:NA 
+C:NA
+T:16/NA/NA 
+C:23/NA/NA
+I + G-BT 
+Length of Intervention: 12 weeks 
+Freq: 2 times a week 
+Duration: NA
+WL
+SPAI 
+CDI
+(Pergamin-Hight et al., 2016)
+Israel
+ADIS-C/P
+T:12.71 (3.11) 
+C:12.27 (3.08)
+T:31/20/11 
+C:36/18/18
+ABMT 
+Length of Intervention: 4 weeks 
+Freq: 2 times a week 
+Duration: NA
+PBO
+SPAI
+(Rosa-Alcazar et al., 2009)
+Spain
+ADIS-C
+T:15.0(NA) 
+C:14.77(NA)
+T:20/5/15 
+C:20/8/12
+G-CBT 
+Length of Intervention: 12 weeks 
+Freq: one time a week 
+Duration: 90 min
+WL
+SPAI
+(Salzer et al., 2018)a
+Germany
+Kiddie-SADS
+T1:17.26 (2.16) 
+T2:17.85 (1.89) 
+C:16.97 (1.88)
+T1:34/11 /23 
+T2:34/12/22 
+C:39/13/26
+T1: I-CBT 
+Length of Intervention: average of 31.3 
+weeks 
+Freq: one time a week 
+Duration: 50 min 
+T2: PDT 
+Length of Intervention: average of 
+30.31 weeks 
+Freq: one time a week 
+Duration: 50 min
+WL
+SPAI
+(S´anchez-García and Olivares, 
+2009)
+Spain
+ADIS-C/P
+T + C:11.91 
+(1.33)
+T1:28/NA/NA 
+T2:29/NA/NA 
+C:25/NA/NA
+T1: G-CBT 
+Length of Intervention: 12 weeks 
+Freq: one time a week 
+Duration: 90 min 
+T2: G-BT 
+Length of Intervention: 12 weeks 
+Freq: one time a week 
+Duration: 90 min
+WL
+SPAI
+(Spence et al., 2000)
+Australia
+ADIS-C/P
+T:11.0 (2.45) 
+C:9.93 (1.77)
+T:19/10/9 
+C:14/11/3
+G-CBT 
+Length of Intervention: 12 weeks 
+Freq: one time a week 
+Duration: 90 min
+WL
+SCAS
+(continued on next page)
+J. Xian et al.                                                                                                                                                                                                                                     
+Journal of Aϱective Disorders 365 (2024) 614–627 
+617 
+
+===
+PAGE 5:
+several psychotherapies assessed in RCTs through both direct and indi­
+rect comparisons (Rouse et al., 2017). Because different types of psy­
+chological interventions and different modes of delivery (group, 
+individual or a combination of both; face-to-face or internet) may lead to 
+different therapeutic effects on SAD (Zhou et al., 2019), our study aimed 
+to conduct a network meta-analysis to evaluate the effectiveness of 
+different types of psychological interventions in children and adoles­
+cents with SAD.
+2. Methods
+2.1. Literature search
+We searched PubMed, Embase, Cochrane Library, and Web of Sci­
+ence from the time of their inception to 25 August 2023. This study was 
+performed using the PRISMA instruction manual (Hutton et al., 2015). 
+The PICOS tool served as a framework for the search approach. Ap­
+pendix Table S1 presents more detailed information regarding the 
+literature search. Our protocol was registered with PROSPERO, number 
+CRD42023476829.
+The inclusion criteria were applied: (1) individuals under the age of 
+18 with a clinical diagnosis of SAD were eligible for enrolment; (2) 
+experimental group with different types of psychological intervention; 
+(3) control condition including waitlist, no treatment, and psychological 
+placebo; (4) randomized controlled trials; and (5) social anxiety symp­
+toms, depression symptoms, and functioning were measured as out­
+comes by using psychological scales (Appendix Table S2).
+2.2. Literature screening and data extraction
+We use Endnote X9 to manage literature search records. The titles in 
+the literature were independently screened by two researchers. There­
+after, abstracts were reviewed, the full articles were examined, and their 
+inclusion or exclusion was determined. If two researchers disagreed on a 
+particular study, a third researcher decided on whether it should be 
+included.
+The following preselected approach and standards were used to 
+extract data: study name, country, definition of SAD, age, sample, 
+intervention, control, and outcome.
+2.3. Quality assessment
+According to the Cochrane Handbook version 5.1, two separate 
+authors assessed the quality of studies. Review Manager (Version 5.4) 
+was applied to assess the risk of bias (ROB). Seven indicators were used 
+to assess ROB: random sequence generation, allocation concealment, 
+blinding of participants and personnel, blinding of outcome assessment, 
+incomplete outcome data, selective reporting, and other biases (Higgins 
+et al., 2011). Trials were classified as high risk (three or more items 
+assessed as high risk of bias), low risk (five or more items rated as low 
+risk of bias and no more than one as high risk of bias), or moderate risk 
+(all remaining trials) (Yang et al., 2019; Zhou et al., 2019).
+2.4. Data analysis
+The variable in the analysis was continuous and reported as mean 
+with standard deviation. The random-effects model was used for anal­
+ysis as possible distinctions between studies are unavoidable (Jackson 
+et al., 2011). The Bayesian framework-based network meta-analysis was 
+applied by using Stata software (version 15). Using the Markov chains 
+Monte Carlo approach, we generated mean differences (MD) with 95 % 
+confidence intervals (CI) (Vats et al., 2019). The nodal splitting 
+approach was used with Stata software instructions to quantify and 
+demonstrate agreement between indirect and direct comparisons. The 
+thickness of the line indicates the number of studies between in­
+terventions, while the size of the nodes indicates the sample size 
+(Chaimani et al., 2013). The consistency was confirmed if P > 0.05.
+The effect size of interventions was ranked using the SUCRA. In the 
+SUCRA, the intervention with the highest probability of being the best is 
+indicated by a bigger area under the curve (Salanti et al., 2011). 
+Furthermore, by generating a funnel plot and employing the symmetry 
+criterion for a visual inspection, publication bias in the network meta- 
+analysis was verified.
+3. Results
+In total, 4058 articles were found through the literature search. After 
+eliminating duplicates, the remaining 3457 articles were read for titles 
+and abstracts, and 3336 articles were excluded. Following the full-text 
+review of 121 articles, 91 were excluded for various reasons, including 
+the inclusion of adults and non-social anxiety disorder patients, the non- 
+randomized design, the lack of a standardized diagnosis of SAD, and lack 
+of available data. Finally, our network meta-analysis included 30 
+studies. Fig. 1 depicts the screening procedure in detail.
+This network meta-analysis includes 30 RCTs with 1547 participants. 
+Research was conducted in the USA (n = 9), Spain (n = 6), Germany (n 
+Table 1 (continued)
+Study name
+Country
+Definition of 
+SAD
+Age Mean (SD)
+Total/male/ 
+female
+Intervention
+Control
+Outcome
+(Spence et al., 2017)
+Australia
+ADIS-C/P
+T:11.34 (2.78) 
+C:11.6 (2.72)
+T:47/14/33 
+C:30/14/16
+Int-CBT 
+Length of Intervention: 10 weeks 
+Freq: one time a week 
+Duration: 60 min
+WL
+SPAI 
+CGAS
+(Tillfors et al., 2011)b
+Sweden
+SCID
+T + C:16.5 (1.6)
+T:10/1/9 
+C:9/1/8
+Int-CBT 
+Length of Intervention: 9 weeks 
+Freq: one module one week 
+Duration: NA
+WL
+SPSQ 
+MADRS
+Note. ABMT: attention bias modification treatment, ADIS-C/P: Anxiety Disorders Interview Schedule for Children/Parent, BDI: Beck Depression Inventory, CBCL- 
+Anxiety: Anxiety Problems Scale from The Child Behaviour Checklist, CBM–I: cognitive bias modification of interpretation, CDI: The Children's Depression In­
+ventory, CGAS/K-GAS: The Children's Global Assessment Scale, DIPS-K: German version of the anxiety disorders interview schedule (ADIS) for children, G-BT: group 
+behavioural therapy, G-CBT: group cognitive behavioural therapy, I + G-BT: individual and group behavioural therapy, I-CBT: individual cognitive behavioural 
+therapy, Int-CBT: internet-delivered cognitive behavioural therapy, Int-PCIT: internet-delivered Parent-Child Interaction Therapy, Kiddie-SADS: German edition of the 
+Kiddie-SADS-Present and Lifetime Version, LSAS-CA/LSAS-C: Liebowitz Social Anxiety Scale for Children and Adolescents/Child, MADRS: Montgomery–Åsberg 
+Depression Rating Scale, NT: no treatment, SAS: Social Anxiety Scale, SAS-SR: School subscale of the Social Adjustment Scale Self-Report, SCARED: Screen for Child 
+Anxiety Related Disorders, SCAS: Spence Children's Anxiety Scale, SCID: Structured Clinical Interview for DSM-IV, SMFQ: Short Mood and Feelings Questionnaire, 
+SPAI: Social Phobia and Anxiety Inventory, SPIN: Social Phobia Inventory, SPSQ: Social Phobia Screening Questionnaire, PBO: psychological placebo, PDT: psy­
+chodynamic therapy, WL: waitlist.
+a The age range was 14–20 years old.
+b Only one participant was 21 years old.
+J. Xian et al.                                                                                                                                                                                                                                     
+Journal of Aϱective Disorders 365 (2024) 614–627 
+618 
+
+===
+PAGE 6:
+(A) social anxiety symptoms 
+(B) depression symptoms 
+(C) functioning 
+Fig. 2. The network plots of social anxiety symptoms (A), depression symptoms (B) and functioning (C).
+J. Xian et al.                                                                                                                                                                                                                                     
+Journal of Aϱective Disorders 365 (2024) 614–627 
+619 
+
+===
+PAGE 7:
+Fig. 3. The forest plots of social anxiety symptoms (A), depression symptoms (B) and functioning (C).
+J. Xian et al.                                                                                                                                                                                                                                     
+Journal of Aϱective Disorders 365 (2024) 614–627 
+620 
+
+===
+PAGE 8:
+= 3), Sweden (n = 3), Australia (n = 2), UK (n = 2), Canada (n = 1), Iran 
+(n = 1), Israel (n = 1), Mexico (n = 1), and Norway (n = 1). In terms of 
+regional distribution, the majority of research comes from developed 
+countries or regions. Nine types of psychotherapies were included in our 
+network meta-analysis: group cognitive behavioural therapy (G-CBT, n 
+= 18), internet-delivered cognitive behavioural therapy (Int-CBT, n =
+4), individual cognitive behavioural therapy (I-CBT, n = 4), individual 
+and group behavioural therapy (I + G-BT, n = 2), attention bias modi­
+fication treatment (ABMT, n = 2), group behavioural therapy (G-BT, n =
+1), cognitive bias modification of interpretation (CBM–I, n = 1), 
+internet-delivered parent-child interaction therapy (Int-PCIT, n = 1), 
+and psychodynamic therapy (PDT, n = 1). Three types of condition 
+groups were included: waitlist (WL, n = 20), psychological placebo 
+(PBO, n = 8), and no treatment (NT, n = 2) (Table 1).
+In terms of outcomes, 30 studies reported social anxiety scores, 10 
+reported depression scores, and 7 reported functioning scores. 
+Regarding the quality, six RCTs (20 %) were at low risk, two RCTs (6.7 
+%) at high risk, and 22 RCTs (73.3 %) were at moderate risk (Appendix 
+Figs. S1 and S2). The psychological characteristics of the intervention in 
+these studies made it challenging for both blind participants and 
+measurers.
+Figs. 2, 3 and 4 display the network plots, forest plots, and SUCRA 
+plots of social anxiety symptoms, depression symptoms and functioning 
+in children and adolescents with SAD respectively. The efficacies of 
+several psychological interventions for social anxiety symptoms, 
+depression symptoms and functioning are presented in Tables 2, 3 and 4. 
+The evaluation of inconsistency revealed that the consistency between 
+studies was acceptable (for more information, see Appendix Tables S3, 
+S4, and S5). The funnel plots were generally symmetrically distributed 
+on both sides of the inverted funnel, indicating there was no publishing 
+bias (Wallace et al., 2009) (see Appendix Fig. S3).
+3.1. Outcome of social anxiety network
+The results revealed that, Int-CBT (MD -24.96, 95 % CI -46.00 to 
+−3.93), G-CBT (MD -22.82, 95 % CI -33.86 to −11.77), and I-CBT (MD 
+-22.36, 95 % CI -42.51 to −2.22) had significant effects on reducing 
+social anxiety symptoms in children and adolescents with SAD 
+compared with the waitlist group. The probability and SUCRA values 
+showed that Int-CBT had the biggest area under the curve (SUCRA: 71.2 
+%), followed by G-CBT (SUCRA: 68.4 %), and I-CBT (SUCRA: 66.0 %).
+3.2. Outcome of depression network
+The results revealed that, only Int-CBT (MD -9.63, 95 % CI -17.47 to 
+−1.79) significantly reduced depression symptoms in children and ad­
+olescents with SAD compared with the waitlist group. The probability 
+and SUCRA values showed that Int-CBT had the biggest area under the 
+curve (SUCRA: 92.2 %).
+3.3. Outcome of functioning network
+The results revealed that, only G-CBT (MD 17.37, 95 % CI 4.67 to 
+30.07) significantly enhanced functioning in children and adolescents 
+Fig. 3. (continued).
+J. Xian et al.                                                                                                                                                                                                                                     
+Journal of Aϱective Disorders 365 (2024) 614–627 
+621 
+
+===
+PAGE 9:
+(A) social anxiety symptoms
+(B) depression symptoms
+Fig. 4. SUCRA plots of social anxiety symptoms (A), depression symptoms (B) and functioning (C).
+J. Xian et al.                                                                                                                                                                                                                                     
+Journal of Aϱective Disorders 365 (2024) 614–627 
+622 
+
+===
+PAGE 10:
+with SAD than the waitlist group. The probability and SUCRA values 
+showed that G-CBT had the biggest area under the curve (SUCRA: 89.6 
+%).
+4. Discussion
+To our knowledge, this is the first network meta-analysis that in­
+cludes randomized controlled trials on several different psychological 
+treatments for children and adolescents with SAD. Our results suggest 
+that internet-delivered CBT is the optimal type of psychological inter­
+vention for reducing social anxiety and depression symptoms of children 
+and adolescents with SAD. Group CBT has a greater impact on enhancing 
+the functioning in these individuals than other psychological 
+interventions.
+Our results revealed that compared with the waitlist group, internet- 
+delivered CBT, group CBT, and individual CBT significantly reduced 
+social anxiety symptoms. Similar to the results of previous studies (Ingul 
+et al., 2014; Nordh et al., 2021; Olivares et al., 2014), multiple forms of 
+CBT which consist common therapeutic components (social skill 
+training, exposure, and cognitive restructuring) have positive thera­
+peutic effects on SAD among youth. Most of the participants in the 
+current relevant studies were over seven years old, which shows that 
+CBT can have positive intervention effects on SAD at childhood and 
+adolescence. Due to the prevalence of SAD increases from childhood to 
+adolescence (Halldorsson and Creswell, 2017; Spence and Rapee, 2016), 
+our results may imply that future studies could consider to conduct CBT 
+in youth as early as childhood (ages 7+). Moreover, compared with 
+other psychological interventions, internet-delivered CBT may be the 
+optimal type of psychotherapy for SAD in children and adolescents. 
+First, in terms of treatment content, internet-delivered CBT emphasize 
+reversing the specific cognition and behaviour that persist and develop 
+social anxiety which is based on the model of Clark and Wells (1995). 
+Social anxiety is driven by overly negative beliefs about social in­
+teractions that are maintained by self-focus, dysfunctional safety be­
+haviours, and negative self-image (Leigh and Clark, 2018; Spence et al., 
+2017). Therefore, the treatment emphasises specific processes of atten­
+tion training, video feedback, and behavioural experiment. These factors 
+may contribute to the significant therapeutic effects of internet- 
+delivered CBT. Second, in terms of treatment participants, lower likeli­
+hood of seeking traditional delivered treatment for youth than adults 
+(Radez et al., 2021). Given the high level of digital engagement in daily 
+lives for children (Hollis et al., 2020) and the core symptoms of SAD, 
+internet-delivered intervention may be more appealing to them (Leigh 
+and Clark, 2018; Leigh et al., 2023; Olfson et al., 2000). Third, in terms 
+of treatment form, internet-delivered CBT has unique advantages in 
+terms of low cost of treatment, no need for long-distance care, and no 
+restrictions on the location of the treatment. Moreover, CBT is fit for 
+internet delivery because it is highly structured and usually consists of 
+clear therapy components (Ollendick et al., 2018). Therefore, internet- 
+delivered CBT may be the optional form of psychological intervention 
+among children and adolescents with SAD. In addition, our network 
+meta-analysis results showed that internet-delivered parent-child 
+interaction therapy and cognitive bias modification of interpretation 
+have relatively poor treatment effects on social anxiety symptoms in 
+children compared to other psychological interventions. First, only one 
+study each using internet-delivered parent-child interaction therapy and 
+cognitive bias modification of interpretation among the studies included 
+in this analysis. Second, the internet-delivered parent-child interaction 
+therapy intervention was the only study that targeted children 3–8 years 
+old with SAD; given the limited cognition of the young children, the 
+intervention was not directed at the children themselves, but in the 
+parent and child interaction, with a therapist using a webcam to instruct 
+parents how to help their children gradually cope with the different 
+levels of exposure (Comer et al., 2021). These factors may lead to 
+treatment effects that are not entirely obvious in our network meta- 
+analysis results. Cognitive bias modification of interpretation is 
+another computer-based treatment. Considering the children's motiva­
+tion to participate, the researchers adapted the experimental procedure 
+and intensity for adults; however, it does not seem to have a good effect 
+on SAD in children (Orchard et al., 2017).
+(C) functioning
+Fig. 4. (continued).
+J. Xian et al.                                                                                                                                                                                                                                     
+Journal of Aϱective Disorders 365 (2024) 614–627 
+623 
+
+===
+PAGE 11:
+Table 2 
+The league table of the effect of psychotherapy on social anxiety symptoms.
+Int-CBT
+G-CBT
+I-CBT
+G-BT
+I + G-BT
+ABMT
+PBO
+PDT
+NT
+Int-PCIT
+CBM-I
+WL
+Int-CBT
+2.15 
+(−20.72,25.01)
+2.60 
+(−25.46,30.65)
+3.19 
+(−37.35,43.74)
+7.42 
+(−27.87,42.70)
+8.25 
+(−28.32,44.81)
+8.40 
+(−16.43,33.23)
+8.56 
+(−34.17,51.30)
+9.57 
+(−28.70,47.84)
+21.92 
+(−23.36,67.21)
+26.64 
+(−18.30,71.59)
+24.96 
+(3.93,46.00)
+−2.15 
+(−25.01,20.72)
+G-CBT
+0.45 
+(−19.80,20.70)
+1.05 
+(−33.92,36.01)
+5.27 
+(−25.18,35.72)
+6.10 
+(−25.86,38.06)
+6.25 
+(−11.11,23.62)
+6.41 
+(−32.03,44.86)
+7.42 
+(−23.27,38.11)
+19.78 
+(−21.82,61.37)
+24.50 
+(−16.73,65.72)
+22.82 
+(11.77,33.86)
+−2.60 
+(−30.65,25.46)
+−0.45 
+(−20.70,19.80)
+I-CBT
+0.59 
+(−39.02,40.21)
+4.82 
+(−29.39,39.03)
+5.65 
+(−29.40,40.70)
+5.80 
+(−16.65,28.26)
+5.96 
+(−31.80,43.73)
+6.97 
+(−29.79,43.73)
+19.33 
+(−25.55,64.20)
+24.05 
+(−20.49,68.58)
+22.36 
+(2.22,42.51)
+−3.19 
+(−43.74,37.35)
+−1.05 
+(−36.01,33.92)
+−0.59 
+(−40.21,39.02)
+G-BT
+4.22 
+(−41.26,49.71)
+5.05 
+(−41.87,51.97)
+5.21 
+(−33.32,43.73)
+5.37 
+(−45.69,56.43)
+6.38 
+(−40.15,52.90)
+18.73 
+(−34.47,71.93)
+23.45 
+(−29.46,76.37)
+21.77 
+(−13.19,56.73)
+−7.42 
+(−42.70,27.87)
+−5.27 
+(−35.72,25.18)
+−4.82 
+(−39.03,29.39)
+−4.22 
+(−49.71,41.26)
+I + G-BT
+0.83 
+(−39.36,41.02)
+0.99 
+(−28.79,30.76)
+1.15 
+(−46.20,48.49)
+2.15 
+(−41.07,45.38)
+14.51 
+(−35.45,64.46)
+19.23 
+(−30.42,68.88)
+17.55 
+(−12.25,47.35)
+−8.25 
+(−44.81,28.32)
+−6.10 
+(−38.06,25.86)
+−5.65 
+(−40.70,29.40)
+−5.05 
+(−51.97,41.87)
+−0.83 
+(−41.02,39.36)
+ABMT
+0.16 
+(−27.15,27.47)
+0.32 
+(−48.24,48.87)
+1.32 
+(−42.94,45.59)
+13.68 
+(−37.96,65.31)
+18.40 
+(−32.94,69.74)
+16.72 
+(−15.88,49.31)
+−8.40 
+(−33.23,16.43)
+−6.25 
+(−23.62,11.11)
+−5.80 
+(−28.26,16.65)
+−5.21 
+(−43.73,33.32)
+−0.99 
+(−30.76,28.79)
+−0.16 
+(−27.47,27.15)
+PBO
+0.16 
+(−40.31,40.64)
+1.17 
+(−34.08,36.41)
+13.52 
+(−30.66,57.70)
+18.24 
+(−25.59,62.07)
+16.56 
+(−2.00,35.13)
+−8.56 
+(−51.30,34.17)
+−6.41 
+(−44.86,32.03)
+−5.96 
+(−43.73,31.80)
+−5.37 
+(−56.43,45.69)
+−1.15 
+(−48.49,46.20)
+−0.32 
+(−48.87,48.24)
+−0.16 
+(−40.64,40.31)
+PDT
+1.01 
+(−48.18,50.20)
+13.36 
+(−41.61,68.33)
+18.08 
+(−36.61,72.77)
+16.40 
+(−21.19,54.00)
+−9.57 
+(−47.84,28.70)
+−7.42 
+(−38.11,23.27)
+−6.97 
+(−43.73,29.79)
+−6.38 
+(−52.90,40.15)
+−2.15 
+(−45.38,41.07)
+−1.32 
+(−45.59,42.94)
+−1.17 
+(−36.41,34.08)
+−1.01 
+(−50.20,48.18)
+NT
+12.36 
+(−39.33,64.04)
+17.08 
+(−34.31,68.47)
+15.39 
+(−17.22,48.00)
+−21.92 
+(−67.21,23.36)
+−19.78 
+(−61.37,21.82)
+−19.33 
+(−64.20,25.55)
+−18.73 
+(−71.93,34.47)
+−14.51 
+(−64.46,35.45)
+−13.68 
+(−65.31,37.96)
+−13.52 
+(−57.70,30.66)
+−13.36 
+(−68.33,41.61)
+−12.36 
+(−64.04,39.33)
+Int-PCIT
+4.72 
+(−51.72,61.17)
+3.04 
+(−37.07,43.14)
+−26.64 
+(−71.59,18.30)
+−24.50 
+(−65.72,16.73)
+−24.05 
+(−68.58,20.49)
+−23.45 
+(−76.37,29.46)
+−19.23 
+(−68.88,30.42)
+−18.40 
+(−69.74,32.94)
+−18.24 
+(−62.07,25.59)
+−18.08 
+(−72.77,36.61)
+−17.08 
+(−68.47,34.31)
+−4.72 
+(−61.17,51.72)
+CBM-I
+−1.68 
+(−41.40,38.04)
+¡24.96 
+(¡46.00,-3.93)
+¡22.82 
+(¡33.86,-11.77)
+¡22.36 
+(¡42.51,-2.22)
+−21.77 
+(−56.73,13.19)
+−17.55 
+(−47.35,12.25)
+−16.72 
+(−49.31,15.88)
+−16.56 
+(−35.13,2.00)
+−16.40 
+(−54.00,21.19)
+−15.39 
+(−48.00,17.22)
+−3.04 
+(−43.14,37.07)
+1.68 
+(−38.04,41.40)
+WL
+Note. ABMT: attention bias modification treatment, CBM–I: cognitive bias modification of interpretation, G-BT: group behavioural therapy, G-CBT: group cognitive behavioural therapy, I + G-BT: individual and group 
+behavioural therapy, I-CBT: individual cognitive behavioural therapy, Int-CBT: internet-delivered cognitive behavioural therapy, Int-PCIT: internet-delivered Parent-Child Interaction Therapy, NT: no treatment, PBO: 
+psychological placebo, PDT: psychodynamic therapy, WL: waitlist.
+J. Xian et al.                                                                                                                                                                                                                                     
+Journal of Aϱective Disorders 365 (2024) 614–627 
+624 
+
+===
+PAGE 12:
+Our findings reveal that internet-delivered CBT could also reduce 
+depression symptoms in children and adolescents who suffer from SAD 
+than the waitlist group, that is similar with previous study (Leigh and 
+Clark, 2023). This may be because depression involves maladaptive 
+cognitive processes similar to those in social anxiety, such as irrational 
+perceptions of reality, excessive self-focus, safety behaviours, and 
+avoidance behaviours (Rapee and Spence, 2004). Social anxiety and 
+depression in adolescents may have a synergistic effect (Hayward et al., 
+2000), and thus the treatment of SAD may have generalized effects, with 
+a similar reduction in depression (¨Ost et al., 2015). Our network meta- 
+analysis results seem to suggest this as well, with internet-delivered 
+CBT significantly decreasing social anxiety and comorbid depression 
+symptoms in children and adolescents. Further studies are required on 
+the topic.
+Our results suggest that group CBT significantly improved func­
+tioning in children and adolescents who suffer from SAD compared with 
+the waitlist group. According to one review, children with SAD may 
+benefit from face-to-face form of cognitive therapies, which can provide 
+more opportunities for important exposure experiences like practising 
+social skills and receiving immediate feedback on social performance in 
+the group (Barkowski et al., 2016). However, due to the small sample 
+sizes, further confirmation is required.
+Our study has some limitations. Heterogeneity in the original 
+research was inevitable (e.g., proportions of studies by gender and re­
+gion, different cultures and ethnic minorities). Moreover, our study 
+showed limited statistical power for direct head-to-head comparisons 
+due to the small sample size for some nodes. Further studies are needed 
+to confirm our hypotheses.
+5. Conclusions
+This study performed a network meta-analysis to compare and rank 
+different types of psychotherapies for social anxiety disorder among 
+children and adolescents. Our study indicates that internet-delivered 
+cognitive behavioural therapy is the optimal type of psychotherapy for 
+reducing social anxiety and depression symptoms in children and ado­
+lescents with social anxiety disorder. In addition, internet-delivered 
+parent-child interaction therapy and cognitive bias modification of 
+interpretation have relatively poor treatment effects on social anxiety 
+symptoms in children than other psychological interventions. Group 
+cognitive behavioural therapy has better benefits in enhancing the 
+functioning among children and adolescents with social anxiety 
+disorder.
+Funding
+This work was supported by the Project of Philosophy and Social 
+Science Research in Colleges and Universities of Jiangsu Province [grant 
+number: 2019SJA0591].
+CRediT authorship contribution statement
+Jinhua Xian: Writing – original draft, Formal analysis, Data cura­
+tion, Conceptualization. Yan Zhang: Writing – review & editing, Formal 
+analysis, Data curation, Conceptualization. Bo Jiang: Writing – review 
+& editing, Data curation, Conceptualization.
+Declaration of competing interest
+The authors declare that they have no known competing financial 
+interests or personal relationships that could have appeared to influence 
+the work reported in this paper.
+Acknowledgements
+None.
+Appendix A. Supplementary data
+Supplementary data to this article can be found online at https://doi. 
+org/10.1016/j.jad.2024.08.097.
+References
+Albano, A.M., Marten, P.A., Holt, C.S., Heimberg, R.G., Barlow, D.H., 1995. Cognitive- 
+behavioral group treatment for social phobia in adolescents: a preliminary study. 
+J. Nerv. Ment. Dis. 183, 649–656.
+Asbrand, J., Heinrichs, N., Schmidtendorf, S., Nitschke, K., Tuschen-Caffier, B., 2020. 
+Experience versus report: where are changes seen after exposure-based cognitive- 
+behavioral therapy? a randomized controlled group treatment of childhood social 
+anxiety disorder. Child Psychiatry Hum. Dev. 51, 427–441.
+Baer, S., Garland, E.J., 2005. Pilot study of community-based cognitive behavioral group 
+therapy for adolescents with social phobia. J. Am. Acad. Child Adolesc. Psychiatry 
+44, 258–264.
+Table 3 
+The league table of the effect of psychotherapy on depression symptoms.
+Int-CBT
+I + G-BT
+I-CBT
+G-CBT
+WL
+PBO
+Int-CBT
+4.28 (−7.25,15.80)
+8.52 (−2.71,19.76)
+9.17 (−0.70,19.03)
+9.63 (1.79,17.47)
+9.85 (−1.14,20.83)
+−4.28 (−15.80,7.25)
+I + G-BT
+4.25 (−6.28,14.77)
+4.89 (−4.15,13.93)
+5.35 (−3.10,13.81)
+5.57 (−2.83,13.97)
+−8.52 (−19.76,2.71)
+−4.25 (−14.77,6.28)
+I-CBT
+0.64 (−7.62,8.90)
+1.10 (−6.95,9.16)
+1.32 (−7.28,9.92)
+−9.17 (−19.03,0.70)
+−4.89 (−13.93,4.15)
+−0.64 (−8.90,7.62)
+G-CBT
+0.46 (−5.52,6.45)
+0.68 (−6.03,7.39)
+¡9.63 (¡17.47,-1.79)
+−5.35 (−13.81,3.10)
+−1.10 (−9.16,6.95)
+−0.46 (−6.45,5.52)
+WL
+0.22 (−7.49,7.93)
+−9.85 (−20.83,1.14)
+−5.57 (−13.97,2.83)
+−1.32 (−9.92,7.28)
+−0.68 (−7.39,6.03)
+−0.22 (−7.93,7.49)
+PBO
+Note. G-CBT: group cognitive behavioural therapy, I + G-BT: individual and group behavioural therapy, I-CBT: individual cognitive behavioural therapy, Int-CBT: 
+internet-delivered cognitive behavioural therapy, PBO: psychological placebo, WL: waitlist.
+Table 4 
+The league table of the effect of psychotherapy on functioning.
+G-CBT
+I + G-BT
+PBO
+Int-CBT
+I-CBT
+WL
+G-CBT
+−5.28 (−21.18,10.62)
+−6.88 (−15.67,1.90)
+−9.63 (−22.68,3.42)
+−11.61 (−31.08,7.87)
+−17.37 (−30.07,-4.67)
+5.28 (−10.62,21.18)
+I + G-BT
+−1.60 (−14.86,11.65)
+−4.35 (−22.11,13.42)
+−6.32 (−30.23,17.58)
+−12.09 (−30.89,6.71)
+6.88 (−1.90,15.67)
+1.60 (−11.65,14.86)
+PBO
+−2.75 (−14.58,9.08)
+−4.72 (−24.61,15.17)
+−10.49 (−23.82,2.85)
+9.63 (−3.42,22.68)
+4.35 (−13.42,22.11)
+2.75 (−9.08,14.58)
+Int-CBT
+−1.97 (−20.89,16.94)
+−7.74 (−19.56,4.09)
+11.61 (−7.87,31.08)
+6.32 (−17.58,30.23)
+4.72 (−15.17,24.61)
+1.97 (−16.94,20.89)
+I-CBT
+−5.76 (−20.53,9.00)
+17.37 (4.67,30.07)
+12.09 (−6.71,30.89)
+10.49 (−2.85,23.82)
+7.74 (−4.09,19.56)
+5.76 (−9.00,20.53)
+WL
+Note. G-CBT: group cognitive behavioural therapy, I + G-BT: individual and group behavioural therapy, I-CBT: individual cognitive behavioural therapy, Int-CBT: 
+internet-delivered cognitive behavioural therapy, PBO: psychological placebo, WL: waitlist.
+J. Xian et al.                                                                                                                                                                                                                                     
+Journal of Aϱective Disorders 365 (2024) 614–627 
+625 
+
+===
+PAGE 13:
+Barkowski, S., Schwartze, D., Strauss, B., Burlingame, G.M., Barth, J., Rosendahl, J., 
+2016. Efficacy of group psychotherapy for social anxiety disorder: a meta-analysis of 
+randomized-controlled trials. J. Anxiety Disord. 39, 44–64.
+Beidel, D.C., Fink, C.M., Turner, S.M., 1996. Stability of anxious symptomatology in 
+children. J. Abnorm. Child Psychol. 24, 257–269.
+Beidel, D.C., Turner, S.M., Morris, T.L., 2000. Behavioral treatment of childhood social 
+phobia. J. Consult. Clin. Psychol. 68, 1072–1080.
+Beidel, D.C., Turner, S.M., Young, B.J., Ammerman, R.T., Sallee, F.R., Crosby, L., 2007. 
+Psychopathology of adolescent social phobia. J. Psychopathol. Behav. Assess. 29, 
+47–54.
+Bruce, S.E., Yonkers, K.A., Otto, M.W., Eisen, J.L., Weisberg, R.B., Pagano, M., Shea, M. 
+T., Keller, M.B., 2005. Influence of psychiatric comorbidity on recovery and 
+recurrence in generalized anxiety disorder, social phobia, and panic disorder: a 12- 
+year prospective study. Am. J. Psychiatry 162, 1179–1187.
+Burstein, M., He, J.P., Kattan, G., Albano, A.M., Avenevoli, S., Merikangas, K.R., 2011. 
+Social phobia and subtypes in the national comorbidity survey-adolescent 
+supplement: prevalence, correlates, and comorbidity. J. Am. Acad. Child Adolesc. 
+Psychiatry 50, 870–880.
+Chaimani, A., Higgins, J.P.T., Mavridis, D., Spyridonos, P., Salanti, G., 2013. Graphical 
+tools for network meta-analysis in STATA. PLoS One 8, e76654.
+Clark, D.M., Wells, A., 1995. A cognitive model of social phobia. In: Heimberg, R.G., 
+Liebowitz, M.R., Hope, D.A., Schneier, F.R. (Eds.), Social Phobia. Diagnosis, 
+Assessment and Treatment. Guilford Press, New York, NY. 
+Comer, J.S., Furr, J.M., Del Busto, C., Silva, K., Hong, N., Poznanski, B., Sanchez, A., 
+Cornacchio, D., Herrera, A., Coxe, S., Miguel, E., Georgiadis, C., Conroy, K., 
+Puliafico, A., 2021. Therapist-led, internet-delivered treatment for early child social 
+anxiety: a waitlist-controlled evaluation of the iCALM telehealth program. Behav. 
+Therapy 52, 1171–1187.
+Dalrymple, K.L., Zimmerman, M., 2011. Treatment-seeking for social anxiety disorder in 
+a general outpatient psychiatry setting. Psychiatry Res. 187, 375–381.
+Davidson, J.R.T., Hughes, D.C., George, L.K., Blazer, D.G., 1994. Boundary of social 
+phobia-exploring the threshold. Arch. Gen. Psychiatry 51, 975–983.
+Ebrahiminejad, S., Poursharifi, H., Bakhshiour Roodsari, A., Zeinodini, Z., 
+Noorbakhsh, S., 2016. The effectiveness of mindfulness-based cognitive therapy on 
+Iranian female adolescents suffering from social anxiety. Iran Red Crescent Med J 18, 
+e25116.
+Erwin, B.A., Turk, C.L., Heimberg, R.G., Fresco, D.M., Hantula, D.A., 2004. The Internet: 
+home to a severe population of individuals with social anxiety disorder? J. Anxiety 
+Disord. 18, 629–646.
+Gallagher, H.M., Rabian, B.A., McCloskey, M.S., 2004. A brief group cognitive- 
+behavioral intervention for social phobia in childhood. J. Anxiety Disord. 18, 
+459–479.
+Gil-Bernal, F., Hernandez-Guzman, L., 2009. Cognitive-behavioural treatment in 
+Mexican children with social phobia. Anu. Psicol. 40, 89–104.
+Halldorsson, B., Creswell, C., 2017. Social anxiety in pre-adolescent children: what do we 
+know about maintenance? Behav. Res. Ther. 99, 19–36.
+Hayward, C., Varady, S., Albano, A.M., Thienemann, M., Henderson, L., Schatzberg, A.F., 
+2000. Cognitive-behavioral group therapy for social phobia in female adolescents: 
+results of a pilot study. J. Am. Acad. Child Adolesc. Psychiatry 39, 721–726.
+Herbert, J.D., Gaudiano, B.A., Rheingold, A.A., Moitra, E., Myers, V.H., Dalrymple, K.L., 
+Brandsma, L.L., 2009. Cognitive behavior therapy for generalized social anxiety 
+disorder in adolescents: a randomized controlled trial. J. Anxiety Disord. 23, 
+167–177.
+Higgins, J.P.T., Altman, D.G., Gotzsche, P.C., Jüni, P., Moher, D., Oxman, A.D., 
+Savovic, J., Schulz, K.F., Weeks, L., Sterne, J.A.C., Cochrane Bias Methods, G., 
+Cochrane Stat Methods, G, 2011. The Cochrane Collaboration's tool for assessing risk 
+of bias in randomised trials. BMJ-Brit. Med. J. 343, d5928.
+Hollis, C., Livingstone, S., Sonuga-Barke, E., 2020. Editorial: the role of digital 
+technology in children and young people’s mental health - a triple-edged sword? 
+J. Child Psychol. Psychiatry 61, 837–841.
+Hutton, B., Salanti, G., Caldwell, D.M., Chaimani, A., Schmid, C.H., Cameron, C., 
+Ioannidis, J.P.A., Straus, S., Thorlund, K., Jansen, J.P., Mulrow, C., Catal´a-L´opez, F., 
+Gotzsche, P.C., Dickersin, K., Boutron, I., Altman, D.G., Moher, D., 2015. The 
+PRISMA extension statement for reporting of systematic reviews incorporating 
+network meta-analyses of health care interventions: checklist and explanations. Ann. 
+Intern. Med. 162, 777–784.
+Ingul, J.M., Aune, T., Nordahl, H.M., 2014. A randomized controlled trial of individual 
+cognitive therapy, group cognitive behaviour therapy and attentional placebo for 
+adolescent social phobia. Psychother. Psychosom. 83, 54–61.
+Iverach, L., Rapee, R.M., 2014. Social anxiety disorder and stuttering: current status and 
+future directions. J. Fluen. Disord. 40, 69–82.
+Jackson, D., Riley, R., White, I.R., 2011. Multivariate meta-analysis: potential and 
+promise. Stat. Med. 30, 2481–2498.
+Leichsenring, F., Leweke, F., Klein, S., Steinert, C., 2015. The empirical status of 
+psychodynamic psychotherapy-an update: Bambi's alive and kicking. Psychother. 
+Psychosom. 84, 129–148.
+Leigh, E., Clark, D.M., 2018. Understanding social anxiety disorder in adolescents and 
+improving treatment outcomes: applying the cognitive model of Clark and Wells 
+(1995). Clin. Child. Fam. Psychol. Rev. 21, 388–414.
+Leigh, E., Clark, D.M., 2023. Internet-delivered therapist-assisted cognitive therapy for 
+adolescent social anxiety disorder (OSCA): a randomised controlled trial addressing 
+preliminary efficacy and mechanisms of action. J. Child Psychol. Psychiatry 64, 
+145–155.
+Leigh, E., Nicol-Harper, R., Travlou, M., Clark, D.M., 2023. Adolescents' experience of 
+receiving internet-delivered cognitive therapy for social anxiety disorder. Internet 
+Interv. 34, 100664.
+Mancini, C., Van Ameringen, M., Bennett, M., Patterson, B., Watson, C., 2005. Emerging 
+treatments for child and adolescent social phobia: a review. J. Child Adolesc. 
+Psychopharmacol. 15, 589–607.
+Masia Warner, C., Fisher, P.H., Shrout, P.E., Rathor, S., Klein, R.G., 2007. Treating 
+adolescents with social anxiety disorder in school: an attention control trial. J. Child 
+Psychol. Psychiatry 48, 676–686.
+Masia Warner, C., Colognori, D., Brice, C., Herzig, K., Mufson, L., Lynch, C., Reiss, P.T., 
+Petkova, E., Fox, J., Moceri, D.C., Ryan, J., Klein, R.G., 2016. Can school counselors 
+deliver cognitive-behavioral treatment for social anxiety effectively? a randomized 
+controlled trial. J. Child Psychol. Psychiatry 57, 1229–1238.
+Masia, C.L., Klein, R.G., Storch, E.A., Corda, B., 2001. School-based behavioral treatment 
+for social anxiety disorder in adolescents: results of a pilot study. J. Am. Acad. Child 
+Adolesc. Psychiatry 40, 780–786.
+Masia-Warner, C., Klein, R.G., Dent, H.C., Fisher, P.H., Alvir, J., Albano, A.M., 
+Guardino, M., 2005. School-based intervention for adolescents with social anxiety 
+disorder: results of a controlled study. J. Abnorm. Child Psychol. 33, 707–722.
+Melfsen, S., Kühnemund, M., Schwieger, J., Warnke, A., Stadler, C., Poustka, F., 
+Stangier, U., 2011. Cognitive behavioral therapy of socially phobic children focusing 
+on cognition: a randomised wait-list control study. Child Adolesc. Psychiatry Ment. 
+Health 5, 1–12.
+Merikangas, K.R., He, J.P., Burstein, M., Swendsen, J., Avenevoli, S., Case, B., 
+Georgiades, K., Heaton, L., Swanson, S., Olfson, M., 2011. Service utilization for 
+lifetime mental disorders in U.S. adolescents: results of the National Comorbidity 
+Survey-Adolescent Supplement (NCS-A). J. Am. Acad. Child Adolesc. Psychiatry 50, 
+32–45.
+Nordh, M., Wahlund, T., Jolstedt, M., Sahlin, H., Bjureberg, J., Ahlen, J., Lalouni, M., 
+Salomonsson, S., Vigerland, S., Lavner, M., ¨Ost, L., Lenhard, F., Hesser, H., Mataix- 
+Cols, D., H¨ogstr¨om, J., Serlachius, E., 2021. Therapist-guided internet-delivered 
+cognitive behavioral therapy vs internet-delivered supportive therapy for children 
+and adolescents with social anxiety disorder: a randomized clinical trial. JAMA 
+Psychiatr. 78, 705–713.
+Olfson, M., Guardino, M., Struening, E., Schneier, F.R., Hellman, F., Klein, D.F., 2000. 
+Barriers to the treatment of social anxiety. Am. J. Psychiatry 157, 521–527.
+Olivares, J., Garcia-Lopez, L.J., Beidel, D.C., Turner, S.M., Albano, A.M., Hidalgo, M.D., 
+2002. Results at long-term among three psychological treatments for adolescents 
+with generalized social phobia (I): statistical significance. Psicol. Conduct. 10, 
+147–164.
+Olivares, J., Rosa, A.I., Piqueras, J.A., 2005. Early detection and treatment of adolescents 
+with generalized social phobia. Psicothema 17, 1–8.
+Olivares, J., Rosa-Alcazar, A.I., Olivares-Olivares, P.J., 2009. Qualified information 
+transmission against structured psychological treatment of adolescents with 
+generalized social phobia. Int. J. Clin. Health Psychol. 9, 241–258.
+Olivares, J., Olivares-Olivares, P.J., Rosa-Alc´azar, A.I., Montesinos, L., Maci`a, D., 2014. 
+The contribution of the therapist's competence in the treatment of adolescents with 
+generalized social phobia. Psicothema 26, 483–489.
+Olivares-Olivares, P.J., Ortiz-Gonz´alez, P.F., Olivares, J., 2019. Role of social skills 
+training in adolescents with social anxiety disorder. Int. J. Clin. Health Psychol. 19, 
+41–48.
+Ollendick, T.H., Hirshfeld-Becker, D.R., 2002. The developmental psychopathology of 
+social anxiety disorder. Biol. Psychiatry 51, 44–58.
+Ollendick, T.H., Ost, L.-G., Farrell, L.J., 2018. Innovations in the psychosocial treatment 
+of youth with anxiety disorders: implications for a stepped care approach. Evid.- 
+based Ment. Health 21, 112–115.
+Ollendick, T.H., White, S.W., Richey, J., Kim-Spoon, J., Ryan, S.M., Wieckowski, A.T., 
+Coffman, M.C., Elias, R., Strege, M.V., Capriola-Hall, N., Smith, M., 2019. Attention 
+bias modification treatment for adolescents with social anxiety disorder. Behav. 
+Therapy 50, 126–139.
+Orchard, F., Apetroaia, A., Clarke, K., Creswell, C., 2017. Cognitive bias modification of 
+interpretation in children with social anxiety disorder. J. Anxiety Disord. 45, 1–8.
+¨Ost, L.G., Cederlund, R., Reuterski¨old, L., 2015. Behavioral treatment of social phobia in 
+youth: does parent education training improve the outcome? Behav. Res. Ther. 67, 
+19–29.
+O'Toole, M.S., Mennin, D.S., Hougaard, E., Zachariae, R., Rosenberg, N.K., 2015. 
+Cognitive and emotion regulation change processes in cognitive behavioural therapy 
+for social anxiety disorder. Clin. Psychol. Psychother. 22, 667–676.
+Pergamin-Hight, L., Pine, D.S., Fox, N.A., Bar-Haim, Y., 2016. Attention bias 
+modification for youth with social anxiety disorder. J. Child Psychol. Psychiatry 57, 
+1317–1325.
+Pilling, S., Mayo-Wilson, E., Mavranezouli, I., Kew, K., Taylor, C., Clark, D.M., Guideline 
+Dev, G., 2013. Recognition, assessment and treatment of social anxiety disorder: 
+summary of NICE guidance. BMJ-Brit. Med. J. 346, f2541.
+Radez, J., Reardon, T., Creswell, C., Lawrence, P.J., Evdoka-Burton, G., Waite, P., 2021. 
+Why do children and adolescents (not) seek and access professional help for their 
+mental health problems? a systematic review of quantitative and qualitative studies. 
+Eur. Child Adolesc. Psychiatry 30, 183–211.
+Rapee, R.M., 1998. Overcoming Shyness and Social Phobia: A Step-by-step Guide. Book- 
+mart Press, North Bergen, NJ. 
+Rapee, R.M., Heimberg, R.G., 1997. A cognitive-behavioral model of anxiety in social 
+phobia. Behav. Res. Ther. 35, 741–756.
+Rapee, R.M., Spence, S.H., 2004. The etiology of social phobia: empirical evidence and 
+an initial model. Clin. Psychol. Rev. 24, 737–767.
+Rapee, R.M., Schniering, C.A., Hudson, J.L., 2009. Anxiety disorders during childhood 
+and adolescence: origins and treatment. Annu. Rev. Clin. Psychol. 5, 311–341.
+Rosa-Alcazar, A.I., Olivares-Olivares, P.J., Olivares, J., 2009. The role of non-specific 
+effects in the psychological treatment of adolescents with social phobia. Anu. Psicol. 
+40, 43–61.
+J. Xian et al.                                                                                                                                                                                                                                     
+Journal of Aϱective Disorders 365 (2024) 614–627 
+626 
+
+===
+PAGE 14:
+Rouse, B., Chaimani, A., Li, T.J., 2017. Network meta-analysis: an introduction for 
+clinicians. Intern. Emerg. Med. 12, 103–111.
+Salanti, G., Ades, A.E., Ioannidis, J.P.A., 2011. Graphical methods and numerical 
+summaries for presenting results from multiple-treatment meta-analysis: an 
+overview and tutorial. J. Clin. Epidemiol. 64, 163–171.
+Salzer, S., Stefini, A., Kronmüller, K.T., Leibing, E., Leichsenring, F., Henningsen, P., 
+Peseschkian, H., Reich, G., Rosner, R., Ruhl, U., Schopf, Y., Steinert, C., 
+Vonderlin, E., Steil, R., 2018. Cognitive-behavioral and psychodynamic therapy in 
+adolescents with social anxiety disorder: a multicenter randomized controlled trial. 
+Psychother. Psychosom. 87, 223–233.
+S´anchez-García, R., Olivares, J., 2009. Effectiveness of a program for early detection/ 
+intervention in children/adolescents with generalized social phobia. An. Psicol. 25, 
+241–249.
+Scaini, S., Belotti, R., Ogliari, A., Battaglia, M., 2016. A comprehensive meta-analysis of 
+cognitive-behavioral interventions for social anxiety disorder in children and 
+adolescents. J. Anxiety Disord. 42, 105–112.
+Spence, S.H., Rapee, R.M., 2016. The etiology of social anxiety disorder: an evidence- 
+based model. Behav. Res. Ther. 86, 50–67.
+Spence, S.H., Donovan, C., Brechman-Toussaint, M., 2000. The treatment of childhood 
+social phobia: the effectiveness of a social skills training-based, cognitive- 
+behavioural intervention, with and without parental involvement. J. Child Psychol. 
+Psychiatry 41, 713–726.
+Spence, S.H., Donovan, C.L., March, S., Kenardy, J.A., Hearn, C.S., 2017. Generic versus 
+disorder specific cognitive behavior therapy for social anxiety disorder in youth: a 
+randomized controlled trial using internet delivery. Behav. Res. Ther. 90, 41–57.
+Stein, M.B., Fuetsch, M., Müller, N., H¨ofler, M., Lieb, R., Wittchen, H.U., 2001. Social 
+anxiety disorder and the risk of depression: a prospective community study of 
+adolescents and young adults. Arch. Gen. Psychiatry 58, 251–256.
+Tillfors, M., Andersson, G., Ekselius, L., Furmark, T., Lewenhaupt, S., Karlsson, A., 
+Carlbring, P., 2011. A randomized trial of internet-delivered treatment for social 
+anxiety disorder in high school students. Cogn. Behav. Ther. 40, 147–157.
+Vats, D., Flegal, J.M., Jones, G.L., 2019. Multivariate output analysis for Markov chain 
+Monte Carlo. Biometrika 106, 321–337.
+Wallace, B.C., Schmid, C.H., Lau, J., Trikalinos, T.A., 2009. Meta-analyst: software for 
+meta-analysis of binary, continuous and diagnostic data. BMC Med. Res. Methodol. 
+9, 80.
+Wittchen, H.U., Fehm, L., 2003. Epidemiology and natural course of social fears and 
+social phobia. Acta Psychiatr. Scand. 108, 4–18.
+Wong, Q.J.J., Rapee, R.M., 2016. The aetiology and maintenance of social anxiety 
+disorder: a synthesis of complimentary theoretical models and formulation of a new 
+integrated model. J. Affect. Disord. 203, 84–100.
+Yang, L.N., Zhou, X.Y., Pu, J.C., Liu, L.X., Cuijpers, P., Zhang, Y.Q., Zhang, H.P., Yuan, S., 
+Teng, T., Tian, L., Xie, P., 2019. Efficacy and acceptability of psychological 
+interventions for social anxiety disorder in children and adolescents: a meta-analysis 
+of randomized controlled trials. Eur. Child Adolesc. Psychiatry 28, 79–89.
+Zhou, X.Y., Zhang, Y.Q., Furukawa, T.A., Cuijpers, P., Pu, J.C., Weisz, J.R., Yang, L.N., 
+Hetrick, S.E., Del Giovane, C., Cohen, D., James, A.C., Yuan, S., Whittington, C., 
+Jiang, X.F., Teng, T., Cipriani, A., Xie, P., 2019. Different types and acceptability of 
+psychotherapies for acute anxiety disorders in children and adolescents: a network 
+meta-analysis. JAMA Psychiatr. 76, 41–50.
+J. Xian et al.                                                                                                                                                                                                                                     
+Journal of Aϱective Disorders 365 (2024) 614–627 
+627 
+
+===

@@ -1,0 +1,34 @@
+Image markers to insert into translation files after agents complete:
+
+01_Jenkins: after "Hình 1" and "Hình 2" mentions in Results
+  <!-- INSERT_IMAGE: Cropped_Figures/01_fig1_distributions.png | Hình 1: Phân bố điểm PHQ-9A và GAD-10 -->
+  <!-- INSERT_IMAGE: Cropped_Figures/01_fig2_boxplots.png | Hình 2: Khác biệt giới tính - Box plots PHQ-9A và GAD-10 -->
+
+02_Saikia: after each Table mention in Results
+  <!-- INSERT_IMAGE: Cropped_Figures/02_table1_depression.png | Bảng 1: Mối liên quan giữa các yếu tố nguy cơ với trầm cảm -->
+  <!-- INSERT_IMAGE: Cropped_Figures/02_table2_anxiety.png | Bảng 2: Mối liên quan giữa các yếu tố nguy cơ với lo âu -->
+  <!-- INSERT_IMAGE: Cropped_Figures/02_table3_stress.png | Bảng 3: Mối liên quan giữa các yếu tố nguy cơ với căng thẳng -->
+
+06_Nakie: after Results prevalence section
+  <!-- INSERT_IMAGE: Cropped_Figures/06_fig1_das_chart.png | Hình 1: Mức độ trầm cảm, lo âu và căng thẳng -->
+  <!-- INSERT_IMAGE: Cropped_Figures/06_table4_depression.png | Bảng 4: Phân tích hồi quy - yếu tố liên quan trầm cảm -->
+  <!-- INSERT_IMAGE: Cropped_Figures/06_table5_anxiety.png | Bảng 5: Phân tích hồi quy - yếu tố liên quan lo âu -->
+  <!-- INSERT_IMAGE: Cropped_Figures/06_table6_stress.png | Bảng 6: Phân tích hồi quy - yếu tố liên quan căng thẳng -->
+
+07_Chen: after Results
+  <!-- INSERT_IMAGE: Cropped_Figures/07_table1_characteristics.png | Bảng 1: Đặc điểm mẫu nghiên cứu -->
+  <!-- INSERT_IMAGE: Cropped_Figures/07_table2_factors_all.png | Bảng 2: Phân tích hồi quy - toàn bộ mẫu -->
+  <!-- INSERT_IMAGE: Cropped_Figures/07_table3_middle_school.png | Bảng 3: Phân tích hồi quy - THCS -->
+
+08_Wen: after Results
+  <!-- INSERT_IMAGE: Cropped_Figures/08_fig1_profile_plot.png | Hình 1: Biểu đồ hồ sơ tiềm ẩn 3 nhóm lo âu -->
+  <!-- INSERT_IMAGE: Cropped_Figures/08_table3_regression.png | Bảng 3: Hồi quy logistic đa biến -->
+
+09_Qiu: after Results
+  <!-- INSERT_IMAGE: Cropped_Figures/09_fig1_parenting.png | Hình 1: Ba nhóm phong cách nuôi dạy con -->
+  <!-- INSERT_IMAGE: Cropped_Figures/09_table3_associations.png | Bảng 3: Mối liên quan nuôi dạy-phục hồi với trầm cảm/lo âu -->
+
+10_Xu: after Results
+  <!-- INSERT_IMAGE: Cropped_Figures/10_fig1_location.png | Hình 1: Tỷ lệ lo âu theo vị trí cư trú -->
+  <!-- INSERT_IMAGE: Cropped_Figures/10_fig3_symptoms.png | Hình 3: Tỷ lệ các triệu chứng GAD ở thanh thiếu niên -->
+  <!-- INSERT_IMAGE: Cropped_Figures/10_table3_regression.png | Bảng 3: Hồi quy logistic đa biến -->

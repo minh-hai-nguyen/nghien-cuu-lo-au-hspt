@@ -1,0 +1,480 @@
+{
+  "meta": {
+    "name": "VJES Guidelines KG",
+    "version": "1.0",
+    "created": "2026-05-14 16:33",
+    "n_nodes": 41,
+    "n_edges": 41,
+    "node_types": [
+      "ArticleType",
+      "Channel",
+      "Journal",
+      "Organization",
+      "Person",
+      "Process",
+      "Rule",
+      "Section",
+      "Standard",
+      "Strategy",
+      "TLTK_Format"
+    ],
+    "edge_types": [
+      "ACCEPTS",
+      "CHARGES",
+      "DEFINES",
+      "EDITOR_IN_CHIEF",
+      "ENABLES_COMPLIANCE",
+      "ENFORCES",
+      "HEADS",
+      "OPTIONAL_SECTION",
+      "PUBLISHED_BY",
+      "RECEIVES_VIA",
+      "RECOMMENDS",
+      "REQUIRES",
+      "REQUIRES_SECTION",
+      "USES_PROCESS"
+    ]
+  },
+  "nodes": [
+    {
+      "id": "VJES",
+      "type": "Journal",
+      "label": "Tạp chí KHGD VN",
+      "description": "Vietnam Journal of Educational Sciences, cơ quan ngôn luận VNIES"
+    },
+    {
+      "id": "VNIES",
+      "type": "Organization",
+      "label": "Viện KHGD VN",
+      "description": "Vietnam National Institute of Educational Sciences"
+    },
+    {
+      "id": "LE_ANH_VINH",
+      "type": "Person",
+      "label": "Lê Anh Vinh",
+      "description": "Viện trưởng VNIES, tổng biên tập VJES"
+    },
+    {
+      "id": "ORIGINAL_RESEARCH",
+      "type": "ArticleType",
+      "label": "Nghiên cứu gốc"
+    },
+    {
+      "id": "REVIEW_PAPER",
+      "type": "ArticleType",
+      "label": "Tổng quan tài liệu"
+    },
+    {
+      "id": "EXPERIMENTAL",
+      "type": "ArticleType",
+      "label": "Bài báo thực nghiệm"
+    },
+    {
+      "id": "METHODOLOGY_PAPER",
+      "type": "ArticleType",
+      "label": "Bài báo phương pháp luận"
+    },
+    {
+      "id": "REVIEW_ARTICLE",
+      "type": "ArticleType",
+      "label": "Bài đánh giá"
+    },
+    {
+      "id": "CASE_STUDIES",
+      "type": "ArticleType",
+      "label": "Nghiên cứu trường hợp"
+    },
+    {
+      "id": "SECTION_1_INTRO",
+      "type": "Section",
+      "label": "1. Giới thiệu / Đặt vấn đề",
+      "description": "BẮT BUỘC; nêu câu hỏi NC, bối cảnh, ý nghĩa"
+    },
+    {
+      "id": "SECTION_2_METHOD",
+      "type": "Section",
+      "label": "2. Phương pháp nghiên cứu",
+      "description": "BẮT BUỘC; mô tả PP, công cụ, KHAI BÁO LLM nếu có"
+    },
+    {
+      "id": "SECTION_3_RESULT",
+      "type": "Section",
+      "label": "3. Kết quả",
+      "description": "BẮT BUỘC; trình bày kết quả NC"
+    },
+    {
+      "id": "SECTION_3_5_DISCUSSION",
+      "type": "Section",
+      "label": "Thảo luận",
+      "description": "KHÔNG BẮT BUỘC; diễn giải + so sánh"
+    },
+    {
+      "id": "SECTION_4_CONCLUSION",
+      "type": "Section",
+      "label": "4. Kết luận",
+      "description": "BẮT BUỘC; tóm tắt + đề xuất hướng tương lai"
+    },
+    {
+      "id": "WORD_LIMIT",
+      "type": "Rule",
+      "label": "5.000-7.000 từ",
+      "description": "8-12 trang A4"
+    },
+    {
+      "id": "TURNITIN_LIMIT",
+      "type": "Rule",
+      "label": "Turnitin ≤25%",
+      "description": "Không tính TLTK; tiêu chí sơ loại"
+    },
+    {
+      "id": "FONT_FORMAT",
+      "type": "Rule",
+      "label": "Times New Roman 12, line 1.1",
+      "description": "Spacing before/after 3pt"
+    },
+    {
+      "id": "HEADING_3_LEVELS",
+      "type": "Rule",
+      "label": "Heading ≤ 3 cấp",
+      "description": "Cấp 1 in đậm thường; cấp 2 nghiêng đậm; cấp 3 nghiêng thường"
+    },
+    {
+      "id": "ABSTRACT_LEN",
+      "type": "Rule",
+      "label": "Tóm tắt 150-250 từ",
+      "description": "VN + EN, trả lời 3 câu hỏi"
+    },
+    {
+      "id": "KEYWORDS_4_6",
+      "type": "Rule",
+      "label": "Từ khóa 4-6",
+      "description": "VN + EN"
+    },
+    {
+      "id": "TITLE_LEN",
+      "type": "Rule",
+      "label": "Tên bài <40 ký tự, ≤12 từ",
+      "description": "Không viết tắt, có 1-2 keyword chính"
+    },
+    {
+      "id": "LLM_DECLARATION",
+      "type": "Rule",
+      "label": "Khai báo LLM bắt buộc nếu sử dụng",
+      "description": "Trong mục PP NC; LLM không là đồng tác giả"
+    },
+    {
+      "id": "APA_7",
+      "type": "Standard",
+      "label": "APA 7th Edition",
+      "description": "Cho TLTK + trích dẫn"
+    },
+    {
+      "id": "ORCID",
+      "type": "Rule",
+      "label": "ORCID khuyến nghị",
+      "description": "https://orcid.org đăng ký miễn phí"
+    },
+    {
+      "id": "PUBLICATION_FEE",
+      "type": "Rule",
+      "label": "Phí 2.500.000 VNĐ",
+      "description": "Số tiếng Việt; tiếng Anh miễn phí"
+    },
+    {
+      "id": "DOUBLE_BLIND_PEER_REVIEW",
+      "type": "Process",
+      "label": "Phản biện kín 2 chiều",
+      "description": "Double-blind"
+    },
+    {
+      "id": "SUBMISSION_EMAIL",
+      "type": "Channel",
+      "label": "vjes@vnies.edu.vn",
+      "description": "Hệ thống online đang bảo trì"
+    },
+    {
+      "id": "TLTK_BAIBAO_VN",
+      "type": "TLTK_Format",
+      "label": "TLTK Bài báo VN",
+      "description": "Họ Tên đầy đủ. (năm). Tên bài. Tên tạp chí, Tập(Số), trang."
+    },
+    {
+      "id": "TLTK_BAIBAO_EN",
+      "type": "TLTK_Format",
+      "label": "TLTK Bài báo EN",
+      "description": "Họ, A. (năm). Title. Journal, Vol(Iss), pages. DOI"
+    },
+    {
+      "id": "TLTK_SACH",
+      "type": "TLTK_Format",
+      "label": "TLTK Sách"
+    },
+    {
+      "id": "TLTK_CHUONG_SACH",
+      "type": "TLTK_Format",
+      "label": "TLTK Chương sách"
+    },
+    {
+      "id": "TLTK_LUAN_AN",
+      "type": "TLTK_Format",
+      "label": "TLTK Luận án/luận văn"
+    },
+    {
+      "id": "TLTK_HOI_THAO",
+      "type": "TLTK_Format",
+      "label": "TLTK Bài hội thảo"
+    },
+    {
+      "id": "TLTK_WEB",
+      "type": "TLTK_Format",
+      "label": "TLTK Bài web"
+    },
+    {
+      "id": "TLTK_VAN_BAN_PHAP_LY",
+      "type": "TLTK_Format",
+      "label": "TLTK Văn bản pháp lý"
+    },
+    {
+      "id": "TLTK_BAO_CAO",
+      "type": "TLTK_Format",
+      "label": "TLTK Báo cáo"
+    },
+    {
+      "id": "PARAPHRASE_100",
+      "type": "Strategy",
+      "label": "Paraphrase 100%",
+      "description": "Không copy nguyên văn từ tác phẩm đã upload Turnitin"
+    },
+    {
+      "id": "WRITE_FROM_SCRATCH",
+      "type": "Strategy",
+      "label": "Viết mới hoàn toàn",
+      "description": "Không tái dùng đoạn từ luận án CTH, báo cáo Can thiệp v5, CLEAN_v3"
+    },
+    {
+      "id": "USE_ORIGINAL_NUMBERS",
+      "type": "Strategy",
+      "label": "Số liệu từ nguồn gốc",
+      "description": "Lấy trực tiếp từ paper QT/VN, không dùng số đã hậu xử lý chương 3 luận án"
+    },
+    {
+      "id": "FULL_APA_CITATION",
+      "type": "Strategy",
+      "label": "Cite APA đầy đủ",
+      "description": "Turnitin coi cite & quote không tính trùng lặp"
+    },
+    {
+      "id": "NATURAL_VN_STYLE",
+      "type": "Strategy",
+      "label": "Câu chữ tự nhiên VN",
+      "description": "Tránh style ChatGPT generic (Furthermore, It is important to note, ...)"
+    }
+  ],
+  "edges": [
+    {
+      "source": "VJES",
+      "target": "VNIES",
+      "type": "PUBLISHED_BY"
+    },
+    {
+      "source": "LE_ANH_VINH",
+      "target": "VNIES",
+      "type": "HEADS"
+    },
+    {
+      "source": "LE_ANH_VINH",
+      "target": "VJES",
+      "type": "EDITOR_IN_CHIEF"
+    },
+    {
+      "source": "VJES",
+      "target": "ORIGINAL_RESEARCH",
+      "type": "ACCEPTS"
+    },
+    {
+      "source": "VJES",
+      "target": "REVIEW_PAPER",
+      "type": "ACCEPTS"
+    },
+    {
+      "source": "VJES",
+      "target": "EXPERIMENTAL",
+      "type": "ACCEPTS"
+    },
+    {
+      "source": "VJES",
+      "target": "METHODOLOGY_PAPER",
+      "type": "ACCEPTS"
+    },
+    {
+      "source": "VJES",
+      "target": "REVIEW_ARTICLE",
+      "type": "ACCEPTS"
+    },
+    {
+      "source": "VJES",
+      "target": "CASE_STUDIES",
+      "type": "ACCEPTS"
+    },
+    {
+      "source": "REVIEW_PAPER",
+      "target": "SECTION_1_INTRO",
+      "type": "REQUIRES_SECTION"
+    },
+    {
+      "source": "REVIEW_PAPER",
+      "target": "SECTION_2_METHOD",
+      "type": "REQUIRES_SECTION"
+    },
+    {
+      "source": "REVIEW_PAPER",
+      "target": "SECTION_3_RESULT",
+      "type": "REQUIRES_SECTION"
+    },
+    {
+      "source": "REVIEW_PAPER",
+      "target": "SECTION_4_CONCLUSION",
+      "type": "REQUIRES_SECTION"
+    },
+    {
+      "source": "REVIEW_PAPER",
+      "target": "SECTION_3_5_DISCUSSION",
+      "type": "OPTIONAL_SECTION"
+    },
+    {
+      "source": "VJES",
+      "target": "WORD_LIMIT",
+      "type": "ENFORCES"
+    },
+    {
+      "source": "VJES",
+      "target": "TURNITIN_LIMIT",
+      "type": "ENFORCES"
+    },
+    {
+      "source": "VJES",
+      "target": "FONT_FORMAT",
+      "type": "ENFORCES"
+    },
+    {
+      "source": "VJES",
+      "target": "HEADING_3_LEVELS",
+      "type": "ENFORCES"
+    },
+    {
+      "source": "VJES",
+      "target": "ABSTRACT_LEN",
+      "type": "ENFORCES"
+    },
+    {
+      "source": "VJES",
+      "target": "KEYWORDS_4_6",
+      "type": "ENFORCES"
+    },
+    {
+      "source": "VJES",
+      "target": "TITLE_LEN",
+      "type": "ENFORCES"
+    },
+    {
+      "source": "VJES",
+      "target": "LLM_DECLARATION",
+      "type": "ENFORCES"
+    },
+    {
+      "source": "VJES",
+      "target": "APA_7",
+      "type": "REQUIRES"
+    },
+    {
+      "source": "VJES",
+      "target": "ORCID",
+      "type": "RECOMMENDS"
+    },
+    {
+      "source": "VJES",
+      "target": "PUBLICATION_FEE",
+      "type": "CHARGES"
+    },
+    {
+      "source": "VJES",
+      "target": "DOUBLE_BLIND_PEER_REVIEW",
+      "type": "USES_PROCESS"
+    },
+    {
+      "source": "VJES",
+      "target": "SUBMISSION_EMAIL",
+      "type": "RECEIVES_VIA"
+    },
+    {
+      "source": "APA_7",
+      "target": "TLTK_BAIBAO_VN",
+      "type": "DEFINES"
+    },
+    {
+      "source": "APA_7",
+      "target": "TLTK_BAIBAO_EN",
+      "type": "DEFINES"
+    },
+    {
+      "source": "APA_7",
+      "target": "TLTK_SACH",
+      "type": "DEFINES"
+    },
+    {
+      "source": "APA_7",
+      "target": "TLTK_CHUONG_SACH",
+      "type": "DEFINES"
+    },
+    {
+      "source": "APA_7",
+      "target": "TLTK_LUAN_AN",
+      "type": "DEFINES"
+    },
+    {
+      "source": "APA_7",
+      "target": "TLTK_HOI_THAO",
+      "type": "DEFINES"
+    },
+    {
+      "source": "APA_7",
+      "target": "TLTK_WEB",
+      "type": "DEFINES"
+    },
+    {
+      "source": "APA_7",
+      "target": "TLTK_VAN_BAN_PHAP_LY",
+      "type": "DEFINES"
+    },
+    {
+      "source": "APA_7",
+      "target": "TLTK_BAO_CAO",
+      "type": "DEFINES"
+    },
+    {
+      "source": "PARAPHRASE_100",
+      "target": "TURNITIN_LIMIT",
+      "type": "ENABLES_COMPLIANCE"
+    },
+    {
+      "source": "WRITE_FROM_SCRATCH",
+      "target": "TURNITIN_LIMIT",
+      "type": "ENABLES_COMPLIANCE"
+    },
+    {
+      "source": "USE_ORIGINAL_NUMBERS",
+      "target": "TURNITIN_LIMIT",
+      "type": "ENABLES_COMPLIANCE"
+    },
+    {
+      "source": "FULL_APA_CITATION",
+      "target": "TURNITIN_LIMIT",
+      "type": "ENABLES_COMPLIANCE"
+    },
+    {
+      "source": "NATURAL_VN_STYLE",
+      "target": "TURNITIN_LIMIT",
+      "type": "ENABLES_COMPLIANCE"
+    }
+  ]
+}

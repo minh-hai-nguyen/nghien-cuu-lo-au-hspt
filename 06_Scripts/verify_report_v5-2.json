@@ -1,0 +1,108 @@
+{
+  "report_file": "Bao cao Can thiep tam ly RLLA VTN - 12042026 v5-4.docx",
+  "total_checked": 114,
+  "verified": 103,
+  "fabricated": [
+    {
+      "kind": "p",
+      "idx": 8,
+      "cid": "QT045",
+      "author": "Sasaki",
+      "metric": "pct",
+      "value": "53,81",
+      "context": "2. Sửa 4 lỗi tìm thấy qua kiểm tra QA: (a) VN25 Hải Phòng tỷ lệ lo âu thực tế là 53,81% (THPT Cộng Hiền) hoặc 43,33% (GDNN-GDTX Vĩnh Bảo), không phải 39,3% như "
+    },
+    {
+      "kind": "p",
+      "idx": 8,
+      "cid": "QT045",
+      "author": "Sasaki",
+      "metric": "pct",
+      "value": "43,33",
+      "context": "2. Sửa 4 lỗi tìm thấy qua kiểm tra QA: (a) VN25 Hải Phòng tỷ lệ lo âu thực tế là 53,81% (THPT Cộng Hiền) hoặc 43,33% (GDNN-GDTX Vĩnh Bảo), không phải 39,3% như "
+    },
+    {
+      "kind": "p",
+      "idx": 8,
+      "cid": "QT045",
+      "author": "Sasaki",
+      "metric": "pct",
+      "value": "39,3",
+      "context": "2. Sửa 4 lỗi tìm thấy qua kiểm tra QA: (a) VN25 Hải Phòng tỷ lệ lo âu thực tế là 53,81% (THPT Cộng Hiền) hoặc 43,33% (GDNN-GDTX Vĩnh Bảo), không phải 39,3% như "
+    },
+    {
+      "kind": "p",
+      "idx": 10,
+      "cid": "VN028",
+      "author": "Đào Thị Ngoãn",
+      "metric": "n",
+      "value": "2.631",
+      "context": "4. Bổ sung 2 bản dịch mới (bài 59, 60): Đào Thị Ngoãn 2025 TCNCYH (SV năm 4 ĐH Y Hà Nội) + Duong et al. 2025 (Social Psychiatry Q1, n = 2.631 HS TPHCM)."
+    },
+    {
+      "kind": "p",
+      "idx": 17,
+      "cid": "QT039",
+      "author": "Xian",
+      "metric": "g",
+      "value": "0,878",
+      "context": "Thứ hai, CBT qua Internet (iCBT) cho rối loạn lo âu xã hội (SAD) đứng hạng 1 trong phân tích tổng hợp mạng 30 RCT (Xian, Zhang & Jiang 2024, J Affect Disord 365"
+    },
+    {
+      "kind": "p",
+      "idx": 233,
+      "cid": "VN028",
+      "author": "Đào Thị Ngoãn",
+      "metric": "n",
+      "value": "540",
+      "context": "Bằng chứng: Đào Thị Ngoãn et al. 2025 [VN028] (Tạp chí Nghiên cứu Y học, n = 196 sinh viên năm 4 Đại học Y Hà Nội, DASS-21) phát hiện sinh viên đạt học lực Giỏi"
+    },
+    {
+      "kind": "p",
+      "idx": 276,
+      "cid": "VN001",
+      "author": "Hoa 2024",
+      "metric": "pct",
+      "value": "25,5",
+      "context": "• Tỷ lệ trầm cảm lâm sàng ban đầu (CESD-R ≥ 16): 25,5 % ở cả hai nhóm — phản ánh gánh nặng trầm cảm đáng kể ở học sinh lớp 10 Hà Nội. Không so sánh trực tiếp vớ"
+    },
+    {
+      "kind": "p",
+      "idx": 299,
+      "cid": "QT030",
+      "author": "QT030",
+      "metric": "OR",
+      "value": "2,93",
+      "context": "Thứ nhất, xu hướng tăng lo âu là TOÀN CẦU nhưng tốc độ khác nhau. Phân tích GBD 2021 [QT030] trên 204 nước cho thấy AAPC 0,84 %/năm trong 31 năm, tăng tốc sau 2"
+    },
+    {
+      "kind": "p",
+      "idx": 299,
+      "cid": "QT030",
+      "author": "QT030",
+      "metric": "AOR",
+      "value": "2,93",
+      "context": "Thứ nhất, xu hướng tăng lo âu là TOÀN CẦU nhưng tốc độ khác nhau. Phân tích GBD 2021 [QT030] trên 204 nước cho thấy AAPC 0,84 %/năm trong 31 năm, tăng tốc sau 2"
+    },
+    {
+      "kind": "T4",
+      "idx": 2,
+      "cid": "QT029",
+      "author": "Li 2025",
+      "metric": "pct",
+      "value": "59,7",
+      "context": "2 | CBT cá nhân / nhóm | CAMS 59,7 %; Li 2025 SUCRA 0,66 | CỐT LÕI | ĐẦU TƯ đào tạo"
+    },
+    {
+      "kind": "T4",
+      "idx": 3,
+      "cid": "QT039",
+      "author": "Xian",
+      "metric": "g",
+      "value": "0,878",
+      "context": "3 | iCBT cho SAD | Xian NMA hạng 1; Walder g = 0,878 | CAO — số hoá | Phát triển app VN"
+    }
+  ],
+  "no_source_count": 6,
+  "no_author_count": 51
+}

@@ -1,0 +1,294 @@
+============================================================
+[QT057] RAG SUMMARY:
+QT057 — Tóm tắt ngắn (bài bonus)
+Phát hiện/kết luận chính
+Amygdala + bed nucleus stria terminalis (BNST) + prefrontal cortex là các mạch chính của lo âu. Review tiến độ 2025.
+Khi nào dùng
+Bài này thuộc nhóm BONUS (basic science/review ngoài scope HS THCS/THPT). Chỉ dùng khi cần tham chiếu cơ chế sinh học/dược lý/neuromodulation. KHÔNG dùng trực tiếp cho khuyến nghị can thiệp trường học VN. Nếu cần tóm tắt đầy đủ Jenkins template, cần đọc kỹ PDF và mở rộng.
+Đánh giá: ⭐⭐⭐ (3/5 — chất lượng NC; riêng scope-fit đã ghi trên)
+⚠ CẢNH BÁO SCOPE: Review về MẠCH THẦN KINH (amygdala, BNST, PFC) — basic neurosc
+Tên (VN) | Tiến độ nghiên cứu về cơ chế mạch thần kinh của lo âu
+Tên (EN) | Research progress on the neural circuits mechanisms of anxiety
+Tác giả | (xem PDF)
+Nơi công bố | Frontiers in Neural Circuits (2025) · Beijing University of Chinese Medicine
+Mức độ phù hợp đề tài | LOW — basic neuroscience.
+
+============================================================
+[QT058] RAG SUMMARY:
+QT058 — Tóm tắt ngắn (bài bonus)
+Phát hiện/kết luận chính
+Neuromodulation (TMS, tDCS) giảm neuroinflammation. Cơ chế cho can thiệp y học kháng trị.
+Khi nào dùng
+Bài này thuộc nhóm BONUS (basic science/review ngoài scope HS THCS/THPT). Chỉ dùng khi cần tham chiếu cơ chế sinh học/dược lý/neuromodulation. KHÔNG dùng trực tiếp cho khuyến nghị can thiệp trường học VN. Nếu cần tóm tắt đầy đủ Jenkins template, cần đọc kỹ PDF và mở rộng.
+Đánh giá: ⭐⭐⭐ (3/5 — chất lượng NC; riêng scope-fit đã ghi trên)
+⚠ CẢNH BÁO SCOPE: Review cơ chế — neuromodulation (TMS, tDCS, DBS) là can thiệp 
+Tên (VN) | Cơ chế viêm thần kinh của các liệu pháp kích thích điều biến thần kinh (neuromod
+Tên (EN) | Neuroinflammation mechanisms of neuromodulation therapies for anxiety and depres
+Tác giả | Guo B, Zhang M, Hao W, Wang Y, Zhang T, Liu C
+Nơi công bố | Translational Psychiatry (2022)
+Mức độ phù hợp đề tài | LOW — can thiệp xâm lấn, không phù hợp can thiệp trường học VN.
+
+============================================================
+[QT060] RAG SUMMARY:
+QT060 — Tóm tắt bài nghiên cứu (cào từ web)
+Phương pháp
+• Phân tích thứ cấp dữ liệu GBD 2021
+• Mẫu: GBD 2021 — 204 quốc gia, độ tuổi 10-24
+• Công cụ: GBD 2021 dataset, Joinpoint regression, age-standardized rates
+Kết quả nghiên cứu
+• Tăng 52 % số ca lo âu mới ở 10-24 tuổi toàn cầu (1990 → 2021)
+• Tỷ lệ mới mắc: 708 → 883 / 100.000 dân
+• Nhóm 20-24 tuổi tăng nhiều nhất: +28,33 %
+• Nhóm 10-14 tuổi DUY TRÌ tỷ lệ cao nhất xuyên suốt
+• Nữ > nam ở mọi nhóm tuổi (consistent)
+• Khu vực: Latin Mỹ Tropical cao nhất; Đông Á giảm nhiều nhất
+• Nam Á dẫn đầu số ca tuyệt đối: 3,5 triệu (Ấn Độ chủ yếu)
+• COVID-19 tăng tốc rõ rệt 2019-2021
+• Yếu tố nguy cơ chính: BULLYING victimization (gánh nặng disability lớn nhất)
+Điểm mạnh
+• GBD 2021 — dữ liệu cập nhật mới nhất
+• Phân tầng nhiều chiều: tuổi, giới, khu vực, SDI, COVID
+• 32 năm theo dõi 1990-2021
+• Frontiers Psychiatry Q1 Open Access ✓
+• Ngoại suy mạnh cho VN (LMIC Đông Nam Á)
+Hạn chế
+• GBD dùng modeling (DisMod-MR) — không phải đo trực tiếp
+• Tin cậy thấp ở các nước có dữ liệu sơ sài (nhiều LMIC)
+• Lo âu trong GBD là "anxiety disorders" tổng hợp — không tách subtype
+• Bullying là proxy yếu tố nguy cơ — không factor analysis chi tiết
+Phản biện ngắn
+Bài QUAN TRỌNG để có baseline GLOBAL trends 10-24 tuổi 1990-2021. Xu hướng +52 % toàn cầu, nhưng tách theo khu vực: Đông Á GIẢM (Hàn Quốc + Nhật) trái với Tây phương tăng. VN ít data direct nhưng Nam Á + ASEAN có tăng. Cho thầy: dùng GBD trends làm BACKDROP cho luận điểm "VN cần khảo sát quốc gia lặp lại để có xu hướng riêng".
+Hướng nghiên cứu tiếp theo
+So sánh trends VN với Hàn Quốc (giảm) và Tây phương (tăng) để xác định mô hình VN. Phân tích bullying VN qua các NC hiện có (VN015, VN022 UNICEF).
+Đánh giá chất lượng: ⭐⭐⭐⭐⭐ (5/5)
+Key fact cho RAG: GBD 2021 anxiety 10-24y: +52% global 1990-2021, từ 708 → 883 per 100k. Nữ > nam, Latin Tropical cao nhất, Đông Á giảm, Nam Á số tuyệt đối lớn nhất, bullying yếu tố chính.
+Lưu ý: Bài này được CÀO từ web (abstract + key findings) ngày 2026-04-24. CHƯA c
+Tên (VN) | Gánh nặng toàn cầu của rối loạn lo âu ở vị thành niên và thanh niên 10-24 tuổi 1
+Tên (EN) | Rising global burden of anxiety disorders among adolescents and young adults: tr
+Tác giả | Bie F, Yan X, Xing J, Wang L, Xu Y, Wang G, Wang Q, Guo J, Qiao J, Rao Z
+Đơn vị | Trung Quốc (theo names — cần verify)
+Nơi công bố | Frontiers in Psychiatry (2024)
+Năm | 2024
+DOI | 10.3389/fpsyt.2024.1489427
+Mẫu + công cụ | GBD 2021 — 204 quốc gia, độ tuổi 10-24 | Công cụ: GBD 2021 dataset, Joinpoint re
+
+============================================================
+[QT061] RAG SUMMARY:
+QT061 — Tóm tắt bài nghiên cứu
+Phương pháp
+• Co-design + protocol cho RCT (chưa phải kết quả RCT)
+• Mẫu: Co-design phase: tham gia ý kiến từ chuyên gia + VTN. Sau đó RCT đang chuẩn bị tuyển 489 VTN 12-17 tuổi.
+• Công cụ: ClearlyMe app (37 brief lessons CBT) + thang đo trầm cảm + lo âu (chi tiết trong RCT đang lên kế hoạch)
+Kết quả
+• ClearlyMe = app self-guided CBT 37 BÀI HỌC NGẮN
+• Co-design quy trình: ý kiến chuyên gia + VTN + người chăm sóc + nhà giáo
+• Chia 5 modules chính + 32 mini-lessons
+• Targeted: VTN 12-17 tuổi có triệu chứng trầm cảm/lo âu DƯỚI NGƯỠNG (subthreshold) + ngưỡng
+• Outcomes phụ: anxiety + wellbeing
+• RCT đang lên kế hoạch (target 489 VTN)
+Điểm mạnh
+• Quy trình CO-DESIGN nghiêm ngặt — VTN có tiếng nói thực sự (rare in app development)
+• Black Dog Institute (Úc) — có uy tín lâu năm về MH digital interventions
+• Cambridge University Press — peer-reviewed
+• Cấu trúc 37 bài ngắn — phù hợp tâm lý "scrolling" của VTN
+Hạn chế
+• CHƯA có kết quả RCT — đây chỉ là protocol / co-design
+• Đối tượng VTN Úc — chưa kiểm chứng VN
+• Chưa có bằng chứng efficacy quantitative
+Phản biện ngắn
+Bài QUAN TRỌNG về METHODOLOGY co-design app cho VTN — VN có thể học mô hình này khi phát triển app tiếng Việt. Co-design = không phải "thiết kế cho VTN" mà "thiết kế CÙNG VTN". 5 module chính + 32 mini-lessons là cấu trúc đáng tham khảo.
+Hướng nghiên cứu tiếp theo
+Theo dõi kết quả RCT chính của ClearlyMe (n=489) khi công bố. Adapt mô hình co-design cho VN — phỏng vấn HS THCS/THPT VN trước khi phát triển app.
+Đánh giá: ⭐⭐⭐⭐ (4/5)
+Key fact cho RAG: ClearlyMe (Úc) co-design 37 bài ngắn, app CBT cho VTN 12-17 trầm cảm + lo âu. Black Dog Institute UNSW.
+Tên (VN) | Ứng dụng CBT trên điện thoại cho trầm cảm và lo âu vị thành niên: Đồng thiết kế 
+Tên (EN) | A cognitive behavioural therapy smartphone app for adolescent depression and anx
+Tác giả | Li SH, Achilles MR, Spanos S, Habak S, Werner-Seidler A, O'Dea B
+Đơn vị | Black Dog Institute and School of Psychology, University of New South Wales, Syd
+Nơi công bố | The Cognitive Behaviour Therapist · Cambridge University Press (2024)
+Năm | 2024
+DOI | 10.1017/S1754470X24000345
+Mẫu + công cụ | Co-design phase: tham gia ý kiến từ chuyên gia + VTN. Sau đó RCT đang chuẩn bị t
+
+============================================================
+[QT062] RAG SUMMARY:
+QT062 — Tóm tắt bài nghiên cứu
+Phương pháp
+• Pre-post KHÔNG ĐỐI CHỨNG (uncontrolled), tự nguyện sử dụng app 9 tuần
+• Mẫu: n=48 baseline → n=37 follow-up (77% completion). Có thể có tổng tuyển ban đầu cao hơn — cần verify trang Methods cho con số ~59
+• Công cụ: GAD-7 (Generalized Anxiety Disorder 7-item) chính + uMARS (mobile app rating)
+Kết quả
+• Tuổi TB 20,1 (SD 2,1), khoảng 16-25
+• Thời lượng: 1 tuần làm quen + 8 tuần dùng chính thức
+• GAD-7 baseline → 9 tuần follow-up: t36 = 2,6 (p = 0,01)
+• Tỷ lệ đạt ngưỡng lo âu: 48 % → 22 % (giảm hơn nửa)
+• Effect size: medium-large standardized
+• Acceptability: app được đánh giá usable, acceptable, safe
+• Cấu trúc Clear Fear app:
+•   • Module 1: Hiểu lo âu (psychoeducation fight-flight-freeze)
+•   • Module 2: Symptom tracking nhật ký triệu chứng
+•   • Module 3: Cognitive challenges thử thách suy nghĩ thảm hoạ
+•   • Module 4: Relaxation tools (thở 4-7-8, grounding 5-4-3-2-1, body scan)
+•   • Module 5: Behavioral activation lập kế hoạch hoạt động
+•   • Module 6: Exposure ladder leo thang phơi nhiễm
+•   • Tích hợp safety plan 24/7
+Điểm mạnh
+• App MIỄN PHÍ + open access — accessibility cao
+• Đo bằng GAD-7 — thang đo chuẩn quốc tế
+• Hoàn thành rate 77 % — chấp nhận được cho app
+• Khẳng định safety + acceptability rõ ràng
+• JMIR Formative (Q2-Q3) — peer-reviewed
+Hạn chế
+• ⚠ THIẾT KẾ pre-post KHÔNG ĐỐI CHỨNG → không loại trừ regression to mean + tự hồi phục
+• Mẫu nhỏ (n=48 → 37) — power thấp, KTC rộng
+• Tự nguyện chọn app → selection bias mạnh (người sẵn sàng thử app khác với general population)
+• Không có data về đối tượng có rối loạn lo âu chẩn đoán DSM-5
+• Bias completion: 11/48 (23%) bỏ — có thể là người không hiệu quả
+Phản biện ngắn
+Pilot study nhỏ về Clear Fear — bằng chứng PHASE 1 (acceptability + feasibility), KHÔNG phải efficacy chắc. Giảm 48% → 22% có vẻ ấn tượng nhưng không có nhóm chứng → khả năng cao là regression to mean + tự hồi phục. Cần RCT đối chứng để xác nhận. Cho VN: tham khảo mô hình 6 module + safety plan tích hợp, KHÔNG copy effect size.
+Hướng nghiên cứu tiếp theo
+RCT đối chứng (vs waitlist hoặc app placebo) cho Clear Fear. Adapt cho VN với chuyển ngữ + cultural validation.
+Đánh giá: ⭐⭐⭐ (3/5)
+Key fact cho RAG: Clear Fear app UK 2025: 6 module CBT, n=48→37, GAD-7 giảm 48% → 22%. Pre-post KHÔNG đối chứng. JMIR Formative.
+Tên (VN) | Đánh giá ứng dụng điện thoại Clear Fear cho người trẻ trải nghiệm lo âu: Nghiên 
+Tên (EN) | Evaluation of the Clear Fear Smartphone App for Young People Experiencing Anxiet
+Tác giả | Samele C, Urquia N, Edwards R, Donnell K, Krause N
+Đơn vị | Informed Thinking, London + Stem4 charity, UK
+Nơi công bố | JMIR Formative Research (2025)
+Năm | 2025
+DOI | 10.2196/55603
+Mẫu + công cụ | n=48 baseline → n=37 follow-up (77% completion). Có thể có tổng tuyển ban đầu ca
+
+============================================================
+[QT063] RAG SUMMARY:
+QT063 — Tóm tắt bài nghiên cứu
+Phương pháp
+• RCT 2 nhánh: app CBT-I vs sleep hygiene control (likely)
+• Mẫu: Cần verify từ PDF — RCT lớn, đối tượng youth có insomnia + subclinical depression
+• Công cụ: App-based CBT-I (cognitive behavioral therapy for insomnia) + ISI (Insomnia Severity Index) + PHQ-9 / BDI / SCID cho MDD
+Kết quả
+• App-based CBT-I HIỆU QUẢ giảm khởi phát rối loạn trầm cảm chính (MDD) trong tương lai
+• TĂNG remission rate cho insomnia
+• CHỨNG MINH digital CBT-I hiệu quả ở DÂN SỐ KHÔNG-PHƯƠNG-TÂY (Đông Á)
+• Hiệu lực dài hạn ("substantial long-term effects")
+• Cấu trúc CBT-I 5 module: psychoeducation → sleep restriction → stimulus control → cognitive restructuring → relaxation + sleep hygiene
+Điểm mạnh
+• PLOS Medicine — Q1 (top medical journal)
+• Dân số Đông Á (Trung Quốc / Hồng Kông) — RELEVANT cho VN
+• Outcome clinical: PREVENTION of MDD (không phải chỉ giảm symptom)
+• Long-term follow-up
+• RCT đối chứng chính thức
+Hạn chế
+• ⚠ ĐỐI TƯỢNG là YOUTH với INSOMNIA + subclinical depression — không thuần lo âu
+• CBT-I (cho mất ngủ) khác CBT cho lo âu — chỉ là analogy về cấu trúc app
+• Tuổi cụ thể cần verify (có thể VTN hoặc thanh niên ĐH)
+• Chỉ outcome trầm cảm — không có data về lo âu
+Phản biện ngắn
+RCT QUAN TRỌNG — chứng minh digital CBT-I hiệu quả ở Đông Á. Mặc dù KHÔNG đo lo âu trực tiếp, MÔ HÌNH 5 module CBT-I có thể adapt sang CBT for anxiety với cùng cấu trúc psychoeducation + behavioral + cognitive + relaxation. Là TÀI LIỆU THAM CHIẾU TỐT NHẤT từ Trung Quốc về digital CBT cho mental health VTN.
+Hướng nghiên cứu tiếp theo
+Adapt cấu trúc 5 module CBT-I sang CBT for anxiety cho HS THCS/THPT VN. Thử nghiệm RCT đối chứng cho lo âu thay vì insomnia.
+Đánh giá: ⭐⭐⭐⭐⭐ (5/5)
+Key fact cho RAG: Chen 2025 PLOS Med Hong Kong: app CBT-I 5 module ngăn MDD ở youth có insomnia + subclinical depression. RCT Đông Á.
+Tên (VN) | Hiệu quả của CBT cho mất ngủ qua ứng dụng (CBT-I) trong dự phòng trầm cảm chính 
+Tên (EN) | Effectiveness of app-based cognitive behavioral therapy for insomnia on preventi
+Tác giả | Chen S-J, Que J-Y, Chan NY, Shi L, Li SX, Chan JWY, et al.
+Đơn vị | Hong Kong (Chinese University of Hong Kong) + mainland China collaborators
+Nơi công bố | PLOS Medicine (2025) · DOI 10.1371/journal.pmed.1004510 · 21/01/2025
+Năm | 2025
+DOI | 10.1371/journal.pmed.1004510
+Mẫu + công cụ | Cần verify từ PDF — RCT lớn, đối tượng youth có insomnia + subclinical depressio
+
+============================================================
+[QT064] RAG SUMMARY:
+QT064 — Tóm tắt: Photovoice trong NC sức khoẻ tâm thần VTN (Stephens 2023)
+Phương pháp
+Scoping review (PRISMA-ScR). Tìm 5 databases: PSYCHinfo, PubMed, Scopus, Web of Science, CINAHAL. Tìm lại 06/2022 + 05/2023.
+Tiêu chí: VTN 10-19 tuổi (định nghĩa WHO 2021); nghiên cứu nguyên bản dùng PHƯƠNG PHÁP PHOTOVOICE; mọi quốc gia, mọi ngôn ngữ; định tính (loại định lượng).
+Phân tích: thematic analysis phản tư (Braun & Clarke 2006); chất lượng đánh giá bằng CASP + COREQ.
+Lựa chọn nghiên cứu: 215 (Burn extraction) + 334 (cập nhật) → 7+3+2 grey lit = 12 nghiên cứu.
+Kết quả nghiên cứu
+CHẤT LƯỢNG: KHÔNG có nghiên cứu nào "tốt"; 6/12 trung bình; 4/12 kém. Khu vực thiếu báo cáo: tuyển mộ, thu thập dữ liệu, reflexivity.
+PHÂN BỐ: 10/12 ở HICs (USA n=6, Canada n=3, UK n=1); 2/12 ở LMICs (Kenya, Nam Phi); 9/12 đô thị; nữ đại diện quá mức (127 vs 47 nam).
+CỠ MẪU: 4-58 người/NC; ≤10 ở 6 nghiên cứu — lệch khuyến nghị Wang & Burris 1997 (≤10).
+PHƯƠNG PHÁP: 7/12 dùng Photovoice ĐỘC LẬP; 3/12 kết hợp phỏng vấn/viết sáng tạo. 6/12 dùng KHUNG SHOWeD (See, Happening, Our lives, Why exist, Do).
+CAMERA: 4 dùng máy dùng-một-lần (28 ảnh); 2 dùng máy số; 1 dùng điện thoại; 5 không báo cáo.
+CHỦ ĐỀ CHÍNH (4 nhóm): (1) Đấu tranh → sức mạnh + thuộc về (coping/resilience/beliefs about self); (2) Gia đình + bạn bè (hy vọng + (mis)understanding); (3) An toàn + nghèo đói; (4) Điều trị + môi trường lâm sàng (autonomy adolescent).
+XU HƯỚNG: hầu hết NC từ 2021; lĩnh vực mới nổi 2008 trở đi.
+KHÁC HICs vs LMICs: LMICs đặt trong bối cảnh BỆNH TRUYỀN NHIỄM (HIV) + khu định cư không chính thức; tài trợ khác.
+Điểm mạnh
+• TỔNG QUAN ĐẦU TIÊN cùng loại — lấp khoảng trống evidence
+• PRISMA-ScR + CASP + COREQ — methodology nghiêm ngặt cho scoping
+• Open Access (CC BY 4.0) — tiếp cận rộng
+• 6 tác giả từ 3 đơn vị (Queen Mary, UCL, East London NHS) — perspective đa dạng
+Hạn chế
+• ⚠ Bằng chứng yếu — scoping review không đo effect size, không thay thế MA
+• Cỡ mẫu ~200 VTN qua 12 NC — quá nhỏ để khái quát
+• Bias đa chiều: Tây phương + đô thị + nữ quá đại diện
+• KHÔNG có NC nào "tốt" về chất lượng báo cáo
+• Định nghĩa VTN có thể khác giữa các nguồn
+• Pre-extracted data (Burn et al.) → khó nhân đôi
+Phản biện ngắn
+Bài Photovoice ĐẦU TIÊN trong CSDL 87 canonical (chủ yếu RCT/SR/MA định lượng). Photovoice là phương pháp ĐỊNH TÍNH có sự tham gia, bổ sung cho phương pháp định lượng — KHÔNG thay thế. Đối với đề tài lo âu HS VN: bài này CÓ GIÁ TRỊ làm methodological reference, KHÔNG dùng cho effect size hay khuyến nghị can thiệp.
+Hướng nghiên cứu tiếp theo
+• Áp dụng Photovoice cho HS THCS/THPT VN có triệu chứng lo âu (GAD-7 ≥ 5)
+• Cấu trúc đề xuất: 30-40 HS, đào tạo 1 buổi → 1-2 tuần chụp ảnh chủ đề "điều làm tôi lo âu/an toàn ở trường" → 4 buổi thảo luận SHOWeD → triển lãm + advocacy
+• Cân giới 50:50 (đề tài hiện thiếu nam tham gia định tính)
+• Đa dạng vùng (đô thị Hà Nội/TPHCM + nông thôn Nghệ An/Lạng Sơn)
+• Báo cáo theo COREQ ≥ 25 mục (đạt mức "tốt" — bài Stephens không có NC nào đạt!)
+• Photovoice trực tuyến — tuyển ≥ 100 HS (Subasi 2023, Doyumğaç 2021)
+Đánh giá chất lượng: ⭐⭐⭐⭐ (4/5)
+Cao — scoping review đầu tiên về Photovoice trong sức khoẻ tâm thần VTN. Methodology PRISMA-ScR chuẩn, Open Access. Hạn chế ở cỡ mẫu nhỏ (12 NC), không đo effect size — đó là bản chất của scoping. Phù hợp làm methodological reference cho dự án Photovoice tại VN.
+Key fact cho RAG: Photovoice scoping review 12 NC, ~200 VTN. 4 chủ đề: coping/resilience, family/friends, safety/poverty, treatment. Bài Photovoice ĐẦU TIÊN trong CSDL — methodological reference cho thiết kế Photovoice VN.
+Tên (VN) | Tổng quan phạm vi hệ thống về Photovoice trong nghiên cứu sức khoẻ tâm thần liên
+Tên (EN) | A systematic scoping review of Photovoice within mental health research involvin
+Tác giả | Madison Stephens, Eleanor Keiller, Maev Conneely, Paul Heritage, Mariana Steffen
+Đơn vị | WHO Collaborating Centre, Queen Mary University of London + UCL + East London NH
+Tạp chí | International Journal of Adolescence and Youth, vol. 28, no. 1 (2023), Open Acce
+DOI | 10.1080/02673843.2023.2244043
+Năm | 2023
+Mẫu + công cụ | 12 nghiên cứu Photovoice (~200 vị thành niên 10-22 tuổi); CASP + COREQ quality a
+
+============================================================
+[QT065] RAG SUMMARY:
+QT065 — Tóm tắt bài nghiên cứu
+Phương pháp
+• Cluster RCT — EACP vs treatment-as-usual; 1 năm intervention + 3 năm follow-up
+• Mẫu: 40 trường THCS Mỹ, n=709 HS lớp 7 (sàng lọc giáo viên cho hành vi gây hấn). 69,8% gốc Phi (African American), 59,4% nam.
+• Công cụ: BASC (Behavior Assessment System for Children) — teacher-rated + self-rated
+Kết quả nghiên cứu
+• Cấu trúc EACP: 25 buổi học sinh + 16 buổi cha mẹ + thành phần giáo viên (giảm từ bản gốc 34 buổi)
+• Skills: quản lý cơn giận-lo âu (self-statements + thư giãn) + giải quyết vấn đề xã hội + tương tác bạn bè + kỹ năng học tập + từ chối chất gây nghiện
+• Teacher-rated: EACP giảm externalizing problems theo thời gian
+• Đặc biệt: NỮ trong EACP giảm school problems có ý nghĩa thống kê
+• Self-rated: NỮ trong EACP có personal adjustment outcomes tốt hơn (moderated effect)
+• Hiệu ứng phòng ngừa cho HS lớp 7; promotive effects cho NỮ
+Điểm mạnh
+• RCT cluster đa trung tâm 40 trường — bằng chứng cao
+• Mẫu lớn (n=709) trong dân số khó tiếp cận (HS gây hấn 69,8% African American)
+• Tài trợ NIMH — methodology vững
+• J School Psychology Q1 — peer-reviewed top
+• Theo dõi đến 3 năm post-intervention
+• BASC — thang đo chuẩn lâm sàng
+Hạn chế
+• ⚠ Đối tượng GỐC là HS gây hấn (aggressive behavior), KHÔNG phải HS lo âu thuần
+• Outcome chính là externalizing (hành vi), không phải lo âu (internalizing)
+• Chủ yếu dân Mỹ gốc Phi (69,8%) — generalize cho VN cần adapt văn hoá
+• Chỉ HIỆU QUẢ rõ với NỮ — moderated effect
+• Không đo trực tiếp triệu chứng lo âu (chỉ qua personal adjustment)
+Phản biện ngắn
+EACP là chương trình nổi tiếng (Lochman) với 25+ năm phát triển. Bài 2025 này test phiên bản RÚT GỌN (25 buổi/1 năm) trên HS THCS lớp 7. PHÁT HIỆN MỚI: hiệu quả ĐẶC BIỆT với NỮ — gợi ý EACP phù hợp cho HS NỮ với cả vấn đề externalizing + internalizing. CẢNH BÁO: đối tượng gốc là HS gây hấn (không phải lo âu thuần), nên áp dụng cho HS lo âu VN cần modify curriculum.
+Hướng nghiên cứu tiếp theo
+Adapt EACP cho HS THCS VN với focus trên LO ÂU (modify Module quản lý cơn giận thành quản lý lo âu). Test cluster RCT 5-10 trường VN, n>200 HS. Đo bằng GAD-7 + DASS-21 thay vì BASC.
+Đánh giá: ⭐⭐⭐⭐⭐ (5/5)
+Key fact cho RAG: EACP RCT 40 trường, n=709 HS lớp 7 Mỹ. 25 buổi HS + 16 buổi cha mẹ. Hiệu quả đặc biệt với NỮ. Đối tượng gốc là HS gây hấn.
+⚠ Lưu ý: Tóm tắt này dựa trên metadata (PubMed + abstract + thông tin cào web), 
+Tên (VN) | Thử nghiệm RCT Chương trình "Sức mạnh Ứng phó" (Early Adolescent Coping Power): 
+Tên (EN) | Randomized Controlled Trial of the Early Adolescent Coping Power Program: Effect
+Tác giả | Bradshaw CP, McDaniel H, Pas ET, Debnam KJ, Bottiani JH, Powell N, Ialongo NS, M
+Lead author email | cpb6n@virginia.edu (Catherine P. Bradshaw, UVA)
+Đơn vị | UVA + USC + Johns Hopkins + UA + RTI International (multi-site)
+Tạp chí | Journal of School Psychology, vol. 110, June 2025, art. 101437
+Năm | 2025
+DOI | 10.1016/j.jsp.2025.101437
+PubMed | https://pubmed.ncbi.nlm.nih.gov/40506167/
+Mẫu + công cụ | 40 trường THCS Mỹ, n=709 HS lớp 7 (sàng lọc giáo viên cho hành vi gây hấn). 69,8

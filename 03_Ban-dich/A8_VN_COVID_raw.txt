@@ -1,0 +1,1014 @@
+PAGE 1:
+Observational Study
+1
+Medicine
+®
+Anxiety and associated factors among Vietnamese 
+students during COVID-19 pandemic
+A cross-sectional study
+Long Xuan Nguyen, PhDa, Linh Thi Dieu Dao, PhDa,*  , Anh Nhat Ta, PhDa, Ha Thanh Le, PhDb,  
+Hieu Van Nguyen, PhDc, Lan Thi Mai Nguyen, PhDd, Phuong Thi Nguyen, MSa, Thang Thi Nguyen, PhDa,  
+Thanh Chi Ta, MSe, Thuong Hiep Nguyen, PhDf, Trang Thi Nguyen, MSg, Tuan Anh Huynh, PhDa,  
+Anh Quynh Hoangc, Linh Thi Hanh Duongh, Ly Hoang Dog, Nam Tien Pham, PhDi
+Abstract 
+Mental health care for students in general, particularly anxiety, is a significant problem that needs more attention, especially during 
+the coronavirus disease 2019 (COVID-19) pandemic. This study aimed to describe the prevalence of anxiety and examine the 
+associated factors among students during the COVID-19 pandemic in Vietnam. A cross-sectional study was conducted from 
+August to September 2021 among 5730 students. An online survey was used to collect sociodemographic information, and 
+the generalized anxiety disorder questionnaire (GAD-7) was used to assess anxiety symptoms among Vietnamese students. 
+Results showed that the prevalence of anxiety among study participants was 16.2% (95% confidence interval [CI]: 15.3%–17.2%). 
+Factors related to anxiety among students were gender, type of housemate, COVID-19 exposure/infection status, vaccination 
+status, health status, academic performance, and social relationships during the COVID-19 pandemic. A significant number 
+of students experienced anxiety during COVID-19, and this rate was related to several factors. Psychological interventions are 
+required to support students during and after the COVID-19 pandemic and other health crises. Further studies are required to 
+confirm our findings.
+Abbreviations: CI = confidence interval, COVID-19 = coronavirus disease 2019, GAD-7 = generalized anxiety disorder 
+questionnaire, PR = prevalence ratios.
+Keywords: anxiety, COVID-19 pandemic, students, Vietnam
+1. Introduction
+Before the COVID-19 pandemic hit the world, students’ mental 
+health issues had already been identified as the top obstacle 
+to their academic performance. Mental disorders can affect 
+student motivation, concentration, and social interactions. 
+According to a report by Collegiate Mental Health (2019), 
+which included 163 college and university counseling centers 
+from 54 countries in the world, anxiety is the most common 
+mental health problem among students, with 82,685 students 
+(62.7% of the sample) reporting having anxiety symptoms.[1] 
+Two years after the COVID-19 pandemic first appeared in 
+October 2019, the World Health Organization—WHO called 
+COVID-19 “a pandemic that causes widespread concern and 
+increases anxiety and stress worldwide.”[2] The COVID-19 epi-
+demic has caused a wide range of psychological problems, most 
+notably anxiety, panic disorders, depression, obsessive-compul-
+sive disorders, and psychiatric disorders.[3,4] A 36-study system-
+atic review from September 2020 to February 2021 revealed 
+the prevalence of anxiety to be about 41% (95% confidence 
+interval [CI] = 0.34–0.49).[5]
+University students who have to adjust to different studying 
+conditions during the pandemic also experience psychologi-
+cal problems, most notably, an increase in anxiety and stress. 
+Jiang et al (2021) surveyed 1195 students from 4 countries 
+in the Asia-Pacific region (Malaysia, Indonesia, Thailand, and 
+China). Their study revealed that anxiety was the most common 
+ 
+The authors have no funding and conflicts of interest to disclose.
+The datasets generated during and/or analyzed during the current study are 
+available from the corresponding author on reasonable request.
+a University of Languages and International Studies, Vietnam National University, 
+Pham Van Dong, Cau Giay, Ha Noi, Vietnam, b Hanoi Pedagogical University 2, 
+Nguyen Van Linh Street, Xuan Hoa Ward, Phuc Yen City, Vinh Phuc Province, 
+Vietnam, c Hanoi National University of Education, Cau Giay District, Hanoi, 
+Vietnam, d Institute of Psychology, Vietnam Academy of Social Sciences, Lieu 
+Giai, Ba Đinh, Ha Noi, Vietnam, e Hanoi Metropolitan University, Quan Hoa Ward, 
+Cau Giay Dist, Ha Noi, Vietnam, f Vietnam General Confederation of Labor, Hanoi, 
+Vietnam, g FPT Polytechnic College, Buon Ma Thuot, Vietnam, h Deakin University, 
+Geelong, Australia, i Hanoi University of Public Health, Duc Thang Ward, North Tu 
+Liem District, Hanoi, Vietnam.
+*Correspondence: Linh Thi Dieu Dao, University of Languages and International 
+Studies, Vietnam National University, Pham Van Dong, Cau Giay, 123116, Ha Noi, 
+Vietnam (e-mail: linhdtd@vnu.edu.vn).
+Copyright © 2023 the Author(s). Published by Wolters Kluwer Health, Inc.
+This is an open-access article distributed under the terms of the Creative 
+Commons Attribution-Non Commercial License 4.0 (CCBY-NC), where it is 
+permissible to download, share, remix, transform, and buildup the work provided 
+it is properly cited. The work cannot be used commercially without permission 
+from the journal.
+How to cite this article: Nguyen LX, Dao LTD, Ta AN, Le HT, Nguyen HV, Nguyen 
+LTM, Nguyen PT, Nguyen TT, Ta TC, Nguyen TH, Nguyen TT, Huynh TA, Hoang 
+AQ, Duong LTH, Do LH, Pham NT. Anxiety and associated factors among 
+Vietnamese students during COVID-19 pandemic: A cross-sectional study. 
+Medicine 2023;102:16(e33559).
+Received: 4 January 2023 / Received in final form: 19 March 2023 / Accepted: 
+28 March 2023
+http://dx.doi.org/10.1097/MD.0000000000033559
+
+===
+PAGE 2:
+2
+Nguyen et al.  •  Medicine (2023) 102:16
+Medicine
+psychological problem among students, followed by depression 
+and stress. Severe and extremely severe anxiety were observed 
+in 20.5% of the participants. An increase in anxiety was also 
+observed in studies conducted in other countries, such as the 
+United States, Sweden, and Turkey. An online survey of 2031 
+participants revealed that 38.48% of university students in the 
+US had moderate-to-severe levels of anxiety, while 71.26% had 
+increased levels of stress and anxiety during the pandemic.[6] 
+Students are at risk of mental health problems during the 
+COVID-19 pandemic due to unexpected life changes, academic 
+challenges, and uncertain future employment opportunities.[7] In 
+the same research direction, Md. Najmol et al (2021) surveyed 
+students in Bangladesh who were studying online because of 
+lockdowns. The results showed that 14.8% experienced extreme 
+levels of anxiety, and 82.5% experienced mild to extreme lev-
+els of anxiety.[8] The study also pointed out several factors that 
+affect anxiety in university students during the COVID-19 pan-
+demic, including gender, family size, residential area, academic 
+year, accessibility to high-speed Internet and online learning 
+platforms, learning alone at home, and lack of access to online 
+learning resources. Among these factors, students’ most signifi-
+cant problem when studying online during the COVID-19 pan-
+demic was the limitation of online learning platforms.[8]
+In Vietnam, a few studies have been conducted to study men-
+tal health issues during the COVID-19 pandemic in the gen-
+eral population and among healthcare workers and university 
+students.
+Understanding the current situation of student anxiety and 
+its related factors under the impact of the COVID-19 pandemic 
+is an urgent and necessary issue. However, there are still very 
+few studies on student anxiety, especially regarding the correla-
+tion between student anxiety and several influential factors. This 
+study aimed to describe the prevalence of anxiety and examine 
+the associated factors among students during the COVID-19 
+pandemic in Vietnam. Our findings could add to the litera-
+ture regarding anxiety among university students and provide 
+evidence to advocate that stakeholders pay attention to men-
+tal health care for students during the COVID-19 pandemic. 
+Moreover, based on these results, researchers can suggest activi-
+ties to support psychological interventions for students.
+2. Methods
+2.1. Study design and participants
+We conducted an online cross-sectional study among students 
+in Vietnam.
+Students were recruited based on the following criteria: 
+being at least 18 years old; living in Vietnam during the survey 
+period; agreeing to participate in the survey by signing an online 
+informed consent document; and accessing the online question-
+naire via the Internet.
+2.2. Study sample size and sampling
+The survey was conducted during a 2-week social distancing 
+and isolation period from August 23 to September 5, 2021. A 
+self-selection sampling technique was used to recruit partici-
+pants. The link to the online questionnaire was sent to the net-
+work of university lecturers in Vietnam, who were required to 
+forward the survey link to their students via Email, Facebook, 
+or Zalo mobile applications. Students were also encouraged to 
+share links widely with other students. In total, 5730 students 
+participated in this study.
+2.3. Study variables
+2.3.1. Dependent variable.  The dependent variable was the 
+anxiety status, measured based on the Generalized Anxiety 
+Disorder Questionnaire (GAD-7) questionnaire, which assessed 
+the anxiety level experienced by the participants in the past 2 
+weeks (See the study instrument).
+2.3.2. Independent variables.  Independent variables included 
+gender, type of housemate, COVID-19 exposure/infection status, 
+COVID-19 vaccination status, current health status, academic 
+performance, and social relationships.
+2.4. Study instruments and measurements
+There were 2 main parts in the study instruments. The first 
+part included questions about the sociodemographic factors 
+of participants. The second part was GAD-7. The question-
+naire assesses the bothering of each symptom over the past 
+2 weeks. The GAD-7 is an internationally recognized screen-
+ing tool used for various settings and populations.[9] Several 
+studies in Vietnam used the Vietnamese version of the GAD-7 
+to screen for anxiety symptoms among the Vietnamese pop-
+ulation, health workers, students, etc, during the COVID-
+19 pandemic.[10–12] The GAD-7 includes 7 questions using 
+a 4-point Likert-type rating scale from 0 (not at all) to 3 
+(nearly every day) to measure the anxiety level experienced 
+by the participants in the past 2 weeks. The total score for 
+all 7 items was used to measure the level of anxiety, with 
+higher scores indicating greater anxiety. The total GAD-7 
+score was grouped into 4 categories: none (0–4 points), mild 
+(5–9 points), moderate (10–14 points), and severe (15–21 
+points). At a cutoff point of 10, both sensitivity and spec-
+ificity exceed 80%.[13] Previous studies have also used this 
+cutoff point.[14,15] In our study, participants with scores of 
+10 and above were identified as screening positive for anxi-
+ety. The internal consistency coefficient (Cronbach alpha) on 
+this sample is 0.92.
+2.5. Statistical analysis
+We used the chi-square test to compare differences in stu-
+dent characteristics. Multiple Poisson regression models 
+with robust error variances were used to examine the factors 
+associated with student anxiety during the COVID-19 pan-
+demic.[16–18] We used Robust (or modified) Poisson regression 
+models to calculate the Prevalence Ratios (PRs) and corre-
+sponding 95% CI (using ROBUST option) and used a signif-
+icance level of P < .05.[19] All analyses were conducted using 
+Stata 14.2.[20]
+2.6. Ethical consideration
+The Institutional Review Board of the Vietnam Association of 
+Psychology approved this study under Decision No. 10/2021/
+HTLHVN-DD. Informed consent was obtained from all partic-
+ipants before data collection. The participants volunteered, and 
+anonymity was ensured. Respondents could stop or withdraw 
+from the study at any time.
+3. Results
+3.1. General characteristics of the study participants
+Table 1 shows the participants’ sociodemographic character-
+istics. Of the 5730 study participants, 63.9% were female. 
+The majority of them were living with their families (81.8%), 
+had no contact with COVID-19 infected persons (88.5%), 
+received no dose of COVID-19 vaccination (75.5%), and had 
+a stable health status (84.4%). Half of the students reported 
+stable academic performance (50.0%) and social relationships 
+(55.4%).
+
+===
+PAGE 3:
+3
+Nguyen et al.  •  Medicine (2023) 102:16
+www.md-journal.com
+3.2. The prevalence of students having anxiety symptoms
+Table 2 shows the prevalence of anxiety symptoms among study 
+participants. 16.2 of the study students, 16.2% reported hav-
+ing anxiety symptoms during the COVID-19 pandemic (95% 
+CI: 15.3%–17.2%). The prevalence of anxiety was statistically 
+significantly higher among female students than male students 
+(17.9% vs 13.1%, P < .001). The prevalence of anxiety was also 
+significantly higher among students who lived in a dormitory, 
+lived in a boarding house, and lived alone in a boarding house, 
+as compared to the other groups of the same category.
+The prevalence of anxiety was found to be statistically signifi-
+cantly higher among the students who had COVID-19 infection 
+and had contact with COVID-19 infected people (F0, F1, F2).
+The prevalence of anxiety was significantly higher among 
+students with poor health status than among those with good 
+health status. The prevalence of anxiety was significantly higher 
+among students with poor academic performance and social 
+relationships than among those with stable academic perfor-
+mance and social relationships.
+3.3. Factors associated with self-reported anxiety among 
+students
+Table  3 presents the results of the Robust Poisson regression 
+analysis of the factors associated with anxiety symptoms among 
+students. Statistically significant factors related to the anxiety 
+among students included: Gender: The prevalence of anxiety 
+among the male students was lower than that among the female 
+students (PR = 0.66, 95% CI: 0.58–0.74); Types of housemate: 
+Students were living in a dormitory or those were living alone 
+in a boarding house had higher prevalence of anxiety as com-
+pared to students who were living with family (PR = 1.71, 95% 
+CI: 1.39–2.12; PR = 1.36, 95% CI: 1.10–1.69; respectively); 
+COVID-19 exposure/infection status: The prevalence of anxi-
+ety among students who had COVID-19 infection or had con-
+tact with COVID-19 infected person (F0) was higher than that 
+among the students who had no COVID-19 exposure/infection 
+(PR = 2.29, 95% CI: 1.40–3.75; PR = 2.04, 95% CI: 1.43–2.91; 
+respectively); COVID-19 vaccination status: The prevalence of 
+anxiety among students who had first and second dose adminis-
+tered had lower prevalence of anxiety as compared to students 
+who never received dose (PR = 0.97, 95% CI: 0.95–0.98; PR 
+= 0.95, 95% CI: 0.92–0.98; respectively); The current health 
+status, academic performance, and social relationships: The stu-
+dent with poor health status, poor academic performance and 
+poor social relationships had higher prevalence of anxiety as 
+compared to the other groups of the same category (PR = 1.71, 
+95% CI: 1.34–2.18; PR = 1.44, 95% CI: 1.12–1.87; PR = 1.54, 
+95% CI: 1.16–2.04; respectively).
+4. Discussion
+At the time of this study, Vietnam was in the middle of the fourth 
+virus outbreak, with an average of 12,242 new locally acquired 
+cases per day (435,265 cases in total; 10,749 deaths), and 62/63 
+cities and provinces had reported COVID-19 cases.[21] This study 
+examined Vietnamese university students’ anxiety levels during 
+the COVID-19 pandemic. Anxiety symptoms were observed in 
+16.2% of the students. This prevalence is still lower than that 
+Table 1
+Characteristics of participants.
+Factor 
+Female 
+Male 
+Total 
+P value 
+N
+3667
+2063
+5730
+n (%)
+n (%)
+n (%)
+Types of housemate
+ 
+ 
+ 
+.005
+  Living with family
+3032 (82.7)
+1655 (80.2)
+4687 (81.8)
+ 
+  Living with relatives
+73 (2.0)
+45 (2.2)
+118 (2.1)
+ 
+  Living in a dormitory
+121 (3.3)
+61 (3.0)
+182 (3.2)
+ 
+  Living with friends in a boarding house
+278 (7.6)
+163 (7.9)
+441 (7.7)
+ 
+  Living alone in a boarding house
+163 (4.4)
+139 (6.7)
+302 (5.3)
+ 
+COVID-19 exposure/infection status
+ 
+ 
+ 
+.86
+  Never had contact with COVID-19 infected person
+3255 (88.8)
+1818 (88.1)
+5073 (88.5)
+ 
+  Had COVID-19 infection
+16 (0.4)
+8 (0.4)
+24 (0.4)
+ 
+  Had contact with COVID-19 infected person (F0)
+37 (1.0)
+18 (0.9)
+55 (1.0)
+ 
+  Had contact with COVID-19 infected person (F1)
+112 (3.1)
+68 (3.3)
+180 (3.1)
+ 
+  Had contact with COVID-19 infected person (F2)
+247 (6.7)
+151 (7.3)
+398 (6.9)
+ 
+COVID-19 vaccination status
+ 
+ 
+ 
+.22
+  Never received a dose of COVID-19 vaccination
+2756 (75.2)
+1572 (76.2)
+4328 (75.5)
+ 
+  Got the first dose of COVID-19 vaccination
+724 (19.7)
+373 (18.1)
+1097 (19.1)
+ 
+  Got the second dose of COVID-19 vaccination
+187 (5.1)
+118 (5.7)
+305 (5.3)
+ 
+Current health status
+ 
+ 
+ 
+<.001
+  Better
+206 (5.6)
+240 (11.6)
+446 (7.8)
+ 
+  Stable
+3215 (87.7)
+1642 (79.6)
+4857 (84.8)
+ 
+  Worse
+246 (6.7)
+181 (8.8)
+427 (7.5)
+ 
+Academic performance
+ 
+ 
+ 
+.48
+  Better
+280 (7.6)
+170 (8.2)
+450 (7.9)
+ 
+  Stable
+1854 (50.6)
+1012 (49.1)
+2866 (50.0)
+ 
+  Worse
+1533 (41.8)
+881 (42.7)
+2414 (42.1)
+ 
+Social relationships
+ 
+ 
+ 
+<.001
+  Better
+226 (6.2)
+161 (7.8)
+387 (6.8)
+ 
+  Stable
+2132 (58.1)
+1042 (50.5)
+3174 (55.4)
+ 
+  Worse
+1309 (35.7)
+860 (41.7)
+2169 (37.9)
+ 
+Self-reported anxiety
+ 
+ 
+ 
+<.001
+  No
+3009 (82.1)
+1792 (86.9)
+4801 (83.8)
+ 
+  Yes
+658 (17.9)
+271 (13.1)
+929 (16.2)
+ 
+COVID-19 = coronavirus disease 2019.
+
+===
+PAGE 4:
+4
+Nguyen et al.  •  Medicine (2023) 102:16
+Medicine
+in cohorts from other countries, such as India,[22] Guangdong, 
+China,[23] Turkey,[24] and Saudi Arabia.[25] These findings were 
+quite similar to the results of another study that assessed anx-
+iety levels in the Vietnamese population, which showed that 
+Vietnamese people had lower anxiety levels (compared to people 
+in China and Iran) because of Vietnam success in reducing the 
+spread of COVID-19 in the country due to the direction of the 
+Vietnamese Government and proactive and effective community 
+health actions.[26] Thus, in addition to depression - a common men-
+tal health disorder of students during the pandemic,[27–29] anxiety 
+is also a common psychological problem of students during this 
+period. Anxiety can lead to changes in sleep patterns, and those 
+with higher levels of anxiety are related to a lower grade point 
+average and experience of COVID-19 symptoms. Moreover, stu-
+dents with lower grade point average and prior experience with 
+COVID-19 symptoms were more likely to feel depressed.[27]
+In our regression models, we found that gender was a fac-
+tor associated with self-reported anxiety, with women having 
+higher anxiety levels than men. This result was consistent with 
+previous findings,[27,30,31] which found higher levels of anxiety 
+in female students than in male students. Therefore, it can be 
+suggested that gender may be a predictor of anxiety because of 
+personality traits. Females are higher levels of neuroticism or 
+emotional instability/negative emotionality than males.[32]
+In this study, we found that having a fair/poor health status, spend-
+ing 8 or more hours a day in front of a screen, and having a contact 
+history with a positive COVID-19 case predicted more psychological 
+issues when risk factors were considered simultaneously.[33] In this 
+study, self-reported health status was a predictor of higher anxiety 
+levels among students. Students who confirmed their health was 
+worse than before were more likely to worry than others.[34]
+Similar to previous studies, contact history with COVID-19 pos-
+itive cases was also a significant predictor of higher levels of anxiety 
+in university students.[35,36] At the time of this study, the number of 
+infections per day in Vietnam was extremely high at 87,206 new 
+cases and 2472 deaths in 1 week.[21] In addition, the rapid spread 
+of information about the pandemic on social networks contributes 
+to the increase in students’ anxiety levels.[37] Thus, fear of infection 
+has been cited as a stressor that leads to anxiety and depression.[38]
+Our research showed that vaccinated students had a lower prev-
+alence of anxiety than unvaccinated students. There is evidence that 
+vaccinated students place greater value on their health and thus are 
+more inclined to be vaccinated. Therefore, it can be assumed that 
+vaccines have a protective role in mental and physical health.[39]
+The results also showed that participants who rated their aca-
+demic performance and quality of social relationships as “wors-
+ened” had approximately 1.2 times higher levels of anxiety 
+compared to those who rated these domains as “unchanging” or 
+“got better.” Previous research has also shown that the self-rated 
+quality of social relationships influences university students’ 
+mental health problems, including anxiety.[24,40] For example, 
+Cam et al (2021) identified female sex and poor family relation-
+ships as risk factors for PTSD, anxiety, depression, and stress. 
+Anxiety is significantly associated with family factors, such as 
+family conflict, obligations, and expectations.[40] This finding 
+indicates that the quality of students’ relationships, including 
+family relationships, may be the reason for their higher anx-
+iety levels. For the relationship between academic results and 
+Table 2
+Anxiety of participants.
+ 
+Self-reported anxiety
+P value 
+No 
+Yes 
+4801 (83.8)
+929 (16.2)
+n (%)
+N (%)
+Gender
+ 
+ 
+<.001
+  Female
+3009 (82.1)
+658 (17.9)
+ 
+  Male
+1792 (86.9)
+271 (13.1)
+ 
+Types of housemate
+ 
+ 
+<.001
+  Living with family
+3990 (85.1)
+697 (14.9)
+ 
+  Living with relatives
+95 (80.5)
+23 (19.5)
+ 
+  Living in a dormitory
+123 (67.6)
+59 (32.4)
+ 
+  Living with friends in a boarding house
+366 (83)
+75 (17)
+ 
+  Living alone in a boarding house
+227 (75.2)
+75 (24.8)
+ 
+COVID-19 exposure/infection status
+ 
+ 
+<.001
+  Never had contact with COVID-19 infected person
+4290 (84.6)
+783 (15.4)
+ 
+  Had COVID-19 infection
+15 (62.5)
+9 (37.5)
+ 
+  Had contact with COVID-19 infected person (F0)
+34 (61.8)
+21 (38.2)
+ 
+  Had contact with COVID-19 infected person (F1)
+142 (78.9)
+38 (21.1)
+ 
+  Had contact with COVID-19 infected person (F2)
+320 (80.4)
+78 (19.6)
+ 
+COVID-19 vaccination status
+ 
+ 
+.99
+  Never received dose
+3626 (83.8)
+702 (16.2)
+ 
+  First dose administered
+920 (83.9)
+177 (16.1)
+ 
+  Second dose administered
+255 (83.6)
+50 (16.4)
+ 
+Current health status
+ 
+ 
+<.001
+  Better
+376 (84.3)
+70 (15.7)
+ 
+  Stable
+4167 (85.8)
+690 (14.2)
+ 
+  Worse
+258 (60.4)
+169 (39.6)
+ 
+Academic performance
+ 
+ 
+<.001
+  Better
+393 (87.3)
+57 (12.7)
+ 
+  Stable
+2552 (89)
+314 (11)
+ 
+  Worse
+1856 (76.9)
+558 (23.1)
+ 
+Social relationships
+ 
+ 
+<.001
+  Better
+341 (88.1)
+46 (11.9)
+ 
+  Stable
+2791 (87.9)
+383 (12.1)
+ 
+  Worse
+1669 (76.9)
+500 (23.1)
+ 
+COVID-19 = coronavirus disease 2019.
+
+===
+PAGE 5:
+5
+Nguyen et al.  •  Medicine (2023) 102:16
+www.md-journal.com
+students’ anxiety, the study showed that general mental health 
+problems, including anxiety disorders, can affect students’ 
+energy levels, concentration, dependability, mental abilities, and 
+optimism, prevent the performance of activities.[41]
+The current study has some limitations. First, it is a cross-sec-
+tional study; therefore, the data are only valid for a certain 
+period. Second, our study was conducted using a convenience 
+sample technique, so the results may not be representative 
+enough to apply to all university students across Vietnam. 
+Finally, this study did not include coping or prevention mea-
+sures. This should be explored further in future studies.
+In conclusion, the prevalence of anxiety among students 
+during the COVID-19 pandemic in Vietnam is relatively high. 
+We also found a strong association between anxiety and various 
+factors, such as sex, types of housemates, COVID-19 exposure/
+infection status, vaccination status, current health status, aca-
+demic performance, and social relationships during the COVID-
+19 pandemic. Given these findings, psychological interventions 
+should be applied to students during and after the COVID-19 
+pandemic and other health crises. Further studies are required 
+to confirm our findings.
+Psychological interventions are the methods in which coun-
+selors use activities or groups of activities to change behaviors, 
+feelings, and emotional states.[42] Psychological interventions are 
+variable, with many different shapes and sizes.[43]
+Acknowledgments
+The authors would like to thank all colleagues and students 
+who participated in this study for their support.
+Author contributions
+Conceptualization: Long Xuan Nguyen, Linh Thi Dieu Dao, 
+Anh Nhat Ta, Ha Thanh Le, Hieu Van Nguyen, Lan Thi Mai 
+Nguyen, Phuong Thi Nguyen, Thang Thi Nguyen, Thanh 
+Chi Ta, Thuong Hiep Nguyen, Tuan Anh Huynh, Nam Tien 
+Pham.
+Data curation: Long Xuan Nguyen, Linh Thi Dieu Dao, Ha 
+Thanh Le, Hieu Van Nguyen, Lan Thi Mai Nguyen, Phuong 
+Thi Nguyen, Thuong Hiep Nguyen, Nam Tien Pham.
+Formal analysis: Long Xuan Nguyen, Ha Thanh Le, Hieu Van 
+Nguyen, Nam Tien Pham.
+Funding acquisition: Long Xuan Nguyen, Linh Thi Dieu Dao.
+Investigation: Linh Thi Dieu Dao, Ha Thanh Le, Hieu Van 
+Nguyen, Phuong Thi Nguyen, Thang Thi Nguyen, Thanh 
+Chi Ta, Thuong Hiep Nguyen, Trang Thi Nguyen, Tuan 
+Anh Huynh, Anh Quynh Hoang, Linh Thi Hanh Duong, Ly 
+Hoang Do, Nam Tien Pham.
+Methodology: Long Xuan Nguyen, Ha Thanh Le, Nam Tien 
+Pham.
+Project administration: Long Xuan Nguyen.
+Resources: Long Xuan Nguyen, Linh Thi Dieu Dao.
+Software: Ha Thanh Le, Nam Tien Pham.
+Supervision: Long Xuan Nguyen, Linh Thi Dieu Dao.
+Visualization: Nam Tien Pham.
+Writing – original draft: Long Xuan Nguyen, Linh Thi Dieu 
+Dao, Anh Nhat Ta, Ha Thanh Le, Lan Thi Mai Nguyen, 
+Phuong Thi Nguyen, Thang Thi Nguyen, Thanh Chi Ta, 
+Thuong Hiep Nguyen, Trang Thi Nguyen, Tuan Anh Huynh, 
+Anh Quynh Hoang, Linh Thi Hanh Duong, Ly Hoang Do, 
+Nam Tien Pham.
+Table 3
+Factors associated with anxiety.
+ 
+PR 
+95% CI 
+ 
+Gender
+ 
+ 
+ 
+  Female
+REF
+ 
+ 
+  Male
+0.87
+[0.86–0.88]
+**
+Types of housemate
+ 
+ 
+ 
+  Living with family
+REF
+ 
+ 
+  Living with relatives
+1.01
+[0.97–1.07]
+ 
+  Living in a dormitory
+1.11
+[1.06–1.15]
+**
+  Living with friends in a boarding house
+1.03
+[1.01–1.06]
+*
+  Living alone in a boarding house
+1.12
+[1.08–1.15]
+**
+COVID-19 exposure/infection status
+ 
+ 
+ 
+  Never had contact with COVID-19 infected person
+REF
+ 
+ 
+  Had COVID-19 infection
+1.18
+[1.07–1.30]
+**
+  Had contact with COVID-19 infected person (F0)
+1.23
+[1.15–1.31]
+**
+  Had contact with COVID-19 infected person (F1)
+1.09
+[1.04–1.13]
+**
+  Had contact with COVID-19 infected person (F2)
+1.07
+[1.04–1.09]
+**
+COVID-19 vaccination status
+ 
+ 
+ 
+  Never received dose
+REF
+ 
+ 
+  First dose administered
+0.97
+[0.95–0.98]
+*
+  Second dose administered
+0.95
+[0.92–0.98]
+*
+Current health status
+ 
+ 
+ 
+  Better
+REF
+ 
+ 
+  Stable
+0.95
+[0.93–0.98]
+*
+  Worse
+1.25
+[1.21–1.30]
+**
+Academic performance
+ 
+ 
+ 
+  Better
+REF
+ 
+ 
+  Stable
+0.97
+[0.95–1.00]
+ 
+  Worse
+1.12
+[1.09–1.16]
+**
+Social relationships
+ 
+ 
+ 
+  Better
+REF
+ 
+ 
+  Stable
+0.94
+[0.92–0.97]
+**
+  Worse
+1.13
+[1.09–1.16]
+**
+N
+5730.00
+ 
+ 
+The ROBUST option in STATA Poisson procedure.
+CI = confidence interval, COVID-19 = coronavirus disease 2019, PR = prevalence ratios.
+*P < .01.
+**P < .001.
+
+===
+PAGE 6:
+6
+Nguyen et al.  •  Medicine (2023) 102:16
+Medicine
+Writing – review & editing: Long Xuan Nguyen, Linh Thi Dieu 
+Dao, Anh Nhat Ta, Ha Thanh Le, Lan Thi Mai Nguyen, 
+Phuong Thi Nguyen, Thang Thi Nguyen, Thanh Chi Ta, 
+Thuong Hiep Nguyen, Trang Thi Nguyen, Tuan Anh Huynh, 
+Linh Thi Hanh Duong, Ly Hoang Do, Nam Tien Pham.
+References
+	 [1]	 Center for Collegiate Mental Health. 2019 Annual Report. 
+Global Health Education and Learning Incubator at Harvard 
+University. 
+2020. 
+Available 
+at: 
+https://ccmh.psu.edu/assets/
+docs/2019-CCMH-Annual-Report_3.17.20.pdf [access date August 
+19, 2022].
+	 [2]	 World Health Organization. WHO Executive Board stresses need for 
+improved response to mental health impact of public health emergencies. 
+2021. Available at: https://www.who.int/news/item/11-02-2021-who- 
+executive-board-stresses-need-for-improved-response-to-men-
+tal-health-impact-of-public-health-emergencies#:~:text=WHO 
+%2FSyria-,WHO%20Executive%20Board%20stresses%20need 
+%20for%20improved%20response%20to,impact%20of 
+%20public%20health%20emergencies&text=The%20importance 
+%20of%20integrating%20mental,meeting%20held%20in 
+%20January%202021 [access date August 19, 2022].
+	 [3]	 Vindegaard N, Benros ME. COVID-19 pandemic and mental health 
+consequences: systematic review of the current evidence. Brain Behav 
+Immun. 2020;89:531–42.
+	 [4]	 Tian F, Li H, Tian S, et al. Psychological symptoms of ordinary Chinese 
+citizens based on SCL-90 during the level I emergency response to 
+COVID-19. Psychiatry Res. 2020;288:112992.
+	 [5]	 Liyanage S, Saqib K, Khan AF, et al. Prevalence of anxiety in university 
+students during the COVID-19 pandemic: a systematic review. Int J 
+Environ Res Public Health. 2021;19:62.
+	 [6]	 Tang JJ, Yu Y, Wilcox HC, et al. Global risks of suicidal behaviours and 
+being bullied and their association in adolescents: school-based health 
+survey in 83 countries. EClinicalMedicine. 2020;19:100253.
+	 [7]	 Jiang N, Siaw Y, Kanit P, et al. Depression, anxiety, and stress during 
+the COVID-19 pandemic: comparison among higher education stu-
+dents in four countries in the Asia-Pacific Region. J Popul Social Stud. 
+2021;29:370–83.
+	 [8]	 Hoque MN, Hannan A, Imran S, et al. Anxiety and its determinants 
+among undergraduate students during E-learning in Bangladesh amid 
+Covid-19. J Affect Disord Rep. 2021;6:100241.
+	 [9]	 Johnson SU, Ulvenes PG, Øktedalen T, et al. Psychometric properties of 
+the general anxiety disorder 7-item (GAD-7) scale in a heterogeneous 
+psychiatric sample. Front Psychol. 2019;10:1713.
+	[10]	 Doan QH, Tran N-N, Than M-H, et al. Depression, anxiety and associ-
+ated factors among frontline hospital healthcare workers in the fourth 
+wave of COVID-19: empirical findings from Vietnam. Trop Med Infect 
+Dis. 2021;7:3.
+	[11]	 Nam PT, Dung NH, Liem NK, et al. Anxiety among the Vietnamese 
+population during the COVID-19 pandemic: implications for social 
+work practice. Soc Work Public Health. 2021;36:142–9.
+	[12]	 Tuan NQ, Phuong ND, Co DX, et al. Prevalence and factors associated 
+with psychological problems of healthcare workforce in Vietnam: find-
+ings from COVID-19 hotspots in the national second wave. Healthcare. 
+2021;9:718.
+	[13]	 Kroenke K, Spitzer RL, Williams JBW, et al. Anxiety disorders in pri-
+mary care: prevalence, impairment, comorbidity, and detection. Ann 
+Intern Med. 2007;146:317–25.
+	[14]	 Pham Tien N, Pham Thanh T, Nguyen Hanh D, et al. Utilization of 
+mental health services among university students in Vietnam. Int J 
+Ment Health. 2021;50:113–35.
+	[15]	 Tien Nam P, Thanh Tung P, Hanh Dung N, et al. Prevalence of 
+smoking among health science students in Vietnam in 2018 and 
+associated factors: a cross-sectional study. Health Psychol Open. 
+2020;7:2055102920967244.
+	[16]	 Zou G. A modified poisson regression approach to prospective studies 
+with binary data. Am J Epidemiol. 2004;159:702–6.
+	[17]	 Barros AJ, Hirakata VN, Alternatives for logistic regression in 
+cross-sectional studies: an empirical comparison of models that directly 
+estimate the prevalence ratio. BMC Med Res Methodol. 2003;3:21.
+	[18]	 Chen W, Qian L, Shi J, et al. Comparing performance between log-bi-
+nomial and robust Poisson regression models for estimating risk ratios 
+under model misspecification. BMC Med Res Methodol. 2018;18:63.
+	[19]	 Gallis JA, Turner EL. Relative measures of association for binary 
+outcomes: challenges and recommendations for the global health 
+researcher. Ann Glob Health. 2019;85:137.
+	[20]	 StataCorp. Stata Statistical Software: Release 14. 2015. College Station, 
+TX: StataCorp LP.
+	[21]	 WHO - Viet Nam. Viet Nam COVID-19 Situation Report #57 (Report 
+as of 29 August 2021, 18:00). 2021. Available at: https://www.who.
+int/docs/default-source/wpro---documents/countries/viet-nam/covid-
+19/viet-nam-moh-who-covid-19-sitrep_29aug2021.pdf?sfvrsn=-
+46d4a4e6_7&download=true [access date August 19, 2022].
+	[22]	 Asif S, Mudassar A, Shahzad TZ, et al. Frequency of depression, anxiety 
+and stress among university students. Pak J Med Sci. 2020;36:971–6.
+	[23]	 Chang J, Yuan Y, Wang D. Mental health status and its influencing fac-
+tors among college students during the epidemic of COVID-19. J South 
+Med Univ. 2020;40:171–6.
+	[24]	 Cam HH, Ustuner Top F, Kuzlu Ayyildiz T. Impact of the COVID-19 
+pandemic on mental health and health-related quality of life among 
+university students in Turkey. Curr Psychol. 2021;41:1033–42.
+	[25]	 AlHadi AN, Alhuwaydi AM. The mental health impact of pandemic 
+COVID-19 crisis on university students in Saudi Arabia and associated fac-
+tors. J Am Coll Health. 2021:1–9. doi:10.1080/07448481.2021.1947839.
+	[26]	 Van Minh H. Proactive and comprehensive community health actions 
+to fight the COVID-19 epidemic: initial lessons from Vietnam. J Rural 
+Health. 2021;37:148.
+	[27]	 Nakhostin-Ansari A, Sherafati A, Aghajani F, et al. Depression and anx-
+iety among Iranian Medical Students during COVID-19 pandemic. Iran 
+J Psychiatry. 2020;15:228–35.
+	[28]	 Basheti IA, Mhaidat QN, Mhaidat HN. Prevalence of anxiety and 
+depression during COVID-19 pandemic among healthcare students in 
+Jordan and its effect on their learning process: a national survey. PLoS 
+One. 2021;16:e0249716.
+	[29]	 Marelli SS, Castelnuovo A, Somma A, et al. Impact of COVID-19 lock-
+down on sleep quality in university students and administration staff. J 
+Neurol. 2020;268:8–15.
+	[30]	 Berman AH, Bendtsen M, Molander O, et al. Compliance with recom-
+mendations limiting COVID-19 contagion among university students 
+in Sweden: associations with self-reported symptoms, mental health 
+and academic self-efficacy. Scand J Public Health. 2022;50:70–84.
+	[31]	 Dadaczynski K, Okan O, Messer M, et al. University students’ sense of 
+coherence, future worries and mental health: findings from the German 
+COVID-HL-survey. Health Promot Int. 2022;37:daab070.
+	[32]	 Klein DN, Kotov R, Bufferd SJ. Personality and depression: explan-
+atory models and review of the evidence. Annu Rev Clin Psychol. 
+2011;7:269–95.
+	[33]	 Browning MHEM, Larson LR, Sharaievska I, et al. Psychological 
+impacts from COVID-19 among university students: risk factors across 
+seven states in the United States. PLoS One. 2021;16:e0245327.
+	[34]	 Tanaka H, Sasazawa Y, Suzuki S, et al. Health status and lifestyle fac-
+tors as predictors of depression in middle-aged and elderly Japanese 
+adults: a seven-year follow-up of the Komo-Ise cohort study. BMC 
+Psychiatry. 2011;11:20.
+	[35]	 Mazza C, Ricci E, Biondi S, et al. A nationwide survey of psychological 
+distress among Italian people during the COVID-19 pandemic: imme-
+diate psychological responses and associated factors. Int J Environ Res 
+Public Health. 2020;17:3165.
+	[36]	 Luo W, Zhong B, Chiu H. Prevalence of depressive symptoms among 
+Chinese university students amid the COVID-19 pandemic: a system-
+atic review and meta-analysis. Epidemiol Psychiatr Sci. 2021;30:e31. 
+doi:10.1017/S2045796021000202.
+	[37]	 Gao J, Zheng P, Jia Y, et al. Mental health problems and social 
+media 
+exposure 
+during 
+COVID-19 
+outbreak. 
+PLoS 
+One. 
+2020;15:e0231924.
+	[38]	 WHO. COVID-19 pandemic triggers 25% increase in prevalence of 
+anxiety and depression worldwide. 2022. Available at: https://www.
+who.int/news/item/02-03-2022-covid-19-pandemic-triggers-25-in-
+crease-in-prevalence-of-anxiety-and-depression-worldwide [access date 
+May 7, 2022].
+	[39]	 Bilge Y, Keles E, Baydili KN. The impact of COVID-19 vaccination on 
+mental health. J Loss Trauma. 2022;27:285–8.
+	[40]	 Othman N, Ahmad F, El Morr C, et al. Perceived impact of contextual 
+determinants on depression, anxiety and stress: a survey with university 
+students. Int J Ment Health Syst. 2019;13:17.
+	[41]	 Eisenberg D, Downs MF, Golberstein E, et al. Stigma and help seek-
+ing for mental health among college students. Med Care Res Rev. 
+2009;66:522–41.
+	[42]	 Hodges LJ, Walker J, Kleiboer AM, et al. What is a psychological interven-
+tion? A metareview and practical proposal. Psychooncology. 2011;20:470–8.
+	[43]	 van Agteren J, Iasiello M, Ali K, et al. Using the intervention mapping 
+approach to develop a mental health intervention: a case study on 
+improving the reporting standards for developing psychological inter-
+ventions. Front Psychol. 2021;12:648678.
+
+===

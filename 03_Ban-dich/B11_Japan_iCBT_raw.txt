@@ -1,0 +1,1103 @@
+PAGE 1:
+Original Paper
+Effectiveness of Unguided Internet-Based Cognitive Behavioral
+Therapy for Subthreshold Social Anxiety Disorder in Adolescents
+and Young Adults: Multicenter Randomized Controlled Trial
+Kazuki Matsumoto1, PhD; Sayo Hamatani2,3, PhD; Kiko Shiga4, PhD; Kiyoko Iiboshi4, PhD; Makiko Kasai5, PhD;
+Yasuhiro Kimura6, MA; Satoshi Yokota7, MA; Katsunori Watanabe8, PhD; Yoko Kubo9, MA; Masayuki Nakamura10,
+MD, PhD
+1Division of Clinical Psychology, Kagoshima University Hospital, Research and Education Assembly Medical and Dental Sciences Area, Kagoshima
+University, Kagoshima, Japan
+2Research Center for Child Mental Development, University of Fukui, Fukui, Japan
+3Department of Child and Adolescent Psychological Medicine, University of Fukui Hospital, Fukui, Japan
+4Department of Clinical Psychology, Faculty of Human Relations, Shigakukan University, Kagoshima, Japan
+5Clinical Psychology Course, Naruto University of Education, Tokushima, Japan
+6Department of Welfare Psychology, Faculty of Welfare, Fukushima College, Fukushima, Japan
+7Kochi Kokusai High School, Kochi, Japan
+8Department of Psychology, Jin-ai University, Fukui, Japan
+9Graduate School of Clinical Psychology, Kagoshima University, Kagoshima, Japan
+10Department of Psychiatry, Graduate School of Medical and Dental Sciences, Kagoshima University, Kagoshima, Japan
+Corresponding Author:
+Kazuki Matsumoto, PhD
+Division of Clinical Psychology, Kagoshima University Hospital
+Research and Education Assembly Medical and Dental Sciences Area
+Kagoshima University
+1-8-35 Sakuragaoka
+Kagoshima, 8908520
+Japan
+Phone: 81 0992655707
+Email: k2782199@kadai.jp
+Abstract
+Background: Social anxiety disorder (SAD) is a common mental disorder in adolescents and young adults. Early intervention
+and support could help prevent the development of full-blown SAD. Considering that adolescents with social anxiety symptoms
+do not prefer face-to-face sessions due to their fear of communicating with therapists, internet-based cognitive behavioral therapy
+(ICBT) was implemented.
+Objective: This study aimed to examine the effectiveness of complete self-help ICBT for subthreshold SAD in high school and
+college students with no history of mental disorders.
+Methods: A multicenter randomized controlled trial designed to demonstrate the objective was conducted from December 2022
+to October 2023. Participants were students enrolled at 6 universities and 1 high school. The intervention was a complete self-help
+ICBT and consisted of 10 text-based sessions that taught cognitive behavioral therapy techniques for social anxiety in youths and
+young adults. The comparison was a no-treatment condition (control group), which was randomly assigned in a 1:1 ratio by a
+computer program. A total of 2 psychological scales were used to assess the severity of social anxiety, and 1 psychological scale
+each was used to measure symptoms of depression, general anxiety, and quality of life.
+Results: In total, 77 students were enrolled as study participants. Through the randomization procedure, 38 participants were
+included in the intervention group, and 39 patients were included in the control group. Results from the analysis of covariance
+with depression as covariates showed that the participants in the intervention group had significantly reduced symptoms of social
+anxiety, depression, and general anxiety compared to the control group. The response rate was 61% (19/31) in the intervention
+group and 24% (9/38) in the control group: odds ratio (OR) 4.97 (95% CI 1.61-16.53; P=.003) in the Fisher exact test. The
+JMIR Pediatr Parent 2024 | vol. 7 | e55786 | p. 1
+https://pediatrics.jmir.org/2024/1/e55786
+(page number not for citation purposes)
+Matsumoto et al
+JMIR PEDIATRICS AND PARENTING
+XSL•FO
+RenderX
+
+===
+PAGE 2:
+recovery rate was 68% (21/31) in the intervention group and 34% (13/38) in the control group: OR 3.95 (95% CI 1.32-12.56;
+P=.008). The OR for the remission ratio was 2.01 (95% CI 0.64-6.60; P=.20) and for the risk of worsening was 0.23 (95% CI
+0.002-1.33; P=.10), but no significant difference was observed.
+Conclusions: The results of this randomized controlled trial show that fully unguided ICBT improves subthreshold SAD in
+adolescents and young adults. Interpretation of the effectiveness in preventing SAD that meets the diagnostic criteria is limited
+by sample size and the follow-up period. Future studies should include more extended observations and larger sample sizes in
+high-risk populations.
+Trial Registration: UMIN-CTR UMIN000050064; https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000057035
+(JMIR Pediatr Parent 2024;7:e55786) doi: 10.2196/55786
+KEYWORDS
+adolescent; social anxiety disorder; general anxiety; adolescents; teens; social anxiety; teenagers; internet-based cognitive
+behavioral therapy; self-help; randomized controlled trials; young adults; cognitive behavioral therapy; anxiety; mental health;
+students; colleges; universities; social socialize; anxious; fear; mobile phone
+Introduction
+Background
+Social anxiety disorder (SAD) is a mental disorder characterized
+by excessive anxiety and embarrassment in social situations
+and fear of being negatively evaluated [1]. The lifetime
+prevalence of SAD is 4% [2], with a prevalence of 2.1% in
+adolescents and young adults [3]. Anxiety disorders, including
+SAD, are the most common psychiatric disorders [4], and mild
+(subthreshold) forms are common and cause significant
+disability [5]. The onset of SAD often occurs in the early to
+midadolescent years [6], with most of the patients having the
+disorder before their 20s [7]. The adolescent years represent a
+life stage where interpersonal relationships become more
+complex, leading to a heightened susceptibility to anxiety in
+social situations. Quite a few young individuals, even those who
+do not meet the diagnostic criteria, are aware of experiencing
+social anxiety at levels below the threshold for diagnosis. For
+example, a previous study reported 280 high school students in
+Japan found that approximately 20% experienced moderate
+social anxiety over a period of 3 years [8]. Another research
+focused on social fears and SAD among Portuguese youth, and
+26% reported with intense self-reported social fear [9]. The
+presence of subthreshold anxiety disorders increases the risk of
+full-blown anxiety disorders by more than 3-fold [10]. Treating
+subthreshold anxiety disorders in a timely manner may prevent
+the onset of full-blown anxiety disorders [11]. When adolescents
+develop SAD, it can negatively affect their interpersonal
+relationships, academic achievement, and career development
+[12]. Intervention for subthreshold SAD is crucial, as it holds
+the potential to prevent these issues from arising in the first
+place.
+Cognitive Behavioral Therapy for SAD
+Cognitive behavioral therapy (CBT) is one of the most effective
+treatment approaches for SAD [13]. By modifying the cognitive
+behavioral cycle that sustains social anxiety [14], a strong
+therapeutic effect can be achieved [15]. The effectiveness of
+face-to-face individual CBT has been established not only for
+adults but also for children and adolescents [16]. However, low
+rates of in-person CBT and poor access make it challenging to
+provide long-term treatment [17]. The low prevalence of CBT
+in Japan (6.2%) can be attributed to a shortage of cognitive
+behavioral therapists and its high costs in terms of time and
+finances [18]. Barriers to mental health treatment have been
+identified via interviews of patients with SAD. These barriers
+include a lack of awareness of available treatment facilities,
+fear of self-disclosure, and financial constraints due to a lack
+of insurance coverage [19]. Additionally, approximately 80%
+of adults with SAD developed the condition during adolescence
+[20]. Adolescence is a period of establishing autonomy, and as
+the scope of social responsibilities expands, young people tend
+to hesitate to seek support from others [21]. Access to
+appropriate treatment remains limited, as many youth do not
+seek help [22]; this problem is further exacerbated by the
+shortage of mental health services available worldwide [23]. In
+resource-limited situations, therapeutic approaches must be
+refined to improve access to treatment. An early intervention
+to address the mental health needs of youth could lead to rapid
+recovery or prevent relapse of mental health problems [24].
+Internet-Based CBT for SAD
+Internet-based CBT (ICBT) is a promising solution that can
+overcome physical barriers and time constraints. Many ICBT
+programs have been implemented, and recently, countries with
+high smartphone penetration and internet use have begun to
+validate the effectiveness of self-help ICBT [25,26]. Self-help
+programs usually have high dropout rates, but the feature of not
+having to interact with the therapist has been reported to help
+reduce the dropout rate of patients with SAD and lead to
+satisfactory treatment completion rates [27,28]. A previous
+study including individuals with nonclinical anxiety disorders
+has also confirmed a significant reduction in anxiety symptoms
+through complete self-help ICBT: 50 cases underwent a
+web-based ICBT for SAD [29]. Furthermore, conducting ICBT
+through mobile devices such as smartphones or tablet PCs, as
+opposed to desktop computers, may enhance therapeutic effects.
+Social situations eliciting social anxiety are often present outside
+the home or private spaces, and intervention through mobile
+devices facilitates the immediate recall and implementation of
+CBT techniques when confronted with these situations.
+Unguided ICBT for individuals with SAD using mobile devices
+has demonstrated a high effect size with a range of Cohen
+d=0.81 when compared to a waitlist group using the Leibowitz
+Social Anxiety Scale (LSAS) total score [28,30].
+JMIR Pediatr Parent 2024 | vol. 7 | e55786 | p. 2
+https://pediatrics.jmir.org/2024/1/e55786
+(page number not for citation purposes)
+Matsumoto et al
+JMIR PEDIATRICS AND PARENTING
+XSL•FO
+RenderX
+
+===
+PAGE 3:
+ICBT for Subthreshold SAD
+However, there is currently no study examining the effectiveness
+of unguided ICBT for subthreshold SAD treatment providers.
+Due to not meeting the diagnostic criteria, individuals with
+subthreshold SAD may have lower motivation and potentially
+higher dropout rates in self-help treatment. Moreover,
+adolescents with mild to moderate symptoms of social anxiety
+may show a small or limited treatment response. On the
+contrary, subthreshold SAD may exhibit a higher average
+treatment response rate, potentially surpassing the 53.6%
+observed in diagnosed SAD [31], as it lacks the functional
+impairments such as depression and avoidance frequently
+observed in patients with SAD [32]. Due to these remaining
+areas of uncertainty, it is inappropriate to simply extrapolate
+evidence from diagnosed SAD when considering the
+applicability of unguided ICBT to subthreshold SAD.
+Objective
+The aim of this study was to assess the effectiveness of
+intervening in widespread subthreshold SAD during adolescence
+and evaluate the acceptance of unguided, completely self-help
+ICBT, taking into consideration dropout.
+Methods
+Ethical Considerations
+The research protocol underwent review and was approved by
+the ethics review board of the Clinical Research Management
+Center at Kagoshima University Hospital (ID 220196).
+Participants received both oral and written explanations of the
+study and were enrolled upon expressing their voluntary written
+consent. For high school participants, written consent was
+obtained from both the participants and their guardians. The
+data collected in this study were anonymized and required a
+code to identify specific individuals.
+Study Design
+This study reports based on the CONSORT (Consolidated
+Standards of Reporting Trials) Statement for Randomized Trials
+of Nonpharmacologic Treatments [33]. The CONSORT
+eHEALTH checklist is presented in Multimedia Appendix 1.
+A multicenter randomized controlled trial (RCT) was conducted
+from November 2022 to October 2023 in Japan. A research
+team (KM, MN, and SH) at Kagoshima University Hospital
+and the University of Fukui designed this RCT. A total of 6
+universities and 1 high school were registered as implementation
+sites in this study. This clinical trial is registered in the
+University Hospital Medical Information Network Center, and
+an overview of the research protocol is publicly available
+(UMIN000050064).
+Participants and Recruitment
+Participants were recruited from 6 universities and 1 high school
+in Japan. In total, 89 students gave informed consent, and the
+eligibility criteria were confirmed. Of them, 77 students met
+the eligibility criteria, and they were enrolled in this clinical
+trial. The participants were randomly assigned to an intervention
+group (ICBT) and a control group (no treatment). Participants
+received coupons worth JP ¥5000 (equivalent to US $31.30) as
+compensation for each of the 2 data submissions. Participants
+assigned to the intervention group received compensation at
+baseline and at the start of the intervention. Those assigned to
+the control group received compensation at baseline and at 10
+weeks. High school participants did not receive remuneration,
+in accordance with their school’s educational policy.
+Eligibility and Exclusion Criteria
+High school or college students between the ages of 15 to 25
+years, with a total LSAS score≥30 or higher [27], and with their
+own smartphone were eligible. The exclusion criteria were
+diagnosis of psychiatric disorders such as depression, history
+of CBT within 2 years, IQ<85, imminent suicidal risk, and the
+presence of advanced diseases such as cancer.
+Intervention
+Participants assigned to the intervention group were instructed
+to complete a specific ICBT program entirely through self-help,
+using their own smartphones. Participants could contact the
+research team if they had any specific questions. It was
+recommended to complete 1 module per week, with automatic
+email reminders sent every Monday morning, prompting
+participants to engage in the program. If a module was not
+completed by Friday, participants received an automatic email
+reminder on Saturday at noon. The first author (KM) developed
+an unguided ICBT program for subthreshold SAD in adolescents
+and young adults. The ICBT program was built on an e-learning
+platform (learningBOX; learningBOX Inc). The ICBT program
+is based on the Clark and Wells [14] model. The ICBT program
+consists of 10 sessions of training on effective CBT components
+for social anxiety. Table 1 shows the treatment modules. The
+participants in the control group received no treatment; they
+also were asked to refrain from accessing information about
+CBT.
+JMIR Pediatr Parent 2024 | vol. 7 | e55786 | p. 3
+https://pediatrics.jmir.org/2024/1/e55786
+(page number not for citation purposes)
+Matsumoto et al
+JMIR PEDIATRICS AND PARENTING
+XSL•FO
+RenderX
+
+===
+PAGE 4:
+Table 1. The modules and tasks of the treatment course.
+Task
+Module
+Developing an idiosyncratic version of the formulation
+Psychoeducation and case-formulation
+1
+Manipulating safety behaviors and self-focused attention with behavioral experi-
+ments
+Examine the function of safety behaviors and self-focused
+attention
+2
+Updating negative distorted self-images by video feedback in participant’s smart-
+phone
+Video feedback to correct negative self-image
+3
+Shifting the focus of attention to external information during a conversation or
+communication
+Attention training in photographic social situations
+4
+Observing the reactions of others immediately after behavioral experiments
+Behavioral experiments to test negative predictions and
+assumptions
+5
+Updating negative assumptions about failures in social situations
+Opinion survey to follow-up behavioral experiments
+6
+Exploring the advantages and disadvantages of worry and rumination
+Handling anticipatory worry and postevent rumination
+7
+Updating negative self-images and impressions
+Image description
+8
+Addressing dysfunctional negative beliefs and assumptions
+Schema work
+9
+Summarizing coping strategies for social anxiety and reflecting on the progress of
+the treatment course
+Prevent relapse
+10
+Outcomes
+Primary Outcome
+The primary outcome was the severity of social anxiety, as per
+the self-rated LSAS score. The LSAS was developed to measure
+social anxiety [27]. The LSAS contains 24 social situations
+related to “fear or anxiety” and “avoidance” that the participants
+are asked to rank on a 4-point scale, with 0=never and 4=severe.
+The Japanese version of the LSAS has demonstrated reliability
+and validity and is widely used in clinical and research settings
+in Japan [34]. Response to the ICBT was defined as a decrease
+in the LSAS by 28% or more [35]. Remission was defined as
+an LSAS total score<35, as specified in a previous ICBT study
+of SAD conducted in Hong Kong [36]. Conversely, to assess
+the risk of exacerbating social anxiety, we defined worsening
+as an increase in LSAS of 28% or more.
+Secondary Outcomes
+The secondary outcomes were the scores on 4 self-administered
+scales: the Social Phobia Inventory (SPIN) is a self-rating scale
+that measures 3 characteristic aspects of SAD: fear, avoidance,
+and physiological arousal [37]. In the Japanese version of the
+SPIN, 17 questions are answered on a 5-point scale, with 0=not
+applicable at all and 4=strongly applicable [38]. The Patient
+Health Questionnaire-9 (PHQ-9) was developed to measure
+depressive symptoms [39,40]. The first 9 items of the PHQ-9
+assess how often various depressive symptoms have occurred
+in the last 2 weeks. The Generalized Anxiety Disorder-7
+(GAD-7) scale was developed to measure anxiety levels [40,41].
+The first 7 items of the GAD-7 assess how often various anxiety
+symptoms have occurred in the last 2 weeks. The EQ-5D-5L
+measures the quality of life (QOL) values for calculating
+quality-adjusted life years (QALYs) in the economic evaluation
+of medical technologies [42,43]. In the EQ-5D-5L, the responder
+answers questions on 5 dimensions directly related to QOL
+(mobility, self-care, usual sensitivity, pain or discomfort, and
+anxiety or depression). Each dimension has 5 levels: no
+problems, slight problems, moderate problems, severe problems,
+and extreme problems. The QALY ranges from 0 to 1.0, with
+0=dead and 1.0=in perfect health. We also calculated the
+recovery rates of the Improved Access to Psychotherapy
+program and improvement (recovery) rates considering total
+scores in SPIN<19 and PHQ-9<10, simultaneously for
+comparison with a UK sample [44].
+Sample Size
+The sample size was calculated to be 78 using G*Power (version
+3.1.9.7; The G*Power Team), which is a free statistical analysis
+software [45,46]. The required sample size of this RCT was
+estimated to be 52, considering a 2-tailed significance level of
+.05, a power of 80%, and an estimated effect size of 0.8 [30].
+The required sample size above was calculated considering the
+50% dropout rate of previous studies with unguided ICBT [47].
+Randomization
+Randomized allocation was conducted by the minimization
+method with a randomization generator [48]. In randomization,
+LSAS total score <50 or ≥50, sex (male or female), and facilities
+were used as adjustment factors.
+Blinding
+Blinding was not implemented.
+Statistical Analyses
+Missing values were imputed using the mice package in R
+(version 4.3.2; R Foundation for Statistical Computing), a free
+statistical software package [49]. Demographic data at baseline
+were described, and between-group characteristics were
+analyzed using independent sample 2-tailed t tests. To
+investigate significant differences in the change of scores
+between groups for both the primary and the secondary outcome
+measures, an analysis of covariance (ANCOVA) was conducted.
+A covariate factor was the severity of depression determined
+by measuring the PHQ-9 total score at baseline. For treatment
+response ratio, remission ratio, and recovery ratio, Fisher exact
+test was performed, and odds ratios (ORs) with 95% CIs were
+calculated. Analyzing the risk of worsening social anxiety
+JMIR Pediatr Parent 2024 | vol. 7 | e55786 | p. 4
+https://pediatrics.jmir.org/2024/1/e55786
+(page number not for citation purposes)
+Matsumoto et al
+JMIR PEDIATRICS AND PARENTING
+XSL•FO
+RenderX
+
+===
+PAGE 5:
+measured in LSAS involved the calculation of risk ratio, relative
+risk reduction (RRR), absolute risk reduction (ARR), and
+number needed to treat (NNT). Statistical analyses were
+implemented by using R (version 4.3.2). A significance level
+of .05 was used for all analyses.
+Results
+Recruitment
+Among the 38 participants assigned to the intervention group,
+4 declined research participation after the preintervention
+assessment. A total of 31 participants completed the ICBT
+program at least once, while 3 did not access the intervention
+program at all. Therefore, the dropout rate from this ICBT
+program was 9% (3/34), the implementation rate of ICBT was
+91% (31/34), and the completion rate was 65% (22/34). Of the
+39 participants assigned to the control group, 1 declined research
+participation, and data on outcomes could not be obtained for
+2 students due to unavailability. Following the predetermined
+analysis plan, the statistical analysis included data from 31
+participants in the intervention group and 38 in the control
+group. Figure 1 shows the participant flow diagram.
+Figure 1. CONSORT (Consolidated Standards of Reporting Trials) flow diagram.
+Demographical and Characteristic Data
+Table 2 shows the demographics, clinical characteristics, and
+baseline outcomes of the participants included in the analyses.
+The level of depression, measured by the PHQ-9, in the control
+group, was significantly higher than the intervention group at
+baseline; however, clinically, both groups fell within the range
+of “mild depressive symptoms” (total score 5-9) [50]. No
+significant differences were observed in other outcomes.
+JMIR Pediatr Parent 2024 | vol. 7 | e55786 | p. 5
+https://pediatrics.jmir.org/2024/1/e55786
+(page number not for citation purposes)
+Matsumoto et al
+JMIR PEDIATRICS AND PARENTING
+XSL•FO
+RenderX
+
+===
+PAGE 6:
+Table 2. Demographical and characteristic data, and the total scores of outcomes at baseline.
+P value (unpaired t test)
+Control group (n=38)
+ICBTa group (n=31)
+Demographical and characteristic data
+N/Ab
+25 (66)
+20 (65)
+Sex (female), n (%)
+.68
+21.39 (2.32)
+21.61 (2.06)
+Age, mean (SD)
+.88
+59.08 (20.77)
+58.38 (19.17)
+LSASc, mean (SD)
+.47
+27.42 (12.50)
+25.39 (10.27)
+SPINd, mean (SD)
+.05
+6.16 (4.29)
+4.87 (4.38)
+PHQ-9e, mean (SD)
+.31
+4.21 (3.30)
+4.13 (4.52)
+GAD-7f, mean (SD)
+.28
+0.889 (0.114)
+0.9160 (0.079)
+EQ-5D-5L, mean (SD)
+aICBT: internet-based cognitive behavioral therapy.
+bN/A: not applicable.
+cLSAS: Liebowitz Social Anxiety Scale.
+dSPIN: Social Phobia Inventory.
+ePHQ-9: Patient Health Questionnaire -9.
+fGAD-7: Generalized Anxiety Disorder-7.
+Outcomes and Estimation
+Primary Outcome
+The reduction in LSAS total score from baseline to
+postintervention assessment was significantly greater in the
+intervention group compared to the control group by 11.62 (95%
+CI 1.67-21.56; F1,66=3.91; P=.02). Figure 2 presents the change
+in LSAS total score from baseline to postintervention
+assessment. The change in LSAS total score from
+preintervention to postintervention assessment in the
+intervention group was significantly larger than that in the
+control group by 9.39 (95% CI 1.31-17.48; F1,66=4.65; P=.01).
+Figure 2. Liebowitz Social Anxiety Scale total score. The graphic presents mean and 95% CI. ICBT: internet-based cognitive behavioral therapy.
+Secondary Outcome
+Table 3 shows the analyses for primary and secondary outcomes
+in ANCOVA.
+JMIR Pediatr Parent 2024 | vol. 7 | e55786 | p. 6
+https://pediatrics.jmir.org/2024/1/e55786
+(page number not for citation purposes)
+Matsumoto et al
+JMIR PEDIATRICS AND PARENTING
+XSL•FO
+RenderX
+
+===
+PAGE 7:
+Table 3. Difference of score in outcomes, P value, and effect size.
+Effect size
+(Hedge g)
+Pvalue (ANCO-
+VA)
+F test (df=2, 66; ANCO-
+VAb)
+Control, mean
+change (SD)
+ICBTa group, mean
+change (SD)
+Outcome and evaluation point
+LSASc
+0.64
+.02
+3.91
+4.16 (17.38)
+16.90 (22.63)
+Baseline to postintervention assessment
+0.66
+.01
+4.65
+N/Ad
+14.90 (14.86)
+Preintervention to postintervention assess-
+ment
+SPINe
+0.80
+.007
+5.39
+2.87 (8.69)
+10.87 (11.40)
+Baseline to postintervention assessment
+0.93
+.01
+7.23
+N/A
+11.19 (9.33)
+Preintervention to postintervention assess-
+ment
+PHQ-9f
+0.22
+.31
+1.19
+–0.32 (2.85)
+0.68 (3.36)
+Baseline to postintervention assessment
+0.49
+.06
+2.96
+N/A
+1.42 (2.98)
+Preintervention to postintervention assess-
+ment
+GAD-7g
+0.09
+.21
+1.61
+–1.03 (3.17)
+0.29 (2.98)
+Baseline to postintervention assessment
+0.32
+.02
+4.15
+N/A
+0.97 (2.83)
+Preintervention to postintervention assess-
+ment
+EQ-5D-5L
+0.003
+.21
+1.61
+0.0079 (0.09)
+–0.0299 (0.09)
+Baseline to postintervention assessment
+0.0004
+.25
+1.41
+N/A
+–0.0301 (0.11)
+Preintervention to postintervention assess-
+ment
+aICBT: internet-based cognitive behavioral therapy.
+bANCOVA: analysis of covariance.
+cLSAS: Liebowitz Social Anxiety Scale.
+dN/A: not applicable.
+eSPIN: Social Phobia Inventory.
+fPHQ-9: Patient Health Questionnaire-9.
+gGAD-7: Generalized Anxiety Disorder-7.
+The reduction in SPIN total score from baseline to
+postintervention assessment was significantly greater in the
+intervention group compared to the control group by 8.05 (95%
+CI 3.02-13.08; F1,66=5.39; P=.007). The change in SPIN total
+score from preintervention to postintervention assessment in
+the intervention group was significantly larger than that in the
+control group by 8.26 (95% CI 3.75-12.78; F1,66=7.23; P=.01).
+The reduction in PHQ-9 total score from baseline to
+postintervention assessment was greater in the intervention
+group compared to the control group by 1.15 (95% CI 0.41-2.70;
+F1,66=1.19; P=.31), not significantly. The change in PHQ-9 total
+score from preintervention to postintervention assessment in
+the intervention group was larger than that in the control group
+by 1.75 (95% CI 0.28-3.23; F1,66=2.96; P=.06), not significantly.
+The reduction in GAD-7 total score from baseline to
+postintervention assessment was greater in the intervention
+group compared to the control group by 1.24 (95% CI –3.05 to
+2.79; F1,66=1.66; P=.21), not significantly. The change in GAD-7
+total score from preintervention to postintervention assessment
+in the intervention group was significantly larger than that in
+the control group by 1.81 (95% CI 0.31-3.33; F1,66=4.15; P=.02).
+The reduction in QALY measured by EQ-5D-5L from baseline
+to postintervention assessment was greater in the intervention
+group compared to the control group by –0.0388 (95% CI –0.09
+to 0.008; F1,66=1.41; P=.25), not significantly. The change in
+QALY measured by EQ-5D-5L from preintervention to
+postintervention assessment in the intervention group was larger
+than that in the control group by 0.0366 (95% CI –0.0120 to
+0.0852; F1,66=1.31; P=.28), not significantly.
+Ancillary Analyses
+Table 4 presents Fisher exact test results for treatment response
+rate, remission rate, recovery rate, and risk ratio. The treatment
+response rate in the intervention group was significantly higher
+at 61% (19/31) compared to the control group at 24% (9/38;
+P=.003; OR 4.97, 95% CI 1.61-16.53). The recovery rate in the
+intervention group was substantially higher at 68% (21/31)
+compared to the control group at 34% (13/38; P=.008; OR 3.95,
+95% CI 1.32-12.56). Regarding the risk of deterioration, the
+JMIR Pediatr Parent 2024 | vol. 7 | e55786 | p. 7
+https://pediatrics.jmir.org/2024/1/e55786
+(page number not for citation purposes)
+Matsumoto et al
+JMIR PEDIATRICS AND PARENTING
+XSL•FO
+RenderX
+
+===
+PAGE 8:
+intervention group had a higher but nonsignificant rate of 6%
+(2/31) compared to the control group 24% (9/38; P=.10).
+Table 4. Results of Fisher exact testa.
+P value
+ORc (95% CI)
+Control group (n=38), n (%)
+ICBTb group (n=31), n (%)
+Result
+.003
+4.97 (1.61-16.53)
+9 (24)
+19 (61)
+Response
+.20
+2.01 (0.64-6.60)
+9 (24)
+12 (39)
+Remission
+.008
+3.95 (1.32-12.56)
+13 (34)
+21 (68)
+Recovery
+.10
+0.23 (0.02-1.23)
+9 (24)
+2 (6)
+Worse
+aDefinition of clinically significant change: response: a decrease in the Liebowitz Social Anxiety Scale (LSAS) by 28% or more; remission: an LSAS
+total score<35; recovery: total scores in Social Phobia Inventory<19 and Patient Health Questionnaire-9<10; and worse: an increase in LSAS of 28%
+or more.
+bICBT: internet-based cognitive behavioral therapy.
+cOR: odds ratio.
+Adverse Events and Harms
+No severe adverse events were reported for this study period.
+Table 5 presents the relative risk, RRR, ARR, and NNT. The
+results of the RRR imply that ICBT reduces the occurrence of
+deterioration events by 73% compared to no treatment in the
+control group. The results of the ARR imply that ICBT can save
+17% more adolescents and young adults from deterioration
+events of social anxiety compared to no treatment. The results
+of the NNT suggest that unguided ICBT could be required for
+5.8 individuals with subthreshold SAD in adolescents and young
+adults to prevent deterioration in symptoms for 1 individual.
+Table 5. Results of worse risk analysesa.
+ICBTb group (worse=6%) and control group (worse=24%) (%)
+Result
+26
+RRc
+73
+RRRd
+17
+ARRe
+6
+NNTf
+aFormula: RR=percentage of worse event ICBT group/control group; RRR=1–RR; ARR=percentage of worse event in control group–ICBT group; and
+NNT=1/ARR.
+bICBT: internet-based cognitive behavioral therapy.
+cRR: relative risk.
+dRRR: relative risk reduction.
+eARR: absolute risk reduction.
+fNNT: number needed to treat.
+Discussion
+Principal Findings
+This study evaluated the effectiveness of unguided ICBT for
+adolescents and young adults with subthreshold SAD through
+a multicenter RCT. The dropout rate in the intervention group
+was 9% (3/34), with an ICBT implementation rate of 91%
+(31/34) and a completion rate of 65% (22/34). The participants
+who conducted ICBT showed a significant reduction in social
+anxiety symptoms compared to those who did not receive
+treatment. Key indicators representing substantial symptom
+improvement, namely, treatment response rate (ICBT: 19/31,
+61% vs control: 9/38, 24%; P=.003) and recovery rate (ICBT:
+21/31, 68% vs control: 13/38, 34%; P=.008), demonstrated
+significant differences between the groups, with the intervention
+group showing better outcomes. No serious adverse events were
+observed in either group. Regarding deterioration events in
+social anxiety symptoms, there were 2 (6%) out of 31 cases in
+the intervention group and 9 (24%) out of 38 cases in the control
+group, but the difference was not statistically significant (P=.10).
+In summary, this study indicates that ICBT is an effective
+intervention approach for improving social anxiety symptoms
+in adolescents and young adults with subthreshold SAD.
+Comparison With Prior Work
+A systematic review and meta-analysis of outcomes from 20
+RCTs on SAD meeting clinical diagnostic criteria demonstrated
+that ICBT is effective in improving social anxiety symptoms,
+with a moderate effect size (Hedge g=0.55) [51]. In this study,
+unguided ICBT was shown to be sufficiently effective for
+subthreshold SAD in adolescents and young adults. This expands
+the evidence on CBT studies for SAD from several perspectives.
+The first perspective is the absence of therapist guidance. Many
+conventional ICBT studies for SAD have included therapist
+guidance [26,30]. Our results suggest that providing unguided
+JMIR Pediatr Parent 2024 | vol. 7 | e55786 | p. 8
+https://pediatrics.jmir.org/2024/1/e55786
+(page number not for citation purposes)
+Matsumoto et al
+JMIR PEDIATRICS AND PARENTING
+XSL•FO
+RenderX
+
+===
+PAGE 9:
+ICBT to students with subthreshold SAD significantly reduces
+social anxiety symptoms measured by LSAS compared to the
+untreated group with a moderate effect size (Hedge
+g=0.66-0.66). The moderate effect size calculated in this RCT
+was comparable to a meta-analysis of 10 RCTs on face-to-face
+CBT for SAD [15]. Most of the participants assigned to the
+intervention group in this RCT achieved the treatment course
+of the Clark and Wells [14] model. Therefore, it appears that,
+even without guidance, significant improvements in social
+anxiety symptoms can be achieved with sufficient engagement.
+Another perspective is related to the acceptance of ICBT for
+adolescents and young adults who do not meet the diagnostic
+criteria of SAD but are at high risk. As an application in clinical
+psychiatric care, a longitudinal cohort study has reported that
+ICBT enhances treatment adherence and reduces social anxiety
+symptoms in adults at risk for the onset of SAD [52]. Since
+SAD tends to manifest in adolescence [6], similar effects for
+subthreshold SAD may be observed in student support services
+in high schools and universities. Given the high likelihood of
+anxiety disorders persisting into adolescence [53], preventing
+the onset of mental disorders through early intervention in
+high-risk individuals is an important endeavor. Therefore, future
+research on subthreshold SAD in adolescents should consider
+conducting longitudinal cohort studies within the context of
+ICBT studies. Additionally, 23.3% of adolescents and young
+adults experience some form of anxiety, and among them, 39.1%
+use some form of health care service [54]. Only 108 (39.1%)
+of the 277 individuals sought medical help for their mental
+health issues, while the remaining 169 (60.9%) did not access
+healthcare. Since young individuals with social anxiety tend to
+avoid seeking help and contacting others [55], unguided ICBT
+may have the potential to meet their needs.
+A previous preliminary study involving 17 adolescents with
+SAD who underwent ICBT reported high satisfaction with
+unguided ICBT through web-based questionnaires and
+semistructured interviews [56]. Participants who received guided
+ICBT in this preliminary investigation particularly appreciated
+the ability to access the ICBT program multiple times, allowing
+for repeated self-help. In this RCT, among the 34 participants
+in the intervention group, the majority (n=31, 91%) performed
+an ICBT module at least once. While 65% (n=31) completed
+the full ICBT course, those who completed the entire treatment
+course—up to module 9, corresponding to the Clark and Wells
+[14] model—accounted for 82% (n=28). According to these
+results, unguided ICBT is probably more acceptable for
+adolescents and young adults with subthreshold SAD.
+Preliminary findings from our results also indicate that receiving
+complete self-help ICBT reduced the worsening of SAD by
+73%. In addition to its short-term efficacy, unguided self-help
+ICBT may potentially prevent deterioration—that is, inhibiting
+the onset of SAD—in youths with subthreshold SAD. Even in
+the absence of guidance from CBT therapists, implementing
+ICBT based on the Clark and Wells [14] model may be
+beneficial for young adults and adolescents with SAD
+symptoms.
+Limitations
+This study has several limitations that may increase the risk of
+bias. First, the primary outcome, the self-reported LSAS, was
+not blinded. The participants assigned to the intervention group
+may have positive expectations regarding the intervention, which
+could potentially affect the outcome. In the future, RCTs with
+blinded assessors should be conducted. Second, the control
+condition in this study was a no-treatment condition. To control
+for biases introduced by receiving the intervention or no
+treatment, future RCTs should consider using sham applications
+as psychological placebos to ensure blinding. Third, the evidence
+obtained in this RCT pertains to short-term effectiveness and
+cannot speak to the medium- to long-term effects. Particularly,
+to assess the effects on preventing the deterioration of social
+anxiety symptoms and preventing the onset of SAD, future
+intervention studies for subthreshold SAD should include a
+randomized cohort study with an observation period of several
+years.
+Conclusions
+This multicenter RCT, conducted in Japan, has demonstrated
+that unguided ICBT can reduce social anxiety symptoms in
+adolescents and young adults with subthreshold SAD. Unguided
+ICBT appears to be a user-friendly intervention approach for
+supporting subthreshold SAD. Complete self-help ICBT may
+be a practical treatment approach that prevents deterioration in
+adolescents and young adults at high risk of developing SAD.
+Future research should incorporate study designs measuring
+long-term outcomes and focus on conducting cohort studies
+aimed at assessing the risk of clinically diagnosed SAD.
+Acknowledgments
+This study was supported by the Platform for All Regions Kyushu and Okinawa for Startup-ecosystem 2022 of the Japan Science
+and Technology Agency. The 2023 Kagoshima University Young Researcher Support Grant (representative: KM) was supported
+for English proofreading and some manuscript subscriptions.
+Conflicts of Interest
+None declared.
+Multimedia Appendix 1
+CONSORT-eHEALTH (V 1.6.1).
+[PDF File (Adobe PDF File), 290 KB-Multimedia Appendix 1]
+JMIR Pediatr Parent 2024 | vol. 7 | e55786 | p. 9
+https://pediatrics.jmir.org/2024/1/e55786
+(page number not for citation purposes)
+Matsumoto et al
+JMIR PEDIATRICS AND PARENTING
+XSL•FO
+RenderX
+
+===
+PAGE 10:
+References
+1.
+Stein MB, Stein DJ. Social anxiety disorder. Lancet. 2008;371(9618):1115-1125. [doi: 10.1016/S0140-6736(08)60488-2]
+[Medline: 18374843]
+2.
+Stein DJ, Lim CCW, Roest AM, de Jonge P, Aguilar-Gaxiola S, Al-Hamzawi A, et al. The cross-national epidemiology of
+social anxiety disorder: data from the World Mental Health Survey Initiative. BMC Med. 2017;15(1):143. [FREE Full text]
+[doi: 10.1186/s12916-017-0889-2] [Medline: 28756776]
+3.
+Tang X, Liu Q, Cai F, Tian H, Shi X, Tang S. Prevalence of social anxiety disorder and symptoms among Chinese children,
+adolescents and young adults: a systematic review and meta-analysis. Front Psychol. 2022;13:792356. [FREE Full text]
+[doi: 10.3389/fpsyg.2022.792356] [Medline: 36072051]
+4.
+Slade T, Johnston A, Oakley Browne MA, Andrews G, Whiteford H. 2007 National Survey of Mental Health and Wellbeing:
+methods and key findings. Aust N Z J Psychiatry. Jul 2009;43(7):594-605. [doi: 10.1080/00048670902970882] [Medline:
+19530016]
+5.
+Haller H, Cramer H, Lauche R, Gass F, Dobos GJ. The prevalence and burden of subthreshold generalized anxiety disorder:
+a systematic review. BMC Psychiatry. 2014;14:128. [FREE Full text] [doi: 10.1186/1471-244X-14-128] [Medline: 24886240]
+6.
+Lijster JMD, Dierckx B, Utens EMWJ, Verhulst FC, Zieldorff C, Dieleman GC, et al. The age of onset of anxiety disorders:
+a meta-analysis. Can J Psychiatry. 2017;62(4):237-246. [FREE Full text] [doi: 10.1177/0706743716640757] [Medline:
+27310233]
+7.
+Peyre H, Barret S, Landman B, Blanco C, Ellul P, Limosin F, et al. Age of onset of social anxiety disorder and psychiatric
+and mental health outcomes: results from a nationally representative study. J Affect Disord. 2022;309:252-258. [doi:
+10.1016/j.jad.2022.04.149] [Medline: 35489557]
+8.
+Hayashi M. A longitudinal study of social anxiety among high school students. Chiba University Repository. URL: https:/
+/opac.ll.chiba-u.jp/da/curator/106510/FHA_1629_Y.pdf [accessed 2023-12-09]
+9.
+Alves F, Figueiredo DV, Vagos P. The prevalence of adolescent social fears and social anxiety disorder in school contexts.
+Int J Environ Res Public Health. 2022;19(19):12458. [FREE Full text] [doi: 10.3390/ijerph191912458] [Medline: 36231757]
+10.
+Karsten J, Hartman CA, Smit JH, Zitman FG, Beekman ATF, Cuijpers P, et al. Psychiatric history and subthreshold
+symptoms as predictors of the occurrence of depressive or anxiety disorder within 2 years. Br J Psychiatry.
+2011;198(3):206-212. [doi: 10.1192/bjp.bp.110.080572] [Medline: 21357879]
+11.
+Morgan AJ, Chittleborough P, Jorm AF. Self-help strategies for sub-threshold anxiety: a Delphi consensus study to find
+messages suitable for population-wide promotion. J Affect Disord. 2016;206:68-76. [FREE Full text] [doi:
+10.1016/j.jad.2016.07.024] [Medline: 27466744]
+12.
+Asher M, Asnaani A, Aderka IM. Gender differences in social anxiety disorder: a review. Clin Psychol Rev. 2017;56:1-12.
+[doi: 10.1016/j.cpr.2017.05.004] [Medline: 28578248]
+13.
+Social anxiety disorder: recognition, assessment and treatment. Clinical guideline CG159. National Institute for Health and
+Care Excellence. URL: https://www.nice.org.uk/guidance/cg159 [accessed 2023-01-29]
+14.
+Clark DM, Wells A. A cognitive model of social phobia. In: Heimberg RG, Liebowitz M, Hope DA, Schneier FR, editors.
+Social Phobia: Diagnosis, Assessment, and Treatment. New York, NY. Guilford Press; 1995:69-93.
+15.
+Carpenter JK, Andrews LA, Witcraft SM, Powers MB, Smits JAJ, Hofmann SG. Cognitive behavioral therapy for anxiety
+and related disorders: a meta-analysis of randomized placebo-controlled trials. Depress Anxiety. 2018;35(6):502-514.
+[FREE Full text] [doi: 10.1002/da.22728] [Medline: 29451967]
+16.
+James AC, Reardon T, Soler A, James G, Creswell C. Cognitive behavioural therapy for anxiety disorders in children and
+adolescents. Cochrane Database Syst Rev. 2020;11(11):CD013162. [FREE Full text] [doi:
+10.1002/14651858.CD013162.pub2] [Medline: 33196111]
+17.
+Bekker M, Griffiths K, Barrett P. Improving accessibility of cognitive behavioural therapy for children and adolescents:
+review of evidence and future directions. Clin Psychol. 2020;21(3):157-164. [FREE Full text] [doi: 10.1111/cp.12099]
+18.
+Takahashi F, Takegawa S, Okumura Y, Suzuki S. Actual condition survey on the implementation of cognitive behavioral
+therapy at psychiatric clinics in Japan. Shinsyu University. URL: http://www.ftakalab.jp/wordpress/wp-content/uploads/
+2011/08/japancbtclinic_report.pdf [accessed 2023-01-29]
+19.
+Olfson M, Guardino M, Struening E, Schneier FR, Hellman F, Klein DF. Barriers to the treatment of social anxiety. Am J
+Psychiatry. 2000;157(4):521-527. [doi: 10.1176/appi.ajp.157.4.521] [Medline: 10739410]
+20.
+Koyuncu A, Ertekin E, Deveci E, Ertekin BA, Yüksel Ç, Çelebi F, et al. Age of onset in social anxiety disorder: relation
+to clinical variables and major depression comorbidity. Ann Clin Psychiatry. 2015;27(2):84-89. [Medline: 25954935]
+21.
+Jurewicz I. Mental health in young adults and adolescents—supporting general physicians to provide holistic care. Clin
+Med. 2015;15(2):151-154. [FREE Full text] [doi: 10.7861/clinmedicine.15-2-151] [Medline: 25824067]
+22.
+Walder N, Berger T, Schmidt SJ. Prevention and treatment of social anxiety disorder in adolescents: protocol for a randomized
+controlled trial of the online guided self-help intervention SOPHIE. JMIR Res Protoc. 2023;12:e44346. [FREE Full text]
+[doi: 10.2196/44346] [Medline: 37342086]
+JMIR Pediatr Parent 2024 | vol. 7 | e55786 | p. 10
+https://pediatrics.jmir.org/2024/1/e55786
+(page number not for citation purposes)
+Matsumoto et al
+JMIR PEDIATRICS AND PARENTING
+XSL•FO
+RenderX
+
+===
+PAGE 11:
+23.
+Patel V, Saxena S, Lund C, Thornicroft G, Baingana F, Bolton P, et al. The Lancet Commission on global mental health
+and sustainable development. Lancet. 2018;392(10157):1553-1598. [doi: 10.1016/S0140-6736(18)31612-X] [Medline:
+30314863]
+24.
+Morgan AJ, Rapee RM, Bayer JK. Prevention and early intervention of anxiety problems in young children: a pilot evaluation
+of Cool Little Kids Online. Internet Interv. 2016;4:105-112. [FREE Full text] [doi: 10.1016/j.invent.2016.05.001] [Medline:
+30135796]
+25.
+Mantani A, Kato T, Furukawa TA, Horikoshi M, Imai H, Hiroe T, et al. Smartphone cognitive behavioral therapy as an
+adjunct to pharmacotherapy for refractory depression: randomized controlled trial. J Med Internet Res. 2017;19(11):e373.
+[FREE Full text] [doi: 10.2196/jmir.8602] [Medline: 29101095]
+26.
+Stolz T, Schulz A, Krieger T, Vincent A, Urech A, Moser C, et al. A mobile app for social anxiety disorder: a three-arm
+randomized controlled trial comparing mobile and PC-based guided self-help interventions. J Consult Clin Psychol.
+2018;86(6):493-504. [doi: 10.1037/ccp0000301] [Medline: 29781648]
+27.
+Stott R, Wild J, Grey N, Liness S, Warnock-Parkes E, Commins S, et al. Internet-delivered cognitive therapy for social
+anxiety disorder: a development pilot series. Behav Cogn Psychother. 2013;41(4):383-397. [FREE Full text] [doi:
+10.1017/S1352465813000404] [Medline: 23676553]
+28.
+Liebowitz MR. Social phobia. Mod Probl Pharmacopsychiatry. 1987;22:141-173. [doi: 10.1159/000414022] [Medline:
+2885745]
+29.
+Klein B, Meyer D, Austin DW, Kyrios M. Anxiety Online: a virtual clinic: preliminary outcomes following completion of
+five fully automated treatment programs for anxiety disorders and symptoms. J Med Internet Res. 2011;13(4):e89. [FREE
+Full text] [doi: 10.2196/jmir.1918] [Medline: 22057287]
+30.
+Boettcher J, Magnusson K, Marklund A, Berglund E, Blomdahl R, Braun U, et al. Adding a smartphone app to internet-based
+self-help for social anxiety: a randomized controlled trial. Comput Hum Behav. 2018;87:98-108. [FREE Full text] [doi:
+10.1016/j.chb.2018.04.052]
+31.
+Loerinc AG, Meuret AE, Twohig MP, Rosenfield D, Bluett EJ, Craske MG. Response rates for CBT for anxiety disorders:
+need for standardized criteria. Clin Psychol Rev. 2015;42:72-82. [doi: 10.1016/j.cpr.2015.08.004] [Medline: 26319194]
+32.
+Chambless DL, Tran GQ, Glass CR. Predictors of response to cognitive-behavioral group therapy for social phobia. J
+Anxiety Disord. 1997;11(3):221-240. [doi: 10.1016/s0887-6185(97)00008-x] [Medline: 9220298]
+33.
+Boutron I, Altman DG, Moher D, Schulz KF, Ravaud P, CONSORT NPT Group. CONSORT statement for randomized
+trials of nonpharmacologic treatments: a 2017 update and a CONSORT extension for nonpharmacologic trial abstracts.
+Ann Intern Med. 2017;167(1):40-47. [FREE Full text] [doi: 10.7326/M17-0046] [Medline: 28630973]
+34.
+Asakura S, Inoue S, Sasaki F, Sasaki Y, Kitagawa N, Inoue T, et al. Consideration of validity and reliability of the Japanese
+version for Liebowitz Social Anxiety Scale (LSAS). Clin Psychiatry. Oct 2002;44(10):1077-1084. [FREE Full text] [doi:
+10.1037/t75069-000]
+35.
+Bandelow B, Baldwin DS, Dolberg OT, Andersen HF, Stein DJ. What is the threshold for symptomatic response and
+remission for major depressive disorder, panic disorder, social anxiety disorder, and generalized anxiety disorder? J Clin
+Psychiatry. 2006;67(9):1428-1434. [doi: 10.4088/jcp.v67n0914] [Medline: 17017830]
+36.
+Thew GR, Kwok APL, Lissillour Chan MH, Powell CLYM, Wild J, Leung PWL, et al. Internet-delivered cognitive therapy
+for social anxiety disorder in Hong Kong: a randomized controlled trial. Internet Interv. 2022;28:100539. [FREE Full text]
+[doi: 10.1016/j.invent.2022.100539] [Medline: 35493437]
+37.
+Connor KM, Davidson JRT, Churchill LE, Sherwood A, Foa E, Weisler RH. Psychometric properties of the Social Phobia
+Inventory (SPIN): new self-rating scale. Br J Psychiatry. 2000;176:379-386. [doi: 10.1192/bjp.176.4.379] [Medline:
+10827888]
+38.
+Nagata T, Nakajima T, Teo AR, Yamada H, Yoshimura C. Psychometric properties of the Japanese version of the Social
+Phobia Inventory. Psychiatry Clin Neurosci. 2013;67(3):160-166. [FREE Full text] [doi: 10.1111/pcn.12037] [Medline:
+23581867]
+39.
+Spitzer RL, Kroenke K, Williams JB, Patient Health Questionnaire Primary Care Study Group. Validation and utility of a
+self-report version of PRIME-MD: the PHQ primary care study. JAMA. 1999;282(18):1737-1744. [doi:
+10.1001/jama.282.18.1737] [Medline: 10568646]
+40.
+Muramatsu K. Patient Health Questionnaire (PHQ-9, PHQ-15) Japanese version and Generalized Anxiety Disorder-7
+Japanese version up to data [Article in Japanese]. Stud Clin Psychol. 2014;7:35-39. [FREE Full text]
+41.
+Spitzer RL, Kroenke K, Williams JBW, Löwe B. A brief measure for assessing generalized anxiety disorder: the GAD-7.
+Arch Intern Med. 2006;166(10):1092-1097. [doi: 10.1001/archinte.166.10.1092] [Medline: 16717171]
+42.
+Brooks R. EuroQol: the current state of play. Health Policy. 1996;37(1):53-72. [doi: 10.1016/0168-8510(96)00822-6]
+[Medline: 10158943]
+43.
+Shiroiwa T, Ikeda S, Noto S, Igarashi A, Fukuda T, Saito S, et al. Comparison of value set based on DCE and/or TTO data:
+scoring for EQ-5D-5L health states in Japan. Value Health. 2016;19(5):648-654. [FREE Full text] [doi:
+10.1016/j.jval.2016.03.1834] [Medline: 27565282]
+44.
+The improving access to psychological therapies manual (formerly known as improving access to psychological therapies):
+The importance of data: monitoring clinical outcomes and activity. National Collaborating Centre for Mental Health. Mar
+JMIR Pediatr Parent 2024 | vol. 7 | e55786 | p. 11
+https://pediatrics.jmir.org/2024/1/e55786
+(page number not for citation purposes)
+Matsumoto et al
+JMIR PEDIATRICS AND PARENTING
+XSL•FO
+RenderX
+
+===
+PAGE 12:
+2024. URL: https://www.england.nhs.uk/wp-content/uploads/2018/06/NHS-talking-therapies-manual-v7-1.pdf [accessed
+2024-06-27]
+45.
+Faul F, Erdfelder E, Lang A, Buchner A. G*Power 3: a flexible statistical power analysis program for the social, behavioral,
+and biomedical sciences. Behav Res Methods. 2007;39(2):175-191. [doi: 10.3758/bf03193146] [Medline: 17695343]
+46.
+Faul F, Erdfelder E, Buchner A, Lang AG. Statistical power analyses using G*Power 3.1: tests for correlation and regression
+analyses. Behav Res Methods. 2009;41(4):1149-1160. [doi: 10.3758/BRM.41.4.1149] [Medline: 19897823]
+47.
+Carlbring P, Nilsson-Ihrfelt E, Waara J, Kollenstam C, Buhrman M, Kaldo V, et al. Treatment of panic disorder: live therapy
+vs. self-help via the Internet. Behav Res Ther. 2005;43(10):1321-1333. [doi: 10.1016/j.brat.2004.10.002] [Medline:
+16086983]
+48.
+UMIN internet data and information system for clinical and epidemiological research, Cloud version. University Hospital
+Medical Information Network (UMIN) Center. URL: https://www.umin.ac.jp/indice/cloud.html [accessed 2024-06-26]
+49.
+van Buuren S, Groothuis-Oudshoorn K. mice: multivariate imputation by chained equations in R. J Stat Software.
+2011;45(3):1-67. [FREE Full text]
+50.
+Kroenke K, Spitzer RL, Williams JB. The PHQ-9: validity of a brief depression severity measure. J Gen Intern Med.
+2001;16(9):606-613. [FREE Full text] [doi: 10.1046/j.1525-1497.2001.016009606.x] [Medline: 11556941]
+51.
+Guo S, Deng W, Wang H, Liu J, Liu X, Yang X, et al. The efficacy of internet-based cognitive behavioural therapy for
+social anxiety disorder: a systematic review and meta-analysis. Clin Psychol Psychother. 2021;28(3):656-668. [doi:
+10.1002/cpp.2528] [Medline: 33142004]
+52.
+El Alaoui S, Hedman E, Kaldo V, Hesser H, Kraepelien M, Andersson E, et al. Effectiveness of internet-based
+cognitive-behavior therapy for social anxiety disorder in clinical psychiatry. J Consult Clin Psychol. 2015;83(5):902-914.
+[doi: 10.1037/a0039198] [Medline: 26009780]
+53.
+Steinsbekk S, Ranum B, Wichstrøm L. Prevalence and course of anxiety disorders and symptoms from preschool to
+adolescence: a 6-wave community study. J Child Psychol Psychiatry. 2022;63(5):527-534. [doi: 10.1111/jcpp.13487]
+[Medline: 34318492]
+54.
+Niermann HC, Voss C, Pieper L, Venz J, Ollmann TM, Beesdo-Baum K. Anxiety disorders among adolescents and young
+adults: prevalence and mental health care service utilization in a regional epidemiological study in Germany. J Anxiety
+Disord. 2021;83:102453. [doi: 10.1016/j.janxdis.2021.102453] [Medline: 34303082]
+55.
+Hur J, DeYoung KA, Islam S, Anderson AS, Barstead MG, Shackman AJ. Social context and the real-world consequences
+of social anxiety. Psychol Med. 2020;50(12):1989-2000. [FREE Full text] [doi: 10.1017/S0033291719002022] [Medline:
+31423954]
+56.
+Leigh E, Nicol-Harper R, Travlou M, Clark DM. Adolescents' experience of receiving internet-delivered cognitive therapy
+for social anxiety disorder. Internet Interv. 2023;34:100664. [FREE Full text] [doi: 10.1016/j.invent.2023.100664] [Medline:
+37720914]
+Abbreviations
+ANCOVA: analysis of covariance
+ARR: absolute risk reduction
+CBT: cognitive behavioral therapy
+CONSORT: Consolidated Standards of Reporting Trials
+GAD-7: Generalized Anxiety Disorder-7
+ICBT: internet-based cognitive behavioral therapy
+LSAS: Leibovitz Social Anxiety Scale
+NNT: number needed to treat
+OR: odds ratio
+PHQ-9: Patient Health Questionnaire-9
+QALY: quality-adjusted life years
+QoL: quality of life
+RCT: randomized controlled trial
+RRR: relative risk reduction
+SAD: social anxiety disorder
+SPIN: Social Phobia Inventory
+JMIR Pediatr Parent 2024 | vol. 7 | e55786 | p. 12
+https://pediatrics.jmir.org/2024/1/e55786
+(page number not for citation purposes)
+Matsumoto et al
+JMIR PEDIATRICS AND PARENTING
+XSL•FO
+RenderX
+
+===
+PAGE 13:
+Edited by G Eysenbach, S Badawy; submitted 24.12.23; peer-reviewed by Ka-Po Wong; comments to author 21.03.24; revised version
+received 25.03.24; accepted 22.04.24; published 22.07.24
+Please cite as:
+Matsumoto K, Hamatani S, Shiga K, Iiboshi K, Kasai M, Kimura Y, Yokota S, Watanabe K, Kubo Y, Nakamura M
+Effectiveness of Unguided Internet-Based Cognitive Behavioral Therapy for Subthreshold Social Anxiety Disorder in Adolescents and
+Young Adults: Multicenter Randomized Controlled Trial
+JMIR Pediatr Parent 2024;7:e55786
+URL: https://pediatrics.jmir.org/2024/1/e55786
+doi: 10.2196/55786
+PMID: 39037759
+©Kazuki Matsumoto, Sayo Hamatani, Kiko Shiga, Kiyoko Iiboshi, Makiko Kasai, Yasuhiro Kimura, Satoshi Yokota, Katsunori
+Watanabe, Yoko Kubo, Masayuki Nakamura. Originally published in JMIR Pediatrics and Parenting (https://pediatrics.jmir.org),
+22.07.2024. This is an open-access article distributed under the terms of the Creative Commons Attribution License
+(https://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium,
+provided the original work, first published in JMIR Pediatrics and Parenting, is properly cited. The complete bibliographic
+information, a link to the original publication on https://pediatrics.jmir.org, as well as this copyright and license information must
+be included.
+JMIR Pediatr Parent 2024 | vol. 7 | e55786 | p. 13
+https://pediatrics.jmir.org/2024/1/e55786
+(page number not for citation purposes)
+Matsumoto et al
+JMIR PEDIATRICS AND PARENTING
+XSL•FO
+RenderX
+
+===

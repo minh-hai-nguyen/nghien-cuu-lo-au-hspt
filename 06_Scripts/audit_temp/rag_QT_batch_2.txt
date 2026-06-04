@@ -1,0 +1,211 @@
+============================================================
+[QT012] RAG SUMMARY:
+Tóm tắt bài QT012 — Gánh nặng 10 rối loạn tâm thần tại ASEAN 1990–2021
+Tên công trình, tác giả, năm, mẫu khảo sát, đối tượng, khách thể, địa bàn khảo sát
+Công trình "Epidemiology and burden of 10 mental disorders across the Association of Southeast Asian Nations, 1990–2021: findings from the Global Burden of Disease Study 2021" của GBD 2021 ASEAN Collaborators (2025), đăng trên The Lancet Public Health vol. 10, tr. e480, 06/2025. DOI 10.1016/S2468-2667(25)00098-2. Đây là phân tích đại diện cho 10 quốc gia ASEAN (Brunei, Campuchia, Indonesia, Lào, Malaysia, Myanmar, Philippines, Singapore, Thái Lan, Việt Nam) về dịch tễ 10 rối loạn tâm thần, sử dụng dữ liệu GBD 2021 với DisMod-MR 2.1 (hồi quy siêu phân tích Bayes).
+Phương pháp nghiên cứu
+Phân tích dữ liệu GBD 2021 cho 10 rối loạn: trầm cảm, lo âu, lưỡng cực, tâm thần phân liệt, tự kỷ, rối loạn hành vi, ADHD, rối loạn ăn uống, khuyết tật trí tuệ phát triển tự phát và các rối loạn tâm thần khác. Định nghĩa ca bệnh theo DSM hoặc ICD. Các chỉ số chính: YLDs, YLLs, DALYs với khoảng bất định 95% UIs. Phân tích theo tuổi, giới tính, năm (1990–2021) và địa điểm (10 quốc gia ASEAN).
+Kết quả nghiên cứu
+Vào năm 2021, tổng cộng có 80,4 triệu (UI 73,8–87,2) trường hợp rối loạn tâm thần tại ASEAN — tăng 70% kể từ 1990. Gánh nặng DALYs đạt 11,2 triệu (UI 8,54–14,3) năm sống điều chỉnh theo khuyết tật. Tỷ lệ hiện mắc rối loạn tâm thần khác nhau giữa các quốc gia: Việt Nam 10,1%, Malaysia 13,2%.
+Phát hiện đáng chú ý: Trong nhóm tuổi 10–14, rối loạn tâm thần chiếm 16,3% tổng DALYs — ghi nhận VTN châu Á là nhóm dễ tổn thương đặc biệt.
+Phản biện
+Điểm mạnh: Đây là phân tích GBD 2021 CẬP NHẬT NHẤT cho khu vực ASEAN — 10 quốc gia, giai đoạn 1990–2021, sử dụng DisMod-MR 2.1 là mô hình hoá tiên tiến nhất. Lancet Public Health Q1 IF ≈ 40. Cung cấp bằng chứng cơ sở CHO CHÍNH SÁCH SKTT khu vực. Tác động chính sách: xác định VTN 10–14 tuổi là nhóm ưu tiên.
+Hạn chế: (1) Dữ liệu đầu vào cho ASEAN (đặc biệt VN, Lào, Campuchia, Myanmar, Brunei) còn hạn chế, dẫn đến uncertainty intervals rộng; (2) Không tách biệt rối loạn lo âu với trầm cảm theo chi tiết; (3) Chưa phân tích các yếu tố quyết định (determinants); (4) Phụ thuộc vào chất lượng dữ liệu ICD/DSM địa phương — các nước như Lào, Myanmar có hệ thống báo cáo yếu.
+Hướng nghiên cứu tiếp theo
+Cần bổ sung dữ liệu sơ cấp (khảo sát đại diện quốc gia) cho VN, Lào, Campuchia — hiện VN có V-NAMHS 2022 là nguồn tốt nhất. Tách biệt phân tích lo âu vs trầm cảm. Phân tích các yếu tố quyết định xã hội (SDH) và đánh giá hiệu quả chính sách SKTT khu vực.
+Đánh giá chất lượng: ⭐⭐⭐⭐⭐ Rất cao. Lancet Q1 IF ≈ 40, phương pháp GBD chuẩn, dữ liệu khu vực cập nhật nhất, ý nghĩa chính sách cao.
+Chỉ số | Giá trị 2021 | Ghi chú
+Tổng số ca mắc | 80,4 triệu (73,8–87,2) | ↑ 70% so với 1990
+Tổng DALYs | 11,2 triệu (8,54–14,3) | Chiếm gánh nặng lớn ở VTN
+Tỷ lệ Việt Nam | 10,1 % | Thấp hơn Malaysia (13,2 %)
+Nhóm 10–14 tuổi | 16,3 % DALYs | VTN là nhóm dễ tổn thương
+
+============================================================
+[QT013] RAG SUMMARY:
+Tóm tắt bài QT013 — Can thiệp trường học phòng ngừa lo âu và trầm cảm tại LMIC
+Tên công trình, tác giả, năm, mẫu khảo sát, đối tượng, khách thể, địa bàn khảo sát
+Công trình "School-based interventions to prevent anxiety and depression in children and adolescents in low- and middle-income countries: A systematic review" của Yin SZD, Low MK, Mishu MP (2025, University of York UK), đăng trên PLOS ONE vol. 20(4), e0316825. DOI 10.1371/journal.pone.0316825. Open Access. Tổng quan hệ thống các RCT can thiệp phòng ngừa lo âu và trầm cảm tại trường học ở các nước thu nhập thấp–trung bình (LMIC).
+Phương pháp nghiên cứu
+Tìm kiếm hệ thống Ovid MEDLINE, Embase, PsycINFO, CENTRAL cho bài báo xuất bản từ 2018 đến tháng 7/2023. Bao gồm các RCT đánh giá can thiệp trường học cho trẻ em/VTN 4–18 tuổi tại LMIC. Chỉ nhận nghiên cứu tiếng Anh. Kết quả chính: triệu chứng lo âu và/hoặc trầm cảm. Đánh giá nguy cơ thiên vị (RoB) cho tất cả RCT được đưa vào.
+Kết quả nghiên cứu
+Từ 3.863 bài xác định được, chỉ 6 nghiên cứu với 1.587 học sinh đáp ứng tiêu chí. Trong 4 nghiên cứu đánh giá phòng ngừa CẢ lo âu và trầm cảm: CHỈ 1 NGHIÊN CỨU cho thấy giảm triệu chứng LO ÂU có ý nghĩa. Trong 4 nghiên cứu đánh giá trầm cảm: 3/4 NGHIÊN CỨU báo cáo cải thiện trầm cảm có ý nghĩa. Tất cả nghiên cứu đều được phân loại có NGUY CƠ THIÊN VỊ CAO hoặc có một số lo ngại (GRADE very low).
+LƯU Ý QUAN TRỌNG: 0 nghiên cứu từ Việt Nam trong 6 RCT được tổng hợp — phù hợp với khẳng định "0 RCT VN cho VTN" trong v2, nhưng cần được cập nhật với Happy House Tran 2023 là RCT đầu tiên của VN.
+Phản biện
+Điểm mạnh: SR đầu tiên tập trung vào LMIC cho phòng ngừa lo âu/trầm cảm tại trường — rất phù hợp bối cảnh Việt Nam. PLOS ONE Open Access. Đánh giá RoB nghiêm ngặt. Thông báo rõ: chất lượng bằng chứng hiện tại THẤP.
+Hạn chế: (1) Chỉ 6 RCT — quá ít để rút kết luận chắc chắn; (2) Chỉ 2018–2023 — có thể bỏ lỡ nghiên cứu cũ; (3) Chỉ tiếng Anh — bỏ lỡ bài tiếng Trung, Tây Ban Nha; (4) Không tính Happy House VN 2023 (có thể đã nằm trong pipeline khi bài được viết); (5) Không phân tích theo đặc điểm can thiệp (universal vs targeted, duration).
+Hướng nghiên cứu tiếp theo
+Cần RCT chất lượng cao hơn với RoB thấp tại LMIC. Việt Nam cần RCT chuyên biệt cho LO ÂU (không chỉ trầm cảm — Happy House chủ yếu đo trầm cảm). So sánh universal vs targeted. Tích hợp với chương trình trường học sẵn có.
+Đánh giá chất lượng: ⭐⭐⭐⭐ Cao. SR đầu tiên LMIC, Q1 Open Access, quan trọng cho định hướng nghiên cứu VN. Hạn chế: bằng chứng nền mỏng.
+Outcome | Số NC | Cải thiện | Kết luận
+Lo âu | 4 | 1/4 (25%) | Không rõ hiệu quả
+Trầm cảm | 4 | 3/4 (75%) | Có tiềm năng
+Chất lượng bằng chứng | 6 | Tất cả RoB cao | GRADE rất thấp
+
+============================================================
+[QT014] RAG SUMMARY:
+Tóm tắt bài QT014 — Các yếu tố góp phần gia tăng lo âu ở VTN: Tổng quan tường thuật
+Tên công trình, tác giả, năm, mẫu khảo sát, đối tượng, khách thể, địa bàn khảo sát
+Công trình "Contributing Factors to the Rise in Adolescent Anxiety and Associated Mental Health Disorders: A Narrative Review of Current Literature" của Anderson, T.L., Valiauga, R., Tallo, C., Hong, C.B., Manoranjithan, S., Domingo, C., Pilitsis, J.G. và cộng sự (2025), đăng trên Journal of Child and Adolescent Psychiatric Nursing vol. 38, e70009. DOI 10.1111/jcap.70009. Tác giả từ Mỹ (Rowan University School of Osteopathic Medicine). Là tổng quan tường thuật 61 bài về yếu tố góp phần gia tăng lo âu VTN.
+Phương pháp nghiên cứu
+Tổng quan tường thuật (narrative review) — KHÔNG phải SR/MA. Tìm kiếm PubMed, ScienceDirect, Medline. Chọn các bài gốc và review thảo luận về gia tăng lo âu ở Thế hệ Z (sinh 1997–2012). Phân tích theo 4 nhóm yếu tố: áp lực học tập, ảnh hưởng MXH, động lực gia đình, các yếu tố gây căng thẳng xã hội rộng lớn. Đề xuất can thiệp 3 cấp: lâm sàng, giáo dục, cộng đồng.
+Kết quả nghiên cứu
+Phát hiện chính:
+• Tỷ lệ lo âu VTN 13–18 tuổi là 31,9 % (Daly 2022 — trích dẫn) — Thế hệ Z CAO NHẤT so với 3 thế hệ trước đó.
+• 48/52 nghiên cứu xác nhận tương quan áp lực học tập → SKTT kém (Steare và cộng sự 2023 — trích dẫn).
+• MXH ảnh hưởng lo âu qua nhiều cơ chế: so sánh xã hội, bắt nạt mạng, FOMO, thiếu ngủ.
+• Gia đình: cha mẹ lo âu truyền sang con (trans-generational transmission), kỳ vọng quá cao, ít tương tác cá nhân.
+• Yếu tố xã hội: COVID-19, bất ổn kinh tế, biến đổi khí hậu, thông tin về khủng hoảng toàn cầu.
+Đề xuất can thiệp đa tầng:
+Phản biện
+Điểm mạnh: Tổng quan 61 bài bao quát nhiều yếu tố, viết dễ hiểu, phù hợp đào tạo. Tiếp cận đa tầng rõ ràng. Journal of Child and Adolescent Psychiatric Nursing là tạp chí ứng dụng tốt.
+Hạn chế: (1) NARRATIVE REVIEW, KHÔNG phải SR/MA — không có tìm kiếm hệ thống hay đánh giá chất lượng chặt chẽ (Green và cộng sự 2006); (2) Dữ liệu chủ yếu từ phương Tây (Mỹ, UK, Úc) — có thể không generalizable cho châu Á (Polanczyk 2015); (3) Không có phân tích định lượng — chỉ mô tả; (4) Khả năng thiên vị tác giả cao do tự chọn bài.
+Hướng nghiên cứu tiếp theo
+Cần SR + MA (không phải narrative) để đánh giá định lượng hiệu quả các yếu tố. Nghiên cứu dọc theo Thế hệ Z VN. So sánh Việt Nam với các nước phương Tây về các yếu tố tương đồng và khác biệt.
+Đánh giá chất lượng: ⭐⭐⭐ Trung bình–Khá. Tổng quan tường thuật — hữu ích để có bức tranh tổng thể nhưng thiếu bằng chứng định lượng.
+Tầng can thiệp | Biện pháp | Ví dụ
+Lâm sàng | CBT, SSRI, therapist-guided | CAMS Walkup 2008
+Giáo dục | Trường học, kỹ năng ứng phó | Happy House VN 2023
+Cộng đồng | Chính sách SKTT, giảm kỳ thị | WHO 2022 framework
+
+============================================================
+[QT015] RAG SUMMARY:
+Tóm tắt bài QT015 — Yếu tố ảnh hưởng trầm cảm HS THCS/THPT miền Đông Trung Quốc
+Tên công trình, tác giả, năm, mẫu khảo sát, đối tượng, khách thể, địa bàn khảo sát
+Công trình "Influencing factors and changing trends of depressive symptoms in middle and high school students in East China from 2019 to 2023" của Zhu và cộng sự (2025), đăng trên BMC Public Health vol. 25, article 17. DOI 10.1186/s12889-024-21252-8. Khảo sát cắt ngang trên 9.831 học sinh THCS và THPT tại Suzhou, miền Đông Trung Quốc. Sử dụng PHQ-9 (Patient Health Questionnaire-9 mục) đánh giá trầm cảm.
+Phương pháp nghiên cứu
+Khảo sát cắt ngang lặp lại 2019, 2021, 2023 (trước, trong và sau COVID) trên 9.831 HS tại Suzhou. Sử dụng PHQ-9 với 2 ngưỡng cắt: ≥5 "có thể có trầm cảm" (possible), ≥10 "chắc chắn có trầm cảm" (definite). Phân tích hồi quy logistic đa biến xác định yếu tố nguy cơ và bảo vệ.
+Kết quả nghiên cứu
+Tỷ lệ: 14,5 % HS có triệu chứng trầm cảm "có thể" và 5,8 % "chắc chắn". Tổng 20,3 % có triệu chứng trầm cảm — tương đương với nhiều NC khác ở Trung Quốc.
+PHÁT HIỆN THEN CHỐT: Ngủ < 5 giờ có AOR = 13,71 cho "trầm cảm chắc chắn" — yếu tố nguy cơ mạnh nhất được phát hiện. Đây là con số có ý nghĩa thực hành cao cho can thiệp — cải thiện giấc ngủ có thể là chiến lược phòng ngừa hiệu quả nhất.
+Phản biện
+Điểm mạnh: Cỡ mẫu rất lớn (n = 9.831), so sánh 3 thời điểm 2019–2023 bao gồm cả giai đoạn COVID. BMC Public Health Q1. Phát hiện AOR=13,71 cho giấc ngủ < 5h là CON SỐ ĐÁNG NHỚ — dễ ứng dụng cho can thiệp (cải thiện giấc ngủ + hoạt động ngoài trời).
+Hạn chế: (1) Chỉ tại Suzhou (miền Đông, đô thị phát triển) — không đại diện nông thôn hay miền Tây TQ; (2) PHQ-9 là sàng lọc, không phải chẩn đoán lâm sàng; (3) Chỉ đo trầm cảm, thiếu lo âu (cần GAD-7 song song); (4) 3 thời điểm là 3 nhóm khác nhau, không phải cùng nhóm theo dõi dọc.
+Hướng nghiên cứu tiếp theo
+Lặp lại tại VN với HS THCS/THPT — đặc biệt kiểm tra vai trò giấc ngủ (VN có Hoàng Trung Học 2025 đã ghi nhận giấc ngủ β = −0,149). Nghiên cứu dọc theo dõi cùng nhóm qua COVID. RCT can thiệp tăng giấc ngủ + hoạt động ngoài trời tại trường.
+Đánh giá chất lượng: ⭐⭐⭐⭐ Cao. BMC Q1, mẫu lớn, phát hiện AOR=13,71 giấc ngủ rất quan trọng cho thực hành.
+Yếu tố | AOR | KTC 95 % | Diễn giải
+Ngủ < 5 giờ (chắc chắn) | 13,710 | — | NGUY CƠ RẤT MẠNH NHẤT
+Gia đình tái hôn | 1,837 | — | Nguy cơ cao
+Gia đình đơn thân | 1,434 | — | Nguy cơ
+HS THPT (vs THCS) | 1,409 | — | Nguy cơ
+Nam giới (vs nữ) | 0,803 | — | Bảo vệ
+Hoạt động ngoài trời > 1h/ngày | 0,666–0,785 | — | Bảo vệ rõ ràng
+
+============================================================
+[QT016] RAG SUMMARY:
+Tóm tắt bài QT016 — SKTT VTN Nam Á: Tổng quan hệ thống
+Tên công trình, tác giả, năm, mẫu khảo sát, đối tượng, khách thể, địa bàn khảo sát
+Công trình "Nature, prevalence, and determinants of mental health problems among South Asian adolescents: A systematic review" của Mudunna và cộng sự (2025), đăng trên The Lancet Regional Health — Southeast Asia 2025. DOI 10.1016/S2772-3682(25)00003-4. Tổng quan hệ thống về bản chất, tỷ lệ và các yếu tố quyết định của các vấn đề SKTT ở vị thành niên (10–19 tuổi) tại 8 nước Nam Á. Nam Á chiếm 24 % dân số thế giới, chủ yếu là các nước thu nhập thấp và trung bình (LMIC).
+Phương pháp nghiên cứu
+Tìm kiếm hệ thống trên MEDLINE, PsycINFO, Embase, CINAHL, Global Health theo hướng dẫn PRISMA. Tiêu chí: nghiên cứu về VTN 10–19 tuổi tại 8 nước Nam Á (Ấn Độ, Pakistan, Bangladesh, Nepal, Sri Lanka, Bhutan, Maldives, Afghanistan). Đánh giá chất lượng phương pháp. KHÔNG thực hiện meta-analysis do tính không đồng nhất quá cao.
+Kết quả nghiên cứu
+Tỷ lệ hiện mắc vấn đề SKTT dao động RẤT LỚN từ 1,5 % đến 81,6 % — do khác biệt về phương pháp và quốc gia. Trầm cảm và lo âu là phổ biến nhất.
+Các yếu tố quyết định chính:
+Phản biện
+Điểm mạnh: Tổng quan đầu tiên tập trung vào VTN Nam Á — khu vực chiếm 24 % dân số thế giới nhưng ít được nghiên cứu. Đăng trên Lancet Regional Health — tạp chí uy tín cao. Bao phủ 8 quốc gia với đa dạng văn hoá, tôn giáo, kinh tế. Xác định rõ khoảng trống: tỷ lệ dao động 1,5–81,6 % do thiếu chuẩn hoá phương pháp.
+Hạn chế: (1) KHÔNG có meta-analysis do heterogeneity quá cao; (2) Phần lớn nghiên cứu từ Ấn Độ — thiếu dữ liệu từ Afghanistan, Bhutan, Maldives; (3) Tập trung Nam Á — không bao gồm Đông Nam Á (VN, Indonesia, Philippines); (4) Không phân biệt rõ lo âu và trầm cảm trong báo cáo tổng hợp.
+Hướng nghiên cứu tiếp theo
+Mở rộng sang Đông Nam Á để so sánh liên khu vực (phối hợp với GBD 2021 ASEAN Collaborators 2025 = QT012). Chuẩn hoá công cụ đo lường xuyên quốc gia Nam Á. RCT can thiệp phù hợp văn hoá tại trường học Nam Á. Việt Nam có thể học được từ mô hình De Silva Sri Lanka (QT038) về CBT trường học LMIC Nam Á.
+Đánh giá chất lượng: ⭐⭐⭐⭐ Cao. SR đầu tiên Nam Á, Lancet Regional Health Q1, phản ánh khoảng trống quan trọng. Hạn chế: heterogeneity quá cao.
+Nhóm yếu tố | Các yếu tố cụ thể
+Giới tính | Nữ giới có nguy cơ cao hơn nam
+Kinh tế – xã hội | Nghèo đói, bất bình đẳng
+Gia đình | Bạo lực gia đình, mất cha mẹ, thiếu hỗ trợ xã hội
+Trường học | Bắt nạt, áp lực học tập
+Văn hoá | Kỳ thị SKTT, rào cản văn hoá ngăn tiếp cận dịch vụ
+
+============================================================
+[QT017] RAG SUMMARY:
+Tóm tắt bài QT017 — Gia tăng trầm cảm thanh niên Philippines 2013 – 2021
+Tên công trình, tác giả, năm, mẫu khảo sát, đối tượng, khách thể, địa bàn khảo sát
+Công trình "Rising depressive symptoms and widening sociodemographic inequalities among Filipino young people: findings from two nationally representative cross-sectional surveys" của Puyat và cộng sự (2025), đăng trên Cambridge Prisms: Global Mental Health 2025. DOI 10.1017/gmh.2025.39. Phân tích dữ liệu đại diện quốc gia từ 2 khảo sát Thanh niên và Vị thành niên Philippines (YAFS — Young Adult Fertility and Sexuality Survey): YAFS 2013 (n = 19.178) và YAFS 2021 (n = 10.949), tổng cộng n = 30.127.
+Phương pháp nghiên cứu
+Phân tích dữ liệu thứ cấp từ 2 khảo sát đại diện quốc gia Philippines. Sử dụng CES-D-11 (Center for Epidemiologic Studies Depression Scale, phiên bản 11 mục) để ước tính tỷ lệ triệu chứng trầm cảm trung bình đến nặng (MSDS — Moderate to Severe Depressive Symptoms). So sánh 2013 vs 2021 theo các nhóm nhân khẩu xã hội: giới tính, tầng kinh tế, trình độ học vấn, SOGIE (Sexual Orientation, Gender Identity and Expression).
+Kết quả nghiên cứu
+Phát hiện KHÔNG MẤY LẠC QUAN: Tỷ lệ MSDS TĂNG HƠN GẤP ĐÔI từ 9,6 % (2013) lên 20,9 % (2021) — tăng 118 % trong 8 năm. Bất bình đẳng nhân khẩu xã hội MỞ RỘNG đáng kể.
+Các nhóm dễ tổn thương nhất (LGBTQ+, không đi học) có mức tăng cao nhất — bất bình đẳng mở rộng trong gần 1 thập kỷ.
+Phản biện
+Điểm mạnh: Cỡ mẫu rất lớn (n = 30.127 tổng cộng), đại diện quốc gia Philippines — hiếm có ở Đông Nam Á. So sánh 2 thời điểm 2013 vs 2021 cho thấy xu hướng tăng gấp đôi — bằng chứng mạnh. Phân tích theo SOGIE rất tiến bộ, ít nghiên cứu ĐNA nào làm. Sử dụng khung SDH (Social Determinants of Health).
+Hạn chế: (1) CES-D-11 sàng lọc, không chẩn đoán — tỷ lệ thực có thể khác nhiều; (2) Hai khảo sát khác nhau (YAFS4 2013 vs YAFS5 2021) — không phải theo dõi cùng nhóm, có thể có khác biệt phương pháp; (3) Chỉ đo trầm cảm, không đo lo âu; (4) Philippines có đặc thù văn hoá Kitô giáo + dân số trẻ — có thể không generalizable cho VN (Phật giáo + dân số già hơn).
+Hướng nghiên cứu tiếp theo
+Bổ sung GAD-7 đo lo âu song song với CES-D trong khảo sát tiếp theo. Nghiên cứu dọc theo dõi cùng nhóm thanh niên qua nhiều năm. So sánh với VN (V-NAMHS 2022), Indonesia, Thái Lan để đánh giá xu hướng khu vực ASEAN. Lưu ý về SOGIE — VN cũng nên phân tích nhóm này để đánh giá bất bình đẳng.
+Đánh giá chất lượng: ⭐⭐⭐⭐ Cao. Global Mental Health (Cambridge Q1), mẫu lớn, so sánh 2 thời điểm, phân tích SDH tiến bộ. Phát hiện LGBTQ+ × 3,3 đặc biệt đáng chú ý.
+Nhóm dân số | 2013 (%) | 2021 (%) | Mức tăng
+Tổng thể | 9,6 % | 20,9 % | × 2,2
+Nữ | 10,8 % | 24,3 % | × 2,3
+Không thuộc giới chuẩn tắc (LGBTQ+) | 9,7 % | 32,3 % | × 3,3
+Nhóm nghèo nhất | 12,3 % | 25,1 % | × 2,0
+Không đi học | 8,5 % | 26,5 % | × 3,1
+
+============================================================
+[QT018] RAG SUMMARY:
+QT018 — Tóm tắt bài nghiên cứu
+Phương pháp nghiên cứu
+• Systematic review + meta-analysis (random-effects)
+• Mẫu: 38 nghiên cứu nguyên bản gộp trong MA (tổng n không báo trong abstract)
+• Công cụ: Random-effects MA; Comprehensive Meta-Analysis v2.0; I² heterogeneity
+Kết quả nghiên cứu
+• Tỷ lệ SAD toàn cầu TRẺ EM: 4,7 %
+• Tỷ lệ SAD toàn cầu VỊ THÀNH NIÊN: 8,3 %
+• (Tỷ lệ ở thanh niên — số cụ thể cần verify chương kết quả)
+• 38 nghiên cứu, random-effects — có tính heterogeneity qua I²
+Điểm mạnh
+• Search 6 databases lớn (toàn diện)
+• Tách theo 3 nhóm tuổi (children / adolescents / youth) — đặc biệt hữu ích cho đề tài HS THCS/THPT
+• J Prevention — tạp chí peer-reviewed có IF
+• Methodology MA chuẩn (random-effects, Comprehensive MA v2.0)
+Hạn chế
+• Nhóm tác giả Iran — cần check conflict of interest / selection bias ngôn ngữ
+• Số liệu SAD children 4,7 % thấp hơn nhiều NC cá thể (ví dụ Jefferies 2020 VN 30,7 %) — có thể do heterogeneity cao hoặc hợp nhất phương pháp
+• Chưa đọc chi tiết forest plot — không rõ heterogeneity I²
+• Abstract không nêu rõ số cỡ mẫu tổng (chỉ số NC)
+Phản biện ngắn
+MA global về SAD ở trẻ em/VTN — QUAN TRỌNG để có baseline toàn cầu so sánh VN. 4,7 % children + 8,3 % adolescents là ước tính MA "chặt" nhưng thấp hơn các NC cắt ngang VN (Jefferies 2020: VN 30,7 %). Chênh lệch lớn đáng chú ý — có thể do: (1) SIAS-17 đo lo âu tương tác khác với chẩn đoán SAD đầy đủ; (2) heterogeneity giữa các NC trong MA.
+Hướng nghiên cứu tiếp theo
+Subgroup analysis theo khu vực (LMIC vs HIC, Đông Á vs Nam Á vs Đông Nam Á). Đối chiếu với Jefferies 2020 (7 nước). Verify số cụ thể "youth" từ chương kết quả.
+Đánh giá chất lượng: ⭐⭐⭐⭐ (4/5)
+Key fact cho RAG: Global SAD: 4,7 % children, 8,3 % VTN (Salari 2024 MA 38 NC). Dùng để compare baseline với VN 30,7 %.
+Tên công trình (VN) | Tỷ lệ mắc rối loạn lo âu xã hội toàn cầu ở trẻ em, vị thành niên và thanh niên: 
+Tên công trình (EN) | Global Prevalence of Social Anxiety Disorder in Children, Adolescents and Youth:
+Tác giả | Salari N, Heidarian P, Hassanabadi M, Babajani F, Abdoli N, Aminian M, Mohammadi
+Đơn vị | Nhóm Iran + Ả-rập Saudi (hệ thống đại học quốc gia)
+Nơi công bố | Journal of Prevention (2024) 45:795-813 · Springer
+Năm | 2024
+Địa bàn + mẫu + công cụ | Toàn cầu (6 databases: PubMed, Scopus, Web of Science, Embase, ScienceDirect, Go
+
+============================================================
+[QT019] RAG SUMMARY:
+QT019 — Tóm tắt bài nghiên cứu
+Phương pháp nghiên cứu
+• Nghiên cứu tài liệu (documentary analysis) — so sánh chính sách + curriculum 3 nước
+• Mẫu: Phân tích tài liệu chính sách + chương trình học (lớp 1-12) từ 3 quốc gia Philippines, Indonesia, Nhật Bản, giai đoạn 2000-2023
+• Công cụ: Deductive content analysis · Policy triangle framework (Walt & Gilson 1994) · Review points (Margaretha 2023)
+Kết quả nghiên cứu
+• Ba quốc gia có cách tiếp cận school-based MH literacy KHÁC NHAU về chính sách và curriculum
+• Phân tích theo policy triangle (context, content, process, actors)
+• Curriculum lớp 1-12 được map theo các review points
+• (Kết quả chi tiết cần verify chương Results — abstract chỉ nêu phương pháp)
+Điểm mạnh
+• Nghiên cứu SO SÁNH 3 nước châu Á — hiếm có
+• Khung policy triangle được sử dụng hệ thống
+• Multi-stakeholder authors từ cả 3 nước → perspective balance
+• Scope rộng: 2000-2023, lớp 1-12 — cover toàn bộ học đường
+• Có tính ngoại suy cho bối cảnh VN (tương tự SEA)
+Hạn chế
+• Chỉ phân tích TÀI LIỆU, không đo lường thực tế triển khai
+• VN không nằm trong 3 nước → cần ngoại suy thận trọng
+• Nghiên cứu chính sách/curriculum — không đo outcome SKTT HS
+• Tropical Medicine and Health — không phải tạp chí chuyên MH top
+Phản biện ngắn
+Nghiên cứu về CHÍNH SÁCH school MH literacy 3 nước châu Á — là tài liệu tham chiếu QUÝ cho VN khi xây dựng chương trình MH literacy vào curriculum. Philippines + Indonesia đều là LMIC giống VN → có thể adapt nhiều. Nhật Bản là HIC → reference cho mô hình lý tưởng. Cần đọc chi tiết Results + Discussion để rút ra khuyến nghị VN cụ thể.
+Hướng nghiên cứu tiếp theo
+Nghiên cứu tương tự cho Việt Nam: phân tích chương trình "Giáo dục sức khỏe" hiện tại trong SGK phổ thông VN. So sánh với 3 nước Shibuya. Đề xuất lồng ghép MH literacy vào môn Giáo dục công dân + Sinh học.
+Đánh giá chất lượng: ⭐⭐⭐⭐ (4/5)
+Key fact cho RAG: So sánh chính sách school MH 3 nước Á (Philippines, Indonesia, Nhật) 2000-2023. Tài liệu tham chiếu cho VN curriculum.
+Tên công trình (VN) | Nghiên cứu so sánh về hiểu biết sức khỏe tâm thần trường học ở ba nước châu Á
+Tên công trình (EN) | Comparative study on school-based mental health literacy in three Asian countrie
+Tác giả | Shibuya F, Usami M, Santillan MD, Warnaini C, Gregorio E, Satake N, Estrada CA, 
+Đơn vị | Multi-site: Nhật Bản (Ryukyu), Philippines, Indonesia
+Nơi công bố | Tropical Medicine and Health (2025) 53:86 · Springer Open
+Năm | 2025
+Địa bàn + mẫu + công cụ | Philippines + Indonesia + Japan | Phân tích tài liệu chính sách + chương trình h

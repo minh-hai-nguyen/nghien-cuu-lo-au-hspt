@@ -1,0 +1,343 @@
+============================================================
+[QT028] RAG SUMMARY:
+Tóm tắt bài QT-28
+Tên công trình, tác giả, năm, mẫu khảo sát, đối tượng, khách thể, địa bàn khảo sát
+Công trình « Phương pháp tiếp cận hiện tại và tương lai trong điều trị rối loạn lo âu ở trẻ em » (Current and Future Approaches to Pediatric Anxiety Disorder Treatment), do Zugman A và cộng sự (2024), xuất bản trên American Journal of Psychiatry (Q1, IF ≈ 18,0). 12 trang, 2 bảng, 1 hình. Tổng quan toàn diện về CBT, dược lý, và hướng điều trị mới.
+Phương pháp nghiên cứu
+Tổng quan tường thuật (narrative review) tổng hợp bằng chứng về các phương pháp điều trị rối loạn lo âu ở trẻ em và thanh thiếu niên. Nói cách khác, đây là bài phân tích tổng hợp từ tạp chí tâm thần hàng đầu thế giới, cung cấp bức tranh toàn cảnh về "hiện tại và tương lai" của điều trị lo âu trẻ em.
+Tổng quan tài liệu cho thấy CBT và SSRI là hai phương pháp đã được xác lập (established treatments). Tuy nhiên, khoảng 30–40% trẻ không đáp ứng với liệu pháp đầu tiên, đòi hỏi các hướng tiếp cận mới. Đặc biệt, bằng chứng từ LMIC (nước thu nhập thấp-trung bình) rất hạn chế — 0 RCT từ Việt Nam (Zhameden 2025).
+Kết quả nghiên cứu định lượng
+Bảng 1 (từ Table 1 gốc). Hiệu quả các phương pháp điều trị lo âu trẻ em:
+Bảng 2. So sánh bằng chứng can thiệp lo âu từ nhiều nguồn:
+Đối chiếu liên bài : CBT được xác nhận hiệu quả nhất (47–66% phục hồi) bởi cả AJP 2024, BMC network meta 2025 (30 RCTs), và Zhameden 2025. Tuy nhiên, CBT chỉ hiệu quả 1/4 cho lo âu tại LMIC (Zhameden) — gợi ý cần điều chỉnh cho bối cảnh VN. Hướng mới (iCBT, ứng dụng kỹ thuật số) đặc biệt phù hợp cho VN nơi tiếp cận dịch vụ chỉ 8,4%.
+Nhận xét, phát hiện qua kết quả nghiên cứu
+*CBT + SSRI = chuẩn vàng.* CAMS trial (lớn nhất) cho thấy kết hợp hiệu quả hơn đơn trị. Tuy nhiên, SSRI có tác dụng phụ ở trẻ — cần cân nhắc.
+*30–40% không đáp ứng.* Đây là khoảng trống lớn — cần hướng mới cho nhóm kháng trị.
+*iCBT và ứng dụng kỹ thuật số.* Đặc biệt phù hợp cho VN: tăng tiếp cận ở vùng thiếu chuyên gia, chi phí thấp, mở rộng quy mô nhanh. Phù hợp với phát hiện Nature 2025 về VTN và công nghệ.
+Kết luận
+Dữ liệu tổng hợp từ AJP (IF = 18), cho thấy CBT là phương pháp hiệu quả nhất (47–66% phục hồi) nhưng 30–40% không đáp ứng, gợi ý rằng cần phát triển hướng mới: iCBT, ứng dụng kỹ thuật số, và kích thích thần kinh. Tại VN nơi 0 RCT và 8,4% tiếp cận dịch vụ, iCBT có thể là giải pháp khả thi nhất để mở rộng can thiệp.
+Phản biện
+AJP Q1 IF = 18 — tạp chí tâm thần hàng đầu thế giới. Tổng quan toàn diện, cập nhật nhất. Tuy nhiên, tổng quan (review) không có dữ liệu gốc mới. Chủ yếu bằng chứng từ phương Tây (Mỹ, Anh, Úc) — thiếu dữ liệu LMIC/châu Á. Hình 1 gốc về cơ chế thần kinh cần chèn từ PDF.
+Hướng nghiên cứu tiếp theo
+RCT CBT nhóm tại trường THCS/THPT VN — RCT đầu tiên. Thử nghiệm iCBT tiếng Việt cho VTN. Đánh giá hiệu quả CBT kết hợp can thiệp gia đình (dựa trên Pham 2024: chăm sóc cảm xúc beta = –0,40).
+Đánh giá: ⭐⭐⭐⭐⭐ Rất cao. AJP Q1 IF = 18, tổng quan toàn diện nhất về điều trị lo âu trẻ em.
+Phương pháp | Hiệu quả | Bằng chứng | Ghi chú
+CBT cá nhân | Phục hồi 47–66%
+Đáp ứng 57–60% | RCTs nhiều | Bằng chứng mạnh nhất
+SSRI (thuốc chống trầm cảm) | Hiệu quả vừa phải | RCTs nhiều | Kết hợp CBT tốt hơn
+CBT + SSRI kết hợp | Tốt hơn đơn trị | CAMS trial | Chuẩn vàng hiện tại
+CBT nhóm | Hiệu quả tương đương CBT cá nhân | RCTs | Chi phí thấp hơn
+CBT qua internet (iCBT) | Triển vọng | RCTs sơ bộ | Tăng tiếp cận
+Kích thích thần kinh (TMS, tDCS) | Thử nghiệm | Ít RCT | Chưa đủ bằng chứng
+Ứng dụng kỹ thuật số | Triển vọng | Pilot studies | Cần thêm NC
+Nguồn | Phương pháp | Phát hiện chính | Hạn chế
+AJP 2024 (bài này) | Tổng quan | CBT 47–66% phục hồi | Chủ yếu phương Tây
+Zhameden 2025 | 6 RCTs LMIC | CBT 3/4 trầm cảm, 1/4 lo âu | GRADE rất thấp, 0 VN
+BMC 2025 (QT29) | 30 RCTs network meta | CBT cá nhân tốt nhất | Ít LMIC
+Wen 2020 | Quan sát | Hỗ trợ SKTT trường OR=0,562 | Cắt ngang
+Hoàng Trung Học VN | Hồi quy | Gia đình Beta=0,272 | Không can thiệp
+
+============================================================
+[QT029] RAG SUMMARY:
+Tóm tắt bài QT-29
+Tên công trình, tác giả, năm, mẫu khảo sát, đối tượng, khách thể, địa bàn khảo sát
+Công trình « Hiệu quả các loại can thiệp khác nhau cho rối loạn lo âu ở trẻ em và thanh thiếu niên: Tổng quan hệ thống và phân tích tổng hợp mạng Bayesian » (Effects of Different Interventions on Anxiety Disorders in Children and Adolescents: A Systematic Review and Bayesian Network Meta-analysis), xuất bản trên BMC Psychiatry, 2025 (Q1, Open Access). 30 RCTs, 1.711 trẻ tham gia. 14 trang, 3 bảng, 6 hình.
+Phương pháp nghiên cứu
+Tổng quan hệ thống và phân tích tổng hợp mạng Bayesian (Bayesian network meta-analysis) — phương pháp nâng cao nhất cho phép so sánh ĐỒNG THỜI nhiều loại can thiệp mà không cần RCT head-to-head cho mọi cặp. Nói cách khác, thay vì chỉ so sánh CBT vs placebo, phương pháp này xếp hạng tất cả các loại can thiệp dựa trên mạng lưới bằng chứng.
+Tìm kiếm trong PubMed, PsychINFO, Web of Science đến 24/01/2025. Tiêu chí: RCT, trẻ em/VTN có rối loạn lo âu, so sánh ít nhất 2 can thiệp. Đánh giá nguy cơ thiên lệch bằng Cochrane RoB 2.0.
+Kết quả nghiên cứu định lượng
+Bảng 1 (từ Table 1 gốc). Đặc điểm 30 RCTs:
+Bảng 2 (từ Table 2+3 gốc). Xếp hạng hiệu quả các can thiệp:
+Bảng 3. So sánh với các tổng quan can thiệp khác:
+Đối chiếu liên bài : Ba tổng quan can thiệp (AJP 2024, BMC 2025, Zhameden 2025) đều xác nhận CBT hiệu quả nhất. Tuy nhiên, Zhameden cảnh báo CBT chỉ hiệu quả 1/4 cho lo âu tại LMIC — gợi ý bằng chứng từ phương Tây chưa chắc áp dụng được cho VN. 30 RCTs trong BMC 2025 chủ yếu từ phương Tây — khoảng trống LMIC/châu Á rất lớn.
+Nhận xét, phát hiện qua kết quả nghiên cứu
+*CBT cá nhân xếp hạng 1.* Network meta Bayesian xác nhận CBT cá nhân hiệu quả nhất trong 7+ loại can thiệp — phù hợp AJP 2024.
+*CBT nhóm — lựa chọn thực tế cho VN.* Hiệu quả tương đương CBT cá nhân nhưng chi phí thấp hơn, phù hợp bối cảnh trường học VN (có thể triển khai cho lớp 20–30 HS).
+*0 RCT từ VN.* Trong 30 RCTs của NMA, không có bài nào từ Việt Nam hay ASEAN — xác nhận khoảng trống Zhameden 2025 đã chỉ ra.
+*6 hình gốc.* Bài gốc có 6 hình (forest plots, network plots, funnel plots) — cần chèn trong bản dịch đầy đủ.
+Kết luận
+Dữ liệu từ phân tích tổng hợp mạng Bayesian trên 30 RCTs (1.711 trẻ), cho thấy CBT cá nhân hiệu quả nhất, CBT nhóm xếp thứ 2–3 (tương đương nhưng chi phí thấp hơn), gợi ý rằng CBT nhóm tại trường học là lựa chọn khả thi nhất cho RCT đầu tiên tại Việt Nam. Khoảng trống 0 RCT từ VN/ASEAN nhấn mạnh nhu cầu cấp thiết cho nghiên cứu can thiệp tại khu vực này.
+Phản biện
+BMC Psychiatry Q1, Open Access. NMA Bayesian — phương pháp nâng cao nhất, Cochrane RoB 2.0. 30 RCTs là đủ cho NMA. Tuy nhiên, 1.711 trẻ — cỡ mẫu tổng không lớn. Chủ yếu RCTs phương Tây — thiên lệch bối cảnh. Cần đọc chi tiết forest plots (6 hình) để đánh giá heterogeneity. Có thể có publication bias (kiểm tra funnel plot).
+Hướng nghiên cứu tiếp theo
+RCT CBT nhóm tại trường THCS/THPT VN — đóng góp vào NMA toàn cầu. Điều chỉnh CBT cho bối cảnh văn hóa VN (gia đình, tập thể). Thêm dữ liệu LMIC/châu Á vào NMA. Đánh giá iCBT vs CBT nhóm trực tiếp.
+Đánh giá: ⭐⭐⭐⭐ Cao. BMC Q1, 30 RCTs, NMA Bayesian nâng cao, Cochrane RoB 2.0. Nhưng chủ yếu phương Tây.
+Đặc điểm | Giá trị
+Số RCTs | 30
+Tổng số trẻ tham gia | 1.711
+Loại can thiệp so sánh | CBT cá nhân, CBT nhóm, thuốc (SSRI), kết hợp, tâm lý giáo dục, thư giãn, chờ đợi
+Rối loạn lo âu đánh giá | GAD, SAD, lo âu xã hội, lo âu phân ly, ám ảnh cụ thể
+Phương pháp phân tích | Bayesian network meta-analysis (NMA)
+Xếp hạng | Can thiệp | Hiệu quả (SMD/OR) | Ghi chú
+1 | CBT cá nhân | Hiệu quả nhất | Bằng chứng mạnh
+2–3 | CBT nhóm | Tương đương cá nhân | Chi phí thấp hơn
+3–4 | SSRI (thuốc) | Hiệu quả | Tác dụng phụ ở trẻ
+4–5 | CBT + SSRI | Tốt nhưng ít RCT | Cần thêm NC
+5+ | Tâm lý giáo dục | Hiệu quả thấp hơn | An toàn
+Thư giãn | Hiệu quả hạn chế
+Chờ đợi (waitlist) | Tham chiếu | Không can thiệp
+Nguồn | Phạm vi | Phát hiện | So với bài này
+BMC 2025 (bài này) | 30 RCTs, 1.711 trẻ | CBT cá nhân tốt nhất | NMA Bayesian — nâng cao nhất
+AJP 2024 (QT28) | Tổng quan tường thuật | CBT 47–66% phục hồi | Không xếp hạng
+Zhameden 2025 | 6 RCTs LMIC | CBT 3/4 dep, 1/4 anx | GRADE rất thấp, 0 VN
+Wen 2020 | Quan sát nông thôn TQ | SKTT trường OR = 0,562 | Không can thiệp
+
+============================================================
+[QT030] RAG SUMMARY:
+Tóm tắt bài QT-30
+Tên công trình, tác giả, năm, mẫu khảo sát, đối tượng, khách thể, địa bàn khảo sát
+Công trình « Xu hướng rối loạn trầm cảm và lo âu ở thanh thiếu niên và thanh niên (10–24 tuổi) từ 1990 đến 2021: Phân tích từ nghiên cứu Gánh nặng Bệnh tật Toàn cầu » (Trends in Depressive and Anxiety Disorders among Adolescents and Young Adults Aged 10–24 from 1990 to 2021: A GBD Study Analysis), do Zhang Dongjun, Wu Mingyue và cộng sự (2025), Đại học Y khoa Tân Hương, Trung Quốc, xuất bản trên Journal of Affective Disorders, 387:119491 (Q1, IF ≈ 6,6). Dữ liệu GBD 2021 từ 204 nước/vùng lãnh thổ. 14 trang, 2 bảng, 4 hình.
+Phương pháp nghiên cứu
+Công trình sử dụng dữ liệu Gánh nặng Bệnh tật Toàn cầu (GBD 2021) phân tích xu hướng tỷ suất mới mắc, tỷ lệ hiện mắc và DALYs cho trầm cảm và lo âu ở nhóm 10–24 tuổi. Nói cách khác, đây là phân tích xu hướng 31 năm (1990–2021) trên quy mô toàn cầu sử dụng hai phương pháp thống kê nâng cao: hồi quy Joinpoint và phân tích Tuổi-Giai đoạn-Đoàn hệ (APC).
+Joinpoint regression xác định các điểm bẻ (inflection points) trong xu hướng dài hạn, ước tính AAPC (Average Annual Percent Change) cho từng giai đoạn. Bất bình đẳng giữa các nước được đánh giá bằng SII (slope index of inequality) và CI (concentration index).
+Kết quả nghiên cứu định lượng
+Bảng 1 (từ Table 1 gốc). Xu hướng toàn cầu 1990–2021:
+Bảng 2. Phân tầng theo giới, tuổi, vùng và SDI:
+Đối chiếu liên bài : AAPC lo âu 0,84%/năm trong 31 năm nhất quán với JAACAP 2024 (Mỹ: tăng gấp đôi 8 năm), Na Uy 2025 (tăng 13 năm), Ireland 2024 (tăng 7 năm). Đáng chú ý, Đông Á tăng CHẬM NHẤT — có thể do hệ thống giáo dục tập trung + gia đình gắn kết. Tại VN, Hoàng Trung Học 2025 cho thấy lo âu giảm sau COVID (41,5% → 25,4%) — phù hợp xu hướng phục hồi tại châu Á.
+Nhận xét, phát hiện qua kết quả nghiên cứu
+*Tăng tốc sau 2014.* Joinpoint xác định điểm bẻ 2014 — gánh nặng tăng nhanh từ đó. Trùng với sự phổ biến của smartphone/MXH (phù hợp Nature 2025, Norway 2025).
+*SDI cao gánh nặng lớn nhất.* Nghịch lý: nước giàu có dịch vụ tốt nhưng gánh nặng lo âu cao nhất. Có thể do phát hiện tốt hơn + áp lực xã hội hiện đại.
+*Bất bình đẳng tuyệt đối mở rộng.* SII cho thấy khoảng cách giàu-nghèo về gánh nặng SKTT tăng theo thời gian.
+Kết luận
+Dữ liệu GBD 2021 từ 204 nước, cho thấy gánh nặng trầm cảm và lo âu ở VTN 10–24 tuổi tăng liên tục 31 năm (AAPC 0,84–0,97%), tăng tốc mạnh sau 2014, với nước SDI cao gánh nặng lớn nhất và Đông Á chậm nhất, gợi ý rằng xu hướng tăng là toàn cầu nhưng tốc độ phụ thuộc bối cảnh kinh tế xã hội — VN cần theo dõi xu hướng dài hạn để can thiệp kịp thời.
+Phản biện
+J Affect Disord Q1 IF = 6,6. GBD 2021, 204 nước, 31 năm, Joinpoint + APC nâng cao. Tuy nhiên, GBD phụ thuộc dữ liệu báo cáo quốc gia (VN thiếu dữ liệu chất lượng). Tăng có thể phản ánh tăng phát hiện + tăng thực. COVID-19 (2020–2021) ảnh hưởng mạnh nhưng chỉ 2 năm dữ liệu.
+Hướng nghiên cứu tiếp theo
+Phân tích riêng ASEAN/VN từ GBD. Giải thích tại sao Đông Á tăng chậm nhất. Đánh giá tác động COVID dài hạn (GBD 2024+).
+Đánh giá: ⭐⭐⭐⭐⭐ Rất cao. Q1 IF=6,6, GBD 204 nước, 31 năm, Joinpoint+APC.
+Rối loạn | Tỷ suất 1990
+(/100.000) | Tỷ suất 2021
+(/100.000) | AAPC
+(KTC 95%) | Xu hướng
+Trầm cảm (mới mắc) | 3.085,5 | 3.909,9 | 0,97 (0,75–1,19) | Tăng
+Lo âu (mới mắc) | 708,0 | 883,1 | 0,84 (0,48–1,21) | Tăng
+Trầm cảm (DALYs) | — | — | Tăng 2014–2021 | Đỉnh 2019
+Lo âu (DALYs) | — | — | Tăng 2014–2021 | Tăng mạnh sau 2019
+Phân tầng | Phát hiện chính
+Giới tính | Nữ luôn cao hơn, nhưng tốc độ tăng trầm cảm ở NAM nhanh hơn
+Tuổi 10–14 | Tăng nhanh nhất cho trầm cảm
+Tuổi 20–24 | Tăng nhanh nhất cho lo âu
+SDI cao (nước giàu) | Gánh nặng lớn nhất + tốc độ tăng nhanh nhất
+Đông Á | Tốc độ tăng CHẬM NHẤT
+Bắc Mỹ thu nhập cao | AAPC trầm cảm cao nhất: 2,30
+Mỹ Latinh Andes | AAPC lo âu cao nhất: 1,91
+COVID-19 (2020–2021) | Xu hướng tăng tăng tốc sau 2019
+
+============================================================
+[QT031] RAG SUMMARY:
+Tóm tắt bài QT-31
+Tên công trình, tác giả, năm, mẫu khảo sát, đối tượng, khách thể, địa bàn khảo sát
+Công trình « Tỷ lệ và các yếu tố liên quan của lo âu ở thanh thiếu niên đi học: Phân tích từ 59 quốc gia » (Prevalence of and Factors Associated with Anxiety among School Going Adolescents: Analysis from 59 Countries), do Islam MA và cộng sự (2025), xuất bản trên Journal of Affective Disorders (Q1, IF ≈ 6,6). Dữ liệu GSHS (Global School-based Student Health Survey) từ 59 quốc gia. 11 trang, 4 bảng.
+Phương pháp nghiên cứu
+Công trình sử dụng dữ liệu Khảo sát Sức khỏe Học sinh Toàn cầu Tại Trường học (GSHS — Global School-based Student Health Survey) do WHO phối hợp CDC Hoa Kỳ triển khai. Nói cách khác, đây là phân tích đa quốc gia lớn nhất về lo âu ở VTN đi học, sử dụng dữ liệu chuẩn hóa quốc tế từ 59 nước.
+Kết quả nghiên cứu định lượng
+Bảng 1 (từ Table 2 gốc). Tỷ lệ lo âu theo vùng WHO:
+Bảng 2 (từ Table 3 gốc). Yếu tố liên quan đa quốc gia:
+Bảng 3. So sánh tỷ lệ lo âu: GSHS vs NC khác tại cùng vùng:
+Đối chiếu liên bài : ĐNA có tỷ lệ THẤP NHẤT (3,6%) — nhưng điều này có thể do GSHS chỉ dùng 1–2 câu hỏi lo âu (không phải thang chuẩn GAD-7 hay DASS-21). So với GAD-7 tại VN (Hoa 2024: 40,6%) hay DASS-21 (Bảo Quyên: 86,2%), sự chênh lệch 10–24 lần nhấn mạnh vai trò công cụ đo lường.
+Nhận xét, phát hiện qua kết quả nghiên cứu
+*ĐNA thấp nhất.* Có thể do (1) GSHS ít câu hỏi, (2) văn hóa Á Đông ít báo cáo lo âu, (3) hoặc thực sự thấp hơn. Cần NC xác nhận bằng GAD-7 trên cùng mẫu GSHS.
+*Bắt nạt và cô đơn.* Yếu tố nguy cơ nhất quán liên quốc gia, phù hợp Chen 2023 (bắt nạt OR = 1,51–1,97) và Ngo Anh Vinh 2024 (bạn bè kém OR = 6,84).
+*Hỗ trợ cha mẹ bảo vệ.* Phù hợp Pham 2024 VN (chăm sóc cảm xúc beta = –0,40) và Qiu 2022 (nuôi dạy tích cực OR = 0,30).
+Kết luận
+Dữ liệu GSHS từ 59 quốc gia, cho thấy ĐNA có tỷ lệ lo âu thấp nhất (3,6%) nhưng bắt nạt, cô đơn và thiếu hỗ trợ cha mẹ là yếu tố nguy cơ nhất quán liên quốc gia, gợi ý rằng can thiệp chống bắt nạt và tăng cường gắn kết gia đình có thể hiệu quả ở mọi bối cảnh văn hóa.
+Phản biện
+Q1 IF = 6,6, 59 nước, GSHS chuẩn hóa. Tuy nhiên, GSHS chỉ 1–2 câu lo âu (không phải GAD-7) — đánh giá thấp. Cắt ngang. Dữ liệu GSHS có thể cũ (thu thập nhiều năm).
+Hướng nghiên cứu tiếp theo
+So sánh GSHS vs GAD-7 trên cùng mẫu VTN ĐNA. Giải thích tại sao ĐNA thấp nhất. Phân tích riêng VN trong GSHS.
+Đánh giá: ⭐⭐⭐⭐ Cao. Q1, 59 nước, GSHS chuẩn hóa, nhưng công cụ đo hạn chế.
+Vùng WHO | Tỷ lệ lo âu | So sánh
+Đông Địa Trung Hải | 14,6% | CAO NHẤT
+Châu Phi | 11,0% | Thứ 2
+Châu Mỹ | ~8–10% | —
+Châu Âu | ~6–8% | —
+Tây Thái Bình Dương | ~5–8% | —
+Đông Nam Á | 3,6% | THẤP NHẤT
+Yếu tố | Hướng tác động | Mức liên quan
+Bị bắt nạt | Tăng lo âu | Mạnh, nhất quán liên quốc gia
+Cô đơn | Tăng lo âu | Mạnh
+Thiếu bạn thân | Tăng lo âu | Trung bình
+Hỗ trợ cha mẹ | Giảm lo âu (bảo vệ) | Mạnh, nhất quán
+Giáo dục cha mẹ cao | Giảm lo âu (bảo vệ) | Trung bình
+Nguồn | Vùng | Tỷ lệ lo âu | Công cụ | Giải thích chênh lệch
+GSHS (bài này) | ĐNA | 3,6% | GSHS (1–2 câu) | Ngưỡng cao, ít câu
+V-NAMHS 2022 | VN | 2,3% (chẩn đoán) | DISC-5/DSM-5 | Chẩn đoán chuẩn
+Hoa 2024 | VN (Hà Nội) | 40,6% | GAD-7 (≥5) | Sàng lọc, ngưỡng thấp
+Xu 2021 | TQ | 9,89% | GAD-7 (≥10) | Ngưỡng trung bình
+GBD 2025 | Toàn cầu | 3,6–4,6% | GBD estimates | Ước tính mô hình
+
+============================================================
+[QT032] RAG SUMMARY:
+Tóm tắt bài QT-32
+Tên công trình, tác giả, năm, mẫu khảo sát, đối tượng, khách thể, địa bàn khảo sát
+Công trình « Khám phá xu hướng thay đổi trầm cảm và lo âu ở thanh thiếu niên từ 2012 đến 2019: Từ khảo sát My World cắt ngang lặp lại » (Exploring Changing Trends in Depression and Anxiety among Adolescents from 2012 to 2019: Insights from My World Repeated Cross-sectional Surveys), do Fitzgerald A và cộng sự (2024), School of Psychology, Dublin, Ireland, xuất bản trên Early Intervention in Psychiatry. 11 trang, 5 bảng.
+Phương pháp nghiên cứu
+Thiết kế cắt ngang lặp lại (repeated cross-sectional) — 2 đợt khảo sát 2012 và 2019 trên các mẫu VTN Ireland khác nhau. Nói cách khác, đây là thiết kế tốt hơn đơn cắt ngang vì cho phép đánh giá xu hướng thay đổi theo thời gian, mặc dù không theo dõi cùng cá nhân.
+Các biến dự báo giải thích 37–61% phương sai trong trầm cảm và lo âu — tỷ lệ giải thích cao bất thường cho NC tâm lý.
+Kết quả nghiên cứu định lượng
+Bảng 1 (từ Table 1-2 gốc). Xu hướng 2012 → 2019:
+Bảng 2 (từ Table 3-4 gốc). Yếu tố dự báo:
+Bảng 3. So sánh xu hướng Ireland với các nước:
+Đối chiếu liên bài : Xu hướng tăng lo âu/trầm cảm ở Ireland (2012–2019) nhất quán với Na Uy, Mỹ, Hàn Quốc. Nữ tăng nhanh hơn nam ở TẤT CẢ các nước. Các yếu tố bảo vệ (lòng tự trọng, hỗ trợ xã hội, thể chất) phù hợp với Pham 2024 VN (chăm sóc cảm xúc), Qiu 2022 (nuôi dạy tích cực), Zhu 2025 (hoạt động ngoài trời).
+Nhận xét, phát hiện qua kết quả nghiên cứu
+*37–61% phương sai được giải thích.* Tỷ lệ rất cao cho NC tâm lý — gợi ý các yếu tố đã đo lường (tự trọng, hỗ trợ XH, bắt nạt, MXH) nắm bắt phần lớn cơ chế.
+*Nữ tăng nhanh hơn.* Nhất quán toàn cầu. Gợi ý can thiệp ưu tiên nữ VTN.
+*MXH tăng vai trò 2019 vs 2012.* Phù hợp với sự phổ biến smartphone + Nature 2025.
+Kết luận
+Dữ liệu cắt ngang lặp lại từ Ireland, cho thấy trầm cảm và lo âu ở VTN tăng đáng kể từ 2012 đến 2019 với nữ tăng nhanh hơn nam, và các yếu tố bảo vệ (tự trọng, hỗ trợ XH, thể chất) nhất quán cả 2 đợt, gợi ý rằng can thiệp tăng cường lòng tự trọng và hỗ trợ xã hội có thể hiệu quả xuyên thời gian và văn hóa.
+Phản biện
+Cắt ngang lặp lại — tốt hơn đơn cắt ngang. 37–61% phương sai giải thích — cao. Tuy nhiên, chỉ Ireland, 2 mẫu khác nhau (không dọc). Công cụ đo cụ thể cần kiểm tra từ PDF.
+Hướng nghiên cứu tiếp theo
+Cắt ngang lặp lại tương tự tại VN (2 đợt cách 5–7 năm). So sánh yếu tố dự báo Ireland vs VN. Can thiệp tăng lòng tự trọng tại trường THPT VN.
+Đánh giá: ⭐⭐⭐⭐ Cao. Cắt ngang lặp lại, xu hướng 7 năm, 37–61% phương sai, yếu tố nhất quán.
+Chỉ số | 2012 | 2019 | Xu hướng
+Trầm cảm | Mức cơ sở | TĂNG có ý nghĩa | P < 0,05
+Lo âu | Mức cơ sở | TĂNG có ý nghĩa | P < 0,05
+Nữ | Tăng NHANH hơn nam | Nhất quán y văn
+Nam | Tăng chậm hơn
+Yếu tố | Loại | Nhất quán 2012 + 2019?
+Lòng tự trọng | Bảo vệ | Có — nhất quán cả 2 đợt
+Hỗ trợ xã hội | Bảo vệ | Có
+Hoạt động thể chất | Bảo vệ | Có
+Bắt nạt | Nguy cơ | Có
+Screen time / MXH | Nguy cơ | Có (tăng 2019)
+Stress | Nguy cơ | Có
+Nước | Giai đoạn | Xu hướng | Phương pháp
+Ireland (bài này) | 2012–2019 | Tăng, nữ nhanh hơn | Cắt ngang lặp lại
+Na Uy (QT21) | 2011–2024 | Tăng liên tục 13 năm | Decomposition
+Hoa Kỳ (QT23) | 2013–2021 | Lo âu +100% (AOR=2,17) | Hồ sơ lâm sàng
+Hàn Quốc (QT34) | 2006–2022 | Giảm trước, tăng sau COVID | KYRBS
+Việt Nam (VN14) | 2021 vs 2023 | 41,5% → 25,4% | DASS-21 2 thời điểm
+
+============================================================
+[QT033] RAG SUMMARY:
+Tóm tắt bài QT-33
+Tên công trình, tác giả, năm, mẫu khảo sát, đối tượng, khách thể, địa bàn khảo sát
+Công trình « Sử dụng phương tiện màn hình và sức khỏe tâm thần trẻ em và thanh thiếu niên: Phân tích thứ cấp từ thử nghiệm lâm sàng ngẫu nhiên » (Screen Media Use and Mental Health of Children and Adolescents: A Secondary Analysis of a Randomized Clinical Trial), do Schmidt-Persson J và cộng sự (2024), xuất bản trên JAMA Network Open (Q1, IF ≈ 13,0). Đan Mạch. 12 trang, 3 bảng, 3 hình.
+Phương pháp nghiên cứu
+Phân tích thứ cấp từ thử nghiệm lâm sàng ngẫu nhiên (RCT) — bằng chứng nhân quả MẠNH HƠN nghiên cứu quan sát. Nói cách khác, thay vì chỉ hỏi "VTN dùng màn hình nhiều có lo âu hơn không?", nghiên cứu này CAN THIỆP giảm screen time và đo tác động lên SKTT.
+Tổng quan tài liệu cho thấy đa số NC về screen time là cắt ngang hoặc dọc quan sát. JAMA (IF = 13) công bố bằng chứng từ RCT — cấp độ bằng chứng cao nhất trong y học.
+Kết quả nghiên cứu định lượng
+Bảng 1 (từ Table 1 gốc). Đặc điểm mẫu và thiết kế:
+Bảng 2. Hội tụ bằng chứng về screen time/MXH từ nhiều thiết kế:
+Bảng 3. Kim tự tháp bằng chứng — vị trí các NC:
+Đối chiếu liên bài : SÁU nguồn bằng chứng từ nhiều thiết kế (RCT, dọc, cắt ngang, xu hướng) và nhiều nước (Đan Mạch, Anh, Na Uy, Trung Quốc, Việt Nam) đều chỉ cùng hướng: screen time/MXH ảnh hưởng tiêu cực đến SKTT VTN. JAMA RCT cung cấp bằng chứng nhân quả mạnh nhất.
+Nhận xét, phát hiện qua kết quả nghiên cứu
+*Bằng chứng nhân quả từ RCT.* Đây là điểm mạnh vượt trội — giảm screen time CẢI THIỆN SKTT, không chỉ tương quan.
+*Ứng dụng cho VN.* Kết hợp với Hoàng Trung Học 2025 (điện tử Beta = 0,176) và Chen 2023 (game OR = 5,00), cung cấp cơ sở mạnh cho can thiệp quản lý thời gian màn hình tại trường học VN.
+Kết luận
+Dữ liệu từ RCT trên JAMA (IF = 13), cho thấy giảm thời gian sử dụng màn hình cải thiện SKTT ở trẻ em/VTN — bằng chứng nhân quả mạnh nhất hiện có, hội tụ với 5 nguồn bằng chứng khác từ nhiều thiết kế và quốc gia, gợi ý rằng can thiệp quản lý screen time là chiến lược phòng ngừa có cơ sở khoa học vững chắc.
+Phản biện
+JAMA Q1 IF = 13. Bằng chứng RCT — cấp cao nhất. Tuy nhiên, phân tích THỨ CẤP (không phải RCT thiết kế cho SKTT). Chỉ Đan Mạch — bối cảnh Bắc Âu khác châu Á. Cần đọc chi tiết cỡ mẫu và loại screen time (TV vs MXH vs game).
+Hướng nghiên cứu tiếp theo
+RCT giảm screen time tại trường VN. Phân biệt loại screen time (giải trí vs học tập). So sánh Đan Mạch vs châu Á.
+Đánh giá: ⭐⭐⭐⭐⭐ Rất cao. JAMA Q1 IF=13, RCT — bằng chứng nhân quả.
+Đặc điểm | Giá trị
+Thiết kế | Phân tích thứ cấp RCT
+Quốc gia | Đan Mạch
+Đối tượng | Trẻ em và thanh thiếu niên
+Can thiệp | Giảm thời gian sử dụng phương tiện màn hình
+Kết cục | Triệu chứng sức khỏe tâm thần
+Tạp chí | JAMA Network Open (Q1, IF ≈ 13,0)
+Nguồn | Thiết kế | Phát hiện | Cấp bằng chứng
+JAMA 2024 (bài này) | RCT (phân tích thứ cấp) | Giảm screen time → cải thiện SKTT | CAO NHẤT
+BJCP 2025 (QT22) | Dọc (longitudinal) | Screen time DỰ BÁO lo âu sau 1 năm | Cao
+Nature 2025 (QT27) | Cắt ngang + chẩn đoán lâm sàng | VTN có RLTT dùng MXH nhiều hơn | Trung bình-Cao
+Norway 2025 (QT21) | Xu hướng 13 năm | MXH giải thích xu hướng tăng | Trung bình
+Chen 2023 (bài 07) | Cắt ngang, n=63.205 | Game OR = 5,00 | Trung bình
+Hoàng Trung Học VN | Cắt ngang, n=8.473 | Điện tử Beta = 0,176 | Trung bình
+Cấp | Thiết kế | Bài trong Đề tài
+1 (cao nhất) | RCT | JAMA 2024 (bài này)
+2 | Dọc (longitudinal) | BJCP 2025 (QT22)
+3 | Cắt ngang + chẩn đoán | Nature 2025 (QT27)
+4 | Cắt ngang lớn | Chen 2023, Xu 2021, HTH 2025
+5 | Tổng quan/meta | AJP 2024, BMC 2025, GBD 2025
+
+============================================================
+[QT034] RAG SUMMARY:
+Tóm tắt bài QT-34
+Tên công trình, tác giả, năm, mẫu khảo sát, đối tượng, khách thể, địa bàn khảo sát
+Công trình « Xu hướng quốc gia về sức khỏe tâm thần thanh thiếu niên theo mức thu nhập tại Hàn Quốc, trước và sau COVID-19, 2006–2022 » (National Trends in Adolescents Mental Health by Income Level in South Korea, Pre- and Post-COVID-19, 2006–2022), xuất bản trên Nature Scientific Reports, 2024 (Q1, IF ≈ 4,6). Dữ liệu KYRBS (Korea Youth Risk Behavior Web-based Survey) quốc gia 2006–2022. 14 trang, 4 bảng, 1 hình.
+Phương pháp nghiên cứu
+Phân tích xu hướng 16 năm (2006–2022) từ KYRBS — khảo sát hành vi nguy cơ thanh niên quốc gia Hàn Quốc, phân tầng theo mức thu nhập gia đình và giai đoạn COVID-19. Nói cách khác, đây là phân tích xu hướng dài nhất trong Đề tài (16 năm), cho phép đánh giá tác động bất bình đẳng kinh tế lên SKTT VTN trước, trong và sau COVID-19.
+KYRBS được Trung tâm Kiểm soát Dịch bệnh Hàn Quốc và Bộ Giáo dục triển khai hàng năm từ 2005, lấy mẫu cụm nhiều bậc đại diện quốc gia cho HS THCS + THPT.
+Kết quả nghiên cứu định lượng
+Bảng 1 (từ Table 1-2 gốc). Xu hướng SKTT VTN Hàn Quốc 2006–2022:
+Bảng 2. So sánh xu hướng Hàn Quốc với các nước:
+Bảng 3. Bất bình đẳng thu nhập và SKTT:
+Đối chiếu liên bài : Hàn Quốc là NƯỚC DUY NHẤT trong Đề tài cho thấy SKTT VTN CẢI THIỆN trước COVID (2006–2019) rồi XẤU ĐI sau COVID — mô hình ngược với phương Tây (tăng liên tục). Đáng chú ý, bất bình đẳng thu nhập MỞ RỘNG sau COVID — gợi ý COVID tác động nặng hơn lên nhóm nghèo. Tại VN, chưa có dữ liệu phân tầng theo thu nhập cho SKTT VTN — đây là GAP quan trọng.
+Nhận xét, phát hiện qua kết quả nghiên cứu
+*Xu hướng đảo chiều.* SKTT cải thiện 13 năm (2006–2019) rồi xấu đi sau COVID — mô hình độc đáo so với phương Tây (tăng liên tục). Có thể do chính sách SKTT học đường Hàn Quốc hiệu quả trước COVID.
+*Bất bình đẳng thu nhập.* Chênh lệch stress 22,7 điểm giữa nhóm giàu-nghèo là rất lớn. COVID làm khoảng cách MỞ RỘNG — nhóm nghèo bị ảnh hưởng nặng hơn.
+*Tự tử tăng sau COVID.* Hàn Quốc có tỷ lệ tự tử VTN cao nhất OECD — dữ liệu này xác nhận xu hướng đáng lo ngại.
+Kết luận
+Dữ liệu KYRBS quốc gia 16 năm, cho thấy SKTT VTN Hàn Quốc cải thiện trước COVID nhưng xấu đi đáng kể sau COVID, với bất bình đẳng thu nhập mở rộng (stress: 62,8% nhóm nghèo vs 40,1% nhóm giàu), gợi ý rằng (1) can thiệp SKTT có thể hiệu quả (giai đoạn cải thiện 2006–2019), nhưng (2) COVID đảo ngược tiến bộ, đặc biệt ở nhóm nghèo. Tại VN, cần phân tích SKTT theo thu nhập để đánh giá bất bình đẳng tương tự.
+Phản biện
+Nature Sci Rep Q1 IF = 4,6. KYRBS quốc gia 16 năm — xu hướng dài nhất trong Đề tài. Phân tầng theo thu nhập — ít NC nào làm. Tuy nhiên, chỉ Hàn Quốc (khác VN về hệ thống giáo dục, kinh tế). Đo stress/buồn bã (không tách lo âu riêng bằng GAD-7). KYRBS tự báo cáo trực tuyến — thiên lệch.
+Hướng nghiên cứu tiếp theo
+Phân tích SKTT VTN VN theo thu nhập gia đình. So sánh xu hướng Hàn Quốc vs VN trước/sau COVID. Đánh giá chính sách SKTT học đường Hàn Quốc (giai đoạn cải thiện) để áp dụng cho VN.
+Đánh giá: ⭐⭐⭐⭐ Cao. Nature Q1, KYRBS 16 năm, bất bình đẳng thu nhập, mô hình đảo chiều COVID.
+Chỉ số | Xu hướng trước COVID | Xu hướng sau COVID | Bất bình đẳng thu nhập
+Stress nhận thức | Giảm | TĂNG | Thu nhập thấp: 62,8% vs cao: 40,1%
+Buồn bã | Giảm | TĂNG (28,2%) | Khoảng cách MỞ RỘNG
+Ý tưởng tự tử | Giảm | TĂNG (13,9%) | Thu nhập thấp tệ hơn
+Cố tự tử | Giảm | TĂNG | Thu nhập thấp tệ hơn
+Nước | Giai đoạn | Xu hướng | Đặc thù
+Hàn Quốc (bài này) | 2006–2022 (16 năm) | Giảm trước COVID, TĂNG sau | Bất bình đẳng thu nhập mở rộng
+Hoa Kỳ (QT23) | 2013–2021 (8 năm) | Lo âu tăng gấp đôi | Hệ thống y tế công
+Na Uy (QT21) | 2011–2024 (13 năm) | Tăng liên tục | Trường học + MXH
+Ireland (QT32) | 2012–2019 (7 năm) | Tăng, nữ nhanh hơn | Cắt ngang lặp lại
+Việt Nam (VN14) | 2021 vs 2023 | 41,5% → 25,4% | Phục hồi sau COVID
+Toàn cầu (QT30) | 1990–2021 (31 năm) | AAPC 0,84% | GBD 204 nước
+Thu nhập | Stress 2022 | Buồn bã | Tự tử | So với VN
+Cao nhất | 40,1% | Thấp hơn | Thấp hơn
+Thấp nhất | 62,8% | Cao hơn | Cao hơn
+Chênh lệch | 22,7 điểm | Mở rộng sau COVID | VN: chưa có dữ liệu theo thu nhập
+
+============================================================
+[QT035] RAG SUMMARY:
+Tóm tắt bài QT-35
+Tên công trình, tác giả, năm, mẫu khảo sát, đối tượng, khách thể, địa bàn khảo sát
+Công trình « Lo âu xã hội ở thanh niên: Nghiên cứu tỷ lệ tại 7 quốc gia » (Social Anxiety in Young People: A Prevalence Study in Seven Countries), do Philip Jefferies và Michael Ungar (2020), Dalhousie University, Canada, khảo sát 6.825 thanh niên 16–29 tuổi (TB = 22,84; SD = 3,97) từ Brazil, Trung Quốc, Indonesia, Nga, Thái Lan, Mỹ, và VIỆT NAM. PLOS ONE, 15(9), e0239133. DOI: 10.1371/journal.pone.0239133.
+Phương pháp nghiên cứu
+Sử dụng Thang Lo âu Tương tác Xã hội 17 mục (SIAS-17 — Social Interaction Anxiety Scale; Mattick & Clarke, 1998) đo nỗi sợ và lo âu liên quan tương tác xã hội. Nói cách khác, đây đo lo âu XÃ HỘI cụ thể (không phải lo âu tổng quát GAD) — sợ bị đánh giá, sợ nói chuyện, sợ tương tác.
+SIAS-17: 17 mục thuận chiều, ngưỡng SAD (Social Anxiety Disorder) ≥ 29 (tương đương SIAS-20 ≥ 34). Phân biệt lâm sàng/không lâm sàng, phân biệt SAD vs GAD. Đã kiểm chứng đa văn hóa.
+Tổng quan cho thấy tỷ lệ SAD suốt đời lên đến 12% ở Mỹ, nhưng các NC trước chủ yếu đo ở người trưởng thành, ít tập trung thanh niên và đa quốc gia.
+6.825 người, mẫu quota từ panel đại diện quốc gia (Dynata, OMI, GMO Research). Khảo sát trực tuyến 11/2019.
+ANOVA, chi-square, hồi quy. So sánh theo giới, tuổi, quốc gia, việc làm, khu vực, học vấn. Đánh giá tự nhận thức vs ngưỡng SIAS.
+Kết quả nghiên cứu định lượng
+Bảng 1. Tỷ lệ SAD theo quốc gia
+Bảng 2. SAD theo phân nhóm
+Đối chiếu liên bài
+VN SAD = 30,7% — cao hơn nhiều so với V-NAMHS 2022 (2,3% chẩn đoán DISC) — do đo khác (sàng lọc vs chẩn đoán). So với bài khác: Hoa 2024 (40,6% GAD-7 lo âu tổng quát), Ngô Anh Vinh 2024 (lo âu DASS-21 ở DTTS). Đây là NC DUY NHẤT trong Đề tài đo lo âu XÃ HỘI riêng ở VN.
+Nhận xét, phát hiện qua kết quả nghiên cứu
+*Tỷ lệ SAD = 36% toàn cầu — cao hơn nhiều so với 12% báo cáo trước.* Do: (1) tập trung thanh niên 16–29, (2) thay đổi xã hội (MXH), (3) tăng nhận thức.
+*KHÔNG khác biệt giới tính* — trái kỳ vọng. Lo âu xã hội có thể ảnh hưởng nam=nữ (khác GAD thường nữ>nam).
+*18–24 tuổi cao nhất (40,3%)* — giai đoạn đại học/đầu sự nghiệp = đỉnh lo âu xã hội.
+*18% "false negatives"* — có SAD nhưng KHÔNG nhận ra. Tại VN, tỷ lệ này có thể cao hơn do nhận thức SKTT còn thấp.
+*VN: nói với người có thẩm quyền là lo âu xếp hạng 3* — phù hợp văn hóa tôn trọng thứ bậc.
+Kết luận
+Dữ liệu 6.825 thanh niên từ 7 quốc gia, cho thấy lo âu xã hội rất phổ biến (36% đạt ngưỡng SAD), không khác biệt giới tính, cao nhất 18–24 tuổi. VIỆT NAM: 30,7% — cứ 3 thanh niên VN có 1 người có khả năng mắc SAD. 18% là "lo âu ẩn". Gợi ý rằng cần sàng lọc lo âu XÃ HỘI riêng — không chỉ lo âu tổng quát.
+Phản biện
+PLOS ONE Q1. 7 quốc gia đa dạng, BÀO GỒM VN. Mẫu lớn (6.825). SIAS đa văn hóa. Tuy nhiên: mẫu market research (Unilever), không phải khảo sát SKTT. SIAS chỉ đo tương tác (không đo biểu diễn). Sàng lọc, không chẩn đoán. Tuổi 16–29 rộng hơn VTN.
+Hướng nghiên cứu tiếp theo
+NC lo âu xã hội chuyên biệt ở VTN THCS/THPT VN (10–17 tuổi). So sánh VN vs Indonesia, Thái Lan (cùng ĐNA nhưng rất khác). Đánh giá "false negatives" ở VN — nhận thức SKTT. MXH + lo âu XH: NC riêng.
+Đánh giá: ⭐⭐⭐⭐ Cao. PLOS ONE Q1, 7 quốc gia bao gồm VN, n = 6.825.
+Quốc gia | Điểm TB (SD) | SAD ≥ 29 (%) | So sánh
+Brazil | 26,18 (15,23) | 42,4%
+Trung Quốc | 22,30 (13,52) | 32,1%
+Indonesia | 18,94 (13,21) | 22,9% | Thấp nhất
+Nga | 20,78 (12,79) | 27,0%
+Thái Lan | 25,57 (13,92) | 41,4%
+Hoa Kỳ | 30,35 (15,44) | 57,6% | Cao nhất
+VIỆT NAM | 22,68 (11,77) | 30,7% | SD thấp nhất
+TỔNG | 23,82 (14,18) | 36,2% | F = 74,85, p < 0,001
+Phân nhóm | SAD (%) | p | Ghi chú
+Nam | 35,6% | n.s. | KHÔNG khác biệt giới
+Nữ | 36,5%
+16–17 tuổi | 30,8% | <0,001
+18–24 tuổi | 40,3% | Cao nhất
+25–29 tuổi | 32,8%
+Thất nghiệp | 41,7% | <0,001 | Cao nhất
+Chưa xong cấp 3 | 52,0% | <0,001 | Rất cao
+Ngoại ô | 42,4% | <0,001 | Cao nhất (không phải nông thôn)

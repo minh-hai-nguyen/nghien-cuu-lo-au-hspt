@@ -1,0 +1,111 @@
+{
+  "covered": [
+    {
+      "failed": "Bhardwaj_2020_Chandigarh_DASS21.pdf",
+      "use_instead": ".\\02_Papers-goc\\The-gioi_Khac\\QT011_Bhardwaj_et_al_2020_India_Chandigarh.pdf"
+    },
+    {
+      "failed": "CBT_Delivery_GAD_TranslPsych_2025.pdf",
+      "use_instead": ".\\02_Papers-goc\\The-gioi_Khac\\QT020_Liu_CBT_Delivery_GAD_NMA_2025.pdf"
+    },
+    {
+      "failed": "Chen_2023_Chinese_SecondarySchool_BMCPsych.pdf",
+      "use_instead": ".\\02_Papers-goc\\11-bai-ban-dau-va-mo-rong\\07_Chen_et_al_2023.pdf"
+    },
+    {
+      "failed": "Child Adoles Psych Nursing - 2025 - Anderson - Contributing Factors to the Rise in Adolescent Anxiety and Associated Mental.pdf",
+      "use_instead": ".\\02_Papers-goc\\The-gioi-moi\\British J Clinic Psychol - 2025 - Li - Cross‐sectional and longitudinal associations of screen time with adolescent.pdf"
+    },
+    {
+      "failed": "Chronic_Stress_Neuroinflammation_FrontPsych_2023.pdf",
+      "use_instead": ".\\02_Papers-goc\\The-gioi_Au-My-Uc\\QT054_ChronicStress_Neuroinflammation_FrontPsych_2023.pdf"
+    },
+    {
+      "failed": "Epigenetics_Childhood_Maltreatment_TranslPsych_2021.pdf",
+      "use_instead": ".\\02_Papers-goc\\The-gioi_Au-My-Uc\\QT055_Parade_Epigenetics_Maltreatment_TranslPsych_2021.pdf"
+    },
+    {
+      "failed": "HoangTrungHoc_2025_COVID_VN.pdf",
+      "use_instead": ".\\02_Papers-goc\\Viet-Nam\\VN014_HoangTrungHoc_2025_VN_COVID.pdf"
+    },
+    {
+      "failed": "Korea_Adolescent_MH_Trends_2024.pdf",
+      "use_instead": ".\\02_Papers-goc\\The-gioi_Au-My-Uc\\QT023_JAACAP_USA_Mojtabai_Trends_2024.pdf"
+    },
+    {
+      "failed": "Microbiota_GutBrain_Anxiety_2024_FrontNeuro.pdf",
+      "use_instead": ".\\02_Papers-goc\\The-gioi_Khac\\QT056_Jiang_Microbiota_GutBrain_Anxiety_FrontNeuro_2024.pdf"
+    },
+    {
+      "failed": "Mindfulness_Nature_MentalHealth_2023.pdf",
+      "use_instead": ".\\02_Papers-goc\\The-gioi_Au-My-Uc\\QT052_Mindfulness_NatureMH_IPD_MA_2023.pdf"
+    },
+    {
+      "failed": "Nakie_2022_Ethiopia_HighSchool_BMCPsych.pdf",
+      "use_instead": ".\\02_Papers-goc\\11-bai-ban-dau-va-mo-rong\\06_Nakie_et_al_2022.pdf"
+    },
+    {
+      "failed": "Neural_Circuits_Mechanisms_Anxiety_2025_FrontNeuralCirc.pdf",
+      "use_instead": ".\\02_Papers-goc\\The-gioi_Khac\\QT057_NeuralCircuits_Mechanisms_Anxiety_FrontNeuralCirc_2025.pdf"
+    },
+    {
+      "failed": "Neuroinflammation_Neuromodulation_TranslPsych_2022.pdf",
+      "use_instead": ".\\02_Papers-goc\\The-gioi_Khac\\QT058_Guo_Neuroinflammation_Neuromodulation_TranslPsych_2022.pdf"
+    },
+    {
+      "failed": "NgoAnhVinh_2024_DTTS_LangSon.pdf",
+      "use_instead": ".\\02_Papers-goc\\Viet-Nam\\VN015_NgoAnhVinh_2024_LangSon_DTTS.pdf"
+    },
+    {
+      "failed": "Pham_2024_QualityCare_VN_Adolescents.pdf",
+      "use_instead": ".\\02_Papers-goc\\pham-et-al-2024-the-correlation-between-quality-of-care-and-mental-health-and-behavioral-problems-among-vietnamese.pdf"
+    },
+    {
+      "failed": "Pharmacotherapy_Anxiety_2020_Frontiers.pdf",
+      "use_instead": ".\\02_Papers-goc\\The-gioi_Au-My-Uc\\QT053_Pharmacotherapy_Anxiety_Review_Frontiers_2020.pdf"
+    },
+    {
+      "failed": "SchoolFactors_VN_Anxiety_2021.pdf",
+      "use_instead": ".\\02_Papers-goc\\Viet-Nam\\VN027_Dinh_SchoolFactors_VN_2021.pdf"
+    },
+    {
+      "failed": "Social_Anxiety_Young_People_7Countries_2020_PLOSONE.pdf",
+      "use_instead": ".\\02_Papers-goc\\The-gioi_Au-My-Uc\\QT035_Jefferies_SocialAnxiety_7Countries_2020.pdf"
+    },
+    {
+      "failed": "VNAMHS-Report_Eng_15-Feb-2023.pdf",
+      "use_instead": ".\\02_Papers-goc\\11-bai-ban-dau-va-mo-rong\\12_VNAMHS_2023.pdf"
+    },
+    {
+      "failed": "VN_PNT_DASS_THPT_2025.pdf",
+      "use_instead": ".\\02_Papers-goc\\The-gioi_Khac\\QT047_Dong_PLOS_DASS_YaAn_2025.pdf"
+    },
+    {
+      "failed": "VN_TPHCM_DASS_THPT_2024.pdf",
+      "use_instead": ".\\02_Papers-goc\\Viet-Nam\\VN020_TranHoVinhLoc_2024_TPHCM_DASS-Y.pdf"
+    },
+    {
+      "failed": "Wen_2020_LPA_Anxiety_Rural_China.pdf",
+      "use_instead": ".\\02_Papers-goc\\The-gioi_Au-My-Uc\\QT053_Pharmacotherapy_Anxiety_Review_Frontiers_2020.pdf"
+    },
+    {
+      "failed": "LongBinh_AnGiang_2024_DASS21.pdf",
+      "use_instead": ".\\02_Papers-goc\\Viet-Nam\\VN020_TranHoVinhLoc_2024_TPHCM_DASS-Y.pdf"
+    }
+  ],
+  "uncovered": [
+    "fpubh-12-1232856.pdf",
+    "Indonesia_Adolescent_MH_2024.pdf",
+    "journal.pone.0316825.pdf",
+    "PIIS2468266725000982.pdf",
+    "Qiu_2022_ParentingStyle_Resilience_FrontPsych.pdf",
+    "Study on school-related factors impacting mental health and well-being of adolescents in Viet Nam.pdf",
+    "VN_Hue_LoAu_TramCam_VTN_2025.pdf",
+    "16.-NguyenThiVan.pdf",
+    "TRANNGUYENNGOC-TamThan.pdf",
+    "British J Clinic Psychol - 2025 - Li - Cross‐sectional and longitudinal associations of screen time with adolescent.pdf",
+    "2617-Văn bản của bài báo-2387-1-10-20250619 (1).pdf",
+    "NguyenDanhLam_2024_YenDinh_ThanhHoa.pdf",
+    "Gui tac gia Phan bien bai 2026.05.14.pdf"
+  ]
+}

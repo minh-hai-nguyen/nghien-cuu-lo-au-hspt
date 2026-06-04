@@ -1,0 +1,1206 @@
+{
+  "meta": {
+    "created": "2026-04-15",
+    "version": "v3-pedagogical",
+    "pedagogical_features": [
+      "Scaffolding (learning path 7 levels)",
+      "Analogies for 20+ abstract concepts",
+      "Common misconceptions called out",
+      "When-to-use-A-vs-B comparisons",
+      "Exercises for self-check",
+      "Quick start Q&A"
+    ],
+    "total_abbreviations": 213,
+    "total_detailed_terms": 45,
+    "total_organizations": 21
+  },
+  "abbreviations": {
+    "SMD": "Standardized Mean Difference — Khác biệt trung bình chuẩn hoá",
+    "MD": "Mean Difference — Khác biệt trung bình (thô)",
+    "OR": "Odds Ratio — Tỷ số odds",
+    "RR": "Risk Ratio / Relative Risk — Tỷ số nguy cơ tương đối",
+    "HR": "Hazard Ratio — Tỷ số nguy cơ tức thời (survival analysis)",
+    "CI": "Confidence Interval — Khoảng tin cậy (frequentist)",
+    "CrI": "Credible Interval — Khoảng tin cậy Bayesian",
+    "KTC": "Khoảng Tin Cậy (tiếng Việt cho CI hoặc CrI)",
+    "SE": "Standard Error — Sai số chuẩn",
+    "SD": "Standard Deviation — Độ lệch chuẩn",
+    "M": "Mean — Trung bình",
+    "Mdn": "Median — Trung vị",
+    "IQR": "Interquartile Range — Khoảng tứ phân vị",
+    "n": "Sample size (subgroup) — Cỡ mẫu nhóm",
+    "N": "Sample size (total) — Cỡ mẫu tổng",
+    "p": "p-value — Giá trị xác suất",
+    "df": "Degrees of freedom — Bậc tự do",
+    "χ²": "Chi-square statistic — Thống kê khi bình phương",
+    "t": "t-statistic — Thống kê Student t",
+    "F": "F-statistic — Thống kê F (ANOVA)",
+    "z": "z-statistic — Thống kê z (normal)",
+    "r": "Pearson correlation coefficient — Hệ số tương quan Pearson",
+    "ρ": "Spearman rank correlation — Tương quan hạng Spearman",
+    "β": "Beta coefficient — Hệ số hồi quy",
+    "η²p": "Partial eta squared — Hệ số eta bình phương phần",
+    "d": "Cohen's d — SMD theo công thức Cohen",
+    "g": "Hedges' g — SMD hiệu chỉnh small-sample",
+    "NNT": "Number Needed to Treat — Số người cần điều trị để 1 người cải thiện",
+    "I²": "I-squared — Chỉ số heterogeneity MA",
+    "τ²": "Tau-squared — Between-study variance (random-effects)",
+    "Q": "Cochran's Q — Heterogeneity test",
+    "SUCRA": "Surface Under Cumulative Ranking curve — Xếp hạng NMA",
+    "logOR": "Logarithm of Odds Ratio",
+    "BF": "Bayes Factor — Tỷ số bằng chứng Bayesian",
+    "MCMC": "Markov Chain Monte Carlo — Thuật toán Bayesian sampling",
+    "HMC": "Hamiltonian Monte Carlo — MCMC hiện đại (Stan)",
+    "NUTS": "No-U-Turn Sampler — HMC variant",
+    "ESS": "Effective Sample Size — Số samples độc lập thực tế",
+    "HDI": "Highest Density Interval — Khoảng mật độ cao nhất",
+    "RCT": "Randomized Controlled Trial — Thử nghiệm ngẫu nhiên có đối chứng",
+    "cRCT": "Cluster RCT — RCT phân bổ theo cụm (trường, lớp)",
+    "SR": "Systematic Review — Tổng quan hệ thống",
+    "MA": "Meta-Analysis — Phân tích tổng hợp",
+    "NMA": "Network Meta-Analysis — Phân tích tổng hợp mạng",
+    "IPD-MA": "Individual Patient Data Meta-Analysis",
+    "RCBI": "Revised Cyber Bullying Inventory",
+    "FGD": "Focus Group Discussion — Thảo luận nhóm tập trung",
+    "KII": "Key Informant Interview — Phỏng vấn người am hiểu",
+    "IDI": "In-Depth Interview — Phỏng vấn sâu",
+    "GAD-7": "Generalized Anxiety Disorder 7-item Scale (Spitzer 2006)",
+    "PHQ-9": "Patient Health Questionnaire 9-item (Kroenke 2001)",
+    "PHQ-A": "PHQ for Adolescents",
+    "DASS-21": "Depression Anxiety Stress Scale 21-item",
+    "DASS-42": "DASS original 42-item",
+    "DASS-Y": "DASS Youth version (VTN)",
+    "SDQ-25": "Strengths and Difficulties Questionnaire 25-item (Goodman 1997)",
+    "SDQ": "SDQ (generic)",
+    "CBCL": "Child Behaviour Checklist (Achenbach)",
+    "YSR": "Youth Self-Report (Achenbach, 11–18 tuổi)",
+    "PSC-17": "Pediatric Symptom Checklist 17-item",
+    "CESD-R": "Center for Epidemiologic Studies Depression Scale — Revised",
+    "CES-D": "CES-D original (Radloff 1977)",
+    "CES-DC": "CES-D for Children",
+    "BDI": "Beck Depression Inventory",
+    "BDI-II": "BDI 2nd edition",
+    "BAI": "Beck Anxiety Inventory",
+    "STAI": "State-Trait Anxiety Inventory",
+    "STAI-C": "STAI for Children",
+    "HAM-A": "Hamilton Anxiety Rating Scale (clinician-rated)",
+    "HAM-D": "Hamilton Depression Rating Scale",
+    "SCARED": "Screen for Child Anxiety Related Emotional Disorders",
+    "LSAS": "Liebowitz Social Anxiety Scale",
+    "LSAS-SR": "LSAS Self-Report",
+    "RCADS": "Revised Child Anxiety and Depression Scale",
+    "MASC": "Multidimensional Anxiety Scale for Children",
+    "DISC-5": "Diagnostic Interview Schedule for Children, version 5",
+    "DISC-IV": "DISC version IV (DSM-IV based)",
+    "K-SADS": "Kiddie Schedule for Affective Disorders and Schizophrenia",
+    "MINI": "Mini International Neuropsychiatric Interview (Sheehan 1998)",
+    "MINI-KID": "MINI for Children and Adolescents",
+    "CIDI": "Composite International Diagnostic Interview (WHO)",
+    "WMH-CIDI": "World Mental Health CIDI",
+    "MDS3": "Maryland Safe and Supportive Schools Climate Survey",
+    "ESSA": "Engagement with School Scale for Adolescents (Sun 2011)",
+    "ACE": "Adverse Childhood Experiences (Felitti 1998)",
+    "ACEs": "ACEs questionnaire",
+    "GEAS": "Global Early Adolescent Study",
+    "CD-RISC": "Connor-Davidson Resilience Scale",
+    "CSES": "Coping Self-Efficacy Scale",
+    "MHC-SF": "Mental Health Continuum — Short Form (Keyes)",
+    "CGI": "Clinical Global Impression scale",
+    "DSM-5": "Diagnostic and Statistical Manual of Mental Disorders, 5th Edition (APA 2013)",
+    "DSM-5-TR": "DSM-5 Text Revision (2022)",
+    "DSM-IV": "DSM 4th Edition (older, 1994/2000)",
+    "ICD-10": "International Classification of Diseases v10 (WHO)",
+    "ICD-11": "ICD v11 (WHO 2022)",
+    "GAD": "Generalized Anxiety Disorder — Rối loạn lo âu lan toả",
+    "SAD": "Social Anxiety Disorder — Rối loạn lo âu xã hội",
+    "PTSD": "Posttraumatic Stress Disorder — Rối loạn căng thẳng sau sang chấn",
+    "MDD": "Major Depressive Disorder — Rối loạn trầm cảm nặng",
+    "PDD": "Persistent Depressive Disorder (Dysthymia)",
+    "ADHD": "Attention-Deficit/Hyperactivity Disorder",
+    "ASD": "Autism Spectrum Disorder",
+    "OCD": "Obsessive-Compulsive Disorder",
+    "BPD": "Borderline Personality Disorder",
+    "CBT": "Cognitive Behavioral Therapy — Liệu pháp nhận thức hành vi",
+    "iCBT": "Internet CBT",
+    "gCBT": "Group CBT",
+    "CA-CBT": "Culturally Adapted CBT",
+    "ACT": "Acceptance and Commitment Therapy",
+    "DBT": "Dialectical Behavior Therapy",
+    "IPT": "Interpersonal Therapy",
+    "MBSR": "Mindfulness-Based Stress Reduction",
+    "MBCT": "Mindfulness-Based Cognitive Therapy",
+    "MHPSS": "Mental Health and Psychosocial Support (WHO/IASC)",
+    "mhGAP": "Mental Health Gap Action Programme (WHO)",
+    "DMHI": "Digital Mental Health Intervention",
+    "TAU": "Treatment As Usual",
+    "RAP-A": "Resourceful Adolescent Program (Shochet)",
+    "CAMS": "Child/Adolescent Anxiety Multimodal Study (Walkup 2008 NEJM)",
+    "BESST": "Brief Educational workshops in Secondary Schools Trial (UK)",
+    "MHST": "Mental Health Support Team (UK NHS)",
+    "PLACES": "Psychoeducational Low-intensity Acceptance Coping Strategies (UK)",
+    "SSRI": "Selective Serotonin Reuptake Inhibitor",
+    "SNRI": "Serotonin-Norepinephrine Reuptake Inhibitor",
+    "PE": "Physical Exercise — Luyện tập thể chất",
+    "VRET": "Virtual Reality Exposure Therapy",
+    "PRISMA": "Preferred Reporting Items for Systematic Reviews and Meta-Analyses",
+    "PRISMA-ScR": "PRISMA for Scoping Reviews",
+    "PRISMA-NMA": "PRISMA for Network Meta-Analyses",
+    "GRADE": "Grading of Recommendations Assessment, Development and Evaluation",
+    "RoB 2": "Cochrane Risk of Bias 2.0 (Sterne 2019)",
+    "ROBINS-I": "Risk of Bias in Non-randomized Studies of Interventions",
+    "STROBE": "Strengthening the Reporting of Observational Studies in Epidemiology",
+    "CONSORT": "Consolidated Standards of Reporting Trials",
+    "COREQ": "Consolidated Criteria for Reporting Qualitative Research",
+    "MOOSE": "Meta-analysis of Observational Studies in Epidemiology",
+    "TREND": "Transparent Reporting of Evaluations with Nonrandomized Designs",
+    "WHO": "World Health Organization — Tổ chức Y tế Thế giới",
+    "UNICEF": "United Nations Children's Fund",
+    "APA": "American Psychiatric Association (DSM-5 publisher)",
+    "NIMH": "National Institute of Mental Health (USA)",
+    "NIH": "National Institutes of Health (USA)",
+    "NHS": "National Health Service (UK)",
+    "NICE": "National Institute for Health and Care Excellence (UK)",
+    "JHSPH": "Johns Hopkins Bloomberg School of Public Health",
+    "UQ": "The University of Queensland (Australia)",
+    "IOS": "Institute of Sociology (Vietnam Academy of Social Sciences)",
+    "VASS": "Viet Nam Academy of Social Sciences",
+    "HMU": "Hanoi Medical University",
+    "HUPH": "Hanoi University of Public Health",
+    "MOET": "Ministry of Education and Training (Vietnam) — Bộ GD&ĐT",
+    "MOH": "Ministry of Health (Vietnam) — Bộ Y tế",
+    "MOLISA": "Ministry of Labour, Invalids and Social Affairs (Vietnam)",
+    "GOPFP": "General Office for Population and Family Planning (Vietnam)",
+    "POPFP": "Provincial Office of Population and Family Planning",
+    "DOET": "Department of Education and Training (provincial MOET)",
+    "DOH": "Department of Health (provincial MOH)",
+    "DOLISA": "Department of Labour, Invalids and Social Affairs (provincial MOLISA)",
+    "HSPI": "Health Strategy and Policy Institute (Vietnam)",
+    "GSO": "General Statistical Office (Vietnam) — Tổng cục Thống kê",
+    "V-NAMHS": "Viet Nam Adolescent Mental Health Survey (2022)",
+    "I-NAMHS": "Indonesia NAMHS",
+    "K-NAMHS": "Kenya NAMHS",
+    "NAMHS": "National Adolescent Mental Health Surveys (WHO framework)",
+    "SAVY": "Survey Assessment of Vietnamese Youth",
+    "GSHS": "Global School-based Student Health Survey",
+    "GBD": "Global Burden of Disease Study",
+    "HBSC": "Health Behaviour in School-aged Children",
+    "LMIC": "Low- and Middle-Income Countries",
+    "LMICs": "LMICs (plural)",
+    "HIC": "High-Income Countries",
+    "HICs": "HICs (plural)",
+    "ASEAN": "Association of Southeast Asian Nations",
+    "SEA": "Southeast Asia / Southeast Asian",
+    "EAP": "East Asia and the Pacific",
+    "SSA": "Sub-Saharan Africa",
+    "TPHCM": "Thành phố Hồ Chí Minh (HCMC / Ho Chi Minh City)",
+    "DTTS": "Dân Tộc Thiểu Số (Ethnic minorities)",
+    "VTN": "Vị Thành Niên (Adolescents)",
+    "HS": "Học Sinh (Students / pupils)",
+    "SV": "Sinh Viên (University students)",
+    "GV": "Giáo Viên (Teachers)",
+    "THPT": "Trung Học Phổ Thông (High school, grades 10–12)",
+    "THCS": "Trung Học Cơ Sở (Lower secondary, grades 6–9)",
+    "SKTT": "Sức Khoẻ Tâm Thần (Mental Health)",
+    "RLLA": "Rối Loạn Lo Âu (Anxiety Disorder)",
+    "RLTT": "Rối Loạn Tâm Thần (Mental Disorder)",
+    "MH": "Mental Health (alt. MHPSS)",
+    "QR": "Quick Response (code)",
+    "FAQ": "Frequently Asked Questions",
+    "WL": "Waitlist (control)",
+    "ITT": "Intention-To-Treat analysis",
+    "PP": "Per-Protocol analysis",
+    "ES": "Effect Size",
+    "AOR": "Adjusted Odds Ratio",
+    "ARR": "Adjusted Risk Ratio / Absolute Risk Reduction",
+    "PROSPERO": "International prospective register of systematic reviews (York)",
+    "OSF": "Open Science Framework (preregistration)",
+    "PICO": "Population, Intervention, Comparator, Outcome (SR framework)",
+    "PICOTS": "PICO + Timing, Setting",
+    "SESOI": "Smallest Effect Size of Interest (equivalence testing)",
+    "TOST": "Two One-Sided Tests (equivalence)",
+    "IRR": "Interrater Reliability",
+    "SDM": "Shared Decision Making",
+    "EBP": "Evidence-Based Practice",
+    "MDM": "Multidisciplinary Meeting",
+    "FU": "Follow-Up",
+    "BL": "Baseline",
+    "EOT": "End Of Treatment",
+    "PPI": "Patient and Public Involvement",
+    "CAMHS": "Child and Adolescent Mental Health Services (UK NHS)",
+    "CYP": "Children and Young People"
+  },
+  "detailed_terms": {
+    "GAD-7": {
+      "category": "Thang đo (sàng lọc lo âu)",
+      "name_vn": "Thang Sàng Lọc Rối Loạn Lo Âu Lan Toả 7 mục",
+      "explanation_vn": "7 câu hỏi về triệu chứng lo âu 2 tuần qua. Mỗi câu 0–3 điểm (từ \"không có\" đến \"gần như mỗi ngày\"). Tổng 0–21 điểm. Tính nhạy 89 %, tính đặc hiệu 82 % tại ngưỡng 10.",
+      "citation": "Spitzer RL, Kroenke K, Williams JB, Löwe B (2006). A brief measure for assessing generalized anxiety disorder: the GAD-7. Archives of Internal Medicine, 166(10):1092–1097.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Generalized_Anxiety_Disorder_7",
+      "example": "Trong VN001 (Hoa 2024), GAD-7 ≥ 5 được 40,6 % HS THPT Hà Nội đạt → tỷ lệ lo âu ít nhất mức nhẹ trở lên.",
+      "threshold": "Tổng: 0–4 không/thấp; 5–9 nhẹ; 10–14 vừa; ≥ 15 nặng",
+      "papers_in_csdl": [
+        "VN001",
+        "VN002 (đo phụ huynh)"
+      ],
+      "analogy": "Như \"cân nhanh\" chỉ số lo âu — 7 câu hỏi bấm xong trong 2 phút, cho điểm 0–21. Không chẩn đoán nhưng giúp quyết định có cần khám sâu hơn không.",
+      "misconception": "SAI: \"GAD-7 ≥ 10 = chẩn đoán GAD\". ĐÚNG: GAD-7 chỉ SÀNG LỌC, không chẩn đoán. Người đạt ngưỡng cần được phỏng vấn lâm sàng (DISC-5, MINI) để chẩn đoán chính thức.",
+      "compare_to": "GAD-7 (7 items, lo âu) ≠ PHQ-9 (9 items, trầm cảm). Hai thang thường đi cặp đôi nhưng KHÔNG GỘP CHUNG điểm (xem memory feedback_gad7_phq9_separation).",
+      "exercise": "Thầy đọc: \"HS có GAD-7 = 12\". Câu hỏi: (a) mức độ lo âu? (b) có nên giới thiệu khám không? → (a) Moderate (10–14); (b) Nên giới thiệu."
+    },
+    "PHQ-9": {
+      "category": "Thang đo (sàng lọc trầm cảm)",
+      "name_vn": "Thang Sàng Lọc Trầm Cảm 9 mục",
+      "explanation_vn": "9 câu tương ứng 9 tiêu chí DSM-IV cho MDD. Mỗi câu 0–3 điểm (2 tuần qua). Tổng 0–27.",
+      "citation": "Kroenke K, Spitzer RL, Williams JB (2001). The PHQ-9: validity of a brief depression severity measure. Journal of General Internal Medicine, 16(9):606–613.",
+      "wikipedia": "https://en.wikipedia.org/wiki/PHQ-9",
+      "example": "V-NAMHS đo PHQ-9 của phụ huynh để đánh giá SKTT gia đình — yếu tố ảnh hưởng lo âu con.",
+      "threshold": "0–4 không; 5–9 nhẹ; 10–14 vừa; 15–19 vừa-nặng; ≥ 20 nặng",
+      "papers_in_csdl": [
+        "VN002 (phụ huynh)"
+      ]
+    },
+    "DASS-21": {
+      "category": "Thang đo đa chiều",
+      "name_vn": "Thang Trầm Cảm – Lo Âu – Stress 21 mục",
+      "explanation_vn": "Phiên bản rút gọn của DASS-42. 3 subscale × 7 items: Trầm cảm, Lo âu, Stress. Mỗi subscale 0–42 sau khi nhân 2.",
+      "citation": "Lovibond PF, Lovibond SH (1995). The structure of negative emotional states. Behaviour Research and Therapy, 33(3):335–343.",
+      "wikipedia": "https://en.wikipedia.org/wiki/DASS_(psychology)",
+      "example": "VN029 (Duong 2025) đo DASS-21 ở 2.631 HS THPT TPHCM → lo âu 50,3 %.",
+      "threshold": "Lo âu: 0–7 normal; 8–9 mild; 10–14 moderate; 15–19 severe; ≥ 20 extremely severe",
+      "papers_in_csdl": [
+        "VN020",
+        "VN029"
+      ]
+    },
+    "SDQ-25": {
+      "category": "Thang đo đa chiều (trẻ em)",
+      "name_vn": "Bảng Hỏi Điểm Mạnh và Điểm Yếu 25 mục",
+      "explanation_vn": "25 câu chia 5 subscale × 5 items: emotional problems, conduct problems, hyperactivity/inattention, peer problems, prosocial. Self-report (11–17), parent/teacher (4–17).",
+      "citation": "Goodman R (1997). The Strengths and Difficulties Questionnaire: A research note. Journal of Child Psychology and Psychiatry, 38(5):581–586.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Strengths_and_Difficulties_Questionnaire",
+      "example": "VN022 UNICEF dùng SDQ-25 trên 668 HS → 26,1 % rủi ro trung/cao vấn đề SKTT.",
+      "threshold": "Total difficulties (tổng 4 subscale đầu, 0–40): 0–13 close to average; 14–16 slightly raised; 17–19 high; ≥ 20 very high",
+      "papers_in_csdl": [
+        "VN022",
+        "VN027",
+        "Weiss 2014 (cited trong VN002)"
+      ]
+    },
+    "DISC-5": {
+      "category": "Công cụ chẩn đoán (diagnostic interview)",
+      "name_vn": "Bảng Phỏng Vấn Chẩn Đoán cho Trẻ Em, Phiên bản 5",
+      "explanation_vn": "Phỏng vấn cấu trúc hoàn toàn cho trẻ 6–18. Lay-interviewer có thể thực hiện. Cho chẩn đoán DSM-5 chính thức (khác với sàng lọc SDQ/GAD-7).",
+      "citation": "Bitsko R, Adams HR, Holbrook J, et al. (2019). Diagnostic Interview Schedule for Children, Version 5 (DISC-5): Development and Validation of ADHD and Tic Disorder Modules. JAACAP, 58(10): Supplement. | Shaffer D, Fisher P, Lucas CP, et al. (2000). NIMH DISC-IV. JAACAP, 39(1):28–38.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Diagnostic_Interview_Schedule_for_Children",
+      "example": "V-NAMHS dùng DISC-5 trên 5.996 cặp → 3,3 % VTN đáp ứng tiêu chí DSM-5 cho rối loạn tâm thần.",
+      "threshold": "Chẩn đoán theo DSM-5: đáp ứng đủ criteria = full threshold; đáp ứng ≥ 50 % criteria = subthreshold",
+      "papers_in_csdl": [
+        "VN002"
+      ],
+      "analogy": "Như \"khám sức khoẻ đầy đủ\" so với \"cân + đo huyết áp\" (sàng lọc) — DISC-5 là khám đầy đủ theo tiêu chí DSM-5, cho chẩn đoán chính thức. SDQ/GAD-7 chỉ là cân nhanh.",
+      "misconception": "SAI: \"Thang đo cao = chẩn đoán\". ĐÚNG: Chỉ DISC-5/MINI/CIDI/K-SADS cho chẩn đoán. SDQ/GAD-7/DASS chỉ sàng lọc — cao mới là CẦN khám sâu.",
+      "compare_to": "DISC-5 (structured, lay interviewer) vs K-SADS (semi-structured, clinician). DISC-5 rẻ hơn, phù hợp NC dịch tễ lớn (như V-NAMHS).",
+      "exercise": "V-NAMHS dùng DISC-5 → 3,3% chẩn đoán disorder. VN001 dùng GAD-7 → 40,6% ≥ 5. Tại sao khác biệt? → DISC-5 yêu cầu full DSM criteria; GAD-7 chỉ sàng lọc (nhiều false positive)."
+    },
+    "CESD-R": {
+      "category": "Thang đo trầm cảm",
+      "name_vn": "Thang Trầm Cảm CES-D Phiên bản Sửa đổi",
+      "explanation_vn": "20 câu về triệu chứng trong tuần qua. Revision 2004 hiện đại hoá với DSM-IV. Tổng 0–80.",
+      "citation": "Eaton WW, Smith C, Ybarra M, Muntaner C, Tien A (2004). Center for Epidemiologic Studies Depression Scale: Review and Revision (CESD and CESD-R). In: Maruish ME (Ed.), The Use of Psychological Testing for Treatment Planning and Outcomes Assessment, 3rd Ed., Mahwah NJ: Erlbaum, pp. 363–377.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Center_for_Epidemiologic_Studies_Depression_Scale",
+      "example": "VN030 Happy House dùng CESD-R ≥ 16 là primary outcome → baseline 25,5 % HS đạt ngưỡng trầm cảm.",
+      "threshold": "Cut-off ≥ 16 = có khả năng trầm cảm lâm sàng",
+      "papers_in_csdl": [
+        "VN030"
+      ]
+    },
+    "Cohen's d": {
+      "category": "Tham số effect size",
+      "name_vn": "Hệ số Cohen's d (độ lớn hiệu ứng chuẩn hoá)",
+      "explanation_vn": "Đo khác biệt giữa 2 mean chia cho độ lệch chuẩn pooled. Không đơn vị. Dùng so sánh effect xuyên thang đo.",
+      "citation": "Cohen J (1988). Statistical Power Analysis for the Behavioral Sciences (2nd ed.). Routledge.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Effect_size#Cohen's_d",
+      "example": "VN030 Happy House: d = 0,11 cho CESD-R (depression) — effect size rất nhỏ (dưới trivial).",
+      "threshold": "< 0,2 trivial; 0,2 small; 0,5 medium; 0,8 large; 2,0 huge (Sawilowsky 2009)",
+      "formula": "d = (M₁ – M₂) / SD_pooled",
+      "papers_in_csdl": [
+        "VN030",
+        "QT043 Bress d=1,04",
+        "nhiều NC quốc tế"
+      ],
+      "analogy": "Như \"đo độ khác biệt 2 người, đơn vị là SD\" — d = 1 nghĩa \"người A cao hơn người B 1 độ lệch chuẩn\" — tương đương ~84 % người B thấp hơn người A.",
+      "misconception": "SAI: \"d = 0,5 luôn là medium\". ĐÚNG: Cohen cutoffs là heuristic GUIDELINE, không phải rule cứng. Trong 1 bối cảnh cụ thể (ví dụ can thiệp trường học universal prevention), d = 0,2 có thể đã là \"đáng giá đầu tư\" do cost thấp.",
+      "compare_to": "Cohen's d (gốc) vs Hedges' g (hiệu chỉnh small-sample) — khi n ≥ 50, d ≈ g.",
+      "exercise": "Ví dụ d = 0,11 (VN030 Happy House universal CBT). Câu: (a) độ lớn theo Cohen? (b) ý nghĩa cho triển khai universal? → (a) Dưới trivial; (b) Không nên universal, chuyển targeted."
+    },
+    "Hedges' g": {
+      "category": "Tham số effect size",
+      "name_vn": "Hệ số Hedges' g (SMD hiệu chỉnh mẫu nhỏ)",
+      "explanation_vn": "Tương tự Cohen's d nhưng nhân thêm correction factor J(df) để giảm bias khi n nhỏ. CHUẨN COCHRANE cho meta-analysis.",
+      "citation": "Hedges LV, Olkin I (1985). Statistical Methods for Meta-Analysis. Academic Press.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Effect_size#Hedges'_g",
+      "example": "QT040 Walder 2025: g = 0,878 cho guided DMHI SAD-specific (large effect).",
+      "threshold": "Giống Cohen d: < 0,2 trivial; 0,2 small; 0,5 medium; 0,8 large",
+      "formula": "g = d × J(df), J(df) = 1 − 3/(4·df − 1)",
+      "papers_in_csdl": [
+        "QT040",
+        "chuẩn Cochrane cho mọi MA"
+      ]
+    },
+    "SMD": {
+      "category": "Tham số effect size",
+      "name_vn": "Khác Biệt Trung Bình Chuẩn Hoá",
+      "explanation_vn": "Dùng khi các NC đo bằng thang khác nhau. SMD pool được xuyên scales. Trong Cochrane MA, SMD mặc định là Hedges' g.",
+      "citation": "Cochrane Handbook v6.4 (2023), Chapter 10.5: The standardized mean difference.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Standardized_mean_difference",
+      "example": "QT049 Zhang 2026: SMD anxiety −0,19 [95 % CrI: −0,22; −0,17] từ 31 RCT với GAD-7, SCARED, STAI-C, RCADS...",
+      "threshold": "Giống Cohen d. |SMD| < 0,2 = trivial về lâm sàng dù có ý nghĩa thống kê",
+      "papers_in_csdl": [
+        "QT049",
+        "QT029",
+        "QT040"
+      ],
+      "analogy": "Như \"chia cho SD để đo bằng đơn vị chung\" — giống như chuyển °F sang °C để so nhiệt độ 2 nước. SMD = hiệu ứng đo bằng \"đơn vị SD\" thay vì \"điểm thang gốc\".",
+      "misconception": "SAI: \"SMD lớn = có ý nghĩa thống kê\". ĐÚNG: SMD lớn = có Ý NGHĨA LÂM SÀNG. Có ý nghĩa thống kê (CI không chứa 0) là chuyện khác. SMD = –0,05 có thể p < 0,001 nhưng về lâm sàng là TRIVIAL.",
+      "compare_to": "SMD (chuẩn hoá) vs MD (thô): dùng SMD khi các NC đo bằng thang khác nhau (GAD-7 vs SCARED vs STAI-C). Dùng MD khi TẤT CẢ đo cùng thang (hiếm gặp).",
+      "exercise": "Thầy đọc: \"CBT giảm lo âu SMD = –0,30 (95% CI: –0,42; –0,18)\". (a) độ lớn? (b) khoảng có chứa 0 không? (c) ý nghĩa? → (a) Small (0,2–0,5); (b) Không; (c) Có ý nghĩa thống kê và nhỏ về lâm sàng."
+    },
+    "OR": {
+      "category": "Tham số effect size",
+      "name_vn": "Tỷ Số Odds",
+      "explanation_vn": "Đo sự thay đổi odds của biến cố (có bệnh / không bệnh) giữa 2 nhóm. OR = 1: không khác; > 1: tăng nguy cơ; < 1: bảo vệ.",
+      "citation": "Bland JM, Altman DG (2000). Statistics Notes: The odds ratio. BMJ, 320(7247):1468.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Odds_ratio",
+      "example": "QT045 Matsumoto 2024: OR đáp ứng = 4,97 cho iCBT vs waitlist — tức iCBT làm tăng odds đáp ứng 5× so với chờ.",
+      "threshold": "Chen 2010 cho LMIC health: OR 1,5 small; 2,5 medium; 4,0 large",
+      "formula": "OR = (a·d)/(b·c) từ bảng 2×2",
+      "papers_in_csdl": [
+        "QT045",
+        "QT048",
+        "nhiều NC epidemiology"
+      ]
+    },
+    "CI": {
+      "category": "Khoảng ước lượng",
+      "name_vn": "Khoảng Tin Cậy (Frequentist)",
+      "explanation_vn": "\"Nếu lặp lại NC vô hạn lần, 95 % CI tính được sẽ chứa giá trị thật.\" Tuyên bố về procedure, không về khoảng cụ thể.",
+      "citation": "Neyman J (1937). Outline of a theory of statistical estimation based on the classical theory of probability. Philosophical Transactions Royal Society A, 236(767):333–380.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Confidence_interval",
+      "example": "QT040 Walder 2025: g = 0,878 (95 % CI: 0,62; 1,14) cho DMHI guided SAD.",
+      "papers_in_csdl": [
+        "Đa số NC frequentist trong CSDL"
+      ],
+      "analogy": "Như \"thả lưới đánh cá nhiều lần\" — 95 % các lưới sẽ bắt được con cá lớn nhất, nhưng lưới cụ thể trong tay thầy có thể bắt hoặc không (KHÔNG biết). Tuyên bố về PHƯƠNG PHÁP, không phải về khoảng cụ thể.",
+      "misconception": "SAI (rất phổ biến): \"Có 95 % xác suất giá trị thật trong CI này\". ĐÚNG: Đó là định nghĩa của CrI Bayesian, không phải CI frequentist. CI nói về procedure \"nếu lặp lại\", không về một khoảng cụ thể. Tuy nhiên trong THỰC HÀNH, đa số đều hiểu loose như CrI.",
+      "compare_to": "CI (tần suất) vs CrI (Bayesian): cùng giá trị số trong 90% trường hợp, nhưng triết học khác. Xem doc \"Giai_thich_KTC_vs_CrI_cho_thay_v3\".",
+      "exercise": "Thầy đọc: \"SMD = –0,30, 95% CI: –0,42; –0,18\". Câu: Đọc theo Bayesian cho dễ hiểu: \"Có ~95% khả năng SMD thực nằm giữa –0,42 và –0,18\" → tuy về mặt triết học sai nhưng thực hành OK."
+    },
+    "CrI": {
+      "category": "Khoảng ước lượng",
+      "name_vn": "Khoảng Tin Cậy Bayesian",
+      "explanation_vn": "\"Có 95 % xác suất giá trị thật nằm trong khoảng này\" — tuyên bố trực tiếp về probability, dễ diễn giải lâm sàng hơn CI.",
+      "citation": "Kruschke JK (2015). Doing Bayesian Data Analysis (2nd ed.), Chapter 12. Academic Press.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Credible_interval",
+      "example": "QT049 Zhang 2026: SMD = −0,19 (95 % CrI: −0,22; −0,17) từ Bayesian MA 31 RCT.",
+      "papers_in_csdl": [
+        "QT029",
+        "QT039",
+        "QT049"
+      ],
+      "analogy": "Như \"đoán vị trí cá trong ao\" — có 95% khả năng con cá nằm trong khu vực tôi khoanh. Tuyên bố trực tiếp về xác suất.",
+      "misconception": "SAI: \"CrI luôn đúng hơn CI\". ĐÚNG: Khi prior weakly informative (mặc định) và mẫu đủ lớn, CrI VÀ CI có giá trị số gần như trùng nhau. CrI chỉ khác biệt có ý nghĩa khi prior mạnh hoặc mẫu rất nhỏ.",
+      "compare_to": "Xem CI. Chỉ dùng CrI khi đọc Bayesian MA/NMA.",
+      "exercise": "Thầy đọc QT049 Zhang 2026: \"SMD = –0,19 (95% CrI: –0,22; –0,17)\". Câu: \"Với 95% xác suất, hiệu ứng thực nằm giữa –0,22 và –0,17\" → diễn giải đúng. Khoảng KHÔNG chứa 0 → có ý nghĩa thống kê. |SMD| < 0,2 → trivial về lâm sàng."
+    },
+    "NNT": {
+      "category": "Tham số lâm sàng",
+      "name_vn": "Số Người Cần Điều Trị để 1 Người Cải Thiện",
+      "explanation_vn": "Nếu NNT = 10 → cần điều trị 10 người mới có 1 người cải thiện (so với không điều trị). NNT thấp = hiệu quả cao.",
+      "citation": "Laupacis A, Sackett DL, Roberts RS (1988). An assessment of clinically useful measures of the consequences of treatment. NEJM, 318(26):1728–1733.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Number_needed_to_treat",
+      "example": "NNT 5–10 = rất tốt (điều trị cấp tính); NNT 10–30 = acceptable cho prevention.",
+      "formula": "NNT = 1 / (Risk_control − Risk_treatment)",
+      "papers_in_csdl": [
+        "Hay dùng trong review Cochrane"
+      ]
+    },
+    "SUCRA": {
+      "category": "Tham số NMA",
+      "name_vn": "Diện Tích Dưới Đường Xếp Hạng Tích Luỹ",
+      "explanation_vn": "Tính từ Bayesian NMA: xác suất can thiệp X được xếp hạng cao. 0 % = chắc chắn xếp hạng cuối; 100 % = chắc chắn xếp hạng đầu.",
+      "citation": "Salanti G, Ades AE, Ioannidis JPA (2011). Graphical methods and numerical summaries for presenting results from multiple-treatment meta-analysis. Journal of Clinical Epidemiology, 64(2):163–171.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Network_meta-analysis",
+      "example": "QT039 Xian 2024: iCBT SUCRA 71,2 % cho SAD — tức iCBT có 71 % xác suất là can thiệp tốt nhất trong 9 liệu pháp.",
+      "threshold": "> 70 % = xếp hạng cao đáng tin cậy",
+      "papers_in_csdl": [
+        "QT029",
+        "QT039"
+      ]
+    },
+    "RCT": {
+      "category": "Thiết kế NC",
+      "name_vn": "Thử Nghiệm Ngẫu Nhiên Có Đối Chứng",
+      "explanation_vn": "Phân bổ NGẪU NHIÊN người tham gia vào nhóm can thiệp vs đối chứng → chuẩn vàng cho suy diễn nhân quả. Nếu thiết kế tốt, khác biệt quan sát là DO can thiệp, không phải do bias.",
+      "citation": "Hill AB (1952). The clinical trial. NEJM, 247(4):113–119. | Chalmers I (2001). Comparing like with like. BMJ, 322(7281):278.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Randomized_controlled_trial",
+      "example": "QT038 De Silva 2024 Sri Lanka: cluster RCT 720 HS lớp 9, 36 trường → β = −0,096, p = 0,038 cho CBT do GV dạy.",
+      "papers_in_csdl": [
+        "QT038",
+        "QT043",
+        "QT045",
+        "30+ RCT trong reviews"
+      ]
+    },
+    "MA": {
+      "category": "Thiết kế NC (tổng hợp)",
+      "name_vn": "Phân Tích Tổng Hợp",
+      "explanation_vn": "Pool hiệu ứng từ nhiều RCT/NC cùng chủ đề → ra 1 effect size tổng hợp với CI/CrI. Cho phép tăng statistical power.",
+      "citation": "Glass GV (1976). Primary, secondary, and meta-analysis of research. Educational Researcher, 5(10):3–8. | Borenstein M et al. (2021). Introduction to Meta-Analysis (2nd ed.). Wiley.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Meta-analysis",
+      "example": "QT049 Zhang 2026: MA 31 RCT CBT học đường → SMD anxiety −0,19 (small effect, nhưng có ý nghĩa thống kê).",
+      "papers_in_csdl": [
+        "QT040",
+        "QT044",
+        "QT048",
+        "QT049"
+      ],
+      "analogy": "Như \"hỏi 100 người đã ăn phở + bún, tính điểm trung bình của từng loại → kết luận phở ngon hơn bao nhiêu\". Pool ý kiến nhiều người thành 1 kết luận chung.",
+      "misconception": "SAI: \"MA càng nhiều NC pool càng tốt\". ĐÚNG: Quality > quantity. Nếu pool 10 NC có heterogeneity cao (I² > 75%) → pooled estimate có thể MISLEADING. Thà pool 3 NC đồng nhất còn hơn 30 NC khác biệt.",
+      "compare_to": "MA (2 can thiệp) vs NMA (≥ 3 can thiệp cùng lúc). Xem doc MA vs NMA.",
+      "exercise": "QT049 Zhang: 31 RCT CBT học đường → SMD –0,19. Câu: Câu hỏi MA trả lời là gì? → \"Trung bình qua 31 NC, CBT học đường có giảm lo âu thực sự không?\" (Trả lời: có nhưng nhỏ)."
+    },
+    "NMA": {
+      "category": "Thiết kế NC (tổng hợp mạng)",
+      "name_vn": "Phân Tích Tổng Hợp Mạng",
+      "explanation_vn": "So sánh NHIỀU can thiệp cùng lúc (≥ 3) qua mạng. Sử dụng cả bằng chứng TRỰC TIẾP (A vs B có RCT) và GIÁN TIẾP (A vs C suy ra qua A-B-C) để ước lượng mọi cặp. Cho phép xếp hạng.",
+      "citation": "Lumley T (2002). Network meta-analysis for indirect treatment comparisons. Statistics in Medicine, 21(16):2313–2324. | Dias S et al. (2018). Network Meta-Analysis for Decision-Making. Wiley.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Network_meta-analysis",
+      "example": "QT039 Xian 2024: NMA 30 RCT × 9 liệu pháp cho SAD VTN → iCBT SUCRA 71,2 % xếp hạng 1.",
+      "papers_in_csdl": [
+        "QT029",
+        "QT039"
+      ],
+      "analogy": "Như \"xếp hạng 9 quán phở Hà Nội\" — không phải cả 9 đã được so trực tiếp, nhưng qua mạng lưới reviews (quán 1 vs 2, 2 vs 3, 1 vs 5...), ta có thể xếp hạng cả 9.",
+      "misconception": "SAI: \"NMA không cần RCT trực tiếp\". ĐÚNG: NMA cần ÍT NHẤT một số RCT trực tiếp để \"khởi động\" mạng. Nếu A chưa từng so với B ai hết (A là \"node cô lập\") → không ước lượng được effect.",
+      "compare_to": "NMA yêu cầu thêm giả định TRANSITIVITY (bằng chứng gián tiếp đáng tin). Nếu các NC về A vs B khác bối cảnh so với NC về B vs C (ví dụ khác độ tuổi), NMA có thể sai lệch.",
+      "exercise": "QT039 Xian 2024: iCBT SUCRA 71,2% cho SAD. Câu: NMA thêm thông tin gì so với MA? → Xếp hạng (MA chỉ cho biết \"A vs đối chứng\", NMA cho biết \"A so với TẤT CẢ\")."
+    },
+    "CBT": {
+      "category": "Can thiệp tâm lý",
+      "name_vn": "Liệu Pháp Nhận Thức – Hành Vi",
+      "explanation_vn": "Kết hợp kỹ thuật nhận thức (cognitive restructuring, thay đổi niềm tin không thích hợp) và kỹ thuật hành vi (exposure, behavioural activation). Evidence-based hàng đầu cho lo âu và trầm cảm.",
+      "citation": "Beck AT (1976). Cognitive Therapy and the Emotional Disorders. International Universities Press. | Hofmann SG et al. (2012). The Efficacy of Cognitive Behavioral Therapy. Cognitive Therapy and Research, 36(5):427–440.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy",
+      "example": "Walkup 2008 CAMS (NEJM): CBT + sertraline hiệu quả hơn CBT đơn thuần hoặc sertraline đơn thuần cho anxiety 7–17 tuổi.",
+      "papers_in_csdl": [
+        "Cite trong hầu hết reviews (QT028, QT029, QT049)",
+        "Walkup 2008"
+      ],
+      "analogy": "Như \"huấn luyện viên tâm lý\" — giúp khách hàng nhận ra suy nghĩ không hợp lý (cognitive) và thay đổi hành vi (behavioral). Kết hợp 2 mặt như chân + tay trong một cơ thể.",
+      "misconception": "SAI: \"CBT chỉ là talk therapy\". ĐÚNG: CBT có 4 thành phần rõ: psychoeducation, cognitive restructuring, behavioural experiments, exposure. Có bài tập về nhà — không chỉ \"nói chuyện\".",
+      "compare_to": "CBT (traditional) vs ACT (third wave, thêm acceptance+mindfulness) vs DBT (thêm dialectics). CA-CBT = CBT + adapt văn hoá.",
+      "exercise": "Walkup 2008 CAMS: CBT + Sertraline > CBT alone > Sertraline alone > Placebo cho anxiety 7-17 tuổi. Câu: Kết hợp CBT + thuốc có nên là first-line không? → Có, cho moderate-severe anxiety theo guidelines NICE."
+    },
+    "iCBT": {
+      "category": "Can thiệp số (digital)",
+      "name_vn": "CBT qua Internet",
+      "explanation_vn": "CBT được cung cấp qua website/platform. GUIDED (có trị liệu viên hỗ trợ qua chat) hiệu quả hơn UNGUIDED (tự học). Cho phép scale up cost-effective.",
+      "citation": "Andersson G, Titov N (2014). Advantages and limitations of Internet-based interventions for common mental disorders. World Psychiatry, 13(1):4–11.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Internet-based_treatments_for_trauma_survivors",
+      "example": "QT045 Matsumoto 2024 Japan: iCBT unguided 8 modules → OR đáp ứng 4,97 cho SAD subthreshold VTN/SV.",
+      "papers_in_csdl": [
+        "QT040",
+        "QT045",
+        "QT050"
+      ],
+      "analogy": "Như \"học online\" so với \"lớp trực tiếp\" — iCBT là CBT qua internet. Có thể tự học (unguided) hoặc có coach (guided). Scale up nhanh, cost thấp, phù hợp LMIC.",
+      "misconception": "SAI: \"iCBT kém hơn face-to-face CBT\". ĐÚNG: Meta-analyses cho thấy guided iCBT hiệu quả TƯƠNG ĐƯƠNG face-to-face cho anxiety/depression nhẹ-vừa. Unguided hiệu quả hơi thấp hơn.",
+      "compare_to": "iCBT (internet-based) vs Mobile CBT (app smartphone) — mobile là subset của digital. Guided > Unguided (Walder 2025: g = 0,878 guided vs 0,3-0,4 unguided).",
+      "exercise": "QT045 Matsumoto Japan: iCBT unguided 8 modules → OR đáp ứng 4,97. Vì sao unguided vẫn hiệu quả ở đây? → Vì subthreshold SAD (đơn giản hơn full SAD) + tự-motivated đại học sinh Nhật Bản."
+    },
+    "MHPSS": {
+      "category": "Khung can thiệp",
+      "name_vn": "Hỗ Trợ Sức Khoẻ Tâm Thần và Tâm Lý Xã Hội",
+      "explanation_vn": "Khung 4 tầng của WHO/IASC: (1) Services — điều trị chuyên biệt; (2) Focused supports — nhóm hỗ trợ có trained worker; (3) Community supports — gia đình, peer; (4) Basic services — bảo đảm nhu cầu cơ bản.",
+      "citation": "Inter-Agency Standing Committee (IASC) (2007). Guidelines on Mental Health and Psychosocial Support in Emergency Settings. Geneva: IASC.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Psychosocial_intervention",
+      "example": "QT051 Menon 2025 scoping review 69 NC MHPSS LMIC Đông Á-TBD; VN022 UNICEF.",
+      "papers_in_csdl": [
+        "VN022",
+        "VN030",
+        "QT051"
+      ]
+    },
+    "mhGAP": {
+      "category": "Chương trình WHO",
+      "name_vn": "Chương Trình Hành Động Lấp Khoảng Trống Sức Khoẻ Tâm Thần",
+      "explanation_vn": "Hướng dẫn WHO cho non-specialist health workers triển khai chăm sóc SKTT cơ bản ở LMIC. Bao gồm depression, anxiety, psychosis, epilepsy, substance use, dementia.",
+      "citation": "World Health Organization (2016). mhGAP Intervention Guide for Mental, Neurological and Substance Use Disorders in Non-Specialized Health Settings — Version 2.0. Geneva: WHO.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mental_Health_Gap_Action_Programme",
+      "example": "V-NAMHS và các khuyến nghị chính sách VN dẫn chiếu mhGAP để lồng ghép SKTT vào y tế cơ sở.",
+      "papers_in_csdl": [
+        "VN002",
+        "nhiều NC LMIC"
+      ]
+    },
+    "DSM-5": {
+      "category": "Hệ thống chẩn đoán",
+      "name_vn": "Sổ Tay Chẩn Đoán và Thống Kê Rối Loạn Tâm Thần, Phiên bản 5",
+      "explanation_vn": "Chuẩn chẩn đoán tâm thần của Hiệp hội Tâm thần Hoa Kỳ. Criteria-based (đáp ứng ≥ N triệu chứng trong X thời gian + impairment). Rà soát 2022 (DSM-5-TR).",
+      "citation": "American Psychiatric Association (2013). Diagnostic and Statistical Manual of Mental Disorders (5th ed.). Washington DC: APA Publishing. | APA (2022). DSM-5-TR.",
+      "wikipedia": "https://en.wikipedia.org/wiki/DSM-5",
+      "example": "DISC-5 dựa trên DSM-5. V-NAMHS dùng DISC-5 → 3,3 % VTN VN đáp ứng tiêu chí DSM-5 cho ít nhất 1 rối loạn.",
+      "papers_in_csdl": [
+        "VN002",
+        "QT028",
+        "QT045"
+      ]
+    },
+    "ICD-11": {
+      "category": "Hệ thống chẩn đoán",
+      "name_vn": "Phân Loại Quốc Tế Bệnh Tật, Phiên bản 11",
+      "explanation_vn": "Chuẩn WHO, có hiệu lực từ 01/01/2022. Mental disorders ở Chapter 6. Khác DSM-5 ở một số category (gộp gaming disorder, prolonged grief disorder, complex PTSD).",
+      "citation": "World Health Organization (2022). International Classification of Diseases, 11th Revision (ICD-11). Geneva: WHO.",
+      "wikipedia": "https://en.wikipedia.org/wiki/ICD-11",
+      "example": "VN vẫn chủ yếu dùng ICD-10 (F00–F99); ICD-11 đang được triển khai.",
+      "papers_in_csdl": [
+        "Tham chiếu trong VN002, QT051"
+      ]
+    },
+    "GAD": {
+      "category": "Chẩn đoán",
+      "name_vn": "Rối Loạn Lo Âu Lan Toả",
+      "explanation_vn": "Lo âu quá mức, khó kiểm soát, về nhiều sự kiện, ≥ 6 tháng. Kèm ≥ 3/6 triệu chứng thể chất (căng thẳng cơ, mệt mỏi, khó tập trung, cáu gắt, rối loạn giấc ngủ, bồn chồn). DSM-5 code F41.1, ICD-11 code 6B00.",
+      "citation": "APA (2013). DSM-5, p. 222–226.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Generalized_anxiety_disorder",
+      "example": "V-NAMHS DISC-5 module GAD → gộp với social phobia thành \"anxiety disorders\" 2,3 %.",
+      "papers_in_csdl": [
+        "VN002",
+        "cite trong QT028"
+      ]
+    },
+    "SAD": {
+      "category": "Chẩn đoán",
+      "name_vn": "Rối Loạn Lo Âu Xã Hội (Ám ảnh Xã Hội)",
+      "explanation_vn": "Sợ hãi có tính dai dẳng về 1 hoặc nhiều tình huống xã hội mà người đó bị người khác quan sát. Sợ bị đánh giá tiêu cực → né tránh hoặc chịu đựng với distress lớn. Ở VTN: phải trong peer-setting. DSM-5 F40.10, ICD-11 6B04.",
+      "citation": "APA (2013). DSM-5, p. 202–208.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Social_anxiety_disorder",
+      "example": "QT039 Xian NMA 30 RCT về điều trị SAD ở trẻ/VTN (n = 1.547) → iCBT xếp hạng 1 SUCRA 71,2 %.",
+      "papers_in_csdl": [
+        "QT039",
+        "QT040",
+        "QT043",
+        "QT045"
+      ]
+    },
+    "MDD": {
+      "category": "Chẩn đoán",
+      "name_vn": "Rối Loạn Trầm Cảm Nặng",
+      "explanation_vn": "≥ 5/9 triệu chứng trong 2 tuần: (1) tâm trạng buồn hầu hết mỗi ngày; (2) anhedonia (mất hứng thú); (3) thay đổi cân nặng; (4) rối loạn giấc ngủ; (5) tâm động cơ thể; (6) mệt mỏi; (7) cảm giác vô dụng; (8) khó tập trung; (9) ý nghĩ tự sát. Triệu chứng (1) hoặc (2) BẮT BUỘC. DSM-5 F32.x.",
+      "citation": "APA (2013). DSM-5, p. 160–168.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Major_depressive_disorder",
+      "example": "V-NAMHS: 0,9 % VTN VN đáp ứng DSM-5 cho MDD.",
+      "papers_in_csdl": [
+        "VN002",
+        "VN030"
+      ]
+    },
+    "PRISMA": {
+      "category": "Chuẩn báo cáo",
+      "name_vn": "Các Mục Báo Cáo Ưu Tiên cho SR/MA",
+      "explanation_vn": "27-item checklist + flow diagram chuẩn 2020 update cho SR/MA. BẮT BUỘC ở các tạp chí Cochrane, BMJ, Lancet.",
+      "citation": "Page MJ, McKenzie JE, Bossuyt PM, et al. (2021). The PRISMA 2020 statement: an updated guideline for reporting systematic reviews. BMJ, 372:n71.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Preferred_Reporting_Items_for_Systematic_Reviews_and_Meta-Analyses",
+      "example": "QT029, QT037, QT039, QT048, QT049, QT051 — tất cả SR/MA trong CSDL đều tuân PRISMA 2020.",
+      "papers_in_csdl": [
+        "QT028–QT051 (SR/MA)"
+      ]
+    },
+    "GRADE": {
+      "category": "Chuẩn báo cáo",
+      "name_vn": "Xếp Hạng Đánh Giá Phát Triển và Đánh Giá Khuyến Nghị",
+      "explanation_vn": "Hệ thống đánh giá CHẤT LƯỢNG bằng chứng thành 4 mức: High, Moderate, Low, Very Low. Hạ bậc vì: RoB, inconsistency, indirectness, imprecision, publication bias.",
+      "citation": "Guyatt GH, Oxman AD, Vist GE, et al. (2008). GRADE: an emerging consensus on rating quality of evidence and strength of recommendations. BMJ, 336(7650):924–926.",
+      "wikipedia": "https://en.wikipedia.org/wiki/GRADE_approach",
+      "example": "QT049 Zhang 2026 tự kết luận evidence ở mức low-moderate → khuyến nghị cần high-quality trials trước khi triển khai rộng.",
+      "papers_in_csdl": [
+        "Các SR/MA chất lượng cao"
+      ]
+    },
+    "RoB 2": {
+      "category": "Chuẩn báo cáo",
+      "name_vn": "Cochrane Đánh Giá Rủi Ro Sai Lệch v2",
+      "explanation_vn": "Đánh giá 5 domain: (1) randomization; (2) deviations; (3) missing outcome data; (4) measurement; (5) reported result selection. Mỗi domain: Low / Some concerns / High.",
+      "citation": "Sterne JAC, Savović J, Page MJ, et al. (2019). RoB 2: a revised tool for assessing risk of bias in randomised trials. BMJ, 366:l4898.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cochrane_Collaboration",
+      "example": "QT029 Li 2025 Bayesian NMA đánh giá RoB 2 cho 30 RCT: ~40 % low risk, 40 % some concerns, 20 % high.",
+      "papers_in_csdl": [
+        "QT029",
+        "QT038",
+        "QT039",
+        "QT049"
+      ]
+    },
+    "Universal vs Targeted prevention": {
+      "category": "Khái niệm can thiệp",
+      "name_vn": "Phòng Ngừa Phổ Quát vs Có Mục Tiêu",
+      "explanation_vn": "Universal: cho TẤT CẢ (không chọn lọc theo nguy cơ). Targeted/Indicated: cho người có triệu chứng hoặc nguy cơ cao.",
+      "citation": "Mrazek PJ, Haggerty RJ (Eds.) (1994). Reducing Risks for Mental Disorders: Frontiers for Preventive Intervention Research. National Academy Press. | Gordon RS (1983). An operational classification of disease prevention. Public Health Reports, 98(2):107–109.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Preventive_medicine",
+      "example": "QT049 Zhang 2026: universal CBT school SMD anxiety −0,19 (small effect). QT042 BESST UK: targeted self-referral hiệu quả hơn universal.",
+      "papers_in_csdl": [
+        "VN030 (universal)",
+        "QT042 (targeted)",
+        "QT049 (universal)"
+      ],
+      "analogy": "Như \"tiêm vaccine cho MỌI trẻ em\" (universal) vs \"tiêm vaccine cho TRẺ có phơi nhiễm\" (targeted). Cả 2 đều hợp lý tuỳ bệnh, cost-benefit.",
+      "misconception": "SAI: \"Universal luôn tốt hơn vì cover nhiều người\". ĐÚNG: Universal có diluting effect — cần cost per case reduction CAO hơn targeted. Với CBT học đường (Zhang 2026 SMD –0,19), universal kém cost-effective.",
+      "compare_to": "Universal (all) > Selective (nhóm rủi ro cao) > Indicated/Targeted (có triệu chứng) > Treatment (đã chẩn đoán).",
+      "exercise": "Happy House VN030: universal, d = 0,11. BESST UK (QT042): targeted self-referral. Câu: Nếu triển khai tại VN, chọn cái nào? → BESST-style targeted cho HS có GAD-7 ≥ 5 (hiệu quả lớn hơn, cost thấp hơn)."
+    },
+    "Subthreshold symptoms": {
+      "category": "Khái niệm lâm sàng",
+      "name_vn": "Triệu Chứng Dưới Ngưỡng",
+      "explanation_vn": "Đáp ứng ≥ 50 % số triệu chứng DSM nhưng CHƯA đủ để chẩn đoán full disorder. Nhóm này VẪN cần can thiệp vì có nguy cơ progressing thành full disorder.",
+      "citation": "Pincus HA, Davis WW, McQueen LE (1999). \"Subthreshold\" mental disorders. A review and synthesis of studies. British Journal of Psychiatry, 174:288–296.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Subthreshold_conditions",
+      "example": "V-NAMHS: 21,7 % \"mental health problem\" (subthreshold+) vs 3,3 % \"mental disorder\" (full DSM-5) — khoảng cách 7× cho thấy tầm quan trọng của subthreshold.",
+      "papers_in_csdl": [
+        "VN002",
+        "QT045 Matsumoto (subthreshold SAD)"
+      ],
+      "analogy": "Như \"tiền bệnh\" — chưa đủ tiêu chí chẩn đoán nhưng đã có triệu chứng. Ví dụ: \"tiền đái tháo đường\" (HbA1c 5,7-6,4) chưa đủ tiêu chí DM nhưng cần can thiệp.",
+      "misconception": "SAI: \"Subthreshold không quan trọng, chỉ full disorder mới cần điều trị\". ĐÚNG: Subthreshold có 30-50% nguy cơ progression thành full disorder trong 2-3 năm. Can thiệp sớm ở subthreshold cost-effective hơn điều trị full disorder.",
+      "compare_to": "Full threshold (đủ DSM criteria + impairment) > Subthreshold (≥50% triệu chứng) > No threshold (không có triệu chứng đáng kể).",
+      "exercise": "V-NAMHS: 3,3% full disorder vs 21,7% any MH problem (subthreshold+). Tỷ lệ 7:1. Câu: Ý nghĩa cho đề cương can thiệp VN? → Ưu tiên targeted subthreshold (pool lớn 21,7%) thay vì chỉ treatment 3,3%."
+    },
+    "I²": {
+      "category": "Tham số meta-analysis",
+      "name_vn": "Chỉ Số Heterogeneity I²",
+      "explanation_vn": "Đo % variance trong MA là do heterogeneity thực sự (khác biệt giữa NC) chứ không phải do chance. 0% = tất cả NC đồng nhất; 100% = cực kỳ khác biệt.",
+      "citation": "Higgins JPT, Thompson SG (2002). Quantifying heterogeneity in a meta-analysis. Statistics in Medicine, 21(11):1539–1558.",
+      "wikipedia": "https://en.wikipedia.org/wiki/I-squared",
+      "example": "QT029 Li NMA: I² = 45% → moderate heterogeneity (acceptable).",
+      "threshold": "0-25% low; 25-75% moderate; >75% high. Nếu > 75% → pooled estimate có thể misleading.",
+      "analogy": "Như \"độ phân tán của đám đông ý kiến\" — I² 0% = tất cả ý kiến trùng; 100% = mỗi người một phách. Khi I² cao → pool chung có nguy cơ đánh mất nuance.",
+      "misconception": "SAI: \"I² > 50% thì MA không giá trị\". ĐÚNG: I² cao KHÔNG phải là lý do loại MA, mà là tín hiệu cần: (a) subgroup analysis; (b) meta-regression; (c) random-effects model.",
+      "papers_in_csdl": [
+        "Mọi MA/NMA trong CSDL"
+      ]
+    },
+    "Random-effects vs Fixed-effects": {
+      "category": "Mô hình meta-analysis",
+      "name_vn": "Mô Hình Hiệu Ứng Ngẫu Nhiên vs Cố Định",
+      "explanation_vn": "Fixed-effects: giả định TẤT CẢ NC đo cùng một hiệu ứng thực duy nhất. Random-effects: mỗi NC có hiệu ứng thực riêng, rút từ phân phối chung.",
+      "citation": "Borenstein M et al. (2010). A basic introduction to fixed-effect and random-effects models for meta-analysis. Research Synthesis Methods, 1(2):97–111.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Meta-analysis#Random_effects_model",
+      "analogy": "Fixed-effects: như \"đo chiều cao 1 người nhiều lần — có 1 giá trị thật\". Random-effects: như \"đo chiều cao của NHIỀU người — mỗi người có giá trị thật khác nhau, nhưng đều rút từ 1 quần thể chung\".",
+      "misconception": "SAI: \"Random-effects luôn đúng hơn\". ĐÚNG: Random-effects là mặc định trong psychology MA vì heterogeneity cao, nhưng nếu I² ≈ 0 thì fixed-effects đủ và hiệu quả hơn.",
+      "compare_to": "Fixed: CI hẹp hơn, dễ significant nhưng chỉ valid nếu I² thấp. Random: CI rộng hơn, thận trọng hơn, chuẩn APA 7 khuyến nghị.",
+      "papers_in_csdl": [
+        "Mọi MA/NMA"
+      ]
+    },
+    "p-value": {
+      "category": "Test statistics",
+      "name_vn": "Giá Trị p",
+      "explanation_vn": "Xác suất quan sát được data (hoặc extreme hơn) NẾU null hypothesis (H0 = không có hiệu ứng) ĐÚNG. p < 0,05 = nếu H0 đúng, dữ liệu này hiếm gặp (< 5%) → loại H0.",
+      "citation": "Fisher RA (1925). Statistical Methods for Research Workers. Oliver & Boyd.",
+      "wikipedia": "https://en.wikipedia.org/wiki/P-value",
+      "example": "QT038 De Silva Sri Lanka: β = −0,096, p = 0,038 → có ý nghĩa thống kê.",
+      "threshold": "p < 0,05 = có ý nghĩa; p < 0,01 = highly significant; p < 0,001 = very highly",
+      "analogy": "Như \"xác suất tung đồng xu ra mặt X 10 lần liên tiếp NẾU đồng xu công bằng\". Xác suất cực thấp (< 5%) → nghi ngờ đồng xu không công bằng (loại H0).",
+      "misconception": "SAI (RẤT phổ biến): \"p = 0,03 nghĩa là 3% khả năng H0 đúng\". ĐÚNG: p là xác suất observe data GIVEN H0 đúng (p(Data|H0)), không phải xác suất H0 đúng GIVEN data (p(H0|Data)). Đây là sai lầm nền tảng của inferential statistics.",
+      "compare_to": "p-value (frequentist) vs Bayes Factor (Bayesian). BF cho tỷ lệ bằng chứng 2 giả thuyết trực tiếp, trực quan hơn.",
+      "exercise": "QT049 Zhang: SMD = –0,19, p < 0,001. Câu: Có ý nghĩa lâm sàng không? → Không! p < 0,001 là ý nghĩa THỐNG KÊ. |SMD| < 0,2 nên trivial LÂM SÀNG.",
+      "papers_in_csdl": [
+        "Mọi NC định lượng"
+      ]
+    },
+    "Statistical vs Clinical significance": {
+      "category": "Khái niệm nền tảng",
+      "name_vn": "Ý Nghĩa Thống Kê vs Ý Nghĩa Lâm Sàng",
+      "explanation_vn": "Statistical significance: kết quả KHÔNG do chance (p < 0,05). Clinical significance: kết quả ĐỦ LỚN để có ích trong thực hành lâm sàng. HAI VIỆC KHÁC NHAU.",
+      "citation": "Kirk RE (1996). Practical significance: A concept whose time has come. Educational and Psychological Measurement, 56(5):746–759.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Clinical_significance",
+      "analogy": "Như \"phát hiện đồng xu nặng hơn 0,001 g so với quy chuẩn\" — statistical significant nếu n cực lớn, nhưng KHÔNG clinical significant (không ai nhận ra được).",
+      "misconception": "SAI: \"p < 0,05 nghĩa là can thiệp nên triển khai\". ĐÚNG: Phải có CẢ hai: statistical (p < 0,05) + clinical (SMD đủ lớn, NNT hợp lý).",
+      "exercise": "Zhang 2026 Bayesian MA: SMD = –0,19 (95% CrI: –0,22; –0,17). Có ý nghĩa thống kê? Có ý nghĩa lâm sàng? → Thống kê CÓ (CrI không chứa 0). Lâm sàng KHÔNG (|SMD| < 0,2 trivial).",
+      "papers_in_csdl": [
+        "Mọi MA/NMA"
+      ]
+    },
+    "PRISMA flow diagram": {
+      "category": "Chuẩn báo cáo SR",
+      "name_vn": "Sơ Đồ Dòng Chảy PRISMA",
+      "explanation_vn": "Sơ đồ bắt buộc trong SR/MA hiện đại — mô tả quá trình chọn lọc NC: records identified → duplicates removed → screened → assessed → included.",
+      "citation": "Page MJ et al. (2021). PRISMA 2020 flow diagram. BMJ, 372:n71.",
+      "wikipedia": "https://en.wikipedia.org/wiki/PRISMA",
+      "analogy": "Như \"biểu đồ lọc nước\" — nước bẩn ở đầu → qua N bộ lọc → nước sạch ở cuối. Mỗi bước lọc có số lượng bị loại và lý do.",
+      "example": "QT049 Zhang 2026: Records identified 2.156 → screened 1.842 → assessed 187 → included 31 RCT.",
+      "papers_in_csdl": [
+        "Mọi SR/MA trong CSDL"
+      ]
+    },
+    "Transitivity (NMA assumption)": {
+      "category": "Giả định NMA",
+      "name_vn": "Giả Định Transitivity",
+      "explanation_vn": "Trong NMA, giả định các NC về A vs B có thể kết hợp với NC về B vs C để suy ra A vs C — chỉ đúng nếu A vs B và B vs C được thực hiện ở BỐI CẢNH tương tự (cùng độ tuổi, severity, setting).",
+      "citation": "Salanti G (2012). Indirect and mixed-treatment comparison, network, or multiple-treatments meta-analysis. Research Synthesis Methods, 3(2):80–97.",
+      "analogy": "Như \"hai người chưa gặp nhau nhưng cùng quen Bob\". Ta có thể suy đoán họ giống Bob ở vài điểm, nhưng chỉ nếu 2 người gặp Bob ở cùng HOÀN CẢNH (công sở vs đám cưới).",
+      "misconception": "SAI: \"Transitivity tự động đúng\". ĐÚNG: Phải kiểm tra trước khi làm NMA. Nếu vi phạm → incoherence → kết quả không đáng tin.",
+      "papers_in_csdl": [
+        "QT029",
+        "QT039"
+      ]
+    },
+    "Publication bias": {
+      "category": "Sai lệch nghiên cứu",
+      "name_vn": "Sai Lệch Xuất Bản",
+      "explanation_vn": "Hiện tượng NC có kết quả DƯƠNG TÍNH dễ được publish hơn NC âm tính. Dẫn đến MA overestimate effect size (vì thiếu NC âm tính trong pool).",
+      "citation": "Rothstein HR, Sutton AJ, Borenstein M (2005). Publication Bias in Meta-Analysis: Prevention, Assessment and Adjustments. Wiley.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Publication_bias",
+      "analogy": "Như \"tin tức chỉ đưa tin tai nạn, không đưa tin ngày bình thường\" — mắt ta dễ thấy sự kiện đáng nhớ hơn sự kiện \"không xảy ra gì\".",
+      "misconception": "SAI: \"MA đủ tốt thì không có publication bias\". ĐÚNG: Publication bias hiện diện gần như trong MỌI MA. Cần đánh giá bằng funnel plot + Egger test.",
+      "example": "QT048 Chen 2025: \"publication bias ở mức thấp qua toàn bộ các NC\" — đã đánh giá và công bố.",
+      "compare_to": "Funnel plot: asymmetric → có thể có publication bias. Egger test: p < 0,1 → flag bias.",
+      "papers_in_csdl": [
+        "QT048",
+        "mọi SR/MA chất lượng"
+      ]
+    },
+    "Blinding (masking)": {
+      "category": "Phương pháp giảm bias",
+      "name_vn": "Mù Hoá (Làm Mù)",
+      "explanation_vn": "Giữ BN và/hoặc người đánh giá KHÔNG BIẾT ai thuộc nhóm can thiệp vs đối chứng. Giảm bias kỳ vọng + placebo effect.",
+      "citation": "Schulz KF, Grimes DA (2002). Blinding in randomised trials. Lancet, 359(9307):696–700.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Blinded_experiment",
+      "analogy": "Như \"thi không tên, không danh\" — người chấm không biết bài của ai → không bias theo cảm tình.",
+      "misconception": "SAI: \"Psychology intervention không thể mù hoá được\". ĐÚNG: BN không thể mù với psychotherapy (biết mình đang nhận CBT), nhưng NGƯỜI ĐÁNH GIÁ outcome có thể mù (assessor-blind).",
+      "compare_to": "Single-blind (chỉ BN mù), double-blind (BN + clinician), triple-blind (+ người phân tích).",
+      "papers_in_csdl": [
+        "RCT trong CSDL"
+      ]
+    },
+    "Allocation concealment": {
+      "category": "Phương pháp giảm bias",
+      "name_vn": "Che Giấu Phân Bổ",
+      "explanation_vn": "Khác biệt với blinding — che giấu KẾ HOẠCH phân bổ (ngẫu nhiên) trước khi BN được enroll, để investigator không thể manipulate.",
+      "citation": "Schulz KF, Chalmers I, Hayes RJ, Altman DG (1995). Empirical evidence of bias. JAMA, 273(5):408–412.",
+      "analogy": "Như \"không được xem phiếu rút thăm trước khi học sinh vào phòng thi\" — tránh thiên vị trong việc ai được vào đội A, ai vào đội B.",
+      "misconception": "SAI: \"Allocation concealment = blinding\". ĐÚNG: Khác nhau! Allocation = trước enroll; blinding = sau enroll.",
+      "papers_in_csdl": [
+        "Cochrane RoB 2 kiểm tra"
+      ]
+    },
+    "Cluster RCT": {
+      "category": "Thiết kế RCT",
+      "name_vn": "Thử Nghiệm Ngẫu Nhiên Theo Cụm",
+      "explanation_vn": "Đơn vị ngẫu nhiên là CỤM (trường, lớp, bệnh viện) chứ không phải cá nhân. Phù hợp khi can thiệp tác động cả nhóm (ví dụ: thay đổi curriculum cả lớp).",
+      "citation": "Donner A, Klar N (2000). Design and Analysis of Cluster Randomization Trials in Health Research. Arnold.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cluster_randomised_controlled_trial",
+      "analogy": "Như \"bốc thăm NHÓM học, không phải cá nhân\" — nếu bốc cá nhân, HS trong cùng lớp có thể ảnh hưởng lẫn nhau (contamination).",
+      "misconception": "SAI: \"Cluster RCT cho phép n nhỏ\". ĐÚNG: Cluster RCT cần nhiều người hơn individual RCT do intra-cluster correlation (ICC). Cỡ mẫu cần × DE (Design Effect) = 1 + (m-1)×ICC.",
+      "example": "QT038 De Silva Sri Lanka: 36 trường (18 CT + 18 ĐC) × 20 HS/trường = 720. Nếu individual RCT cần chỉ ~300.",
+      "papers_in_csdl": [
+        "QT038",
+        "VN030"
+      ]
+    },
+    "Attrition bias": {
+      "category": "Sai lệch NC",
+      "name_vn": "Sai Lệch Do Mất Mẫu",
+      "explanation_vn": "Khi người tham gia drop-out KHÔNG NGẪU NHIÊN (ví dụ: chỉ người cải thiện mới ở lại follow-up), kết quả bị lệch.",
+      "citation": "Higgins JPT, Altman DG (2011). Assessing risk of bias in included studies. Cochrane Handbook 5.1, Chapter 8.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Selection_bias",
+      "analogy": "Như \"lớp học hỏi ai hài lòng — những người bỏ học đã về mất rồi\" — kết luận sẽ quá tích cực.",
+      "misconception": "SAI: \"Drop-out < 20% là OK\". ĐÚNG: Còn phụ thuộc lý do drop-out. Nếu drop-out có HỆ THỐNG (ví dụ người nặng bỏ) → bias bất kể %.",
+      "compare_to": "ITT (Intention-To-Treat) analysis khắc phục một phần: analyze theo nhóm được assign, dù không hoàn thành.",
+      "papers_in_csdl": [
+        "VN030 (mất mẫu <3%, ITT ok)"
+      ]
+    },
+    "Sensitivity vs Specificity": {
+      "category": "Psychometric",
+      "name_vn": "Tính Nhạy vs Tính Đặc Hiệu",
+      "explanation_vn": "Sensitivity: tỷ lệ người BỆNH được thang đo phát hiện (true positive rate). Specificity: tỷ lệ người KHÔNG BỆNH được loại trừ đúng (true negative rate).",
+      "citation": "Altman DG, Bland JM (1994). Diagnostic tests 1: sensitivity and specificity. BMJ, 308(6943):1552.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sensitivity_and_specificity",
+      "example": "GAD-7 ngưỡng 10: sensitivity 89%, specificity 82% — tức 89% người GAD được phát hiện + 82% người không GAD được loại trừ.",
+      "analogy": "Sensitivity = \"lưới bắt cá không sót con nào\" (bỏ lỡ ít); Specificity = \"lưới không bắt nhầm rác\" (false positive ít). Hai tính chất thường TRADE-OFF — tăng sensitivity thì giảm specificity.",
+      "misconception": "SAI: \"Sensitivity càng cao càng tốt\". ĐÚNG: Phải cân bằng với specificity tuỳ bối cảnh. Screening: ưu tiên sensitivity (không bỏ sót). Diagnosis: ưu tiên specificity (không false positive).",
+      "compare_to": "PPV (Positive Predictive Value): trong số người test +, bao nhiêu % thực sự bệnh. Phụ thuộc prevalence quần thể.",
+      "papers_in_csdl": [
+        "VN001 (GAD-7 ngưỡng)"
+      ]
+    },
+    "Reliability vs Validity": {
+      "category": "Psychometric",
+      "name_vn": "Độ Tin Cậy vs Độ Giá Trị",
+      "explanation_vn": "Reliability: thang đo CONSISTENT không (đo lại có kết quả tương tự?). Validity: thang đo đo ĐÚNG cái cần đo không?",
+      "citation": "Kline P (2000). The Handbook of Psychological Testing (2nd ed.). Routledge.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Reliability_(statistics)",
+      "analogy": "Reliability = \"cân cứ cân là ra số y nhau\" (consistent). Validity = \"cân đo thực sự là cân nặng, không phải chiều cao\". Có thể reliable mà không valid (cân lệch nhưng luôn lệch cùng kiểu).",
+      "misconception": "SAI: \"Cronbach α cao = thang tốt\". ĐÚNG: Cronbach α cao chỉ chứng minh RELIABILITY, không phải validity. Thang có α = 0,9 vẫn có thể đo SAI construct.",
+      "example": "SDQ-25 tiếng Việt (Weiss 2014): đã validate trong NC nationally representative — có cả reliability + validity VN context.",
+      "compare_to": "Types of validity: content, construct (convergent + discriminant), criterion (concurrent + predictive).",
+      "papers_in_csdl": [
+        "Mọi thang đo tâm lý"
+      ]
+    },
+    "Cronbach alpha": {
+      "category": "Psychometric",
+      "name_vn": "Hệ Số Cronbach Alpha",
+      "explanation_vn": "Đo internal consistency reliability của thang nhiều item — các items có đo cùng construct không. 0–1, càng cao càng tốt.",
+      "citation": "Cronbach LJ (1951). Coefficient alpha and the internal structure of tests. Psychometrika, 16(3):297–334.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cronbach%27s_alpha",
+      "example": "VN001 Hoa 2024: GAD-7 Cronbach α = 0,916 trong mẫu HS THPT Hà Nội → độ tin cậy rất cao.",
+      "threshold": "α < 0,6 poor; 0,6–0,7 acceptable; 0,7–0,8 good; 0,8–0,9 very good; > 0,9 excellent",
+      "analogy": "Như \"hỏi 7 câu cùng chủ đề, xem câu trả lời có consistent không\" — nếu consistent thì α cao.",
+      "misconception": "SAI: \"α = 0,95 tốt nhất\". ĐÚNG: α > 0,95 có thể là REDUNDANCY — các items hỏi quá giống nhau, nên cắt bớt.",
+      "papers_in_csdl": [
+        "VN001 α=0,916; nhiều NC validate"
+      ]
+    }
+  },
+  "organizations": {
+    "WHO": {
+      "name_full": "World Health Organization",
+      "name_vn": "Tổ chức Y tế Thế giới",
+      "country": "International (HQ Geneva)",
+      "role": "Set global health policy, publish ICD-11, mhGAP guidelines, GBD studies. In VN002 context: framework for NAMHS.",
+      "papers_related": [
+        "VN002",
+        "QT051",
+        "all GBD series"
+      ]
+    },
+    "UNICEF": {
+      "name_full": "United Nations Children's Fund",
+      "name_vn": "Quỹ Nhi đồng Liên Hợp Quốc",
+      "country": "International (HQ New York) + country offices",
+      "role": "Child/youth welfare. Co-funded V-NAMHS 2022 and VN022 School Factors 2022. Published UNICEF VN 2020 COVID rapid assessment.",
+      "papers_related": [
+        "VN002",
+        "VN022",
+        "cited in VN030"
+      ]
+    },
+    "Johns Hopkins BSPH": {
+      "name_full": "Johns Hopkins Bloomberg School of Public Health",
+      "name_vn": "Trường Y tế Công cộng Bloomberg, ĐH Johns Hopkins",
+      "country": "USA",
+      "role": "NAMHS Project Lead (Robert Blum, Shoshanna Fine, Mengmeng Li, Astha Ramaiya). Global adolescent health research.",
+      "papers_related": [
+        "VN002 (co-lead)",
+        "Blum 2012"
+      ]
+    },
+    "University of Queensland (UQ)": {
+      "name_full": "The University of Queensland",
+      "name_vn": "Đại học Queensland",
+      "country": "Australia (Brisbane)",
+      "role": "NAMHS PI (Holly Erskine), GBD mental disorders lead (Whiteford, Scott). QCMHR (Queensland Centre for Mental Health Research).",
+      "papers_related": [
+        "VN002 (co-lead)",
+        "Erskine 2021 NAMHS protocol"
+      ]
+    },
+    "Burnet Institute": {
+      "name_full": "Burnet Institute",
+      "name_vn": "Viện Burnet",
+      "country": "Australia (Melbourne)",
+      "role": "Global health, adolescent health research. Led QT051 Menon 2025 LMIC scoping review.",
+      "papers_related": [
+        "QT051"
+      ]
+    },
+    "Monash University": {
+      "name_full": "Monash University",
+      "name_vn": "Đại học Monash",
+      "country": "Australia",
+      "role": "Jane Fisher lab — perinatal MH, Happy House VN collaboration with HUPH.",
+      "papers_related": [
+        "VN030 Happy House"
+      ]
+    },
+    "QUT": {
+      "name_full": "Queensland University of Technology",
+      "name_vn": "Đại học Công nghệ Queensland",
+      "country": "Australia",
+      "role": "Ian Shochet — RAP-A program originator. Collaborator on Happy House.",
+      "papers_related": [
+        "VN030"
+      ]
+    },
+    "Institute of Sociology (IOS)": {
+      "name_full": "Institute of Sociology — Vietnam Academy of Social Sciences",
+      "name_vn": "Viện Xã hội học — Viện Hàn lâm KHXH Việt Nam",
+      "country": "Vietnam (Hanoi)",
+      "role": "Chủ trì V-NAMHS 2022 tại VN. Prof. Đặng Nguyên Anh (former VP VASS) supported. PI: Vũ Mạnh Lợi.",
+      "papers_related": [
+        "VN002"
+      ]
+    },
+    "GOPFP": {
+      "name_full": "General Office for Population and Family Planning",
+      "name_vn": "Tổng cục Dân số Kế hoạch hoá gia đình",
+      "country": "Vietnam",
+      "role": "Phối hợp thực địa V-NAMHS (Dr. Phạm Vũ Hoàng).",
+      "papers_related": [
+        "VN002"
+      ]
+    },
+    "HMU": {
+      "name_full": "Hanoi Medical University",
+      "name_vn": "Đại học Y Hà Nội",
+      "country": "Vietnam",
+      "role": "Nguyễn Kim Việt (PGS TS) — hướng dẫn luận án Trần Nguyễn Ngọc. Đào Thị Ngoan 2025 TCNCYH SVY4.",
+      "papers_related": [
+        "Trần Nguyễn Ngọc 2018",
+        "VN028"
+      ]
+    },
+    "HUPH": {
+      "name_full": "Hanoi University of Public Health",
+      "name_vn": "Đại học Y tế Công cộng Hà Nội",
+      "country": "Vietnam",
+      "role": "Partner Monash cho Happy House. Trần Thạch và collaborators.",
+      "papers_related": [
+        "VN030"
+      ]
+    },
+    "VNU (University of Education)": {
+      "name_full": "Vietnam National University - University of Education",
+      "name_vn": "ĐH Quốc gia Hà Nội - Trường ĐH Giáo dục",
+      "country": "Vietnam",
+      "role": "Đặng Hoàng Minh — VN MH literacy research hub.",
+      "papers_related": [
+        "Cited trong VN002",
+        "Dang 2016/2018/2020"
+      ]
+    },
+    "Bệnh viện Bạch Mai": {
+      "name_full": "Bach Mai Hospital - Institute of Mental Health",
+      "name_vn": "Bệnh viện Bạch Mai - Viện Sức khoẻ Tâm thần",
+      "country": "Vietnam",
+      "role": "Cơ sở điều trị SKTT hàng đầu VN. Luận án Trần Nguyễn Ngọc 2018 thực hiện tại đây.",
+      "papers_related": [
+        "Trần Nguyễn Ngọc 2018"
+      ]
+    },
+    "Vanderbilt University": {
+      "name_full": "Vanderbilt University",
+      "name_vn": "Đại học Vanderbilt",
+      "country": "USA",
+      "role": "Bahr Weiss — VN child MH research partner (Weiss 2014 national VN study).",
+      "papers_related": [
+        "Cited trong VN002"
+      ]
+    },
+    "Kagoshima University Hospital": {
+      "name_full": "Kagoshima University Hospital",
+      "name_vn": "Bệnh viện Đại học Kagoshima",
+      "country": "Japan",
+      "role": "Kazuki Matsumoto lab — iCBT for SAD research.",
+      "papers_related": [
+        "QT045 Matsumoto 2024"
+      ]
+    },
+    "University of Groningen": {
+      "name_full": "University of Groningen",
+      "name_vn": "Đại học Groningen",
+      "country": "Netherlands",
+      "role": "Praptomojati PhD candidate + Nauta/Bouman supervisors. CA-CBT SEA review.",
+      "papers_related": [
+        "QT037"
+      ]
+    },
+    "Universitas Gadjah Mada": {
+      "name_full": "Universitas Gadjah Mada",
+      "name_vn": "Đại học Gadjah Mada",
+      "country": "Indonesia",
+      "role": "Praptomojati affiliation. Indonesia largest psychology research hub.",
+      "papers_related": [
+        "QT037"
+      ]
+    },
+    "Shanghai Mental Health Center": {
+      "name_full": "Shanghai Mental Health Center",
+      "name_vn": "Trung tâm SKTT Thượng Hải",
+      "country": "China",
+      "role": "Suspected affiliation of Tianhong Zhang (senior author QT048 Chen COVID meta).",
+      "papers_related": [
+        "QT048"
+      ]
+    },
+    "Harvard Medical School": {
+      "name_full": "Harvard Medical School",
+      "name_vn": "Trường Y khoa Harvard",
+      "country": "USA",
+      "role": "Vikram Patel (mhGAP co-creator); Ronald Kessler (WMH Surveys).",
+      "papers_related": [
+        "Priority authors (không trực tiếp trong 68 lõi)"
+      ]
+    },
+    "Cochrane": {
+      "name_full": "Cochrane (formerly Cochrane Collaboration)",
+      "name_vn": "Tổ chức Cochrane",
+      "country": "International (HQ London, UK)",
+      "role": "Global nonprofit producing systematic reviews on healthcare interventions. Publishes Cochrane Handbook (v6.4, 2023) — chuẩn SR/MA methodology cao nhất. Ra đời 1993.",
+      "citation": "Higgins JPT et al. (2023). Cochrane Handbook for Systematic Reviews of Interventions v6.4. Cochrane.",
+      "website": "https://www.cochrane.org/",
+      "papers_related": [
+        "Chuẩn methodology cho tất cả SR/MA trong CSDL"
+      ]
+    },
+    "APA": {
+      "name_full": "American Psychiatric Association (APA)",
+      "name_vn": "Hiệp hội Tâm thần Hoa Kỳ",
+      "country": "USA",
+      "role": "Xuất bản DSM-5 (2013), DSM-5-TR (2022). Nonprofit thành lập 1844.",
+      "citation": "APA (2013). DSM-5. Washington DC: APA Publishing.",
+      "website": "https://www.psychiatry.org/",
+      "papers_related": [
+        "Mọi bài chẩn đoán DSM trong CSDL"
+      ]
+    }
+  },
+  "learning_path": {
+    "level_1_foundation": {
+      "title": "Tầng 1 — Nền tảng (đọc trước hết)",
+      "description": "Những khái niệm nền mà MỌI thuật ngữ khác đều dựa vào.",
+      "terms": [
+        "M (Mean)",
+        "SD",
+        "p-value",
+        "Statistical vs Clinical significance",
+        "Reliability vs Validity",
+        "DSM-5"
+      ]
+    },
+    "level_2_effect_size": {
+      "title": "Tầng 2 — Độ lớn hiệu ứng",
+      "description": "Hiểu cách đo lường hiệu ứng của can thiệp.",
+      "terms": [
+        "Cohen's d",
+        "Hedges' g",
+        "SMD",
+        "MD",
+        "OR",
+        "NNT"
+      ]
+    },
+    "level_3_intervals": {
+      "title": "Tầng 3 — Khoảng ước lượng",
+      "description": "Không chắc chắn xung quanh ước lượng.",
+      "terms": [
+        "CI",
+        "CrI",
+        "Sensitivity vs Specificity",
+        "Cronbach alpha"
+      ]
+    },
+    "level_4_designs": {
+      "title": "Tầng 4 — Thiết kế NC",
+      "description": "Cách thiết kế để có bằng chứng mạnh.",
+      "terms": [
+        "RCT",
+        "Cluster RCT",
+        "Blinding (masking)",
+        "Allocation concealment",
+        "Attrition bias"
+      ]
+    },
+    "level_5_synthesis": {
+      "title": "Tầng 5 — Tổng hợp bằng chứng",
+      "description": "Meta-analysis, network MA, chuẩn báo cáo.",
+      "terms": [
+        "MA",
+        "NMA",
+        "I²",
+        "Random-effects vs Fixed-effects",
+        "Transitivity (NMA assumption)",
+        "Publication bias",
+        "SUCRA",
+        "PRISMA",
+        "PRISMA flow diagram",
+        "GRADE",
+        "RoB 2"
+      ]
+    },
+    "level_6_concepts": {
+      "title": "Tầng 6 — Khái niệm can thiệp",
+      "description": "Các loại can thiệp và cách lựa chọn.",
+      "terms": [
+        "CBT",
+        "iCBT",
+        "Universal vs Targeted prevention",
+        "Subthreshold symptoms",
+        "MHPSS",
+        "mhGAP"
+      ]
+    },
+    "level_7_diagnoses": {
+      "title": "Tầng 7 — Chẩn đoán cụ thể",
+      "description": "Các rối loạn tâm thần quan trọng.",
+      "terms": [
+        "GAD",
+        "SAD",
+        "MDD",
+        "ICD-11"
+      ]
+    }
+  },
+  "quick_start": {
+    "common_queries": [
+      {
+        "question": "Tôi đọc SMD = –0,19 (95 % CrI: –0,22; –0,17). Ý nghĩa?",
+        "answer_steps": [
+          "1. SMD = Standardized Mean Difference = hiệu ứng chuẩn hoá",
+          "2. CrI = Credible Interval (Bayesian), đọc như \"có 95% xác suất giá trị thật trong khoảng\"",
+          "3. Số âm = can thiệp giảm triệu chứng (so với đối chứng)",
+          "4. |SMD| = 0,19 < 0,2 theo Cohen → TRIVIAL / dưới small",
+          "5. CrI không chứa 0 → có ý nghĩa thống kê",
+          "6. Kết luận: Có ý nghĩa thống kê nhưng TRIVIAL về lâm sàng"
+        ],
+        "related_terms": [
+          "SMD",
+          "CrI",
+          "Cohen's d",
+          "Statistical vs Clinical significance"
+        ]
+      },
+      {
+        "question": "OR = 4,97 nghĩa gì?",
+        "answer_steps": [
+          "1. OR = Odds Ratio = tỷ số odds",
+          "2. OR > 1 = tăng odds; OR < 1 = giảm odds",
+          "3. OR = 4,97 ≈ 5 lần — odds của outcome ở nhóm can thiệp CAO 5× so với đối chứng",
+          "4. Trong QT045 Matsumoto: OR response = 4,97 cho iCBT vs waitlist → iCBT mạnh",
+          "5. Lưu ý: OR khác RR (Risk Ratio). OR phóng đại khi tỷ lệ biến cố cao"
+        ],
+        "related_terms": [
+          "OR",
+          "RR",
+          "QT045"
+        ]
+      },
+      {
+        "question": "NMA với SUCRA 71% là gì?",
+        "answer_steps": [
+          "1. NMA = Network Meta-Analysis = tổng hợp so sánh NHIỀU can thiệp cùng lúc",
+          "2. SUCRA = Surface Under Cumulative Ranking curve, thang 0–100%",
+          "3. SUCRA 71% = can thiệp này có 71% xác suất xếp hạng CAO trong nhóm",
+          "4. QT039 Xian: iCBT SUCRA 71,2% = iCBT có 71% xác suất là can thiệp tốt nhất cho SAD",
+          "5. Ngưỡng: > 70% = xếp hạng cao đáng tin cậy"
+        ],
+        "related_terms": [
+          "NMA",
+          "SUCRA",
+          "Bayesian"
+        ]
+      }
+    ]
+  }
+}

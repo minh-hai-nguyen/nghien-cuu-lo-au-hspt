@@ -1,0 +1,345 @@
+{
+  "Bao cao Can thiep tam ly RLLA VTN - 10042026 v2.docx": {
+    "paragraphs": 191,
+    "tables": 15,
+    "chars": 44231,
+    "check1_consistency": [
+      "Walder et al. 2025 g = {'0.878', '0.508'}"
+    ],
+    "check2_plausibility": [],
+    "check3_citation": [
+      "#28: Đáng chú ý, tỷ lệ bệnh nhân ở mức NẶNG giảm mạnh từ 45,5 % (T0) xuống còn 11,1 % (T4) — giảm gần 4 l",
+      "#31: Trên thang đánh giá tổng thể bệnh trạng CGI (Bảng 3.29 tr. 82), tỷ lệ bệnh nhân ở mức NẶNG / RẤT NẶN",
+      "#34: • 45,3 % bệnh nhân có sang chấn tâm lý — trong đó 32,4 % là sang chấn trường diễn (Bảng 3.8, tr. 65)",
+      "#35: • 12,4 % bệnh nhân có TRẦM CẢM kèm theo, với chênh lệch giới rõ rệt (nữ 15,2 % so với nam 7,7 %, Bản",
+      "#36: • Sử dụng chất cộng đồng nam – nữ rất khác biệt: nam dùng thuốc lá 67,7 % và rượu 44,6 %, trong khi ",
+      "#52: • Tỷ lệ rút khỏi nghiên cứu 41,8 % (170 → 99) — RẤT CAO. Có thể có thiên lệch người sống sót (surviv",
+      "#71: • Lo âu giảm có ý nghĩa thống kê sau 3 tháng: β = −0,096 (KTC 95 %: −0,186 đến −0,005, p = 0,038).",
+      "#72: • Tự trọng (self-esteem) tăng có ý nghĩa: β = +0,811 sau can thiệp (cùng bảng).",
+      "#76: Đây là phân tích tổng hợp mạng đầu tiên tập trung riêng cho SAD ở vị thành niên — bằng chứng vàng ch",
+      "#78: Hai phát hiện phụ quan trọng (Bảng 3 tr. 620–621): iCBT cho hiệu quả tốt nhất với TRẦM CẢM kèm theo ",
+      "#84: • Tỷ lệ đáp ứng (response rate) 61 %, OR = 4,97 so với nhóm chờ.",
+      "#91: • 7 trên 8 nghiên cứu (87,5 %) đo TRẦM CẢM cho thấy giảm có ý nghĩa thống kê.",
+      "#92: • Chỉ 2 trên 6 nghiên cứu (33,3 %) đo LO ÂU cho thấy hiệu quả có ý nghĩa.",
+      "#105: Bảng 5. SUCRA của các can thiệp cho lo âu trẻ em. Nguồn: Li et al. 2025, BMC Psychiatry 25:809, Bảng",
+      "#106: Phản biện: Đáng chú ý ACT (Acceptance and Commitment Therapy) có SUCRA cao nhất 0,69 — BẤT NGỜ vì CB",
+      "#121: Đặc biệt đáng chú ý — hiệu lực TĂNG theo thời gian: Cohen d tăng từ 0,64 (tuần 3) lên 0,94 (tuần 6) ",
+      "#122: Phản biện: RCT đăng trên JAMA Network Open (Q1, IF ≈ 13,8) — bằng chứng chất lượng cực cao. Hiệu lực"
+    ],
+    "check4_table": [],
+    "check5_year": [
+      "Brown: ['2024', '2025']"
+    ],
+    "total_issues": 19
+  },
+  "Bao cao Can thiep tam ly RLLA VTN - 10042026.docx": {
+    "paragraphs": 139,
+    "tables": 9,
+    "chars": 22348,
+    "check1_consistency": [],
+    "check2_plausibility": [],
+    "check3_citation": [
+      "#24: • 45,3% bệnh nhân có sang chấn tâm lý (32,4% sang chấn trường diễn) — chủ yếu sang chấn gia đình (33",
+      "#25: • 12,4% có TRẦM CẢM kèm theo; nữ cao hơn nam (15,2% vs 7,7%).",
+      "#26: • Sử dụng chất kết hợp: nam dùng thuốc lá (67,7%) và rượu (44,6%) cao hơn rõ rệt nữ (1,9% cả 2).",
+      "#42: • 71/170 BN không hoàn thành nghiên cứu can thiệp (170 → 99) — tỷ lệ rút khỏi 41,8% RẤT CAO. Có thể ",
+      "#67: PHÁT HIỆN QUAN TRỌNG: 7/8 NC đo trầm cảm cho thấy giảm có ý nghĩa (87,5%). NHƯNG chỉ 2/6 NC đo lo âu",
+      "#74: Network MA so sánh nhiều phương pháp can thiệp cho lo âu ở trẻ em. Kết quả SUCRA:"
+    ],
+    "check4_table": [],
+    "check5_year": [
+      "Brown: ['2024', '2025']"
+    ],
+    "total_issues": 7
+  },
+  "Bao cao Can thiep tam ly RLLA VTN - 11042026 v3.docx": {
+    "paragraphs": 166,
+    "tables": 7,
+    "chars": 29830,
+    "check1_consistency": [],
+    "check2_plausibility": [],
+    "check3_citation": [
+      "#53: Tóm tắt nhanh: Luận án TSYH ĐH Y Hà Nội, PGS.TS. Nguyễn Kim Việt hướng dẫn, 170 bệnh nhân RLLA lan t",
+      "#106: Kết quả: SMD = −0,39 cho LO ÂU (hiệu ứng trung bình). Resistance exercise hiệu quả nhất cho lo âu. A"
+    ],
+    "check4_table": [],
+    "check5_year": [],
+    "total_issues": 2
+  },
+  "De_cuong_Lo_au_CTH_v5_04042026.docx": {
+    "paragraphs": 59,
+    "tables": 4,
+    "chars": 11775,
+    "check1_consistency": [
+      "Zhu 2025 or = {'11.58', '0.562'}",
+      "Chen 2023 or = {'0.30', '6.74'}",
+      "Qiu 2022 or = {'0.557', '5.60'}"
+    ],
+    "check2_plausibility": [],
+    "check3_citation": [
+      "#8: Tổng quan tài liệu của chúng tôi cho thấy ba khoảng trống quan trọng. Thứ nhất, tỷ lệ lo âu tại Việt",
+      "#10: Thứ ba, nhóm dân tộc thiểu số (lo âu 54,4%, ACEs 48,9% — Ngô Anh Vinh, 2024) và nhóm nông thôn (lo â",
+      "#35: Về thực tiễn, kết quả sẽ cung cấp dữ liệu cho Bộ Giáo dục và Đào tạo xây dựng chương trình SKTT học "
+    ],
+    "check4_table": [],
+    "check5_year": [],
+    "total_issues": 6
+  },
+  "Lo au - Bao cao + De cuong - 05042026.docx": {
+    "paragraphs": 82,
+    "tables": 3,
+    "chars": 11546,
+    "check1_consistency": [
+      "NMA 2025 sucra = {'0.51', '0.66'}"
+    ],
+    "check2_plausibility": [],
+    "check3_citation": [
+      "#50: Đo: Trước–sau–3 tháng (GAD-7 + DASS-Y + SDQ + SIAS-17). Phân tích: ITT, mixed-effects models, Cohen "
+    ],
+    "check4_table": [],
+    "check5_year": [],
+    "total_issues": 2
+  },
+  "Lo au - Bao cao + De cuong - 10042026.docx": {
+    "paragraphs": 139,
+    "tables": 4,
+    "chars": 19280,
+    "check1_consistency": [
+      "NMA 2025 sucra = {'0.51', '0.66'}"
+    ],
+    "check2_plausibility": [],
+    "check3_citation": [
+      "#50: Đo: Trước–sau–3 tháng (GAD-7 + DASS-Y + SDQ + SIAS-17). Phân tích: ITT, mixed-effects models, Cohen ",
+      "#86: • Tỷ lệ lo âu HS VN đã có thêm dữ liệu: Hải Phòng THPT 39,3% DASS-21 (#45), Long An THPT 57,2% (#47,",
+      "#110:   (3) HOẠT ĐỘNG THỂ CHẤT (PE) — như cũ, BMC NMA QT29 PE SUCRA 0,51."
+    ],
+    "check4_table": [],
+    "check5_year": [
+      "Zhang: ['2025', '2026']"
+    ],
+    "total_issues": 5
+  },
+  "Lo au - Bao cao + De cuong - 27032026.docx": {
+    "paragraphs": 144,
+    "tables": 10,
+    "chars": 34576,
+    "check1_consistency": [],
+    "check2_plausibility": [],
+    "check3_citation": [
+      "#16: Về tần suất, mức \"nhẹ\" là phổ biến nhất : lo âu nhẹ là 23,9% và lo âu trung bình là 10,9%. Mức nặng ",
+      "#24: Dữ liệu của chúng tôi, cho thấy sự hiện diện của triệu chứng lo âu từ nhẹ đến nặng ở khoảng hai phần",
+      "#42: Về tần suất, trầm cảm là phổ biến nhất : gần ba phần năm (59,0%) học sinh có triệu chứng trầm cảm. L",
+      "#43: Trải nghiệm bất lợi thời thơ ấu : Gần một nửa (48,9%) học sinh từng trải qua ít nhất một ACE, với số",
+      "#47: *Trải nghiệm bất lợi thời thơ ấu.* Nổi bật đối với nhóm học sinh nội trú dân tộc thiểu số là tỷ lệ r",
+      "#65: Về vấn đề sức khỏe tâm thần (bao gồm triệu chứng dưới ngưỡng và đủ ngưỡng), khoảng một phần năm (21,",
+      "#66: Phát hiện then chốt : Tỷ lệ rối loạn lo âu theo chẩn đoán DSM-5 chỉ là 2,3%, và tỷ lệ bất kỳ rối loạ",
+      "#68: Dữ liệu của chúng tôi, cho thấy sự hiện diện của các vấn đề sức khỏe tâm thần ở khoảng một phần năm ",
+      "#86: Gánh nặng theo nhóm tuổi : Nhóm 10–14 tuổi có gánh nặng bệnh tật do rối loạn tâm thần cao nhất — chi",
+      "#115: Tổng quan tài liệu của chúng tôi cho thấy các ước tính tỷ lệ lo âu ở học sinh trung học cơ sở và tru",
+      "#116: Đặc biệt, ba khoảng trống chính được nhận diện. Thứ nhất, chưa có thử nghiệm ngẫu nhiên có đối chứng"
+    ],
+    "check4_table": [],
+    "check5_year": [],
+    "total_issues": 11
+  },
+  "Lo au - Bao cao CTH + De cuong - 27032026.docx": {
+    "paragraphs": 135,
+    "tables": 9,
+    "chars": 26936,
+    "check1_consistency": [],
+    "check2_plausibility": [],
+    "check3_citation": [
+      "#14: Về tần suất, mức \"nhẹ\" là phổ biến nhất : lo âu nhẹ là 23,9% và lo âu trung bình là 10,9%. Mức nặng ",
+      "#22: Dữ liệu của chúng tôi, cho thấy sự hiện diện của triệu chứng lo âu từ nhẹ đến nặng ở khoảng hai phần",
+      "#38: Về tần suất, trầm cảm là phổ biến nhất : gần ba phần năm (59,0%) học sinh có triệu chứng trầm cảm. L",
+      "#39: Trải nghiệm bất lợi thời thơ ấu : Gần một nửa (48,9%) học sinh từng trải qua ít nhất một ACE, với số",
+      "#43: *Trải nghiệm bất lợi thời thơ ấu.* Nổi bật đối với nhóm học sinh nội trú dân tộc thiểu số là tỷ lệ r",
+      "#61: Về vấn đề sức khỏe tâm thần (mental health problems — bao gồm triệu chứng dưới ngưỡng và đủ ngưỡng),",
+      "#62: Phát hiện then chốt : Tỷ lệ rối loạn lo âu theo chẩn đoán DSM-5 chỉ là 2,3%, và tỷ lệ bất kỳ rối loạ",
+      "#64: Dữ liệu của chúng tôi, cho thấy sự hiện diện của các vấn đề sức khỏe tâm thần ở khoảng một phần năm ",
+      "#80: Gánh nặng theo nhóm tuổi : Nhóm 10–14 tuổi có gánh nặng bệnh tật do rối loạn tâm thần cao nhất — chi",
+      "#108: Tại Việt Nam, tổng quan tài liệu của chúng tôi cho thấy các ước tính tỷ lệ lo âu ở học sinh THCS và ",
+      "#109: Đặc biệt, ba khoảng trống chính được nhận diện. Thứ nhất, chưa có thử nghiệm ngẫu nhiên có đối chứng"
+    ],
+    "check4_table": [],
+    "check5_year": [],
+    "total_issues": 11
+  },
+  "Lo âu - THCS THPT - 27032026.docx": {
+    "paragraphs": 200,
+    "tables": 28,
+    "chars": 38085,
+    "check1_consistency": [],
+    "check2_plausibility": [],
+    "check3_citation": [
+      "#7: Tỷ lệ học sinh có triệu chứng lo âu tổng thể đạt 40,6%. Trong đó, lo âu nhẹ chiếm 23,9%, trung bình ",
+      "#13: Tỷ lệ vấn đề sức khỏe tâm thần rất cao: lo âu 54,4%, trầm cảm 59,0%, căng thẳng 24,7%. Có 48,9% học ",
+      "#19: Điểm ESSA tăng đáng kể từ 46,4 ± 7,6 (2018) lên 53,5 ± 10,8 (2021), cho thấy căng thẳng học tập gia ",
+      "#25: Tỷ lệ rất cao: 86,2% HS có dấu hiệu lo âu, 78,8% trầm cảm, 76,6% căng thẳng. Các trường hợp nặng và ",
+      "#31: Trong đại dịch: căng thẳng 65,5%, lo âu 41,5%, trầm cảm 34,2%. Sau đại dịch: căng thẳng 55,4%, lo âu",
+      "#38: Mô hình hồi quy giải thích 57,1% phương sai trầm cảm, 42,8% lo âu, và 46,3% căng thẳng. Giới tính, á",
+      "#51: Tỷ lệ lo âu dao động lớn giữa các khu vực. Đông Địa Trung Hải có tỷ lệ cao nhất (14,61%, 95% CI: 14,",
+      "#55: Nghiên cứu cắt ngang trên 2.716 HS trung học (45,3% nam, 54,7% nữ) tại Ya'an, Tây Nam Trung Quốc, ti",
+      "#57: Tỷ lệ lo âu cao nhất: 41,4% (nhẹ 14,62%, trung bình 18,37%, nặng 4,09%, rất nặng 4,34%). Trầm cảm 24",
+      "#58: Các yếu tố nguy cơ: HS THPT (so với THCS), điểm dưới bách phân vị 60 (OR = 1,62), gia đình đơn thân,",
+      "#63: Tỷ lệ rối loạn lo âu xã hội tăng dần theo lứa tuổi: trẻ em 4,7%, vị thành niên 8,3%, thanh niên 17,0",
+      "#74: Nghiên cứu GSHS trên 59 quốc gia cho thấy Đông Nam Á có tỷ lệ lo âu thấp nhất (3,78%). Tuy nhiên, cá",
+      "#76: Nghiên cứu trên 8.473 VTN Việt Nam cho thấy lo âu giảm từ 41,5% (trong dịch) xuống 25,4% (sau dịch),",
+      "#78: Tỷ lệ lo âu 54,4% và trầm cảm 59,0% ở HS dân tộc thiểu số Lạng Sơn là mức cao đáng báo động. Gần một",
+      "#80: Nghiên cứu dọc 3 năm tại Huế cho thấy điểm ESSA tăng từ 46,4 lên 53,5 (tăng 15,3%). Đây là bằng chứn",
+      "#86: Tại Trung Quốc, HS có người thân tâm sự có nguy cơ trầm cảm thấp hơn 78% (OR = 0,22), lo âu thấp hơn",
+      "#93: Ưu điểm hiếm có: thiết kế dọc 3 năm, theo dõi sự thay đổi theo thời gian. Hạn chế: mất mẫu đáng kể (",
+      "#95: Hạn chế lớn nhất: tỷ lệ lo âu 86,2% cao bất thường, có thể do khảo sát trực tuyến (tự chọn, thiên lệ",
+      "#99: Ưu điểm: đa trung tâm, áp dụng khung lý thuyết SCT. Hạn chế: chi tiết phương pháp và cỡ mẫu chưa rõ ",
+      "#103: Ưu điểm vượt trội: cỡ mẫu khổng lồ (n = 179.937), 59 quốc gia, dữ liệu GSHS chuẩn hóa. Hạn chế: dữ l",
+      "#113: 2. So sánh công cụ đo lường: Các nghiên cứu sử dụng GAD-7, DASS-21, ESSA, GSHS cho kết quả rất khác ",
+      "#125: 11. Can thiệp gia đình: Yếu tố gia đình là bảo vệ mạnh nhất (OR = 0,22). Cần nghiên cứu can thiệp: đ",
+      "#137: Lo âu: 61,2% (nhẹ 9,3%, vừa 24,0%, nặng 12,6%, rất nặng 15,3%). Trầm cảm: 47,3% (nhẹ 15,8%, vừa 18,0",
+      "#138: Phân bố đáng chú ý: 28,1% không có triệu chứng; 24,6% mắc 1 vấn đề; 20,0% mắc 2 vấn đề; 27,3% mắc cả",
+      "#141: Trầm cảm 31,7%, lo âu 25,1%, stress 23,8%. Tổng cộng 42,4% HS mắc ít nhất 1 vấn đề SKTT, 13,2% mắc c",
+      "#145: Tỷ lệ trầm cảm theo chẩn đoán ICD-10: 6,3% (31 HS). Đây là tỷ lệ chẩn đoán lâm sàng, thấp hơn nhiều ",
+      "#146: Trong số HS trầm cảm: nhẹ 51,16%, trung bình 22,6%, rối loạn thích ứng có phản ứng trầm cảm 22,6%. T",
+      "#153: Stress 41,7%, lo âu 49,0%, trầm cảm 43,6% — chủ yếu ở mức nhẹ và trung bình. Tỷ lệ đáng lo ngại: kho",
+      "#159: DALYs: 11,2 triệu (tăng 87,4% từ 1990). Nhóm 10–14 tuổi có gánh nặng bệnh tật cao nhất — rối loạn tâ",
+      "#179: Hạn chế: cỡ mẫu nhỏ (n = 366), chỉ 1 trường, vùng nông thôn An Giang không đại diện cả nước. Tỷ lệ l",
+      "#183: Ưu điểm nổi bật: dùng chẩn đoán lâm sàng ICD-10 (không chỉ sàng lọc), cho tỷ lệ 6,3% — thực tế hơn n"
+    ],
+    "check4_table": [],
+    "check5_year": [],
+    "total_issues": 31
+  },
+  "Lo âu - Việt Nam - 25032026.docx": {
+    "paragraphs": 68,
+    "tables": 8,
+    "chars": 22185,
+    "check1_consistency": [],
+    "check2_plausibility": [],
+    "check3_citation": [
+      "#7: Nghiên cứu xác định 4 nhóm yếu tố ảnh hưởng đến RLLA: (1) học tập, (2) gia đình, (3) quan hệ xã hội,",
+      "#8: Nhóm yếu tố học tập chi phối mạnh thứ hai (r=0.37, giải thích 74%). Áp lực thi đại học chiếm tỷ lệ T",
+      "#11: Trên 540 HS được sàng lọc, tỷ lệ mắc RLLA là 14.2% (77 HS). Phân theo mức độ: nhẹ 3.5% (19 HS), vừa ",
+      "#13: Kết quả sàng lọc cho thấy khối 11 có tỷ lệ RLLA cao nhất (48.1% trên tổng 77 HS), không phải khối 12",
+      "#15: 85.7% HS có biểu hiện choáng váng, chóng mặt, hoa mắt — đây là biểu hiện phổ biến nhất. 76.6% khó tậ",
+      "#18: Bệnh nhân phần lớn là nữ (61.8%), tuổi trung bình 43.2 ± 13.6, nhóm 26–45 tuổi thường gặp nhất. Chỉ ",
+      "#19: 77.2% bệnh nhân có nhân cách hướng nội–không ổn định (Eysenck). 45.3% có sang chấn tâm lý, chủ yếu t",
+      "#21: Liệu pháp thư giãn–luyện tập (kết hợp tự ám thị Schultz + thở khí công + 6 tư thế Yoga) cho thấy hiệ",
+      "#24: Cả 2 bài về học sinh đều xác nhận tỷ lệ RLLA nằm trong dải 14–18.5%, phù hợp với dữ liệu dịch tễ quố",
+      "#26: Bài 2 phát hiện khối 11 có tỷ lệ RLLA cao nhất (48.1%), không phải khối 12 như giả thuyết. Đây là kế",
+      "#30: Bài 1 chỉ ra nhóm yếu tố \"bản thân học sinh\" chi phối RLLA mạnh nhất (r=0.42, 85.4%), vượt xa yếu tố",
+      "#34: Liệu pháp thư giãn–luyện tập giảm lo âu nặng từ 45.5% xuống 11.1% sau 4 tuần. Tuy nhiên, không có bệ",
+      "#36: Hầu hết bệnh nhân khám tim mạch (26.4%) hoặc thần kinh (16.5%) trước khi đến tâm thần. Phản ánh 3 vấ",
+      "#41: Chỉ nghiên cứu tại 1 trường Chuyên — đặc thù cao, không đại diện cho HS THPT nói chung. Tỷ lệ nữ 66.",
+      "#43: Hạn chế lớn nhất: KHÔNG CÓ NHÓM CHỨNG. Thiết kế trước–sau không có nhóm đối chứng không thể loại trừ"
+    ],
+    "check4_table": [],
+    "check5_year": [],
+    "total_issues": 15
+  },
+  "Tom tat 7 bai VN - 05042026.docx": {
+    "paragraphs": 195,
+    "tables": 14,
+    "chars": 34411,
+    "check1_consistency": [],
+    "check2_plausibility": [],
+    "check3_citation": [
+      "#26: Nghiên cứu cắt ngang tại hai thời điểm: Đợt 1 — tháng 12/2021 (trong COVID, n = 4.052), Đợt 2 — thán",
+      "#39: Dữ liệu của chúng tôi, cho thấy sự giảm đáng kể nhưng vẫn ở mức cao của triệu chứng lo âu (từ 41,5% ",
+      "#58: Khác biệt giới tính : Tổng quan tài liệu cho thấy nữ giới thường có tỷ lệ lo âu cao hơn nam (Salk và",
+      "#63: *Internet hàng ngày.* Sử dụng internet hàng ngày (5h) bảo vệ hơn cuối tuần (OR = 0,43) — có thể do s",
+      "#65: Dữ liệu của chúng tôi, cho thấy tỷ lệ rất cao trầm cảm (59,0%), lo âu (54,4%) và ACEs (48,9%) ở than",
+      "#78: Dữ liệu bao gồm khối lớp (10–12), loại trường (công lập 68%, tư thục 19%, chuyên 13%), giới tính (na",
+      "#89: Dữ liệu của chúng tôi, cho thấy tỷ lệ lo âu 86,2% — cao nhất trong tất cả nghiên cứu tại Việt Nam — ",
+      "#94: Đánh giá chất lượng: ⭐⭐ Trung bình-Thấp. VinUni uy tín nhưng tỷ lệ 86,2% cao bất thường, thiên lệch ",
+      "#107: Phát hiện đặc biệt về tự hại : Có tới 1/3 số trẻ (31,6%) đã từng nghĩ đến tự làm đau bản thân và 10%",
+      "#111: *Hành vi tự hại — dữ liệu quan trọng nhất.* 10% đã tự làm đau và 1,4% đã cố tự tử — đây là thông tin",
+      "#112: *Chủ yếu mức nhẹ-vừa.* Lo âu nặng + rất nặng chỉ 12,7%, trầm cảm nặng + rất nặng 4,1% — gợi ý can th",
+      "#114: Dữ liệu của chúng tôi, cho thấy tỷ lệ đáng kể stress (41,7%), lo âu (49,0%) và trầm cảm (43,6%) ở 48",
+      "#126: Tổng quan tài liệu của chúng tôi cho thấy vùng Đồng bằng sông Cửu Long (ĐBSCL) hầu như chưa có nghiê",
+      "#127: Dữ liệu bao gồm giới tính, khối lớp (10–12), học lực, kinh tế gia đình. Cỡ mẫu 366 HS, tỷ lệ nam/nữ ",
+      "#136: *Lo âu chiếm tỷ lệ cao nhất.* Lo âu 61,2% > trầm cảm 47,3% > stress 38,0% — phù hợp với xu hướng quố",
+      "#138: Dữ liệu của chúng tôi, cho thấy tỷ lệ lo âu 61,2%, trầm cảm 47,3% và stress 38,0% ở 366 HS THPT An G",
+      "#151: N = 685 HS THPT, 233 nam (34,0%), 452 nữ (66,0%). Lấy mẫu thuận tiện, khảo sát trực tuyến qua Google",
+      "#159: *Phân tích trung gian — phát hiện quan trọng:* Lạc quan → giảm lo âu (β = −0,15***) → giảm trầm cảm.",
+      "#163: Dữ liệu 685 HS THPT Huế, cho thấy lo âu 65,8% và trầm cảm 45,1% trong bối cảnh COVID-19, và sự lạc q",
+      "#165: Tạp chí Tâm lý học — uy tín VN. PROCESS macro — phương pháp nâng cao. n = 685, 3 khối lớp. Tuy nhiên",
+      "#184: *DASS-Y cho tỷ lệ thấp hơn đáng kể:* Lo âu 25,1% (DASS-Y) vs 40–86% (DASS-21 ở NC khác). Gợi ý: tỷ l",
+      "#189: Dữ liệu 976 HS THPT TPHCM sử dụng DASS-Y (phiên bản VTN), cho thấy lo âu 25,1% — thấp hơn đáng kể so"
+    ],
+    "check4_table": [],
+    "check5_year": [],
+    "total_issues": 22
+  },
+  "Tóm tắt 2 trang - 11 bài nghiên cứu - 31032026.docx": {
+    "paragraphs": 3,
+    "tables": 1,
+    "chars": 5758,
+    "check1_consistency": [],
+    "check2_plausibility": [],
+    "check3_citation": [],
+    "check4_table": [],
+    "check5_year": [],
+    "total_issues": 0
+  },
+  "Tổng hợp liên bài báo - Lo âu HS - 04042026.docx": {
+    "paragraphs": 33,
+    "tables": 9,
+    "chars": 9703,
+    "check1_consistency": [
+      "Persson et al. 2024 or = {'11.58', '0.562'}"
+    ],
+    "check2_plausibility": [],
+    "check3_citation": [
+      "#8: a) Tỷ lệ dao động từ 2,3% (chẩn đoán DISC-5) đến 86,2% (sàng lọc DASS-21) — khoảng cách gấp 37 lần. ",
+      "#9: b) DASS-Y (VTN riêng) cho tỷ lệ 25,1% — THẤP HƠN đáng kể so với DASS-21 (40–86%). Gợi ý: DASS-21 ngư",
+      "#10: c) Lo âu XÃ HỘI (SIAS): 30,7% VTN VN — loại lo âu riêng, không đo bởi GAD-7/DASS-21. 1/6 có SAD nhưn"
+    ],
+    "check4_table": [],
+    "check5_year": [
+      "Ireland: ['2012', '2024']"
+    ],
+    "total_issues": 5
+  },
+  "Tổng hợp liên bài báo - Lo âu HS - 09042026.docx": {
+    "paragraphs": 44,
+    "tables": 12,
+    "chars": 12061,
+    "check1_consistency": [
+      "Persson et al. 2024 or = {'11.58', '0.562'}"
+    ],
+    "check2_plausibility": [],
+    "check3_citation": [
+      "#8: a) Tỷ lệ dao động từ 2,3% (chẩn đoán DISC-5) đến 86,2% (sàng lọc DASS-21) — khoảng cách gấp 37 lần. ",
+      "#9: b) DASS-Y (VTN riêng) cho tỷ lệ 25,1% — THẤP HƠN đáng kể so với DASS-21 (40–86%). Gợi ý: DASS-21 ngư",
+      "#10: c) Lo âu XÃ HỘI (SIAS): 30,7% VTN VN — loại lo âu riêng, không đo bởi GAD-7/DASS-21. 1/6 có SAD nhưn",
+      "#37: • iCBT (internet CBT) = can thiệp TỐI ƯU cho SAD: B9 SUCRA 71,2% (hạng 1) + B2 g=0,878 (SAD-specific"
+    ],
+    "check4_table": [],
+    "check5_year": [
+      "Ireland: ['2012', '2024']"
+    ],
+    "total_issues": 6
+  },
+  "Tổng hợp liên bài báo - Lo âu HS - 10042026.docx": {
+    "paragraphs": 70,
+    "tables": 17,
+    "chars": 18778,
+    "check1_consistency": [
+      "Persson et al. 2024 or = {'11.58', '0.562'}"
+    ],
+    "check2_plausibility": [],
+    "check3_citation": [
+      "#8: a) Tỷ lệ dao động từ 2,3% (chẩn đoán DISC-5) đến 86,2% (sàng lọc DASS-21) — khoảng cách gấp 37 lần. ",
+      "#9: b) DASS-Y (VTN riêng) cho tỷ lệ 25,1% — THẤP HƠN đáng kể so với DASS-21 (40–86%). Gợi ý: DASS-21 ngư",
+      "#10: c) Lo âu XÃ HỘI (SIAS): 30,7% VTN VN — loại lo âu riêng, không đo bởi GAD-7/DASS-21. 1/6 có SAD nhưn",
+      "#37: • iCBT (internet CBT) = can thiệp TỐI ƯU cho SAD: B9 SUCRA 71,2% (hạng 1) + B2 g=0,878 (SAD-specific",
+      "#51: NHẬN XÉT: Tỷ lệ lo âu HS VN dao động 16% (SV đại học GAD-7 ≥10) → 57,2% (Long An). Sự dao động phản ",
+      "#68: GIAI ĐOẠN 3 — Phỏng vấn sâu: Tập trung tìm hiểu RÀO CẢN giao tiếp gia đình + cơ chế \"fear of letting"
+    ],
+    "check4_table": [],
+    "check5_year": [
+      "Zhang: ['2025', '2026']",
+      "Ireland: ['2012', '2024']"
+    ],
+    "total_issues": 9
+  }
+}

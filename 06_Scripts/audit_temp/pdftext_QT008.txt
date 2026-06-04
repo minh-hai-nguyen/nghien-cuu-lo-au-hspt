@@ -1,0 +1,721 @@
+International  Journal  of 
+Environmental Research
+and Public Health
+Article
+A Latent Proﬁle Analysis of Anxiety among Junior
+High School Students in Less Developed Rural
+Regions of China
+Xiaotong Wen 1, †, Yixiang Lin 1, †, Yuchen Liu 2, Katie Starcevich 3, Fang Yuan 4, Xiuzhu Wang 5,
+Xiaoxu Xie 6,*
+ and Zhaokang Yuan 1,*
+1 School of Public Health, Jiangxi Province Key Laboratory of Preventive Medicine, Nanchang University,
+Nanchang 330006, China; 406530517824@email.ncu.edu.cn (X.W.); 401440318202@email.ncu.edu.cn (Y.L.)
+2 Biology Department, Mellon College of Science, Carnegie Mellon University, Pittsburgh, PA 15213, USA;
+renata2001bella@hotmail.com
+3 School of Community Science, University of Nevada, Reno, NV 89557, USA; Kstarcevich@nevada.unr.edu
+4 Oﬃce of Public Health Studies, the University of Hawaii at M¯anoa, Honolulu, HI 96822, USA;
+fangy@hawaii.edu
+5 Administration Oﬃce of Floating Population, Jiangxi Provincial Health Committee,
+Nanchang 330006, China; jsw_lgc@jiangxi.gov.cn
+6 School of Public Health, Fujian Medical University, Fuzhou 350000, China
+* Correspondence: xiexiaoxu@aliyun.com (X.X.); yuanzhaokang@ncu.edu.cn (Z.Y.);
+Tel.: +86-150-7000-9709 (X.X.); +86-135-7693-5811 (Z.Y.)
+† These authors contributed equally to this study.
+Received: 31 March 2020; Accepted: 4 June 2020; Published: 8 June 2020
+/gid00030/gid00035/gid00032/gid00030/gid00038/gid00001/gid00033/gid00042/gid00045/gid00001
+/gid00048/gid00043/gid00031/gid00028/gid00047/gid00032/gid00046
+Abstract: The purpose of this study is to understand the potential types of anxiety among middle
+school students by analyzing the current situation of middle school students’ anxiety and its
+inﬂuencing factor. This study used a multistage stratiﬁed cluster random sampling to investigate
+students in grades 9 to 12. Mplus 7.4 was used for latent proﬁle analysis. A total of 900 junior high
+school students were investigated. The junior high school students were divided into three subgroups
+by latent proﬁle analysis. A total of 223 junior high school students experienced severe anxiety,
+accounting for 24.78%. Multivariate logistic regression analysis revealed that males are more likely to
+develop moderate and severe anxiety. The development of severe anxiety (OR = 0.562, p < 0.05) is
+less likely for students in schools with adequate mental health support. Students who were conﬁdent
+with their academic performances were less likely to develop moderate anxiety (OR = 0.377, p < 0.05).
+Students with extreme academic pressure are more likely to develop moderate anxiety (OR= 6.523,
+p < 0.05) and severe anxiety (OR = 11.579, p < 0.05). It is recommended that mental health counseling
+be set up in schools and to provide professional counselors to prevent serious anxiety for students.
+This paper also demonstrates a need to reduce students’ academic pressure.
+Keywords: rural; junior high school students; anxiety; latent proﬁle analysis; academic pressure
+1. Introduction
+Junior high school is a critical time for individual growth and development, and also an important
+stage for the formation of individual personality and values. However, families and schools focus
+mainly on the physical growth, academic performance, and health-related behavior of junior high
+students. The mental and emotional health of the students is seriously ignored in comparison, resulting
+in them facing psychological confusion and mental health problems. Many of the students bear the
+burden alone and fail to cope with it properly, which leads to more serious anxiety [1]. Although the
+Int. J. Environ. Res. Public Health 2020, 17, 4079; doi:10.3390/ijerph17114079 www.mdpi.com /journal/ijerph
+Int. J. Environ. Res. Public Health 2020, 17, 4079 2 of 14
+concept of general education has been continuously promoted, the academic pressure for students
+continues to increase. Families tend to put high expectations on their children, who face stress in
+schools as well as in society. The Chinese education system is widely criticized by its own educators,
+scholars, and parents for focusing on academics over other pursuits, generating toxic levels of stress,
+disregarding students’ emotional wellbeing, which may produce graduates with high scores and poor
+health [2]. One potential result is the high incidence of anxiety among students [3]. Junior high school
+students were observed to be at high risk for anxiety, which be attributed, at least in part, to the nature
+of the Chinese school system [ 4]. Therefore, students’ emotional and psychological problems are
+getting worse, especially their anxiety issues, which need to be taken seriously by families, schools,
+and society.
+Anxiety refers to a kind of irritability that is exhibited through fear, uneasiness, and excessive
+worry about things that will have negative consequences or vague threats [ 5,6]. Mild anxiety can
+be a driving force to adapt to the environment, but severe anxiety can seriously aﬀect physical and
+mental health [ 7]. Studies have shown that anxiety is a good predictor of suicidal tendencies [ 8].
+Currently, anxiety is common throughout the world, and is the most common mental health problem.
+A systematic review of epidemiological studies in 44 countries found that the global prevalence of
+severe anxiety is estimated at 7.3%, which indicates that one in every 14 people in the world suﬀers
+from severe anxiety [9]. The prevalence of severe anxiety in the United States reached 31.0%, and
+in Europe, 14.0% [ 10,11]. A cross-sectional survey in Tanzania found that the anxiety rate of 3013
+adolescents was 31.0% [12]. Currently, the anxiety of adolescents is becoming a serious public health
+concern, and further attention from the public is needed.
+Understanding the inﬂuencing factors of anxiety among junior high school students can guide
+them to actively prevent and cope with anxiety. The factors that aﬀect anxiety may come from personal
+issues, family, school, etc. Yao Shuqiao [13] investigated the symptoms of anxiety in Chinese teenagers
+and found that girls had more anxiety symptoms than boys. Analysis by Petermann also found
+that females are at higher risk for anxiety [ 14]. Recent research by Cheung found that lifestyle is
+signiﬁcantly associated with anxiety, with the results suggesting that individuals who sleep less than
+7–8 h have fewer hobbies, rarely spend time engaged in entertainment, and are more likely to develop
+anxiety [15]. In addition, a randomized control study of individuals with anxiety and depression
+that applied lifestyle changes has shown that a healthy diet and physical exercise can reduce anxiety
+levels in patients [16,17]. A follow-up study by Tochigi found that sleeping habits are signiﬁcantly
+associated with adolescent anxiety, showing that delays in bedtime aggravated anxiety for middle
+school students, and pointed out that improving adolescents’ sleep habits has an important role in
+improving their mental health [18]. Some studies have also found that incomplete family structure is a
+risk predictor of anxiety. The results show that females with a single parent or without parents are
+more likely to develop anxiety [19]. Current research indicates that personal factors that are related to
+the anxiety of adolescents include gender, age, lifestyle, and sleep status, and family factors include
+family structure, environment, and socioeconomic status. This article will mainly explore the eﬀects of
+school-related factors on the anxiety level of junior high school students. Evidence suggests that high
+levels of anxiety are unusually prevalent among students in China. The survey which investigated
+1576 junior high school students in China found that a high portion of students has severe anxiety
+symptoms, such as sleep diﬃculties (accounting for 27%) and emotional questions (accounting for
+48%) [20]. Previous studies have shown that anxiety rates are higher among rural students than urban
+students [20,21]. Many students in junior high school may begin to realize the anxiety in their future
+career and life. The junior high school students need to pass a cut-o ﬀ score to enter academically
+advanced high schools.
+The issue of anxiety in Chinese teenagers is escalating. Most domestic studies on anxiety have
+focused on urban areas, and there is a lack of attention to anxiety in rural middle school students.
+Adolescents in rural areas require more attention. This project conducts a survey on junior high
+school students in Jiangxi rural areas to understand the current status of anxiety issues among them.
+Int. J. Environ. Res. Public Health 2020, 17, 4079 3 of 14
+It also explores how moderate /severe anxiety is associated with basic demographic information
+and school-related factors. Exploratory latent proﬁle analysis is proposed to further investigate the
+characteristics of the anxiety of rural junior high school students in Jiangxi Province. By using latent
+continuous variables to explain the relationship between explicit continuous variables, it can make full
+use of all the sample data and make estimates of what certain group an individual belongs in and,
+thus, explore heterogeneous classiﬁcations within groups. Based on the result data, we aim to ﬁnd the
+potential classiﬁcation of anxiety, describe the overall level of anxiety among rural students, explore
+the inﬂuencing factors of anxiety among diﬀerent groups, and thus provide a basis and measures for
+eﬀective intervention.
+Accordingly, we had four hypotheses. First, we hypothesized that in the cross-sectional study,
+the number of potential classiﬁcations of anxiety among junior high school students would be three.
+Secondly, we hypothesized that students would be a low level of anxiety when school mental health
+work is adequate. Thirdly, we hypothesized that students with excellent academic performance would
+be more anxious than students with failure academic performance. Finally, we hypothesized that
+students with high academic pressure would be more anxious.
+2. Materials and Methods
+2.1. Research Targets and Sampling Methods
+The survey targets students in grades 9 to 12 in a total of six counties: Yudu, Shangrao, Duchang,
+Fengcheng, Dongxiang District in Fuzhou, and Suichuan (Figure 1). In this survey, the Jiangxi Provincial
+Health Committee’s Administration oﬃce of the ﬂoating population determined the sample counties
+for the survey, and the sample counties then determine a sample township. A middle school in the
+town was selected as the sample school, and sample classes in each grade were determined by simple
+random sampling.
+Int. J. Environ. Res. Public Health 2020, 17, x 3 of 14 
+ 
+school-related factors. Exploratory latent profile analysis is proposed to further investigate the 
+characteristics of the anxiety of rural junior high school students in Jiangxi Province. By using latent 
+continuous variables to explain the relationship between explicit continuous variable s, it can make 
+full use of all the sample data and make estimates of what certain group an individual belongs in and, 
+thus, explore heterogeneous classifications within groups. Based on the result data, we aim to find 
+the potential classification of anxiet y, describe the overall level of anxiety among rural students, 
+explore the influencing factors of anxiety among different groups, and thus provide a basis and 
+measures for effective intervention. 
+Accordingly, we had four hypotheses. First, we hypothesized that in the cross-sectional study, 
+the number of potential classifications of anxiety among junior high school students would be three. 
+Secondly, we hypothesized that students would be a low level of anxiety when school mental health 
+work is adequate . Thirdly, we hypothesized that students  with excellent  academic performance 
+would be more anxious than students with failure academic performance. Finally, we hypothesized 
+that students with high academic pressure would be more anxious. 
+2. Materials and Methods 
+2.1. Research Targets and Sampling Methods 
+The survey targets students in grades 9 to 12 in a total of six counties: Yudu, Shangrao, Duchang, 
+Fengcheng, Dongxiang District in Fuzhou, and Suichuan (Figure 1). In this survey, the Jiangxi 
+Provincial Health Committee ’s Administration office of the floating population determined the 
+sample counties for the survey, and the sample counties then determine a sample township. A middle 
+school in the town was selected as the sample school, and sample classes  in each grade  were 
+determined by simple random sampling. 
+ 
+Figure 1. Distribution of sample counties in Jiangxi Province. 
+Figure 1. Distribution of sample counties in Jiangxi Province.
+Int. J. Environ. Res. Public Health 2020, 17, 4079 4 of 14
+A simple random sampling method was used to determine the sample class in each grade of the
+sample school. First, the number of students in every class in the sample school is collected, and the
+total number of students in each grade is calculated. If there are hundreds of students in this grade, a
+three-digit random number will be selected. If there are dozens of students in this grade, a two-digit
+random number will be selected. Second, we selected a row and column at random in random number
+table and determined a random number. Finally, students are added one by one until the number
+of students in the class of this grade becomes larger than the random number; the class selection in
+every grade has then been determined. All the students in this study were recruited in randomly
+selected classes.
+There were 900 junior high school students in rural areas of Jiangxi Province selected in this survey.
+The average age of the sample students was 14.14± 1.32 years old.
+2.2. Research Methods
+The survey adopted a multistage stratiﬁed cluster random sampling method and conducted a
+questionnaire survey by conducting ﬁeld surveys in schools. The local Health Committee, Center
+for Disease Control and Prevention, Ministry of Education, and other departments jointly assisted in
+conducting the ﬁeld investigation. The investigator, with the assistance of the class teachers, organized
+the students in class to participate in the research. The investigator showed the correct way of answering
+questions on the blackboard for the students. The students were informed that the questionnaires were
+anonymous, that the results of the questionnaire would not be used as a basis for judging their academic
+performance, and that there was no correct answer to the questions. They were asked to complete the
+survey truthfully and independently, without discussion or interaction. The investigator checked the
+completeness of the questionnaires immediately after students ﬁnished. If there were any missing
+questions, students were asked to complete them to ensure the integrity of the survey. The junior high
+school students were told that participation was anonymous and voluntary. The parents had provided
+consent at the midterm parents meeting. In other words, parental consent to participate in the survey
+was obtained in advance. Ethical approval of this study was approved by the Nanchang University
+Institutional Review Board.
+2.3. Content of Questionnaires
+The questionnaire includes two parts: the ﬁrst part is the basic demographic characteristics
+(including gender, age, grade, left-behind children) and school-related factors of rural middle school
+students; the second part is the Mental Health Test (MHT) [22,23]. According to the Diagnostic Test of
+Anxiety Tendency which was compiled by Japanese researcher Kiyoshi Suzuki, Professor Bucheng
+Zhou and other psychology researchers of the Department of Psychology of East China Normal
+University adapted the questionnaires to establish the Chinese version in the year of 1991, and this
+questionnaire was named the Mental Health Test, which is a standardized anxiety diagnostic scale for
+primary and middle school students in China. The MHT is an internationally standardized test for the
+anxiety of children that has been widely applied in China [24]. The MHT has a total of 100 questions,
+consisting of 8 content scales and 1 eﬀectiveness scale. The MHT measures anxiety from two aspects:
+anxiety objects and anxiety behaviors. Anxiety objects are learning anxiety and interpersonal anxiety.
+Anxiety behaviors include lonely tendency, remorse tendency, allergic tendency, physical symptoms,
+terror tendency, and impulsive tendency.
+According to the MHT scale, learning anxiety refers to a student’s fear of examinations or excessive
+concerns about test scores. This includes being worried about passing exams successfully, feeling
+unhappy when the test scores are not good, a student feeling anxious when they cannot remember
+what they have learned during an examination, and worrying about getting a poor score when taking
+an exam. Interpersonal anxiety refers to a student having diﬃculties in communicating with others,
+such as fear of strangers, blushing when talking to others, always having teachers’ or parents’ blame
+on the mind. Lonely tendency refers to a student feeling that it is better to play alone than with others,
+Int. J. Environ. Res. Public Health 2020, 17, 4079 5 of 14
+fearing failure when joining in the team. Remorse tendency refers to students losing conﬁdence in what
+they do, often worrying about this which hinders their actions. Allergic tendency refers to students
+that are too sensitive, such as particularly sensitive to the noise around them, worrying that some of
+their family members injured, sick, or dead. Physical symptoms refer to a student’s excessive concerns
+about his/her body, such as always being worried about whether there is something wrong in his/her
+body, having diﬃculty breathing, sweating, dizziness and abnormal perception, restlessness, abnormal
+heartbeat, disordered pulse, vomiting, anorexia, stomachache or insomnia. Terror tendency refers
+to students who are always in a state of fear without any reasons. Impulsive tendency refers to a
+student’s desire to do dangerous or stupid things without any reason, which is due to the internal
+anxiety tendency.
+The MHT is a self-assessment scale which is easy to operate and easy for subjects to accept and
+master. Each entry has two points, (Yes = 1 and No = 0). This test has good reliability and validity
+indicators. The test has a reliability of 0.84–0.88 and retest reliability of 0.78–0.86 [24]. After conﬁrmatory
+factor analysis, the overall ﬁtting index of the scale is as follows: χ2 = 19239.961, df = 4950, CFI = 0.913,
+GFI = 0.931, NFI = 0.905, RMSEA = 0.048, and the internal consistency reliability as indicated by
+Cronbach’s α coeﬃcient is 0.878. Conﬁrmatory factor analysis shows that the reliability coeﬃcients
+of the eight content scales are learning anxiety (0.847), interpersonal anxiety (0.757), lonely tendency
+(0.789), remorse tendency (0.777), allergic tendency (0.770), physical symptoms (0.794), terror tendency
+(0.840), and impulsive tendency (0.839).
+2.4. Index Deﬁnition
+2.4.1. Left-Behind Children (LBC)
+Left-behind children are deﬁned as those children under 16 years of age who are left at home
+when both parents migrate to an urban area for work for more than 6 months per year, or when one of
+them migrates to an urban area for work for more than 6 months per year and the other does not have
+the ability to bring up and supervise the children [25,26].
+2.4.2. School-Related Factors
+The health education course was assessed by asking students: “Does your school o ﬀer a health
+education course?” The answers for this question were divided into “Yes” and “No”. Whether school
+mental health work is adequate or not was assessed by asking students: “Do you think school mental
+health work is adequate or not?” The two questions refer to the China Centers for Disease Control and
+Prevention adolescent mental health project. The answers for this question were divided into “Yes”,
+“No”, and “Not sure”. Self-assessment of academic performance of junior high school students was
+divided into four levels, “Excellent”, “Good”, “Pass”, and “Fail”. Self-assessment of the academic
+pressure of junior high school students was divided into ﬁve levels, “Very high”, “High”, “General”,
+“Low”, and “Very low”. The two questions refer to the US Centers for Disease Control and Prevention
+Youth Risk Behavior Surveillance System (YRBSS) questionnaire.
+2.5. Data Analytic Approach
+Epidata 3.1 (The EpiData Association, Odense, Denmark) was employed to input data.
+The database was imported into Excel spreadsheets (Microsoft O ﬃce 2003, Microsoft, Redmond,
+DC, USA) and transferred to SPSS 24.0 statistical software (IBM Corporation, Armonk, NY, USA) for
+basic analysis. The latent proﬁle approach (LPA) was conducted in Mplus 7.4 (Linda Muthén & Bengt
+Muthén) in order to explore the potential classiﬁcation of anxiety among junior high school students.
+The diﬀerences between variables were compared using the χ2 statistic method. Logistic regression
+was used in multifactor analysis with the test standard set as α = 0.05.
+In recent years, there has been an increased use of person-centered statistical techniques in the ﬁeld
+of psychology, including latent class analysis (LCA) and latent proﬁle analysis (LPA) [27]. LCA and
+Int. J. Environ. Res. Public Health 2020, 17, 4079 6 of 14
+LPA, instead of focusing on correlations between study variables, identify typologies of individuals by
+examining conﬁgurations of traits within those individuals [28].
+LPA is a “top-down” approach which requires the investigator to specify the number of
+hypothesized proﬁles in the data. For each participant, the probability of being in a given proﬁle is
+estimated, and classiﬁcation into one of the proﬁles is determined by that individual’s highest-proﬁle
+probability [29]. LPA was used to detect homogeneous groups (latent classes) using eight factors of the
+anxiety, including learning anxiety, interpersonal anxiety, lonely tendency, remorse tendency, allergic
+tendency, physical symptoms, terror tendency, and impulsive tendency. By using a multinomial logistic
+regression, we assessed the association between latent classes of anxiety and school-related factors.
+These associations were evaluated using odds ratios (ORs), along with accompanying conﬁdence
+intervals (CIs).
+Several information indicators were used to evaluate the ﬁt of latent proﬁle models: Akaike
+information criterion (AIC), Bayesian information criterion (BIC), and same-size adjusted Bayesian
+information criterion (ABIC) [ 30–32]. The model with the lower value indicates the better latent
+proﬁle solution. We tend to choose simple and e ﬀective models when we use AIC as the model
+adaptation standard. BIC is suitable for studies with a sample size of more than 1000 or with few
+model parameters, while ABIC requires at least 50 subjects in each category to ensure the accuracy
+of the evaluation model [33]. We also calculated the entropy value which indicates the accuracy of
+models, with a higher value indicating more accurate classiﬁcation. Entropy values range from 0
+to 1. When the entropy value is equal to 0.8, the classiﬁcation accuracy of the model is more than
+90%. Lo–Mendell–Rubin likelihood ratio test (LMRT), Vuong–Lo–Mendell–Rubin (VLMR) likelihood
+ratio test, and bootstrapped likelihood ratio test (BLRT) were used to compare models with increasing
+numbers of latent classes [ 34–36]. A signiﬁcant value ( p < 0.05) suggests that the model with one
+more class is a better choice. We preferred BIC as the best choice among information indicators.
+We preferred BLRT as the best choice when we compared models with diﬀerent numbers of latent
+classes [37]. Furthermore, the most parsimonious model should be selected, and the smallest class of
+any class-solution should not contain less than 5% of the sample [38].
+After the number and nature of the proﬁles were identiﬁed, individuals were assigned to their
+most likely proﬁle based on their posterior probabilities (that is, the set of values describing the
+likelihood of being assigned to that proﬁle, given the data) [39].
+In this study, survey data were collected from questionnaires that students completed in
+class. The data were analyzed to detect anxiety homogeneous groups among junior high school
+students by latent class analysis and explore the association between latent classes of anxiety and
+school-related factors.
+3. Results
+3.1. Latent Proﬁle Analysis (LP A) in the Anxiety of Junior High School Students in Rural Areas of
+Jiangxi Province
+LPA was conducted on the entire sample. Table 1 reports commonly used ﬁt statistics for 1 through
+5 class solutions for analytic samples. As shown in Table 1, the lower value of the model information
+indicators, including AIC, BIC, and ABIC, the better the latent proﬁle solution with increasing numbers
+of latent classes. In addition, the smallest class of every model does not contain samples of less than
+5%. The entropy value is higher when the model changes from two to three latent classes. In other
+words, the entropy value conﬁrms the supremacy of the three-class solution over alternative solutions.
+There were signiﬁcant values (p < 0.001) for LMRT, VLMR, and BLRT, which suggests that the model
+with three latent classes was the better choice. On the basis of these statistics, the three-class solution is
+considered the best-ﬁtting model.
+Int. J. Environ. Res. Public Health 2020, 17, 4079 7 of 14
+Table 1. Parameters of ﬁt for 1–5 proﬁle solutions for anxiety of junior high school students in the rural
+areas of Jiangxi Province.
+The Number of Proﬁles AIC BIC ABIC Entropy LMRT P VLMRP BLRTP Sample<5%
+1 33,703.032 33,779.800 33,729.057 —— —— —— —— No
+2 32,141.132 32,261.192 32,181.796 0.802 <0.001 <0.001 <0.001 No
+3 31,572.277 31,735.558 31,627.580 0.816 <0.001 <0.001 <0.001 No
+4 31,431.690 31,638.193 31,501.632 0.773 0.049 0.047 <0.001 No
+5 31,340.553 31,590.277 31,425.134 0.749 0.187 0.183 <0.001 No
+AIC: Akaike information criterion, BIC: Bayesian information criterion, ABIC: same-size adjusted Bayesian
+information criterion, LMRTP: the p-value of the Lo–Mendell–Rubin likelihood ratio test, VLMRP: the p-value of the
+Vuong–Lo–Mendell–Rubin likelihood ratio test, BLRTP: the p-value of bootstrapped likelihood ratio test.
+The junior high school students were divided into three subgroups by latent proﬁle analysis.
+Class 1 is the smallest group, which has 173 junior high school students, accounting for 19.22%. It is
+characterized by the lowest mean scores on all eight factors of the anxiety and is labeled the “mild
+anxiety” group. The eight factors of anxiety included learning anxiety, interpersonal anxiety, lonely
+tendency, remorse tendency, allergic tendency, physical symptoms, terror tendency, and impulsive
+tendency. Class 2 is the largest group, which has 504 junior high school students, accounting for
+56.00%. It is characterized by moderate scores on all eight factors of the anxiety. This class is labeled
+the “moderate anxiety” group. Class 3 has 223 junior high school students, accounting for 24.78%.
+Class 3 is characterized by the highest mean scores on all eight factors of the anxiety. This class is
+labeled the “severe anxiety” group. Figure 2 shows the proﬁle plot for the three-class solution.
+Int. J. Environ. Res. Public Health 2020, 17, x 7 of 14 
+ 
+Class 3 is characterized by the highest mean scores on all eight factors of the anxiety. This class is 
+labeled the “severe anxiety” group. Figure 2 shows the profile plot for the three-class solution. 
+Table 1. Parameters of fit for 1 –5 profile solutions for anxiety of junior high school students in the 
+rural areas of Jiangxi Province. 
+The Number of Profiles AIC BIC ABIC Entropy LMRTP VLMRP BLRTP Sample <5%  
+1 33703.032 33779.800 33729.057 —— —— —— —— No 
+2 32141.132 32261.192 32181.796 0.802  <0.001  <0.001 <0.001 No 
+3 31572.277 31735.558 31627.580 0.816  <0.001  <0.001 <0.001 No 
+4 31431.690 31638.193 31501.632 0.773  0.049 0.047 <0.001 No 
+5 31340.553 31590.277 31425.134 0.749  0.187 0.183 <0.001 No 
+AIC: Akaike information criterion, BIC: Bayesian information criterion, ABIC: same-size adjusted 
+Bayesian information criterion, LMRTP: the p-value of the Lo–Mendell–Rubin likelihood ratio test, 
+VLMRP: the p-value of  the Vuong–Lo–Mendell–Rubin likelihood ratio test, BLRTP: the p-value of 
+bootstrapped likelihood ratio test. 
+ 
+Figure 2. Depiction of the three latent classes defined by means on eight facets of anxiety among junior 
+high school students in rural areas of Jiangxi Province. 
+3.2. The Univariate Analysis of Anxiety of Junior High School Students in Rural Area of Jiangxi Province 
+There were 900 junior high school students in rural areas of Jiangxi Province selected in this 
+survey. The latent classes of the anxiety of junior high school students by latent profile analysis  
+revealed that 173 students were mildly anxious, accounting for 19.22%, 504 students were moderately 
+anxious, accounting for 56.00% , and 223 junior high school students were of severe anxiety type, 
+accounting for 24.78%.  
+The male to female ratio of 900 junior high school students was 1.08 to 1. The group aged 14 
+accounted for the highest proportion with 28.67%, and the group aged 12 had the lowest proportion 
+with 14.00%. Among these junior high school students, 29.22% were left-behind children, 15.67% self-
+assessed academic pressure as very high. The students who thought that school mental health work 
+was adequate accounted for 43.00%. The students who answered that school had a health education 
+course accounted for 43.00%. The group whose self -assessment of academic performance was good 
+accounted for the highest proportion, with 44.22%, and the group whose self-assessment of academic 
+performance was excellent had the lowest proportion, with 4.56%. 
+Figure 2. Depiction of the three latent classes deﬁned by means on eight facets of anxiety among junior
+high school students in rural areas of Jiangxi Province.
+3.2. The Univariate Analysis of Anxiety of Junior High School Students in Rural Area of Jiangxi Province
+There were 900 junior high school students in rural areas of Jiangxi Province selected in this survey.
+The latent classes of the anxiety of junior high school students by latent proﬁle analysis revealed that
+173 students were mildly anxious, accounting for 19.22%, 504 students were moderately anxious,
+accounting for 56.00%, and 223 junior high school students were of severe anxiety type, accounting for
+24.78%.
+Int. J. Environ. Res. Public Health 2020, 17, 4079 8 of 14
+The male to female ratio of 900 junior high school students was 1.08 to 1. The group aged 14
+accounted for the highest proportion with 28.67%, and the group aged 12 had the lowest proportion
+with 14.00%. Among these junior high school students, 29.22% were left-behind children, 15.67%
+self-assessed academic pressure as very high. The students who thought that school mental health
+work was adequate accounted for 43.00%. The students who answered that school had a health
+education course accounted for 43.00%. The group whose self-assessment of academic performance
+was good accounted for the highest proportion, with 44.22%, and the group whose self-assessment of
+academic performance was excellent had the lowest proportion, with 4.56%.
+As shown in Table 2, we identiﬁed the statistical diﬀerence in the classiﬁcation of anxiety among
+students with the diﬀerent gender group (χ2 = 31.337, p < 0.001), the group who gave diﬀerent answers
+to “school mental health work is adequate” ( p < 0.001), the group with diﬀerent self-assessment of
+their academic performance (p < 0.001), and academic pressure (p < 0.001).
+Table 2. Demographic characteristics and anxiety category of junior high school students in the rural
+areas of Jiangxi Province.
+Variable Respondents Mild
+Anxiety
+Moderate
+Anxiety
+Severe
+Anxiety χ2 p
+Gender 31.337 <0.001
+Male 467 (51.89) 110 (63.58) 275 (54.56) 82 (36.77)
+Female 433 (48.11) 63 (36.42) 229 (45.44) 141 (63.23)
+Age (year) 5.990 0.648
+12 126 (14.00) 21 (12.14) 72 (14.29) 33 (14.80)
+13 157 (17.44) 26 (15.03) 93 (18.45) 38 (17.04)
+14 258 (28.67) 55 (31.79) 145 (28.77) 58 (26.01)
+15 179 (19.89) 40 (23.12) 98 (19.44) 41 (18.39)
+16 180 (20.00) 31 (17.92) 96 (19.05) 53 (23.77)
+Left-behind children (LBC) 0.088 0.957
+Yes 263 (29.22) 49 (28.32) 148 (29.37) 66 (29.60)
+No 637 (70.78) 124 (71.68) 356 (70.63) 157 (70.40)
+Health education course 3.531 0.171
+Yes 453 (50.33) 95 (54.91) 240 (47.62) 118 (52.91)
+No 447 (49.67) 78 (45.09) 264 (52.38) 105 (47.09)
+School mental health work is adequate 21.938 <0.001
+Yes 387 (43.00) 84 (48.55) 231 (45.83) 72 (32.29)
+No 112 (12.44) 15 (8.67) 53 (10.52) 44 (19.73)
+Not sure 401 (44.56) 74 (42.77) 220 (43.65) 107 (47.98)
+Self-assessment of academic
+performance 33.794 <0.001
+Excellent 41 (4.56) 15 (8.67) 13 (2.58) 13 (5.83)
+Good 398 (44.22) 84 (48.55) 229 (45.44) 85 (38.12)
+Pass 301 (33.44) 52 (30.06) 185 (36.71) 64 (28.70)
+Fail 160 (17.78) 22 (12.72) 77 (15.28) 61 (27.35)
+Self-assessment of academic pressure 86.854 <0.001
+Very high 141 (15.67) 13 (7.51) 66 (13.10) 62 (27.80)
+High 236 (26.22) 27 (15.61) 137 (27.18) 72 (32.29)
+General 433 (48.11) 101 (58.38) 258 (51.19) 74 (33.18)
+Low 41 (4.56) 8 (4.62) 27 (5.36) 6 (2.69)
+Very low 49 (5.44) 24 (13.87) 16 (3.17) 9 (4.04)
+Total 900 (100.00) 173 (100.00) 504 (100.00) 223 (100.00)
+3.3. The Multifactor Analysis of Anxiety of Junior High School Students in Rural Area of Jiangxi Province
+This analysis was conducted by taking anxiety as dependent variables and seven other factors
+as independent variables. The independent variable considers factors like gender, age, left-behind
+children, health education course, school mental health work is adequate, self-assessment of academic
+performance, self-assessment of academic pressure. It is preferable to analyze after transforming the
+categorical variable into dummy variables. The variables assignment summary for logistic regression
+analysis is shown in Table 3.
+Int. J. Environ. Res. Public Health 2020, 17, 4079 9 of 14
+Table 3. The variable assignment summary for logistic regression analysis.
+Factors Variable Name Factor Assignment
+Dependent variables
+Anxiety Y 1, Y2 Mild anxiety (reference): Y1 = 0, Y2 = 0
+Moderate anxiety: Y 1 = 1, Y2 = 0
+Severe anxiety: Y1 = 0, Y2 = 1
+Independent variables
+Gender X 1 0 = Female (reference); 1 = Male
+Age (year) X 2, X3, X4, X5 12 (reference): X2 = 0, X3 = 0, X4 = 0, X5 =0
+13: X 2 = 1, X3 = 0, X4 = 0, X5 =0
+14: X 2 = 0, X3 = 1, X4 = 0, X5 =00
+15: X 2 = 0, X3 = 0, X4 = 1, X5 =0
+16: X 2 = 0, X3 = 0, X4 = 0, X5 =1
+Left-behind children (LBC) X 6 0 = No (reference); 1 = Yes
+Health education classes X 7 0 = No (reference); 1 = Yes
+School mental health work is
+adequate X8, X9 Not sure (reference): X8 = 0, X9 = 0
+Yes: X8 = 1, X9 = 0
+No: X 8 = 0, X9 = 1
+Self-assessment of academic
+performance X10, X11, X12 Fail (reference): X10 = 0, X11 = 0, X12 = 0
+Excellent: X 10 = 1, X11 = 0, X12 = 0
+Good: X 10 = 0, X11 = 1, X12 = 0
+Pass: X 10 = 0, X11 = 0, X12 = 1
+Self-assessment of academic
+pressure X13, X14, X15, X16 Very low (reference): X13 = 0, X14 = 0, X15 = 0, X16 = 0
+Very high: X13 = 1, X14 = 0, X15 = 0, X16 = 0
+High: X 13 = 0, X14 = 1, X15 = 0, X16 = 0
+General: X 13 = 0, X14 = 0, X15 = 1, X16 = 0
+Low: X 13 = 0, X14 = 0, X15 = 0, X16 = 1
+The independent variables were input into the equation for analysis, and the odds ratio (OR) of
+each independent variable was calculated. The logistics regression analysis of anxiety of junior high
+school students in rural areas of Jiangxi Province revealed that the probability of moderate anxiety in
+males is lower (OR = 0.649, p < 0.05) than for females, and the risk of severe anxiety in males is lower
+(OR = 0.262, p < 0.05) than for females. The logistics regression analysis of anxiety revealed that the
+probability of severe anxiety of junior high school students is lower (OR = 0.562, p < 0.05) if school
+mental health work is adequate. The logistics regression analysis of anxiety revealed that the probability
+of moderate anxiety of junior high school students whose self-assessment of academic performance is
+excellent was lower (OR = 0.377, p < 0.05). The junior high school students whose self-assessment
+of academic pressure is very high are more likely to have moderate anxiety (OR = 6.523, p < 0.05)
+and severe anxiety (OR = 11.579, p < 0.05). The junior high school students whose self-assessment of
+academic pressure is high are more likely to have moderate anxiety (OR = 6.122, p < 0.05) and severe
+anxiety (OR = 5.894, p < 0.05). Table 4 shows the results of the logistics regression analysis.
+Int. J. Environ. Res. Public Health 2020, 17, 4079 10 of 14
+Table 4. The multifactor analysis of anxiety of junior high school students in the rural areas of Jiangxi
+Province by logistic regression.
+Variable
+Moderate Anxiety Severe Anxiety
+OR OR 95% C.I. OR OR 95% C.I.
+Gender Female as Ref. Female as Ref.
+male 0.649 * (0.444,0.949) 0.262* (0.166,0.415)
+Age(year) 12 as Ref. 12 as Ref.
+13 0.750 (0.385,1.459) 0.733 (0.339,1.587)
+14 0.587 (0.310,1.110) 0.495 (0.231,1.061)
+15 0.647 (0.354,1.183) 0.461 * (0.224,0.950)
+16 0.975 (0.493,1.928) 0.818 (0.365,1.834)
+Left-behind children (LBC) No as Ref. No as Ref.
+Yes 0.966 (0.646,1.445) 0.884 (0.546,1.434)
+Health education course No as Ref. No as Ref.
+Yes 0.752 (0.503,1.125) 1.187 (0.734,1.920)
+School mental health work is
+adequate Not sure as Ref. Not sure as Ref.
+Yes 1.047 (0.695,1.577) 0.562 * (0.341,0.926)
+No 1.130 (0.587,2.174) 1.898 (0.928,3.883)
+Self-assessment of academic
+performance Fail as Ref. Fail as Ref.
+Excellent 0.377 * (0.143,0.989) 0.431 (0.148,1.255)
+Good 0.763 (0.432,1.349) 0.362 * (0.192,0.683)
+Pass 0.989 (0.548,1.784) 0.460 * (0.237,0.892)
+Self-assessment of academic pressure Very low as Ref. Very low as Ref.
+Very high 6.523 * (2.666,15.957) 11.579 * (4.164,32.194)
+High 6.122 * (2.773,13.515) 5.894 * (2.280,15.233)
+General 3.037 * (1.492,6.181) 1.573 (0.650,3.811)
+Low 3.555 * (1.243,10.166) 1.143 (0.285,4.579)
+* p < 0.05.
+4. Discussion
+In this study, we used latent proﬁle analysis (LPA) to detect latent classes of anxiety among junior
+high school students in rural Jiangxi Province. This classiﬁcation method was objective which used
+eight factors of the anxiety, including learning anxiety, interpersonal anxiety, lonely tendency, remorse
+tendency, allergic tendency, physical symptoms, terror tendency, and impulsive tendency. First, LPA
+yielded a three-class solution as the best ﬁt to the data. A total of 173 junior high school students
+experienced mild anxiety, accounting for 19.22%; 504 junior high school students experienced moderate
+anxiety, accounting for 56.00%; 223 junior high school students experienced severe anxiety, accounting
+for 24.78%. A recent report has indicated that severe anxiety accounts for 35% of junior high school
+students, which is higher than the results of this survey [40].
+A study of 1012 adolescents revealed that the rate of severe anxiety was higher for females than
+for males [41]. A previous study revealed that gender diﬀerences in anxiety rates, ﬁnding that girls
+were more anxious than boys [42]. The logistic regression analysis of this study revealed that the risk
+of moderate anxiety in males is lower than females, and the probability of severe anxiety in males
+is lower. Some ﬁndings support the importance of gonadal hormone involvement in guiding the
+brain within key stress and emotion regulatory regions, resulting in males doing better under stress
+and regarding regulation of emotions [43]. A study showed that the rates of severe anxiety among
+females were higher than males, which is consistent with the results of this study [44]. This may be
+due to females being more sensitive to their surroundings and events. Females are richer in emotional
+experience and more sensitive to emotional ﬂuctuations.
+Some surveys have shown that school-related factors play a signiﬁcant role in adolescent mental
+health [45–47]. Severe anxiety may disturb the study and life of adolescents. However, adolescents often
+Int. J. Environ. Res. Public Health 2020, 17, 4079 11 of 14
+do not receive counseling services when they have psychological problems (e.g., severe anxiety) [39].
+This study revealed that junior high school students were at lower risk for severe anxiety when
+school mental health work was adequate. Schools should strengthen communication and carry out
+psychological counseling and psychotherapy [48]. The school develops mental health programs which
+can improve students’ positive psychological state and prevent severe anxiety [ 46,47]. In order to
+prevent students from severe anxiety, a psychological consultation room should be set up at the school.
+At the same time, psychological consultation should be with professional psychological counselors.
+A study in America revealed that students poor at academic performance are at higher risk at severe
+anxiety [49]. The probability of severe anxiety in students whose academic performance was good was
+0.362 times than students whose academic performance failed.
+There is a key link between stress and severe anxiety [50]. A cross-sectional study showed that
+adolescents with academic pressure were at 2.4 times higher risk of severe anxiety than adolescents
+without academic pressure [51]. The students whose self-assessment of academic pressure was very
+high were 6.523 times more likely to have moderate anxiety than the students whose self-assessment of
+academic pressure was very low. The students whose self-assessment of academic pressure was very
+high were 11.579 times more likely to suﬀer from severe anxiety than the students whose self-assessment
+of academic pressure was very low. This suggested that students with high self-assessment of academic
+pressure were at greater risk of moderate or severe anxiety. A study in Shandong Province of China
+showed that rural students and female self-assessment of academic pressure were higher. As a result,
+they were at higher risk of moderate or severe anxiety [52]. Reducing students’ academic pressure was
+suggested to prevent students at high risk from developing moderate or severe anxiety. Parents and
+teachers need to pay attention to students and identify students with high-level academic stress early,
+and prompt interventions that will likely prevent or ameliorate anxiety [51].
+Some limitations of the present research should be considered when interpreting its ﬁndings. First
+of all, cross-sectional data limits the interpretation of the ﬁndings as causal claims cannot be made.
+Where possible, future research should aim for longitudinal data collection to better understand the
+process of anxiety development in childhood and adolescence. Second, anxiety and school-related
+factors were assessed using self-report surveys. Third, only adolescents attending school were included.
+Future research should aim to obtain data from diﬀerent sources (such as teacher reports or investigator
+reports) to corroborate the ﬁndings.
+Notwithstanding, the current study was unique in its person-centered approach to studying
+anxiety and its school-related factors correlate in a sample of junior high school students. LPA revealed
+three distinct anxiety groups, including mild anxiety, moderate anxiety, severe anxiety [28,53]. Females
+are more likely to be moderate or severe anxiety than males. Students with high self-assessment of
+academic pressure were at greater risk of moderate or severe anxiety. Students were at lower risk for
+severe anxiety when school mental health work was adequate.
+5. Conclusions
+The overall level of anxiety among rural students is high. The survey revealed that gender
+diﬀerences in anxiety rates, ﬁnding that girls were more anxious than boys. Higher levels of
+anxiety were observed among students from female students, students with more excellent academic
+performance, and students with higher academic pressure. Lower levels of anxiety were observed
+among students whose school mental health work was adequate. We have provided insight into which
+groups are particularly vulnerable to anxiety. Our ﬁndings may enable parents, teachers, and schools
+to develop more speciﬁc and eﬃcient strategies for handling the anxiety of adolescents. Ultimately,
+our ﬁndings may help China’s leaders better target investments and create policies aimed at improving
+the mental health of students in rural China.
+Int. J. Environ. Res. Public Health 2020, 17, 4079 12 of 14
+Author Contributions: Conceptualization, X.X. and Z.Y.; Data curation, X.W. (Xiaotong Wen) and Y.L. (Yixiang Lin);
+Formal analysis, X.W. (Xiaotong Wen) and Y.L. (Yixiang Lin); Funding acquisition, X.X. and Z.Y.; Investigation, X.W.
+(Xiaotong Wen), Y.L. (Yixiang Lin), and X.W. (Xiuzhu Wang); Methodology, X.W. (Xiaotong Wen); Project
+administration, X.X. and Z.Y.; Supervision, X.X. and Z.Y.; Writing—original draft, X.W. (Xiaotong Wen);
+Writing—review & editing, Y.L. (Yixiang Lin), Y.L. (Yuchen Liu), K.S., and F.Y. All authors have read and
+agreed to the published version of the manuscript.
+Funding: The author(s) disclosed receipt of the following ﬁnancial support for the research, authorship, and/or
+publication of this article: This work was supported by Fujian Medical University talent research funding [grant
+Number: XRCZX2019031] and the Health and Family Planning Commission of Jiangxi Province [grant Number:
+JXWJWLR111].
+Acknowledgments: The lead agency of this study is the School of Public Health, Nanchang University, Jiangxi
+Province Key Laboratory of Preventive Medicine. We would like to express our great appreciation to the
+collaborating agencies, including Jiangxi Provincial Health Committee, Yudu, Shangrao, Duchang, Fengcheng,
+Dongxiang District in Fuzhou, and Suichuan Health Committee, Center of Disease Control and Prevention,
+Ministry of Education. We also like to thank all the teachers and students who took part in the research design
+and the ﬁeld investigation.
+Conﬂicts of Interest: The authors declare that the research was conducted in the absence of any commercial or
+ﬁnancial relationships that could be construed as a potential conﬂict of interest. The funders had no role in the
+design of the study; in the collection, analyses, or interpretation of data; in the writing of the manuscript, or in the
+decision to publish the results.
+Research Ethics and Patient Consent: Ethical approval: The study was approved by the Nanchang University
+Institutional Review Board.
+References
+1. Weng, T.T.; Hao, J.H.; Qian, Q.W.; Cao, H.; Fu, J.L.; Sun, Y.; Huang, L.; Tao, F.B. Is there any relationship
+between dietary patterns and depression and anxiety in Chinese adolescents? Public Health Nutr. 2012, 15,
+673–682. [CrossRef]
+2. Xu, Z.; Selman, R.L.; Haste, H. Academic stress in Chinese schools and a proposed preventive intervention
+program. Cogent Educ. 2015, 2, 1000477. [CrossRef]
+3. Essau, C.A.; Leung, P .W.L.; Conradt, J.; Cheng, H.; Wong, T. Anxiety symptoms in Chinese and German
+adolescents: Their relationship with early learning experiences, perfectionism, and learning motivation.
+Depress. Anxiety 2008, 25, 801–810. [CrossRef]
+4. Zhao, J.; Xing, X.; Wang, M. Psychometric properties of the Spence Children‘s Anxiety Scale (SCAS) in
+Mainland Chinese children and adolescents. J. Anxiety Disord. 2012, 26, 728–736. [CrossRef]
+5. Conway, C.C.; Zinbarg, R.E.; Mineka, S.; Craske, M.G. Core dimensions of anxiety and depression change
+independently during adolescence. J. Abnorm. Psychol. 2017, 126, 160–172. [CrossRef]
+6. Pengpid, S.; Peltzer, K. High Sedentary Behaviour and Low Physical Activity are Associated with Anxiety
+and Depression in Myanmar and Vietnam. Int. J. Env. Res. Public Health 2019, 16. [CrossRef]
+7. Beesdo, K.; Knappe, S.; Pine, D.S. Anxiety and Anxiety Disorders in Children and Adolescents: Developmental
+Issues and Implications for DSM-V .Psychiatr. Clin. N. Am. 2009, 32, 483–524. [CrossRef]
+8. Tu, C.; Huang, Z.; Fu, L.; Fang, Y.; Wang, J.; Guo, T.; Li, M.; Hao, J.; Tao, F. Predictors of suicidal ideation
+with sub-optimal health status and anxiety symptom among Chinese adolescents. J. Trop. Pediatr. 2012, 58,
+314–319. [CrossRef]
+9. Baxter, A.; Scott, K.M.; Vos, T.; Whiteford, H.A. Global prevalence of anxiety disorders: A systematic review
+and meta-regression. Psychol. Med. 2012, 43, 897–910. [CrossRef]
+10. Lindert, J.; Von Ehrenstein, O.S.; Grashow, R.; Gal, G.; Braehler, E.; Weisskopf, M.G. Sexual and physical
+abuse in childhood is associated with depression and anxiety over the life course: Systematic review and
+meta-analysis. Int. J. Public Health 2014, 59, 359–372. [CrossRef]
+11. Kessler, R.C.; Aguilar-Gaxiola, S.; Alonso, J.; Chatterji, S.; Lee, S.; Ormel, J.; Ustun, T.B.; Wang, P .S. The global
+burden of mental disorders: An update from the WHO World Mental Health (WMH) Surveys. Epidemiol.
+Psichiatr. Soc. 2009, 18, 23–33. [CrossRef]
+12. Kuringe, E.; Materu, J.; Nyato, D.; Majani, E.; Ngeni, F.; Shao, A.; Mjungu, D.; Mtenga, B.; Nnko, S.;
+Kipingili, T.; et al. Prevalence and correlates of depression and anxiety symptoms among out-of-school
+adolescent girls and young women in Tanzania: A cross-sectional study. PLoS ONE 2019, 14, e0221053.
+[CrossRef]
+Int. J. Environ. Res. Public Health 2020, 17, 4079 13 of 14
+13. Yao, S.Q.; Zou, T.; Zhu, X.Z.; Abela, J.R.Z.; Auerbach, R.P .; Tong, X. Reliability and validity of the Chinese
+version of the multidimensional anxiety scale for children among Chinese secondary school students. Child
+Psychiat. Hum. Dev. 2007, 38, 1–16. [CrossRef]
+14. Kouider, E.B.; Petermann, F. Common risk factors of depressive and anxiety symptomatics in childhood and
+adolescence: A systematic review from transdiagnostic perspectives. Neurol. Psychiatr. 2015, 83, 321–333.
+[CrossRef]
+15. Cheung, T.; Yip, P .S.F. Lifestyle and depression among Hong Kong nurses.Int. J. Environ. Res. Public Health
+2016, 13, 135. [CrossRef]
+16. Forsyth, A.K.; Deane, F.P .; Williams, P .G. Physical activity and ﬁtness outcomes of a lifestyle intervention for
+primary care patients with depression and anxiety: A Randomised Controlled Trial. Int. J. Ment. Health
+Addict. 2017, 15, 545–554. [CrossRef]
+17. Forsyth, A.; Deane, F.P .; Williams, P . A lifestyle intervention for primary care patients with depression and
+anxiety: A randomised controlled trial. Psychiatry Res. 2015, 230, 537–544. [CrossRef]
+18. Tochigi, M.; Usami, S.; Matamura, M.; Kitagawa, Y.; Fukushima, M.; Yonehara, H.; Togo, F.; Nishida, A.;
+Sasaki, T. Annual longitudinal survey at up to ﬁve time points reveals reciprocal eﬀects of bedtime delay and
+depression/anxiety in adolescents. Sleep Med. 2016, 17, 81–86. [CrossRef]
+19. Raheel, H. Depression and associated factors among adolescent females in riyadh, kingdom of saudi arabia,
+a cross-sectional study. Int. J. Prev. Med. 2015, 6, 7. [CrossRef]
+20. Hesketh, T.; Ding, Q.J. Anxiety and depression in adolescents in urban and rural China. Psychol. Rep. 2005,
+96, 435–444. [CrossRef]
+21. Jin, Y.; He, L.; Kang, Y.; Chen, Y.; Lu, W.; Ren, X.; Song, X.; Wang, L.; Nie, Z.; Guo, D.; et al. Prevalence and
+risk factors of anxiety status among students aged 13-26 years. Int. J. Clin. Exp. Med. 2014, 7, 4420–4426.
+22. Jin, B.Y.; Su, Y. Eﬀects of Chinese Traditional Exercise on Students’ Self-concept of Middle School and Its
+Relation with Mental Health. J. Beijing Univ. Phys. Edvcation 2010, 2, 671–675.
+23. Yang, C.W.; Lu, P . Research into Psychological Intervention of Sports Game Activities with Stay-at-Home
+Children. Proc. Int. Symp. Sports Innov. Dev. Univ. Coll. 2012, 6, 638–642.
+24. Guan, H.; Wang, H.; Du, K.; Zhao, J.; Boswell, M.; Shi, Y.; Qian, Y. The Eﬀect of providing free eyeglasses on
+children’s mental health outcomes in china: A cluster-randomized controlled trial. Int. J. Env. Res. Public
+Health 2018, 15. [CrossRef]
+25. Chang, H.; Yan, Q.; Tang, L.; Huang, J.; Ma, Y.; Ye, X.; Yu, Y. A comparative analysis of suicide attempts in
+left-behind children and non-left-behind children in rural China. PLoS ONE 2017, 12, e0178743. [CrossRef]
+26. Dong, B.; Yu, D.; Ren, Q.; Zhao, D.; Li, J.; Sun, Y.H. The resilience status of Chinese left-behind children in
+rural areas: A meta-analysis. Psychol. Health Med. 2019, 24, 1–13. [CrossRef]
+27. Debowska, A.; Boduszek, D.; Willmott, D. psychosocial correlates of attitudes toward male sexual violence
+in a sample of ﬁnancial crime, property crime, general violent, and homicide oﬀenders. Sex Abus. 2018, 30,
+705–727. [CrossRef]
+28. Boduszek, D.; Debowska, A.; Willmott, D.; Jones, A.D.; DeLisi, M.; Kirkman, G. Is female psychopathy linked
+with child abuse? An empirical investigation using a person-centered approach. J. Child. Sex Abus. 2019, 28,
+708–725. [CrossRef]
+29. Cohen, J.R.; Menon, S.V .; Shorey, R.C.; Le, V .D.; Temple, J.R. The distal consequences of physical and
+emotional neglect in emerging adults: A person-centered, multi-wave, longitudinal study. Child. Abus. Negl.
+2017, 63, 151–161. [CrossRef]
+30. Simpson, E.G.; Vannucci, A.; Ohannessian, C.M. Family functioning and adolescent internalizing symptoms:
+A latent proﬁle analysis. J. Adolesc. 2018, 64, 136–145. [CrossRef]
+31. Coulombe, S.; Radziszewski, S.; Meunier, S.; Provencher, H.; Hudon, C.; Roberge, P .; Provencher, M.D.;
+Houle, J. Proﬁles of recovery from mood and anxiety disorders: A person centered exploration of people’s
+engagement in self-management. Front. Psychol. 2016, 7, 21. [CrossRef]
+32. Sclove, S.L. Application of model-selection criteria to some problems in multivariate-analysis. Psychometrika
+1987, 52, 333–343. [CrossRef]
+33. Celeux, G.; Soromenho, G. An entropy criterion for assessing the number of clusters in a mixture model.
+J. Classif. 1996, 13, 195–212. [CrossRef]
+34. Lo, Y.T.; Mendell, N.R.; Rubin, D.B. Testing the number of components in a normal mixture. Biometrika 2001,
+88, 767–778. [CrossRef]
+Int. J. Environ. Res. Public Health 2020, 17, 4079 14 of 14
+35. McLachlan, G.J.; Lee, S.X.; Rathnayake, S.I. Finite mixture models. In Annual Review of Statistics and Its
+Application; Reid, N., Ed.; Annual Reviews: Palo Alto, CA, USA, 2019; Volume 6, pp. 355–378.
+36. Nylund, K.L.; Asparoutiov, T.; Muthen, B.O. Deciding on the number of classes in latent class analysis
+and growth mixture modeling: A Monte Carlo simulation study. Struct. Equ. Modeling 2007, 14, 535–569.
+[CrossRef]
+37. Lubke, G.; Neale, M.C. Distinguishing between latent classes and continuous factors: Resolution by maximum
+likelihood? Multivar. Behav. Res. 2006, 41, 499–532. [CrossRef]
+38. Hamza, C.A.; Willoughby, T. Nonsuicidal self-injury and suicidal behavior: A latent class analysis among
+young adults. PLoS ONE 2013, 8. [CrossRef]
+39. Eastman, M.; Foshee, V .; Ennett, S.; Sotres-Alvarez, D.; Reyes, H.L.M.; Faris, R.; North, K. Proﬁles of
+internalizing and externalizing symptoms associated with bullying victimization. J. Adolesc. 2018, 65,
+101–110. [CrossRef]
+40. Zou, Y.R.; Leong, W.A.; Yao, M.L.; Hu, X.F.; Lu, S.X.; Zhu, X.W.; Chen, L.X.; Tong, J.J.; Shi, J.Y.; Gilson, E.;
+et al. Test anxiety and telomere length: Academic stress in adolescents may not cause rapid telomere erosion.
+Oncotarget 2017, 8, 10836–10844. [CrossRef]
+41. Zubeidat, I.; Parra, A.F.; Sierra, J.C.; Salinas, J.M. Assessment of factors associated to social anxiety and other
+psychopotologies in adolescents. Salud. Ment. 2008, 31, 189–196.
+42. Shen, M.; Gao, J.; Liang, Z.; Wang, Y.; Du, Y.; Stallones, L. Parental migration patterns and risk of depression
+and anxiety disorder among rural children aged 10-18 years in China: A cross-sectional study. BMJ Open
+2015, 5, e007802. [CrossRef]
+43. Bale, T.L.; Epperson, C.N. Sex diﬀerences and stress across the lifespan. Nat. Neurosci. 2015, 18, 1413–1420.
+[CrossRef]
+44. Sandal, R.K.; Goel, N.K.; Sharma, M.K.; Bakshi, R.K.; Singh, N.; Kumar, D. Prevalence of depression, anxiety
+and stress among school going adolescent in Chandigarh.J. Fam. Med. Prim. Care 2017, 6, 405–410. [CrossRef]
+45. Lopez, E.E.; Ochoa, G.M.; Olaizola, J.H. The role of family communication and school adjustment on
+adolescent mental health. Salud. Ment. 2005, 28, 81–89.
+46. Nair, M.K.C.; Chacko, D.S.; Indira, M.S.; Siju, K.E.; George, B.; Russell, P .S. A Primary Care Approach for
+Adolescent Care and Counseling Services. Indian J. Pediatrics 2012, 79, S79–S83. [CrossRef]
+47. Johnstone, K.M.; Middleton, T.; Kemps, E.; Chen, J.W. A pilot investigation of universal school-based
+prevention programs for anxiety and depression symptomology in children: A randomized controlled trial.
+J. Clin. Psychol. 2020, 24. [CrossRef]
+48. Liao, H.; Pan, M.; Li, W.; Lin, C.; Zhu, X.; Li, X.; Li, J.; Zhou, S. Latent proﬁle analysis of anxiety disorder
+among left-behind children in rural Southern China: A cross-sectional study. BMJ Open 2019, 9, e029331.
+[CrossRef]
+49. Begdache, L.; Kianmehr, H.; Sabounchi, N.; Marszalek, A.; Dolma, N. Principal component regression of
+academic performance, substance use and sleep quality in relation to risk of anxiety and depression in young
+adults. Trends Neurosci. Educ. 2019, 15, 29–37. [CrossRef]
+50. Smith, M.S.; Martin-Herz, S.P .; Womack, W.M.; Marsigan, J.L. Comparative study of anxiety, depression,
+somatization, functional disability, and illness attribution in adolescents with chronic fatigue or migraine.
+Pediatrics 2003, 111. [CrossRef]
+51. Jayanthi, P .; Thirunavukarasu, M.; Rajkumar, R. Academic stress and depression among adolescents:
+A cross-sectional study. Indian Pediatrics 2015, 52, 217–219. [CrossRef]
+52. Sun, J.D.; Dunne, M.P .; Hou, X.Y.; Xu, A.Q. Educational stress among Chinese adolescents: Individual, family,
+school and peer inﬂuences. Educ. Rev. 2013, 65, 284–302. [CrossRef]
+53. Cadigan, J.M.; Martens, M.P .; Herman, K.C. A latent proﬁle analysis of drinking motives among heavy
+drinking college students. Addict. Behav. 2015, 51, 100–105. [CrossRef]
+© 2020 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access
+article distributed under the terms and conditions of the Creative Commons Attribution
+(CC BY) license (http://creativecommons.org/licenses/by/4.0/).

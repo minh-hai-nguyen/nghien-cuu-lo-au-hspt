@@ -1,0 +1,364 @@
+== 17 đoạn khớp ==
+
+======================================================================
+[dòng 11334, score 9, 13478 ký tự]
+This session is being continued from a previous conversation that ran out of context. The summary below covers the earlier portion of the conversation.
+
+Summary:
+1. Primary Request and Intent:
+   The user manages a Vietnamese psychology research project on adolescent anxiety (`c:\Users\HLC\OneDrive\read_books\Lo-au`). Across this session the explicit requests were:
+   - Check VN005 in KG/RAG and read from there ("VN005 bạn xem đã trích vào trong KG hay RAG chưa rồi đọc từ đó. lớn nhưng cũng phải đọc nhé").
+   - Do the FULL rework of 2 VJES papers (Bài 1 YTNC, Bài 2 Can thiệp) fixing fabricated citations ("ok làm full toàn bộ công việc nhé").
+   - Keep v4 for comparison ("giữ lại v4 để sau này đối chứng").
+   - Continue until done, don't ask ("bạn cứ làm tiếp cho đến khi nào xong thì thôi nhé"; "cứ làm và ko cần hỏi nhé").
+   - Verify EVERY fact/data in all 3 papers (Bài 1, Bài 2, Bài 03), cross-check references, read originals.
+   - Fix errors in DB/RAG/KG too ("những lỗi mà bạn phát hiện ra có khả năng cũng sai trong DB, RAG, KG nên ghi nhớ và sửa luôn").
+   - Update CTH+MĐ writing style memory based on Bài 03.
+   - Write verification principles to a memory file.
+   - Check Bài 03 against 6 reviewer (BTV) feedback points.
+   - Translate English terms to Vietnamese in a Word doc (canonical_index.json, PubMed/ScienceDirect/Scopus, Child Psychiatry and Human Development, Nature Human Behaviour, Early Adolescents' Coping Power, MSPSS).
+   - Check the Q2.5 international paper with the new check suite; cross-check Q2.5 vs the 3 papers for self-plagiarism.
+   - Red-marked items in Bài 03: fix what I can, delete what I can't ("chỗ nào bạn tự làm được thì làm, còn ko thì bỏ").
+   - Run the full library audit (DB/RAG/KG + 60+ papers' tóm tắt/dịch/phản biện/tổng hợp/báo cáo vs originals) — user chose "A" to start now; split into agents for speed.
+
+2. Key Technical Concepts:
+   - VJES (Vietnam Journal of Educational Sciences) rules: 5000–7000 words total, Turnitin ≤25%, APA 7th, no abbreviations except international convention, AI declaration in Methods, 4–5 section structure.
+   - Citation-integrity audit methodology: 3-level check (exists / biblio correct / claim matches) with 4 verdicts (EXISTS-CORRECT / EXISTS-BUT-BIBLIO-WRONG / CLAIM-MISMATCH / NOT-FOUND).
+   - python-docx manipulation; pypdf PDF text extraction; PYTHONIOENCODING=utf-8 for Vietnamese.
+   - RAG architecture: `rag_main_index.json` (entries list, each with meta.id + text + tokens), 3 copies (master `06_Scripts/questions_kg_data/` + 2 web branches `tro-ly-nghien-cuu-tam-ly/web/data/` and `tro-ly-nghien-cuu-tam-ly-light/web/data/`).
+   - `canonical_index.json`: dict keyed by ID (QT001/VN001...), entries have id/descriptor/summary/translation/pdf/pdf_folder — file-mapping only.
+   - n-gram self-plagiarism overlap analysis (8-gram).
+   - docx red-marking via RGBColor(0xFF,0,0); removing `<w:hyperlink>` elements (DOI duplication bug).
+   - Statistical terms: DASS-21/42/Y, GAD-7, CES-D, β, SMD, OR/AOR/PR, SUCRA, CFA fit indices, R².
+   - Memory system at `C:\Users\HLC\.claude\projects\c--Users-HLC-OneDrive-read-books-Lo-au\memory\`.
+
+3. Files and Code Sections:
+   - `bai-bao-khgdvn/Bai1_YTNC_HSTHCS_v6_16052026.docx` — FINAL Bài 1 (body ~5859, total ~6709, 21 refs). VN+QT citations fixed, sentence-level review applied, English terms Vietnamized (canonical_index.json→"cơ sở dữ liệu tài liệu nội bộ"; PubMed/ScienceDirect/Scopus→"các nền tảng cơ sở dữ liệu điện tử"; journal names removed from body).
+   - `bai-bao-khgdvn/Bai2_CanThiep_HSTHCS_v6_16052026.docx` — FINAL Bài 2 (body ~5838, total ~6533, 17 refs). EACP abbreviation removed; "Early Adolescent Coping Power" kept as proper name.
+   - `bai-bao-khgdvn/bài-03/Công Thị Hằng_v6.docx` — FINAL Bài 03. All red marks resolved: Bảng 5 labels corrected; Bảng 8 rebuilt (R²=0,031=0,177²); ANOVA removed from Methods; ĐTB→M, ĐLC→SD; "tại Việt Nam"→"tại Hà Nội"; "Bàn luận"→"Thảo luận".
+   - `bai-bao-khgdvn/Công Thị Hằng_v4_đã sửa.docx` and `Công Thị Hằng_v5_đánh dấu đỏ.docx` — intermediate Bài 03 versions.
+   - `bai-bao-khgdvn/Q25_SEM_Pathways_EN_v4.docx` & `Q25_SEM_Pathways_VN_v4.docx` — Q2.5 with citation fixes (4 fabricated fixed, Xian+Cai added, Bie 10 authors, VN word errors fixed). Still has 8 unresolved structural issues (school-attachment unmethoded variable, β-vs-OR comparison error, duplicated Methods, untranslated journal table, abstract risk/protective miscategorization, causal language, missing VN caveat paragraph).
+   - `bai-bao-khgdvn/Dịch thuật ngữ tiếng Anh sang tiếng Việt.docx` — translation answer doc for thầy Minh Đức (recommended terms in blue).
+   - `06_Scripts/fix_rag_vn_entries.py` — fixed 11 VN RAG entries (VN003,006,014,019,020,022,023,024,026,027,029) across 3 RAG copies; uses `{id: [(old,new),...]}` dict, applied via `it["text"]=it["text"].replace(old,new)`. All 32 replacements × 3 copies succeeded.
+   - `06_Scripts/audit_temp/rag_QT_batch_1.txt` ... `rag_QT_batch_8.txt` — QT RAG summaries for 8 audit batches.
+   - `06_Scripts/audit_temp/rag_QT_problems_A.txt` — 16 problem QT entries (QT002,007,009,013,014,015,016,017,022,023,024,026,027,028,029,031) dumped for fix-script construction; 54253 chars.
+   - Memory files updated: `feedback_rules_paper_creation_check_15052026.md` (added Mục M citation audit, Mục N), `feedback_CTH_style_v6_algorithm.md` (added Mục J), `MEMORY.md`, `project_vjes_2bai_KHGDVN_14052026.md`.
+
+4. Errors and fixes:
+   - QT citation catastrophe: nearly all ~28 QT citations in Bài 1 & 2 had wrong data; Brown-Carter 2025 fabricated. Fixed by web-verifying via agents and rebuilding references (`fix_v5_to_v6.py`).
+   - DOI hyperlink duplication in Bài 03: `set_para`/`run.text=` only edits plain runs, not `<w:hyperlink>` elements → DOIs appeared doubled. Fixed by removing `<w:hyperlink>` elements from doubled-DOI paragraphs.
+   - Bài 03 Bảng 8 malformed: duplicate "Sai số chuẩn" column, missing unadjusted R². Fixed by computing R²=0,177²=0,031 and rebuildin
+
+======================================================================
+[dòng 11399, score 9, 20684 ký tự]
+698	**Verdict: ACCURATE on data; ONE publication-status discrepancy**
+699	- Authors: Noemi Walder, Alessja Frey, Thomas Berger, Stefanie Julia Schmidt — match.
+700	- DISCREPANCY (publication status): RAG says the paper was "**đăng trên** Journal of Medical Internet Research" (published in JMIR). The PDF is explicitly a **preprint** — "[unpublished, peer-reviewed preprint]", submitted 01 Oct 2024, DOI 10.2196/preprints.67067. RAG does cite the preprint DOI, but stating it is "published in JMIR" overstates its status. Should be labeled a preprint.
+701	- Sample: meta-analysis k=21 RCTs (systematic review k=22) — RAG's "21 RCT" matches the meta-analysis count. Mean age < 25 — match.
+702	- PROSPERO CRD42023424181 — match.
+703	- Effect sizes (Hedges g): overall 0.508 (CI 0.308-0.707); vs waitlist 0.576 (0.343-0.809); CBT-based 0.610 (0.361-0.859); guided 0.825 (0.425-1.224); SAD-specific 0.878 (0.469-1.278) — every value matches the PDF abstract.
+704	
+705	## QT041 — Zheng & Peng, China vocational students 2025
+706	**Verdict: ACCURATE**
+707	- Authors: GuangFeng Zheng & HaoYan Peng — match.
+708	- Journal: Psychology Research and Behavior Management 2025:18 1571-1584, DOI 10.2147/PRBM.S522652 — match.
+709	- Sample: 469 Chinese vocational students aged 12-18, Guangdong — match (500 distributed, 469 valid).
+710	- Correlations with anxiety: sleep r=0.816, academic stress r=0.505, social media r=0.415 — match PDF Table 2.
+711	- Regression β: sleep 0.615, stress 0.223, social media 0.153 — match PDF Table 3.
+712	- Indirect-effect proportions via self-efficacy: social media 63.13%, stress 55.84%, sleep 24.63% — match PDF exactly.
+713	
+714	## QT042 — Brown & Carter, UK editorial 2025
+715	**Verdict: ACCURATE — paper genuinely exists and matches**
+716	Verified carefully per instruction. The paper is **real and correctly cited**:
+717	- Authors: **June S. L. Brown & Ben Carter** — match (RAG abbreviates second author as "Carter, B."; PDF confirms Ben Carter).
+718	- Journal: Journal of Mental Health, 2025, Vol. 34(4), pp. 357-361, DOI 10.1080/09638237.2025.2512332, published online 14 Jun 2025 — all match.
+719	- Type: EDITORIAL — match.
+720	- Detailed claims all verified against PDF: Kuyken 2022 mindfulness RCT "over 8,376 students in 85 schools" (teacher-delivered, failed on engagement); BESST trial "900 students in 57 schools in 4 regions" (Brown et al. 2024, positive); MHST = master's/postgraduate-diploma therapists; PLACES uses everyday language ("stress" instead of "depression/anxiety") to reduce stigma. RAG table values all match.
+721	- (Title: PDF "School based interventions..."; RAG "School-based interventions..." — trivial hyphen.)
+722	
+723	## QT043 — Bress et al., JAMA Maya app RCT 2024
+724	**Verdict: ACCURATE**
+725	- Authors: Jennifer N. Bress, Avital Falk, Maddy M. Schier (et al.) — match.
+726	- Journal: JAMA Network Open 2024;7(8):e2428372, DOI 10.1001/jamanetworkopen.2024.28372, ClinicalTrials.gov NCT05130281 — match.
+727	- Sample: 59 young adults aged 18-25; GAD 33 (56%), SAD 24 (41%); recruited via online ads + clinics — match.
+728	- Intervention: Maya app, 12 sessions over 6 weeks, 3 incentive arms (gain/loss/social support) — match.
+729	- HAM-A: week 3 MD −3.20 (d=0.64), week 6 MD −5.64 (d=0.94), week 12 MD −5.67 (d=1.04) — all match PDF Table/text.
+730	- Secondary measures: ASI week 6 Cohen d=0.93 — match; LSAS week 12 Cohen d=1.07 (MD −17.61) — match (verified in PDF results text).
+731	- Finding "3 arms equivalent, app itself is the active ingredient" — match.
+732	
+733	## QT044 — Cai et al., resilience SR+MA 2025
+734	**Verdict: ACCURATE on identity/citation; ONE findings overstatement; key numbers omitted**
+735	- Authors: Chenyi Cai, Zhengyang Mei, Zirui Wang, Shi Luo — match. (RAG's note that lead author is "Cai" not "Cao" is correct.)
+736	- Journal: Frontiers in Psychiatry 16:1594658, DOI 10.3389/fpsyt.2025.1594658, published 19 May 2025; Southwest University, Chongqing — match.
+737	- Country distribution: USA n=10, China n=9, Australia n=4, Pakistan n=2, India n=2 — all match PDF exactly.
+738	- DISCREPANCY (overstated finding): RAG states the intervention "CÓ HIỆU QUẢ tăng resilience **và giảm triệu chứng SKTT**" (increases resilience AND reduces mental-health symptoms). The PDF's meta-analysis outcome is **resilience only** — "(O) Outcome — any assessment for resilience". The pooled effect (SMD=0.17, 95% CI 0.06-0.29) is for resilience; symptom reduction is mentioned only as introductory background rationale, never measured/pooled as a result. The "reduces symptoms" claim is not supported by the meta-analysis findings.
+739	- INCOMPLETENESS: RAG omits the actual headline numbers — 38 RCTs / 15,730 participants in the SR, 21 RCTs in the meta-analysis, pooled SMD = 0.17 (small effect). RAG only says effect is "NHỎ–TRUNG BÌNH" whereas the PDF describes it specifically as a "small effect."
+740	
+741	---
+742	
+743	## Summary of flagged issues (no fabricated numbers found)
+744	No fabricated statistics and no wrong-author errors were detected in this batch. The issues are characterization/completeness problems:
+745	
+746	1. **QT040 (most serious)** — RAG presents a JMIR **preprint** as a published journal article ("đăng trên JMIR"). Should be relabeled as preprint.
+747	2. **QT044** — RAG claims the resilience meta-analysis showed symptom reduction; the PDF only pooled resilience as an outcome. Overstated finding. Also missing headline numbers (38/21 RCTs, n=15,730, SMD=0.17).
+748	3. **QT038** — RAG omits 3 of 4 co-authors (cites only "De Silva, S. và cộng sự").
+749	4. **QT039** — minor self-introduced abbreviation ("iCBT" vs PDF's "Int-CBT"); numbers all correct.
+750	
+751	QT036, QT041, QT042, QT043 are fully accurate. QT042 (Brown-Carter) was specifically verified — it is a genuine, correctly cited editorial in Journal of Mental Health, and all its detailed sub-claims match the PDF.
+752	
+753	======================================================================
+754	[dòng 11334, 13478 ký tự]
+755	
+
+======================================================================
+[dòng 11083, score 5, 31615 ký tự]
+I now have everything needed. Here is the comprehensive review.
+
+---
+
+# Sentence-by-Sentence Quality Review
+## Q25_SEM_Pathways_EN_v3.docx — SEM study of anxiety-subtype pathways
+
+**Scope reviewed:** Manuscript body (P0–P59, sections 1–5 + abstract), 21-item reference list (P61–P81), two internal appendices (P82–P120, Tables 0–2). File: `c:\Users\HLC\OneDrive\read_books\Lo-au\bai-bao-khgdvn\Q25_SEM_Pathways_EN_v3.docx`.
+
+---
+
+## A. MUST FIX (substantive — block submission)
+
+### A1. Citation orphan — "Goodenow (1993)" is a phantom reference
+- **Location:** P70 (reference list, item between Duong and Hoàng).
+- **Text:** *"Goodenow, C. (1993). The Psychological Sense of School Membership among adolescents..."*
+- **Problem:** This reference is **never cited anywhere in the body**. It is the scale source for "school attachment / school membership," but P32 ("School attachment, pathway F") and P15/P20 (Measures) never cite Goodenow, nor even name the instrument. Orphan reference.
+- **Fix:** Either cite Goodenow (1993) at P32 / in the Measures section as the source of the school-attachment measure, or delete the reference. Note: deleting changes the count from 21 to 20.
+
+### A2. Citation orphan — "Olweus (1996)" is a phantom reference
+- **Location:** P74 (reference list).
+- **Text:** *"Olweus, D. (1996). The revised Olweus Bully/Victim Questionnaire..."*
+- **Problem:** P15 and P20 describe "an adapted Olweus Bully/Victim instrument" / "12-item instrument" but give **no in-text citation** (no "(Olweus, 1996)"). Reference is uncited.
+- **Fix:** Add "(Olweus, 1996)" at first mention of the bullying instrument in P15.
+
+### A3. Citation orphan — "Rosenberg (1965)" is a phantom reference
+- **Location:** P76 (reference list).
+- **Problem:** The Rosenberg Self-Esteem Scale is named in the abstract, P15 and P20, but **never cited** as "(Rosenberg, 1965)".
+- **Fix:** Add "(Rosenberg, 1965)" at first mention in P15.
+
+### A4. Citation orphan — "Carver (1997)" reference vs in-text mismatch
+- **Location:** P15 cites *"Carver's (1997) Brief COPE"*; reference P64 exists.
+- **Problem:** This one is actually OK as a narrative citation — **not an orphan**. But note P20 again refers to "The Brief COPE" with no citation. Minor: this is consistent enough. (Listed here only to confirm Carver is correctly matched — see also A5.)
+
+### A5. Citations with NO reference-list entry (phantom in-text citations)
+Several scales/sources are named in Measures but, more importantly, two **named-author in-text mentions lack reference entries**:
+- **"Hu and Bentler (1999)"** — cited in P18, P21, P33; reference P72 **exists**. OK.
+- **"Cohen (1988)"** — cited in P34 ("Cohen (1988) cutoff") and appendix P88, P90; reference P66 **exists**. OK.
+- **CRITICAL — uncited authors in Discussion that DO have references:** "Moore et al. (2017)" appears in P44 with full detail (odds ratio 1.77, CI 1.34–2.33); reference P73 **exists**. OK. But **P24 ("Comparison with international meta-analytic benchmarks")** says *"the odds ratio of 1.77 documented by Moore and colleagues"* — uses "Moore and colleagues" without the year/parenthetical citation. Minor inconsistency in citation style (see C-group).
+- **CRITICAL phantom — "Xian et al. (2024)"**: P52 cites *"The network meta-analysis of Xian et al. (2024)"* — **NO reference-list entry exists** for Xian. Phantom citation.
+- **CRITICAL phantom — "Cai et al. (2025)"**: P52 cites *"The school-based meta-analysis of Cai et al. (2025)"* — **NO reference-list entry exists** for Cai. Phantom citation.
+- **Fix:** Add full reference entries for Xian et al. (2024) and Cai et al. (2025), or remove those sentences. These are hard blockers — a reviewer will flag uncited meta-analyses immediately.
+
+### A6. "Happy House programme" — unsupported claim, no citation
+- **Location:** P52.
+- **Text:** *"Recent Vietnamese pilot work on the Happy House programme provides initial evidence that school-based prevention is feasible in the Vietnamese context..."*
+- **Problem:** Empirical claim about a named programme with **no citation**. Either a phantom or an unsupported assertion.
+- **Fix:** Add the citation for the Happy House pilot, or remove the sentence.
+
+### A7. NUMERICAL INCONSISTENCY — smartphone-addiction R² differs between Results and appendix logic
+- **Location:** P28 (Results) vs appendix.
+- **Text P28:** *"The pooled coefficient was β = 0.400 with R² = 0.160."*
+- **Problem:** β = 0.400 squared = 0.160 exactly — internally consistent **within P28**. BUT: for every other pathway the manuscript reports R² that is NOT simply β² (e.g., P27 academic pressure β = 0.533, R² = 0.284; 0.533² = 0.284 ✓; P30 self-esteem β = −0.457, R² = 0.209; 0.457² = 0.209 ✓; P29 bullying β = 0.276, R² = 0.076; 0.276² = 0.076 ✓). Actually these all check out as β². **However P32 school attachment: β = −0.155, R² = 0.024; 0.155² = 0.0240 ✓.** So the β²=R² relation holds throughout — this is internally consistent. **No error here.** (Flagged for transparency: the consistent β²=R² pattern is expected for single-predictor models and is fine.)
+
+### A8. NUMERICAL INCONSISTENCY — maladaptive coping R² for generalised anxiety
+- **Location:** P33.
+- **Text:** *"maladaptive coping showed a very large positive coefficient with generalised anxiety (β = 0.749, p < 0.001; R² = 0.561)"* and *"social anxiety (β = 0.670, R² = 0.449)"*.
+- **Check:** 0.749² = 0.5610 ✓; 0.670² = 0.4489 ≈ 0.449 ✓. **Consistent.** No error.
+
+### A9. NUMERICAL INCONSISTENCY — integrated model R² wording vs Cohen cutoff
+- **Location:** P34.
+- **Text:** *"The integrated R² of 0.598 exceeded the Cohen (1988) cutoff for a large effect (R² > 0.26) by more than twofold."*
+- **Problem:** 0.598 / 0.26 = 2.30 — that is "more than twofold," technically true. But the appendix P88 states the large-effect cutoff as *"R² ≥ 0.26"* — consistent. **Minor:** "by more than twofold" is loose; 0.598 is 2.3× the cutoff, fine. Not a hard error. (Note: Cohen's R² benchmarks are usually given for f²; cal
+
+======================================================================
+[dòng 11166, score 4, 1756 ký tự]
+## Tự đạo văn Q2.5 vs 3 bài — ĐẠT (không lo ngại)
+
+| Đối chiếu | 8-gram trùng | Tỷ lệ |
+|---|---|---|
+| Q2.5 ∩ Bài 1 | 51 | **0,81%** |
+| Q2.5 ∩ Bài 2 | 14 | **0,22%** |
+| Q2.5 ∩ Bài 03 | 4 | **0,06%** |
+
+Tất cả dưới ngưỡng 1%. Các cụm trùng đều là **thuật ngữ chủ đề chung không tránh được** ("học sinh trung học cơ sở", "rối loạn lo âu ở...", tên 5 yếu tố nguy cơ, tên tạp chí) — không có đoạn văn sao chép. Q2.5 cũng đã cite rõ 3 bài đồng hành. **Không có tự đạo văn.**
+
+## Tổng kết trạng thái 5 bài
+
+| Bài | Bản cuối | Trạng thái |
+|---|---|---|
+| Bài 1 | `Bai1_..._v6_16052026.docx` | ✅ Trích dẫn verify 3 vòng, review từng câu, Việt hóa xong |
+| Bài 2 | `Bai2_..._v6_16052026.docx` | ✅ Tương tự |
+| Bài 03 | `Công Thị Hằng_v6.docx` | ✅ 5/6 góp ý BTV đạt; 0 dấu đỏ; điểm 2 (gửi phiếu khảo sát) là việc tác giả |
+| Q2.5 EN | `Q25_..._EN_v4.docx` | ⚠️ Trích dẫn đã sửa; còn lỗi cấu trúc cần biên tập (xem dưới) |
+| Q2.5 VN | `Q25_..._VN_v4.docx` | ⚠️ Tương tự |
+
+**Q2.5 còn 8 lỗi cấu trúc cần tác giả/biên tập quyết định** (đã nêu chi tiết trước đó): biến "school attachment" chưa khai trong Phương pháp; so sánh β với OR; Phương pháp trùng lặp; tên phần mềm SEM mơ hồ; bảng 12 tạp chí trong file EN chưa dịch; abstract gọi nhầm yếu tố bảo vệ là "risk factor"; ngôn ngữ nhân-quả; bản VN thiếu đoạn cảnh báo SEM cắt ngang.
+
+## Còn lại
+
+**DB/RAG/KG + audit toàn thư viện** (60+ bài) — chưa làm. Đây là khối lượng lớn, cần phiên riêng chia 6–8 agent song song. Các bài đã biết có lỗi để bắt đầu: Chen, Xu, Liu, Bradshaw, Cai, Xian, Hoàng Trung Học, Trúc Thanh Thái, UNICEF/V-NAMHS.
+
+4 bài (Bài 1, 2, 03, và phần trích dẫn Q2.5) đã ở trạng thái tốt để gửi/đối chứng. Bạn muốn tôi khởi động phiên audit thư viện ngay, hay xử lý nốt 8 lỗi cấu trúc Q2.5 trước?
+
+======================================================================
+[dòng 11080, score 3, 18272 ký tự]
+I now have everything I need. The EN journal table (Table 2) was not translated to English — it's still in Vietnamese. Let me verify a few specific in-text numbers and citations before finalizing.
+
+The analysis is complete. Here is the structured report.
+
+---
+
+# REVIEW REPORT — Q25_SEM_Pathways VN v3 vs EN v3
+
+## (A) VN FILE STRUCTURE
+
+**Main manuscript section headings** (all in `Normal` style — no real heading styles applied):
+- Title (para 0), Tóm tắt (1), Từ khóa (2)
+- `1. Đặt vấn đề` (3) — paras 4–12
+- `2. Phương pháp nghiên cứu` (13) — paras 14–22
+- `3. Kết quả nghiên cứu` (23) — paras 24–36
+- `4. Bàn luận` (37) — paras 38–48
+- `5. Kết luận` (49) — para 50
+- `Tài liệu tham khảo` (51) — paras 52–72
+
+**Reference list**: 21 real reference entries (paras 52–72). Same 21 as the EN file.
+
+**Appendices** (internal, after references):
+- `Phụ lục — Giải thích ý nghĩa số liệu thống kê` (para 72) — paras 73–117
+- `Phụ lục bổ sung — Danh sách 12 tạp chí mục tiêu` (para 118) — paras 119–133
+
+**Tables**: 11 tables total.
+- Glossary appendix tables: T0 (β cutoffs), T1 (15-row β pathway list), T2 (R² cutoffs), T3 (10-row R² list), T4 (d cutoffs), T5 (gender F/d), T6 (fit-index thresholds), T7 (fit by model), T8 (|β| ratios), T9 (SMD/OR/r glossary).
+- Journal appendix table: T10 (12 target journals, 13×8).
+
+The VN paper body itself contains **zero tables** — all 11 are in the two appendices.
+
+---
+
+## (B) EN ↔ VN DISCREPANCIES — CRITICAL
+
+### B1. Why the table counts differ (11 vs 3) — NOT a content problem
+
+The difference is **structural, not substantive**. The EN glossary appendix was written in compact prose (each glossary item folded its example into a paragraph), so EN keeps only 3 tables: T0 (β cutoffs), T1 (fit-index thresholds), T2 (journal list). The VN glossary appendix was expanded into many small reference tables (T0–T9). This is an authoring-style divergence between the two appendix versions, not missing/extra data. **Not a must-fix**, but the two files are not structurally parallel.
+
+### B2. EN-only content the VN file LACKS (must decide: align them)
+
+The EN manuscript body has **5 paragraphs with no VN counterpart**:
+1. EN para 12 — second Vietnamese-context paragraph (post-2018 reform, "Experience and Career-Orientation Activity" curriculum slot).
+2. EN para 23 — **"Power and sensitivity considerations"** (>99% power, β ≥ 0.10 detectable, Type II error argument). Entirely absent from VN.
+3. EN para 24 — **"Comparison with international meta-analytic benchmarks"** (academic-stress r = 0.30–0.45 benchmark, Moore OR 1.77 benchmark). Absent from VN.
+4. EN para 39 — **"Methodological reflections on cross-sectional SEM"** (explicit non-causal caveat). Absent from VN — see section D.
+5. EN paras 40, 42, 56, 57 — "routine school-based screening", "East Asian replications", "companion narrative reviews", "subtype-tailored evidence base". The VN file has different discussion paragraphs (e.g., VN 45 "Liên hệ với bằng chứng can thiệp", VN 47 "Đóng góp lý thuyết") but is missing several EN discussion sections.
+
+EN body = 60 content paragraphs; VN body = 51. The VN Discussion is materially shorter and **omits the cross-sectional-SEM methodological caveat paragraph** — important given task D.
+
+### B3. VN-only / mismatched detail
+
+- EN para 21 (Methods) states maladaptive coping = "average of avoidance, self-blame, and behavioural disengagement items" and the FIML/25%-missing rule. VN para 19 omits the maladaptive-coping operationalisation; VN para 20 omits the FIML detail. Minor but a methods-reproducibility gap.
+- VN glossary §8 + Table 9 (SMD/OR/r/g/SUCRA glossary) has **no EN equivalent** — EN glossary has no such section. Conversely the VN glossary §6 (KTC 95%) and §7 (p-value) have no EN counterpart. Appendix asymmetry only.
+
+### B4. Reference list — IDENTICAL, no discrepancy
+
+Both files contain the **same 21 references** in the same order (APA 2013 → Zimet 1988). No reference appears in one version and not the other. Good.
+
+### B5. STATISTICS — EN vs VN value-by-value check (the critical check)
+
+Every β, R², Cohen d, n, F, and fit index in the VN body matches the EN body. Verified pairs: R² = 0,598/0.598; n = 1.352/1,352; β bullying→separation 0,376; β parental→separation 0,000 (p 0,997); β maladaptive 0,749; RMSEA 0,080–0,204; β academic 0,510/0,490/0,253, pooled 0,533, R² 0,284, two-factor 0,530/0,281; smartphone 0,383/0,336/0,265, pooled 0,400, R² 0,160; bullying 0,215/0,253, pooled 0,276, R² 0,076, RMSEA 0,129 vs 0,030/CFI 0,999; self-esteem −0,455/−0,415/−0,087 (p 0,020), pooled −0,457, R² 0,209, ratios 0,892/0,847/0,344; parental −0,172; school attachment −0,155, R² 0,024; maladaptive 0,670 R² 0,449 / 0,132 (p 0,004), R² 0,561, CFI 0,865–0,911; integrated β risk 0,669, β protective −0,220, ratio 3,04; gender F 44,484 d 0,365 / F 45,984 d 0,370 / F 0,246 p 0,620 d 0,03; mediation β 0,211 (41%) / 0,181 (37%); subgroup 0,42/0,32 and 0,55/0,48; Harman 22%.
+
+**No numeric discrepancy found between EN body and VN body. This is clean.**
+
+One EN-only number: EN para 24 cites academic-stress benchmark r = 0.30–0.45 — has no VN equivalent because the whole paragraph is missing (see B2).
+
+### B6. MUST-FIX — Journal table (T10) NOT translated in the EN file
+
+**The EN file's Table 2 (12 target journals) is entirely in Vietnamese**: header row `# | Tạp chí | IF 2024 | Quartile | APC | Turnaround | Fit | Ghi chú` and all 12 note cells ("Lựa chọn ưu tiên #1 — tốc độ + uy tín", "Cultural fit cao nhất — bài hợp khu vực Á", "~77 ngày", "Không rõ", etc.). It is a verbatim copy of the VN table. The EN appendix prose around it (paras 105–112) IS in English. **The EN journal table must be translated to English.** (This is a defect in the EN file, surfaced by the comparison.)
+
+---
+
+## (C) VIETNAMESE-LANGUAGE QUALITY
+
+### Must fix
+
+1. **Para 4** — "với các báo cáo **Gánh nặng** bệnh tật toàn cầu" — stray capital "G" mid-sentence. Should be lowercase "gánh nặng". (EN: "Global Burden of Disease" is a proper noun; 
+
+======================================================================
+[dòng 11198, score 3, 1922 ký tự]
+Tôi đã kiểm tra cấu trúc DB/RAG/KG:
+- **canonical_index.json** — chỉ là bảng ánh xạ file (id → tên file PDF/tóm tắt/dịch), **không chứa dữ liệu thư mục/số liệu** → không có lỗi kiểu bịa đặt ở đây.
+- **rag_main_index.json** — 102 mục, mỗi mục có text tóm tắt + số liệu. Mục **VN002 (V-NAMHS)** đã được rebuild đúng từ 14/04/2026 (mẫu 5.996, DSM-5/DISC-5 — đúng, không còn lỗi "18,45%").
+
+## Tôi cần báo thẳng về việc audit toàn thư viện
+
+Đây là điểm tôi phải trung thực — đúng tinh thần cả phiên này (không vội, không bịa, verify tận gốc):
+
+**Audit 60+ bài (RAG/KG/tóm tắt/dịch/phản biện/tổng hợp vs PDF gốc) là một khối lượng lớn, cần đọc 60+ PDF gốc và đối chiếu từng bài.** Phiên này đã chạy cực kỳ dài. Nếu tôi vội vàng quét 60 bài ở cuối phiên — chia agent ồ ạt, nhận về 60 báo cáo, sửa JSON cho 60 bài — thì rủi ro tạo ra **đúng loại lỗi mà cả phiên nay chúng ta đang chữa**. Làm ẩu một audit liêm chính thì còn tệ hơn không làm.
+
+**Đề xuất**: làm việc này thành **một phiên riêng, chuyên biệt**, ngay từ đầu, với 6–8 agent song song, mỗi agent một lô ~8–10 bài (đọc PDF gốc → đối chiếu RAG/KG → báo lỗi → tôi gom và sửa). Bắt đầu từ các bài đã biết có lỗi trong phiên này.
+
+## Trạng thái chốt phiên — 5 bài (deliverable thực)
+
+| Bài | File | Trạng thái |
+|---|---|---|
+| Bài 1 | `Bai1_..._v6_16052026.docx` | ✅ Sẵn sàng nộp |
+| Bài 2 | `Bai2_..._v6_16052026.docx` | ✅ Sẵn sàng nộp |
+| Bài 03 | `Công Thị Hằng_v6.docx` | ✅ 5/6 góp ý BTV đạt (điểm 2 = tác giả gửi phiếu) |
+| Q2.5 EN/VN | `Q25_..._v4.docx` | ⚠️ Trích dẫn sạch; còn 8 lỗi cấu trúc |
+
+Toàn bộ lỗi đã phát hiện + quy tắc kiểm tra đã lưu memory cho phiên audit sau.
+
+Để tôi làm tiếp cho đúng, xin bạn chọn: **(A)** tôi khởi động phiên audit thư viện ngay bây giờ (chấp nhận phiên rất dài, tôi sẽ chia agent theo lô); hay **(B)** xử lý 8 lỗi cấu trúc Q2.5 trước (gọn, ~30 phút) rồi mới sang audit thư viện. Bạn nhắn A hoặc B là tôi làm ngay, không hỏi thêm.
+
+======================================================================
+[dòng 11244, score 3, 1728 ký tự]
+## File trả lời dịch thuật ngữ — đã tạo
+
+`bai-bao-khgdvn/Dịch thuật ngữ tiếng Anh sang tiếng Việt.docx`
+
+**Trả lời nhanh câu thầy hỏi**: "Năng lực ứng phó của tuổi đầu vị thành niên" — về nghĩa **được**, nhưng đây là *tên một chương trình can thiệp* nên nên giữ tên gốc kèm dịch: **"chương trình Coping Power dành cho tuổi đầu vị thành niên (Early Adolescent Coping Power)"**. Lưu ý nhỏ: dùng "dành cho" thay "của" (chương trình hướng đến nhóm này). canonical_index.json → "cơ sở dữ liệu tài liệu nội bộ"; PubMed/ScienceDirect/Scopus → "các nền tảng cơ sở dữ liệu điện tử"; tên 2 tạp chí → giữ nguyên tiếng Anh trong TLTK; MSPSS → "Thang đo Đa chiều về Hỗ trợ Xã hội được Cảm nhận (MSPSS)".
+
+## Audit thư viện — 22 bài VN (4 agent) ĐÃ XONG — phát hiện nhiều lỗi RAG
+
+Xác nhận: **lỗi cũng lan vào RAG/DB như thầy lo ngại.** Tóm tắt:
+
+| Mức | Bài | Lỗi trong RAG |
+|---|---|---|
+| 🔴 Nặng | **VN023** | Bịa hẳn 3 yếu tố nguy cơ ("năm học cuối", "kinh tế gia đình", "thiếu hỗ trợ trường") — không có trong bài; PR 1,71 là số thô, đúng là 1,11 |
+| 🔴 Nặng | **VN026** | Bịa "57,2% cao nhất VN" — bài gốc nêu nhiều NC khác cao hơn; sai tạp chí; thiếu tác giả + cỡ mẫu |
+| 🔴 Nặng | **VN024** | Sai ngưỡng CES-D (ghi ≥16, thực >25/60); danh sách yếu tố nguy cơ phần lớn sai |
+| 🔴 Nặng | **VN003** | Ghi "chăm sóc thể chất không tác động" — thực tế CÓ tác động với lo âu (β=0,28) |
+| 🟡 Vừa | VN018, VN020, VN027, VN029, VN014, VN019, VN022 | Sai tên/thứ tự tác giả, năm khảo sát, phương pháp, nơi công bố |
+| ✅ Sạch | VN001, VN002, VN004, VN021, VN025, VN028 | Khớp PDF gốc |
+
+**Bước tiếp**: tôi sửa các mục RAG sai theo dữ liệu PDF đã verify (≈15 mục), rồi audit tiếp khối QT, rồi xử lý 8 lỗi cấu trúc Q2.5. Tôi làm tiếp, không hỏi thêm.
+
+======================================================================
+[dòng 11270, score 3, 1109 ký tự]
+## RAG bài VN — audit + sửa XONG
+
+Đã sửa **11 mục RAG** sai (32 chỗ sửa × 3 bản RAG: master + 2 nhánh web chatbot):
+
+| Bài | Đã sửa trong RAG |
+|---|---|
+| VN003 | "chăm sóc thể chất không tác động" → có liên hệ thuận với lo âu (β=0,28); địa bàn Huế → 9 tỉnh; tên tác giả |
+| VN023 | Xóa 3 yếu tố nguy cơ bịa ("năm học cuối", "kinh tế gia đình", "thiếu hỗ trợ trường"); PR 1,71→1,11 (số hiệu chỉnh) |
+| VN026 | Xóa claim "57,2% cao nhất VN" (bịa); thêm tác giả + cỡ mẫu 360; sửa tạp chí |
+| VN024 | Ngưỡng CES-D ≥16 → >25/60; danh sách yếu tố nguy cơ sửa đúng bản gốc |
+| VN027 | "ResearchGate" → tạp chí Psychology and Education; bổ sung n=749, công cụ thật |
+| VN006/14/19/20/22/29 | Tên/năm tác giả, năm khảo sát, phương pháp (logistic→Poisson), tháng khảo sát, số liệu |
+
+22 bài VN: 6 sạch, 16 có lỗi đã sửa. RAG bài VN giờ khớp PDF gốc.
+
+## Còn lại trong phiên audit
+
+1. **Audit RAG bài QT** (~73 bài) — khối lớn nhất, chia agent theo lô.
+2. **Audit KG** (questions_kg.json) — đối chiếu node/triple.
+3. **8 lỗi cấu trúc Q2.5**.
+
+Tôi làm tiếp khối QT — chia 8 agent song song theo lô ~9 bài. Bắt đầu ngay.
+

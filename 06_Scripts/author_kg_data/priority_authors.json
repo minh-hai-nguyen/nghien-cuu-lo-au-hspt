@@ -1,0 +1,381 @@
+{
+  "AU_ERSKINE_HE": {
+    "full_name": "Holly E. Erskine",
+    "surname": "Erskine",
+    "given": "Holly E.",
+    "country": "Australia",
+    "affiliations": [
+      "University of Queensland",
+      "QIMR Berghofer Medical Research Institute"
+    ],
+    "expertise": [
+      "adolescent mental health",
+      "GBD",
+      "NAMHS",
+      "child mental disorders"
+    ],
+    "known_papers_in_library": [],
+    "role_notes": "V-NAMHS PI; GBD co-author; Lancet Psychiatry contributor",
+    "orcid": "0000-0002-4155-8339",
+    "is_priority": true,
+    "child_adolescent_focus": true
+  },
+  "AU_WHITEFORD_HA": {
+    "full_name": "Harvey A. Whiteford",
+    "surname": "Whiteford",
+    "given": "Harvey A.",
+    "country": "Australia",
+    "affiliations": [
+      "University of Queensland",
+      "Queensland Centre for Mental Health Research"
+    ],
+    "expertise": [
+      "global MH burden",
+      "GBD mental disorders",
+      "policy"
+    ],
+    "known_papers_in_library": [],
+    "role_notes": "V-NAMHS senior advisor; GBD mental disorders lead",
+    "orcid": "0000-0003-4667-6623",
+    "is_priority": true,
+    "child_adolescent_focus": false
+  },
+  "AU_SCOTT_JG": {
+    "full_name": "James G. Scott",
+    "surname": "Scott",
+    "given": "James G.",
+    "country": "Australia",
+    "affiliations": [
+      "University of Queensland",
+      "Royal Brisbane and Women's Hospital"
+    ],
+    "expertise": [
+      "child mental disorders",
+      "psychosis",
+      "ADHD",
+      "anxiety"
+    ],
+    "known_papers_in_library": [],
+    "role_notes": "V-NAMHS clinical advisor; child psychiatry",
+    "orcid": "0000-0002-0744-0688",
+    "is_priority": true,
+    "child_adolescent_focus": true
+  },
+  "AU_BLUM_RW": {
+    "full_name": "Robert W. Blum",
+    "surname": "Blum",
+    "given": "Robert W.",
+    "country": "USA",
+    "affiliations": [
+      "Johns Hopkins Bloomberg School of Public Health"
+    ],
+    "expertise": [
+      "adolescent health",
+      "GEAS",
+      "resilience",
+      "positive youth development"
+    ],
+    "known_papers_in_library": [
+      "VN002"
+    ],
+    "role_notes": "JHSPH NAMHS Project Lead; co-authored V-NAMHS 2022; Blum et al. 2012 VN suicide",
+    "orcid": "0000-0003-2008-1330",
+    "is_priority": true,
+    "child_adolescent_focus": true
+  },
+  "AU_PATTON_GC": {
+    "full_name": "George C. Patton",
+    "surname": "Patton",
+    "given": "George C.",
+    "country": "Australia",
+    "affiliations": [
+      "Murdoch Children's Research Institute",
+      "University of Melbourne"
+    ],
+    "expertise": [
+      "adolescent health",
+      "Lancet Commission",
+      "global adolescent wellbeing"
+    ],
+    "known_papers_in_library": [],
+    "role_notes": "Lead Lancet Commission on Adolescent Health 2016 \"Our Future\"",
+    "orcid": "0000-0001-5039-8326",
+    "is_priority": true,
+    "child_adolescent_focus": true
+  },
+  "AU_PATEL_V": {
+    "full_name": "Vikram Patel",
+    "surname": "Patel",
+    "given": "Vikram",
+    "country": "USA/India",
+    "affiliations": [
+      "Harvard Medical School",
+      "Public Health Foundation of India"
+    ],
+    "expertise": [
+      "global mental health",
+      "LMIC",
+      "mhGAP",
+      "task-sharing"
+    ],
+    "known_papers_in_library": [],
+    "role_notes": "mhGAP co-creator; Lancet Psychiatry; LMIC MH pioneer",
+    "orcid": "0000-0003-1066-8584",
+    "is_priority": true,
+    "child_adolescent_focus": false
+  },
+  "AU_WEISS_B": {
+    "full_name": "Bahr Weiss",
+    "surname": "Weiss",
+    "given": "Bahr",
+    "country": "USA",
+    "affiliations": [
+      "Vanderbilt University"
+    ],
+    "expertise": [
+      "Vietnamese child mental health",
+      "MH literacy",
+      "RISE intervention"
+    ],
+    "known_papers_in_library": [],
+    "role_notes": "Weiss et al. 2014 nationally representative VN child MH study; RISE intervention",
+    "orcid": "0000-0001-9700-5275",
+    "is_priority": true,
+    "child_adolescent_focus": true
+  },
+  "AU_DANG_HM": {
+    "full_name": "Đặng Hoàng Minh",
+    "surname": "Dang",
+    "given": "Hoàng Minh",
+    "country": "Vietnam",
+    "affiliations": [
+      "Vietnam National University (VNU), University of Education"
+    ],
+    "expertise": [
+      "Vietnamese MH literacy",
+      "school psychology",
+      "MH service adaptation"
+    ],
+    "known_papers_in_library": [],
+    "role_notes": "Vietnam's leading MH literacy researcher; collaborator with Bahr Weiss",
+    "is_priority": true,
+    "child_adolescent_focus": true,
+    "is_vietnamese": true
+  },
+  "AU_FISHER_J": {
+    "full_name": "Jane Fisher",
+    "surname": "Fisher",
+    "given": "Jane",
+    "country": "Australia",
+    "affiliations": [
+      "Monash University"
+    ],
+    "expertise": [
+      "perinatal MH",
+      "VN MHPSS",
+      "Happy House",
+      "women's health"
+    ],
+    "known_papers_in_library": [
+      "VN030"
+    ],
+    "role_notes": "Happy House (Tran et al. 2023) senior author; Monash-HUPH VN collaboration",
+    "orcid": "0000-0002-1959-6807",
+    "is_priority": true,
+    "child_adolescent_focus": true
+  },
+  "AU_SHOCHET_I": {
+    "full_name": "Ian Shochet",
+    "surname": "Shochet",
+    "given": "Ian",
+    "country": "Australia",
+    "affiliations": [
+      "Queensland University of Technology (QUT)"
+    ],
+    "expertise": [
+      "RAP-A program",
+      "resilience",
+      "adolescent anxiety/depression prevention"
+    ],
+    "known_papers_in_library": [
+      "VN030"
+    ],
+    "role_notes": "RAP-A (Resourceful Adolescent Program) originator; Happy House collaborator",
+    "is_priority": true,
+    "child_adolescent_focus": true
+  },
+  "AU_KESSLER_RC": {
+    "full_name": "Ronald C. Kessler",
+    "surname": "Kessler",
+    "given": "Ronald C.",
+    "country": "USA",
+    "affiliations": [
+      "Harvard Medical School"
+    ],
+    "expertise": [
+      "WMH surveys",
+      "epidemiology",
+      "onset age of MH disorders"
+    ],
+    "known_papers_in_library": [],
+    "role_notes": "WHO World Mental Health Survey consortium; Kessler et al. 2005 \"50% MH disorders by age 14\"",
+    "orcid": "0000-0002-6411-5396",
+    "is_priority": true,
+    "child_adolescent_focus": false
+  },
+  "AU_STALLARD_P": {
+    "full_name": "Paul Stallard",
+    "surname": "Stallard",
+    "given": "Paul",
+    "country": "UK",
+    "affiliations": [
+      "University of Bath"
+    ],
+    "expertise": [
+      "CBT children/adolescents",
+      "FRIENDS",
+      "Think Good Feel Good"
+    ],
+    "known_papers_in_library": [],
+    "role_notes": "FRIENDS program UK lead; CBT workbook author",
+    "orcid": "0000-0001-8046-9688",
+    "is_priority": true,
+    "child_adolescent_focus": true
+  },
+  "AU_BARRETT_P": {
+    "full_name": "Paula Barrett",
+    "surname": "Barrett",
+    "given": "Paula",
+    "country": "Australia",
+    "affiliations": [
+      "Pathways Health and Research Centre"
+    ],
+    "expertise": [
+      "FRIENDS for Life",
+      "anxiety prevention children"
+    ],
+    "known_papers_in_library": [],
+    "role_notes": "FRIENDS for Life original creator — most widely disseminated CBT prevention",
+    "is_priority": true,
+    "child_adolescent_focus": true
+  },
+  "AU_WALKUP_JT": {
+    "full_name": "John T. Walkup",
+    "surname": "Walkup",
+    "given": "John T.",
+    "country": "USA",
+    "affiliations": [
+      "Ann & Robert H. Lurie Children's Hospital",
+      "Northwestern University"
+    ],
+    "expertise": [
+      "child anxiety RCTs",
+      "CAMS trial",
+      "pediatric psychopharmacology"
+    ],
+    "known_papers_in_library": [],
+    "role_notes": "CAMS (Walkup et al. 2008 NEJM) PI — seminal child anxiety RCT",
+    "is_priority": true,
+    "child_adolescent_focus": true
+  },
+  "AU_CUIJPERS_P": {
+    "full_name": "Pim Cuijpers",
+    "surname": "Cuijpers",
+    "given": "Pim",
+    "country": "Netherlands",
+    "affiliations": [
+      "Vrije Universiteit Amsterdam"
+    ],
+    "expertise": [
+      "meta-analysis depression/anxiety",
+      "iCBT",
+      "psychotherapy efficacy"
+    ],
+    "known_papers_in_library": [],
+    "role_notes": "One of the most cited meta-analysts in psychotherapy",
+    "orcid": "0000-0001-5497-2743",
+    "is_priority": true,
+    "child_adolescent_focus": false
+  },
+  "AU_RAPEE_R": {
+    "full_name": "Ronald Rapee",
+    "surname": "Rapee",
+    "given": "Ronald",
+    "country": "Australia",
+    "affiliations": [
+      "Macquarie University"
+    ],
+    "expertise": [
+      "Cool Kids program",
+      "child anxiety",
+      "parent-child intervention"
+    ],
+    "known_papers_in_library": [],
+    "role_notes": "Cool Kids Anxiety Program originator; leader in child anxiety CBT",
+    "orcid": "0000-0002-8688-7719",
+    "is_priority": true,
+    "child_adolescent_focus": true
+  },
+  "AU_MATSUMOTO_K": {
+    "full_name": "Kazuki Matsumoto",
+    "surname": "Matsumoto",
+    "given": "Kazuki",
+    "country": "Japan",
+    "affiliations": [
+      "Kagoshima University Hospital"
+    ],
+    "expertise": [
+      "iCBT",
+      "social anxiety disorder",
+      "Japanese adolescents"
+    ],
+    "known_papers_in_library": [
+      "QT045"
+    ],
+    "role_notes": "QT045 Japan iCBT RCT (NOT Sasaki — historical error, see memory feedback_QT045)",
+    "is_priority": true,
+    "child_adolescent_focus": true
+  },
+  "AU_VU_ML": {
+    "full_name": "Vũ Mạnh Lợi",
+    "surname": "Vu",
+    "given": "Mạnh Lợi",
+    "country": "Vietnam",
+    "affiliations": [
+      "Institute of Sociology (IOS), Vietnam Academy of Social Sciences"
+    ],
+    "expertise": [
+      "adolescent mental health surveys",
+      "V-NAMHS",
+      "sociology"
+    ],
+    "known_papers_in_library": [
+      "VN002"
+    ],
+    "role_notes": "V-NAMHS Principal Investigator Vietnam side",
+    "is_priority": true,
+    "child_adolescent_focus": true,
+    "is_vietnamese": true
+  },
+  "AU_TRAN_T": {
+    "full_name": "Thach Tran",
+    "surname": "Tran",
+    "given": "Thach",
+    "country": "Australia/Vietnam",
+    "affiliations": [
+      "Monash University",
+      "Hanoi University of Public Health (HUPH)"
+    ],
+    "expertise": [
+      "Happy House",
+      "school-based MH",
+      "Vietnamese adolescents"
+    ],
+    "known_papers_in_library": [
+      "VN030"
+    ],
+    "role_notes": "Happy House first author; Monash–HUPH collaboration",
+    "is_priority": true,
+    "child_adolescent_focus": true
+  }
+}

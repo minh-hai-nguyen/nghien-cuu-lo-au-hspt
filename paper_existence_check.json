@@ -1,0 +1,210 @@
+{
+  "BAI1": {
+    "QT060": {
+      "exists": true,
+      "file": "QT060_Bie_GlobalAnxiety_GBD_10-24y_1990_2021_FrontPsych_2024.docx"
+    },
+    "QT031": {
+      "exists": true,
+      "file": "QT031_Islam_59Countries_2025.docx"
+    },
+    "QT007": {
+      "exists": true,
+      "file": "QT007_Chen_et_al_2023_China_BMCPsych.docx"
+    },
+    "QT010": {
+      "exists": true,
+      "file": "QT010_Xu_et_al_2021_China_LargestEpi.docx"
+    },
+    "VN002": {
+      "exists": true,
+      "file": "VN002_VNAMHS_2022_National.docx"
+    },
+    "VN014": {
+      "exists": true,
+      "file": "VN014_HoangTrungHoc_2025_VN_COVID.docx"
+    },
+    "VN029": {
+      "exists": true,
+      "file": "VN029_Duong_SocPsychiatry_2631HS_TPHCM_2025.docx"
+    },
+    "QT034": {
+      "exists": true,
+      "file": "QT034_Korea_Cho_MH_Trends_NatSciRep_2024.docx"
+    },
+    "QT016": {
+      "exists": true,
+      "file": "QT016_Mudunna_2025_LancetSEA_SouthAsia.docx"
+    },
+    "QT017": {
+      "exists": true,
+      "file": "QT017_Puyat_2025_Filipino_Youth.docx"
+    },
+    "QT018": {
+      "exists": true,
+      "file": "QT018_Salari_SAD_Prevalence_Global_SR_MA_2024.docx"
+    },
+    "QT067": {
+      "exists": true,
+      "file": "QT067_Pascoe_AcademicStress_IJAY_2020.docx"
+    },
+    "QT046": {
+      "exists": true,
+      "file": "QT046_Jagiello_AcademicStress_SR_2025.docx"
+    },
+    "QT012": {
+      "exists": true,
+      "file": "QT012_GBD_ASEAN_2025_Lancet.docx"
+    },
+    "VN027": {
+      "exists": true,
+      "file": "VN027_Dinh_SchoolFactors_VN_2021.docx"
+    },
+    "VN006": {
+      "exists": true,
+      "file": "VN006_TranThiMyLuong_2020_DASS42_THPTChuyen.docx"
+    },
+    "VN001": {
+      "exists": true,
+      "file": "VN001_Hoa_2024_Frontiers_HaNoi.docx"
+    },
+    "VN004": {
+      "exists": true,
+      "file": "VN004_NguyenThiVan_2020_STAI_TPHCM.docx"
+    },
+    "QT027": {
+      "exists": true,
+      "file": "QT027_NatureHumanBehav_Fassi_SocialMedia_2025.docx"
+    },
+    "QT021": {
+      "exists": true,
+      "file": "QT021_Norway_Brunborg_2025_SocSciMed.docx"
+    },
+    "QT022": {
+      "exists": true,
+      "file": "QT022_ScreenTime_Li_2025_BJCP.docx"
+    },
+    "VN025": {
+      "exists": true,
+      "file": "VN025_PhamThiNgoc_HaiPhong_VinhBao_2024.docx"
+    },
+    "VN020": {
+      "exists": true,
+      "file": "VN020_TranHoVinhLoc_2024_TPHCM_DASS-Y.docx"
+    },
+    "QT070": {
+      "exists": true,
+      "file": "QT070_Moore_2017_BullyingMeta_WorldJPsy.docx"
+    },
+    "QT008": {
+      "exists": true,
+      "file": "QT008_Wen_et_al_2020_China_Rural.docx"
+    },
+    "VN022": {
+      "exists": true,
+      "file": "VN022_UNICEF_VN_2022_SchoolFactors.docx"
+    },
+    "VN015": {
+      "exists": true,
+      "file": "VN015_NgoAnhVinh_2024_LangSon_DTTS.docx"
+    },
+    "QT072": {
+      "exists": true,
+      "file": "QT072_Lee_2025_CyberbullyingMeta_TVA.docx"
+    },
+    "VN019": {
+      "exists": true,
+      "file": "VN019_HoThiTrucQuynh_2025_Hue_TLH.docx"
+    },
+    "VN003": {
+      "exists": true,
+      "file": "VN003_Pham_2024_Hue_SocialSupport.docx"
+    },
+    "VN021": {
+      "exists": true,
+      "file": "VN021_TranThaoVi_2024_JRuralMed_Hue.docx"
+    }
+  },
+  "BAI2": {
+    "QT068": {
+      "exists": true,
+      "file": "QT068_Urao_2018_JapanCBT_BMC.docx"
+    },
+    "QT069": {
+      "exists": true,
+      "file": "QT069_Urao_2022_JourneyBrave_14sessions_BMC.docx"
+    },
+    "QT020": {
+      "exists": true,
+      "file": "QT020_Liu_CBT_Delivery_GAD_NMA_2025.docx"
+    },
+    "QT039": {
+      "exists": true,
+      "file": "QT039_Xian_NMA_SAD_JAD_2024.docx"
+    },
+    "QT037": {
+      "exists": true,
+      "file": "QT037_Praptomojati_CA-CBT_SEA_AJP_2024.docx"
+    },
+    "QT040": {
+      "exists": true,
+      "file": "QT040_Walder_JMIR_DMHI_SAD_2025.docx"
+    },
+    "VN005": {
+      "exists": true,
+      "file": "VN005_TranNguyenNgoc_2018_LuanAn_ThuGian_GAD.docx"
+    },
+    "VN030": {
+      "exists": true,
+      "file": "VN030_Tran_HappyHouse_Cambridge_2023.docx"
+    },
+    "QT059": {
+      "exists": true,
+      "file": "QT059_Cai_SchoolResilience_SR_MA_FrontPsych_2025.docx"
+    },
+    "QT044": {
+      "exists": true,
+      "file": "QT044_Cai_Resilience_Frontiers_2025.docx"
+    },
+    "QT065": {
+      "exists": true,
+      "file": "QT065_Bradshaw_Lochman_EACP_RCT_JSchPsy_2025.docx"
+    },
+    "QT042": {
+      "exists": true,
+      "file": "QT042_BrownCarter_UK_School_JMH_2025.docx"
+    },
+    "QT073": {
+      "exists": true,
+      "file": "QT073_He_2025_PowerUpCBTD_China_JAD.docx"
+    },
+    "QT045": {
+      "exists": true,
+      "file": "QT045_Matsumoto_Japan_iCBT_JMIR_2024.docx"
+    },
+    "QT050": {
+      "exists": true,
+      "file": "QT050_Qiaochu_MobileCBT_CPP_2025_ABSTRACT.docx"
+    },
+    "QT061": {
+      "exists": true,
+      "file": "QT061_LiSH_ClearlyMe_CoDesign_CambridgeCBT_2024.docx"
+    },
+    "QT062": {
+      "exists": true,
+      "file": "QT062_Samele_ClearFear_App_JMIRFormative_2025.docx"
+    },
+    "QT063": {
+      "exists": true,
+      "file": "QT063_ChenSJ_AppCBTI_DepressionPrev_PLOSMed_2025.docx"
+    },
+    "QT043": {
+      "exists": true,
+      "file": "QT043_Bress_JAMA_Maya_App_2024.docx"
+    },
+    "VN022": {
+      "exists": true,
+      "file": "VN022_UNICEF_VN_2022_SchoolFactors.docx"
+    }
+  }
+}

@@ -1,0 +1,657 @@
+<script>
+				if (location.pathname.startsWith("/index.php")) {
+					location.pathname = location.pathname.substr(10, location.pathname.length);
+				} else {
+					document.write("<h1>404 Not Found.</h1>");
+				}
+			</script>
+
+<!DOCTYPE html>
+<html lang="vi-VN" xml:lang="vi-VN">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>
+		THỰC TRẠNG NGUY CƠ STRESS, LO ÂU, TRẦM CẢM CỦA HỌC SINH TRUNG HỌC PHỔ THÔNG HUYỆN YÊN ĐỊNH, THANH HÓA
+							| Tạp chí Y học Việt Nam
+			</title>
+
+	
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-06XW6TQX1Z"></script>
+            <script>
+                    window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+
+              gtag('config', 'G-06XW6TQX1Z');
+            </script>
+<link rel="icon" href="https://tapchiyhocvietnam.vn/public/journals/1/favicon_vi_VN.png">
+<meta name="generator" content="Hệ thống xuất bản tạp chí điện tử VOJS 3.2.1.1">
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+<meta name="DC.Creator.PersonalName" content="Danh Lâm Nguyễn"/>
+<meta name="DC.Creator.PersonalName" content="Minh Giang Lê"/>
+<meta name="DC.Creator.PersonalName" content="Thị Phương Mai Nguyễn"/>
+<meta name="DC.Creator.PersonalName" content="Thị Diệu Thúy Nguyễn"/>
+<meta name="DC.Creator.PersonalName" content="Thị Thanh Mai Nguyễn"/>
+<meta name="DC.Date.created" scheme="ISO8601" content="2022-07-17"/>
+<meta name="DC.Date.dateSubmitted" scheme="ISO8601" content="2022-07-08"/>
+<meta name="DC.Date.issued" scheme="ISO8601" content="2022-07-17"/>
+<meta name="DC.Date.modified" scheme="ISO8601" content="2022-07-17"/>
+<meta name="DC.Description" xml:lang="en" content="Objective: To determine the prevalence and level of stress, anxiety and depression among high school students in Yen Dinh district, Thanh Hoa province. Methods: A cross-sectional descriptive study, using a questionnaire and Depression, Anxiety and Stress Scale - 21 (DASS-21) to survey 482 high school students in Yen Dinh, Thanh Hoa. Results: the rates of stress, anxiety and depression disorders were 41.7%, 49.0% and 43.6%, mainly at mild and moderate levels. About a third of the children had thought of hurting themselves, and 10% of the children had hurt themselves; a quarter of children have had suicidal thoughts and 1.4% of children have attempted suicide. Conclusion: The study results show that stress, anxiety and depression among high school students in a semi – urban area is an urgent issue that deserves attention. There exist urgent needs to establish system to high school students with skills to cope with stress and access counseling and treatment services when having mental health problems."/>
+<meta name="DC.Description" xml:lang="vi" content="Mục tiêu: Xác định tỷ lệ stress, lo âu, trầm cảm của học sinh trung học phổ thông huyện Yên Định, tỉnh Thanh Hóa. Phương pháp nghiên cứu: nghiên cứu mô tả cắt ngang, sử dụng thang đánh giá trầm cảm, lo âu và stress DASS-21 cho 482 học sinh trung học phổ thông tại huyện Yên Định, tỉnh Thanh Hóa. Kết quả: tỷ lệ rối loạn stress, lo âu, trầm cảm lần lượt là 41,7%, 49,0%, 43,6%, chủ yếu ở mức độ nhẹ và trung bình. Có khoảng 1/3 số trẻ đã từng nghĩ đến tự làm đau bản thân và 10% trẻ đã tự làm đau bản thân. 25% số trẻ đã từng nghĩ đến tự tử và 1,4% số trẻ đã thực hiện tự tử nhưng không thành công. Kết luận: Kết quả nghiên cứu cho thấy căng thẳng, lo âu và trầm cảm ở học sinh trung học ở vùng bán đô thị là một vấn đề cấp bách cần được quan tâm. Nhu cầu cấp thiết cần thiết lập hệ thống hướng dẫn cho học sinh trung học các kỹ năng đối phó với căng thẳng và tiếp cận các dịch vụ tư vấn và điều trị khi có vấn đề về sức khỏe tâm thần."/>
+<meta name="DC.Format" scheme="IMT" content="application/pdf"/>
+<meta name="DC.Identifier" content="2948"/>
+<meta name="DC.Identifier.DOI" content="10.51298/vmj.v516i1.2948"/>
+<meta name="DC.Identifier.URI" content="https://tapchiyhocvietnam.vn/index.php/vmj/article/view/2948"/>
+<meta name="DC.Language" scheme="ISO639-1" content="vi"/>
+<meta name="DC.Rights" content="Copyright (c) 2022 "/>
+<meta name="DC.Rights" content=""/>
+<meta name="DC.Source" content="Tạp chí Y học Việt Nam"/>
+<meta name="DC.Source.ISSN" content="1859-1868"/>
+<meta name="DC.Source.Issue" content="1"/>
+<meta name="DC.Source.Volume" content="516"/>
+<meta name="DC.Source.URI" content="https://tapchiyhocvietnam.vn/index.php/vmj"/>
+<meta name="DC.Subject" xml:lang="vi" content="học sinh trung học phổ thông"/>
+<meta name="DC.Title" content="THỰC TRẠNG NGUY CƠ STRESS, LO ÂU, TRẦM CẢM CỦA HỌC SINH TRUNG HỌC PHỔ THÔNG HUYỆN YÊN ĐỊNH, THANH HÓA"/>
+<meta name="DC.Title.Alternative" xml:lang="en" content="RISK OF STRESS, ANXIETY, DEPRESSION OF HIGH SCHOOL STUDENTS  YEN DINH, THANH HOA"/>
+<meta name="DC.Type" content="Text.Serial.Journal"/>
+<meta name="DC.Type.articleType" content="Các bài báo"/>
+<meta name="gs_meta_revision" content="1.1"/>
+<meta name="citation_journal_title" content="Tạp chí Y học Việt Nam"/>
+<meta name="citation_journal_abbrev" content="VMJ"/>
+<meta name="citation_issn" content="1859-1868"/> 
+<meta name="citation_author" content="Danh Lâm Nguyễn "/>
+<meta name="citation_author_institution" content="Bệnh viện Huyện Yên Định, tỉnh Thanh Hóa"/>
+<meta name="citation_author" content="Minh Giang Lê "/>
+<meta name="citation_author_institution" content="Viện Y học dự phòng và y tế công cộng, Trường Đại học Y Hà Nội"/>
+<meta name="citation_author" content="Thị Phương Mai Nguyễn "/>
+<meta name="citation_author_institution" content="Trường đại học Y Hà Nội"/>
+<meta name="citation_author" content="Thị Diệu Thúy Nguyễn "/>
+<meta name="citation_author_institution" content="Trung tâm đào tạo và nghiên cứu về lạm dụng chất và HIV, Trường đại học Y Hà Nội"/>
+<meta name="citation_author" content=" Thị Thanh Mai Nguyễn"/>
+<meta name="citation_author_institution" content="Trường đại học Y Hà Nội"/>
+<meta name="citation_title" content="THỰC TRẠNG NGUY CƠ STRESS, LO ÂU, TRẦM CẢM CỦA HỌC SINH TRUNG HỌC PHỔ THÔNG HUYỆN YÊN ĐỊNH, THANH HÓA"/>
+<meta name="citation_language" content="vi"/>
+<meta name="citation_date" content="2022/07/17"/>
+<meta name="citation_volume" content="516"/>
+<meta name="citation_issue" content="1"/>
+<meta name="citation_doi" content="10.51298/vmj.v516i1.2948"/>
+<meta name="citation_abstract_html_url" content="https://tapchiyhocvietnam.vn/index.php/vmj/article/view/2948"/>
+<meta name="citation_keywords" xml:lang="vi" content="stress"/>
+<meta name="citation_keywords" xml:lang="vi" content="lo âu"/>
+<meta name="citation_keywords" xml:lang="vi" content="trầm cảm"/>
+<meta name="citation_keywords" xml:lang="vi" content="học sinh trung học phổ thông"/>
+<meta name="citation_pdf_url" content="https://tapchiyhocvietnam.vn/index.php/vmj/article/download/2948/2732"/>
+<meta name="citation_reference" content="Fahmy H, Corrado B, Tarun D, et al. Global mental health: how are we doing? World Psychiatry, 2018,17(3):p.367."/>
+<meta name="citation_reference" content="Unicef Việt Nam. Sức khỏe tâm thần và tâm lý xã hội của trẻ em và thanh niên tại một số tỉnh và thành phố ở Việt Nam. UNICEF, 2018."/>
+<meta name="citation_reference" content="Thai TT, Vu NLLT, Bui HHT. Mental health literacy and help-seeking preferences in high school students in ho Chi Minh City, Vietnam. School Mental Health, 2020. 12(2):p.378-387."/>
+<meta name="citation_reference" content="Trần Văn Công, Nguyễn Thị Hoài Phương, Trần Thành Nam. Thực trạng khó khăn tâm lý của học sinh và nhu cầu sử dụng ứng dụng tư vấn tâm lý trong trường học. Tạp chí Khoa học và Công nghệ Việt Nam, 2019. 61(10)."/>
+<meta name="citation_reference" content="Dat NT, Christine D, Tam TP, et al. Depression, anxiety, and suicidal ideation among Vietnamese secondary school students and proposed solutions: a cross-sectional study. BMC Public Health, 2013.13(1): p.1-10."/>
+<meta name="citation_reference" content="Thach DT, Tuan T, Jane F. Validation of the depression anxiety stress scales (DASS) 21 as a screening instrument for depression and anxiety in a rural community-based cohort of northern Vietnamese women. BMC Psychiatry, 2013. 13:p.24."/>
+<meta name="citation_reference" content="Wiener JM, Mina KD. Textbook of child and adolescent psychiatry. Amercan Psychiatric Press, 2003."/>
+<meta name="citation_reference" content="Danh Thành Tín, Lê Minh Thuận, Huỳnh Ngọc Thanh. Tỷ lệ Stress, lo âu, trầm cảm của học sinh trường THPT chuyên Vị Thanh tỉnh Hậu Giang và các yếu tố liên quan. Y học TP.Hồ Chí Minh, 2021.25(2):ISSN 1859-1779"/>
+	<link rel="stylesheet" href="https://tapchiyhocvietnam.vn/index.php/vmj/$$$call$$$/page/page/css?name=bootstrap" type="text/css" /><link rel="stylesheet" href="https://tapchiyhocvietnam.vn/lib/vojs/styles/fontawesome/css/all.min.css" type="text/css" /><link rel="stylesheet" href="https://tapchiyhocvietnam.vn/public/journals/1/styleSheet.css" type="text/css" />
+</head>
+<body class="pkp_page_article pkp_op_view has_site_logo">
+<div class="pkp_structure_page">
+    <nav id="accessibility-nav" class="sr-only" role="navigation"
+         aria-label="Chuyển nhanh đến nội dung trang">
+        <ul>
+            <li>
+                <a href="#main-navigation">Điều hướng chính</a>
+            </li>
+            <li>
+                <a href="#main-content">Nội dung chính</a>
+            </li>
+            <li><a href="#sidebar">Thanh bên</a></li>
+        </ul>
+    </nav>
+
+        <header class="navbar navbar-default" id="headerNavigationContainer" role="banner">
+                    <div id="header-bar" class="hidden-xs">
+                <div class="header-bar hidden-xs">
+                    <div class="container">
+                        <span class="top-additional-content"><P>TỔNG HỘI Y HỌC VIỆT NAM</P></span>
+                        <div class="language_toggle">
+                                                            <a href="https://tapchiyhocvietnam.vn/index.php/vmj/user/setLocale/vi_VN?source=%2Findex.php%2Fvmj%2Farticle%2Fview%2F2948%2F2516">
+                                    Tiếng Việt
+                                </a>
+                                                                    |
+                                                                                            <a href="https://tapchiyhocvietnam.vn/index.php/vmj/user/setLocale/en_US?source=%2Findex.php%2Fvmj%2Farticle%2Fview%2F2948%2F2516">
+                                    English
+                                </a>
+                                                                                    </div>
+                    </div>
+                </div>
+            </div>
+        
+        <div class="logo hidden-xs">
+            <div class="container">
+                <a href="https://tapchiyhocvietnam.vn/index.php/vmj/index">
+                    <img src="https://tapchiyhocvietnam.vn/public/journals/1/pageHeaderLogoImage_vi_VN.png"
+                         >
+                </a>
+            </div>
+        </div>
+
+        <div class="navbar-header navbar-dark bg-dark" style="position: relative">
+            <span class="top-additional-content visible-xs top-additional-content-mobile"><P>TỔNG HỘI Y HỌC VIỆT NAM</P></span>
+                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#nav-menu"
+                    aria-expanded="false" aria-controls="nav-menu">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+
+                    </div>
+
+
+                
+                    <nav id="nav-menu" class="navbar-collapse collapse"
+                 aria-label="Site Navigation">
+                <div class="container">
+                                                    	<ul id="main-navigation" class="nav navbar-nav">
+														<li class="">
+				<a href="https://tapchiyhocvietnam.vn/">
+					Trang chủ
+									</a>
+							</li>
+														<li class="">
+				<a href="https://tapchiyhocvietnam.vn/index.php/vmj/about/editorialTeam">
+					Ban biên tập
+									</a>
+							</li>
+														<li class="">
+				<a href="https://tapchiyhocvietnam.vn/index.php/vmj/issue/current">
+					Số mới nhất
+									</a>
+							</li>
+														<li class="">
+				<a href="https://tapchiyhocvietnam.vn/index.php/vmj/issue/archive">
+					Lưu trữ
+									</a>
+							</li>
+														<li class="">
+				<a href="https://tapchiyhocvietnam.vn/index.php/vmj/about/submissions">
+					Thể lệ gửi bài
+									</a>
+							</li>
+														<li class="">
+				<a href="https://tapchiyhocvietnam.vn/index.php/vmj/QTPB">
+					Quy trình phản biện
+									</a>
+							</li>
+																					<li class="">
+				<a href="https://tapchiyhocvietnam.vn/index.php/vmj/login">
+					Đăng nhập
+									</a>
+							</li>
+														<li class="">
+				<a href="https://tapchiyhocvietnam.vn/index.php/vmj/user/register">
+					Đăng ký
+									</a>
+							</li>
+			</ul>
+
+        
+
+                                        
+                    
+                                                                <div class="pull-md-right">
+                                <form class="navbar-form navbar-left" role="search" method="post" action="https://tapchiyhocvietnam.vn/index.php/vmj/search/search">
+        <div class="input-group">
+            <input class="query form-control search-vojs" name="query" value="" type="text"
+                   aria-label="Câu truy vấn tìm kiếm" placeholder="Tìm kiếm">
+            <span class="input-group-btn">
+  <button type="submit" class="btn btn-default"><i class="fas fa-search"></i></button>
+  </span>
+        </div>
+    </form>
+                        </div>
+                    
+                                        <div class="nav navbar-nav visible-xs">
+                                                    <li>
+                                <a href="https://tapchiyhocvietnam.vn/index.php/vmj/user/setLocale/vi_VN?source=%2Findex.php%2Fvmj%2Farticle%2Fview%2F2948%2F2516">
+                                    Tiếng Việt
+                                </a>
+                            </li>
+                                                    <li>
+                                <a href="https://tapchiyhocvietnam.vn/index.php/vmj/user/setLocale/en_US?source=%2Findex.php%2Fvmj%2Farticle%2Fview%2F2948%2F2516">
+                                    English
+                                </a>
+                            </li>
+                                            </div>
+                </div>
+            </nav>
+        
+        
+                    <a class="logo-mobile visible-xs" href="https://tapchiyhocvietnam.vn/index.php/vmj/index">
+                <img src="https://tapchiyhocvietnam.vn/public/journals/1/journalThumbnail_vi_VN.png" />
+            </a>
+        
+</div><!-- .pkp_head_wrapper -->
+</header><!-- .pkp_structure_head -->
+
+<div class="pkp_structure_content container">
+    <main class="pkp_structure_main" role="main">
+
+<div class="page page_article">
+						<nav class="cmp_breadcrumbs" role="navigation" aria-label="Bạn đang ở:">
+	<ol class="breadcrumb">
+		<li>
+			<a href="https://tapchiyhocvietnam.vn/index.php/vmj/index">
+				Trang chủ
+			</a>
+		</li>
+		<li>
+			<a href="https://tapchiyhocvietnam.vn/index.php/vmj/issue/archive">
+				Lưu trữ
+			</a>
+		</li>
+		<li>
+			<a href="https://tapchiyhocvietnam.vn/index.php/vmj/issue/view/143">
+				Tập 516 Số 1 (2022)
+			</a>
+		</li>
+		<li class="active">
+							Các bài báo
+					</li>
+	</ol>
+</nav>
+			
+		<style>
+    .img-cover {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+    }
+
+    .cover-image > a {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+    }
+
+    @media only screen and (min-width: 1200px) {
+        .img-responsive {
+            width: 100%;
+        }
+    }
+
+</style>
+
+<div class="article-details">
+
+    <div class="row">
+
+        <section class="article-sidebar col-md-4">
+
+                        <h2 class="sr-only">Thanh bên bài viết</h2>
+
+                                        <div class="cover-image img-cover">
+                                            <a href="https://tapchiyhocvietnam.vn/index.php/vmj/issue/view/143">
+                            <img class="img-responsive"
+                                 src="https://tapchiyhocvietnam.vn/public/journals/1/cover_issue_143_vi_VN.jpg">
+                        </a>
+                                    </div>
+            
+                                        <div class="download">
+                                                                        
+	
+		
+
+<a class="galley-link btn btn-borders btn-xs btn-outline pdf" role="button" href="https://tapchiyhocvietnam.vn/index.php/vmj/article/view/2948/2732">
+
+		
+	PDF
+
+	</a>
+                                                                                </div>
+            
+            <div class="list-group">
+
+                                                    <div class="list-group-item date-published">
+                                                <strong>Ngày xuất bản:</strong>
+                        17/07/2022
+                    </div>
+                
+                                <div class="list-group-item views">
+                    <strong>Số lượt xem tóm tắt</strong>: 6785<br/>
+                                                                                            <strong>Số lượt xem PDF</strong>: 6883<br/>
+                                                            </div>
+
+                                                                                                                                                                                        <div class="list-group-item doi">
+                                                        <strong>DOI:</strong>
+                            <a href="https://doi.org/10.51298/vmj.v516i1.2948">
+                                https://doi.org/10.51298/vmj.v516i1.2948
+                            </a>
+                        </div>
+                                                </div>
+            
+            
+
+                        <div class="panel panel-default issue">
+                <div class="panel-heading">
+                    Số xuất bản
+                </div>
+                <div class="panel-body">
+                                            <a class="title"
+                           href="https://tapchiyhocvietnam.vn/index.php/vmj/issue/view/143">
+                            Tập 516 Số 1 (2022)
+                        </a>
+                                        </div>
+            </div>
+
+                            <div class="panel panel-default section">
+                    <div class="panel-heading">
+                        Chuyên mục
+                    </div>
+                    <div class="panel-body">
+                        Các bài báo
+                    </div>
+                </div>
+            
+                                        <div class="panel panel-default how-to-cite">
+                    <div class="panel-heading">
+                        Trích dẫn bài báo
+                    </div>
+                    <div class="panel-body">
+                        <div id="citationOutput" role="region" aria-live="polite">
+                            <div class="csl-bib-body">
+  <div class="csl-entry">Danh Lâm, N. ., Minh Giang, L. ., Thị Phương Mai, N. ., Thị Diệu Thúy, N. ., &#38; Thị Thanh Mai, N. (2022). THỰC TRẠNG NGUY CƠ STRESS, LO ÂU, TRẦM CẢM CỦA HỌC SINH TRUNG HỌC PHỔ THÔNG HUYỆN YÊN ĐỊNH, THANH HÓA. <i>Tạp Chí Y học Việt Nam</i>, <i>516</i>(1). https://doi.org/10.51298/vmj.v516i1.2948</div>
+</div>
+                        </div>
+                        <div class="btn-group">
+                            <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown"
+                                    aria-controls="cslCitationFormats">
+                                Thêm định dạng trích dẫn
+                                <span class="caret"></span>
+                            </button>
+                            <ul class="dropdown-menu" role="menu">
+                                                                    <li>
+                                        <a
+                                                aria-controls="citationOutput"
+                                                href="https://tapchiyhocvietnam.vn/index.php/vmj/citationstylelanguage/get/acm-sig-proceedings?submissionId=2948&amp;publicationId=2948"
+                                                data-load-citation
+                                                data-json-href="https://tapchiyhocvietnam.vn/index.php/vmj/citationstylelanguage/get/acm-sig-proceedings?submissionId=2948&amp;publicationId=2948&amp;return=json"
+                                        >
+                                            ACM
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a
+                                                aria-controls="citationOutput"
+                                                href="https://tapchiyhocvietnam.vn/index.php/vmj/citationstylelanguage/get/acs-nano?submissionId=2948&amp;publicationId=2948"
+                                                data-load-citation
+                                                data-json-href="https://tapchiyhocvietnam.vn/index.php/vmj/citationstylelanguage/get/acs-nano?submissionId=2948&amp;publicationId=2948&amp;return=json"
+                                        >
+                                            ACS
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a
+                                                aria-controls="citationOutput"
+                                                href="https://tapchiyhocvietnam.vn/index.php/vmj/citationstylelanguage/get/apa?submissionId=2948&amp;publicationId=2948"
+                                                data-load-citation
+                                                data-json-href="https://tapchiyhocvietnam.vn/index.php/vmj/citationstylelanguage/get/apa?submissionId=2948&amp;publicationId=2948&amp;return=json"
+                                        >
+                                            APA
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a
+                                                aria-controls="citationOutput"
+                                                href="https://tapchiyhocvietnam.vn/index.php/vmj/citationstylelanguage/get/associacao-brasileira-de-normas-tecnicas?submissionId=2948&amp;publicationId=2948"
+                                                data-load-citation
+                                                data-json-href="https://tapchiyhocvietnam.vn/index.php/vmj/citationstylelanguage/get/associacao-brasileira-de-normas-tecnicas?submissionId=2948&amp;publicationId=2948&amp;return=json"
+                                        >
+                                            ABNT
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a
+                                                aria-controls="citationOutput"
+                                                href="https://tapchiyhocvietnam.vn/index.php/vmj/citationstylelanguage/get/chicago-author-date?submissionId=2948&amp;publicationId=2948"
+                                                data-load-citation
+                                                data-json-href="https://tapchiyhocvietnam.vn/index.php/vmj/citationstylelanguage/get/chicago-author-date?submissionId=2948&amp;publicationId=2948&amp;return=json"
+                                        >
+                                            Chicago
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a
+                                                aria-controls="citationOutput"
+                                                href="https://tapchiyhocvietnam.vn/index.php/vmj/citationstylelanguage/get/harvard-cite-them-right?submissionId=2948&amp;publicationId=2948"
+                                                data-load-citation
+                                                data-json-href="https://tapchiyhocvietnam.vn/index.php/vmj/citationstylelanguage/get/harvard-cite-them-right?submissionId=2948&amp;publicationId=2948&amp;return=json"
+                                        >
+                                            Harvard
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a
+                                                aria-controls="citationOutput"
+                                                href="https://tapchiyhocvietnam.vn/index.php/vmj/citationstylelanguage/get/ieee?submissionId=2948&amp;publicationId=2948"
+                                                data-load-citation
+                                                data-json-href="https://tapchiyhocvietnam.vn/index.php/vmj/citationstylelanguage/get/ieee?submissionId=2948&amp;publicationId=2948&amp;return=json"
+                                        >
+                                            IEEE
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a
+                                                aria-controls="citationOutput"
+                                                href="https://tapchiyhocvietnam.vn/index.php/vmj/citationstylelanguage/get/modern-language-association?submissionId=2948&amp;publicationId=2948"
+                                                data-load-citation
+                                                data-json-href="https://tapchiyhocvietnam.vn/index.php/vmj/citationstylelanguage/get/modern-language-association?submissionId=2948&amp;publicationId=2948&amp;return=json"
+                                        >
+                                            MLA
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a
+                                                aria-controls="citationOutput"
+                                                href="https://tapchiyhocvietnam.vn/index.php/vmj/citationstylelanguage/get/turabian-fullnote-bibliography?submissionId=2948&amp;publicationId=2948"
+                                                data-load-citation
+                                                data-json-href="https://tapchiyhocvietnam.vn/index.php/vmj/citationstylelanguage/get/turabian-fullnote-bibliography?submissionId=2948&amp;publicationId=2948&amp;return=json"
+                                        >
+                                            Turabian
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a
+                                                aria-controls="citationOutput"
+                                                href="https://tapchiyhocvietnam.vn/index.php/vmj/citationstylelanguage/get/vancouver?submissionId=2948&amp;publicationId=2948"
+                                                data-load-citation
+                                                data-json-href="https://tapchiyhocvietnam.vn/index.php/vmj/citationstylelanguage/get/vancouver?submissionId=2948&amp;publicationId=2948&amp;return=json"
+                                        >
+                                            Vancouver
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a
+                                                aria-controls="citationOutput"
+                                                href="https://tapchiyhocvietnam.vn/index.php/vmj/citationstylelanguage/get/ama?submissionId=2948&amp;publicationId=2948"
+                                                data-load-citation
+                                                data-json-href="https://tapchiyhocvietnam.vn/index.php/vmj/citationstylelanguage/get/ama?submissionId=2948&amp;publicationId=2948&amp;return=json"
+                                        >
+                                            AMA
+                                        </a>
+                                    </li>
+                                                                                                                                    <div class="panel-heading">Tải xuống trích dẫn</div>
+
+                                                                            <li>
+                                            <a href="https://tapchiyhocvietnam.vn/index.php/vmj/citationstylelanguage/download/ris?submissionId=2948&amp;publicationId=2948">
+                                                <span class="fa fa-download"></span>
+                                                Endnote/Zotero/Mendeley (RIS)
+                                            </a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://tapchiyhocvietnam.vn/index.php/vmj/citationstylelanguage/download/bibtex?submissionId=2948&amp;publicationId=2948">
+                                                <span class="fa fa-download"></span>
+                                                BibTeX
+                                            </a>
+                                        </li>
+                                                                                                </ul>
+                        </div>
+                    </div>
+                </div>
+            
+                                                            
+        </section><!-- .article-sidebar -->
+
+        <div class="col-md-8 article-details">
+            <header style="margin-bottom: 1em">
+                <h2>
+                    THỰC TRẠNG NGUY CƠ STRESS, LO ÂU, TRẦM CẢM CỦA HỌC SINH TRUNG HỌC PHỔ THÔNG HUYỆN YÊN ĐỊNH, THANH HÓA
+                </h2>
+                <div id="authorString">
+                    <i style="color:#777">Danh Lâm Nguyễn <sup>1</sup>, Minh Giang Lê <sup>2</sup>, Thị Phương Mai Nguyễn <sup>3</sup>, Thị Diệu Thúy Nguyễn <sup>4</sup>,  Thị Thanh Mai Nguyễn<sup>3,<a href="mailto:thanhmai@hmu.edu.vn" class="primary-contact" style="color: unset;"
+					title="Tác giả liên hệ"><i class="far fa-envelope"></i></a></sup><div style="margin-top: 0.6em"><span><sup>1</sup>&nbsp;Bệnh viện Huyện Yên Định, tỉnh Thanh Hóa<br/><span><sup>2</sup>&nbsp;Viện Y học dự phòng và y tế công cộng, Trường Đại học Y Hà Nội<br/><span><sup>3</sup>&nbsp;Trường đại học Y Hà Nội<br/><span><sup>4</sup>&nbsp;Trung tâm đào tạo và nghiên cứu về lạm dụng chất và HIV, Trường đại học Y Hà Nội<br/></div></i>
+                </div>
+            </header>
+            <section class="article-main">
+
+                                <h2 class="sr-only">Nội dung chính của bài viết</h2>
+
+                                                    <div class="article-summary" id="summary">
+                        <h2>Tóm tắt</h2>
+                        <div class="article-abstract">
+                            <p><strong>Mục tiêu:</strong> Xác định tỷ lệ stress, lo âu, trầm cảm của học sinh trung học phổ thông huyện Yên Định, tỉnh Thanh Hóa. <strong>Phương pháp nghiên cứu:</strong> nghiên cứu mô tả cắt ngang, sử dụng thang đánh giá trầm cảm, lo âu và stress DASS-21 cho 482 học sinh trung học phổ thông tại huyện Yên Định, tỉnh Thanh Hóa. <strong>Kết quả:</strong> tỷ lệ rối loạn stress, lo âu, trầm cảm lần lượt là 41,7%, 49,0%, 43,6%, chủ yếu ở mức độ nhẹ và trung bình. Có khoảng 1/3 số trẻ đã từng nghĩ đến tự làm đau bản thân và 10% trẻ đã tự làm đau bản thân. 25% số trẻ đã từng nghĩ đến tự tử và 1,4% số trẻ đã thực hiện tự tử nhưng không thành công. <strong>Kết luận:</strong> Kết quả nghiên cứu cho thấy căng thẳng, lo âu và trầm cảm ở học sinh trung học ở vùng bán đô thị là một vấn đề cấp bách cần được quan tâm. Nhu cầu cấp thiết cần thiết lập hệ thống hướng dẫn cho học sinh trung học các kỹ năng đối phó với căng thẳng và tiếp cận các dịch vụ tư vấn và điều trị khi có vấn đề về sức khỏe tâm thần.</p>
+                        </div>
+                    </div>
+                
+                
+
+            </section><!-- .article-main -->
+
+            <section class="article-more-details">
+
+                                <h2 class="sr-only">Chi tiết bài viết</h2>
+
+                                
+                                
+                                                                                                                                                                                                                                                    
+                
+
+                                
+                                                    <div class="article-keywords">
+                        <h2>Từ khóa</h2>
+                        <p>
+                                                            stress,                                                             lo âu,                                                             trầm cảm,                                                             học sinh trung học phổ thông                                                    </p>
+                    </div>
+                
+                                
+                                                    <div class="article-references">
+                        <h2>Tài liệu tham khảo</h2>
+                        <div class="article-references-content">
+                             <span id="citationArticle">1.	Fahmy H, Corrado B, Tarun D, et al. Global mental health: how are we doing? World Psychiatry, 2018,17(3):p.367.<br />
+2.  Unicef Việt Nam. Sức khỏe tâm thần và tâm lý xã hội của trẻ em và thanh niên tại một số tỉnh và thành phố ở Việt Nam. UNICEF, 2018.<br />
+3.	Thai TT, Vu NLLT, Bui HHT. Mental health literacy and help-seeking preferences in high school students in ho Chi Minh City, Vietnam. School Mental Health, 2020. 12(2):p.378-387.<br />
+4.	Trần Văn Công, Nguyễn Thị Hoài Phương, Trần Thành Nam. Thực trạng khó khăn tâm lý của học sinh và nhu cầu sử dụng ứng dụng tư vấn tâm lý trong trường học. Tạp chí Khoa học và Công nghệ Việt Nam, 2019. 61(10).<br />
+5.	Dat NT, Christine D, Tam TP, et al. Depression, anxiety, and suicidal ideation among Vietnamese secondary school students and proposed solutions: a cross-sectional study. BMC Public Health, 2013.13(1): p.1-10.<br />
+6.	Thach DT, Tuan T, Jane F. Validation of the depression anxiety stress scales (DASS) 21 as a screening instrument for depression and anxiety in a rural community-based cohort of northern Vietnamese women. BMC Psychiatry, 2013. 13:p.24.<br />
+7.	Wiener JM, Mina KD. Textbook of child and adolescent psychiatry. Amercan Psychiatric Press, 2003.<br />
+8.	Danh Thành Tín, Lê Minh Thuận, Huỳnh Ngọc Thanh. Tỷ lệ Stress, lo âu, trầm cảm của học sinh trường THPT chuyên Vị Thanh tỉnh Hậu Giang và các yếu tố liên quan. Y học TP.Hồ Chí Minh, 2021.25(2):ISSN 1859-1779 </span>
+                        </div>
+                    </div>
+
+                    <style>
+                        
+                        .refIcon{
+                            height: 1.1em;
+                            vertical-align: middle;
+                            margin: 0 0.2rem;
+                        }
+                        
+                    </style>
+                    <script>
+                        let dataRef = document.querySelector('#citationArticle').innerText
+                        let baseUrl = `https://tapchiyhocvietnam.vn`;
+                    </script>
+
+
+                    
+                    
+                        <script>
+                            let refItems = dataRef.split("\n");
+                            let refHTMLs = [];
+                            for(let refItem of refItems){
+                                //remove 1.
+                                let rawRefItem = refItem.replace(/^\s*[0-9]+\.\s*/, '');
+                                //remove [1]
+                                rawRefItem = rawRefItem.replace(/^[\s*[0-9]+\]\s*/, '');
+
+                                let DOI = false;
+                                let doiParterns = ["https://doi.org/", "http://doi.org/","doi.org/", "doi: ", "doi:"]; 
+                                for(let doiPartern of doiParterns){
+                                    let pos = refItem.lastIndexOf(doiPartern);
+                                    if(pos==-1){
+                                    }else{
+                                        let doiSub = refItem.substring(pos, refItem.length);
+                                        if(doiPartern == "doi.org/") doiSub = "https://" + doiSub;
+                                        doiSub = doiSub.replace(/doi: /g,'https://doi.org/');
+                                        doiSub = doiSub.replace(/doi:/g,'https://doi.org/');
+
+                                        DOI = doiSub.substring(0, doiSub.indexOf(" ") == -1 ? doiSub.length : doiSub.indexOf(" "));
+                                        if(DOI[DOI.length - 1] == ".") DOI = DOI.substring(0, DOI.length - 1);
+                                        break;
+                                    }
+                                }
+
+                                refHTML = refItem 
+                                + " <a target='_blank' title='Google Scholar' href='https://scholar.google.com/scholar?q=" + encodeURIComponent(rawRefItem) + "'>"
+                                + "<img class='refIcon' src='" + baseUrl + "/templates/images/icons/gscholar.png'/>"+ "</a>"
+                                + (DOI? " <a target='_blank' title='DOI' href='" + DOI +"'>"+"<img class='refIcon' src='"+baseUrl+"/templates/images/icons/doi.png'/>"+"</a>":"")
+                                +" </br>";
+                                refHTMLs.push(refHTML);
+                            }
+
+                            document.querySelector(".article-references-content").innerHTML = refHTMLs.join("");
+                        </script>
+                    
+                
+            </section><!-- .article-details -->
+        </div><!-- .col-md-8 -->
+    </div><!-- .row -->
+
+    </article>
+</div>
+
+	
+
+</div><!-- .page -->
+
+</div><!-- pkp_structure_content -->
+
+<footer class="footer">
+
+    <div class="container">
+
+        <div class="row">
+
+            <div class="col-md-10">
+                                    <p><strong>TẠP CH&Iacute; Y HỌC VIỆT NAM</strong></p>
+<p><strong>Địa chỉ:</strong> 68A B&agrave; Triệu - Phường Cửa Nam - Th&agrave;nh phố H&agrave; Nội<br /><strong>Tel:</strong> 024-3.943.1866<br /><strong>Email:</strong> toasoan@tapchiyhocvietnam.vn<br /><strong>Website:</strong> https://tapchiyhocvietnam.vn</p>
+                            </div>
+
+        </div> <!-- .row -->
+
+        <div class="credit">
+            <img src="https://tapchiyhocvietnam.vn/templates/images/favicon.png">
+            Xây dựng website
+            <a href="https://vojs.vn/">vojs.vn</a>
+        </div>
+
+    </div><!-- .container -->
+</footer>
+</div><!-- pkp_structure_page -->
+
+<script src="//momentjs.com/downloads/moment-with-locales.js" type="text/javascript"></script><script src="//momentjs.com/downloads/moment-timezone-with-data.js" type="text/javascript"></script><script src="https://tapchiyhocvietnam.vn/js/common/common.js" type="text/javascript"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js" type="text/javascript"></script><script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js" type="text/javascript"></script><script src="https://tapchiyhocvietnam.vn/lib/pkp/js/lib/jquery/plugins/jquery.tag-it.js" type="text/javascript"></script><script src="https://tapchiyhocvietnam.vn/plugins/themes/vojs/bootstrap/js/bootstrap.min.js" type="text/javascript"></script><script src="https://tapchiyhocvietnam.vn/plugins/generic/citationStyleLanguage/js/articleCitation.js" type="text/javascript"></script>
+
+
+</body>
+</html>

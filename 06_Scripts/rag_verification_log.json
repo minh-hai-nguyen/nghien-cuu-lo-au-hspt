@@ -1,0 +1,508 @@
+{
+  "doc": "Bao cao Can thiep tam ly RLLA VTN - 10042026 v2.docx",
+  "n_chunks": 206,
+  "n_queries": 30,
+  "passed": 19,
+  "failed": 11,
+  "pass_rate": 63.3,
+  "results": [
+    {
+      "query": "Trần Nguyễn Ngọc luận án 2018 đối tượng",
+      "expected": [
+        "170",
+        "người lớn",
+        "Bạch Mai"
+      ],
+      "found": [
+        "170",
+        "người lớn",
+        "Bạch Mai"
+      ],
+      "top_doc": "PHẦN II — CHÂU Á (ngoài Việt Nam)",
+      "top_section": "II. Châu Á",
+      "top_paper": "",
+      "relevance": 66.5,
+      "status": "PASS"
+    },
+    {
+      "query": "hiệu quả thư giãn luyện tập sau 4 tuần",
+      "expected": [
+        "11,1",
+        "nặng",
+        "45,5"
+      ],
+      "found": [],
+      "top_doc": "[I. Việt Nam] [1.1.2. Mô tả can thiệp] [TranNguyenNgoc2018]\n• Phần TẬP THƯ GIÃN: kỹ thuật thư giãn cơ tiến triển (Jacobson) và thư giãn tự sinh (Schultz). Mục tiêu kích hoạt hệ thần kinh đối giao cảm,",
+      "top_section": "I. Việt Nam",
+      "top_paper": "TranNguyenNgoc2018",
+      "relevance": 57.5,
+      "status": "FAIL"
+    },
+    {
+      "query": "cỡ mẫu can thiệp Trần Nguyễn Ngọc",
+      "expected": [
+        "99",
+        "hoàn thành"
+      ],
+      "found": [
+        "99"
+      ],
+      "top_doc": "PHẦN II — CHÂU Á (ngoài Việt Nam)",
+      "top_section": "II. Châu Á",
+      "top_paper": "",
+      "relevance": 73.4,
+      "status": "PASS"
+    },
+    {
+      "query": "lo âu Việt Nam có RCT cho VTN không",
+      "expected": [
+        "0 RCT",
+        "khoảng trống",
+        "không có"
+      ],
+      "found": [
+        "0 RCT",
+        "khoảng trống"
+      ],
+      "top_doc": "[IV. Tổng kết] [4.3. Năm khoảng trống nghiên cứu can thiệp tại Việt Nam] [TranNguyenNgoc2018]\n1. THIẾU TUYỆT ĐỐI: 0 RCT can thiệp tâm lý cho VTN có RLLA tại Việt Nam trong hệ thống 58 bài. Trần Nguyễn",
+      "top_section": "IV. Tổng kết",
+      "top_paper": "TranNguyenNgoc2018",
+      "relevance": 78.1,
+      "status": "PASS"
+    },
+    {
+      "query": "triệu chứng tim đập nhanh giảm sau điều trị",
+      "expected": [
+        "88,9",
+        "43,4",
+        "p < 0,0001"
+      ],
+      "found": [],
+      "top_doc": "[I. Việt Nam] [1.1.2. Mô tả can thiệp] [TranNguyenNgoc2018]\n• Phần TẬP THỞ: thở bụng, thở chậm sâu, thở luân phiên theo nguyên tắc Yoga. Tác động lên biến thiên tần số tim (HRV), cân bằng hệ thần kinh",
+      "top_section": "I. Việt Nam",
+      "top_paper": "TranNguyenNgoc2018",
+      "relevance": 52.5,
+      "status": "FAIL"
+    },
+    {
+      "query": "Sri Lanka cluster RCT trường",
+      "expected": [
+        "720",
+        "De Silva",
+        "36 trường"
+      ],
+      "found": [
+        "De Silva"
+      ],
+      "top_doc": "2.3. De Silva et al. (2024) — Cluster RCT can thiệp CBT trường tại Sri Lanka",
+      "top_section": "II. Châu Á",
+      "top_paper": "",
+      "relevance": 80.6,
+      "status": "FAIL"
+    },
+    {
+      "query": "iCBT hạng 1 lo âu xã hội VTN",
+      "expected": [
+        "71,2",
+        "Xian",
+        "SUCRA"
+      ],
+      "found": [],
+      "top_doc": "[I. Việt Nam] [1.1.5. Quan điểm phản biện] [TranNguyenNgoc2018]\nHạn chế nghiêm trọng cho mục đích áp dụng cho VTN:",
+      "top_section": "I. Việt Nam",
+      "top_paper": "TranNguyenNgoc2018",
+      "relevance": 70.9,
+      "status": "FAIL"
+    },
+    {
+      "query": "CBT do giáo viên LMIC",
+      "expected": [
+        "Sri Lanka",
+        "giáo viên",
+        "khả thi"
+      ],
+      "found": [
+        "Sri Lanka",
+        "giáo viên",
+        "khả thi"
+      ],
+      "top_doc": "[IV. Tổng kết] [4.3. Năm khoảng trống nghiên cứu can thiệp tại Việt Nam] [DeSilva2024]\n3. Đào tạo GIÁO VIÊN cung cấp CBT tại trường — mô hình De Silva 2024 (Sri Lanka) khả thi cho LMIC.",
+      "top_section": "IV. Tổng kết",
+      "top_paper": "DeSilva2024",
+      "relevance": 71.3,
+      "status": "PASS"
+    },
+    {
+      "query": "Nhật Bản subthreshold SAD iCBT",
+      "expected": [
+        "77",
+        "Sasaki",
+        "4,97"
+      ],
+      "found": [
+        "Sasaki",
+        "4,97"
+      ],
+      "top_doc": "2.5. Sasaki et al. (2024) — RCT iCBT đa trung tâm tại Nhật Bản",
+      "top_section": "II. Châu Á",
+      "top_paper": "",
+      "relevance": 68.6,
+      "status": "PASS"
+    },
+    {
+      "query": "CA-CBT thích ứng văn hoá Đông Nam Á",
+      "expected": [
+        "Praptomojati",
+        "7 NC",
+        "Việt Nam"
+      ],
+      "found": [
+        "Praptomojati",
+        "Việt Nam"
+      ],
+      "top_doc": "[II. Châu Á] [2.2. Praptomojati & Hartanto (2024) — CA-CBT cho rối loạn lo âu ở Đông Nam Á] [Praptomojati2024]\nPhản biện: SR khu vực ĐNA RẤT QUÝ cho Việt Nam vì xác định rõ khoảng trống — Việt Nam là ",
+      "top_section": "II. Châu Á",
+      "top_paper": "Praptomojati2024|Dong2025",
+      "relevance": 71.1,
+      "status": "PASS"
+    },
+    {
+      "query": "mobile CBT trầm cảm vs lo âu",
+      "expected": [
+        "7/8",
+        "2/6",
+        "Qiaochu"
+      ],
+      "found": [
+        "Qiaochu"
+      ],
+      "top_doc": "[0. Tóm lược] [TÓM LƯỢC ĐIỀU HÀNH] [Bress2024]\nThứ ba, ứng dụng di động CBT (Mobile CBT) cho hiệu quả MẠNH với trầm cảm (87,5 % nghiên cứu dương tính) nhưng YẾU với lo âu khi không thiết kế riêng (Qia",
+      "top_section": "0. Tóm lược",
+      "top_paper": "Bress2024|Qiaochu2025",
+      "relevance": 83.6,
+      "status": "FAIL"
+    },
+    {
+      "query": "khoảng trống cộng đồng gia đình LMIC",
+      "expected": [
+        "Menon",
+        "69",
+        "12 quốc gia"
+      ],
+      "found": [
+        "Menon"
+      ],
+      "top_doc": "[IV. Tổng kết] [4.3. Năm khoảng trống nghiên cứu can thiệp tại Việt Nam] [Menon2025]\n5. Can thiệp ĐA CẤP: cá nhân + GIA ĐÌNH + cộng đồng — lấp khoảng trống Menon 2025 và phát hiện kênh giao tiếp gia đ",
+      "top_section": "IV. Tổng kết",
+      "top_paper": "Menon2025|Dong2025",
+      "relevance": 53.9,
+      "status": "FAIL"
+    },
+    {
+      "query": "NMA Bayesian SUCRA CBT trẻ em Li",
+      "expected": [
+        "0,66",
+        "16 RCT",
+        "BMC"
+      ],
+      "found": [
+        "BMC"
+      ],
+      "top_doc": "2.8. Li et al. (2025) — NMA Bayesian 30 RCT cho lo âu trẻ em",
+      "top_section": "II. Châu Á",
+      "top_paper": "",
+      "relevance": 71.9,
+      "status": "FAIL"
+    },
+    {
+      "query": "CAMS đáp ứng CBT SSRI",
+      "expected": [
+        "80,7",
+        "Walkup",
+        "488"
+      ],
+      "found": [
+        "80,7",
+        "Walkup",
+        "488"
+      ],
+      "top_doc": "[III. Châu Âu - Úc - Mỹ] [3.7. Zugman et al. (2024) và CAMS (Walkup et al. 2008) — Bằng chứng vàng về CBT + SSRI] [Walkup2008]\nPhản biện: CAMS là RCT đa trung tâm 488 trẻ 7–17 tuổi — tiêu chuẩn vàng (",
+      "top_section": "III. Châu Âu - Úc - Mỹ",
+      "top_paper": "Walkup2008",
+      "relevance": 67.2,
+      "status": "PASS"
+    },
+    {
+      "query": "Walder DMHI Hedges g SAD specific",
+      "expected": [
+        "0,878",
+        "Walder",
+        "JMIR"
+      ],
+      "found": [
+        "0,878",
+        "Walder",
+        "JMIR"
+      ],
+      "top_doc": "[III. Châu Âu - Úc - Mỹ] [3.2. Walder et al. (2025) — Meta-analysis 21 RCT về DMHI cho lo âu xã hội] [Walder2025]\nKết quả Hedges g cho các phân nhóm (Walder et al. 2025, Bảng 2 tr. 18):",
+      "top_section": "III. Châu Âu - Úc - Mỹ",
+      "top_paper": "Walder2025",
+      "relevance": 53.0,
+      "status": "PASS"
+    },
+    {
+      "query": "Maya app HAM-A Cohen d 12 tuần",
+      "expected": [
+        "1,04",
+        "Bress",
+        "JAMA"
+      ],
+      "found": [
+        "1,04",
+        "Bress",
+        "JAMA"
+      ],
+      "top_doc": "[III. Châu Âu - Úc - Mỹ] [3.3. Bress et al. (2024) — RCT ứng dụng Maya tại JAMA Network Open] [Bress2024]\nBảng 8. Hiệu quả ứng dụng Maya trên thang HAM-A. Nguồn: Bress et al. 2024, JAMA Network Open 7",
+      "top_section": "III. Châu Âu - Úc - Mỹ",
+      "top_paper": "Bress2024",
+      "relevance": 65.5,
+      "status": "PASS"
+    },
+    {
+      "query": "mindfiness UK 8376 học sinh thất bại",
+      "expected": [
+        "8.376",
+        "Brown",
+        "mindfulness"
+      ],
+      "found": [
+        "8.376",
+        "Brown",
+        "mindfulness"
+      ],
+      "top_doc": "[III. Châu Âu - Úc - Mỹ] [3.4. Brown & Carter (2025) — Editorial UK về can thiệp tại trường] [Brown2025]\n1. UNIVERSAL MINDFULNESS thất bại do engagement thấp ở học sinh (Kuyken 2022, n = 8.376).",
+      "top_section": "III. Châu Âu - Úc - Mỹ",
+      "top_paper": "Brown2025",
+      "relevance": 58.5,
+      "status": "PASS"
+    },
+    {
+      "query": "Bayesian MA universal CBT 19865",
+      "expected": [
+        "19.865",
+        "Zhang",
+        "31 RCT"
+      ],
+      "found": [
+        "Zhang",
+        "31 RCT"
+      ],
+      "top_doc": "3.6. Zhang, Liang & Kang (2026) — Bayesian MA 31 RCT về CBT trường dài hạn",
+      "top_section": "III. Châu Âu - Úc - Mỹ",
+      "top_paper": "",
+      "relevance": 70.9,
+      "status": "PASS"
+    },
+    {
+      "query": "resilience trường meta-analysis",
+      "expected": [
+        "Cao",
+        "Frontiers",
+        "resilience"
+      ],
+      "found": [
+        "Cao",
+        "Frontiers",
+        "resilience"
+      ],
+      "top_doc": "[III. Châu Âu - Úc - Mỹ] [3.5. Cao et al. (2025) — SR + MA về can thiệp resilience tại trường] [Cao2025]\nResilience được định nghĩa là khả năng thích ứng tốt trước nghịch cảnh, căng thẳng hoặc sang ch",
+      "top_section": "III. Châu Âu - Úc - Mỹ",
+      "top_paper": "Cao2025",
+      "relevance": 72.7,
+      "status": "PASS"
+    },
+    {
+      "query": "Zugman pediatric anxiety treatment",
+      "expected": [
+        "Zugman",
+        "AJP",
+        "189"
+      ],
+      "found": [
+        "Zugman",
+        "AJP",
+        "189"
+      ],
+      "top_doc": "[V. Tài liệu tham khảo] [TÀI LIỆU THAM KHẢO] [Zugman2024]\nBài 28 — Zugman, A., Jett, J. E., Antonacci, C., Winkler, A. M., & Pine, D. S. (2024). Current and future approaches to pediatric anxiety diso",
+      "top_section": "V. Tài liệu tham khảo",
+      "top_paper": "Zugman2024",
+      "relevance": 76.2,
+      "status": "PASS"
+    },
+    {
+      "query": "xếp hạng can thiệp tâm lý cho VN",
+      "expected": [
+        "CBT",
+        "iCBT",
+        "gCBT"
+      ],
+      "found": [],
+      "top_doc": "[IV. Tổng kết] [4.2. Xếp hạng 13 phương pháp can thiệp dựa trên tổng hợp bằng chứng] [Walkup2008]\nBảng 12. Xếp hạng 13 phương pháp can thiệp tâm lý cho RLLA ở VTN. Tổng hợp từ 15 bài nghiên cứu trong ",
+      "top_section": "IV. Tổng kết",
+      "top_paper": "Walkup2008",
+      "relevance": 65.5,
+      "status": "FAIL"
+    },
+    {
+      "query": "5 thành phần can thiệp đề cương VN",
+      "expected": [
+        "12 tuần",
+        "CBT NHÓM",
+        "GIA ĐÌNH"
+      ],
+      "found": [],
+      "top_doc": "3.1. Tổng quan 7 nghiên cứu can thiệp Châu Âu – Úc – Mỹ",
+      "top_section": "III. Châu Âu - Úc - Mỹ",
+      "top_paper": "",
+      "relevance": 76.1,
+      "status": "FAIL"
+    },
+    {
+      "query": "PLACES self-referral mô hình UK",
+      "expected": [
+        "PLACES",
+        "BESST",
+        "self-referral"
+      ],
+      "found": [
+        "PLACES",
+        "BESST",
+        "self-referral"
+      ],
+      "top_doc": "[IV. Tổng kết] [4.4. Đề xuất thiết kế can thiệp cho đề cương Việt Nam (giai đoạn 2)] [Brown2025]\nCơ chế tiếp cận: PLACES self-referral (Brown & Carter 2025) — học sinh tự đăng ký dùng từ thường ngày (",
+      "top_section": "IV. Tổng kết",
+      "top_paper": "Brown2025",
+      "relevance": 44.5,
+      "status": "PASS"
+    },
+    {
+      "query": "khoảng trống số 1 Việt Nam",
+      "expected": [
+        "0 RCT",
+        "VTN",
+        "khoảng trống"
+      ],
+      "found": [
+        "VTN",
+        "khoảng trống"
+      ],
+      "top_doc": "PHẦN I — VIỆT NAM",
+      "top_section": "I. Việt Nam",
+      "top_paper": "",
+      "relevance": 81.6,
+      "status": "PASS"
+    },
+    {
+      "query": "Dong PLOS kênh giao tiếp gia đình OR",
+      "expected": [
+        "0,22",
+        "Dong",
+        "78"
+      ],
+      "found": [
+        "0,22",
+        "Dong"
+      ],
+      "top_doc": "[IV. Tổng kết] [4.3. Năm khoảng trống nghiên cứu can thiệp tại Việt Nam] [Menon2025]\n5. Can thiệp ĐA CẤP: cá nhân + GIA ĐÌNH + cộng đồng — lấp khoảng trống Menon 2025 và phát hiện kênh giao tiếp gia đ",
+      "top_section": "IV. Tổng kết",
+      "top_paper": "Menon2025|Dong2025",
+      "relevance": 53.2,
+      "status": "PASS"
+    },
+    {
+      "query": "JAMA Network Open Bress NCT05130281",
+      "expected": [
+        "NCT05130281",
+        "Bress",
+        "JAMA"
+      ],
+      "found": [
+        "NCT05130281",
+        "Bress",
+        "JAMA"
+      ],
+      "top_doc": "3.3. Bress et al. (2024) — RCT ứng dụng Maya tại JAMA Network Open",
+      "top_section": "III. Châu Âu - Úc - Mỹ",
+      "top_paper": "",
+      "relevance": 63.8,
+      "status": "PASS"
+    },
+    {
+      "query": "Walkup 2008 NEJM placebo response rate",
+      "expected": [
+        "23,7",
+        "placebo",
+        "Walkup"
+      ],
+      "found": [
+        "Walkup"
+      ],
+      "top_doc": "[II. Châu Á] [2.5. Sasaki et al. (2024) — RCT iCBT đa trung tâm tại Nhật Bản] [Sasaki2024]\n• Tỷ lệ đáp ứng (response rate) 61 %, OR = 4,97 so với nhóm chờ.",
+      "top_section": "II. Châu Á",
+      "top_paper": "Sasaki2024",
+      "relevance": 46.3,
+      "status": "FAIL"
+    },
+    {
+      "query": "Trần Nguyễn Ngọc Bảng 3.20 trang 76",
+      "expected": [
+        "3.20",
+        "76",
+        "HAM-A"
+      ],
+      "found": [
+        "HAM-A"
+      ],
+      "top_doc": "PHẦN III — CHÂU ÂU – CHÂU ÚC – CHÂU MỸ",
+      "top_section": "III. Châu Âu - Úc - Mỹ",
+      "top_paper": "",
+      "relevance": 65.6,
+      "status": "FAIL"
+    },
+    {
+      "query": "De Silva 2024 cluster RCT page reference",
+      "expected": [
+        "18.108",
+        "De Silva",
+        "2024"
+      ],
+      "found": [
+        "De Silva",
+        "2024"
+      ],
+      "top_doc": "2.3. De Silva et al. (2024) — Cluster RCT can thiệp CBT trường tại Sri Lanka",
+      "top_section": "II. Châu Á",
+      "top_paper": "",
+      "relevance": 64.5,
+      "status": "PASS"
+    },
+    {
+      "query": "Xian 2024 J Affect Disord pages",
+      "expected": [
+        "614",
+        "627",
+        "Xian"
+      ],
+      "found": [
+        "614",
+        "627",
+        "Xian"
+      ],
+      "top_doc": "[V. Tài liệu tham khảo] [TÀI LIỆU THAM KHẢO] [Dong2025]\n---",
+      "top_section": "V. Tài liệu tham khảo",
+      "top_paper": "Dong2025",
+      "relevance": 37.7,
+      "status": "PASS"
+    }
+  ]
+}

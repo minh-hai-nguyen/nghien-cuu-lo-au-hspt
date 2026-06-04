@@ -1,0 +1,660 @@
+[
+  {
+    "qt": "001",
+    "file": "QT001_Jenkins_et_al_2023_USA.docx",
+    "pdf": "QT001_Jenkins_2023_USA_SanDiego.pdf",
+    "total_facts": 6,
+    "matched": 4,
+    "missed": [
+      [
+        "p",
+        "p = 0,002"
+      ],
+      [
+        "p",
+        "p = 0,016"
+      ]
+    ],
+    "match_rate": 66.7,
+    "status": "SUSPICIOUS"
+  },
+  {
+    "qt": "002",
+    "file": "QT002_Saikia_et_al_2023_India_Assam.docx",
+    "pdf": "QT002_Saikia_2023_India_Assam.pdf",
+    "total_facts": 21,
+    "matched": 1,
+    "missed": [
+      [
+        "%",
+        "30,0%"
+      ],
+      [
+        "%",
+        "18,9%"
+      ],
+      [
+        "%",
+        "63,2%"
+      ],
+      [
+        "%",
+        "51,7%"
+      ],
+      [
+        "%",
+        "22,2%"
+      ],
+      [
+        "%",
+        "24,4%"
+      ],
+      [
+        "%",
+        "6,9%"
+      ],
+      [
+        "%",
+        "30,0%"
+      ],
+      [
+        "%",
+        "18,9%"
+      ],
+      [
+        "%",
+        "22,2%"
+      ],
+      [
+        "%",
+        "24,4%"
+      ],
+      [
+        "%",
+        "6,9%"
+      ],
+      [
+        "%",
+        "30,0%"
+      ],
+      [
+        "%",
+        "70,0%"
+      ],
+      [
+        "%",
+        "18,9%"
+      ]
+    ],
+    "match_rate": 4.8,
+    "status": "SUSPICIOUS"
+  },
+  {
+    "qt": "003",
+    "file": "QT003_Mandaknalli_Malusare_2021.docx",
+    "pdf": "03_Mandaknalli_Malusare_2021.pdf",
+    "total_facts": 38,
+    "matched": 11,
+    "missed": [
+      [
+        "%",
+        "58,3%"
+      ],
+      [
+        "%",
+        "41,7%"
+      ],
+      [
+        "%",
+        "78,7%"
+      ],
+      [
+        "%",
+        "43,5%"
+      ],
+      [
+        "%",
+        "16,4%"
+      ],
+      [
+        "%",
+        "61,1%"
+      ],
+      [
+        "%",
+        "71,3%"
+      ],
+      [
+        "%",
+        "92,4%"
+      ],
+      [
+        "%",
+        "92,4%"
+      ],
+      [
+        "%",
+        "78,7%"
+      ],
+      [
+        "%",
+        "24,0%"
+      ],
+      [
+        "%",
+        "53,1%"
+      ],
+      [
+        "%",
+        "61,1%"
+      ],
+      [
+        "%",
+        "40,2%"
+      ],
+      [
+        "%",
+        "58,3%"
+      ]
+    ],
+    "match_rate": 28.9,
+    "status": "SUSPICIOUS"
+  },
+  {
+    "qt": "004",
+    "file": "QT004_NSCH_2020_USA.docx",
+    "pdf": null,
+    "status": "NO_PDF"
+  },
+  {
+    "qt": "005",
+    "file": "QT005_Alharbi_et_al_2019_SaudiArabia.docx",
+    "pdf": "05_Alharbi_et_al_2019.pdf",
+    "total_facts": 30,
+    "matched": 13,
+    "missed": [
+      [
+        "%",
+        "71,3%"
+      ],
+      [
+        "%",
+        "28,7%"
+      ],
+      [
+        "%",
+        "74,2%"
+      ],
+      [
+        "%",
+        "25,8%"
+      ],
+      [
+        "%",
+        "74%"
+      ],
+      [
+        "%",
+        "63,5%"
+      ],
+      [
+        "%",
+        "23%"
+      ],
+      [
+        "%",
+        "13,9%"
+      ],
+      [
+        "%",
+        "74,2%"
+      ],
+      [
+        "%",
+        "74%"
+      ],
+      [
+        "%",
+        "63,5%"
+      ],
+      [
+        "%",
+        "15,4%"
+      ],
+      [
+        "%",
+        "74%"
+      ],
+      [
+        "%",
+        "63,5%"
+      ],
+      [
+        "%",
+        "40%"
+      ]
+    ],
+    "match_rate": 43.3,
+    "status": "SUSPICIOUS"
+  },
+  {
+    "qt": "006",
+    "file": "QT006_Nakie_et_al_2022_Ethiopia.docx",
+    "pdf": "06_Nakie_et_al_2022.pdf",
+    "total_facts": 19,
+    "matched": 17,
+    "missed": [
+      [
+        "%",
+        "12,80%"
+      ],
+      [
+        "%",
+        "33,7%"
+      ]
+    ],
+    "match_rate": 89.5,
+    "status": "OK"
+  },
+  {
+    "qt": "007",
+    "file": "QT007_Chen_et_al_2023_China_BMCPsych.docx",
+    "pdf": "07_Chen_et_al_2023.pdf",
+    "total_facts": 34,
+    "matched": 24,
+    "missed": [
+      [
+        "OR/RR",
+        "OR = 1,55"
+      ],
+      [
+        "OR/RR",
+        "OR = 6,99"
+      ],
+      [
+        "OR/RR",
+        "OR = 5,00"
+      ],
+      [
+        "OR/RR",
+        "OR = 6,99"
+      ],
+      [
+        "OR/RR",
+        "OR = 5,00"
+      ],
+      [
+        "OR/RR",
+        "OR = 1,97"
+      ],
+      [
+        "OR/RR",
+        "OR = 1,70"
+      ],
+      [
+        "OR/RR",
+        "OR = 1,51"
+      ],
+      [
+        "OR/RR",
+        "OR = 1,25"
+      ],
+      [
+        "OR/RR",
+        "OR = 6,99"
+      ]
+    ],
+    "match_rate": 70.6,
+    "status": "OK"
+  },
+  {
+    "qt": "008",
+    "file": "QT008_Wen_et_al_2020_China_Rural.docx",
+    "pdf": "08_Wen_et_al_2020.pdf",
+    "total_facts": 8,
+    "matched": 3,
+    "missed": [
+      [
+        "%",
+        "24,8%"
+      ],
+      [
+        "%",
+        "19,2%"
+      ],
+      [
+        "%",
+        "56,0%"
+      ],
+      [
+        "%",
+        "24,8%"
+      ],
+      [
+        "OR/RR",
+        "OR = 11,6"
+      ]
+    ],
+    "match_rate": 37.5,
+    "status": "SUSPICIOUS"
+  },
+  {
+    "qt": "009",
+    "file": "QT009_Qiu_et_al_2022_China_Parenting.docx",
+    "pdf": "09_Qiu_et_al_2022.pdf",
+    "total_facts": 23,
+    "matched": 13,
+    "missed": [
+      [
+        "%",
+        "9,1%"
+      ],
+      [
+        "%",
+        "17,5%"
+      ],
+      [
+        "%",
+        "11,1%"
+      ],
+      [
+        "%",
+        "70%"
+      ],
+      [
+        "%",
+        "68%"
+      ],
+      [
+        "%",
+        "26%"
+      ],
+      [
+        "%",
+        "24,3%"
+      ],
+      [
+        "%",
+        "28,9%"
+      ],
+      [
+        "%",
+        "11,1%"
+      ],
+      [
+        "%",
+        "17,5%"
+      ]
+    ],
+    "match_rate": 56.5,
+    "status": "SUSPICIOUS"
+  },
+  {
+    "qt": "010",
+    "file": "QT010_Xu_et_al_2021_China_LargestEpi.docx",
+    "pdf": "QT010_Xu_2021_China_LargestEpi.pdf",
+    "total_facts": 19,
+    "matched": 18,
+    "missed": [
+      [
+        "OR/RR",
+        "OR = 1,30"
+      ]
+    ],
+    "match_rate": 94.7,
+    "status": "OK"
+  },
+  {
+    "qt": "011",
+    "file": "QT011_Bhardwaj_et_al_2020_India_Chandigarh.docx",
+    "pdf": "11_Saikia_2023_IJCM.pdf",
+    "total_facts": 25,
+    "matched": 4,
+    "missed": [
+      [
+        "%",
+        "72,9%"
+      ],
+      [
+        "%",
+        "63,7%"
+      ],
+      [
+        "%",
+        "23,9%"
+      ],
+      [
+        "%",
+        "11,4%"
+      ],
+      [
+        "%",
+        "44,2%"
+      ],
+      [
+        "%",
+        "81,9%"
+      ],
+      [
+        "%",
+        "46,8%"
+      ],
+      [
+        "%",
+        "81,9%"
+      ],
+      [
+        "%",
+        "64,9%"
+      ],
+      [
+        "%",
+        "55,2%"
+      ],
+      [
+        "%",
+        "81,9%"
+      ],
+      [
+        "%",
+        "81,9%"
+      ],
+      [
+        "%",
+        "46,8%"
+      ],
+      [
+        "%",
+        "64,9%"
+      ],
+      [
+        "%",
+        "55,2%"
+      ]
+    ],
+    "match_rate": 16.0,
+    "status": "SUSPICIOUS"
+  },
+  {
+    "qt": "012",
+    "file": "QT012_GBD_ASEAN_2025_Lancet.docx",
+    "pdf": "12_VNAMHS_2023.pdf",
+    "total_facts": 9,
+    "matched": 2,
+    "missed": [
+      [
+        "%",
+        "95%"
+      ],
+      [
+        "%",
+        "10,1%"
+      ],
+      [
+        "%",
+        "13,2%"
+      ],
+      [
+        "%",
+        "16,3%"
+      ],
+      [
+        "%",
+        "10,1 %"
+      ],
+      [
+        "%",
+        "13,2 %"
+      ],
+      [
+        "%",
+        "16,3 %"
+      ]
+    ],
+    "match_rate": 22.2,
+    "status": "SUSPICIOUS"
+  },
+  {
+    "qt": "013",
+    "file": "QT013_Zhameden_2025_PLOSONE_LMIC.docx",
+    "pdf": "QT013_Zhameden_2025_PLOSONE_LMIC.pdf",
+    "total_facts": 3,
+    "matched": 1,
+    "missed": [
+      [
+        "%",
+        "25%"
+      ],
+      [
+        "%",
+        "75%"
+      ]
+    ],
+    "match_rate": 33.3,
+    "status": "SUSPICIOUS"
+  },
+  {
+    "qt": "014",
+    "file": "QT014_Anderson_2025_Wiley_Narrative.docx",
+    "pdf": "14_Vietnam_COVID_DAS.pdf",
+    "total_facts": 1,
+    "matched": 0,
+    "missed": [
+      [
+        "%",
+        "31,9 %"
+      ]
+    ],
+    "match_rate": 0.0,
+    "status": "SUSPICIOUS"
+  },
+  {
+    "qt": "015",
+    "file": "QT015_Zhu_2025_BMC_China.docx",
+    "pdf": "QT015_Zhu_2025_BMC_China.pdf",
+    "total_facts": 6,
+    "matched": 6,
+    "missed": [],
+    "match_rate": 100.0,
+    "status": "OK"
+  },
+  {
+    "qt": "016",
+    "file": "QT016_Mudunna_2025_LancetSEA_SouthAsia.docx",
+    "pdf": "QT016_Mudunna_2025_LancetSEA_SouthAsia.pdf",
+    "total_facts": 5,
+    "matched": 4,
+    "missed": [
+      [
+        "%",
+        "1,5 %"
+      ]
+    ],
+    "match_rate": 80.0,
+    "status": "OK"
+  },
+  {
+    "qt": "017",
+    "file": "QT017_Puyat_2025_Filipino_Youth.docx",
+    "pdf": "QT017_Puyat_2025_Filipino_Youth.pdf",
+    "total_facts": 13,
+    "matched": 10,
+    "missed": [
+      [
+        "%",
+        "118 %"
+      ],
+      [
+        "%",
+        "12,3 %"
+      ],
+      [
+        "%",
+        "8,5 %"
+      ]
+    ],
+    "match_rate": 76.9,
+    "status": "OK"
+  },
+  {
+    "qt": "018",
+    "file": "QT018_Salari_SAD_Prevalence_Global_SR_MA_2024.docx",
+    "pdf": "18_Rising_Burden_2024.pdf",
+    "total_facts": 10,
+    "matched": 0,
+    "missed": [
+      [
+        "%",
+        "4,7 %"
+      ],
+      [
+        "%",
+        "8,3 %"
+      ],
+      [
+        "%",
+        "4,7 %"
+      ],
+      [
+        "%",
+        "30,7 %"
+      ],
+      [
+        "%",
+        "4,7 %"
+      ],
+      [
+        "%",
+        "8,3 %"
+      ],
+      [
+        "%",
+        "30,7 %"
+      ],
+      [
+        "%",
+        "4,7 %"
+      ],
+      [
+        "%",
+        "8,3 %"
+      ],
+      [
+        "%",
+        "30,7 %"
+      ]
+    ],
+    "match_rate": 0.0,
+    "status": "SUSPICIOUS"
+  },
+  {
+    "qt": "019",
+    "file": "QT019_Shibuya_SchoolMH_Literacy_3Asian_2025.docx",
+    "pdf": "19_LMIC_Prevention_2024.pdf",
+    "total_facts": 0,
+    "matched": 0,
+    "missed": [],
+    "match_rate": 0,
+    "status": "SUSPICIOUS"
+  }
+]

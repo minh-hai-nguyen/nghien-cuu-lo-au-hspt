@@ -1,0 +1,5643 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d15" for="edge" attr.name="is_first_author" attr.type="string"/>
+<key id="d14" for="edge" attr.name="position" attr.type="long"/>
+<key id="d13" for="edge" attr.name="paper_count" attr.type="long"/>
+<key id="d12" for="edge" attr.name="strength" attr.type="long"/>
+<key id="d11" for="edge" attr.name="shared_papers" attr.type="string"/>
+<key id="d10" for="edge" attr.name="type" attr.type="string"/>
+<key id="d9" for="node" attr.name="has_pdf" attr.type="string"/>
+<key id="d8" for="node" attr.name="pdf_folder" attr.type="string"/>
+<key id="d7" for="node" attr.name="year" attr.type="string"/>
+<key id="d6" for="node" attr.name="country_hint" attr.type="string"/>
+<key id="d5" for="node" attr.name="n_papers" attr.type="long"/>
+<key id="d4" for="node" attr.name="is_vietnamese" attr.type="string"/>
+<key id="d3" for="node" attr.name="given" attr.type="string"/>
+<key id="d2" for="node" attr.name="surname" attr.type="string"/>
+<key id="d1" for="node" attr.name="label" attr.type="string"/>
+<key id="d0" for="node" attr.name="type" attr.type="string"/>
+<graph edgedefault="directed"><node id="AU_JENKINS_JH">
+  <data key="d0">Author</data>
+  <data key="d1">Janis H. Jenkins</data>
+  <data key="d2">Jenkins</data>
+  <data key="d3">Janis H.</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6">USA</data>
+</node>
+<node id="AU_SANCHEZ_G">
+  <data key="d0">Author</data>
+  <data key="d1">Giselle Sanchez</data>
+  <data key="d2">Sanchez</data>
+  <data key="d3">Giselle</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6">USA</data>
+</node>
+<node id="AU_MILLER_EA">
+  <data key="d0">Author</data>
+  <data key="d1">Eric A. Miller</data>
+  <data key="d2">Miller</data>
+  <data key="d3">Eric A.</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6">USA</data>
+</node>
+<node id="AU_ALLANDE_NIS">
+  <data key="d0">Author</data>
+  <data key="d1">Nadia Irina Santillanes Allande</data>
+  <data key="d2">Allande</data>
+  <data key="d3">Nadia Irina Santillanes</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6">USA</data>
+</node>
+<node id="AU_URANO_G">
+  <data key="d0">Author</data>
+  <data key="d1">Grace Urano</data>
+  <data key="d2">Urano</data>
+  <data key="d3">Grace</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6">USA</data>
+</node>
+<node id="AU_PR_AJ">
+  <data key="d0">Author</data>
+  <data key="d1">Alexandra J. Pr</data>
+  <data key="d2">Pr</data>
+  <data key="d3">Alexandra J.</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6">USA</data>
+</node>
+<node id="AU_MANDAKNALLI_R">
+  <data key="d0">Author</data>
+  <data key="d1">Rahul Mandaknalli</data>
+  <data key="d2">Mandaknalli</data>
+  <data key="d3">Rahul</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6"></data>
+</node>
+<node id="AU_MALUSARE_R">
+  <data key="d0">Author</data>
+  <data key="d1">Ragini Malusare</data>
+  <data key="d2">Malusare</data>
+  <data key="d3">Ragini</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6"></data>
+</node>
+<node id="AU_JENKINS_X">
+  <data key="d0">Author</data>
+  <data key="d1">Jenkins</data>
+  <data key="d2">Jenkins</data>
+  <data key="d3"></data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6">USA</data>
+</node>
+<node id="AU_ALHARBI_R">
+  <data key="d0">Author</data>
+  <data key="d1">Reem Alharbi</data>
+  <data key="d2">Alharbi</data>
+  <data key="d3">Reem</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6">Saudi Arabia</data>
+</node>
+<node id="AU_ALSUHAIBANI_K">
+  <data key="d0">Author</data>
+  <data key="d1">Khalid Alsuhaibani</data>
+  <data key="d2">Alsuhaibani</data>
+  <data key="d3">Khalid</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6">Saudi Arabia</data>
+</node>
+<node id="AU_ALMARSHAD_A">
+  <data key="d0">Author</data>
+  <data key="d1">Abdullah Almarshad</data>
+  <data key="d2">Almarshad</data>
+  <data key="d3">Abdullah</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6">Saudi Arabia</data>
+</node>
+<node id="AU_ALYAHYA_A">
+  <data key="d0">Author</data>
+  <data key="d1">Abdulhameed Alyahya</data>
+  <data key="d2">Alyahya</data>
+  <data key="d3">Abdulhameed</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6">Saudi Arabia</data>
+</node>
+<node id="AU_NAKIE_G">
+  <data key="d0">Author</data>
+  <data key="d1">Girum Nakie</data>
+  <data key="d2">Nakie</data>
+  <data key="d3">Girum</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6">Ethiopia</data>
+</node>
+<node id="AU_SEGON_T">
+  <data key="d0">Author</data>
+  <data key="d1">Tesfaye Segon</data>
+  <data key="d2">Segon</data>
+  <data key="d3">Tesfaye</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6">Ethiopia</data>
+</node>
+<node id="AU_MELKAM_M">
+  <data key="d0">Author</data>
+  <data key="d1">Mamaru Melkam</data>
+  <data key="d2">Melkam</data>
+  <data key="d3">Mamaru</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6">Ethiopia</data>
+</node>
+<node id="AU_DESALEGN_GT">
+  <data key="d0">Author</data>
+  <data key="d1">Getachew Tesfaw Desalegn</data>
+  <data key="d2">Desalegn</data>
+  <data key="d3">Getachew Tesfaw</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6">Ethiopia</data>
+</node>
+<node id="AU_ZELEKE_TA">
+  <data key="d0">Author</data>
+  <data key="d1">Tadele Amare Zeleke</data>
+  <data key="d2">Zeleke</data>
+  <data key="d3">Tadele Amare</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6">Ethiopia</data>
+</node>
+<node id="AU_CHEN_Z">
+  <data key="d0">Author</data>
+  <data key="d1">Zhangming Chen</data>
+  <data key="d2">Chen</data>
+  <data key="d3">Zhangming</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6">China</data>
+</node>
+<node id="AU_REN_S">
+  <data key="d0">Author</data>
+  <data key="d1">Silan Ren</data>
+  <data key="d2">Ren</data>
+  <data key="d3">Silan</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6">China</data>
+</node>
+<node id="AU_HE_R">
+  <data key="d0">Author</data>
+  <data key="d1">Ruini He</data>
+  <data key="d2">He</data>
+  <data key="d3">Ruini</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6">China</data>
+</node>
+<node id="AU_WEN_X">
+  <data key="d0">Author</data>
+  <data key="d1">Xiaotong Wen</data>
+  <data key="d2">Wen</data>
+  <data key="d3">Xiaotong</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6">China</data>
+</node>
+<node id="AU_QIU_Z">
+  <data key="d0">Author</data>
+  <data key="d1">Zhihai Qiu</data>
+  <data key="d2">Qiu</data>
+  <data key="d3">Zhihai</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6">China</data>
+</node>
+<node id="AU_GUO_Y">
+  <data key="d0">Author</data>
+  <data key="d1">Ying Guo</data>
+  <data key="d2">Guo</data>
+  <data key="d3">Ying</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6">China</data>
+</node>
+<node id="AU_WANG_J">
+  <data key="d0">Author</data>
+  <data key="d1">Jun Wang</data>
+  <data key="d2">Wang</data>
+  <data key="d3">Jun</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6">China</data>
+</node>
+<node id="AU_ZHANG_H">
+  <data key="d0">Author</data>
+  <data key="d1">Hongbo Zhang</data>
+  <data key="d2">Zhang</data>
+  <data key="d3">Hongbo</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6">China</data>
+</node>
+<node id="AU_XU_Q">
+  <data key="d0">Author</data>
+  <data key="d1">Qingqing Xu</data>
+  <data key="d2">Xu</data>
+  <data key="d3">Qingqing</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6">China</data>
+</node>
+<node id="AU_BHARDWAJ_R">
+  <data key="d0">Author</data>
+  <data key="d1">Ridhul Bhardwaj</data>
+  <data key="d2">Bhardwaj</data>
+  <data key="d3">Ridhul</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6">India</data>
+</node>
+<node id="AU__GAC">
+  <data key="d0">Author</data>
+  <data key="d1">GBD  ASEAN Collaborators ()</data>
+  <data key="d2">()</data>
+  <data key="d3">GBD ASEAN Collaborators</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6"></data>
+</node>
+<node id="AU_DANG_TTLPHV">
+  <data key="d0">Author</data>
+  <data key="d1">đăng trên The Lancet Public Health vol</data>
+  <data key="d2">đăng</data>
+  <data key="d3">trên The Lancet Public Health vol</data>
+  <data key="d4">True</data>
+  <data key="d5">1</data>
+  <data key="d6"></data>
+</node>
+<node id="AU_SZD_Y">
+  <data key="d0">Author</data>
+  <data key="d1">Yin SZD</data>
+  <data key="d2">SZD</data>
+  <data key="d3">Yin</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6"></data>
+</node>
+<node id="AU_MK_L">
+  <data key="d0">Author</data>
+  <data key="d1">Low MK</data>
+  <data key="d2">MK</data>
+  <data key="d3">Low</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6"></data>
+</node>
+<node id="AU_MP_M">
+  <data key="d0">Author</data>
+  <data key="d1">Mishu MP</data>
+  <data key="d2">MP</data>
+  <data key="d3">Mishu</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6"></data>
+</node>
+<node id="AU_NURSING_AP">
+  <data key="d0">Author</data>
+  <data key="d1">Adolescent Psychiatric Nursing</data>
+  <data key="d2">Nursing</data>
+  <data key="d3">Adolescent Psychiatric</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6"></data>
+</node>
+<node id="AU_ZHU_X">
+  <data key="d0">Author</data>
+  <data key="d1">Zhu</data>
+  <data key="d2">Zhu</data>
+  <data key="d3"></data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6">China</data>
+</node>
+<node id="AU_MUDUNNA_X">
+  <data key="d0">Author</data>
+  <data key="d1">Mudunna</data>
+  <data key="d2">Mudunna</data>
+  <data key="d3"></data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6"></data>
+</node>
+<node id="AU_PUYAT_X">
+  <data key="d0">Author</data>
+  <data key="d1">Puyat</data>
+  <data key="d2">Puyat</data>
+  <data key="d3"></data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6">Philippines</data>
+</node>
+<node id="AU_BRUNBORG_GS">
+  <data key="d0">Author</data>
+  <data key="d1">Geir Scott Brunborg</data>
+  <data key="d2">Brunborg</data>
+  <data key="d3">Geir Scott</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6">Norway</data>
+</node>
+<node id="AU_NILSEN_SA">
+  <data key="d0">Author</data>
+  <data key="d1">Sondre Aasen Nilsen</data>
+  <data key="d2">Nilsen</data>
+  <data key="d3">Sondre Aasen</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6">Norway</data>
+</node>
+<node id="AU_SKOGEN_JC">
+  <data key="d0">Author</data>
+  <data key="d1">Jens Christoffer Skogen</data>
+  <data key="d2">Skogen</data>
+  <data key="d3">Jens Christoffer</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6">Norway</data>
+</node>
+<node id="AU_BANG_L">
+  <data key="d0">Author</data>
+  <data key="d1">Lasse Bang</data>
+  <data key="d2">Bang</data>
+  <data key="d3">Lasse</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6">Norway</data>
+</node>
+<node id="AU_SOCIETY_SLOBOBP">
+  <data key="d0">Author</data>
+  <data key="d1">Sons Ltd on behalf of British Psychological Society</data>
+  <data key="d2">Society</data>
+  <data key="d3">Sons Ltd on behalf of British Psychological</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6"></data>
+</node>
+<node id="AU_MOJTABAI_R">
+  <data key="d0">Author</data>
+  <data key="d1">Ramin Mojtabai</data>
+  <data key="d2">Mojtabai</data>
+  <data key="d3">Ramin</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6">USA</data>
+</node>
+<node id="AU_OLFSON_M">
+  <data key="d0">Author</data>
+  <data key="d1">Mark Olfson</data>
+  <data key="d2">Olfson</data>
+  <data key="d3">Mark</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6">USA</data>
+</node>
+<node id="AU_TARASENKO_A">
+  <data key="d0">Author</data>
+  <data key="d1">Anna Tarasenko</data>
+  <data key="d2">Tarasenko</data>
+  <data key="d3">Anna</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6"></data>
+</node>
+<node id="AU_CRISP_D">
+  <data key="d0">Author</data>
+  <data key="d1">Dimity Crisp</data>
+  <data key="d2">Crisp</data>
+  <data key="d3">Dimity</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6">Australia</data>
+</node>
+<node id="AU_RICKWOOD_D">
+  <data key="d0">Author</data>
+  <data key="d1">Debra Rickwood</data>
+  <data key="d2">Rickwood</data>
+  <data key="d3">Debra</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6">Australia</data>
+</node>
+<node id="AU_BURNS_R">
+  <data key="d0">Author</data>
+  <data key="d1">Richard Burns</data>
+  <data key="d2">Burns</data>
+  <data key="d3">Richard</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6">Australia</data>
+</node>
+<node id="AU_BARIOLA_E">
+  <data key="d0">Author</data>
+  <data key="d1">Emily Bariola</data>
+  <data key="d2">Bariola</data>
+  <data key="d3">Emily</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6">Australia</data>
+</node>
+<node id="AU_BAKER_C">
+  <data key="d0">Author</data>
+  <data key="d1">Carl Baker</data>
+  <data key="d2">Baker</data>
+  <data key="d3">Carl</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6">UK</data>
+</node>
+<node id="AU_LIBRARY_HOC">
+  <data key="d0">Author</data>
+  <data key="d1">House of Commons Library</data>
+  <data key="d2">Library</data>
+  <data key="d3">House of Commons</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6">UK</data>
+</node>
+<node id="AU_PARLIAMENT_U">
+  <data key="d0">Author</data>
+  <data key="d1">UK Parliament</data>
+  <data key="d2">Parliament</data>
+  <data key="d3">UK</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6">UK</data>
+</node>
+<node id="AU_OR_YIUINPBSR">
+  <data key="d0">Author</data>
+  <data key="d1">your intended use is not permitted by statutory regulation or</data>
+  <data key="d2">or</data>
+  <data key="d3">your intended use is not permitted by statutory regulation</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6"></data>
+</node>
+<node id="AU_DONGJUN_Z">
+  <data key="d0">Author</data>
+  <data key="d1">Zhang Dongjun</data>
+  <data key="d2">Dongjun</data>
+  <data key="d3">Zhang</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6"></data>
+</node>
+<node id="AU_MINGYUE_W">
+  <data key="d0">Author</data>
+  <data key="d1">Wu Mingyue</data>
+  <data key="d2">Mingyue</data>
+  <data key="d3">Wu</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6"></data>
+</node>
+<node id="AU_PSYCHOLOGY_SO">
+  <data key="d0">Author</data>
+  <data key="d1">School of Psychology</data>
+  <data key="d2">Psychology</data>
+  <data key="d3">School of</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6">Ireland</data>
+</node>
+<node id="AU_DUBLIN_X">
+  <data key="d0">Author</data>
+  <data key="d1">Dublin</data>
+  <data key="d2">Dublin</data>
+  <data key="d3"></data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6">Ireland</data>
+</node>
+<node id="AU_IRELAND_X">
+  <data key="d0">Author</data>
+  <data key="d1">Ireland</data>
+  <data key="d2">Ireland</data>
+  <data key="d3"></data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6">Ireland</data>
+</node>
+<node id="AU_SCHMIDTPERSSON_J">
+  <data key="d0">Author</data>
+  <data key="d1">Jesper Schmidt-Persson</data>
+  <data key="d2">Schmidt-Persson</data>
+  <data key="d3">Jesper</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6"></data>
+</node>
+<node id="AU_RASMUSSEN_MGB">
+  <data key="d0">Author</data>
+  <data key="d1">Martin Gillies Banke Rasmussen</data>
+  <data key="d2">Rasmussen</data>
+  <data key="d3">Martin Gillies Banke</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6"></data>
+</node>
+<node id="AU_SRENSEN_SO">
+  <data key="d0">Author</data>
+  <data key="d1">Sarah Overgaard Sørensen</data>
+  <data key="d2">Sørensen</data>
+  <data key="d3">Sarah Overgaard</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6"></data>
+</node>
+<node id="AU_MORTENSEN_SR">
+  <data key="d0">Author</data>
+  <data key="d1">Sofie Rath Mortensen</data>
+  <data key="d2">Mortensen</data>
+  <data key="d3">Sofie Rath</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6"></data>
+</node>
+<node id="AU_OLESEN_LG">
+  <data key="d0">Author</data>
+  <data key="d1">Line Grønholt Olesen</data>
+  <data key="d2">Olesen</data>
+  <data key="d3">Line Grønholt</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6"></data>
+</node>
+<node id="AU_JEFFERIES_P">
+  <data key="d0">Author</data>
+  <data key="d1">Philip Jefferies</data>
+  <data key="d2">Jefferies</data>
+  <data key="d3">Philip</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6"></data>
+</node>
+<node id="AU_UNGAR_M">
+  <data key="d0">Author</data>
+  <data key="d1">Michael Ungar</data>
+  <data key="d2">Ungar</data>
+  <data key="d3">Michael</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6"></data>
+</node>
+<node id="AU_MOON_Y">
+  <data key="d0">Author</data>
+  <data key="d1">Yonghwan Moon</data>
+  <data key="d2">Moon</data>
+  <data key="d3">Yonghwan</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6">Korea</data>
+</node>
+<node id="AU_WOO_H">
+  <data key="d0">Author</data>
+  <data key="d1">Hyekyung Woo</data>
+  <data key="d2">Woo</data>
+  <data key="d3">Hyekyung</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6">Korea</data>
+</node>
+<node id="AU_INCLUDED_UIOIACLTTMIMIN">
+  <data key="d0">Author</data>
+  <data key="d1">unless indicated otherwise in a credit line to the material. If material is not included</data>
+  <data key="d2">included</data>
+  <data key="d3">unless indicated otherwise in a credit line to the material. If material is not</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6">Sri Lanka</data>
+</node>
+<node id="AU_XIAN_J">
+  <data key="d0">Author</data>
+  <data key="d1">Jinhua Xian</data>
+  <data key="d2">Xian</data>
+  <data key="d3">Jinhua</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6"></data>
+</node>
+<node id="AU_ZHANG_Y">
+  <data key="d0">Author</data>
+  <data key="d1">Yan Zhang</data>
+  <data key="d2">Zhang</data>
+  <data key="d3">Yan</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6"></data>
+</node>
+<node id="AU_JIANG_B">
+  <data key="d0">Author</data>
+  <data key="d1">Bo Jiang</data>
+  <data key="d2">Jiang</data>
+  <data key="d3">Bo</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6"></data>
+</node>
+<node id="AU_DOC_LSL">
+  <data key="d0">Author</data>
+  <data key="d1">độc lập sàng lọc</data>
+  <data key="d2">độc</data>
+  <data key="d3">lập sàng lọc</data>
+  <data key="d4">True</data>
+  <data key="d5">1</data>
+  <data key="d6"></data>
+</node>
+<node id="AU_TRICH_X">
+  <data key="d0">Author</data>
+  <data key="d1">trích xuất</data>
+  <data key="d2">trích</data>
+  <data key="d3">xuất</data>
+  <data key="d4">True</data>
+  <data key="d5">1</data>
+  <data key="d6"></data>
+</node>
+<node id="AU_DANH_GTLRMSDHGPTPTNTVK">
+  <data key="d0">Author</data>
+  <data key="d1">đánh giá thiên lệch. Random-effects meta-analysis sử dụng Hedges g. Phân tích phụ theo: nền tảng (CBT vs khác)</data>
+  <data key="d2">đánh</data>
+  <data key="d3">giá thiên lệch. Random-effects meta-analysis sử dụng Hedges g. Phân tích phụ theo: nền tảng (CBT vs khác)</data>
+  <data key="d4">True</data>
+  <data key="d5">1</data>
+  <data key="d6"></data>
+</node>
+<node id="AU_THIET_KVTQ">
+  <data key="d0">Author</data>
+  <data key="d1">thiết kế (SAD-specific vs tổng quát)</data>
+  <data key="d2">thiết</data>
+  <data key="d3">kế (SAD-specific vs tổng quát)</data>
+  <data key="d4">True</data>
+  <data key="d5">1</data>
+  <data key="d6"></data>
+</node>
+<node id="AU_CO_HDNVTH">
+  <data key="d0">Author</data>
+  <data key="d1">có hướng dẫn người vs tự học</data>
+  <data key="d2">có</data>
+  <data key="d3">hướng dẫn người vs tự học</data>
+  <data key="d4">True</data>
+  <data key="d5">1</data>
+  <data key="d6"></data>
+</node>
+<node id="AU_DOI_CVK">
+  <data key="d0">Author</data>
+  <data key="d1">đối chứng (WL vs khác)</data>
+  <data key="d2">đối</data>
+  <data key="d3">chứng (WL vs khác)</data>
+  <data key="d4">True</data>
+  <data key="d5">1</data>
+  <data key="d6"></data>
+</node>
+<node id="AU_ADDICTION_TEOSM">
+  <data key="d0">Author</data>
+  <data key="d1">The Effects of Social Media Addiction</data>
+  <data key="d2">Addiction</data>
+  <data key="d3">The Effects of Social Media</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6">China</data>
+</node>
+<node id="AU_ACADEMIC_X">
+  <data key="d0">Author</data>
+  <data key="d1">Academic</data>
+  <data key="d2">Academic</data>
+  <data key="d3"></data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6">China</data>
+</node>
+<node id="AU_BRESS_JN">
+  <data key="d0">Author</data>
+  <data key="d1">Jennifer N. Bress</data>
+  <data key="d2">Bress</data>
+  <data key="d3">Jennifer N.</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6"></data>
+</node>
+<node id="AU_FALK_A">
+  <data key="d0">Author</data>
+  <data key="d1">Avital Falk</data>
+  <data key="d2">Falk</data>
+  <data key="d3">Avital</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6"></data>
+</node>
+<node id="AU_SCHIER_MM">
+  <data key="d0">Author</data>
+  <data key="d1">Maddy M. Schier</data>
+  <data key="d2">Schier</data>
+  <data key="d3">Maddy M.</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6"></data>
+</node>
+<node id="AU_JAYWANT_A">
+  <data key="d0">Author</data>
+  <data key="d1">Abhishek Jaywant</data>
+  <data key="d2">Jaywant</data>
+  <data key="d3">Abhishek</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6"></data>
+</node>
+<node id="AU_MORONEY_E">
+  <data key="d0">Author</data>
+  <data key="d1">Elizabeth Moroney</data>
+  <data key="d2">Moroney</data>
+  <data key="d3">Elizabeth</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6"></data>
+</node>
+<node id="AU_DARGIS_M">
+  <data key="d0">Author</data>
+  <data key="d1">Monika Dargis</data>
+  <data key="d2">Dargis</data>
+  <data key="d3">Monika</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6"></data>
+</node>
+<node id="AU_CHINH_CCTQHT">
+  <data key="d0">Author</data>
+  <data key="d1">chính Chenyi Cai). Tổng quan hệ thống</data>
+  <data key="d2">chính</data>
+  <data key="d3">Chenyi Cai). Tổng quan hệ thống</data>
+  <data key="d4">True</data>
+  <data key="d5">1</data>
+  <data key="d6"></data>
+</node>
+<node id="AU_PSYCHIATRY_C">
+  <data key="d0">Author</data>
+  <data key="d1">Child Psychiatry</data>
+  <data key="d2">Psychiatry</data>
+  <data key="d3">Child</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6"></data>
+</node>
+<node id="AU__HD">
+  <data key="d0">Author</data>
+  <data key="d1">Human Development () :–</data>
+  <data key="d2">:–</data>
+  <data key="d3">Human Development ()</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6"></data>
+</node>
+<node id="AU_CHAT_LBCNRTKPHNCĐVCĐHTTKRRTTĐN">
+  <data key="d0">Author</data>
+  <data key="d1">"Chất lượng bằng chứng nền RẤT THẤP khiến phát hiện này CHƯA ĐỦ vững chắc để hỗ trợ triển khai rộng rãi tại thời điểm này."</data>
+  <data key="d2">"Chất</data>
+  <data key="d3">lượng bằng chứng nền RẤT THẤP khiến phát hiện này CHƯA ĐỦ vững chắc để hỗ trợ triển khai rộng rãi tại thời điểm này."</data>
+  <data key="d4">True</data>
+  <data key="d5">1</data>
+  <data key="d6"></data>
+</node>
+<node id="AU_HOA_PT">
+  <data key="d0">Author</data>
+  <data key="d1">Phạm Thị Thu Hoa</data>
+  <data key="d2">Phạm</data>
+  <data key="d3">Thị Thu Hoa</data>
+  <data key="d4">True</data>
+  <data key="d5">1</data>
+  <data key="d6">Vietnam</data>
+</node>
+<node id="AU_DO_TT">
+  <data key="d0">Author</data>
+  <data key="d1">Đỗ Thị Trang</data>
+  <data key="d2">Đỗ</data>
+  <data key="d3">Thị Trang</data>
+  <data key="d4">True</data>
+  <data key="d5">1</data>
+  <data key="d6">Vietnam</data>
+</node>
+<node id="AU_NGUYEN_TL">
+  <data key="d0">Author</data>
+  <data key="d1">Nguyễn Thị Liên</data>
+  <data key="d2">Nguyễn</data>
+  <data key="d3">Thị Liên</data>
+  <data key="d4">True</data>
+  <data key="d5">1</data>
+  <data key="d6">Vietnam</data>
+</node>
+<node id="AU_NGO_AV">
+  <data key="d0">Author</data>
+  <data key="d1">Ngô Anh Vinh</data>
+  <data key="d2">Ngô</data>
+  <data key="d3">Anh Vinh</data>
+  <data key="d4">True</data>
+  <data key="d5">2</data>
+  <data key="d6">Vietnam</data>
+</node>
+<node id="AU_VU_ML">
+  <data key="d0">Author</data>
+  <data key="d1">Vũ Mạnh Lợi</data>
+  <data key="d2">Vũ</data>
+  <data key="d3">Mạnh Lợi</data>
+  <data key="d4">True</data>
+  <data key="d5">1</data>
+  <data key="d6">Vietnam</data>
+</node>
+<node id="AU_NGUYEN_ĐVXHH">
+  <data key="d0">Author</data>
+  <data key="d1">Nguyễn Đức Vinh (Viện Xã hội học</data>
+  <data key="d2">Nguyễn</data>
+  <data key="d3">Đức Vinh (Viện Xã hội học</data>
+  <data key="d4">True</data>
+  <data key="d5">1</data>
+  <data key="d6">Vietnam</data>
+</node>
+<node id="AU_VASS_X">
+  <data key="d0">Author</data>
+  <data key="d1">VASS)</data>
+  <data key="d2">VASS)</data>
+  <data key="d3"></data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6">Vietnam</data>
+</node>
+<node id="AU_DAO_TKHXHHVN">
+  <data key="d0">Author</data>
+  <data key="d1">Đào Thị Khánh Hoa (Hội Xã hội học Việt Nam)</data>
+  <data key="d2">Đào</data>
+  <data key="d3">Thị Khánh Hoa (Hội Xã hội học Việt Nam)</data>
+  <data key="d4">True</data>
+  <data key="d5">1</data>
+  <data key="d6">Vietnam</data>
+</node>
+<node id="AU_PHAM_X">
+  <data key="d0">Author</data>
+  <data key="d1">Pham</data>
+  <data key="d2">Pham</data>
+  <data key="d3"></data>
+  <data key="d4">True</data>
+  <data key="d5">1</data>
+  <data key="d6">Vietnam</data>
+</node>
+<node id="AU_STRESS_LO">
+  <data key="d0">Author</data>
+  <data key="d1">Levels of Stress</data>
+  <data key="d2">Stress</data>
+  <data key="d3">Levels of</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6">Vietnam</data>
+</node>
+<node id="AU_ANXIETY_X">
+  <data key="d0">Author</data>
+  <data key="d1">Anxiety</data>
+  <data key="d2">Anxiety</data>
+  <data key="d3"></data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6">Vietnam</data>
+</node>
+<node id="AU_VU_TMH">
+  <data key="d0">Author</data>
+  <data key="d1">Vũ Thị Mỹ Hạnh</data>
+  <data key="d2">Vũ</data>
+  <data key="d3">Thị Mỹ Hạnh</data>
+  <data key="d4">True</data>
+  <data key="d5">1</data>
+  <data key="d6">Vietnam</data>
+</node>
+<node id="AU_DO_TBV">
+  <data key="d0">Author</data>
+  <data key="d1">Đỗ Thị Bích Vân</data>
+  <data key="d2">Đỗ</data>
+  <data key="d3">Thị Bích Vân</data>
+  <data key="d4">True</data>
+  <data key="d5">1</data>
+  <data key="d6">Vietnam</data>
+</node>
+<node id="AU_DUONG_AT">
+  <data key="d0">Author</data>
+  <data key="d1">Dương Anh Tài</data>
+  <data key="d2">Dương</data>
+  <data key="d3">Anh Tài</data>
+  <data key="d4">True</data>
+  <data key="d5">1</data>
+  <data key="d6">Vietnam</data>
+</node>
+<node id="AU_DO_ML">
+  <data key="d0">Author</data>
+  <data key="d1">Đỗ Minh Loan</data>
+  <data key="d2">Đỗ</data>
+  <data key="d3">Minh Loan</data>
+  <data key="d4">True</data>
+  <data key="d5">1</data>
+  <data key="d6">Vietnam</data>
+</node>
+<node id="AU_LE_TTT">
+  <data key="d0">Author</data>
+  <data key="d1">Lê Thị Thanh Thùy</data>
+  <data key="d2">Lê</data>
+  <data key="d3">Thị Thanh Thùy</data>
+  <data key="d4">True</data>
+  <data key="d5">1</data>
+  <data key="d6">Vietnam</data>
+</node>
+<node id="AU_NGUYEN_NBQ">
+  <data key="d0">Author</data>
+  <data key="d1">Nguyễn Ngọc Bảo Quyên</data>
+  <data key="d2">Nguyễn</data>
+  <data key="d3">Ngọc Bảo Quyên</data>
+  <data key="d4">True</data>
+  <data key="d5">1</data>
+  <data key="d6">Vietnam</data>
+</node>
+<node id="AU_LUU_MĐ">
+  <data key="d0">Author</data>
+  <data key="d1">Lưu Minh Đức</data>
+  <data key="d2">Lưu</data>
+  <data key="d3">Minh Đức</data>
+  <data key="d4">True</data>
+  <data key="d5">1</data>
+  <data key="d6">Vietnam</data>
+</node>
+<node id="AU_VU_MT">
+  <data key="d0">Author</data>
+  <data key="d1">Vũ Minh Thy</data>
+  <data key="d2">Vũ</data>
+  <data key="d3">Minh Thy</data>
+  <data key="d4">True</data>
+  <data key="d5">1</data>
+  <data key="d6">Vietnam</data>
+</node>
+<node id="AU_NGUYEN_YM">
+  <data key="d0">Author</data>
+  <data key="d1">Nguyễn Yến Minh</data>
+  <data key="d2">Nguyễn</data>
+  <data key="d3">Yến Minh</data>
+  <data key="d4">True</data>
+  <data key="d5">1</data>
+  <data key="d6">Vietnam</data>
+</node>
+<node id="AU_NGUYEN_CA">
+  <data key="d0">Author</data>
+  <data key="d1">Nguyễn Châu Anh</data>
+  <data key="d2">Nguyễn</data>
+  <data key="d3">Châu Anh</data>
+  <data key="d4">True</data>
+  <data key="d5">1</data>
+  <data key="d6">Vietnam</data>
+</node>
+<node id="AU_HOANG_LV">
+  <data key="d0">Author</data>
+  <data key="d1">Hoàng Lan Vân</data>
+  <data key="d2">Hoàng</data>
+  <data key="d3">Lan Vân</data>
+  <data key="d4">True</data>
+  <data key="d5">1</data>
+  <data key="d6">Vietnam</data>
+</node>
+<node id="AU_GIAP_TTT">
+  <data key="d0">Author</data>
+  <data key="d1">Giáp Thị Thanh Tình</data>
+  <data key="d2">Giáp</data>
+  <data key="d3">Thị Thanh Tình</data>
+  <data key="d4">True</data>
+  <data key="d5">1</data>
+  <data key="d6">Vietnam</data>
+</node>
+<node id="AU_HO_TTQ">
+  <data key="d0">Author</data>
+  <data key="d1">Hồ Thị Trúc Quỳnh</data>
+  <data key="d2">Hồ</data>
+  <data key="d3">Thị Trúc Quỳnh</data>
+  <data key="d4">True</data>
+  <data key="d5">1</data>
+  <data key="d6">Vietnam</data>
+</node>
+<node id="AU_TRAN_HVL">
+  <data key="d0">Author</data>
+  <data key="d1">Trần Hồ Vĩnh Lộc</data>
+  <data key="d2">Trần</data>
+  <data key="d3">Hồ Vĩnh Lộc</data>
+  <data key="d4">True</data>
+  <data key="d5">1</data>
+  <data key="d6">Vietnam</data>
+</node>
+<node id="AU_HUYNH_NVA">
+  <data key="d0">Author</data>
+  <data key="d1">Huỳnh Ngọc Vân Anh</data>
+  <data key="d2">Huỳnh</data>
+  <data key="d3">Ngọc Vân Anh</data>
+  <data key="d4">True</data>
+  <data key="d5">1</data>
+  <data key="d6">Vietnam</data>
+</node>
+<node id="AU_TO_GK">
+  <data key="d0">Author</data>
+  <data key="d1">Tô Gia Kiên</data>
+  <data key="d2">Tô</data>
+  <data key="d3">Gia Kiên</data>
+  <data key="d4">True</data>
+  <data key="d5">1</data>
+  <data key="d6">Vietnam</data>
+</node>
+<node id="AU_TRAN_TV">
+  <data key="d0">Author</data>
+  <data key="d1">Thao Vi Tran</data>
+  <data key="d2">Tran</data>
+  <data key="d3">Thao Vi</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6">Vietnam</data>
+</node>
+<node id="AU_HOANG_TLN">
+  <data key="d0">Author</data>
+  <data key="d1">Hoang Thuy Linh Nguyen</data>
+  <data key="d2">Hoang</data>
+  <data key="d3">Thuy Linh Nguyen</data>
+  <data key="d4">True</data>
+  <data key="d5">1</data>
+  <data key="d6">Vietnam</data>
+</node>
+<node id="AU_TRAN_XMT">
+  <data key="d0">Author</data>
+  <data key="d1">Xuan Minh Tri Tran</data>
+  <data key="d2">Tran</data>
+  <data key="d3">Xuan Minh Tri</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6">Vietnam</data>
+</node>
+<node id="AU_TASHIRO_Y">
+  <data key="d0">Author</data>
+  <data key="d1">Yuri Tashiro</data>
+  <data key="d2">Tashiro</data>
+  <data key="d3">Yuri</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6">Vietnam</data>
+</node>
+<node id="AU_SEINO_K">
+  <data key="d0">Author</data>
+  <data key="d1">Kaoruko Seino</data>
+  <data key="d2">Seino</data>
+  <data key="d3">Kaoruko</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6">Vietnam</data>
+</node>
+<node id="AU_VO_TV">
+  <data key="d0">Author</data>
+  <data key="d1">Thang Van Vo</data>
+  <data key="d2">Vo</data>
+  <data key="d3">Thang Van</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6">Vietnam</data>
+</node>
+<node id="AU_NAKAMURA_K">
+  <data key="d0">Author</data>
+  <data key="d1">Keiko Nakamura</data>
+  <data key="d2">Nakamura</data>
+  <data key="d3">Keiko</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6">Vietnam</data>
+</node>
+<node id="AU_NGUYEN_HV">
+  <data key="d0">Author</data>
+  <data key="d1">Hieu Van Nguyen</data>
+  <data key="d2">Nguyen</data>
+  <data key="d3">Hieu Van</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6">Vietnam</data>
+</node>
+<node id="AU_PHDC_X">
+  <data key="d0">Author</data>
+  <data key="d1">PhDc</data>
+  <data key="d2">PhDc</data>
+  <data key="d3"></data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6">Vietnam</data>
+</node>
+<node id="AU_NGUYEN_LTM">
+  <data key="d0">Author</data>
+  <data key="d1">Lan Thi Mai Nguyen</data>
+  <data key="d2">Nguyen</data>
+  <data key="d3">Lan Thi Mai</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6">Vietnam</data>
+</node>
+<node id="AU_PHDD_X">
+  <data key="d0">Author</data>
+  <data key="d1">PhDd</data>
+  <data key="d2">PhDd</data>
+  <data key="d3"></data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6">Vietnam</data>
+</node>
+<node id="AU_NGUYEN_PT">
+  <data key="d0">Author</data>
+  <data key="d1">Phuong Thi Nguyen</data>
+  <data key="d2">Nguyen</data>
+  <data key="d3">Phuong Thi</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6">Vietnam</data>
+</node>
+<node id="AU_MSA_X">
+  <data key="d0">Author</data>
+  <data key="d1">MSa</data>
+  <data key="d2">MSa</data>
+  <data key="d3"></data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6">Vietnam</data>
+</node>
+<node id="AU_NGUYEN_TT">
+  <data key="d0">Author</data>
+  <data key="d1">Thang Thi Nguyen</data>
+  <data key="d2">Nguyen</data>
+  <data key="d3">Thang Thi</data>
+  <data key="d4">False</data>
+  <data key="d5">2</data>
+  <data key="d6">Vietnam</data>
+</node>
+<node id="AU_PHDA_X">
+  <data key="d0">Author</data>
+  <data key="d1">PhDa</data>
+  <data key="d2">PhDa</data>
+  <data key="d3"></data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6">Vietnam</data>
+</node>
+<node id="AU_PHAM_TN">
+  <data key="d0">Author</data>
+  <data key="d1">Phạm Thị Ngọc</data>
+  <data key="d2">Phạm</data>
+  <data key="d3">Thị Ngọc</data>
+  <data key="d4">True</data>
+  <data key="d5">1</data>
+  <data key="d6">Vietnam</data>
+</node>
+<node id="AU_HOANG_TG">
+  <data key="d0">Author</data>
+  <data key="d1">Hoàng Thị Giang</data>
+  <data key="d2">Hoàng</data>
+  <data key="d3">Thị Giang</data>
+  <data key="d4">True</data>
+  <data key="d5">1</data>
+  <data key="d6">Vietnam</data>
+</node>
+<node id="AU_PHAM_KL">
+  <data key="d0">Author</data>
+  <data key="d1">Phạm Khánh Linh</data>
+  <data key="d2">Phạm</data>
+  <data key="d3">Khánh Linh</data>
+  <data key="d4">True</data>
+  <data key="d5">1</data>
+  <data key="d6">Vietnam</data>
+</node>
+<node id="AU_VU_TC">
+  <data key="d0">Author</data>
+  <data key="d1">Vũ Thị Châu</data>
+  <data key="d2">Vũ</data>
+  <data key="d3">Thị Châu</data>
+  <data key="d4">True</data>
+  <data key="d5">1</data>
+  <data key="d6">Vietnam</data>
+</node>
+<node id="AU_SINH_CTC">
+  <data key="d0">Author</data>
+  <data key="d1">sinh có trầm cảm</data>
+  <data key="d2">sinh</data>
+  <data key="d3">có trầm cảm</data>
+  <data key="d4">True</data>
+  <data key="d5">1</data>
+  <data key="d6">Vietnam</data>
+</node>
+<node id="AU_LO_Â">
+  <data key="d0">Author</data>
+  <data key="d1">lo âu</data>
+  <data key="d2">lo</data>
+  <data key="d3">âu</data>
+  <data key="d4">True</data>
+  <data key="d5">1</data>
+  <data key="d6">Vietnam</data>
+</node>
+<node id="AU_STRESS_TĐBTPTA">
+  <data key="d0">Author</data>
+  <data key="d1">stress trên địa bàn thành phố Tân An</data>
+  <data key="d2">stress</data>
+  <data key="d3">trên địa bàn thành phố Tân An</data>
+  <data key="d4">True</data>
+  <data key="d5">1</data>
+  <data key="d6">Vietnam</data>
+</node>
+<node id="AU_TINH_LALL">
+  <data key="d0">Author</data>
+  <data key="d1">tỉnh Long An lần lượt</data>
+  <data key="d2">tỉnh</data>
+  <data key="d3">Long An lần lượt</data>
+  <data key="d4">True</data>
+  <data key="d5">1</data>
+  <data key="d6">Vietnam</data>
+</node>
+<node id="AU_DINH_X">
+  <data key="d0">Author</data>
+  <data key="d1">Dinh</data>
+  <data key="d2">Dinh</data>
+  <data key="d3"></data>
+  <data key="d4">True</data>
+  <data key="d5">1</data>
+  <data key="d6">Vietnam</data>
+</node>
+<node id="AU_DAO_TN">
+  <data key="d0">Author</data>
+  <data key="d1">Đào Thị Ngoãn</data>
+  <data key="d2">Đào</data>
+  <data key="d3">Thị Ngoãn</data>
+  <data key="d4">True</data>
+  <data key="d5">1</data>
+  <data key="d6">Vietnam</data>
+</node>
+<node id="AU_THAI_TT">
+  <data key="d0">Author</data>
+  <data key="d1">Truc Thanh Thai</data>
+  <data key="d2">Thai</data>
+  <data key="d3">Truc Thanh</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6">Vietnam</data>
+</node>
+<node id="AU_DUONG_MC">
+  <data key="d0">Author</data>
+  <data key="d1">Minh Cuong Duong</data>
+  <data key="d2">Duong</data>
+  <data key="d3">Minh Cuong</data>
+  <data key="d4">False</data>
+  <data key="d5">1</data>
+  <data key="d6">Vietnam</data>
+</node>
+<node id="AU_KHONG_ĐLÂR">
+  <data key="d0">Author</data>
+  <data key="d1">không đo lo âu riêng</data>
+  <data key="d2">không</data>
+  <data key="d3">đo lo âu riêng</data>
+  <data key="d4">True</data>
+  <data key="d5">1</data>
+  <data key="d6">Vietnam</data>
+</node>
+<node id="AU_KHONG_RPTDTMBCCTVTN">
+  <data key="d0">Author</data>
+  <data key="d1">không randomized. PHẢI trích dẫn trong mọi báo cáo can thiệp VN từ nay</data>
+  <data key="d2">không</data>
+  <data key="d3">randomized. PHẢI trích dẫn trong mọi báo cáo can thiệp VN từ nay</data>
+  <data key="d4">True</data>
+  <data key="d5">1</data>
+  <data key="d6">Vietnam</data>
+</node>
+<node id="QT001">
+  <data key="d0">Paper</data>
+  <data key="d1">Jenkins_et_al_2023_USA</data>
+  <data key="d7">2023</data>
+  <data key="d8">11-bai-ban-dau-va-mo-rong</data>
+  <data key="d9">True</data>
+</node>
+<node id="QT002">
+  <data key="d0">Paper</data>
+  <data key="d1">Saikia_et_al_2023_India_Assam</data>
+  <data key="d7">India</data>
+  <data key="d8">11-bai-ban-dau-va-mo-rong</data>
+  <data key="d9">True</data>
+</node>
+<node id="QT003">
+  <data key="d0">Paper</data>
+  <data key="d1">Mandaknalli_Malusare_2021</data>
+  <data key="d7">Malusare</data>
+  <data key="d8"></data>
+  <data key="d9"></data>
+</node>
+<node id="QT004">
+  <data key="d0">Paper</data>
+  <data key="d1">NSCH_2020_USA</data>
+  <data key="d7">2020</data>
+  <data key="d8"></data>
+  <data key="d9"></data>
+</node>
+<node id="QT005">
+  <data key="d0">Paper</data>
+  <data key="d1">Alharbi_et_al_2019_SaudiArabia</data>
+  <data key="d7">2019</data>
+  <data key="d8"></data>
+  <data key="d9"></data>
+</node>
+<node id="QT006">
+  <data key="d0">Paper</data>
+  <data key="d1">Nakie_et_al_2022_Ethiopia</data>
+  <data key="d7">2022</data>
+  <data key="d8"></data>
+  <data key="d9"></data>
+</node>
+<node id="QT007">
+  <data key="d0">Paper</data>
+  <data key="d1">Chen_et_al_2023_China_BMCPsych</data>
+  <data key="d7">China</data>
+  <data key="d8"></data>
+  <data key="d9"></data>
+</node>
+<node id="QT008">
+  <data key="d0">Paper</data>
+  <data key="d1">Wen_et_al_2020_China_Rural</data>
+  <data key="d7">China</data>
+  <data key="d8">The-gioi_Khac</data>
+  <data key="d9">True</data>
+</node>
+<node id="QT009">
+  <data key="d0">Paper</data>
+  <data key="d1">Qiu_et_al_2022_China_Parenting</data>
+  <data key="d7">China</data>
+  <data key="d8"></data>
+  <data key="d9"></data>
+</node>
+<node id="QT010">
+  <data key="d0">Paper</data>
+  <data key="d1">Xu_et_al_2021_China_LargestEpi</data>
+  <data key="d7">China</data>
+  <data key="d8">11-bai-ban-dau-va-mo-rong</data>
+  <data key="d9">True</data>
+</node>
+<node id="QT011">
+  <data key="d0">Paper</data>
+  <data key="d1">Bhardwaj_et_al_2020_India_Chandigarh</data>
+  <data key="d7">India</data>
+  <data key="d8"></data>
+  <data key="d9"></data>
+</node>
+<node id="QT012">
+  <data key="d0">Paper</data>
+  <data key="d1">GBD_ASEAN_2025_Lancet</data>
+  <data key="d7">2025</data>
+  <data key="d8">Dong-Nam-A</data>
+  <data key="d9">True</data>
+</node>
+<node id="QT013">
+  <data key="d0">Paper</data>
+  <data key="d1">Zhameden_2025_PLOSONE_LMIC</data>
+  <data key="d7">PLOSONE</data>
+  <data key="d8">The-gioi_Au-My-Uc</data>
+  <data key="d9">True</data>
+</node>
+<node id="QT014">
+  <data key="d0">Paper</data>
+  <data key="d1">Anderson_2025_Wiley_Narrative</data>
+  <data key="d7">Wiley</data>
+  <data key="d8">The-gioi_Au-My-Uc</data>
+  <data key="d9">True</data>
+</node>
+<node id="QT015">
+  <data key="d0">Paper</data>
+  <data key="d1">Zhu_2025_BMC_China</data>
+  <data key="d7">BMC</data>
+  <data key="d8">The-gioi_Khac</data>
+  <data key="d9">True</data>
+</node>
+<node id="QT016">
+  <data key="d0">Paper</data>
+  <data key="d1">Mudunna_2025_LancetSEA_SouthAsia</data>
+  <data key="d7">LancetSEA</data>
+  <data key="d8">Dong-Nam-A</data>
+  <data key="d9">True</data>
+</node>
+<node id="QT017">
+  <data key="d0">Paper</data>
+  <data key="d1">Puyat_2025_Filipino_Youth</data>
+  <data key="d7">Filipino</data>
+  <data key="d8">Dong-Nam-A</data>
+  <data key="d9">True</data>
+</node>
+<node id="QT021">
+  <data key="d0">Paper</data>
+  <data key="d1">Norway_Brunborg_2025_SocSciMed</data>
+  <data key="d7">2025</data>
+  <data key="d8">The-gioi_Au-My-Uc</data>
+  <data key="d9">True</data>
+</node>
+<node id="QT022">
+  <data key="d0">Paper</data>
+  <data key="d1">ScreenTime_Li_2025_BJCP</data>
+  <data key="d7">2025</data>
+  <data key="d8">The-gioi_Au-My-Uc</data>
+  <data key="d9">True</data>
+</node>
+<node id="QT023">
+  <data key="d0">Paper</data>
+  <data key="d1">JAACAP_USA_Mojtabai_Trends_2024</data>
+  <data key="d7">Trends</data>
+  <data key="d8">The-gioi_Au-My-Uc</data>
+  <data key="d9">True</data>
+</node>
+<node id="QT024">
+  <data key="d0">Paper</data>
+  <data key="d1">WHO_Europe_2025_LancetRegional</data>
+  <data key="d7">2025</data>
+  <data key="d8">The-gioi_Au-My-Uc</data>
+  <data key="d9">True</data>
+</node>
+<node id="QT025">
+  <data key="d0">Paper</data>
+  <data key="d1">EpiPsychSci_Crisp_Australia_2025</data>
+  <data key="d7">Australia</data>
+  <data key="d8">The-gioi_Au-My-Uc</data>
+  <data key="d9">True</data>
+</node>
+<node id="QT026">
+  <data key="d0">Paper</data>
+  <data key="d1">UK_NHS_Parliament_2025</data>
+  <data key="d7">Parliament</data>
+  <data key="d8">The-gioi_Au-My-Uc</data>
+  <data key="d9">True</data>
+</node>
+<node id="QT027">
+  <data key="d0">Paper</data>
+  <data key="d1">NatureHumanBehav_Fassi_SocialMedia_2025</data>
+  <data key="d7">SocialMedia</data>
+  <data key="d8">The-gioi_Au-My-Uc</data>
+  <data key="d9">True</data>
+</node>
+<node id="QT028">
+  <data key="d0">Paper</data>
+  <data key="d1">AJP_Zugman_PediatricAnxiety_2024</data>
+  <data key="d7">PediatricAnxiety</data>
+  <data key="d8">The-gioi_Au-My-Uc</data>
+  <data key="d9">True</data>
+</node>
+<node id="QT029">
+  <data key="d0">Paper</data>
+  <data key="d1">BMC_Li_CBT_NMA_2025</data>
+  <data key="d7">NMA</data>
+  <data key="d8">The-gioi_Khac</data>
+  <data key="d9">True</data>
+</node>
+<node id="QT030">
+  <data key="d0">Paper</data>
+  <data key="d1">GBD_Trends_10-24y_2025</data>
+  <data key="d7">10-24y</data>
+  <data key="d8">The-gioi_Khac</data>
+  <data key="d9">True</data>
+</node>
+<node id="QT031">
+  <data key="d0">Paper</data>
+  <data key="d1">Islam_59Countries_2025</data>
+  <data key="d7">59Countries</data>
+  <data key="d8">The-gioi_Khac</data>
+  <data key="d9">True</data>
+</node>
+<node id="QT032">
+  <data key="d0">Paper</data>
+  <data key="d1">Ireland_Fitzgerald_MyWorld_2024</data>
+  <data key="d7">MyWorld</data>
+  <data key="d8">The-gioi_Au-My-Uc</data>
+  <data key="d9">True</data>
+</node>
+<node id="QT033">
+  <data key="d0">Paper</data>
+  <data key="d1">JAMA_SchmidtPersson_ScreenMedia_2024</data>
+  <data key="d7">ScreenMedia</data>
+  <data key="d8">The-gioi_Au-My-Uc</data>
+  <data key="d9">True</data>
+</node>
+<node id="QT034">
+  <data key="d0">Paper</data>
+  <data key="d1">Korea_Cho_MH_Trends_NatSciRep_2024</data>
+  <data key="d7">NatSciRep</data>
+  <data key="d8">The-gioi_Khac</data>
+  <data key="d9">True</data>
+</node>
+<node id="QT035">
+  <data key="d0">Paper</data>
+  <data key="d1">Jefferies_SocialAnxiety_7Countries_2020</data>
+  <data key="d7">7Countries</data>
+  <data key="d8">The-gioi_Au-My-Uc</data>
+  <data key="d9">True</data>
+</node>
+<node id="QT036">
+  <data key="d0">Paper</data>
+  <data key="d1">Moon_Korea_GAD_ML_2025</data>
+  <data key="d7">ML</data>
+  <data key="d8">The-gioi_Khac</data>
+  <data key="d9">True</data>
+</node>
+<node id="QT037">
+  <data key="d0">Paper</data>
+  <data key="d1">Praptomojati_CA-CBT_SEA_AJP_2024</data>
+  <data key="d7">AJP</data>
+  <data key="d8"></data>
+  <data key="d9"></data>
+</node>
+<node id="QT038">
+  <data key="d0">Paper</data>
+  <data key="d1">DeSilva_SriLanka_RCT_2024</data>
+  <data key="d7">RCT</data>
+  <data key="d8">The-gioi_Khac</data>
+  <data key="d9">True</data>
+</node>
+<node id="QT039">
+  <data key="d0">Paper</data>
+  <data key="d1">Xian_NMA_SAD_JAD_2024</data>
+  <data key="d7">JAD</data>
+  <data key="d8">The-gioi_Khac</data>
+  <data key="d9">True</data>
+</node>
+<node id="QT040">
+  <data key="d0">Paper</data>
+  <data key="d1">Walder_JMIR_DMHI_SAD_2025</data>
+  <data key="d7">SAD</data>
+  <data key="d8">The-gioi_Au-My-Uc</data>
+  <data key="d9">True</data>
+</node>
+<node id="QT041">
+  <data key="d0">Paper</data>
+  <data key="d1">Zheng_China_MXH_PRBM_2025</data>
+  <data key="d7">PRBM</data>
+  <data key="d8">The-gioi_Khac</data>
+  <data key="d9">True</data>
+</node>
+<node id="QT042">
+  <data key="d0">Paper</data>
+  <data key="d1">BrownCarter_UK_School_JMH_2025</data>
+  <data key="d7">JMH</data>
+  <data key="d8">The-gioi_Au-My-Uc</data>
+  <data key="d9">True</data>
+</node>
+<node id="QT043">
+  <data key="d0">Paper</data>
+  <data key="d1">Bress_JAMA_Maya_App_2024</data>
+  <data key="d7">App</data>
+  <data key="d8">The-gioi_Au-My-Uc</data>
+  <data key="d9">True</data>
+</node>
+<node id="QT044">
+  <data key="d0">Paper</data>
+  <data key="d1">Cai_Resilience_Frontiers_2025</data>
+  <data key="d7">Frontiers</data>
+  <data key="d8">The-gioi_Khac</data>
+  <data key="d9">True</data>
+</node>
+<node id="QT045">
+  <data key="d0">Paper</data>
+  <data key="d1">Matsumoto_Japan_iCBT_JMIR_2024</data>
+  <data key="d7">JMIR</data>
+  <data key="d8">The-gioi_Khac</data>
+  <data key="d9">True</data>
+</node>
+<node id="QT046">
+  <data key="d0">Paper</data>
+  <data key="d1">Jagiello_AcademicStress_SR_2025</data>
+  <data key="d7">SR</data>
+  <data key="d8">The-gioi_Au-My-Uc</data>
+  <data key="d9">True</data>
+</node>
+<node id="QT047">
+  <data key="d0">Paper</data>
+  <data key="d1">Dong_PLOS_DASS_YaAn_2025</data>
+  <data key="d7">YaAn</data>
+  <data key="d8">The-gioi_Khac</data>
+  <data key="d9">True</data>
+</node>
+<node id="QT048">
+  <data key="d0">Paper</data>
+  <data key="d1">Chen_COVID_Meta141_JAD_2025_ABSTRACT</data>
+  <data key="d7">2025</data>
+  <data key="d8"></data>
+  <data key="d9"></data>
+</node>
+<node id="QT049">
+  <data key="d0">Paper</data>
+  <data key="d1">Zhang_Bayesian_CBT_JCP_2026_ABSTRACT</data>
+  <data key="d7">2026</data>
+  <data key="d8"></data>
+  <data key="d9"></data>
+</node>
+<node id="QT050">
+  <data key="d0">Paper</data>
+  <data key="d1">Qiaochu_MobileCBT_CPP_2025_ABSTRACT</data>
+  <data key="d7">2025</data>
+  <data key="d8"></data>
+  <data key="d9"></data>
+</node>
+<node id="QT051">
+  <data key="d0">Paper</data>
+  <data key="d1">Menon_LMIC_SEA_Pacific_APJPH_2025_ABSTRACT</data>
+  <data key="d7">2025</data>
+  <data key="d8"></data>
+  <data key="d9"></data>
+</node>
+<node id="VN001">
+  <data key="d0">Paper</data>
+  <data key="d1">Hoa_2024_Frontiers_HaNoi</data>
+  <data key="d7">Frontiers</data>
+  <data key="d8">Viet-Nam</data>
+  <data key="d9">True</data>
+</node>
+<node id="VN002">
+  <data key="d0">Paper</data>
+  <data key="d1">VNAMHS_2022_National</data>
+  <data key="d7">2022</data>
+  <data key="d8">Viet-Nam</data>
+  <data key="d9">True</data>
+</node>
+<node id="VN003">
+  <data key="d0">Paper</data>
+  <data key="d1">Pham_2024_Hue_SocialSupport</data>
+  <data key="d7">Hue</data>
+  <data key="d8">Viet-Nam</data>
+  <data key="d9">True</data>
+</node>
+<node id="VN014">
+  <data key="d0">Paper</data>
+  <data key="d1">HoangTrungHoc_2025_VN_COVID</data>
+  <data key="d7">VN</data>
+  <data key="d8">Viet-Nam</data>
+  <data key="d9">True</data>
+</node>
+<node id="VN015">
+  <data key="d0">Paper</data>
+  <data key="d1">NgoAnhVinh_2024_LangSon_DTTS</data>
+  <data key="d7">LangSon</data>
+  <data key="d8">Viet-Nam</data>
+  <data key="d9">True</data>
+</node>
+<node id="VN016">
+  <data key="d0">Paper</data>
+  <data key="d1">BaoQuyen_2025_YHCD</data>
+  <data key="d7">2025</data>
+  <data key="d8">Viet-Nam</data>
+  <data key="d9">True</data>
+</node>
+<node id="VN017">
+  <data key="d0">Paper</data>
+  <data key="d1">NguyenDanhLam_2022_YHVN</data>
+  <data key="d7">2022</data>
+  <data key="d8">Viet-Nam</data>
+  <data key="d9">True</data>
+</node>
+<node id="VN018">
+  <data key="d0">Paper</data>
+  <data key="d1">AnGiang_2025_YHVN</data>
+  <data key="d7">2025</data>
+  <data key="d8">Viet-Nam</data>
+  <data key="d9">True</data>
+</node>
+<node id="VN019">
+  <data key="d0">Paper</data>
+  <data key="d1">HoThiTrucQuynh_2025_Hue_TLH</data>
+  <data key="d7">Hue</data>
+  <data key="d8">Viet-Nam</data>
+  <data key="d9">True</data>
+</node>
+<node id="VN020">
+  <data key="d0">Paper</data>
+  <data key="d1">TranHoVinhLoc_2024_TPHCM_DASS-Y</data>
+  <data key="d7">TPHCM</data>
+  <data key="d8">Viet-Nam</data>
+  <data key="d9">True</data>
+</node>
+<node id="VN021">
+  <data key="d0">Paper</data>
+  <data key="d1">TranThaoVi_2024_JRuralMed_Hue</data>
+  <data key="d7">JRuralMed</data>
+  <data key="d8">Viet-Nam</data>
+  <data key="d9">True</data>
+</node>
+<node id="VN022">
+  <data key="d0">Paper</data>
+  <data key="d1">UNICEF_VN_2022_SchoolFactors</data>
+  <data key="d7">2022</data>
+  <data key="d8">Viet-Nam</data>
+  <data key="d9">True</data>
+</node>
+<node id="VN023">
+  <data key="d0">Paper</data>
+  <data key="d1">NguyenLX_VN_COVID_Medicine_2023</data>
+  <data key="d7">Medicine</data>
+  <data key="d8">Viet-Nam</data>
+  <data key="d9">True</data>
+</node>
+<node id="VN024">
+  <data key="d0">Paper</data>
+  <data key="d1">NguyenThanhTruyen_VinhLong_YHVN_2024</data>
+  <data key="d7">YHVN</data>
+  <data key="d8">Viet-Nam</data>
+  <data key="d9">True</data>
+</node>
+<node id="VN025">
+  <data key="d0">Paper</data>
+  <data key="d1">PhamThiNgoc_HaiPhong_VinhBao_2024</data>
+  <data key="d7">VinhBao</data>
+  <data key="d8">Viet-Nam</data>
+  <data key="d9">True</data>
+</node>
+<node id="VN026">
+  <data key="d0">Paper</data>
+  <data key="d1">TranDucSi_LongAn_PNT_2025</data>
+  <data key="d7">PNT</data>
+  <data key="d8">Viet-Nam</data>
+  <data key="d9">True</data>
+</node>
+<node id="VN027">
+  <data key="d0">Paper</data>
+  <data key="d1">Dinh_SchoolFactors_VN_2021</data>
+  <data key="d7">VN</data>
+  <data key="d8">Viet-Nam</data>
+  <data key="d9">True</data>
+</node>
+<node id="VN028">
+  <data key="d0">Paper</data>
+  <data key="d1">DaoThiNgoan_TCNCYH_SVY4_HMU_2025</data>
+  <data key="d7">HMU</data>
+  <data key="d8">Viet-Nam</data>
+  <data key="d9">True</data>
+</node>
+<node id="VN029">
+  <data key="d0">Paper</data>
+  <data key="d1">Duong_SocPsychiatry_2631HS_TPHCM_2025</data>
+  <data key="d7">TPHCM</data>
+  <data key="d8">Viet-Nam</data>
+  <data key="d9">True</data>
+</node>
+<node id="VN030">
+  <data key="d0">Paper</data>
+  <data key="d1">Tran_HappyHouse_Cambridge_2023</data>
+  <data key="d7">Cambridge</data>
+  <data key="d8"></data>
+  <data key="d9"></data>
+</node>
+<node id="COUNTRY_USA">
+  <data key="d0">Country</data>
+  <data key="d1">USA</data>
+</node>
+<node id="COUNTRY_PHILIPPINES">
+  <data key="d0">Country</data>
+  <data key="d1">Philippines</data>
+</node>
+<node id="COUNTRY_ETHIOPIA">
+  <data key="d0">Country</data>
+  <data key="d1">Ethiopia</data>
+</node>
+<node id="COUNTRY_SAUDI_ARABIA">
+  <data key="d0">Country</data>
+  <data key="d1">Saudi Arabia</data>
+</node>
+<node id="COUNTRY_UK">
+  <data key="d0">Country</data>
+  <data key="d1">UK</data>
+</node>
+<node id="COUNTRY_IRELAND">
+  <data key="d0">Country</data>
+  <data key="d1">Ireland</data>
+</node>
+<node id="COUNTRY_VIETNAM">
+  <data key="d0">Country</data>
+  <data key="d1">Vietnam</data>
+</node>
+<node id="COUNTRY_CHINA">
+  <data key="d0">Country</data>
+  <data key="d1">China</data>
+</node>
+<node id="COUNTRY_KOREA">
+  <data key="d0">Country</data>
+  <data key="d1">Korea</data>
+</node>
+<node id="COUNTRY_AUSTRALIA">
+  <data key="d0">Country</data>
+  <data key="d1">Australia</data>
+</node>
+<node id="COUNTRY_NORWAY">
+  <data key="d0">Country</data>
+  <data key="d1">Norway</data>
+</node>
+<node id="COUNTRY_INDIA">
+  <data key="d0">Country</data>
+  <data key="d1">India</data>
+</node>
+<node id="COUNTRY_SRI_LANKA">
+  <data key="d0">Country</data>
+  <data key="d1">Sri Lanka</data>
+</node>
+<node id="TOP_ANXIETY">
+  <data key="d0">Topic</data>
+  <data key="d1">Anxiety</data>
+</node>
+<node id="TOP_DEPRESSION">
+  <data key="d0">Topic</data>
+  <data key="d1">Depression</data>
+</node>
+<node id="TOP_CBT">
+  <data key="d0">Topic</data>
+  <data key="d1">Cbt</data>
+</node>
+<node id="TOP_MHPSS">
+  <data key="d0">Topic</data>
+  <data key="d1">Mhpss</data>
+</node>
+<node id="TOP_ADOLESCENT">
+  <data key="d0">Topic</data>
+  <data key="d1">Adolescent</data>
+</node>
+<node id="TOP_COVID">
+  <data key="d0">Topic</data>
+  <data key="d1">Covid</data>
+</node>
+<node id="TOP_DIGITAL">
+  <data key="d0">Topic</data>
+  <data key="d1">Digital</data>
+</node>
+<node id="TOP_RESILIENCE">
+  <data key="d0">Topic</data>
+  <data key="d1">Resilience</data>
+</node>
+<node id="TOP_BULLYING">
+  <data key="d0">Topic</data>
+  <data key="d1">Bullying</data>
+</node>
+<node id="TOP_SUICIDE">
+  <data key="d0">Topic</data>
+  <data key="d1">Suicide</data>
+</node>
+<node id="TOP_SCHOOL_INTERVENTION">
+  <data key="d0">Topic</data>
+  <data key="d1">School_Intervention</data>
+</node>
+<node id="TOP_PREVALENCE">
+  <data key="d0">Topic</data>
+  <data key="d1">Prevalence</data>
+</node>
+<node id="TOP_GENDER">
+  <data key="d0">Topic</data>
+  <data key="d1">Gender</data>
+</node>
+<node id="TOP_VN">
+  <data key="d0">Topic</data>
+  <data key="d1">Vn</data>
+</node>
+<node id="TOP_LMIC">
+  <data key="d0">Topic</data>
+  <data key="d1">Lmic</data>
+</node>
+<edge source="AU_JENKINS_JH" target="AU_SANCHEZ_G" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT001</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_JENKINS_JH" target="AU_MILLER_EA" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT001</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_JENKINS_JH" target="AU_ALLANDE_NIS" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT001</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_JENKINS_JH" target="AU_URANO_G" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT001</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_JENKINS_JH" target="AU_PR_AJ" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT001</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_JENKINS_JH" target="COUNTRY_USA" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_SANCHEZ_G" target="AU_JENKINS_JH" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT001</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_SANCHEZ_G" target="AU_MILLER_EA" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT001</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_SANCHEZ_G" target="AU_ALLANDE_NIS" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT001</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_SANCHEZ_G" target="AU_URANO_G" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT001</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_SANCHEZ_G" target="AU_PR_AJ" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT001</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_SANCHEZ_G" target="COUNTRY_USA" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_MILLER_EA" target="AU_JENKINS_JH" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT001</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_MILLER_EA" target="AU_SANCHEZ_G" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT001</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_MILLER_EA" target="AU_ALLANDE_NIS" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT001</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_MILLER_EA" target="AU_URANO_G" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT001</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_MILLER_EA" target="AU_PR_AJ" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT001</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_MILLER_EA" target="COUNTRY_USA" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_ALLANDE_NIS" target="AU_JENKINS_JH" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT001</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_ALLANDE_NIS" target="AU_SANCHEZ_G" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT001</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_ALLANDE_NIS" target="AU_MILLER_EA" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT001</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_ALLANDE_NIS" target="AU_URANO_G" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT001</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_ALLANDE_NIS" target="AU_PR_AJ" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT001</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_ALLANDE_NIS" target="COUNTRY_USA" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_URANO_G" target="AU_JENKINS_JH" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT001</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_URANO_G" target="AU_SANCHEZ_G" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT001</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_URANO_G" target="AU_MILLER_EA" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT001</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_URANO_G" target="AU_ALLANDE_NIS" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT001</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_URANO_G" target="AU_PR_AJ" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT001</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_URANO_G" target="COUNTRY_USA" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_PR_AJ" target="AU_JENKINS_JH" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT001</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_PR_AJ" target="AU_SANCHEZ_G" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT001</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_PR_AJ" target="AU_MILLER_EA" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT001</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_PR_AJ" target="AU_ALLANDE_NIS" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT001</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_PR_AJ" target="AU_URANO_G" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT001</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_PR_AJ" target="COUNTRY_USA" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_MANDAKNALLI_R" target="AU_MALUSARE_R" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT003</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_MALUSARE_R" target="AU_MANDAKNALLI_R" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT003</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_JENKINS_X" target="COUNTRY_USA" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_ALHARBI_R" target="AU_ALSUHAIBANI_K" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT005</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_ALHARBI_R" target="AU_ALMARSHAD_A" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT005</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_ALHARBI_R" target="AU_ALYAHYA_A" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT005</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_ALHARBI_R" target="COUNTRY_SAUDI_ARABIA" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_ALSUHAIBANI_K" target="AU_ALHARBI_R" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT005</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_ALSUHAIBANI_K" target="AU_ALMARSHAD_A" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT005</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_ALSUHAIBANI_K" target="AU_ALYAHYA_A" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT005</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_ALSUHAIBANI_K" target="COUNTRY_SAUDI_ARABIA" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_ALMARSHAD_A" target="AU_ALHARBI_R" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT005</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_ALMARSHAD_A" target="AU_ALSUHAIBANI_K" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT005</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_ALMARSHAD_A" target="AU_ALYAHYA_A" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT005</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_ALMARSHAD_A" target="COUNTRY_SAUDI_ARABIA" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_ALYAHYA_A" target="AU_ALHARBI_R" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT005</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_ALYAHYA_A" target="AU_ALSUHAIBANI_K" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT005</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_ALYAHYA_A" target="AU_ALMARSHAD_A" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT005</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_ALYAHYA_A" target="COUNTRY_SAUDI_ARABIA" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_NAKIE_G" target="AU_SEGON_T" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT006</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NAKIE_G" target="AU_MELKAM_M" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT006</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NAKIE_G" target="AU_DESALEGN_GT" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT006</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NAKIE_G" target="AU_ZELEKE_TA" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT006</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NAKIE_G" target="COUNTRY_ETHIOPIA" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_SEGON_T" target="AU_NAKIE_G" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT006</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_SEGON_T" target="AU_MELKAM_M" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT006</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_SEGON_T" target="AU_DESALEGN_GT" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT006</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_SEGON_T" target="AU_ZELEKE_TA" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT006</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_SEGON_T" target="COUNTRY_ETHIOPIA" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_MELKAM_M" target="AU_NAKIE_G" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT006</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_MELKAM_M" target="AU_SEGON_T" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT006</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_MELKAM_M" target="AU_DESALEGN_GT" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT006</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_MELKAM_M" target="AU_ZELEKE_TA" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT006</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_MELKAM_M" target="COUNTRY_ETHIOPIA" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_DESALEGN_GT" target="AU_NAKIE_G" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT006</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_DESALEGN_GT" target="AU_SEGON_T" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT006</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_DESALEGN_GT" target="AU_MELKAM_M" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT006</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_DESALEGN_GT" target="AU_ZELEKE_TA" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT006</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_DESALEGN_GT" target="COUNTRY_ETHIOPIA" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_ZELEKE_TA" target="AU_NAKIE_G" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT006</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_ZELEKE_TA" target="AU_SEGON_T" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT006</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_ZELEKE_TA" target="AU_MELKAM_M" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT006</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_ZELEKE_TA" target="AU_DESALEGN_GT" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT006</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_ZELEKE_TA" target="COUNTRY_ETHIOPIA" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_CHEN_Z" target="AU_REN_S" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT007</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_CHEN_Z" target="AU_HE_R" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT007</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_CHEN_Z" target="COUNTRY_CHINA" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_REN_S" target="AU_CHEN_Z" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT007</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_REN_S" target="AU_HE_R" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT007</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_REN_S" target="COUNTRY_CHINA" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_HE_R" target="AU_CHEN_Z" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT007</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_HE_R" target="AU_REN_S" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT007</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_HE_R" target="COUNTRY_CHINA" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_WEN_X" target="COUNTRY_CHINA" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_QIU_Z" target="AU_GUO_Y" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT009</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_QIU_Z" target="AU_WANG_J" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT009</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_QIU_Z" target="AU_ZHANG_H" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT009</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_QIU_Z" target="COUNTRY_CHINA" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_GUO_Y" target="AU_QIU_Z" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT009</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_GUO_Y" target="AU_WANG_J" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT009</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_GUO_Y" target="AU_ZHANG_H" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT009</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_GUO_Y" target="COUNTRY_CHINA" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_WANG_J" target="AU_QIU_Z" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT009</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_WANG_J" target="AU_GUO_Y" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT009</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_WANG_J" target="AU_ZHANG_H" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT009</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_WANG_J" target="COUNTRY_CHINA" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_ZHANG_H" target="AU_QIU_Z" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT009</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_ZHANG_H" target="AU_GUO_Y" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT009</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_ZHANG_H" target="AU_WANG_J" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT009</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_ZHANG_H" target="COUNTRY_CHINA" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_XU_Q" target="COUNTRY_CHINA" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_BHARDWAJ_R" target="COUNTRY_INDIA" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU__GAC" target="AU_DANG_TTLPHV" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT012</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_DANG_TTLPHV" target="AU__GAC" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT012</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_SZD_Y" target="AU_MK_L" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT013</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_SZD_Y" target="AU_MP_M" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT013</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_SZD_Y" target="TOP_LMIC" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_MK_L" target="AU_SZD_Y" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT013</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_MK_L" target="AU_MP_M" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT013</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_MK_L" target="TOP_LMIC" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_MP_M" target="AU_SZD_Y" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT013</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_MP_M" target="AU_MK_L" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT013</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_MP_M" target="TOP_LMIC" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_ZHU_X" target="COUNTRY_CHINA" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_PUYAT_X" target="COUNTRY_PHILIPPINES" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_PUYAT_X" target="TOP_ADOLESCENT" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_BRUNBORG_GS" target="AU_NILSEN_SA" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT021</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_BRUNBORG_GS" target="AU_SKOGEN_JC" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT021</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_BRUNBORG_GS" target="AU_BANG_L" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT021</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_BRUNBORG_GS" target="COUNTRY_NORWAY" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_NILSEN_SA" target="AU_BRUNBORG_GS" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT021</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NILSEN_SA" target="AU_SKOGEN_JC" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT021</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NILSEN_SA" target="AU_BANG_L" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT021</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NILSEN_SA" target="COUNTRY_NORWAY" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_SKOGEN_JC" target="AU_BRUNBORG_GS" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT021</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_SKOGEN_JC" target="AU_NILSEN_SA" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT021</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_SKOGEN_JC" target="AU_BANG_L" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT021</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_SKOGEN_JC" target="COUNTRY_NORWAY" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_BANG_L" target="AU_BRUNBORG_GS" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT021</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_BANG_L" target="AU_NILSEN_SA" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT021</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_BANG_L" target="AU_SKOGEN_JC" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT021</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_BANG_L" target="COUNTRY_NORWAY" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_MOJTABAI_R" target="AU_OLFSON_M" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT023</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_MOJTABAI_R" target="COUNTRY_USA" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_OLFSON_M" target="AU_MOJTABAI_R" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT023</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_OLFSON_M" target="COUNTRY_USA" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_CRISP_D" target="AU_RICKWOOD_D" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT025</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_CRISP_D" target="AU_BURNS_R" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT025</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_CRISP_D" target="AU_BARIOLA_E" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT025</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_CRISP_D" target="COUNTRY_AUSTRALIA" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_CRISP_D" target="TOP_ADOLESCENT" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_RICKWOOD_D" target="AU_CRISP_D" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT025</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_RICKWOOD_D" target="AU_BURNS_R" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT025</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_RICKWOOD_D" target="AU_BARIOLA_E" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT025</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_RICKWOOD_D" target="COUNTRY_AUSTRALIA" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_RICKWOOD_D" target="TOP_ADOLESCENT" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_BURNS_R" target="AU_CRISP_D" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT025</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_BURNS_R" target="AU_RICKWOOD_D" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT025</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_BURNS_R" target="AU_BARIOLA_E" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT025</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_BURNS_R" target="COUNTRY_AUSTRALIA" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_BURNS_R" target="TOP_ADOLESCENT" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_BARIOLA_E" target="AU_CRISP_D" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT025</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_BARIOLA_E" target="AU_RICKWOOD_D" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT025</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_BARIOLA_E" target="AU_BURNS_R" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT025</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_BARIOLA_E" target="COUNTRY_AUSTRALIA" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_BARIOLA_E" target="TOP_ADOLESCENT" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_BAKER_C" target="AU_LIBRARY_HOC" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT026</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_BAKER_C" target="AU_PARLIAMENT_U" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT026</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_BAKER_C" target="COUNTRY_UK" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_BAKER_C" target="TOP_ADOLESCENT" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_LIBRARY_HOC" target="AU_BAKER_C" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT026</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_LIBRARY_HOC" target="AU_PARLIAMENT_U" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT026</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_LIBRARY_HOC" target="COUNTRY_UK" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_LIBRARY_HOC" target="TOP_ADOLESCENT" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_PARLIAMENT_U" target="AU_BAKER_C" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT026</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_PARLIAMENT_U" target="AU_LIBRARY_HOC" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT026</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_PARLIAMENT_U" target="COUNTRY_UK" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_PARLIAMENT_U" target="TOP_ADOLESCENT" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_OR_YIUINPBSR" target="TOP_CBT" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_DONGJUN_Z" target="AU_MINGYUE_W" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT030</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_MINGYUE_W" target="AU_DONGJUN_Z" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT030</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_PSYCHOLOGY_SO" target="AU_DUBLIN_X" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT032</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_PSYCHOLOGY_SO" target="AU_IRELAND_X" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT032</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_PSYCHOLOGY_SO" target="COUNTRY_IRELAND" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_DUBLIN_X" target="AU_PSYCHOLOGY_SO" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT032</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_DUBLIN_X" target="AU_IRELAND_X" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT032</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_DUBLIN_X" target="COUNTRY_IRELAND" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_IRELAND_X" target="AU_PSYCHOLOGY_SO" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT032</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_IRELAND_X" target="AU_DUBLIN_X" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT032</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_IRELAND_X" target="COUNTRY_IRELAND" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_SCHMIDTPERSSON_J" target="AU_RASMUSSEN_MGB" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT033</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_SCHMIDTPERSSON_J" target="AU_SRENSEN_SO" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT033</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_SCHMIDTPERSSON_J" target="AU_MORTENSEN_SR" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT033</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_SCHMIDTPERSSON_J" target="AU_OLESEN_LG" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT033</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_RASMUSSEN_MGB" target="AU_SCHMIDTPERSSON_J" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT033</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_RASMUSSEN_MGB" target="AU_SRENSEN_SO" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT033</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_RASMUSSEN_MGB" target="AU_MORTENSEN_SR" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT033</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_RASMUSSEN_MGB" target="AU_OLESEN_LG" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT033</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_SRENSEN_SO" target="AU_SCHMIDTPERSSON_J" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT033</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_SRENSEN_SO" target="AU_RASMUSSEN_MGB" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT033</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_SRENSEN_SO" target="AU_MORTENSEN_SR" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT033</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_SRENSEN_SO" target="AU_OLESEN_LG" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT033</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_MORTENSEN_SR" target="AU_SCHMIDTPERSSON_J" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT033</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_MORTENSEN_SR" target="AU_RASMUSSEN_MGB" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT033</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_MORTENSEN_SR" target="AU_SRENSEN_SO" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT033</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_MORTENSEN_SR" target="AU_OLESEN_LG" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT033</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_OLESEN_LG" target="AU_SCHMIDTPERSSON_J" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT033</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_OLESEN_LG" target="AU_RASMUSSEN_MGB" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT033</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_OLESEN_LG" target="AU_SRENSEN_SO" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT033</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_OLESEN_LG" target="AU_MORTENSEN_SR" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT033</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_JEFFERIES_P" target="AU_UNGAR_M" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT035</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_JEFFERIES_P" target="TOP_ANXIETY" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_UNGAR_M" target="AU_JEFFERIES_P" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT035</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_UNGAR_M" target="TOP_ANXIETY" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_MOON_Y" target="AU_WOO_H" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT036</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_MOON_Y" target="COUNTRY_KOREA" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_MOON_Y" target="TOP_ANXIETY" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_WOO_H" target="AU_MOON_Y" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT036</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_WOO_H" target="COUNTRY_KOREA" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_WOO_H" target="TOP_ANXIETY" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_INCLUDED_UIOIACLTTMIMIN" target="COUNTRY_SRI_LANKA" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_XIAN_J" target="AU_ZHANG_Y" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT039</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_XIAN_J" target="AU_JIANG_B" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT039</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_XIAN_J" target="TOP_ANXIETY" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_ZHANG_Y" target="AU_XIAN_J" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT039</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_ZHANG_Y" target="AU_JIANG_B" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT039</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_ZHANG_Y" target="TOP_ANXIETY" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_JIANG_B" target="AU_XIAN_J" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT039</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_JIANG_B" target="AU_ZHANG_Y" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT039</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_JIANG_B" target="TOP_ANXIETY" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_DOC_LSL" target="AU_TRICH_X" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT040</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_DOC_LSL" target="AU_DANH_GTLRMSDHGPTPTNTVK" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT040</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_DOC_LSL" target="AU_THIET_KVTQ" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT040</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_DOC_LSL" target="AU_CO_HDNVTH" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT040</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_DOC_LSL" target="AU_DOI_CVK" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT040</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_DOC_LSL" target="TOP_ANXIETY" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_DOC_LSL" target="TOP_DIGITAL" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_TRICH_X" target="AU_DOC_LSL" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT040</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_TRICH_X" target="AU_DANH_GTLRMSDHGPTPTNTVK" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT040</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_TRICH_X" target="AU_THIET_KVTQ" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT040</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_TRICH_X" target="AU_CO_HDNVTH" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT040</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_TRICH_X" target="AU_DOI_CVK" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT040</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_TRICH_X" target="TOP_ANXIETY" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_TRICH_X" target="TOP_DIGITAL" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_DANH_GTLRMSDHGPTPTNTVK" target="AU_DOC_LSL" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT040</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_DANH_GTLRMSDHGPTPTNTVK" target="AU_TRICH_X" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT040</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_DANH_GTLRMSDHGPTPTNTVK" target="AU_THIET_KVTQ" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT040</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_DANH_GTLRMSDHGPTPTNTVK" target="AU_CO_HDNVTH" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT040</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_DANH_GTLRMSDHGPTPTNTVK" target="AU_DOI_CVK" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT040</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_DANH_GTLRMSDHGPTPTNTVK" target="TOP_ANXIETY" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_DANH_GTLRMSDHGPTPTNTVK" target="TOP_DIGITAL" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_THIET_KVTQ" target="AU_DOC_LSL" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT040</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_THIET_KVTQ" target="AU_TRICH_X" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT040</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_THIET_KVTQ" target="AU_DANH_GTLRMSDHGPTPTNTVK" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT040</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_THIET_KVTQ" target="AU_CO_HDNVTH" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT040</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_THIET_KVTQ" target="AU_DOI_CVK" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT040</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_THIET_KVTQ" target="TOP_ANXIETY" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_THIET_KVTQ" target="TOP_DIGITAL" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_CO_HDNVTH" target="AU_DOC_LSL" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT040</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_CO_HDNVTH" target="AU_TRICH_X" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT040</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_CO_HDNVTH" target="AU_DANH_GTLRMSDHGPTPTNTVK" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT040</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_CO_HDNVTH" target="AU_THIET_KVTQ" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT040</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_CO_HDNVTH" target="AU_DOI_CVK" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT040</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_CO_HDNVTH" target="TOP_ANXIETY" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_CO_HDNVTH" target="TOP_DIGITAL" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_DOI_CVK" target="AU_DOC_LSL" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT040</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_DOI_CVK" target="AU_TRICH_X" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT040</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_DOI_CVK" target="AU_DANH_GTLRMSDHGPTPTNTVK" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT040</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_DOI_CVK" target="AU_THIET_KVTQ" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT040</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_DOI_CVK" target="AU_CO_HDNVTH" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT040</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_DOI_CVK" target="TOP_ANXIETY" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_DOI_CVK" target="TOP_DIGITAL" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_ADDICTION_TEOSM" target="AU_ACADEMIC_X" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT041</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_ADDICTION_TEOSM" target="COUNTRY_CHINA" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_ACADEMIC_X" target="AU_ADDICTION_TEOSM" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT041</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_ACADEMIC_X" target="COUNTRY_CHINA" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_BRESS_JN" target="AU_FALK_A" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT043</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_BRESS_JN" target="AU_SCHIER_MM" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT043</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_BRESS_JN" target="AU_JAYWANT_A" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT043</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_BRESS_JN" target="AU_MORONEY_E" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT043</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_BRESS_JN" target="AU_DARGIS_M" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT043</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_BRESS_JN" target="TOP_CBT" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_BRESS_JN" target="TOP_DIGITAL" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_FALK_A" target="AU_BRESS_JN" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT043</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_FALK_A" target="AU_SCHIER_MM" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT043</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_FALK_A" target="AU_JAYWANT_A" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT043</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_FALK_A" target="AU_MORONEY_E" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT043</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_FALK_A" target="AU_DARGIS_M" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT043</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_FALK_A" target="TOP_CBT" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_FALK_A" target="TOP_DIGITAL" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_SCHIER_MM" target="AU_BRESS_JN" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT043</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_SCHIER_MM" target="AU_FALK_A" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT043</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_SCHIER_MM" target="AU_JAYWANT_A" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT043</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_SCHIER_MM" target="AU_MORONEY_E" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT043</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_SCHIER_MM" target="AU_DARGIS_M" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT043</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_SCHIER_MM" target="TOP_CBT" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_SCHIER_MM" target="TOP_DIGITAL" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_JAYWANT_A" target="AU_BRESS_JN" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT043</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_JAYWANT_A" target="AU_FALK_A" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT043</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_JAYWANT_A" target="AU_SCHIER_MM" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT043</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_JAYWANT_A" target="AU_MORONEY_E" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT043</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_JAYWANT_A" target="AU_DARGIS_M" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT043</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_JAYWANT_A" target="TOP_CBT" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_JAYWANT_A" target="TOP_DIGITAL" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_MORONEY_E" target="AU_BRESS_JN" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT043</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_MORONEY_E" target="AU_FALK_A" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT043</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_MORONEY_E" target="AU_SCHIER_MM" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT043</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_MORONEY_E" target="AU_JAYWANT_A" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT043</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_MORONEY_E" target="AU_DARGIS_M" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT043</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_MORONEY_E" target="TOP_CBT" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_MORONEY_E" target="TOP_DIGITAL" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_DARGIS_M" target="AU_BRESS_JN" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT043</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_DARGIS_M" target="AU_FALK_A" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT043</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_DARGIS_M" target="AU_SCHIER_MM" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT043</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_DARGIS_M" target="AU_JAYWANT_A" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT043</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_DARGIS_M" target="AU_MORONEY_E" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT043</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_DARGIS_M" target="TOP_CBT" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_DARGIS_M" target="TOP_DIGITAL" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_CHINH_CCTQHT" target="TOP_RESILIENCE" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_PSYCHIATRY_C" target="AU__HD" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT046</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU__HD" target="AU_PSYCHIATRY_C" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">QT046</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_CHAT_LBCNRTKPHNCĐVCĐHTTKRRTTĐN" target="TOP_CBT" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_HOA_PT" target="AU_DO_TT" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN001</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_HOA_PT" target="AU_NGUYEN_TL" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN001</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_HOA_PT" target="AU_NGO_AV" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN001</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_HOA_PT" target="COUNTRY_VIETNAM" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_HOA_PT" target="TOP_VN" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_DO_TT" target="AU_HOA_PT" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN001</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_DO_TT" target="AU_NGUYEN_TL" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN001</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_DO_TT" target="AU_NGO_AV" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN001</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_DO_TT" target="COUNTRY_VIETNAM" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_DO_TT" target="TOP_VN" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_NGUYEN_TL" target="AU_HOA_PT" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN001</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NGUYEN_TL" target="AU_DO_TT" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN001</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NGUYEN_TL" target="AU_NGO_AV" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN001</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NGUYEN_TL" target="COUNTRY_VIETNAM" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_NGUYEN_TL" target="TOP_VN" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_NGO_AV" target="AU_HOA_PT" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN001</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NGO_AV" target="AU_DO_TT" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN001</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NGO_AV" target="AU_NGUYEN_TL" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN001</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NGO_AV" target="AU_VU_TMH" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN015</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NGO_AV" target="AU_DO_TBV" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN015</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NGO_AV" target="AU_DUONG_AT" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN015</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NGO_AV" target="AU_DO_ML" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN015</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NGO_AV" target="AU_LE_TTT" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN015</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NGO_AV" target="COUNTRY_VIETNAM" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_NGO_AV" target="TOP_VN" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_VU_ML" target="AU_NGUYEN_ĐVXHH" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN002</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_VU_ML" target="AU_VASS_X" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN002</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_VU_ML" target="AU_DAO_TKHXHHVN" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN002</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_VU_ML" target="COUNTRY_VIETNAM" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_VU_ML" target="TOP_VN" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_VU_ML" target="TOP_ADOLESCENT" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_NGUYEN_ĐVXHH" target="AU_VU_ML" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN002</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NGUYEN_ĐVXHH" target="AU_VASS_X" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN002</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NGUYEN_ĐVXHH" target="AU_DAO_TKHXHHVN" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN002</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NGUYEN_ĐVXHH" target="COUNTRY_VIETNAM" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_NGUYEN_ĐVXHH" target="TOP_VN" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_NGUYEN_ĐVXHH" target="TOP_ADOLESCENT" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_VASS_X" target="AU_VU_ML" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN002</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_VASS_X" target="AU_NGUYEN_ĐVXHH" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN002</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_VASS_X" target="AU_DAO_TKHXHHVN" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN002</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_VASS_X" target="COUNTRY_VIETNAM" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_VASS_X" target="TOP_VN" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_VASS_X" target="TOP_ADOLESCENT" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_DAO_TKHXHHVN" target="AU_VU_ML" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN002</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_DAO_TKHXHHVN" target="AU_NGUYEN_ĐVXHH" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN002</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_DAO_TKHXHHVN" target="AU_VASS_X" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN002</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_DAO_TKHXHHVN" target="COUNTRY_VIETNAM" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_DAO_TKHXHHVN" target="TOP_VN" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_DAO_TKHXHHVN" target="TOP_ADOLESCENT" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_PHAM_X" target="COUNTRY_VIETNAM" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_PHAM_X" target="TOP_VN" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_STRESS_LO" target="AU_ANXIETY_X" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN014</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_STRESS_LO" target="COUNTRY_VIETNAM" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_STRESS_LO" target="TOP_COVID" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_STRESS_LO" target="TOP_VN" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_ANXIETY_X" target="AU_STRESS_LO" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN014</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_ANXIETY_X" target="COUNTRY_VIETNAM" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_ANXIETY_X" target="TOP_COVID" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_ANXIETY_X" target="TOP_VN" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_VU_TMH" target="AU_NGO_AV" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN015</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_VU_TMH" target="AU_DO_TBV" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN015</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_VU_TMH" target="AU_DUONG_AT" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN015</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_VU_TMH" target="AU_DO_ML" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN015</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_VU_TMH" target="AU_LE_TTT" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN015</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_VU_TMH" target="COUNTRY_VIETNAM" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_DO_TBV" target="AU_NGO_AV" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN015</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_DO_TBV" target="AU_VU_TMH" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN015</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_DO_TBV" target="AU_DUONG_AT" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN015</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_DO_TBV" target="AU_DO_ML" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN015</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_DO_TBV" target="AU_LE_TTT" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN015</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_DO_TBV" target="COUNTRY_VIETNAM" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_DUONG_AT" target="AU_NGO_AV" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN015</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_DUONG_AT" target="AU_VU_TMH" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN015</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_DUONG_AT" target="AU_DO_TBV" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN015</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_DUONG_AT" target="AU_DO_ML" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN015</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_DUONG_AT" target="AU_LE_TTT" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN015</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_DUONG_AT" target="COUNTRY_VIETNAM" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_DO_ML" target="AU_NGO_AV" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN015</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_DO_ML" target="AU_VU_TMH" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN015</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_DO_ML" target="AU_DO_TBV" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN015</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_DO_ML" target="AU_DUONG_AT" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN015</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_DO_ML" target="AU_LE_TTT" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN015</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_DO_ML" target="COUNTRY_VIETNAM" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_LE_TTT" target="AU_NGO_AV" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN015</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_LE_TTT" target="AU_VU_TMH" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN015</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_LE_TTT" target="AU_DO_TBV" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN015</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_LE_TTT" target="AU_DUONG_AT" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN015</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_LE_TTT" target="AU_DO_ML" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN015</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_LE_TTT" target="COUNTRY_VIETNAM" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_NGUYEN_NBQ" target="AU_LUU_MĐ" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN016</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NGUYEN_NBQ" target="AU_VU_MT" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN016</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NGUYEN_NBQ" target="AU_NGUYEN_YM" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN016</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NGUYEN_NBQ" target="AU_NGUYEN_CA" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN016</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NGUYEN_NBQ" target="AU_HOANG_LV" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN016</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NGUYEN_NBQ" target="AU_GIAP_TTT" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN016</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NGUYEN_NBQ" target="COUNTRY_VIETNAM" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_LUU_MĐ" target="AU_NGUYEN_NBQ" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN016</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_LUU_MĐ" target="AU_VU_MT" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN016</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_LUU_MĐ" target="AU_NGUYEN_YM" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN016</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_LUU_MĐ" target="AU_NGUYEN_CA" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN016</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_LUU_MĐ" target="AU_HOANG_LV" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN016</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_LUU_MĐ" target="AU_GIAP_TTT" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN016</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_LUU_MĐ" target="COUNTRY_VIETNAM" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_VU_MT" target="AU_NGUYEN_NBQ" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN016</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_VU_MT" target="AU_LUU_MĐ" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN016</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_VU_MT" target="AU_NGUYEN_YM" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN016</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_VU_MT" target="AU_NGUYEN_CA" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN016</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_VU_MT" target="AU_HOANG_LV" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN016</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_VU_MT" target="AU_GIAP_TTT" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN016</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_VU_MT" target="COUNTRY_VIETNAM" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_NGUYEN_YM" target="AU_NGUYEN_NBQ" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN016</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NGUYEN_YM" target="AU_LUU_MĐ" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN016</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NGUYEN_YM" target="AU_VU_MT" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN016</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NGUYEN_YM" target="AU_NGUYEN_CA" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN016</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NGUYEN_YM" target="AU_HOANG_LV" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN016</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NGUYEN_YM" target="AU_GIAP_TTT" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN016</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NGUYEN_YM" target="COUNTRY_VIETNAM" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_NGUYEN_CA" target="AU_NGUYEN_NBQ" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN016</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NGUYEN_CA" target="AU_LUU_MĐ" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN016</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NGUYEN_CA" target="AU_VU_MT" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN016</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NGUYEN_CA" target="AU_NGUYEN_YM" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN016</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NGUYEN_CA" target="AU_HOANG_LV" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN016</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NGUYEN_CA" target="AU_GIAP_TTT" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN016</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NGUYEN_CA" target="COUNTRY_VIETNAM" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_HOANG_LV" target="AU_NGUYEN_NBQ" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN016</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_HOANG_LV" target="AU_LUU_MĐ" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN016</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_HOANG_LV" target="AU_VU_MT" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN016</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_HOANG_LV" target="AU_NGUYEN_YM" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN016</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_HOANG_LV" target="AU_NGUYEN_CA" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN016</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_HOANG_LV" target="AU_GIAP_TTT" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN016</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_HOANG_LV" target="COUNTRY_VIETNAM" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_GIAP_TTT" target="AU_NGUYEN_NBQ" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN016</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_GIAP_TTT" target="AU_LUU_MĐ" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN016</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_GIAP_TTT" target="AU_VU_MT" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN016</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_GIAP_TTT" target="AU_NGUYEN_YM" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN016</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_GIAP_TTT" target="AU_NGUYEN_CA" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN016</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_GIAP_TTT" target="AU_HOANG_LV" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN016</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_GIAP_TTT" target="COUNTRY_VIETNAM" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_HO_TTQ" target="COUNTRY_VIETNAM" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_HO_TTQ" target="TOP_VN" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_TRAN_HVL" target="AU_HUYNH_NVA" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN020</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_TRAN_HVL" target="AU_TO_GK" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN020</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_TRAN_HVL" target="COUNTRY_VIETNAM" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_TRAN_HVL" target="TOP_ANXIETY" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_TRAN_HVL" target="TOP_VN" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_HUYNH_NVA" target="AU_TRAN_HVL" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN020</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_HUYNH_NVA" target="AU_TO_GK" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN020</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_HUYNH_NVA" target="COUNTRY_VIETNAM" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_HUYNH_NVA" target="TOP_ANXIETY" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_HUYNH_NVA" target="TOP_VN" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_TO_GK" target="AU_TRAN_HVL" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN020</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_TO_GK" target="AU_HUYNH_NVA" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN020</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_TO_GK" target="COUNTRY_VIETNAM" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_TO_GK" target="TOP_ANXIETY" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_TO_GK" target="TOP_VN" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_TRAN_TV" target="AU_HOANG_TLN" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN021</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_TRAN_TV" target="AU_TRAN_XMT" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN021</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_TRAN_TV" target="AU_TASHIRO_Y" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN021</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_TRAN_TV" target="AU_SEINO_K" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN021</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_TRAN_TV" target="AU_VO_TV" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN021</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_TRAN_TV" target="AU_NAKAMURA_K" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN021</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_TRAN_TV" target="COUNTRY_VIETNAM" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_TRAN_TV" target="TOP_VN" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_HOANG_TLN" target="AU_TRAN_TV" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN021</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_HOANG_TLN" target="AU_TRAN_XMT" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN021</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_HOANG_TLN" target="AU_TASHIRO_Y" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN021</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_HOANG_TLN" target="AU_SEINO_K" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN021</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_HOANG_TLN" target="AU_VO_TV" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN021</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_HOANG_TLN" target="AU_NAKAMURA_K" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN021</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_HOANG_TLN" target="COUNTRY_VIETNAM" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_HOANG_TLN" target="TOP_VN" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_TRAN_XMT" target="AU_TRAN_TV" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN021</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_TRAN_XMT" target="AU_HOANG_TLN" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN021</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_TRAN_XMT" target="AU_TASHIRO_Y" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN021</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_TRAN_XMT" target="AU_SEINO_K" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN021</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_TRAN_XMT" target="AU_VO_TV" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN021</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_TRAN_XMT" target="AU_NAKAMURA_K" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN021</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_TRAN_XMT" target="COUNTRY_VIETNAM" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_TRAN_XMT" target="TOP_VN" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_TASHIRO_Y" target="AU_TRAN_TV" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN021</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_TASHIRO_Y" target="AU_HOANG_TLN" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN021</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_TASHIRO_Y" target="AU_TRAN_XMT" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN021</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_TASHIRO_Y" target="AU_SEINO_K" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN021</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_TASHIRO_Y" target="AU_VO_TV" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN021</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_TASHIRO_Y" target="AU_NAKAMURA_K" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN021</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_TASHIRO_Y" target="COUNTRY_VIETNAM" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_TASHIRO_Y" target="TOP_VN" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_SEINO_K" target="AU_TRAN_TV" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN021</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_SEINO_K" target="AU_HOANG_TLN" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN021</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_SEINO_K" target="AU_TRAN_XMT" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN021</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_SEINO_K" target="AU_TASHIRO_Y" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN021</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_SEINO_K" target="AU_VO_TV" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN021</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_SEINO_K" target="AU_NAKAMURA_K" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN021</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_SEINO_K" target="COUNTRY_VIETNAM" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_SEINO_K" target="TOP_VN" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_VO_TV" target="AU_TRAN_TV" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN021</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_VO_TV" target="AU_HOANG_TLN" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN021</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_VO_TV" target="AU_TRAN_XMT" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN021</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_VO_TV" target="AU_TASHIRO_Y" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN021</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_VO_TV" target="AU_SEINO_K" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN021</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_VO_TV" target="AU_NAKAMURA_K" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN021</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_VO_TV" target="COUNTRY_VIETNAM" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_VO_TV" target="TOP_VN" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_NAKAMURA_K" target="AU_TRAN_TV" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN021</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NAKAMURA_K" target="AU_HOANG_TLN" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN021</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NAKAMURA_K" target="AU_TRAN_XMT" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN021</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NAKAMURA_K" target="AU_TASHIRO_Y" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN021</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NAKAMURA_K" target="AU_SEINO_K" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN021</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NAKAMURA_K" target="AU_VO_TV" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN021</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NAKAMURA_K" target="COUNTRY_VIETNAM" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_NAKAMURA_K" target="TOP_VN" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_NGUYEN_HV" target="AU_PHDC_X" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN023</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NGUYEN_HV" target="AU_NGUYEN_LTM" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN023</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NGUYEN_HV" target="AU_PHDD_X" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN023</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NGUYEN_HV" target="AU_NGUYEN_PT" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN023</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NGUYEN_HV" target="AU_MSA_X" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN023</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NGUYEN_HV" target="AU_NGUYEN_TT" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN023</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NGUYEN_HV" target="AU_PHDA_X" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN023</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NGUYEN_HV" target="COUNTRY_VIETNAM" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_NGUYEN_HV" target="TOP_COVID" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_NGUYEN_HV" target="TOP_VN" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_PHDC_X" target="AU_NGUYEN_HV" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN023</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_PHDC_X" target="AU_NGUYEN_LTM" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN023</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_PHDC_X" target="AU_PHDD_X" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN023</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_PHDC_X" target="AU_NGUYEN_PT" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN023</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_PHDC_X" target="AU_MSA_X" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN023</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_PHDC_X" target="AU_NGUYEN_TT" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN023</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_PHDC_X" target="AU_PHDA_X" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN023</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_PHDC_X" target="COUNTRY_VIETNAM" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_PHDC_X" target="TOP_COVID" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_PHDC_X" target="TOP_VN" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_NGUYEN_LTM" target="AU_NGUYEN_HV" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN023</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NGUYEN_LTM" target="AU_PHDC_X" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN023</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NGUYEN_LTM" target="AU_PHDD_X" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN023</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NGUYEN_LTM" target="AU_NGUYEN_PT" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN023</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NGUYEN_LTM" target="AU_MSA_X" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN023</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NGUYEN_LTM" target="AU_NGUYEN_TT" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN023</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NGUYEN_LTM" target="AU_PHDA_X" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN023</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NGUYEN_LTM" target="COUNTRY_VIETNAM" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_NGUYEN_LTM" target="TOP_COVID" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_NGUYEN_LTM" target="TOP_VN" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_PHDD_X" target="AU_NGUYEN_HV" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN023</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_PHDD_X" target="AU_PHDC_X" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN023</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_PHDD_X" target="AU_NGUYEN_LTM" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN023</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_PHDD_X" target="AU_NGUYEN_PT" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN023</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_PHDD_X" target="AU_MSA_X" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN023</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_PHDD_X" target="AU_NGUYEN_TT" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN023</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_PHDD_X" target="AU_PHDA_X" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN023</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_PHDD_X" target="COUNTRY_VIETNAM" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_PHDD_X" target="TOP_COVID" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_PHDD_X" target="TOP_VN" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_NGUYEN_PT" target="AU_NGUYEN_HV" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN023</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NGUYEN_PT" target="AU_PHDC_X" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN023</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NGUYEN_PT" target="AU_NGUYEN_LTM" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN023</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NGUYEN_PT" target="AU_PHDD_X" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN023</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NGUYEN_PT" target="AU_MSA_X" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN023</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NGUYEN_PT" target="AU_NGUYEN_TT" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN023</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NGUYEN_PT" target="AU_PHDA_X" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN023</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NGUYEN_PT" target="COUNTRY_VIETNAM" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_NGUYEN_PT" target="TOP_COVID" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_NGUYEN_PT" target="TOP_VN" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_MSA_X" target="AU_NGUYEN_HV" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN023</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_MSA_X" target="AU_PHDC_X" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN023</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_MSA_X" target="AU_NGUYEN_LTM" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN023</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_MSA_X" target="AU_PHDD_X" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN023</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_MSA_X" target="AU_NGUYEN_PT" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN023</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_MSA_X" target="AU_NGUYEN_TT" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN023</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_MSA_X" target="AU_PHDA_X" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN023</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_MSA_X" target="COUNTRY_VIETNAM" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_MSA_X" target="TOP_COVID" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_MSA_X" target="TOP_VN" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_NGUYEN_TT" target="AU_NGUYEN_HV" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN023</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NGUYEN_TT" target="AU_PHDC_X" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN023</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NGUYEN_TT" target="AU_NGUYEN_LTM" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN023</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NGUYEN_TT" target="AU_PHDD_X" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN023</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NGUYEN_TT" target="AU_NGUYEN_PT" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN023</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NGUYEN_TT" target="AU_MSA_X" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN023</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NGUYEN_TT" target="AU_PHDA_X" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN023</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_NGUYEN_TT" target="COUNTRY_VIETNAM" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_NGUYEN_TT" target="TOP_COVID" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_NGUYEN_TT" target="TOP_VN" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">2</data>
+</edge>
+<edge source="AU_PHDA_X" target="AU_NGUYEN_HV" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN023</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_PHDA_X" target="AU_PHDC_X" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN023</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_PHDA_X" target="AU_NGUYEN_LTM" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN023</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_PHDA_X" target="AU_PHDD_X" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN023</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_PHDA_X" target="AU_NGUYEN_PT" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN023</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_PHDA_X" target="AU_MSA_X" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN023</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_PHDA_X" target="AU_NGUYEN_TT" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN023</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_PHDA_X" target="COUNTRY_VIETNAM" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_PHDA_X" target="TOP_COVID" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_PHDA_X" target="TOP_VN" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_PHAM_TN" target="AU_HOANG_TG" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN025</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_PHAM_TN" target="AU_PHAM_KL" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN025</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_PHAM_TN" target="AU_VU_TC" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN025</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_PHAM_TN" target="COUNTRY_VIETNAM" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_HOANG_TG" target="AU_PHAM_TN" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN025</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_HOANG_TG" target="AU_PHAM_KL" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN025</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_HOANG_TG" target="AU_VU_TC" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN025</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_HOANG_TG" target="COUNTRY_VIETNAM" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_PHAM_KL" target="AU_PHAM_TN" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN025</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_PHAM_KL" target="AU_HOANG_TG" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN025</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_PHAM_KL" target="AU_VU_TC" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN025</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_PHAM_KL" target="COUNTRY_VIETNAM" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_VU_TC" target="AU_PHAM_TN" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN025</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_VU_TC" target="AU_HOANG_TG" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN025</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_VU_TC" target="AU_PHAM_KL" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN025</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_VU_TC" target="COUNTRY_VIETNAM" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_SINH_CTC" target="AU_LO_Â" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN026</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_SINH_CTC" target="AU_STRESS_TĐBTPTA" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN026</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_SINH_CTC" target="AU_TINH_LALL" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN026</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_SINH_CTC" target="COUNTRY_VIETNAM" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_LO_Â" target="AU_SINH_CTC" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN026</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_LO_Â" target="AU_STRESS_TĐBTPTA" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN026</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_LO_Â" target="AU_TINH_LALL" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN026</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_LO_Â" target="COUNTRY_VIETNAM" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_STRESS_TĐBTPTA" target="AU_SINH_CTC" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN026</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_STRESS_TĐBTPTA" target="AU_LO_Â" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN026</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_STRESS_TĐBTPTA" target="AU_TINH_LALL" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN026</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_STRESS_TĐBTPTA" target="COUNTRY_VIETNAM" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_TINH_LALL" target="AU_SINH_CTC" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN026</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_TINH_LALL" target="AU_LO_Â" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN026</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_TINH_LALL" target="AU_STRESS_TĐBTPTA" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN026</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_TINH_LALL" target="COUNTRY_VIETNAM" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_DINH_X" target="COUNTRY_VIETNAM" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_DINH_X" target="TOP_VN" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_DINH_X" target="TOP_SCHOOL_INTERVENTION" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_DINH_X" target="TOP_ADOLESCENT" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_DAO_TN" target="COUNTRY_VIETNAM" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_THAI_TT" target="AU_DUONG_MC" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN029</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_THAI_TT" target="COUNTRY_VIETNAM" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_THAI_TT" target="TOP_VN" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_THAI_TT" target="TOP_ADOLESCENT" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_DUONG_MC" target="AU_THAI_TT" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN029</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_DUONG_MC" target="COUNTRY_VIETNAM" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_DUONG_MC" target="TOP_VN" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_DUONG_MC" target="TOP_ADOLESCENT" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_KHONG_ĐLÂR" target="AU_KHONG_RPTDTMBCCTVTN" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN030</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_KHONG_ĐLÂR" target="COUNTRY_VIETNAM" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_KHONG_ĐLÂR" target="TOP_SCHOOL_INTERVENTION" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_KHONG_ĐLÂR" target="TOP_DIGITAL" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_KHONG_RPTDTMBCCTVTN" target="AU_KHONG_ĐLÂR" id="0">
+  <data key="d10">CO_AUTHORED</data>
+  <data key="d11">VN030</data>
+  <data key="d12">1</data>
+</edge>
+<edge source="AU_KHONG_RPTDTMBCCTVTN" target="COUNTRY_VIETNAM" id="0">
+  <data key="d10">LOCATED_IN</data>
+</edge>
+<edge source="AU_KHONG_RPTDTMBCCTVTN" target="TOP_SCHOOL_INTERVENTION" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="AU_KHONG_RPTDTMBCCTVTN" target="TOP_DIGITAL" id="0">
+  <data key="d10">STUDIES</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="QT001" target="AU_JENKINS_JH" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">1</data>
+  <data key="d15">True</data>
+</edge>
+<edge source="QT001" target="AU_SANCHEZ_G" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">2</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="QT001" target="AU_MILLER_EA" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">3</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="QT001" target="AU_ALLANDE_NIS" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">4</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="QT001" target="AU_URANO_G" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">5</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="QT001" target="AU_PR_AJ" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">6</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="QT003" target="AU_MANDAKNALLI_R" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">1</data>
+  <data key="d15">True</data>
+</edge>
+<edge source="QT003" target="AU_MALUSARE_R" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">2</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="QT004" target="AU_JENKINS_X" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">1</data>
+  <data key="d15">True</data>
+</edge>
+<edge source="QT005" target="AU_ALHARBI_R" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">1</data>
+  <data key="d15">True</data>
+</edge>
+<edge source="QT005" target="AU_ALSUHAIBANI_K" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">2</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="QT005" target="AU_ALMARSHAD_A" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">3</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="QT005" target="AU_ALYAHYA_A" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">4</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="QT006" target="AU_NAKIE_G" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">1</data>
+  <data key="d15">True</data>
+</edge>
+<edge source="QT006" target="AU_SEGON_T" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">2</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="QT006" target="AU_MELKAM_M" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">3</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="QT006" target="AU_DESALEGN_GT" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">4</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="QT006" target="AU_ZELEKE_TA" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">5</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="QT007" target="AU_CHEN_Z" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">1</data>
+  <data key="d15">True</data>
+</edge>
+<edge source="QT007" target="AU_REN_S" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">2</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="QT007" target="AU_HE_R" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">3</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="QT008" target="AU_WEN_X" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">1</data>
+  <data key="d15">True</data>
+</edge>
+<edge source="QT009" target="AU_QIU_Z" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">1</data>
+  <data key="d15">True</data>
+</edge>
+<edge source="QT009" target="AU_GUO_Y" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">2</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="QT009" target="AU_WANG_J" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">3</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="QT009" target="AU_ZHANG_H" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">4</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="QT010" target="AU_XU_Q" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">1</data>
+  <data key="d15">True</data>
+</edge>
+<edge source="QT011" target="AU_BHARDWAJ_R" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">1</data>
+  <data key="d15">True</data>
+</edge>
+<edge source="QT012" target="AU__GAC" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">1</data>
+  <data key="d15">True</data>
+</edge>
+<edge source="QT012" target="AU_DANG_TTLPHV" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">2</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="QT013" target="AU_SZD_Y" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">1</data>
+  <data key="d15">True</data>
+</edge>
+<edge source="QT013" target="AU_MK_L" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">2</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="QT013" target="AU_MP_M" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">3</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="QT014" target="AU_NURSING_AP" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">2</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="QT015" target="AU_ZHU_X" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">1</data>
+  <data key="d15">True</data>
+</edge>
+<edge source="QT016" target="AU_MUDUNNA_X" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">1</data>
+  <data key="d15">True</data>
+</edge>
+<edge source="QT017" target="AU_PUYAT_X" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">1</data>
+  <data key="d15">True</data>
+</edge>
+<edge source="QT021" target="AU_BRUNBORG_GS" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">1</data>
+  <data key="d15">True</data>
+</edge>
+<edge source="QT021" target="AU_NILSEN_SA" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">2</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="QT021" target="AU_SKOGEN_JC" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">3</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="QT021" target="AU_BANG_L" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">4</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="QT022" target="AU_SOCIETY_SLOBOBP" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">2</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="QT023" target="AU_MOJTABAI_R" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">1</data>
+  <data key="d15">True</data>
+</edge>
+<edge source="QT023" target="AU_OLFSON_M" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">2</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="QT024" target="AU_TARASENKO_A" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">1</data>
+  <data key="d15">True</data>
+</edge>
+<edge source="QT025" target="AU_CRISP_D" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">1</data>
+  <data key="d15">True</data>
+</edge>
+<edge source="QT025" target="AU_RICKWOOD_D" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">2</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="QT025" target="AU_BURNS_R" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">3</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="QT025" target="AU_BARIOLA_E" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">4</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="QT026" target="AU_BAKER_C" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">1</data>
+  <data key="d15">True</data>
+</edge>
+<edge source="QT026" target="AU_LIBRARY_HOC" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">2</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="QT026" target="AU_PARLIAMENT_U" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">3</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="QT029" target="AU_OR_YIUINPBSR" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">2</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="QT030" target="AU_DONGJUN_Z" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">1</data>
+  <data key="d15">True</data>
+</edge>
+<edge source="QT030" target="AU_MINGYUE_W" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">2</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="QT032" target="AU_PSYCHOLOGY_SO" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">1</data>
+  <data key="d15">True</data>
+</edge>
+<edge source="QT032" target="AU_DUBLIN_X" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">2</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="QT032" target="AU_IRELAND_X" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">3</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="QT033" target="AU_SCHMIDTPERSSON_J" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">1</data>
+  <data key="d15">True</data>
+</edge>
+<edge source="QT033" target="AU_RASMUSSEN_MGB" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">3</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="QT033" target="AU_SRENSEN_SO" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">5</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="QT033" target="AU_MORTENSEN_SR" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">7</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="QT033" target="AU_OLESEN_LG" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">9</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="QT035" target="AU_JEFFERIES_P" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">1</data>
+  <data key="d15">True</data>
+</edge>
+<edge source="QT035" target="AU_UNGAR_M" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">2</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="QT036" target="AU_MOON_Y" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">1</data>
+  <data key="d15">True</data>
+</edge>
+<edge source="QT036" target="AU_WOO_H" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">2</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="QT038" target="AU_INCLUDED_UIOIACLTTMIMIN" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">2</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="QT039" target="AU_XIAN_J" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">1</data>
+  <data key="d15">True</data>
+</edge>
+<edge source="QT039" target="AU_ZHANG_Y" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">2</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="QT039" target="AU_JIANG_B" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">3</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="QT040" target="AU_DOC_LSL" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">1</data>
+  <data key="d15">True</data>
+</edge>
+<edge source="QT040" target="AU_TRICH_X" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">2</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="QT040" target="AU_DANH_GTLRMSDHGPTPTNTVK" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">3</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="QT040" target="AU_THIET_KVTQ" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">4</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="QT040" target="AU_CO_HDNVTH" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">5</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="QT040" target="AU_DOI_CVK" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">6</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="QT041" target="AU_ADDICTION_TEOSM" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">1</data>
+  <data key="d15">True</data>
+</edge>
+<edge source="QT041" target="AU_ACADEMIC_X" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">2</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="QT043" target="AU_BRESS_JN" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">1</data>
+  <data key="d15">True</data>
+</edge>
+<edge source="QT043" target="AU_FALK_A" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">3</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="QT043" target="AU_SCHIER_MM" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">5</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="QT043" target="AU_JAYWANT_A" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">6</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="QT043" target="AU_MORONEY_E" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">8</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="QT043" target="AU_DARGIS_M" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">10</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="QT044" target="AU_CHINH_CCTQHT" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">1</data>
+  <data key="d15">True</data>
+</edge>
+<edge source="QT046" target="AU_PSYCHIATRY_C" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">1</data>
+  <data key="d15">True</data>
+</edge>
+<edge source="QT046" target="AU__HD" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">2</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="QT049" target="AU_CHAT_LBCNRTKPHNCĐVCĐHTTKRRTTĐN" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">1</data>
+  <data key="d15">True</data>
+</edge>
+<edge source="VN001" target="AU_HOA_PT" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">1</data>
+  <data key="d15">True</data>
+</edge>
+<edge source="VN001" target="AU_DO_TT" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">2</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="VN001" target="AU_NGUYEN_TL" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">3</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="VN001" target="AU_NGO_AV" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">4</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="VN002" target="AU_VU_ML" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">1</data>
+  <data key="d15">True</data>
+</edge>
+<edge source="VN002" target="AU_NGUYEN_ĐVXHH" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">2</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="VN002" target="AU_VASS_X" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">3</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="VN002" target="AU_DAO_TKHXHHVN" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">4</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="VN003" target="AU_PHAM_X" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">1</data>
+  <data key="d15">True</data>
+</edge>
+<edge source="VN014" target="AU_STRESS_LO" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">1</data>
+  <data key="d15">True</data>
+</edge>
+<edge source="VN014" target="AU_ANXIETY_X" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">2</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="VN015" target="AU_NGO_AV" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">1</data>
+  <data key="d15">True</data>
+</edge>
+<edge source="VN015" target="AU_VU_TMH" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">2</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="VN015" target="AU_DO_TBV" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">3</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="VN015" target="AU_DUONG_AT" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">4</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="VN015" target="AU_DO_ML" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">5</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="VN015" target="AU_LE_TTT" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">6</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="VN016" target="AU_NGUYEN_NBQ" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">1</data>
+  <data key="d15">True</data>
+</edge>
+<edge source="VN016" target="AU_LUU_MĐ" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">2</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="VN016" target="AU_VU_MT" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">3</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="VN016" target="AU_NGUYEN_YM" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">4</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="VN016" target="AU_NGUYEN_CA" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">5</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="VN016" target="AU_HOANG_LV" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">6</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="VN016" target="AU_GIAP_TTT" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">7</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="VN019" target="AU_HO_TTQ" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">1</data>
+  <data key="d15">True</data>
+</edge>
+<edge source="VN020" target="AU_TRAN_HVL" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">1</data>
+  <data key="d15">True</data>
+</edge>
+<edge source="VN020" target="AU_HUYNH_NVA" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">2</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="VN020" target="AU_TO_GK" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">3</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="VN021" target="AU_TRAN_TV" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">1</data>
+  <data key="d15">True</data>
+</edge>
+<edge source="VN021" target="AU_HOANG_TLN" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">2</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="VN021" target="AU_TRAN_XMT" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">3</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="VN021" target="AU_TASHIRO_Y" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">4</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="VN021" target="AU_SEINO_K" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">5</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="VN021" target="AU_VO_TV" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">6</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="VN021" target="AU_NAKAMURA_K" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">7</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="VN023" target="AU_NGUYEN_HV" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">1</data>
+  <data key="d15">True</data>
+</edge>
+<edge source="VN023" target="AU_PHDC_X" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">2</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="VN023" target="AU_NGUYEN_LTM" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">3</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="VN023" target="AU_PHDD_X" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">4</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="VN023" target="AU_NGUYEN_PT" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">5</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="VN023" target="AU_MSA_X" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">6</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="VN023" target="AU_NGUYEN_TT" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">7</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="VN023" target="AU_PHDA_X" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">8</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="VN024" target="AU_NGUYEN_TT" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">1</data>
+  <data key="d15">True</data>
+</edge>
+<edge source="VN025" target="AU_PHAM_TN" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">1</data>
+  <data key="d15">True</data>
+</edge>
+<edge source="VN025" target="AU_HOANG_TG" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">2</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="VN025" target="AU_PHAM_KL" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">3</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="VN025" target="AU_VU_TC" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">4</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="VN026" target="AU_SINH_CTC" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">1</data>
+  <data key="d15">True</data>
+</edge>
+<edge source="VN026" target="AU_LO_Â" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">2</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="VN026" target="AU_STRESS_TĐBTPTA" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">3</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="VN026" target="AU_TINH_LALL" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">4</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="VN027" target="AU_DINH_X" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">1</data>
+  <data key="d15">True</data>
+</edge>
+<edge source="VN028" target="AU_DAO_TN" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">1</data>
+  <data key="d15">True</data>
+</edge>
+<edge source="VN029" target="AU_THAI_TT" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">1</data>
+  <data key="d15">True</data>
+</edge>
+<edge source="VN029" target="AU_DUONG_MC" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">2</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="VN030" target="AU_KHONG_ĐLÂR" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">3</data>
+  <data key="d15">False</data>
+</edge>
+<edge source="VN030" target="AU_KHONG_RPTDTMBCCTVTN" id="0">
+  <data key="d10">AUTHORED_BY</data>
+  <data key="d14">4</data>
+  <data key="d15">False</data>
+</edge>
+</graph></graphml>

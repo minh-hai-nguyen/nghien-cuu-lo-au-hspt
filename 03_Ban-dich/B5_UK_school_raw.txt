@@ -1,0 +1,552 @@
+PAGE 1:
+Journal of Mental Health
+ISSN: 0963-8237 (Print) 1360-0567 (Online) Journal homepage: www.tandfonline.com/journals/ijmh20
+School based interventions for depression and
+anxiety in UK
+June S. L. Brown & Ben Carter
+To cite this article: June S. L. Brown & Ben Carter (2025) School based interventions
+for depression and anxiety in UK, Journal of Mental Health, 34:4, 357-361, DOI:
+10.1080/09638237.2025.2512332
+To link to this article:  https://doi.org/10.1080/09638237.2025.2512332
+Published online: 14 Jun 2025.
+Submit your article to this journal 
+Article views: 2867
+View related articles 
+View Crossmark data
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=ijmh20
+
+===
+PAGE 2:
+EDITORIAL
+Journal of Mental Health
+2025, VOL. 34, NO. 4, 357–361
+School based interventions for depression and anxiety in UK
+Mental health problems among adolescents, particularly 
+anxiety and depression, are a growing public health con­
+cern (Marcheselli et al., 2018). In the UK, approximately 
+one in four adolescents aged 17–19 meet the criteria for 
+a diagnosable mental health disorder, and the impact of 
+untreated mental health issues during this critical devel­
+opmental stage can be profound (Newlove-
+Delgado et  al., 2023). These issues are associated with 
+a range of adverse outcomes, internationally (Johnson 
+et  al., 2018), including an increased risk of depression 
+and anxiety in adulthood (Johnson et  al., 2018; Kessler 
+et  al., 2005) as well as poorer academic performance 
+(Brännlund et  al., 2017), poorer education and employ­
+ment outcomes (Hale et  al., 2015) and challenges in 
+forming and maintaining relationships (Sadler et  al., 
+2018). Despite this, many young people struggle to access 
+mental health support, with estimates suggesting that 
+around 60% of young people with mental health issues 
+do not receive any formal care (UK Government, 2022).
+There are several barriers to solving these problems 
+including the reluctance of young people themselves to 
+seek help (Gulliver et  al., 2010; Rickwood et  al., 2005) 
+Even when they do seek help, there is a low capacity 
+in specialist mental health services for young people 
+(McGorry et al., 2013) that results in very long waiting 
+lists. So, despite knowing that the age of onset of most 
+mental health problems is 15 for 50% of young people 
+and 24 for 75% of young people (de Girolamo et  al., 
+2012; Kessler et  al., 2005), the barriers mean that early 
+intervention is difficult.
+School-based mental health interventions have been 
+increasingly recognized as an essential component of 
+early intervention strategies, providing a platform for 
+reaching adolescents in an environment that is accessible, 
+familiar, and less stigmatising than clinical settings (Fazel 
+et  al., 2014; Lovell & Richards, 2000). This has been 
+recognised in the UK as well as in Low and Middle 
+Income countries (LMIC) (Fazel et  al., 2014).
+Who should deliver the mental health 
+interventions to reduce depression and 
+anxiety in schools?
+The attraction of using teachers for delivering mental 
+health interventions is that they are already in schools, 
+and if trained, could offer effective and hopefully, 
+cost-effective interventions. Unfortunately, this has not 
+been found to be the case. Stallard et  al. (2014) and 
+others have found that clinicians were generally more 
+effective than teachers (Fisak et  al., 2011; Zhang et  al., 
+2023), particularly in secondary schools. A recent UK 
+development is the introduction of a new professional 
+group of Mental Health Support Teams (MHSTs) to 
+work directly in schools and provide early support for 
+children and adolescents with mild to moderate mental 
+health difficulties (Alderwick & Dixon, 2019). These 
+MHSTs (consisting of master’s or postgraduate diploma 
+level therapists or junior therapists) aim to improve 
+access to evidence-based interventions, including cognitive-
+behavioural therapy (CBT) (NHS England, 2023). With 
+appropriate training, it is possible they could deliver 
+clinically effective and cost-effective interventions.
+What programmes should be offered?
+Mental health literacy
+It has often been assumed that mental health literacy, 
+which refers to knowledge and intention to recognise 
+symptoms and would lead to better help-seeking, but 
+this has not always been found. Yamaguchi et al. (2024) 
+found a teacher led 20 minute online mental health lit­
+eracy programme for 15–16 year students in a small 
+RCT (n = 270) led to improvements in improved knowl­
+edge and recognition of necessity to seek help. However, 
+little change was found on “intention to seek help”. 
+Prabhu et al. (2024) reviewed studies about interventions 
+of the mental health literacy of secondary school teach­
+ers, concluding this could be improved but the quality 
+of the studies was variable. There have also been vari­
+ations in effectiveness depending on who delivered the 
+intervention.
+Clinical programmes
+School based programmes range from mindfulness to 
+more CBT-like programmes developed in Australia 
+(Friends, Resourceful adolescent Programme, Mood Gym) 
+and USA (Penn Resilience Programme, Mindfulness) with 
+only one in the UK for adolescents (DISCOVER).
+﻿
+https://doi.org/10.1080/09638237.2025.2512332
+
+===
+PAGE 3:
+358
+EDITORIAL
+Systematic reviews on the effectiveness of psycholog­
+ical interventions in school settings have discovered 
+mixed findings on reductions of depression and anxiety 
+(Caldwell et  al., 2019; Feiss et  al., 2019; Werner-Seidler 
+et  al., 2021). One reason may be the variation in the 
+inclusion and exclusion criteria which has been high­
+lighted in a recent meta-analysis (Zhang et  al., 2023). 
+There have been reports of variation in the effects of 
+different types of interventions with Zhang et al. (2023) 
+reporting that CBT programmes tended to be associated 
+with higher effect sizes, a conclusion that was also sup­
+ported in an anxiety focussed review (Fisak et al., 2011). 
+However, in the first narrative analysis of school inter­
+ventions, Caldwell et  al. (2019) did not support this 
+view as strongly. They concluded that CBT showed weak 
+evidence of reducing anxiety but studies were small. 
+And they found no evidence of differences in types of 
+interventions being effective in reducing depression.
+Recent trials in the UK have had mixed effects. One 
+example of a study with nil effects is a recent large 
+cluster RCT of over 8376 students in 85 schools where 
+a mindfulness intervention was delivered by teachers 
+(Kuyken et al., 2022). The proposed explanation for the 
+lack of effects was low student engagement, indicated 
+by student’s home practice being low at both 
+post-intervention and one-year follow-up.
+However, another trial of 900 students in 57 schools 
+in 4 regions in England (called BESST) demonstrated 
+very positive results (Brown et al 2024). We report on 
+some of the factors that have surfaced in systematic 
+reviews and our own studies that might account for the 
+accessibility and efficacy of these interventions (Brown 
+et  al., 2022).
+Different ways of offering school interventions
+Within school settings, interventions are typically deliv­
+ered through one of two main models: targeted inter­
+ventions, which focus on students identified as being 
+at high risk of mental health issues, and universal 
+interventions, which are offered to all students, regard­
+less of their mental health status. Universal interven­
+tions have the advantage of reducing stigma and 
+promoting mental health awareness across the broader 
+student population, but they can dilute the intensity 
+of support provided to those in greatest need and have 
+been shown to be less effective in reducing mental 
+health issues for those who already exhibit problems 
+(Montero-Marin et  al., 2022; Stallard et  al., 2012). 
+Conversely, targeted interventions can be more resource-
+efficient by concentrating on students who are most 
+at risk, but they may miss students who are struggling 
+but do not meet the criteria for high-risk/elevated 
+symptoms (Calear & Christensen, 2010; Radez et  al., 
+2021) and can also increase feelings of stigma in the 
+target group (Gronholm et  al., 2018). Screening also 
+requires extra resources.
+The most effective way to offer these school-based 
+interventions is currently unclear with one review sug­
+gesting that targeted interventions more effective 
+(Werner-Seidler et  al., 2021) but two others finding no 
+differences (Fisak et  al., 2011; Kapadia et  al., 2022).
+Self-referral methodology (and increased 
+accessibility)
+Self-referral is where individuals independently decide 
+to participate by referring themselves, rather than relying 
+on a professional. In our work, self-referral is one part 
+of the 5 part model described in the evidence-based 
+“PLACES” accessibility model that is designed to increase 
+access by reducing stigma and increasing convenience 
+of interventions (Brown et  al., 2022). For example, the 
+PLACES accessibility model uses everyday language (e.g. 
+“stress”) instead of clinical terms (e.g. “depression” or 
+“anxiety”) to reduce stigma. Another aspect is that inter­
+ventions are delivered in non-stigmatising settings that 
+are convenient to the target population. Self-referral 
+systems, have seldom been employed in trials of school 
+based interventions (Brown et al., 2010) despite offering 
+benefits such as lowering stigma (Brown et  al., 2010) 
+and also reinforcing autonomy that is particularly valued 
+by adolescents (Wilson & Deane, 2012). They also allow 
+for more efficient resource use with high levels of 
+engagement from students who may not have previously 
+sought help, better follow-up rates (Brown et al., 2019), 
+and greater participation from minoritised groups that 
+are frequently under-served (Brown et  al., 2019).
+Co-design
+Co-design where students help design the intervention 
+is growing in importance. It is an important issue given 
+that professionals’ and users’ perspectives about what 
+are important aspects may vary (Wittevrongel et al., 2025).
+The DISCOVER workshop programme was co-designed 
+with 16–18 year olds (Sclare et al., 2015) and is designed 
+to enhance student-clinician interaction and increases 
+the use of visual aids, including videos and group exer­
+cises. Co-design was achieved through extensive consul­
+tation with young people who provided feedback on the 
+intervention workshop’s format, content, and delivery 
+style, ensuring the program addressed the specific needs 
+and preferences of this age group. Their input shaped 
+various aspects of the intervention, including the program 
+name as well as refining materials and interactive tasks.
+However, possibly because of the newness of this 
+approach, much of the literature is devoted to describing 
+different methods of co-design and evidence about the 
+effectiveness of co-design of mental health intervention 
+about greater engagement is still very limited (Slattery 
+et al., 2020). Nevertheless, qualitative studies have been 
+promising. A review of PPI work with young people 
+
+===
+PAGE 4:
+Journal of Mental Health
+359
+has also concluded that more operationalisation and 
+consistency of evaluation measures was needed (Totzeck 
+et al., 2024). For example, the effects of the participation 
+on participants and whether their input changed the 
+research process or researchers’ opinions could be noted.
+The BESST trial – incorporating knowledge 
+so far
+The BESST trial (Brown et al. 2024) incorporated several 
+elements:
+•	
+a co-designed intervention with 16–18 year olds 
+(Sclare et al. 2015)
+•	
+the non-diagnostic self-referral process, described 
+in the PLACES model (Brown et  al., 2022)
+•	
+a brief CBT programme for 16–18 year olds
+•	
+delivered by mental health support teams in 
+schools
+The self-referral pathway (Brown et  al., 2022) was 
+offered at school assemblies when students were invited 
+to opt-in into the trial and stress workshops. Stress 
+problems were described in ordinary ways such as school 
+exams and family pressures. The DISCOVER interven­
+tion was an one-day, CBT-based workshop which was 
+designed to help adolescents manage stress, anxiety, and 
+low mood by providing practical strategies for coping 
+with mental health challenges (Sclare et  al., 2015).
+This led to 900 students referring themselves to the 
+trial with 46% of these students being from minority 
+groups. The workshop intervention was each run by 3 
+MHST clinical staff in groups of up to 19 students in 4 
+English regions. The trial provided robust evidence for 
+the clinical (ES= −0.17) and cost-effectiveness of a 
+school-based intervention for adolescents especially for 
+those with elevated depressive symptoms (ES= −0.52) 
+(Brown et al., 2024). Process evaluation results were pos­
+itive among students themselves and staff delivering the 
+workshops (Weaver et al, in revision). The results are 
+consistent with Kuyken et  al.’s (2023) reflections in 2023 
+after his unsuccessful trial about the need for good reach, 
+student engagement, co-design of the intervention and 
+the need to think about sustainability of the intervention 
+through the MHSTs.
+The future for school-based interventions
+Andrews and Foulkes (2025) have also strongly recom­
+mended that that we need to move away from universal 
+interventions for students. They recommend more opt-in 
+interventions which are more in line with adolescents’ 
+desire for autonomy, which is equivalent to the self-
+referral system. The BESST trial seems to show that 
+these factors do make for better accessibility and a more 
+effective and cost-effective approach.
+We make two recommendations. One is that this field 
+should assess actual engagement of students as opposed 
+to attitudes to help-seeking. While mental health literacy 
+and the relationship with attitudes to help-seeking have 
+been frequently studied, the effects on actual help-seeking 
+have not been shown. The PLACES model is probably 
+one of the few models that does show actual help-seeking 
+behaviour (Brown et  al., 2022) improves among young 
+people as well as adults with different problems. 
+Secondly, we recommend that the DISCOVER workshop, 
+and the PLACES accessibility model form the basis for 
+offering school interventions to 16–18-year-olds in 
+schools. We are not claiming it is perfect and we are 
+researching how it might be implemented across England 
+as understanding the context of school interventions is 
+very important (Roshan et  al., 2025). However, it does 
+appear very effective, clinically and cost-effectively, and 
+also engages diverse students very well, and all this at 
+a time when other interventions have been disappoint­
+ing. We hope this may help start to reduce the rising 
+tide of mental health problems among young people.
+Disclosure statement
+No potential conflict of interest was reported by the 
+author(s).
+Funding
+The author(s) reported there is no funding associated with 
+the work featured in this article.
+References
+Alderwick, H., & Dixon, J. (2019). The NHS long term plan. British 
+Medical Journal Publishing Group.
+Andrews, J. L., & Foulkes, L. (2025). Debate: Where to next for 
+universal school-based mental health interventions? Time to 
+move towards more effective alternatives. Child and Adolescent 
+Mental Health, 30(1), 102–104. https://doi.org/10.1111/camh.
+12753
+Brännlund, A., Strandh, M., & Nilsson, K. (2017). Mental-health 
+and educational achievement: The link between poor mental-
+health and upper secondary school completion and grades. 
+Journal of Mental Health, 26(4), 318–325. https://doi.org/10.1080/
+09638237.2017.1294739
+Brown, J. S. L., Blackshaw, E., Stahl, D., Fennelly, L., McKeague, L., 
+Sclare, I., & Michelson, D. (2019). School-based early interven­
+tion for anxiety and depression in older adolescents: A feasibil­
+ity randomised controlled trial of a self-referral stress manage­
+ment 
+workshop 
+programme 
+("DISCOVER"). 
+Journal 
+of 
+Adolescence, 71(1), 150–161. https://doi.org/10.1016/j.adoles­
+cence.2018.11.009
+Brown, J. S. L., Boardman, J., Whittinger, N., & Ashworth, M. 
+(2010). Can a self-referral system help improve access to psy­
+chological treatments? The British Journal of General Practice, 
+60(574), 365–371. https://doi.org/10.3399/bjgp10X501877
+
+===
+PAGE 5:
+360
+EDITORIAL
+Brown, J. S. L., Lisk, S., Carter, B., Stevelink, S. A. M., Van 
+Lieshout, R., & Michelson, D. (2022). How Can We Actually 
+Change Help-Seeking Behaviour for Mental Health Problems 
+among the General Public? Development of the ‘PLACES’ 
+Model. International Journal of Environmental Research and 
+Public Health, 19(5), 2831. https://doi.org/10.3390/ijerph19052831
+Brown, J. S. L., Murphy, C., Kelly, J., & Goldsmith, K. (2019). How 
+can we successfully recruit depressed people? Lessons learned in 
+recruiting depressed participants to a multi-site trial of a brief 
+depression intervention (the ‘CLASSIC’ trial). Trials, 20(1), 131. 
+https://doi.org/10.1186/s13063-018-3033-5
+Brown, J., James, K., Lisk, S., Shearer, J., Byford, S., Stallard, P., 
+Deighton, J., Saunders, D., Yarrum, J., Fonagy, P., Weaver, T., Sclare, 
+I., Day, C., Evans, C., & Carter, B. (2024). Clinical effectiveness and 
+cost-effectiveness of a brief accessible cognitive behavioural therapy 
+programme for stress in school-aged adolescents (BESST): A cluster 
+randomised controlled trial in the UK. The Lancet-Psychiatry, 11(7), 
+504–515. https://doi.org/10.1016/S2215-0366(24)00101-9
+Caldwell, D. M., Davies, S. R., Hetrick, S. E., Palmer, J. C., Caro, 
+P., López-López, J. A., Gunnell, D., Kidger, J., Thomas, J., 
+French, C., Stockings, E., Campbell, R., & Welton, N. J. (2019). 
+School-based interventions to prevent anxiety and depression in 
+children and young people: A systematic review and network 
+meta-analysis. The Lancet–Psychiatry, 6(12), 1011–1020. https://
+doi.org/10.1016/S2215-0366(19)30403-1
+Calear, A. L., & Christensen, H. (2010). Systematic review of 
+school-based prevention and early intervention programs for 
+depression. Journal of Adolescence, 33(3), 429–438. https://doi.
+org/10.1016/j.adolescence.2009.07.004
+de Girolamo, G., Dagani, J., Purcell, R., Cocchi, A., & McGorry, P. 
+D. (2012). Age of onset of mental disorders and use of mental 
+health services: Needs, opportunities and obstacles. Epidemiology 
+and Psychiatric Sciences, 21(1), 47–57. https://doi.org/10.1017/
+s2045796011000746
+Fazel, M., Patel, V., Thomas, S., & Tol, W. (2014). Mental health 
+interventions in schools in low-income and middle-income 
+countries. The Lancet-Psychiatry, 1(5), 388–398. https://doi.
+org/10.1016/S2215-0366(14)70357-8
+Feiss, R., Dolinger, S. B., Merritt, M., Reiche, E., Martin, K., Yanes, 
+J. A., Thomas, C. M., & Pangelinan, M. (2019). A systematic 
+review and meta-analysis of school-based stress, anxiety, and 
+depression prevention programs for adolescents. Journal of 
+Youth and Adolescence, 48(9), 1668–1685. https://doi.org/10.1007/
+s10964-019-01085-0
+Fisak, B. J., Richard, D., & Mann, A. (2011). The prevention of 
+child and adolescent anxiety: A meta-analytic review. Prevention 
+Science, 12(3), 255–268. https://doi.org/10.1007/s11121-011-0210-0
+Gronholm, P. C., Nye, E., & Michelson, D. (2018). Stigma related 
+to targeted school-based mental health interventions: A system­
+atic review of qualitative evidence. Journal of Affective Disorders, 
+240, 17–26. https://doi.org/10.1016/j.jad.2018.07.023
+Gulliver, A., Griffiths, K. M., & H, C. (2010). Perceived barriers 
+and facilitators to mental health help-seeking in young people: 
+A systematic review. BMC Psychiatry, 10(1), 113. https://doi.
+org/10.1186/1471-244X-10-113
+Hale, D. R., Bevilacqua, L., & Viner, R. M. (2015). Adolescent health 
+and adult education and employment: A systematic review. 
+Pediatrics, 136(1), 128–140. https://doi.org/10.1542/peds.2014-2105
+Johnson, D., Dupuis, G., Piche, J., Clayborne, Z., & Colman, I. 
+(2018). Adult mental health outcomes of adolescent depression: 
+A systematic review. Depression and Anxiety, 35(8), 700–716. 
+https://doi.org/10.1002/da.22777
+Kapadia, D., et  al. (2022). Ethnic inequalities in health care: A rap­
+id evidence review (N.R.a.H. Observatory, Editor). NHS Race 
+and Health Observatory.
+Kessler, R. C., Berglund, P., Demler, O., Jin, R., Merikangas, K. R., 
+& Walters, E. E. (2005). Lifetime prevalence and age-of-onset 
+distributions of DSM-IV disorders in the national comorbidity 
+survey replication. Archives of General Psychiatry, 62(6), 593–
+602. https://doi.org/10.1001/archpsyc.62.6.593
+Kuyken, W., Ball, S., Crane, C., Ganguli, P., Jones, B., Montero-Marin, 
+J., Nuthall, E., Raja, A., Taylor, L., Tudor, K., Viner, R. M., 
+Allwood, M., Aukland, L., Dunning, D., Casey, T., Dalrymple, N., 
+De Wilde, K., Farley, E.-R., Harper, J., … Williams, J. M. G. 
+(2022). Effectiveness and cost-effectiveness of universal school-
+based mindfulness training compared with normal school provi­
+sion in reducing risk of mental health problems and promoting 
+well-being in adolescence: The MYRIAD cluster randomised con­
+trolled trial. Evidence-Based Mental Health, 25(3), 99–109. https://
+doi.org/10.1136/ebmental-2021-300396
+Kuyken, W., Blakemore, S.-J., Byford, S., Dalgleish, T., Ford, T., 
+Hinze, V., Mansfield, K., Montero-Marin, J., Ukoumunne, O. C., 
+& Viner, R. M. (2023). Mental health in adolescence: The role 
+of schools-based social emotional teaching. Journal of Mental 
+Health, 32(3), 537–540. https://doi.org/10.1080/09638237.2023.
+2210668
+Lovell, K., & Richards, D. (2000). Multiple access points and levels 
+of entry (MAPLE): Ensuring choice, accessibility and equity for 
+CBT services. Behavioural and Cognitive Psychotherapy, 28(4), 
+379–391. https://doi.org/10.1017/S1352465800004070
+Marcheselli, F., et  al. (2018). Mental health of children and young 
+people in England, 2017. NHS.
+McGorry, P., Bates, T., & Birchwood, M. (2013). Designing youth 
+mental health services for the 21st century: Examples from 
+Australia, Ireland and the UK. The British Journal of Psychiatry. 
+Supplement, 54(s54), s30–s35. https://doi.org/10.1192/bjp.bp.112.
+119214
+Montero-Marin, J., Allwood, M., Ball, S., Crane, C., De Wilde, K., 
+Hinze, V., Jones, B., Lord, L., Nuthall, E., Raja, A., Taylor, L., 
+Tudor, K., Blakemore, S.-J., Byford, S., Dalgleish, T., Ford, T., 
+Greenberg, M. T., Ukoumunne, O. C., Williams, J. M. G., & 
+Kuyken, W, MYRIAD Team. (2022). School-based mindfulness 
+training in early adolescence: What works, for whom and how 
+in the MYRIAD trial? Evidence-Based Mental Health, 25(3), 
+117–124. https://doi.org/10.1136/ebmental-2022-300439
+Newlove-Delgado, T., Marcheselli, F., Williams, T., Mandalia, D., 
+Davis, J., McManus, S., Savic, M., Treloar, W., Ford, T. (2023). 
+Mental health of children and young people in England, 
+2023-wave 4 follow up to the 2017 survey.
+NHS England. (2023). Mental health support in schools. https://www.
+england.nhs.uk/mental-health/cyp/trailblazers/ 
+[accessed 
+2024 
+30/11/2024].
+Prabhu, S. G., Mallikarjun, P. K., Palmer, A., Nag, R., Khadeparkar, 
+P., Arelingaiah, M., Lakshman, K. A., Podiya, J. K., Navaneetham, 
+J., & Hugh-Jones, S. (2024). Mental health literacy in secondary 
+school teachers and interventions to improve it – a systematic 
+review and narrative synthesis. Journal of Mental Health, 1–20. 
+https://doi.org/10.1080/09638237.2024.2426994
+Radez, J., Reardon, T., Creswell, C., Lawrence, P. J., Evdoka-Burton, 
+G., & Waite, P. (2021). Why do children and adolescents (not) 
+seek and access professional help for their mental health prob­
+lems? A systematic review of quantitative and qualitative stud­
+ies. European Child & Adolescent Psychiatry, 30(2), 183–211. 
+https://doi.org/10.1007/s00787-019-01469-4
+
+===
+PAGE 6:
+Journal of Mental Health
+361
+Rickwood, D., Deane, F. P., Wilson, C. J., & Ciarrochi, J. 
+(2005). Young people’s help-seeking for mental health problems. 
+Australian e-Journal for the Advancement of Mental Health, 4(3), 
+218–251. https://doi.org/10.5172/jamh.4.3.218
+Roshan, R., Hamid, S., Kumar, R., Hamdani, U., Naqvi, S., Adeel, 
+U., & Zill-E-Huma (2025). Utilizing the CFIR framework for 
+mapping the facilitators and barriers of implementing teachers 
+led school mental health programs – a scoping review. Social 
+Psychiatry and Psychiatric Epidemiology, 60(3), 535–548. https://
+doi.org/10.1007/s00127-024-02762-7
+Sadler, K., Vizard, T., Ford, T., Goodman, A., Goodman, R., 
+McManus, S. (2018). Mental health of children and young peo­
+ple in England, 2017: trends and characteristics.
+Sclare, I., Michelson, D., Malpass, L., Coster, F., & Brown, J. (2015). 
+Innovations in Practice: DISCOVER CBT workshops for 
+16–18-year-olds: Development of an open-access intervention for 
+anxiety and depression in inner-city youth. Child and Adolescent 
+Mental Health, 20(2), 102–106. https://doi.org/10.1111/camh.12060
+Slattery, P., Saeri, A. K., & Bragge, P. (2020). Research co-design in 
+health: A rapid overview of reviews. Health Research Policy and 
+Systems, 18(1), 17. https://doi.org/10.1186/s12961-020-0528-9
+Stallard, P., Sayal, K., Phillips, R., Taylor, J. A., Spears, M., Anderson, 
+R., Araya, R., Lewis, G., Millings, A., & Montgomery, A. A. 
+(2012). Classroom based cognitive behavioural therapy in reduc­
+ing symptoms of depression in high risk adolescents: Pragmatic 
+cluster randomised controlled trial. British Medical Journal, 
+345(oct05 4), e6058–e6058. https://doi.org/10.1136/bmj.e6058
+Stallard, P., Skryabina, E., Taylor, G., Phillips, R., Daniels, H., 
+Anderson, R., & Simpson, N. (2014). Classroom-based cognitive 
+behaviour therapy (FRIENDS): A cluster randomised controlled 
+trial to Prevent Anxiety in Children through Education in 
+Schools (PACES). The Lancet. Psychiatry, 1(3), 185–192. https://
+doi.org/10.1016/S2215-0366(14)70244-5
+Totzeck, C., van der Meer, A. S., Christiansen, H., Durlach, F., Li 
+Sanchez, K., & Schneider, S. (2024). Systematic review: Patient 
+and public involvement of children and young people in mental 
+health research. Clinical Child and Family Psychology Review, 
+27(1), 257–274. https://doi.org/10.1007/s10567-024-00470-x
+UK Government. (2022). Mental health and wellbeing plan: 
+Discussion paper and call for evidence. Department of Health 
+and Social Care.
+Werner-Seidler, A., Spanos, S., Calear, A. L., Perry, Y., Torok, M., 
+O’Dea, B., Christensen, H., & Newby, J. M. (2021). School-
+based depression and anxiety prevention programs: An updated 
+systematic review and meta-analysis. Clinical Psychology Review, 
+89, 102079. https://doi.org/10.1016/j.cpr.2021.102079
+Wilson, C. J., & Deane, F. P. (2012). Brief report: Need for 
+autonomy and other perceived barriers relating to adolescents’ 
+intentions to seek professional mental health care. Journal of 
+Adolescence, 35(1), 233–237. https://doi.org/10.1016/j.adolescence.
+2010.06.011
+Wittevrongel, E., Kessels, R., Everaert, G., Vrijens, M., Danckaerts, 
+M., & van Winkel, R. (2025). Differences between users and 
+professionals in preferences for youth mental health service at­
+tributes: A discrete choice experiment. Early Intervention in 
+Psychiatry, 19(2), e70012. https://doi.org/10.1111/eip.70012
+Yamaguchi, S., Foo, J. C., & Sasaki, T. (2024). The effects of a 
+teacher-led online mental health literacy program for high 
+school students: A pilot cluster randomized controlled trial. 
+Journal of Mental Health, 33(5), 630–637. https://doi.org/10.108
+0/09638237.2024.2390376
+Zhang, Q., Wang, J., & Neitzel, A. (2023). School-based mental 
+health interventions targeting depression or anxiety: A meta-
+analysis of rigorous randomized controlled trials for school-aged 
+children and adolescents. Journal of Youth and Adolescence, 
+52(1), 195–217. https://doi.org/10.1007/s10964-022-01684-4
+June S. L. Brown
+Psychology, King’s College London – Denmark Hill Campus, 
+London, United Kingdom of Great Britain 
+and Northern Ireland
+ june.brown@kcl.ac.uk
+
+Ben Carter
+Biostatistics and Health Informatics, King’s College 
+London – Denmark Hill Campus, London, 
+United Kingdom of Great Britain and Northern Ireland
+Received 4 March 2025; Revised 29 April 2025; Accepted 2 May 2025
+© 2025 Informa UK Limited, trading as Taylor & Francis Group
+
+===

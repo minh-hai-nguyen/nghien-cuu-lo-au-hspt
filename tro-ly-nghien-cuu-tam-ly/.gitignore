@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+web/__pycache__/
+# web/data/ — tracked (small JSON for author KG/RAG)
+.env
+*.egg-info/
+rag_db_backup/
+rag_db_large_model/
+rag_db_small_model/

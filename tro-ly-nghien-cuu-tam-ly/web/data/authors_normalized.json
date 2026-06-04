@@ -1,0 +1,3933 @@
+{
+  "AU_JENKINS_JH": {
+    "canonical_id": "AU_JENKINS_JH",
+    "surname": "Jenkins",
+    "given": "Janis H.",
+    "full_name": "Janis H. Jenkins",
+    "is_vietnamese": false,
+    "initials": "JH",
+    "aliases": [
+      "** Janis H. Jenkins"
+    ],
+    "papers": [
+      "QT001"
+    ],
+    "role_in_papers": {
+      "QT001": 1
+    },
+    "country_hint": "USA",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_SANCHEZ_G": {
+    "canonical_id": "AU_SANCHEZ_G",
+    "surname": "Sanchez",
+    "given": "Giselle",
+    "full_name": "Giselle Sanchez",
+    "is_vietnamese": false,
+    "initials": "G",
+    "aliases": [
+      "Giselle Sanchez"
+    ],
+    "papers": [
+      "QT001"
+    ],
+    "role_in_papers": {
+      "QT001": 2
+    },
+    "country_hint": "USA",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_MILLER_EA": {
+    "canonical_id": "AU_MILLER_EA",
+    "surname": "Miller",
+    "given": "Eric A.",
+    "full_name": "Eric A. Miller",
+    "is_vietnamese": false,
+    "initials": "EA",
+    "aliases": [
+      "Eric A. Miller"
+    ],
+    "papers": [
+      "QT001"
+    ],
+    "role_in_papers": {
+      "QT001": 3
+    },
+    "country_hint": "USA",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_ALLANDE_NIS": {
+    "canonical_id": "AU_ALLANDE_NIS",
+    "surname": "Allande",
+    "given": "Nadia Irina Santillanes",
+    "full_name": "Nadia Irina Santillanes Allande",
+    "is_vietnamese": false,
+    "initials": "NIS",
+    "aliases": [
+      "Nadia Irina Santillanes Allande"
+    ],
+    "papers": [
+      "QT001"
+    ],
+    "role_in_papers": {
+      "QT001": 4
+    },
+    "country_hint": "USA",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_URANO_G": {
+    "canonical_id": "AU_URANO_G",
+    "surname": "Urano",
+    "given": "Grace",
+    "full_name": "Grace Urano",
+    "is_vietnamese": false,
+    "initials": "G",
+    "aliases": [
+      "Grace Urano"
+    ],
+    "papers": [
+      "QT001"
+    ],
+    "role_in_papers": {
+      "QT001": 5
+    },
+    "country_hint": "USA",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_PR_AJ": {
+    "canonical_id": "AU_PR_AJ",
+    "surname": "Pr",
+    "given": "Alexandra J.",
+    "full_name": "Alexandra J. Pr",
+    "is_vietnamese": false,
+    "initials": "AJ",
+    "aliases": [
+      "Alexandra J. Pr"
+    ],
+    "papers": [
+      "QT001"
+    ],
+    "role_in_papers": {
+      "QT001": 6
+    },
+    "country_hint": "USA",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_KHONG_GTSCCVHCTCVĐBDPBTATBCCAKRĐTCCPBDCSDCBMKDHQLĐBKTĐGẢHĐLCTYTSKKSBGN": {
+    "canonical_id": "AU_KHONG_GTSCCVHCTCVĐBDPBTATBCCAKRĐTCCPBDCSDCBMKDHQLĐBKTĐGẢHĐLCTYTSKKSBGN",
+    "surname": "không",
+    "given": "giải thích sâu cơ chế văn hóa cụ thể của vùng Đông Bắc. DASS- phiên bản tiếng Assam thiếu báo cáo Cronbach alpha — không rõ độ tin cậy của phiên bản dịch. Chỉ sử dụng chi-square (đơn biến) mà không dùng hồi quy logistic đa biến — không thể đánh giá ảnh hưởng độc lập của từng yếu tố sau khi kiểm soát biến gây nhiễu (Rothman",
+    "full_name": "không giải thích sâu cơ chế văn hóa cụ thể của vùng Đông Bắc. DASS- phiên bản tiếng Assam thiếu báo cáo Cronbach alpha — không rõ độ tin cậy của phiên bản dịch. Chỉ sử dụng chi-square (đơn biến) mà không dùng hồi quy logistic đa biến — không thể đánh giá ảnh hưởng độc lập của từng yếu tố sau khi kiểm soát biến gây nhiễu (Rothman",
+    "is_vietnamese": true,
+    "initials": "GTSCCVHCTCVĐBDPBTATBCCAKRĐTCCPBDCSDCBMKDHQLĐBKTĐGẢHĐLCTYTSKKSBGN",
+    "aliases": [
+      "không giải thích sâu cơ chế văn hóa cụ thể của vùng Đông Bắc. DASS-21 phiên bản tiếng Assam thiếu báo cáo Cronbach alpha — không rõ độ tin cậy của phiên bản dịch. Chỉ sử dụng chi-square (đơn biến) mà không dùng hồi quy logistic đa biến — không thể đánh giá ảnh hưởng độc lập của từng yếu tố sau khi kiểm soát biến gây nhiễu (Rothman"
+    ],
+    "papers": [
+      "QT002"
+    ],
+    "role_in_papers": {
+      "QT002": 1
+    },
+    "country_hint": "India",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_MANDAKNALLI_R": {
+    "canonical_id": "AU_MANDAKNALLI_R",
+    "surname": "Mandaknalli",
+    "given": "Rahul",
+    "full_name": "Rahul Mandaknalli",
+    "is_vietnamese": false,
+    "initials": "R",
+    "aliases": [
+      "Rahul Mandaknalli"
+    ],
+    "papers": [
+      "QT003"
+    ],
+    "role_in_papers": {
+      "QT003": 1
+    },
+    "country_hint": "",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_MALUSARE_R": {
+    "canonical_id": "AU_MALUSARE_R",
+    "surname": "Malusare",
+    "given": "Ragini",
+    "full_name": "Ragini Malusare",
+    "is_vietnamese": false,
+    "initials": "R",
+    "aliases": [
+      "Ragini Malusare"
+    ],
+    "papers": [
+      "QT003"
+    ],
+    "role_in_papers": {
+      "QT003": 2
+    },
+    "country_hint": "",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_JENKINS_X": {
+    "canonical_id": "AU_JENKINS_X",
+    "surname": "Jenkins",
+    "given": "",
+    "full_name": "Jenkins",
+    "is_vietnamese": false,
+    "initials": "",
+    "aliases": [
+      "Jenkins"
+    ],
+    "papers": [
+      "QT004"
+    ],
+    "role_in_papers": {
+      "QT004": 1
+    },
+    "country_hint": "USA",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_ALHARBI_R": {
+    "canonical_id": "AU_ALHARBI_R",
+    "surname": "Alharbi",
+    "given": "Reem",
+    "full_name": "Reem Alharbi",
+    "is_vietnamese": false,
+    "initials": "R",
+    "aliases": [
+      "Reem Alharbi"
+    ],
+    "papers": [
+      "QT005"
+    ],
+    "role_in_papers": {
+      "QT005": 1
+    },
+    "country_hint": "Saudi Arabia",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_ALSUHAIBANI_K": {
+    "canonical_id": "AU_ALSUHAIBANI_K",
+    "surname": "Alsuhaibani",
+    "given": "Khalid",
+    "full_name": "Khalid Alsuhaibani",
+    "is_vietnamese": false,
+    "initials": "K",
+    "aliases": [
+      "Khalid Alsuhaibani"
+    ],
+    "papers": [
+      "QT005"
+    ],
+    "role_in_papers": {
+      "QT005": 2
+    },
+    "country_hint": "Saudi Arabia",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_ALMARSHAD_A": {
+    "canonical_id": "AU_ALMARSHAD_A",
+    "surname": "Almarshad",
+    "given": "Abdullah",
+    "full_name": "Abdullah Almarshad",
+    "is_vietnamese": false,
+    "initials": "A",
+    "aliases": [
+      "Abdullah Almarshad"
+    ],
+    "papers": [
+      "QT005"
+    ],
+    "role_in_papers": {
+      "QT005": 3
+    },
+    "country_hint": "Saudi Arabia",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_ALYAHYA_A": {
+    "canonical_id": "AU_ALYAHYA_A",
+    "surname": "Alyahya",
+    "given": "Abdulhameed",
+    "full_name": "Abdulhameed Alyahya",
+    "is_vietnamese": false,
+    "initials": "A",
+    "aliases": [
+      "Abdulhameed Alyahya"
+    ],
+    "papers": [
+      "QT005"
+    ],
+    "role_in_papers": {
+      "QT005": 4
+    },
+    "country_hint": "Saudi Arabia",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_NAKIE_G": {
+    "canonical_id": "AU_NAKIE_G",
+    "surname": "Nakie",
+    "given": "Girum",
+    "full_name": "Girum Nakie",
+    "is_vietnamese": false,
+    "initials": "G",
+    "aliases": [
+      "Girum Nakie"
+    ],
+    "papers": [
+      "QT006"
+    ],
+    "role_in_papers": {
+      "QT006": 1
+    },
+    "country_hint": "Ethiopia",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_SEGON_T": {
+    "canonical_id": "AU_SEGON_T",
+    "surname": "Segon",
+    "given": "Tesfaye",
+    "full_name": "Tesfaye Segon",
+    "is_vietnamese": false,
+    "initials": "T",
+    "aliases": [
+      "Tesfaye Segon"
+    ],
+    "papers": [
+      "QT006"
+    ],
+    "role_in_papers": {
+      "QT006": 2
+    },
+    "country_hint": "Ethiopia",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_MELKAM_M": {
+    "canonical_id": "AU_MELKAM_M",
+    "surname": "Melkam",
+    "given": "Mamaru",
+    "full_name": "Mamaru Melkam",
+    "is_vietnamese": false,
+    "initials": "M",
+    "aliases": [
+      "Mamaru Melkam"
+    ],
+    "papers": [
+      "QT006"
+    ],
+    "role_in_papers": {
+      "QT006": 3
+    },
+    "country_hint": "Ethiopia",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_DESALEGN_GT": {
+    "canonical_id": "AU_DESALEGN_GT",
+    "surname": "Desalegn",
+    "given": "Getachew Tesfaw",
+    "full_name": "Getachew Tesfaw Desalegn",
+    "is_vietnamese": false,
+    "initials": "GT",
+    "aliases": [
+      "Getachew Tesfaw Desalegn"
+    ],
+    "papers": [
+      "QT006"
+    ],
+    "role_in_papers": {
+      "QT006": 4
+    },
+    "country_hint": "Ethiopia",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_ZELEKE_TA": {
+    "canonical_id": "AU_ZELEKE_TA",
+    "surname": "Zeleke",
+    "given": "Tadele Amare",
+    "full_name": "Tadele Amare Zeleke",
+    "is_vietnamese": false,
+    "initials": "TA",
+    "aliases": [
+      "Tadele Amare Zeleke"
+    ],
+    "papers": [
+      "QT006"
+    ],
+    "role_in_papers": {
+      "QT006": 5
+    },
+    "country_hint": "Ethiopia",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_CHEN_Z": {
+    "canonical_id": "AU_CHEN_Z",
+    "surname": "Chen",
+    "given": "Zhangming",
+    "full_name": "Zhangming Chen",
+    "is_vietnamese": false,
+    "initials": "Z",
+    "aliases": [
+      "Zhangming Chen"
+    ],
+    "papers": [
+      "QT007"
+    ],
+    "role_in_papers": {
+      "QT007": 1
+    },
+    "country_hint": "China",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_REN_S": {
+    "canonical_id": "AU_REN_S",
+    "surname": "Ren",
+    "given": "Silan",
+    "full_name": "Silan Ren",
+    "is_vietnamese": false,
+    "initials": "S",
+    "aliases": [
+      "Silan Ren"
+    ],
+    "papers": [
+      "QT007"
+    ],
+    "role_in_papers": {
+      "QT007": 2
+    },
+    "country_hint": "China",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_HE_R": {
+    "canonical_id": "AU_HE_R",
+    "surname": "He",
+    "given": "Ruini",
+    "full_name": "Ruini He",
+    "is_vietnamese": false,
+    "initials": "R",
+    "aliases": [
+      "Ruini He"
+    ],
+    "papers": [
+      "QT007"
+    ],
+    "role_in_papers": {
+      "QT007": 3
+    },
+    "country_hint": "China",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_WEN_X": {
+    "canonical_id": "AU_WEN_X",
+    "surname": "Wen",
+    "given": "Xiaotong",
+    "full_name": "Xiaotong Wen",
+    "is_vietnamese": false,
+    "initials": "X",
+    "aliases": [
+      "Xiaotong Wen"
+    ],
+    "papers": [
+      "QT008"
+    ],
+    "role_in_papers": {
+      "QT008": 1
+    },
+    "country_hint": "China",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_QIU_Z": {
+    "canonical_id": "AU_QIU_Z",
+    "surname": "Qiu",
+    "given": "Zhihai",
+    "full_name": "Zhihai Qiu",
+    "is_vietnamese": false,
+    "initials": "Z",
+    "aliases": [
+      "Zhihai Qiu"
+    ],
+    "papers": [
+      "QT009"
+    ],
+    "role_in_papers": {
+      "QT009": 1
+    },
+    "country_hint": "China",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_GUO_Y": {
+    "canonical_id": "AU_GUO_Y",
+    "surname": "Guo",
+    "given": "Ying",
+    "full_name": "Ying Guo",
+    "is_vietnamese": false,
+    "initials": "Y",
+    "aliases": [
+      "Ying Guo"
+    ],
+    "papers": [
+      "QT009"
+    ],
+    "role_in_papers": {
+      "QT009": 2
+    },
+    "country_hint": "China",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_WANG_J": {
+    "canonical_id": "AU_WANG_J",
+    "surname": "Wang",
+    "given": "Jun",
+    "full_name": "Jun Wang",
+    "is_vietnamese": false,
+    "initials": "J",
+    "aliases": [
+      "Jun Wang"
+    ],
+    "papers": [
+      "QT009"
+    ],
+    "role_in_papers": {
+      "QT009": 3
+    },
+    "country_hint": "China",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_ZHANG_H": {
+    "canonical_id": "AU_ZHANG_H",
+    "surname": "Zhang",
+    "given": "Hongbo",
+    "full_name": "Hongbo Zhang",
+    "is_vietnamese": false,
+    "initials": "H",
+    "aliases": [
+      "Hongbo Zhang"
+    ],
+    "papers": [
+      "QT009"
+    ],
+    "role_in_papers": {
+      "QT009": 4
+    },
+    "country_hint": "China",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_XU_Q": {
+    "canonical_id": "AU_XU_Q",
+    "surname": "Xu",
+    "given": "Qingqing",
+    "full_name": "Qingqing Xu",
+    "is_vietnamese": false,
+    "initials": "Q",
+    "aliases": [
+      "Qingqing Xu"
+    ],
+    "papers": [
+      "QT010"
+    ],
+    "role_in_papers": {
+      "QT010": 1
+    },
+    "country_hint": "China",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_BHARDWAJ_R": {
+    "canonical_id": "AU_BHARDWAJ_R",
+    "surname": "Bhardwaj",
+    "given": "Ridhul",
+    "full_name": "Ridhul Bhardwaj",
+    "is_vietnamese": false,
+    "initials": "R",
+    "aliases": [
+      "Ridhul Bhardwaj"
+    ],
+    "papers": [
+      "QT011"
+    ],
+    "role_in_papers": {
+      "QT011": 1
+    },
+    "country_hint": "India",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU__GAC": {
+    "canonical_id": "AU__GAC",
+    "surname": "()",
+    "given": "GBD ASEAN Collaborators",
+    "full_name": "GBD  ASEAN Collaborators ()",
+    "is_vietnamese": false,
+    "initials": "GAC",
+    "aliases": [
+      "GBD 2021 ASEAN Collaborators (2025)"
+    ],
+    "papers": [
+      "QT012"
+    ],
+    "role_in_papers": {
+      "QT012": 1
+    },
+    "country_hint": "",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_DANG_TTLPHV": {
+    "canonical_id": "AU_DANG_TTLPHV",
+    "surname": "đăng",
+    "given": "trên The Lancet Public Health vol",
+    "full_name": "đăng trên The Lancet Public Health vol",
+    "is_vietnamese": true,
+    "initials": "TTLPHV",
+    "aliases": [
+      "đăng trên The Lancet Public Health vol"
+    ],
+    "papers": [
+      "QT012"
+    ],
+    "role_in_papers": {
+      "QT012": 2
+    },
+    "country_hint": "",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_SZD_Y": {
+    "canonical_id": "AU_SZD_Y",
+    "surname": "SZD",
+    "given": "Yin",
+    "full_name": "Yin SZD",
+    "is_vietnamese": false,
+    "initials": "Y",
+    "aliases": [
+      "Yin SZD"
+    ],
+    "papers": [
+      "QT013"
+    ],
+    "role_in_papers": {
+      "QT013": 1
+    },
+    "country_hint": "",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_MK_L": {
+    "canonical_id": "AU_MK_L",
+    "surname": "MK",
+    "given": "Low",
+    "full_name": "Low MK",
+    "is_vietnamese": false,
+    "initials": "L",
+    "aliases": [
+      "Low MK"
+    ],
+    "papers": [
+      "QT013"
+    ],
+    "role_in_papers": {
+      "QT013": 2
+    },
+    "country_hint": "",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_MP_M": {
+    "canonical_id": "AU_MP_M",
+    "surname": "MP",
+    "given": "Mishu",
+    "full_name": "Mishu MP",
+    "is_vietnamese": false,
+    "initials": "M",
+    "aliases": [
+      "Mishu MP"
+    ],
+    "papers": [
+      "QT013"
+    ],
+    "role_in_papers": {
+      "QT013": 3
+    },
+    "country_hint": "",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_CHILD_JO": {
+    "canonical_id": "AU_CHILD_JO",
+    "surname": "Child",
+    "given": "Journal of",
+    "full_name": "Journal of Child",
+    "is_vietnamese": false,
+    "initials": "JO",
+    "aliases": [
+      "Journal of Child"
+    ],
+    "papers": [
+      "QT014"
+    ],
+    "role_in_papers": {
+      "QT014": 1
+    },
+    "country_hint": "",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_NURSING_AP": {
+    "canonical_id": "AU_NURSING_AP",
+    "surname": "Nursing",
+    "given": "Adolescent Psychiatric",
+    "full_name": "Adolescent Psychiatric Nursing",
+    "is_vietnamese": false,
+    "initials": "AP",
+    "aliases": [
+      "Adolescent Psychiatric Nursing"
+    ],
+    "papers": [
+      "QT014"
+    ],
+    "role_in_papers": {
+      "QT014": 2
+    },
+    "country_hint": "",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_ZHU_X": {
+    "canonical_id": "AU_ZHU_X",
+    "surname": "Zhu",
+    "given": "",
+    "full_name": "Zhu",
+    "is_vietnamese": false,
+    "initials": "",
+    "aliases": [
+      "Zhu"
+    ],
+    "papers": [
+      "QT015"
+    ],
+    "role_in_papers": {
+      "QT015": 1
+    },
+    "country_hint": "China",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_MUDUNNA_X": {
+    "canonical_id": "AU_MUDUNNA_X",
+    "surname": "Mudunna",
+    "given": "",
+    "full_name": "Mudunna",
+    "is_vietnamese": false,
+    "initials": "",
+    "aliases": [
+      "Mudunna"
+    ],
+    "papers": [
+      "QT016"
+    ],
+    "role_in_papers": {
+      "QT016": 1
+    },
+    "country_hint": "",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_PUYAT_X": {
+    "canonical_id": "AU_PUYAT_X",
+    "surname": "Puyat",
+    "given": "",
+    "full_name": "Puyat",
+    "is_vietnamese": false,
+    "initials": "",
+    "aliases": [
+      "Puyat"
+    ],
+    "papers": [
+      "QT017"
+    ],
+    "role_in_papers": {
+      "QT017": 1
+    },
+    "country_hint": "Philippines",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_BRUNBORG_GS": {
+    "canonical_id": "AU_BRUNBORG_GS",
+    "surname": "Brunborg",
+    "given": "Geir Scott",
+    "full_name": "Geir Scott Brunborg",
+    "is_vietnamese": false,
+    "initials": "GS",
+    "aliases": [
+      "Geir Scott Brunborg"
+    ],
+    "papers": [
+      "QT021"
+    ],
+    "role_in_papers": {
+      "QT021": 1
+    },
+    "country_hint": "Norway",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_NILSEN_SA": {
+    "canonical_id": "AU_NILSEN_SA",
+    "surname": "Nilsen",
+    "given": "Sondre Aasen",
+    "full_name": "Sondre Aasen Nilsen",
+    "is_vietnamese": false,
+    "initials": "SA",
+    "aliases": [
+      "Sondre Aasen Nilsen"
+    ],
+    "papers": [
+      "QT021"
+    ],
+    "role_in_papers": {
+      "QT021": 2
+    },
+    "country_hint": "Norway",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_SKOGEN_JC": {
+    "canonical_id": "AU_SKOGEN_JC",
+    "surname": "Skogen",
+    "given": "Jens Christoffer",
+    "full_name": "Jens Christoffer Skogen",
+    "is_vietnamese": false,
+    "initials": "JC",
+    "aliases": [
+      "Jens Christoffer Skogen"
+    ],
+    "papers": [
+      "QT021"
+    ],
+    "role_in_papers": {
+      "QT021": 3
+    },
+    "country_hint": "Norway",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_BANG_L": {
+    "canonical_id": "AU_BANG_L",
+    "surname": "Bang",
+    "given": "Lasse",
+    "full_name": "Lasse Bang",
+    "is_vietnamese": false,
+    "initials": "L",
+    "aliases": [
+      "Lasse Bang"
+    ],
+    "papers": [
+      "QT021"
+    ],
+    "role_in_papers": {
+      "QT021": 4
+    },
+    "country_hint": "Norway",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_WILEY_TABJOCPYPBJ": {
+    "canonical_id": "AU_WILEY_TABJOCPYPBJ",
+    "surname": "Wiley",
+    "given": "© The Author(s). British Journal of Clinical Psycholog y published by John",
+    "full_name": "© The Author(s). British Journal of Clinical Psycholog y published by John Wiley",
+    "is_vietnamese": false,
+    "initials": "TABJOCPYPBJ",
+    "aliases": [
+      "© The Author(s). British Journal of Clinical Psycholog y published by John Wiley"
+    ],
+    "papers": [
+      "QT022"
+    ],
+    "role_in_papers": {
+      "QT022": 1
+    },
+    "country_hint": "",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_SOCIETY_SLOBOBP": {
+    "canonical_id": "AU_SOCIETY_SLOBOBP",
+    "surname": "Society",
+    "given": "Sons Ltd on behalf of British Psychological",
+    "full_name": "Sons Ltd on behalf of British Psychological Society",
+    "is_vietnamese": false,
+    "initials": "SLOBOBP",
+    "aliases": [
+      "Sons Ltd on behalf of British Psychological Society"
+    ],
+    "papers": [
+      "QT022"
+    ],
+    "role_in_papers": {
+      "QT022": 2
+    },
+    "country_hint": "",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_MOJTABAI_R": {
+    "canonical_id": "AU_MOJTABAI_R",
+    "surname": "Mojtabai",
+    "given": "Ramin",
+    "full_name": "Ramin Mojtabai",
+    "is_vietnamese": false,
+    "initials": "R",
+    "aliases": [
+      "Ramin Mojtabai"
+    ],
+    "papers": [
+      "QT023"
+    ],
+    "role_in_papers": {
+      "QT023": 1
+    },
+    "country_hint": "USA",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_OLFSON_M": {
+    "canonical_id": "AU_OLFSON_M",
+    "surname": "Olfson",
+    "given": "Mark",
+    "full_name": "Mark Olfson",
+    "is_vietnamese": false,
+    "initials": "M",
+    "aliases": [
+      "Mark Olfson"
+    ],
+    "papers": [
+      "QT023"
+    ],
+    "role_in_papers": {
+      "QT023": 2
+    },
+    "country_hint": "USA",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_TARASENKO_A": {
+    "canonical_id": "AU_TARASENKO_A",
+    "surname": "Tarasenko",
+    "given": "Anna",
+    "full_name": "Anna Tarasenko",
+    "is_vietnamese": false,
+    "initials": "A",
+    "aliases": [
+      "Anna Tarasenko"
+    ],
+    "papers": [
+      "QT024"
+    ],
+    "role_in_papers": {
+      "QT024": 1
+    },
+    "country_hint": "",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_CRISP_D": {
+    "canonical_id": "AU_CRISP_D",
+    "surname": "Crisp",
+    "given": "Dimity",
+    "full_name": "Dimity Crisp",
+    "is_vietnamese": false,
+    "initials": "D",
+    "aliases": [
+      "Dimity Crisp"
+    ],
+    "papers": [
+      "QT025"
+    ],
+    "role_in_papers": {
+      "QT025": 1
+    },
+    "country_hint": "Australia",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_RICKWOOD_D": {
+    "canonical_id": "AU_RICKWOOD_D",
+    "surname": "Rickwood",
+    "given": "Debra",
+    "full_name": "Debra Rickwood",
+    "is_vietnamese": false,
+    "initials": "D",
+    "aliases": [
+      "Debra Rickwood"
+    ],
+    "papers": [
+      "QT025"
+    ],
+    "role_in_papers": {
+      "QT025": 2
+    },
+    "country_hint": "Australia",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_BURNS_R": {
+    "canonical_id": "AU_BURNS_R",
+    "surname": "Burns",
+    "given": "Richard",
+    "full_name": "Richard Burns",
+    "is_vietnamese": false,
+    "initials": "R",
+    "aliases": [
+      "Richard Burns"
+    ],
+    "papers": [
+      "QT025"
+    ],
+    "role_in_papers": {
+      "QT025": 3
+    },
+    "country_hint": "Australia",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_BARIOLA_E": {
+    "canonical_id": "AU_BARIOLA_E",
+    "surname": "Bariola",
+    "given": "Emily",
+    "full_name": "Emily Bariola",
+    "is_vietnamese": false,
+    "initials": "E",
+    "aliases": [
+      "Emily Bariola"
+    ],
+    "papers": [
+      "QT025"
+    ],
+    "role_in_papers": {
+      "QT025": 4
+    },
+    "country_hint": "Australia",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_BAKER_C": {
+    "canonical_id": "AU_BAKER_C",
+    "surname": "Baker",
+    "given": "Carl",
+    "full_name": "Carl Baker",
+    "is_vietnamese": false,
+    "initials": "C",
+    "aliases": [
+      "Carl Baker"
+    ],
+    "papers": [
+      "QT026"
+    ],
+    "role_in_papers": {
+      "QT026": 1
+    },
+    "country_hint": "UK",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_LIBRARY_HOC": {
+    "canonical_id": "AU_LIBRARY_HOC",
+    "surname": "Library",
+    "given": "House of Commons",
+    "full_name": "House of Commons Library",
+    "is_vietnamese": false,
+    "initials": "HOC",
+    "aliases": [
+      "House of Commons Library"
+    ],
+    "papers": [
+      "QT026"
+    ],
+    "role_in_papers": {
+      "QT026": 2
+    },
+    "country_hint": "UK",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_PARLIAMENT_U": {
+    "canonical_id": "AU_PARLIAMENT_U",
+    "surname": "Parliament",
+    "given": "UK",
+    "full_name": "UK Parliament",
+    "is_vietnamese": false,
+    "initials": "U",
+    "aliases": [
+      "UK Parliament"
+    ],
+    "papers": [
+      "QT026"
+    ],
+    "role_in_papers": {
+      "QT026": 3
+    },
+    "country_hint": "UK",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_LICENCE_MIMINIITACC": {
+    "canonical_id": "AU_LICENCE_MIMINIITACC",
+    "surname": "licence",
+    "given": "material. If material is not included in the article’s Creative Commons",
+    "full_name": "material. If material is not included in the article’s Creative Commons licence",
+    "is_vietnamese": false,
+    "initials": "MIMINIITACC",
+    "aliases": [
+      "material. If material is not included in the article’s Creative Commons licence"
+    ],
+    "papers": [
+      "QT029"
+    ],
+    "role_in_papers": {
+      "QT029": 1
+    },
+    "country_hint": "",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_OR_YIUINPBSR": {
+    "canonical_id": "AU_OR_YIUINPBSR",
+    "surname": "or",
+    "given": "your intended use is not permitted by statutory regulation",
+    "full_name": "your intended use is not permitted by statutory regulation or",
+    "is_vietnamese": false,
+    "initials": "YIUINPBSR",
+    "aliases": [
+      "your intended use is not permitted by statutory regulation or"
+    ],
+    "papers": [
+      "QT029"
+    ],
+    "role_in_papers": {
+      "QT029": 2
+    },
+    "country_hint": "",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_DONGJUN_Z": {
+    "canonical_id": "AU_DONGJUN_Z",
+    "surname": "Dongjun",
+    "given": "Zhang",
+    "full_name": "Zhang Dongjun",
+    "is_vietnamese": false,
+    "initials": "Z",
+    "aliases": [
+      "Zhang Dongjun"
+    ],
+    "papers": [
+      "QT030"
+    ],
+    "role_in_papers": {
+      "QT030": 1
+    },
+    "country_hint": "",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_MINGYUE_W": {
+    "canonical_id": "AU_MINGYUE_W",
+    "surname": "Mingyue",
+    "given": "Wu",
+    "full_name": "Wu Mingyue",
+    "is_vietnamese": false,
+    "initials": "W",
+    "aliases": [
+      "Wu Mingyue"
+    ],
+    "papers": [
+      "QT030"
+    ],
+    "role_in_papers": {
+      "QT030": 2
+    },
+    "country_hint": "",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_MA_I": {
+    "canonical_id": "AU_MA_I",
+    "surname": "MA",
+    "given": "Islam",
+    "full_name": "Islam MA",
+    "is_vietnamese": false,
+    "initials": "I",
+    "aliases": [
+      "Islam MA"
+    ],
+    "papers": [
+      "QT031"
+    ],
+    "role_in_papers": {
+      "QT031": 1
+    },
+    "country_hint": "",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_PSYCHOLOGY_SO": {
+    "canonical_id": "AU_PSYCHOLOGY_SO",
+    "surname": "Psychology",
+    "given": "School of",
+    "full_name": "School of Psychology",
+    "is_vietnamese": false,
+    "initials": "SO",
+    "aliases": [
+      "School of Psychology"
+    ],
+    "papers": [
+      "QT032"
+    ],
+    "role_in_papers": {
+      "QT032": 1
+    },
+    "country_hint": "Ireland",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_DUBLIN_X": {
+    "canonical_id": "AU_DUBLIN_X",
+    "surname": "Dublin",
+    "given": "",
+    "full_name": "Dublin",
+    "is_vietnamese": false,
+    "initials": "",
+    "aliases": [
+      "Dublin"
+    ],
+    "papers": [
+      "QT032"
+    ],
+    "role_in_papers": {
+      "QT032": 2
+    },
+    "country_hint": "Ireland",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_IRELAND_X": {
+    "canonical_id": "AU_IRELAND_X",
+    "surname": "Ireland",
+    "given": "",
+    "full_name": "Ireland",
+    "is_vietnamese": false,
+    "initials": "",
+    "aliases": [
+      "Ireland"
+    ],
+    "papers": [
+      "QT032"
+    ],
+    "role_in_papers": {
+      "QT032": 3
+    },
+    "country_hint": "Ireland",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_SCHMIDTPERSSON_J": {
+    "canonical_id": "AU_SCHMIDTPERSSON_J",
+    "surname": "Schmidt-Persson",
+    "given": "Jesper",
+    "full_name": "Jesper Schmidt-Persson",
+    "is_vietnamese": false,
+    "initials": "J",
+    "aliases": [
+      "Jesper Schmidt-Persson"
+    ],
+    "papers": [
+      "QT033"
+    ],
+    "role_in_papers": {
+      "QT033": 1
+    },
+    "country_hint": "",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_PHD_X": {
+    "canonical_id": "AU_PHD_X",
+    "surname": "PhD",
+    "given": "",
+    "full_name": "PhD",
+    "is_vietnamese": false,
+    "initials": "",
+    "aliases": [
+      "PhD"
+    ],
+    "papers": [
+      "QT033",
+      "QT043"
+    ],
+    "role_in_papers": {
+      "QT033": 10,
+      "QT043": 11
+    },
+    "country_hint": "",
+    "n_papers": 2,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_RASMUSSEN_MGB": {
+    "canonical_id": "AU_RASMUSSEN_MGB",
+    "surname": "Rasmussen",
+    "given": "Martin Gillies Banke",
+    "full_name": "Martin Gillies Banke Rasmussen",
+    "is_vietnamese": false,
+    "initials": "MGB",
+    "aliases": [
+      "Martin Gillies Banke Rasmussen"
+    ],
+    "papers": [
+      "QT033"
+    ],
+    "role_in_papers": {
+      "QT033": 3
+    },
+    "country_hint": "",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_SRENSEN_SO": {
+    "canonical_id": "AU_SRENSEN_SO",
+    "surname": "Sørensen",
+    "given": "Sarah Overgaard",
+    "full_name": "Sarah Overgaard Sørensen",
+    "is_vietnamese": false,
+    "initials": "SO",
+    "aliases": [
+      "Sarah Overgaard Sørensen"
+    ],
+    "papers": [
+      "QT033"
+    ],
+    "role_in_papers": {
+      "QT033": 5
+    },
+    "country_hint": "",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_MSC_X": {
+    "canonical_id": "AU_MSC_X",
+    "surname": "MSc",
+    "given": "",
+    "full_name": "MSc",
+    "is_vietnamese": false,
+    "initials": "",
+    "aliases": [
+      "MSc"
+    ],
+    "papers": [
+      "QT033"
+    ],
+    "role_in_papers": {
+      "QT033": 8
+    },
+    "country_hint": "",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_MORTENSEN_SR": {
+    "canonical_id": "AU_MORTENSEN_SR",
+    "surname": "Mortensen",
+    "given": "Sofie Rath",
+    "full_name": "Sofie Rath Mortensen",
+    "is_vietnamese": false,
+    "initials": "SR",
+    "aliases": [
+      "Sofie Rath Mortensen"
+    ],
+    "papers": [
+      "QT033"
+    ],
+    "role_in_papers": {
+      "QT033": 7
+    },
+    "country_hint": "",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_OLESEN_LG": {
+    "canonical_id": "AU_OLESEN_LG",
+    "surname": "Olesen",
+    "given": "Line Grønholt",
+    "full_name": "Line Grønholt Olesen",
+    "is_vietnamese": false,
+    "initials": "LG",
+    "aliases": [
+      "Line Grønholt Olesen"
+    ],
+    "papers": [
+      "QT033"
+    ],
+    "role_in_papers": {
+      "QT033": 9
+    },
+    "country_hint": "",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_JEFFERIES_P": {
+    "canonical_id": "AU_JEFFERIES_P",
+    "surname": "Jefferies",
+    "given": "Philip",
+    "full_name": "Philip Jefferies",
+    "is_vietnamese": false,
+    "initials": "P",
+    "aliases": [
+      "Philip Jefferies"
+    ],
+    "papers": [
+      "QT035"
+    ],
+    "role_in_papers": {
+      "QT035": 1
+    },
+    "country_hint": "",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_UNGAR_M": {
+    "canonical_id": "AU_UNGAR_M",
+    "surname": "Ungar",
+    "given": "Michael",
+    "full_name": "Michael Ungar",
+    "is_vietnamese": false,
+    "initials": "M",
+    "aliases": [
+      "Michael Ungar"
+    ],
+    "papers": [
+      "QT035"
+    ],
+    "role_in_papers": {
+      "QT035": 2
+    },
+    "country_hint": "",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_MOON_Y": {
+    "canonical_id": "AU_MOON_Y",
+    "surname": "Moon",
+    "given": "Yonghwan",
+    "full_name": "Yonghwan Moon",
+    "is_vietnamese": false,
+    "initials": "Y",
+    "aliases": [
+      "Yonghwan Moon"
+    ],
+    "papers": [
+      "QT036"
+    ],
+    "role_in_papers": {
+      "QT036": 1
+    },
+    "country_hint": "Korea",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_WOO_H": {
+    "canonical_id": "AU_WOO_H",
+    "surname": "Woo",
+    "given": "Hyekyung",
+    "full_name": "Hyekyung Woo",
+    "is_vietnamese": false,
+    "initials": "H",
+    "aliases": [
+      "Hyekyung Woo"
+    ],
+    "papers": [
+      "QT036"
+    ],
+    "role_in_papers": {
+      "QT036": 2
+    },
+    "country_hint": "Korea",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_LICENCE_AAIITACC": {
+    "canonical_id": "AU_LICENCE_AAIITACC",
+    "surname": "licence",
+    "given": "article are included in the article’s Creative Commons",
+    "full_name": "article are included in the article’s Creative Commons licence",
+    "is_vietnamese": false,
+    "initials": "AAIITACC",
+    "aliases": [
+      "article are included in the article’s Creative Commons licence"
+    ],
+    "papers": [
+      "QT038"
+    ],
+    "role_in_papers": {
+      "QT038": 1
+    },
+    "country_hint": "Sri Lanka",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_INCLUDED_UIOIACLTTMIMIN": {
+    "canonical_id": "AU_INCLUDED_UIOIACLTTMIMIN",
+    "surname": "included",
+    "given": "unless indicated otherwise in a credit line to the material. If material is not",
+    "full_name": "unless indicated otherwise in a credit line to the material. If material is not included",
+    "is_vietnamese": false,
+    "initials": "UIOIACLTTMIMIN",
+    "aliases": [
+      "unless indicated otherwise in a credit line to the material. If material is not included"
+    ],
+    "papers": [
+      "QT038"
+    ],
+    "role_in_papers": {
+      "QT038": 2
+    },
+    "country_hint": "Sri Lanka",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_XIAN_J": {
+    "canonical_id": "AU_XIAN_J",
+    "surname": "Xian",
+    "given": "Jinhua",
+    "full_name": "Jinhua Xian",
+    "is_vietnamese": false,
+    "initials": "J",
+    "aliases": [
+      "Jinhua Xian"
+    ],
+    "papers": [
+      "QT039"
+    ],
+    "role_in_papers": {
+      "QT039": 1
+    },
+    "country_hint": "",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_ZHANG_Y": {
+    "canonical_id": "AU_ZHANG_Y",
+    "surname": "Zhang",
+    "given": "Yan",
+    "full_name": "Yan Zhang",
+    "is_vietnamese": false,
+    "initials": "Y",
+    "aliases": [
+      "Yan Zhang"
+    ],
+    "papers": [
+      "QT039"
+    ],
+    "role_in_papers": {
+      "QT039": 2
+    },
+    "country_hint": "",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_JIANG_B": {
+    "canonical_id": "AU_JIANG_B",
+    "surname": "Jiang",
+    "given": "Bo",
+    "full_name": "Bo Jiang",
+    "is_vietnamese": false,
+    "initials": "B",
+    "aliases": [
+      "Bo Jiang"
+    ],
+    "papers": [
+      "QT039"
+    ],
+    "role_in_papers": {
+      "QT039": 3
+    },
+    "country_hint": "",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_DOC_LSL": {
+    "canonical_id": "AU_DOC_LSL",
+    "surname": "độc",
+    "given": "lập sàng lọc",
+    "full_name": "độc lập sàng lọc",
+    "is_vietnamese": true,
+    "initials": "LSL",
+    "aliases": [
+      "độc lập sàng lọc"
+    ],
+    "papers": [
+      "QT040"
+    ],
+    "role_in_papers": {
+      "QT040": 1
+    },
+    "country_hint": "",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_TRICH_X": {
+    "canonical_id": "AU_TRICH_X",
+    "surname": "trích",
+    "given": "xuất",
+    "full_name": "trích xuất",
+    "is_vietnamese": true,
+    "initials": "X",
+    "aliases": [
+      "trích xuất"
+    ],
+    "papers": [
+      "QT040"
+    ],
+    "role_in_papers": {
+      "QT040": 2
+    },
+    "country_hint": "",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_DANH_GTLRMSDHGPTPTNTVK": {
+    "canonical_id": "AU_DANH_GTLRMSDHGPTPTNTVK",
+    "surname": "đánh",
+    "given": "giá thiên lệch. Random-effects meta-analysis sử dụng Hedges g. Phân tích phụ theo: nền tảng (CBT vs khác)",
+    "full_name": "đánh giá thiên lệch. Random-effects meta-analysis sử dụng Hedges g. Phân tích phụ theo: nền tảng (CBT vs khác)",
+    "is_vietnamese": true,
+    "initials": "GTLRMSDHGPTPTNTVK",
+    "aliases": [
+      "đánh giá thiên lệch. Random-effects meta-analysis sử dụng Hedges g. Phân tích phụ theo: nền tảng (CBT vs khác)"
+    ],
+    "papers": [
+      "QT040"
+    ],
+    "role_in_papers": {
+      "QT040": 3
+    },
+    "country_hint": "",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_THIET_KVTQ": {
+    "canonical_id": "AU_THIET_KVTQ",
+    "surname": "thiết",
+    "given": "kế (SAD-specific vs tổng quát)",
+    "full_name": "thiết kế (SAD-specific vs tổng quát)",
+    "is_vietnamese": true,
+    "initials": "KVTQ",
+    "aliases": [
+      "thiết kế (SAD-specific vs tổng quát)"
+    ],
+    "papers": [
+      "QT040"
+    ],
+    "role_in_papers": {
+      "QT040": 4
+    },
+    "country_hint": "",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_CO_HDNVTH": {
+    "canonical_id": "AU_CO_HDNVTH",
+    "surname": "có",
+    "given": "hướng dẫn người vs tự học",
+    "full_name": "có hướng dẫn người vs tự học",
+    "is_vietnamese": true,
+    "initials": "HDNVTH",
+    "aliases": [
+      "có hướng dẫn người vs tự học"
+    ],
+    "papers": [
+      "QT040"
+    ],
+    "role_in_papers": {
+      "QT040": 5
+    },
+    "country_hint": "",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_DOI_CVK": {
+    "canonical_id": "AU_DOI_CVK",
+    "surname": "đối",
+    "given": "chứng (WL vs khác)",
+    "full_name": "đối chứng (WL vs khác)",
+    "is_vietnamese": true,
+    "initials": "CVK",
+    "aliases": [
+      "đối chứng (WL vs khác)"
+    ],
+    "papers": [
+      "QT040"
+    ],
+    "role_in_papers": {
+      "QT040": 6
+    },
+    "country_hint": "",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_ADDICTION_TEOSM": {
+    "canonical_id": "AU_ADDICTION_TEOSM",
+    "surname": "Addiction",
+    "given": "The Effects of Social Media",
+    "full_name": "The Effects of Social Media Addiction",
+    "is_vietnamese": false,
+    "initials": "TEOSM",
+    "aliases": [
+      "The Effects of Social Media Addiction"
+    ],
+    "papers": [
+      "QT041"
+    ],
+    "role_in_papers": {
+      "QT041": 1
+    },
+    "country_hint": "China",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_ACADEMIC_X": {
+    "canonical_id": "AU_ACADEMIC_X",
+    "surname": "Academic",
+    "given": "",
+    "full_name": "Academic",
+    "is_vietnamese": false,
+    "initials": "",
+    "aliases": [
+      "Academic"
+    ],
+    "papers": [
+      "QT041"
+    ],
+    "role_in_papers": {
+      "QT041": 2
+    },
+    "country_hint": "China",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_BRESS_JN": {
+    "canonical_id": "AU_BRESS_JN",
+    "surname": "Bress",
+    "given": "Jennifer N.",
+    "full_name": "Jennifer N. Bress",
+    "is_vietnamese": false,
+    "initials": "JN",
+    "aliases": [
+      "Jennifer N. Bress"
+    ],
+    "papers": [
+      "QT043"
+    ],
+    "role_in_papers": {
+      "QT043": 1
+    },
+    "country_hint": "",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_FALK_A": {
+    "canonical_id": "AU_FALK_A",
+    "surname": "Falk",
+    "given": "Avital",
+    "full_name": "Avital Falk",
+    "is_vietnamese": false,
+    "initials": "A",
+    "aliases": [
+      "Avital Falk"
+    ],
+    "papers": [
+      "QT043"
+    ],
+    "role_in_papers": {
+      "QT043": 3
+    },
+    "country_hint": "",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_SCHIER_MM": {
+    "canonical_id": "AU_SCHIER_MM",
+    "surname": "Schier",
+    "given": "Maddy M.",
+    "full_name": "Maddy M. Schier",
+    "is_vietnamese": false,
+    "initials": "MM",
+    "aliases": [
+      "Maddy M. Schier"
+    ],
+    "papers": [
+      "QT043"
+    ],
+    "role_in_papers": {
+      "QT043": 5
+    },
+    "country_hint": "",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_JAYWANT_A": {
+    "canonical_id": "AU_JAYWANT_A",
+    "surname": "Jaywant",
+    "given": "Abhishek",
+    "full_name": "Abhishek Jaywant",
+    "is_vietnamese": false,
+    "initials": "A",
+    "aliases": [
+      "Abhishek Jaywant"
+    ],
+    "papers": [
+      "QT043"
+    ],
+    "role_in_papers": {
+      "QT043": 6
+    },
+    "country_hint": "",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_MORONEY_E": {
+    "canonical_id": "AU_MORONEY_E",
+    "surname": "Moroney",
+    "given": "Elizabeth",
+    "full_name": "Elizabeth Moroney",
+    "is_vietnamese": false,
+    "initials": "E",
+    "aliases": [
+      "Elizabeth Moroney"
+    ],
+    "papers": [
+      "QT043"
+    ],
+    "role_in_papers": {
+      "QT043": 8
+    },
+    "country_hint": "",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_DARGIS_M": {
+    "canonical_id": "AU_DARGIS_M",
+    "surname": "Dargis",
+    "given": "Monika",
+    "full_name": "Monika Dargis",
+    "is_vietnamese": false,
+    "initials": "M",
+    "aliases": [
+      "Monika Dargis"
+    ],
+    "papers": [
+      "QT043"
+    ],
+    "role_in_papers": {
+      "QT043": 10
+    },
+    "country_hint": "",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_CHINH_CCTQHT": {
+    "canonical_id": "AU_CHINH_CCTQHT",
+    "surname": "chính",
+    "given": "Chenyi Cai). Tổng quan hệ thống",
+    "full_name": "chính Chenyi Cai). Tổng quan hệ thống",
+    "is_vietnamese": true,
+    "initials": "CCTQHT",
+    "aliases": [
+      "chính Chenyi Cai). Tổng quan hệ thống"
+    ],
+    "papers": [
+      "QT044"
+    ],
+    "role_in_papers": {
+      "QT044": 1
+    },
+    "country_hint": "",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_PHAN_TTHCRVCTKNPHTTCTEVTNLÝTGCLCPCTPC蔡C": {
+    "canonical_id": "AU_PHAN_TTHCRVCTKNPHTTCTEVTNLÝTGCLCPCTPC蔡C",
+    "surname": "phân",
+    "given": "tích tổng hợp các RCT về can thiệp khả năng phục hồi (resilience) tại trường cho trẻ em + vị thành niên. LƯU Ý: tác giả chính là Cai (không phải Cao) theo Pinyin của 蔡 (họ Cai)",
+    "full_name": "phân tích tổng hợp các RCT về can thiệp khả năng phục hồi (resilience) tại trường cho trẻ em + vị thành niên. LƯU Ý: tác giả chính là Cai (không phải Cao) theo Pinyin của 蔡 (họ Cai)",
+    "is_vietnamese": true,
+    "initials": "TTHCRVCTKNPHTTCTEVTNLÝTGCLCPCTPC蔡C",
+    "aliases": [
+      "phân tích tổng hợp các RCT về can thiệp khả năng phục hồi (resilience) tại trường cho trẻ em + vị thành niên. LƯU Ý: tác giả chính là Cai (không phải Cao) theo Pinyin của 蔡 (họ Cai)"
+    ],
+    "papers": [
+      "QT044"
+    ],
+    "role_in_papers": {
+      "QT044": 2
+    },
+    "country_hint": "",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_PHD_KM": {
+    "canonical_id": "AU_PHD_KM",
+    "surname": "PhD",
+    "given": "Kazuki Matsumoto",
+    "full_name": "Kazuki Matsumoto PhD",
+    "is_vietnamese": false,
+    "initials": "KM",
+    "aliases": [
+      "Kazuki Matsumoto PhD"
+    ],
+    "papers": [
+      "QT045"
+    ],
+    "role_in_papers": {
+      "QT045": 1
+    },
+    "country_hint": "Japan",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_PHD_SH": {
+    "canonical_id": "AU_PHD_SH",
+    "surname": "PhD",
+    "given": "Sayo Hamatani",
+    "full_name": "Sayo Hamatani PhD",
+    "is_vietnamese": false,
+    "initials": "SH",
+    "aliases": [
+      "Sayo Hamatani PhD"
+    ],
+    "papers": [
+      "QT045"
+    ],
+    "role_in_papers": {
+      "QT045": 2
+    },
+    "country_hint": "Japan",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_PHD_KS": {
+    "canonical_id": "AU_PHD_KS",
+    "surname": "PhD",
+    "given": "Kiko Shiga",
+    "full_name": "Kiko Shiga PhD",
+    "is_vietnamese": false,
+    "initials": "KS",
+    "aliases": [
+      "Kiko Shiga PhD"
+    ],
+    "papers": [
+      "QT045"
+    ],
+    "role_in_papers": {
+      "QT045": 3
+    },
+    "country_hint": "Japan",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_PHD_KI": {
+    "canonical_id": "AU_PHD_KI",
+    "surname": "PhD",
+    "given": "Kiyoko Iiboshi",
+    "full_name": "Kiyoko Iiboshi PhD",
+    "is_vietnamese": false,
+    "initials": "KI",
+    "aliases": [
+      "Kiyoko Iiboshi PhD"
+    ],
+    "papers": [
+      "QT045"
+    ],
+    "role_in_papers": {
+      "QT045": 4
+    },
+    "country_hint": "Japan",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_PHD_MK": {
+    "canonical_id": "AU_PHD_MK",
+    "surname": "PhD",
+    "given": "Makiko Kasai",
+    "full_name": "Makiko Kasai PhD",
+    "is_vietnamese": false,
+    "initials": "MK",
+    "aliases": [
+      "Makiko Kasai PhD"
+    ],
+    "papers": [
+      "QT045"
+    ],
+    "role_in_papers": {
+      "QT045": 5
+    },
+    "country_hint": "Japan",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_PSYCHIATRY_C": {
+    "canonical_id": "AU_PSYCHIATRY_C",
+    "surname": "Psychiatry",
+    "given": "Child",
+    "full_name": "Child Psychiatry",
+    "is_vietnamese": false,
+    "initials": "C",
+    "aliases": [
+      "Child Psychiatry"
+    ],
+    "papers": [
+      "QT046"
+    ],
+    "role_in_papers": {
+      "QT046": 1
+    },
+    "country_hint": "",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU__HD": {
+    "canonical_id": "AU__HD",
+    "surname": ":–",
+    "given": "Human Development ()",
+    "full_name": "Human Development () :–",
+    "is_vietnamese": false,
+    "initials": "HD",
+    "aliases": [
+      "Human Development () :–"
+    ],
+    "papers": [
+      "QT046"
+    ],
+    "role_in_papers": {
+      "QT046": 2
+    },
+    "country_hint": "",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_CHAT_LBCNRTKPHNCĐVCĐHTTKRRTTĐN": {
+    "canonical_id": "AU_CHAT_LBCNRTKPHNCĐVCĐHTTKRRTTĐN",
+    "surname": "\"Chất",
+    "given": "lượng bằng chứng nền RẤT THẤP khiến phát hiện này CHƯA ĐỦ vững chắc để hỗ trợ triển khai rộng rãi tại thời điểm này.\"",
+    "full_name": "\"Chất lượng bằng chứng nền RẤT THẤP khiến phát hiện này CHƯA ĐỦ vững chắc để hỗ trợ triển khai rộng rãi tại thời điểm này.\"",
+    "is_vietnamese": true,
+    "initials": "LBCNRTKPHNCĐVCĐHTTKRRTTĐN",
+    "aliases": [
+      "\"Chất lượng bằng chứng nền RẤT THẤP khiến phát hiện này CHƯA ĐỦ vững chắc để hỗ trợ triển khai rộng rãi tại thời điểm này.\""
+    ],
+    "papers": [
+      "QT049"
+    ],
+    "role_in_papers": {
+      "QT049": 1
+    },
+    "country_hint": "",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_HOA_PT": {
+    "canonical_id": "AU_HOA_PT",
+    "surname": "Phạm",
+    "given": "Thị Thu Hoa",
+    "full_name": "Phạm Thị Thu Hoa",
+    "is_vietnamese": true,
+    "initials": "TTH",
+    "aliases": [
+      "Phạm Thị Thu Hoa"
+    ],
+    "papers": [
+      "VN001"
+    ],
+    "role_in_papers": {
+      "VN001": 1
+    },
+    "country_hint": "Vietnam",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_DO_TT": {
+    "canonical_id": "AU_DO_TT",
+    "surname": "Đỗ",
+    "given": "Thị Trang",
+    "full_name": "Đỗ Thị Trang",
+    "is_vietnamese": true,
+    "initials": "TT",
+    "aliases": [
+      "Đỗ Thị Trang"
+    ],
+    "papers": [
+      "VN001"
+    ],
+    "role_in_papers": {
+      "VN001": 2
+    },
+    "country_hint": "Vietnam",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_NGUYEN_TL": {
+    "canonical_id": "AU_NGUYEN_TL",
+    "surname": "Nguyễn",
+    "given": "Thị Liên",
+    "full_name": "Nguyễn Thị Liên",
+    "is_vietnamese": true,
+    "initials": "TL",
+    "aliases": [
+      "Nguyễn Thị Liên"
+    ],
+    "papers": [
+      "VN001"
+    ],
+    "role_in_papers": {
+      "VN001": 3
+    },
+    "country_hint": "Vietnam",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_NGO_AV": {
+    "canonical_id": "AU_NGO_AV",
+    "surname": "Ngô",
+    "given": "Anh Vinh",
+    "full_name": "Ngô Anh Vinh",
+    "is_vietnamese": true,
+    "initials": "AV",
+    "aliases": [
+      "Ngô Anh Vinh"
+    ],
+    "papers": [
+      "VN001",
+      "VN015"
+    ],
+    "role_in_papers": {
+      "VN001": 4,
+      "VN015": 1
+    },
+    "country_hint": "Vietnam",
+    "n_papers": 2,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_VU_ML": {
+    "canonical_id": "AU_VU_ML",
+    "surname": "Vũ",
+    "given": "Mạnh Lợi",
+    "full_name": "Vũ Mạnh Lợi",
+    "is_vietnamese": true,
+    "initials": "ML",
+    "aliases": [
+      "Vũ Mạnh Lợi"
+    ],
+    "papers": [
+      "VN002"
+    ],
+    "role_in_papers": {
+      "VN002": 1
+    },
+    "country_hint": "Vietnam",
+    "n_papers": 1,
+    "orcid": "",
+    "affiliations": [
+      "Institute of Sociology (IOS), Vietnam Academy of Social Sciences"
+    ],
+    "country_primary": "Vietnam",
+    "expertise": [
+      "adolescent mental health surveys",
+      "V-NAMHS",
+      "sociology"
+    ],
+    "role_notes": "V-NAMHS Principal Investigator Vietnam side",
+    "is_priority": true,
+    "child_adolescent_focus": true
+  },
+  "AU_NGUYEN_ĐVXHH": {
+    "canonical_id": "AU_NGUYEN_ĐVXHH",
+    "surname": "Nguyễn",
+    "given": "Đức Vinh (Viện Xã hội học",
+    "full_name": "Nguyễn Đức Vinh (Viện Xã hội học",
+    "is_vietnamese": true,
+    "initials": "ĐVXHH",
+    "aliases": [
+      "Nguyễn Đức Vinh (Viện Xã hội học"
+    ],
+    "papers": [
+      "VN002"
+    ],
+    "role_in_papers": {
+      "VN002": 2
+    },
+    "country_hint": "Vietnam",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_VASS_X": {
+    "canonical_id": "AU_VASS_X",
+    "surname": "VASS)",
+    "given": "",
+    "full_name": "VASS)",
+    "is_vietnamese": false,
+    "initials": "",
+    "aliases": [
+      "VASS)"
+    ],
+    "papers": [
+      "VN002"
+    ],
+    "role_in_papers": {
+      "VN002": 3
+    },
+    "country_hint": "Vietnam",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_DAO_TKHXHHVN": {
+    "canonical_id": "AU_DAO_TKHXHHVN",
+    "surname": "Đào",
+    "given": "Thị Khánh Hoa (Hội Xã hội học Việt Nam)",
+    "full_name": "Đào Thị Khánh Hoa (Hội Xã hội học Việt Nam)",
+    "is_vietnamese": true,
+    "initials": "TKHXHHVN",
+    "aliases": [
+      "Đào Thị Khánh Hoa (Hội Xã hội học Việt Nam)"
+    ],
+    "papers": [
+      "VN002"
+    ],
+    "role_in_papers": {
+      "VN002": 4
+    },
+    "country_hint": "Vietnam",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_PHAM_X": {
+    "canonical_id": "AU_PHAM_X",
+    "surname": "Pham",
+    "given": "",
+    "full_name": "Pham",
+    "is_vietnamese": true,
+    "initials": "",
+    "aliases": [
+      "Pham"
+    ],
+    "papers": [
+      "VN003"
+    ],
+    "role_in_papers": {
+      "VN003": 1
+    },
+    "country_hint": "Vietnam",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_STRESS_LO": {
+    "canonical_id": "AU_STRESS_LO",
+    "surname": "Stress",
+    "given": "Levels of",
+    "full_name": "Levels of Stress",
+    "is_vietnamese": false,
+    "initials": "LO",
+    "aliases": [
+      "Levels of Stress"
+    ],
+    "papers": [
+      "VN014"
+    ],
+    "role_in_papers": {
+      "VN014": 1
+    },
+    "country_hint": "Vietnam",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_ANXIETY_X": {
+    "canonical_id": "AU_ANXIETY_X",
+    "surname": "Anxiety",
+    "given": "",
+    "full_name": "Anxiety",
+    "is_vietnamese": false,
+    "initials": "",
+    "aliases": [
+      "Anxiety"
+    ],
+    "papers": [
+      "VN014"
+    ],
+    "role_in_papers": {
+      "VN014": 2
+    },
+    "country_hint": "Vietnam",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_VU_TMH": {
+    "canonical_id": "AU_VU_TMH",
+    "surname": "Vũ",
+    "given": "Thị Mỹ Hạnh",
+    "full_name": "Vũ Thị Mỹ Hạnh",
+    "is_vietnamese": true,
+    "initials": "TMH",
+    "aliases": [
+      "Vũ Thị Mỹ Hạnh"
+    ],
+    "papers": [
+      "VN015"
+    ],
+    "role_in_papers": {
+      "VN015": 2
+    },
+    "country_hint": "Vietnam",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_DO_TBV": {
+    "canonical_id": "AU_DO_TBV",
+    "surname": "Đỗ",
+    "given": "Thị Bích Vân",
+    "full_name": "Đỗ Thị Bích Vân",
+    "is_vietnamese": true,
+    "initials": "TBV",
+    "aliases": [
+      "Đỗ Thị Bích Vân"
+    ],
+    "papers": [
+      "VN015"
+    ],
+    "role_in_papers": {
+      "VN015": 3
+    },
+    "country_hint": "Vietnam",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_DUONG_AT": {
+    "canonical_id": "AU_DUONG_AT",
+    "surname": "Dương",
+    "given": "Anh Tài",
+    "full_name": "Dương Anh Tài",
+    "is_vietnamese": true,
+    "initials": "AT",
+    "aliases": [
+      "Dương Anh Tài"
+    ],
+    "papers": [
+      "VN015"
+    ],
+    "role_in_papers": {
+      "VN015": 4
+    },
+    "country_hint": "Vietnam",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_DO_ML": {
+    "canonical_id": "AU_DO_ML",
+    "surname": "Đỗ",
+    "given": "Minh Loan",
+    "full_name": "Đỗ Minh Loan",
+    "is_vietnamese": true,
+    "initials": "ML",
+    "aliases": [
+      "Đỗ Minh Loan"
+    ],
+    "papers": [
+      "VN015"
+    ],
+    "role_in_papers": {
+      "VN015": 5
+    },
+    "country_hint": "Vietnam",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_LE_TTT": {
+    "canonical_id": "AU_LE_TTT",
+    "surname": "Lê",
+    "given": "Thị Thanh Thùy",
+    "full_name": "Lê Thị Thanh Thùy",
+    "is_vietnamese": true,
+    "initials": "TTT",
+    "aliases": [
+      "Lê Thị Thanh Thùy"
+    ],
+    "papers": [
+      "VN015"
+    ],
+    "role_in_papers": {
+      "VN015": 6
+    },
+    "country_hint": "Vietnam",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_NGUYEN_NBQ": {
+    "canonical_id": "AU_NGUYEN_NBQ",
+    "surname": "Nguyễn",
+    "given": "Ngọc Bảo Quyên",
+    "full_name": "Nguyễn Ngọc Bảo Quyên",
+    "is_vietnamese": true,
+    "initials": "NBQ",
+    "aliases": [
+      "Nguyễn Ngọc Bảo Quyên"
+    ],
+    "papers": [
+      "VN016"
+    ],
+    "role_in_papers": {
+      "VN016": 1
+    },
+    "country_hint": "Vietnam",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_LUU_MĐ": {
+    "canonical_id": "AU_LUU_MĐ",
+    "surname": "Lưu",
+    "given": "Minh Đức",
+    "full_name": "Lưu Minh Đức",
+    "is_vietnamese": true,
+    "initials": "MĐ",
+    "aliases": [
+      "Lưu Minh Đức"
+    ],
+    "papers": [
+      "VN016"
+    ],
+    "role_in_papers": {
+      "VN016": 2
+    },
+    "country_hint": "Vietnam",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_VU_MT": {
+    "canonical_id": "AU_VU_MT",
+    "surname": "Vũ",
+    "given": "Minh Thy",
+    "full_name": "Vũ Minh Thy",
+    "is_vietnamese": true,
+    "initials": "MT",
+    "aliases": [
+      "Vũ Minh Thy"
+    ],
+    "papers": [
+      "VN016"
+    ],
+    "role_in_papers": {
+      "VN016": 3
+    },
+    "country_hint": "Vietnam",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_NGUYEN_YM": {
+    "canonical_id": "AU_NGUYEN_YM",
+    "surname": "Nguyễn",
+    "given": "Yến Minh",
+    "full_name": "Nguyễn Yến Minh",
+    "is_vietnamese": true,
+    "initials": "YM",
+    "aliases": [
+      "Nguyễn Yến Minh"
+    ],
+    "papers": [
+      "VN016"
+    ],
+    "role_in_papers": {
+      "VN016": 4
+    },
+    "country_hint": "Vietnam",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_NGUYEN_CA": {
+    "canonical_id": "AU_NGUYEN_CA",
+    "surname": "Nguyễn",
+    "given": "Châu Anh",
+    "full_name": "Nguyễn Châu Anh",
+    "is_vietnamese": true,
+    "initials": "CA",
+    "aliases": [
+      "Nguyễn Châu Anh"
+    ],
+    "papers": [
+      "VN016"
+    ],
+    "role_in_papers": {
+      "VN016": 5
+    },
+    "country_hint": "Vietnam",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_HOANG_LV": {
+    "canonical_id": "AU_HOANG_LV",
+    "surname": "Hoàng",
+    "given": "Lan Vân",
+    "full_name": "Hoàng Lan Vân",
+    "is_vietnamese": true,
+    "initials": "LV",
+    "aliases": [
+      "Hoàng Lan Vân"
+    ],
+    "papers": [
+      "VN016"
+    ],
+    "role_in_papers": {
+      "VN016": 6
+    },
+    "country_hint": "Vietnam",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_GIAP_TTT": {
+    "canonical_id": "AU_GIAP_TTT",
+    "surname": "Giáp",
+    "given": "Thị Thanh Tình",
+    "full_name": "Giáp Thị Thanh Tình",
+    "is_vietnamese": true,
+    "initials": "TTT",
+    "aliases": [
+      "Giáp Thị Thanh Tình"
+    ],
+    "papers": [
+      "VN016"
+    ],
+    "role_in_papers": {
+      "VN016": 7
+    },
+    "country_hint": "Vietnam",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_HO_TTQ": {
+    "canonical_id": "AU_HO_TTQ",
+    "surname": "Hồ",
+    "given": "Thị Trúc Quỳnh",
+    "full_name": "Hồ Thị Trúc Quỳnh",
+    "is_vietnamese": true,
+    "initials": "TTQ",
+    "aliases": [
+      "Hồ Thị Trúc Quỳnh"
+    ],
+    "papers": [
+      "VN019"
+    ],
+    "role_in_papers": {
+      "VN019": 1
+    },
+    "country_hint": "Vietnam",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_TRAN_HVL": {
+    "canonical_id": "AU_TRAN_HVL",
+    "surname": "Trần",
+    "given": "Hồ Vĩnh Lộc",
+    "full_name": "Trần Hồ Vĩnh Lộc",
+    "is_vietnamese": true,
+    "initials": "HVL",
+    "aliases": [
+      "Trần Hồ Vĩnh Lộc"
+    ],
+    "papers": [
+      "VN020"
+    ],
+    "role_in_papers": {
+      "VN020": 1
+    },
+    "country_hint": "Vietnam",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_HUYNH_NVA": {
+    "canonical_id": "AU_HUYNH_NVA",
+    "surname": "Huỳnh",
+    "given": "Ngọc Vân Anh",
+    "full_name": "Huỳnh Ngọc Vân Anh",
+    "is_vietnamese": true,
+    "initials": "NVA",
+    "aliases": [
+      "Huỳnh Ngọc Vân Anh"
+    ],
+    "papers": [
+      "VN020"
+    ],
+    "role_in_papers": {
+      "VN020": 2
+    },
+    "country_hint": "Vietnam",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_TO_GK": {
+    "canonical_id": "AU_TO_GK",
+    "surname": "Tô",
+    "given": "Gia Kiên",
+    "full_name": "Tô Gia Kiên",
+    "is_vietnamese": true,
+    "initials": "GK",
+    "aliases": [
+      "Tô Gia Kiên"
+    ],
+    "papers": [
+      "VN020"
+    ],
+    "role_in_papers": {
+      "VN020": 3
+    },
+    "country_hint": "Vietnam",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_TRAN_TV": {
+    "canonical_id": "AU_TRAN_TV",
+    "surname": "Tran",
+    "given": "Thao Vi",
+    "full_name": "Thao Vi Tran",
+    "is_vietnamese": false,
+    "initials": "TV",
+    "aliases": [
+      "Thao Vi Tran"
+    ],
+    "papers": [
+      "VN021"
+    ],
+    "role_in_papers": {
+      "VN021": 1
+    },
+    "country_hint": "Vietnam",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_HOANG_TLN": {
+    "canonical_id": "AU_HOANG_TLN",
+    "surname": "Hoang",
+    "given": "Thuy Linh Nguyen",
+    "full_name": "Hoang Thuy Linh Nguyen",
+    "is_vietnamese": true,
+    "initials": "TLN",
+    "aliases": [
+      "Hoang Thuy Linh Nguyen"
+    ],
+    "papers": [
+      "VN021"
+    ],
+    "role_in_papers": {
+      "VN021": 2
+    },
+    "country_hint": "Vietnam",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_TRAN_XMT": {
+    "canonical_id": "AU_TRAN_XMT",
+    "surname": "Tran",
+    "given": "Xuan Minh Tri",
+    "full_name": "Xuan Minh Tri Tran",
+    "is_vietnamese": false,
+    "initials": "XMT",
+    "aliases": [
+      "Xuan Minh Tri Tran"
+    ],
+    "papers": [
+      "VN021"
+    ],
+    "role_in_papers": {
+      "VN021": 3
+    },
+    "country_hint": "Vietnam",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_TASHIRO_Y": {
+    "canonical_id": "AU_TASHIRO_Y",
+    "surname": "Tashiro",
+    "given": "Yuri",
+    "full_name": "Yuri Tashiro",
+    "is_vietnamese": false,
+    "initials": "Y",
+    "aliases": [
+      "Yuri Tashiro"
+    ],
+    "papers": [
+      "VN021"
+    ],
+    "role_in_papers": {
+      "VN021": 4
+    },
+    "country_hint": "Vietnam",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_SEINO_K": {
+    "canonical_id": "AU_SEINO_K",
+    "surname": "Seino",
+    "given": "Kaoruko",
+    "full_name": "Kaoruko Seino",
+    "is_vietnamese": false,
+    "initials": "K",
+    "aliases": [
+      "Kaoruko Seino"
+    ],
+    "papers": [
+      "VN021"
+    ],
+    "role_in_papers": {
+      "VN021": 5
+    },
+    "country_hint": "Vietnam",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_VO_TV": {
+    "canonical_id": "AU_VO_TV",
+    "surname": "Vo",
+    "given": "Thang Van",
+    "full_name": "Thang Van Vo",
+    "is_vietnamese": false,
+    "initials": "TV",
+    "aliases": [
+      "Thang Van Vo"
+    ],
+    "papers": [
+      "VN021"
+    ],
+    "role_in_papers": {
+      "VN021": 6
+    },
+    "country_hint": "Vietnam",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_NAKAMURA_K": {
+    "canonical_id": "AU_NAKAMURA_K",
+    "surname": "Nakamura",
+    "given": "Keiko",
+    "full_name": "Keiko Nakamura",
+    "is_vietnamese": false,
+    "initials": "K",
+    "aliases": [
+      "Keiko Nakamura"
+    ],
+    "papers": [
+      "VN021"
+    ],
+    "role_in_papers": {
+      "VN021": 7
+    },
+    "country_hint": "Vietnam",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_NGUYEN_HV": {
+    "canonical_id": "AU_NGUYEN_HV",
+    "surname": "Nguyen",
+    "given": "Hieu Van",
+    "full_name": "Hieu Van Nguyen",
+    "is_vietnamese": false,
+    "initials": "HV",
+    "aliases": [
+      "Hieu Van Nguyen"
+    ],
+    "papers": [
+      "VN023"
+    ],
+    "role_in_papers": {
+      "VN023": 1
+    },
+    "country_hint": "Vietnam",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_PHDC_X": {
+    "canonical_id": "AU_PHDC_X",
+    "surname": "PhDc",
+    "given": "",
+    "full_name": "PhDc",
+    "is_vietnamese": false,
+    "initials": "",
+    "aliases": [
+      "PhDc"
+    ],
+    "papers": [
+      "VN023"
+    ],
+    "role_in_papers": {
+      "VN023": 2
+    },
+    "country_hint": "Vietnam",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_NGUYEN_LTM": {
+    "canonical_id": "AU_NGUYEN_LTM",
+    "surname": "Nguyen",
+    "given": "Lan Thi Mai",
+    "full_name": "Lan Thi Mai Nguyen",
+    "is_vietnamese": false,
+    "initials": "LTM",
+    "aliases": [
+      "Lan Thi Mai Nguyen"
+    ],
+    "papers": [
+      "VN023"
+    ],
+    "role_in_papers": {
+      "VN023": 3
+    },
+    "country_hint": "Vietnam",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_PHDD_X": {
+    "canonical_id": "AU_PHDD_X",
+    "surname": "PhDd",
+    "given": "",
+    "full_name": "PhDd",
+    "is_vietnamese": false,
+    "initials": "",
+    "aliases": [
+      "PhDd"
+    ],
+    "papers": [
+      "VN023"
+    ],
+    "role_in_papers": {
+      "VN023": 4
+    },
+    "country_hint": "Vietnam",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_NGUYEN_PT": {
+    "canonical_id": "AU_NGUYEN_PT",
+    "surname": "Nguyen",
+    "given": "Phuong Thi",
+    "full_name": "Phuong Thi Nguyen",
+    "is_vietnamese": false,
+    "initials": "PT",
+    "aliases": [
+      "Phuong Thi Nguyen"
+    ],
+    "papers": [
+      "VN023"
+    ],
+    "role_in_papers": {
+      "VN023": 5
+    },
+    "country_hint": "Vietnam",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_MSA_X": {
+    "canonical_id": "AU_MSA_X",
+    "surname": "MSa",
+    "given": "",
+    "full_name": "MSa",
+    "is_vietnamese": false,
+    "initials": "",
+    "aliases": [
+      "MSa"
+    ],
+    "papers": [
+      "VN023"
+    ],
+    "role_in_papers": {
+      "VN023": 6
+    },
+    "country_hint": "Vietnam",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_NGUYEN_TT": {
+    "canonical_id": "AU_NGUYEN_TT",
+    "surname": "Nguyen",
+    "given": "Thang Thi",
+    "full_name": "Thang Thi Nguyen",
+    "is_vietnamese": false,
+    "initials": "TT",
+    "aliases": [
+      "Nguyễn Thanh Truyền",
+      "Thang Thi Nguyen"
+    ],
+    "papers": [
+      "VN023",
+      "VN024"
+    ],
+    "role_in_papers": {
+      "VN023": 7,
+      "VN024": 1
+    },
+    "country_hint": "Vietnam",
+    "n_papers": 2,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_PHDA_X": {
+    "canonical_id": "AU_PHDA_X",
+    "surname": "PhDa",
+    "given": "",
+    "full_name": "PhDa",
+    "is_vietnamese": false,
+    "initials": "",
+    "aliases": [
+      "PhDa"
+    ],
+    "papers": [
+      "VN023"
+    ],
+    "role_in_papers": {
+      "VN023": 8
+    },
+    "country_hint": "Vietnam",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_PHAM_TN": {
+    "canonical_id": "AU_PHAM_TN",
+    "surname": "Phạm",
+    "given": "Thị Ngọc",
+    "full_name": "Phạm Thị Ngọc",
+    "is_vietnamese": true,
+    "initials": "TN",
+    "aliases": [
+      "Phạm Thị Ngọc"
+    ],
+    "papers": [
+      "VN025"
+    ],
+    "role_in_papers": {
+      "VN025": 1
+    },
+    "country_hint": "Vietnam",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_HOANG_TG": {
+    "canonical_id": "AU_HOANG_TG",
+    "surname": "Hoàng",
+    "given": "Thị Giang",
+    "full_name": "Hoàng Thị Giang",
+    "is_vietnamese": true,
+    "initials": "TG",
+    "aliases": [
+      "Hoàng Thị Giang"
+    ],
+    "papers": [
+      "VN025"
+    ],
+    "role_in_papers": {
+      "VN025": 2
+    },
+    "country_hint": "Vietnam",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_PHAM_KL": {
+    "canonical_id": "AU_PHAM_KL",
+    "surname": "Phạm",
+    "given": "Khánh Linh",
+    "full_name": "Phạm Khánh Linh",
+    "is_vietnamese": true,
+    "initials": "KL",
+    "aliases": [
+      "Phạm Khánh Linh"
+    ],
+    "papers": [
+      "VN025"
+    ],
+    "role_in_papers": {
+      "VN025": 3
+    },
+    "country_hint": "Vietnam",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_VU_TC": {
+    "canonical_id": "AU_VU_TC",
+    "surname": "Vũ",
+    "given": "Thị Châu",
+    "full_name": "Vũ Thị Châu",
+    "is_vietnamese": true,
+    "initials": "TC",
+    "aliases": [
+      "Vũ Thị Châu"
+    ],
+    "papers": [
+      "VN025"
+    ],
+    "role_in_papers": {
+      "VN025": 4
+    },
+    "country_hint": "Vietnam",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_SINH_CTC": {
+    "canonical_id": "AU_SINH_CTC",
+    "surname": "sinh",
+    "given": "có trầm cảm",
+    "full_name": "sinh có trầm cảm",
+    "is_vietnamese": true,
+    "initials": "CTC",
+    "aliases": [
+      "sinh có trầm cảm"
+    ],
+    "papers": [
+      "VN026"
+    ],
+    "role_in_papers": {
+      "VN026": 1
+    },
+    "country_hint": "Vietnam",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_LO_Â": {
+    "canonical_id": "AU_LO_Â",
+    "surname": "lo",
+    "given": "âu",
+    "full_name": "lo âu",
+    "is_vietnamese": true,
+    "initials": "Â",
+    "aliases": [
+      "lo âu"
+    ],
+    "papers": [
+      "VN026"
+    ],
+    "role_in_papers": {
+      "VN026": 2
+    },
+    "country_hint": "Vietnam",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_STRESS_TĐBTPTA": {
+    "canonical_id": "AU_STRESS_TĐBTPTA",
+    "surname": "stress",
+    "given": "trên địa bàn thành phố Tân An",
+    "full_name": "stress trên địa bàn thành phố Tân An",
+    "is_vietnamese": true,
+    "initials": "TĐBTPTA",
+    "aliases": [
+      "stress trên địa bàn thành phố Tân An"
+    ],
+    "papers": [
+      "VN026"
+    ],
+    "role_in_papers": {
+      "VN026": 3
+    },
+    "country_hint": "Vietnam",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_TINH_LALL": {
+    "canonical_id": "AU_TINH_LALL",
+    "surname": "tỉnh",
+    "given": "Long An lần lượt",
+    "full_name": "tỉnh Long An lần lượt",
+    "is_vietnamese": true,
+    "initials": "LALL",
+    "aliases": [
+      "tỉnh Long An lần lượt"
+    ],
+    "papers": [
+      "VN026"
+    ],
+    "role_in_papers": {
+      "VN026": 4
+    },
+    "country_hint": "Vietnam",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_DINH_X": {
+    "canonical_id": "AU_DINH_X",
+    "surname": "Dinh",
+    "given": "",
+    "full_name": "Dinh",
+    "is_vietnamese": true,
+    "initials": "",
+    "aliases": [
+      "Dinh"
+    ],
+    "papers": [
+      "VN027"
+    ],
+    "role_in_papers": {
+      "VN027": 1
+    },
+    "country_hint": "Vietnam",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_DAO_TN": {
+    "canonical_id": "AU_DAO_TN",
+    "surname": "Đào",
+    "given": "Thị Ngoãn",
+    "full_name": "Đào Thị Ngoãn",
+    "is_vietnamese": true,
+    "initials": "TN",
+    "aliases": [
+      "Đào Thị Ngoãn"
+    ],
+    "papers": [
+      "VN028"
+    ],
+    "role_in_papers": {
+      "VN028": 1
+    },
+    "country_hint": "Vietnam",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_THAI_TT": {
+    "canonical_id": "AU_THAI_TT",
+    "surname": "Thai",
+    "given": "Truc Thanh",
+    "full_name": "Truc Thanh Thai",
+    "is_vietnamese": false,
+    "initials": "TT",
+    "aliases": [
+      "Truc Thanh Thai"
+    ],
+    "papers": [
+      "VN029"
+    ],
+    "role_in_papers": {
+      "VN029": 1
+    },
+    "country_hint": "Vietnam",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_DUONG_MC": {
+    "canonical_id": "AU_DUONG_MC",
+    "surname": "Duong",
+    "given": "Minh Cuong",
+    "full_name": "Minh Cuong Duong",
+    "is_vietnamese": false,
+    "initials": "MC",
+    "aliases": [
+      "Minh Cuong Duong"
+    ],
+    "papers": [
+      "VN029"
+    ],
+    "role_in_papers": {
+      "VN029": 2
+    },
+    "country_hint": "Vietnam",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_MONASHQUTHUPH_HCUIVHỨN": {
+    "canonical_id": "AU_MONASHQUTHUPH_HCUIVHỨN",
+    "surname": "Monash–QUT–HUPH.",
+    "given": "Hạn chế: universal intervention với hiệu ứng nhỏ (d =",
+    "full_name": "Monash–QUT–HUPH. Hạn chế: universal intervention với hiệu ứng nhỏ (d =",
+    "is_vietnamese": true,
+    "initials": "HCUIVHỨN",
+    "aliases": [
+      "Monash–QUT–HUPH. Hạn chế: universal intervention với hiệu ứng nhỏ (d = 0"
+    ],
+    "papers": [
+      "VN030"
+    ],
+    "role_in_papers": {
+      "VN030": 1
+    },
+    "country_hint": "Vietnam",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_KHONG_ĐLÂR": {
+    "canonical_id": "AU_KHONG_ĐLÂR",
+    "surname": "không",
+    "given": "đo lo âu riêng",
+    "full_name": "không đo lo âu riêng",
+    "is_vietnamese": true,
+    "initials": "ĐLÂR",
+    "aliases": [
+      "không đo lo âu riêng"
+    ],
+    "papers": [
+      "VN030"
+    ],
+    "role_in_papers": {
+      "VN030": 3
+    },
+    "country_hint": "Vietnam",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_KHONG_RPTDTMBCCTVTN": {
+    "canonical_id": "AU_KHONG_RPTDTMBCCTVTN",
+    "surname": "không",
+    "given": "randomized. PHẢI trích dẫn trong mọi báo cáo can thiệp VN từ nay",
+    "full_name": "không randomized. PHẢI trích dẫn trong mọi báo cáo can thiệp VN từ nay",
+    "is_vietnamese": true,
+    "initials": "RPTDTMBCCTVTN",
+    "aliases": [
+      "không randomized. PHẢI trích dẫn trong mọi báo cáo can thiệp VN từ nay"
+    ],
+    "papers": [
+      "VN030"
+    ],
+    "role_in_papers": {
+      "VN030": 4
+    },
+    "country_hint": "Vietnam",
+    "n_papers": 1,
+    "is_priority": false,
+    "child_adolescent_focus": false
+  },
+  "AU_ERSKINE_HE": {
+    "canonical_id": "AU_ERSKINE_HE",
+    "surname": "Erskine",
+    "given": "Holly E.",
+    "full_name": "Holly E. Erskine",
+    "is_vietnamese": false,
+    "initials": "HE",
+    "aliases": [
+      "Holly E. Erskine"
+    ],
+    "papers": [],
+    "role_in_papers": {},
+    "country_hint": "Australia",
+    "country_primary": "Australia",
+    "affiliations": [
+      "University of Queensland",
+      "QIMR Berghofer Medical Research Institute"
+    ],
+    "expertise": [
+      "adolescent mental health",
+      "GBD",
+      "NAMHS",
+      "child mental disorders"
+    ],
+    "orcid": "0000-0002-4155-8339",
+    "role_notes": "V-NAMHS PI; GBD co-author; Lancet Psychiatry contributor",
+    "is_priority": true,
+    "child_adolescent_focus": true,
+    "n_papers": 0,
+    "in_our_library": false
+  },
+  "AU_WHITEFORD_HA": {
+    "canonical_id": "AU_WHITEFORD_HA",
+    "surname": "Whiteford",
+    "given": "Harvey A.",
+    "full_name": "Harvey A. Whiteford",
+    "is_vietnamese": false,
+    "initials": "HA",
+    "aliases": [
+      "Harvey A. Whiteford"
+    ],
+    "papers": [],
+    "role_in_papers": {},
+    "country_hint": "Australia",
+    "country_primary": "Australia",
+    "affiliations": [
+      "University of Queensland",
+      "Queensland Centre for Mental Health Research"
+    ],
+    "expertise": [
+      "global MH burden",
+      "GBD mental disorders",
+      "policy"
+    ],
+    "orcid": "0000-0003-4667-6623",
+    "role_notes": "V-NAMHS senior advisor; GBD mental disorders lead",
+    "is_priority": true,
+    "child_adolescent_focus": false,
+    "n_papers": 0,
+    "in_our_library": false
+  },
+  "AU_SCOTT_JG": {
+    "canonical_id": "AU_SCOTT_JG",
+    "surname": "Scott",
+    "given": "James G.",
+    "full_name": "James G. Scott",
+    "is_vietnamese": false,
+    "initials": "JG",
+    "aliases": [
+      "James G. Scott"
+    ],
+    "papers": [],
+    "role_in_papers": {},
+    "country_hint": "Australia",
+    "country_primary": "Australia",
+    "affiliations": [
+      "University of Queensland",
+      "Royal Brisbane and Women's Hospital"
+    ],
+    "expertise": [
+      "child mental disorders",
+      "psychosis",
+      "ADHD",
+      "anxiety"
+    ],
+    "orcid": "0000-0002-0744-0688",
+    "role_notes": "V-NAMHS clinical advisor; child psychiatry",
+    "is_priority": true,
+    "child_adolescent_focus": true,
+    "n_papers": 0,
+    "in_our_library": false
+  },
+  "AU_BLUM_RW": {
+    "canonical_id": "AU_BLUM_RW",
+    "surname": "Blum",
+    "given": "Robert W.",
+    "full_name": "Robert W. Blum",
+    "is_vietnamese": false,
+    "initials": "RW",
+    "aliases": [
+      "Robert W. Blum"
+    ],
+    "papers": [
+      "VN002"
+    ],
+    "role_in_papers": {
+      "VN002": 0
+    },
+    "country_hint": "USA",
+    "country_primary": "USA",
+    "affiliations": [
+      "Johns Hopkins Bloomberg School of Public Health"
+    ],
+    "expertise": [
+      "adolescent health",
+      "GEAS",
+      "resilience",
+      "positive youth development"
+    ],
+    "orcid": "0000-0003-2008-1330",
+    "role_notes": "JHSPH NAMHS Project Lead; co-authored V-NAMHS 2022; Blum et al. 2012 VN suicide",
+    "is_priority": true,
+    "child_adolescent_focus": true,
+    "n_papers": 1,
+    "in_our_library": true
+  },
+  "AU_PATTON_GC": {
+    "canonical_id": "AU_PATTON_GC",
+    "surname": "Patton",
+    "given": "George C.",
+    "full_name": "George C. Patton",
+    "is_vietnamese": false,
+    "initials": "GC",
+    "aliases": [
+      "George C. Patton"
+    ],
+    "papers": [],
+    "role_in_papers": {},
+    "country_hint": "Australia",
+    "country_primary": "Australia",
+    "affiliations": [
+      "Murdoch Children's Research Institute",
+      "University of Melbourne"
+    ],
+    "expertise": [
+      "adolescent health",
+      "Lancet Commission",
+      "global adolescent wellbeing"
+    ],
+    "orcid": "0000-0001-5039-8326",
+    "role_notes": "Lead Lancet Commission on Adolescent Health 2016 \"Our Future\"",
+    "is_priority": true,
+    "child_adolescent_focus": true,
+    "n_papers": 0,
+    "in_our_library": false
+  },
+  "AU_PATEL_V": {
+    "canonical_id": "AU_PATEL_V",
+    "surname": "Patel",
+    "given": "Vikram",
+    "full_name": "Vikram Patel",
+    "is_vietnamese": false,
+    "initials": "V",
+    "aliases": [
+      "Vikram Patel"
+    ],
+    "papers": [],
+    "role_in_papers": {},
+    "country_hint": "USA/India",
+    "country_primary": "USA/India",
+    "affiliations": [
+      "Harvard Medical School",
+      "Public Health Foundation of India"
+    ],
+    "expertise": [
+      "global mental health",
+      "LMIC",
+      "mhGAP",
+      "task-sharing"
+    ],
+    "orcid": "0000-0003-1066-8584",
+    "role_notes": "mhGAP co-creator; Lancet Psychiatry; LMIC MH pioneer",
+    "is_priority": true,
+    "child_adolescent_focus": false,
+    "n_papers": 0,
+    "in_our_library": false
+  },
+  "AU_WEISS_B": {
+    "canonical_id": "AU_WEISS_B",
+    "surname": "Weiss",
+    "given": "Bahr",
+    "full_name": "Bahr Weiss",
+    "is_vietnamese": false,
+    "initials": "B",
+    "aliases": [
+      "Bahr Weiss"
+    ],
+    "papers": [],
+    "role_in_papers": {},
+    "country_hint": "USA",
+    "country_primary": "USA",
+    "affiliations": [
+      "Vanderbilt University"
+    ],
+    "expertise": [
+      "Vietnamese child mental health",
+      "MH literacy",
+      "RISE intervention"
+    ],
+    "orcid": "0000-0001-9700-5275",
+    "role_notes": "Weiss et al. 2014 nationally representative VN child MH study; RISE intervention",
+    "is_priority": true,
+    "child_adolescent_focus": true,
+    "n_papers": 0,
+    "in_our_library": false
+  },
+  "AU_DANG_HM": {
+    "canonical_id": "AU_DANG_HM",
+    "surname": "Dang",
+    "given": "Hoàng Minh",
+    "full_name": "Đặng Hoàng Minh",
+    "is_vietnamese": true,
+    "initials": "HM",
+    "aliases": [
+      "Đặng Hoàng Minh"
+    ],
+    "papers": [],
+    "role_in_papers": {},
+    "country_hint": "Vietnam",
+    "country_primary": "Vietnam",
+    "affiliations": [
+      "Vietnam National University (VNU), University of Education"
+    ],
+    "expertise": [
+      "Vietnamese MH literacy",
+      "school psychology",
+      "MH service adaptation"
+    ],
+    "orcid": "",
+    "role_notes": "Vietnam's leading MH literacy researcher; collaborator with Bahr Weiss",
+    "is_priority": true,
+    "child_adolescent_focus": true,
+    "n_papers": 0,
+    "in_our_library": false
+  },
+  "AU_FISHER_J": {
+    "canonical_id": "AU_FISHER_J",
+    "surname": "Fisher",
+    "given": "Jane",
+    "full_name": "Jane Fisher",
+    "is_vietnamese": false,
+    "initials": "J",
+    "aliases": [
+      "Jane Fisher"
+    ],
+    "papers": [
+      "VN030"
+    ],
+    "role_in_papers": {
+      "VN030": 0
+    },
+    "country_hint": "Australia",
+    "country_primary": "Australia",
+    "affiliations": [
+      "Monash University"
+    ],
+    "expertise": [
+      "perinatal MH",
+      "VN MHPSS",
+      "Happy House",
+      "women's health"
+    ],
+    "orcid": "0000-0002-1959-6807",
+    "role_notes": "Happy House (Tran et al. 2023) senior author; Monash-HUPH VN collaboration",
+    "is_priority": true,
+    "child_adolescent_focus": true,
+    "n_papers": 1,
+    "in_our_library": true
+  },
+  "AU_SHOCHET_I": {
+    "canonical_id": "AU_SHOCHET_I",
+    "surname": "Shochet",
+    "given": "Ian",
+    "full_name": "Ian Shochet",
+    "is_vietnamese": false,
+    "initials": "I",
+    "aliases": [
+      "Ian Shochet"
+    ],
+    "papers": [
+      "VN030"
+    ],
+    "role_in_papers": {
+      "VN030": 0
+    },
+    "country_hint": "Australia",
+    "country_primary": "Australia",
+    "affiliations": [
+      "Queensland University of Technology (QUT)"
+    ],
+    "expertise": [
+      "RAP-A program",
+      "resilience",
+      "adolescent anxiety/depression prevention"
+    ],
+    "orcid": "",
+    "role_notes": "RAP-A (Resourceful Adolescent Program) originator; Happy House collaborator",
+    "is_priority": true,
+    "child_adolescent_focus": true,
+    "n_papers": 1,
+    "in_our_library": true
+  },
+  "AU_KESSLER_RC": {
+    "canonical_id": "AU_KESSLER_RC",
+    "surname": "Kessler",
+    "given": "Ronald C.",
+    "full_name": "Ronald C. Kessler",
+    "is_vietnamese": false,
+    "initials": "RC",
+    "aliases": [
+      "Ronald C. Kessler"
+    ],
+    "papers": [],
+    "role_in_papers": {},
+    "country_hint": "USA",
+    "country_primary": "USA",
+    "affiliations": [
+      "Harvard Medical School"
+    ],
+    "expertise": [
+      "WMH surveys",
+      "epidemiology",
+      "onset age of MH disorders"
+    ],
+    "orcid": "0000-0002-6411-5396",
+    "role_notes": "WHO World Mental Health Survey consortium; Kessler et al. 2005 \"50% MH disorders by age 14\"",
+    "is_priority": true,
+    "child_adolescent_focus": false,
+    "n_papers": 0,
+    "in_our_library": false
+  },
+  "AU_STALLARD_P": {
+    "canonical_id": "AU_STALLARD_P",
+    "surname": "Stallard",
+    "given": "Paul",
+    "full_name": "Paul Stallard",
+    "is_vietnamese": false,
+    "initials": "P",
+    "aliases": [
+      "Paul Stallard"
+    ],
+    "papers": [],
+    "role_in_papers": {},
+    "country_hint": "UK",
+    "country_primary": "UK",
+    "affiliations": [
+      "University of Bath"
+    ],
+    "expertise": [
+      "CBT children/adolescents",
+      "FRIENDS",
+      "Think Good Feel Good"
+    ],
+    "orcid": "0000-0001-8046-9688",
+    "role_notes": "FRIENDS program UK lead; CBT workbook author",
+    "is_priority": true,
+    "child_adolescent_focus": true,
+    "n_papers": 0,
+    "in_our_library": false
+  },
+  "AU_BARRETT_P": {
+    "canonical_id": "AU_BARRETT_P",
+    "surname": "Barrett",
+    "given": "Paula",
+    "full_name": "Paula Barrett",
+    "is_vietnamese": false,
+    "initials": "P",
+    "aliases": [
+      "Paula Barrett"
+    ],
+    "papers": [],
+    "role_in_papers": {},
+    "country_hint": "Australia",
+    "country_primary": "Australia",
+    "affiliations": [
+      "Pathways Health and Research Centre"
+    ],
+    "expertise": [
+      "FRIENDS for Life",
+      "anxiety prevention children"
+    ],
+    "orcid": "",
+    "role_notes": "FRIENDS for Life original creator — most widely disseminated CBT prevention",
+    "is_priority": true,
+    "child_adolescent_focus": true,
+    "n_papers": 0,
+    "in_our_library": false
+  },
+  "AU_WALKUP_JT": {
+    "canonical_id": "AU_WALKUP_JT",
+    "surname": "Walkup",
+    "given": "John T.",
+    "full_name": "John T. Walkup",
+    "is_vietnamese": false,
+    "initials": "JT",
+    "aliases": [
+      "John T. Walkup"
+    ],
+    "papers": [],
+    "role_in_papers": {},
+    "country_hint": "USA",
+    "country_primary": "USA",
+    "affiliations": [
+      "Ann & Robert H. Lurie Children's Hospital",
+      "Northwestern University"
+    ],
+    "expertise": [
+      "child anxiety RCTs",
+      "CAMS trial",
+      "pediatric psychopharmacology"
+    ],
+    "orcid": "",
+    "role_notes": "CAMS (Walkup et al. 2008 NEJM) PI — seminal child anxiety RCT",
+    "is_priority": true,
+    "child_adolescent_focus": true,
+    "n_papers": 0,
+    "in_our_library": false
+  },
+  "AU_CUIJPERS_P": {
+    "canonical_id": "AU_CUIJPERS_P",
+    "surname": "Cuijpers",
+    "given": "Pim",
+    "full_name": "Pim Cuijpers",
+    "is_vietnamese": false,
+    "initials": "P",
+    "aliases": [
+      "Pim Cuijpers"
+    ],
+    "papers": [],
+    "role_in_papers": {},
+    "country_hint": "Netherlands",
+    "country_primary": "Netherlands",
+    "affiliations": [
+      "Vrije Universiteit Amsterdam"
+    ],
+    "expertise": [
+      "meta-analysis depression/anxiety",
+      "iCBT",
+      "psychotherapy efficacy"
+    ],
+    "orcid": "0000-0001-5497-2743",
+    "role_notes": "One of the most cited meta-analysts in psychotherapy",
+    "is_priority": true,
+    "child_adolescent_focus": false,
+    "n_papers": 0,
+    "in_our_library": false
+  },
+  "AU_RAPEE_R": {
+    "canonical_id": "AU_RAPEE_R",
+    "surname": "Rapee",
+    "given": "Ronald",
+    "full_name": "Ronald Rapee",
+    "is_vietnamese": false,
+    "initials": "R",
+    "aliases": [
+      "Ronald Rapee"
+    ],
+    "papers": [],
+    "role_in_papers": {},
+    "country_hint": "Australia",
+    "country_primary": "Australia",
+    "affiliations": [
+      "Macquarie University"
+    ],
+    "expertise": [
+      "Cool Kids program",
+      "child anxiety",
+      "parent-child intervention"
+    ],
+    "orcid": "0000-0002-8688-7719",
+    "role_notes": "Cool Kids Anxiety Program originator; leader in child anxiety CBT",
+    "is_priority": true,
+    "child_adolescent_focus": true,
+    "n_papers": 0,
+    "in_our_library": false
+  },
+  "AU_MATSUMOTO_K": {
+    "canonical_id": "AU_MATSUMOTO_K",
+    "surname": "Matsumoto",
+    "given": "Kazuki",
+    "full_name": "Kazuki Matsumoto",
+    "is_vietnamese": false,
+    "initials": "K",
+    "aliases": [
+      "Kazuki Matsumoto"
+    ],
+    "papers": [
+      "QT045"
+    ],
+    "role_in_papers": {
+      "QT045": 0
+    },
+    "country_hint": "Japan",
+    "country_primary": "Japan",
+    "affiliations": [
+      "Kagoshima University Hospital"
+    ],
+    "expertise": [
+      "iCBT",
+      "social anxiety disorder",
+      "Japanese adolescents"
+    ],
+    "orcid": "",
+    "role_notes": "QT045 Japan iCBT RCT (NOT Sasaki — historical error, see memory feedback_QT045)",
+    "is_priority": true,
+    "child_adolescent_focus": true,
+    "n_papers": 1,
+    "in_our_library": true
+  },
+  "AU_TRAN_T": {
+    "canonical_id": "AU_TRAN_T",
+    "surname": "Tran",
+    "given": "Thach",
+    "full_name": "Thach Tran",
+    "is_vietnamese": false,
+    "initials": "T",
+    "aliases": [
+      "Thach Tran"
+    ],
+    "papers": [
+      "VN030"
+    ],
+    "role_in_papers": {
+      "VN030": 0
+    },
+    "country_hint": "Australia/Vietnam",
+    "country_primary": "Australia/Vietnam",
+    "affiliations": [
+      "Monash University",
+      "Hanoi University of Public Health (HUPH)"
+    ],
+    "expertise": [
+      "Happy House",
+      "school-based MH",
+      "Vietnamese adolescents"
+    ],
+    "orcid": "",
+    "role_notes": "Happy House first author; Monash–HUPH collaboration",
+    "is_priority": true,
+    "child_adolescent_focus": true,
+    "n_papers": 1,
+    "in_our_library": true
+  }
+}

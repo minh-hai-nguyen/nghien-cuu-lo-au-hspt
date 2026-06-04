@@ -1,0 +1,2812 @@
+[
+ {
+  "subject": "QT001",
+  "predicate": "HAS_N",
+  "object": "SampleSize::75"
+ },
+ {
+  "subject": "QT001",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Vietnam"
+ },
+ {
+  "subject": "QT001",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::USA"
+ },
+ {
+  "subject": "QT001",
+  "predicate": "MEASURED",
+  "object": "Outcome::Generalized Anxiety (GAD)"
+ },
+ {
+  "subject": "QT001",
+  "predicate": "MEASURED",
+  "object": "Outcome::Anxiety"
+ },
+ {
+  "subject": "QT001",
+  "predicate": "MEASURED",
+  "object": "Outcome::Depression"
+ },
+ {
+  "subject": "QT001",
+  "predicate": "USED_SCALE",
+  "object": "Scale::PHQ-9"
+ },
+ {
+  "subject": "VN001",
+  "predicate": "HAS_YEAR",
+  "object": "Year::2024"
+ },
+ {
+  "subject": "VN001",
+  "predicate": "HAS_N",
+  "object": "SampleSize::3910"
+ },
+ {
+  "subject": "VN001",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Vietnam"
+ },
+ {
+  "subject": "VN001",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::UK"
+ },
+ {
+  "subject": "VN001",
+  "predicate": "MEASURED",
+  "object": "Outcome::Generalized Anxiety (GAD)"
+ },
+ {
+  "subject": "VN001",
+  "predicate": "MEASURED",
+  "object": "Outcome::Anxiety"
+ },
+ {
+  "subject": "VN001",
+  "predicate": "USED_SCALE",
+  "object": "Scale::GAD-7"
+ },
+ {
+  "subject": "VN001",
+  "predicate": "REPORTED_ES",
+  "object": "ES::VN001::OR::11.6"
+ },
+ {
+  "subject": "QT012",
+  "predicate": "HAS_YEAR",
+  "object": "Year::2021"
+ },
+ {
+  "subject": "QT012",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Vietnam"
+ },
+ {
+  "subject": "QT012",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Philippines"
+ },
+ {
+  "subject": "QT012",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Indonesia"
+ },
+ {
+  "subject": "QT012",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::ASEAN"
+ },
+ {
+  "subject": "QT012",
+  "predicate": "MEASURED",
+  "object": "Outcome::Anxiety"
+ },
+ {
+  "subject": "QT012",
+  "predicate": "MEASURED",
+  "object": "Outcome::Depression"
+ },
+ {
+  "subject": "QT013",
+  "predicate": "HAS_YEAR",
+  "object": "Year::2025"
+ },
+ {
+  "subject": "QT013",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Vietnam"
+ },
+ {
+  "subject": "QT013",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::UK"
+ },
+ {
+  "subject": "QT013",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::LMIC"
+ },
+ {
+  "subject": "QT013",
+  "predicate": "MEASURED",
+  "object": "Outcome::Anxiety"
+ },
+ {
+  "subject": "QT013",
+  "predicate": "MEASURED",
+  "object": "Outcome::Depression"
+ },
+ {
+  "subject": "QT014",
+  "predicate": "HAS_YEAR",
+  "object": "Year::2025"
+ },
+ {
+  "subject": "QT014",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::USA"
+ },
+ {
+  "subject": "QT014",
+  "predicate": "USED_METHOD",
+  "object": "Method::CBT"
+ },
+ {
+  "subject": "QT014",
+  "predicate": "USED_METHOD",
+  "object": "Method::SSRI"
+ },
+ {
+  "subject": "QT014",
+  "predicate": "MEASURED",
+  "object": "Outcome::Anxiety"
+ },
+ {
+  "subject": "QT014",
+  "predicate": "MEASURED",
+  "object": "Outcome::Stress"
+ },
+ {
+  "subject": "VN002",
+  "predicate": "HAS_YEAR",
+  "object": "Year::2022"
+ },
+ {
+  "subject": "VN002",
+  "predicate": "HAS_N",
+  "object": "SampleSize::5996"
+ },
+ {
+  "subject": "VN002",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Vietnam"
+ },
+ {
+  "subject": "VN002",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::UK"
+ },
+ {
+  "subject": "VN002",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Philippines"
+ },
+ {
+  "subject": "VN002",
+  "predicate": "MEASURED",
+  "object": "Outcome::Generalized Anxiety (GAD)"
+ },
+ {
+  "subject": "VN002",
+  "predicate": "MEASURED",
+  "object": "Outcome::Anxiety"
+ },
+ {
+  "subject": "VN002",
+  "predicate": "MEASURED",
+  "object": "Outcome::Depression"
+ },
+ {
+  "subject": "VN002",
+  "predicate": "USED_SCALE",
+  "object": "Scale::DASS-21"
+ },
+ {
+  "subject": "VN002",
+  "predicate": "USED_SCALE",
+  "object": "Scale::GAD-7"
+ },
+ {
+  "subject": "QT015",
+  "predicate": "HAS_YEAR",
+  "object": "Year::2019"
+ },
+ {
+  "subject": "QT015",
+  "predicate": "HAS_N",
+  "object": "SampleSize::9831"
+ },
+ {
+  "subject": "QT015",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Vietnam"
+ },
+ {
+  "subject": "QT015",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::China"
+ },
+ {
+  "subject": "QT015",
+  "predicate": "MEASURED",
+  "object": "Outcome::Depression"
+ },
+ {
+  "subject": "QT015",
+  "predicate": "REPORTED_ES",
+  "object": "ES::QT015::AOR::13.71"
+ },
+ {
+  "subject": "QT015",
+  "predicate": "REPORTED_ES",
+  "object": "ES::QT015::AOR::13.71"
+ },
+ {
+  "subject": "QT015",
+  "predicate": "REPORTED_ES",
+  "object": "ES::QT015::AOR::13.71"
+ },
+ {
+  "subject": "QT016",
+  "predicate": "HAS_YEAR",
+  "object": "Year::2025"
+ },
+ {
+  "subject": "QT016",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Vietnam"
+ },
+ {
+  "subject": "QT016",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Sri Lanka"
+ },
+ {
+  "subject": "QT016",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::India"
+ },
+ {
+  "subject": "QT016",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Philippines"
+ },
+ {
+  "subject": "QT016",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Indonesia"
+ },
+ {
+  "subject": "QT016",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::ASEAN"
+ },
+ {
+  "subject": "QT016",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Southeast Asia"
+ },
+ {
+  "subject": "QT016",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::LMIC"
+ },
+ {
+  "subject": "QT016",
+  "predicate": "USED_METHOD",
+  "object": "Method::CBT"
+ },
+ {
+  "subject": "QT016",
+  "predicate": "MEASURED",
+  "object": "Outcome::Anxiety"
+ },
+ {
+  "subject": "QT016",
+  "predicate": "MEASURED",
+  "object": "Outcome::Depression"
+ },
+ {
+  "subject": "QT017",
+  "predicate": "HAS_YEAR",
+  "object": "Year::2013"
+ },
+ {
+  "subject": "QT017",
+  "predicate": "HAS_N",
+  "object": "SampleSize::19178"
+ },
+ {
+  "subject": "QT017",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::China"
+ },
+ {
+  "subject": "QT017",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Philippines"
+ },
+ {
+  "subject": "QT017",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Southeast Asia"
+ },
+ {
+  "subject": "QT017",
+  "predicate": "MEASURED",
+  "object": "Outcome::Generalized Anxiety (GAD)"
+ },
+ {
+  "subject": "QT017",
+  "predicate": "MEASURED",
+  "object": "Outcome::Anxiety"
+ },
+ {
+  "subject": "QT017",
+  "predicate": "MEASURED",
+  "object": "Outcome::Depression"
+ },
+ {
+  "subject": "QT017",
+  "predicate": "USED_SCALE",
+  "object": "Scale::GAD-7"
+ },
+ {
+  "subject": "QT017",
+  "predicate": "USED_SCALE",
+  "object": "Scale::CES-D"
+ },
+ {
+  "subject": "VN003",
+  "predicate": "HAS_YEAR",
+  "object": "Year::2024"
+ },
+ {
+  "subject": "VN003",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Vietnam"
+ },
+ {
+  "subject": "VN003",
+  "predicate": "MEASURED",
+  "object": "Outcome::Anxiety"
+ },
+ {
+  "subject": "VN003",
+  "predicate": "MEASURED",
+  "object": "Outcome::Depression"
+ },
+ {
+  "subject": "VN003",
+  "predicate": "REPORTED_ES",
+  "object": "ES::VN003::OR::0.3"
+ },
+ {
+  "subject": "VN003",
+  "predicate": "REPORTED_ES",
+  "object": "ES::VN003::OR::0.32"
+ },
+ {
+  "subject": "QT002",
+  "predicate": "HAS_YEAR",
+  "object": "Year::2023"
+ },
+ {
+  "subject": "QT002",
+  "predicate": "HAS_N",
+  "object": "SampleSize::360"
+ },
+ {
+  "subject": "QT002",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::India"
+ },
+ {
+  "subject": "QT002",
+  "predicate": "MEASURED",
+  "object": "Outcome::Anxiety"
+ },
+ {
+  "subject": "QT002",
+  "predicate": "MEASURED",
+  "object": "Outcome::Depression"
+ },
+ {
+  "subject": "QT002",
+  "predicate": "MEASURED",
+  "object": "Outcome::Stress"
+ },
+ {
+  "subject": "QT002",
+  "predicate": "USED_SCALE",
+  "object": "Scale::DASS-21"
+ },
+ {
+  "subject": "QT008",
+  "predicate": "HAS_YEAR",
+  "object": "Year::2020"
+ },
+ {
+  "subject": "QT008",
+  "predicate": "HAS_N",
+  "object": "SampleSize::900"
+ },
+ {
+  "subject": "QT008",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::China"
+ },
+ {
+  "subject": "QT008",
+  "predicate": "MEASURED",
+  "object": "Outcome::Generalized Anxiety (GAD)"
+ },
+ {
+  "subject": "QT008",
+  "predicate": "MEASURED",
+  "object": "Outcome::Anxiety"
+ },
+ {
+  "subject": "QT008",
+  "predicate": "USED_SCALE",
+  "object": "Scale::DASS-21"
+ },
+ {
+  "subject": "QT008",
+  "predicate": "USED_SCALE",
+  "object": "Scale::GAD-7"
+ },
+ {
+  "subject": "QT008",
+  "predicate": "REPORTED_ES",
+  "object": "ES::QT008::OR::0.562"
+ },
+ {
+  "subject": "QT008",
+  "predicate": "REPORTED_ES",
+  "object": "ES::QT008::OR::11.6"
+ },
+ {
+  "subject": "QT008",
+  "predicate": "REPORTED_ES",
+  "object": "ES::QT008::OR::0.562"
+ },
+ {
+  "subject": "QT010",
+  "predicate": "HAS_YEAR",
+  "object": "Year::2021"
+ },
+ {
+  "subject": "QT010",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::China"
+ },
+ {
+  "subject": "QT010",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::India"
+ },
+ {
+  "subject": "QT010",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Ethiopia"
+ },
+ {
+  "subject": "QT010",
+  "predicate": "MEASURED",
+  "object": "Outcome::Generalized Anxiety (GAD)"
+ },
+ {
+  "subject": "QT010",
+  "predicate": "MEASURED",
+  "object": "Outcome::Anxiety"
+ },
+ {
+  "subject": "QT010",
+  "predicate": "USED_SCALE",
+  "object": "Scale::GAD-7"
+ },
+ {
+  "subject": "QT010",
+  "predicate": "REPORTED_ES",
+  "object": "ES::QT010::OR::1.3"
+ },
+ {
+  "subject": "VN014",
+  "predicate": "HAS_N",
+  "object": "SampleSize::8473"
+ },
+ {
+  "subject": "VN014",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Vietnam"
+ },
+ {
+  "subject": "VN014",
+  "predicate": "USED_METHOD",
+  "object": "Method::Physical Exercise"
+ },
+ {
+  "subject": "VN014",
+  "predicate": "MEASURED",
+  "object": "Outcome::Anxiety"
+ },
+ {
+  "subject": "VN014",
+  "predicate": "MEASURED",
+  "object": "Outcome::Depression"
+ },
+ {
+  "subject": "VN014",
+  "predicate": "MEASURED",
+  "object": "Outcome::Stress"
+ },
+ {
+  "subject": "VN014",
+  "predicate": "USED_SCALE",
+  "object": "Scale::DASS-21"
+ },
+ {
+  "subject": "VN014",
+  "predicate": "REPORTED_ES",
+  "object": "ES::VN014::OR::0.3"
+ },
+ {
+  "subject": "VN014",
+  "predicate": "REPORTED_ES",
+  "object": "ES::VN014::OR::5.0"
+ },
+ {
+  "subject": "VN014",
+  "predicate": "REPORTED_ES",
+  "object": "ES::VN014::AOR::13.71"
+ },
+ {
+  "subject": "VN014",
+  "predicate": "REPORTED_ES",
+  "object": "ES::VN014::AOR::0.557"
+ },
+ {
+  "subject": "VN015",
+  "predicate": "HAS_YEAR",
+  "object": "Year::2024"
+ },
+ {
+  "subject": "VN015",
+  "predicate": "HAS_N",
+  "object": "SampleSize::845"
+ },
+ {
+  "subject": "VN015",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Vietnam"
+ },
+ {
+  "subject": "VN015",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::UK"
+ },
+ {
+  "subject": "VN015",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::USA"
+ },
+ {
+  "subject": "VN015",
+  "predicate": "USED_METHOD",
+  "object": "Method::Physical Exercise"
+ },
+ {
+  "subject": "VN015",
+  "predicate": "MEASURED",
+  "object": "Outcome::Anxiety"
+ },
+ {
+  "subject": "VN015",
+  "predicate": "MEASURED",
+  "object": "Outcome::Depression"
+ },
+ {
+  "subject": "VN015",
+  "predicate": "MEASURED",
+  "object": "Outcome::Stress"
+ },
+ {
+  "subject": "VN015",
+  "predicate": "USED_SCALE",
+  "object": "Scale::DASS-21"
+ },
+ {
+  "subject": "VN015",
+  "predicate": "REPORTED_ES",
+  "object": "ES::VN015::OR::1.29"
+ },
+ {
+  "subject": "VN015",
+  "predicate": "REPORTED_ES",
+  "object": "ES::VN015::OR::6.84"
+ },
+ {
+  "subject": "VN015",
+  "predicate": "REPORTED_ES",
+  "object": "ES::VN015::OR::0.43"
+ },
+ {
+  "subject": "VN015",
+  "predicate": "REPORTED_ES",
+  "object": "ES::VN015::OR::6.84"
+ },
+ {
+  "subject": "VN015",
+  "predicate": "REPORTED_ES",
+  "object": "ES::VN015::OR::0.51"
+ },
+ {
+  "subject": "VN015",
+  "predicate": "REPORTED_ES",
+  "object": "ES::VN015::OR::0.72"
+ },
+ {
+  "subject": "VN015",
+  "predicate": "REPORTED_ES",
+  "object": "ES::VN015::OR::0.43"
+ },
+ {
+  "subject": "VN015",
+  "predicate": "REPORTED_ES",
+  "object": "ES::VN015::OR::0.57"
+ },
+ {
+  "subject": "VN016",
+  "predicate": "HAS_YEAR",
+  "object": "Year::2025"
+ },
+ {
+  "subject": "VN016",
+  "predicate": "HAS_N",
+  "object": "SampleSize::501"
+ },
+ {
+  "subject": "VN016",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Vietnam"
+ },
+ {
+  "subject": "VN016",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::UK"
+ },
+ {
+  "subject": "VN016",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Germany"
+ },
+ {
+  "subject": "VN016",
+  "predicate": "MEASURED",
+  "object": "Outcome::Generalized Anxiety (GAD)"
+ },
+ {
+  "subject": "VN016",
+  "predicate": "MEASURED",
+  "object": "Outcome::Anxiety"
+ },
+ {
+  "subject": "VN016",
+  "predicate": "MEASURED",
+  "object": "Outcome::Depression"
+ },
+ {
+  "subject": "VN016",
+  "predicate": "MEASURED",
+  "object": "Outcome::Stress"
+ },
+ {
+  "subject": "VN016",
+  "predicate": "USED_SCALE",
+  "object": "Scale::DASS-21"
+ },
+ {
+  "subject": "VN016",
+  "predicate": "USED_SCALE",
+  "object": "Scale::DASS-Y"
+ },
+ {
+  "subject": "VN016",
+  "predicate": "USED_SCALE",
+  "object": "Scale::GAD-7"
+ },
+ {
+  "subject": "VN017",
+  "predicate": "HAS_YEAR",
+  "object": "Year::2022"
+ },
+ {
+  "subject": "VN017",
+  "predicate": "HAS_N",
+  "object": "SampleSize::482"
+ },
+ {
+  "subject": "VN017",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Vietnam"
+ },
+ {
+  "subject": "VN017",
+  "predicate": "MEASURED",
+  "object": "Outcome::Generalized Anxiety (GAD)"
+ },
+ {
+  "subject": "VN017",
+  "predicate": "MEASURED",
+  "object": "Outcome::Anxiety"
+ },
+ {
+  "subject": "VN017",
+  "predicate": "MEASURED",
+  "object": "Outcome::Depression"
+ },
+ {
+  "subject": "VN017",
+  "predicate": "MEASURED",
+  "object": "Outcome::Stress"
+ },
+ {
+  "subject": "VN017",
+  "predicate": "USED_SCALE",
+  "object": "Scale::DASS-21"
+ },
+ {
+  "subject": "VN017",
+  "predicate": "USED_SCALE",
+  "object": "Scale::GAD-7"
+ },
+ {
+  "subject": "VN018",
+  "predicate": "HAS_YEAR",
+  "object": "Year::2024"
+ },
+ {
+  "subject": "VN018",
+  "predicate": "HAS_N",
+  "object": "SampleSize::366"
+ },
+ {
+  "subject": "VN018",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Vietnam"
+ },
+ {
+  "subject": "VN018",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::UK"
+ },
+ {
+  "subject": "VN018",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Germany"
+ },
+ {
+  "subject": "VN018",
+  "predicate": "MEASURED",
+  "object": "Outcome::Anxiety"
+ },
+ {
+  "subject": "VN018",
+  "predicate": "MEASURED",
+  "object": "Outcome::Depression"
+ },
+ {
+  "subject": "VN018",
+  "predicate": "MEASURED",
+  "object": "Outcome::Stress"
+ },
+ {
+  "subject": "VN018",
+  "predicate": "USED_SCALE",
+  "object": "Scale::DASS-21"
+ },
+ {
+  "subject": "VN019",
+  "predicate": "HAS_YEAR",
+  "object": "Year::2025"
+ },
+ {
+  "subject": "VN019",
+  "predicate": "HAS_N",
+  "object": "SampleSize::685"
+ },
+ {
+  "subject": "VN019",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Vietnam"
+ },
+ {
+  "subject": "VN019",
+  "predicate": "MEASURED",
+  "object": "Outcome::Generalized Anxiety (GAD)"
+ },
+ {
+  "subject": "VN019",
+  "predicate": "MEASURED",
+  "object": "Outcome::Anxiety"
+ },
+ {
+  "subject": "VN019",
+  "predicate": "MEASURED",
+  "object": "Outcome::Depression"
+ },
+ {
+  "subject": "VN019",
+  "predicate": "USED_SCALE",
+  "object": "Scale::DASS-21"
+ },
+ {
+  "subject": "VN019",
+  "predicate": "USED_SCALE",
+  "object": "Scale::DASS-Y"
+ },
+ {
+  "subject": "VN019",
+  "predicate": "USED_SCALE",
+  "object": "Scale::GAD-7"
+ },
+ {
+  "subject": "VN019",
+  "predicate": "USED_SCALE",
+  "object": "Scale::LOT-R"
+ },
+ {
+  "subject": "VN020",
+  "predicate": "HAS_YEAR",
+  "object": "Year::2024"
+ },
+ {
+  "subject": "VN020",
+  "predicate": "HAS_N",
+  "object": "SampleSize::976"
+ },
+ {
+  "subject": "VN020",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Vietnam"
+ },
+ {
+  "subject": "VN020",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::UK"
+ },
+ {
+  "subject": "VN020",
+  "predicate": "MEASURED",
+  "object": "Outcome::Generalized Anxiety (GAD)"
+ },
+ {
+  "subject": "VN020",
+  "predicate": "MEASURED",
+  "object": "Outcome::Anxiety"
+ },
+ {
+  "subject": "VN020",
+  "predicate": "MEASURED",
+  "object": "Outcome::Depression"
+ },
+ {
+  "subject": "VN020",
+  "predicate": "MEASURED",
+  "object": "Outcome::Stress"
+ },
+ {
+  "subject": "VN020",
+  "predicate": "USED_SCALE",
+  "object": "Scale::DASS-21"
+ },
+ {
+  "subject": "VN020",
+  "predicate": "USED_SCALE",
+  "object": "Scale::DASS-Y"
+ },
+ {
+  "subject": "VN020",
+  "predicate": "USED_SCALE",
+  "object": "Scale::GAD-7"
+ },
+ {
+  "subject": "VN020",
+  "predicate": "USED_SCALE",
+  "object": "Scale::ESSA"
+ },
+ {
+  "subject": "VN020",
+  "predicate": "REPORTED_ES",
+  "object": "ES::VN020::OR::11.6"
+ },
+ {
+  "subject": "QT021",
+  "predicate": "HAS_YEAR",
+  "object": "Year::2011"
+ },
+ {
+  "subject": "QT021",
+  "predicate": "HAS_N",
+  "object": "SampleSize::979043"
+ },
+ {
+  "subject": "QT021",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Korea"
+ },
+ {
+  "subject": "QT021",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::USA"
+ },
+ {
+  "subject": "QT021",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Norway"
+ },
+ {
+  "subject": "QT021",
+  "predicate": "MEASURED",
+  "object": "Outcome::Anxiety"
+ },
+ {
+  "subject": "QT021",
+  "predicate": "MEASURED",
+  "object": "Outcome::Stress"
+ },
+ {
+  "subject": "QT021",
+  "predicate": "REPORTED_ES",
+  "object": "ES::QT021::g::0.46"
+ },
+ {
+  "subject": "QT022",
+  "predicate": "HAS_YEAR",
+  "object": "Year::2025"
+ },
+ {
+  "subject": "QT022",
+  "predicate": "HAS_N",
+  "object": "SampleSize::4058"
+ },
+ {
+  "subject": "QT022",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Australia"
+ },
+ {
+  "subject": "QT022",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Norway"
+ },
+ {
+  "subject": "QT022",
+  "predicate": "MEASURED",
+  "object": "Outcome::Anxiety"
+ },
+ {
+  "subject": "QT022",
+  "predicate": "MEASURED",
+  "object": "Outcome::Depression"
+ },
+ {
+  "subject": "QT023",
+  "predicate": "HAS_YEAR",
+  "object": "Year::2024"
+ },
+ {
+  "subject": "QT023",
+  "predicate": "HAS_N",
+  "object": "SampleSize::13684"
+ },
+ {
+  "subject": "QT023",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Korea"
+ },
+ {
+  "subject": "QT023",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::USA"
+ },
+ {
+  "subject": "QT023",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Norway"
+ },
+ {
+  "subject": "QT023",
+  "predicate": "MEASURED",
+  "object": "Outcome::Generalized Anxiety (GAD)"
+ },
+ {
+  "subject": "QT023",
+  "predicate": "MEASURED",
+  "object": "Outcome::Anxiety"
+ },
+ {
+  "subject": "QT023",
+  "predicate": "MEASURED",
+  "object": "Outcome::Depression"
+ },
+ {
+  "subject": "QT023",
+  "predicate": "USED_SCALE",
+  "object": "Scale::GAD-7"
+ },
+ {
+  "subject": "QT023",
+  "predicate": "REPORTED_ES",
+  "object": "ES::QT023::AOR::2.17"
+ },
+ {
+  "subject": "QT023",
+  "predicate": "REPORTED_ES",
+  "object": "ES::QT023::AOR::2.17"
+ },
+ {
+  "subject": "QT023",
+  "predicate": "REPORTED_ES",
+  "object": "ES::QT023::AOR::2.93"
+ },
+ {
+  "subject": "QT023",
+  "predicate": "REPORTED_ES",
+  "object": "ES::QT023::AOR::2.17"
+ },
+ {
+  "subject": "QT024",
+  "predicate": "HAS_YEAR",
+  "object": "Year::2025"
+ },
+ {
+  "subject": "QT024",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Vietnam"
+ },
+ {
+  "subject": "QT024",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::ASEAN"
+ },
+ {
+  "subject": "QT024",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::LMIC"
+ },
+ {
+  "subject": "QT024",
+  "predicate": "MEASURED",
+  "object": "Outcome::Anxiety"
+ },
+ {
+  "subject": "QT024",
+  "predicate": "MEASURED",
+  "object": "Outcome::Depression"
+ },
+ {
+  "subject": "QT025",
+  "predicate": "HAS_YEAR",
+  "object": "Year::2025"
+ },
+ {
+  "subject": "QT025",
+  "predicate": "HAS_N",
+  "object": "SampleSize::3721"
+ },
+ {
+  "subject": "QT025",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Australia"
+ },
+ {
+  "subject": "QT025",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Ireland"
+ },
+ {
+  "subject": "QT025",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Norway"
+ },
+ {
+  "subject": "QT025",
+  "predicate": "MEASURED",
+  "object": "Outcome::Anxiety"
+ },
+ {
+  "subject": "QT025",
+  "predicate": "MEASURED",
+  "object": "Outcome::Depression"
+ },
+ {
+  "subject": "QT025",
+  "predicate": "MEASURED",
+  "object": "Outcome::Stress"
+ },
+ {
+  "subject": "QT026",
+  "predicate": "HAS_YEAR",
+  "object": "Year::2025"
+ },
+ {
+  "subject": "QT026",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Vietnam"
+ },
+ {
+  "subject": "QT026",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::UK"
+ },
+ {
+  "subject": "QT026",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::USA"
+ },
+ {
+  "subject": "QT026",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Ireland"
+ },
+ {
+  "subject": "QT026",
+  "predicate": "MEASURED",
+  "object": "Outcome::Anxiety"
+ },
+ {
+  "subject": "QT027",
+  "predicate": "HAS_YEAR",
+  "object": "Year::2025"
+ },
+ {
+  "subject": "QT027",
+  "predicate": "HAS_N",
+  "object": "SampleSize::3340"
+ },
+ {
+  "subject": "QT027",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Vietnam"
+ },
+ {
+  "subject": "QT027",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::UK"
+ },
+ {
+  "subject": "QT027",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Norway"
+ },
+ {
+  "subject": "QT027",
+  "predicate": "MEASURED",
+  "object": "Outcome::Anxiety"
+ },
+ {
+  "subject": "QT027",
+  "predicate": "MEASURED",
+  "object": "Outcome::Depression"
+ },
+ {
+  "subject": "QT027",
+  "predicate": "REPORTED_ES",
+  "object": "ES::QT027::OR::5.0"
+ },
+ {
+  "subject": "QT027",
+  "predicate": "REPORTED_ES",
+  "object": "ES::QT027::OR::5.0"
+ },
+ {
+  "subject": "QT028",
+  "predicate": "HAS_YEAR",
+  "object": "Year::2024"
+ },
+ {
+  "subject": "QT028",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Vietnam"
+ },
+ {
+  "subject": "QT028",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::LMIC"
+ },
+ {
+  "subject": "QT028",
+  "predicate": "USED_METHOD",
+  "object": "Method::CBT"
+ },
+ {
+  "subject": "QT028",
+  "predicate": "USED_METHOD",
+  "object": "Method::iCBT"
+ },
+ {
+  "subject": "QT028",
+  "predicate": "USED_METHOD",
+  "object": "Method::gCBT"
+ },
+ {
+  "subject": "QT028",
+  "predicate": "USED_METHOD",
+  "object": "Method::SSRI"
+ },
+ {
+  "subject": "QT028",
+  "predicate": "MEASURED",
+  "object": "Outcome::Anxiety"
+ },
+ {
+  "subject": "QT028",
+  "predicate": "MEASURED",
+  "object": "Outcome::Depression"
+ },
+ {
+  "subject": "QT029",
+  "predicate": "HAS_YEAR",
+  "object": "Year::2025"
+ },
+ {
+  "subject": "QT029",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Vietnam"
+ },
+ {
+  "subject": "QT029",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::ASEAN"
+ },
+ {
+  "subject": "QT029",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::LMIC"
+ },
+ {
+  "subject": "QT029",
+  "predicate": "USED_METHOD",
+  "object": "Method::CBT"
+ },
+ {
+  "subject": "QT029",
+  "predicate": "USED_METHOD",
+  "object": "Method::iCBT"
+ },
+ {
+  "subject": "QT029",
+  "predicate": "USED_METHOD",
+  "object": "Method::gCBT"
+ },
+ {
+  "subject": "QT029",
+  "predicate": "USED_METHOD",
+  "object": "Method::Relaxation"
+ },
+ {
+  "subject": "QT029",
+  "predicate": "USED_METHOD",
+  "object": "Method::SSRI"
+ },
+ {
+  "subject": "QT029",
+  "predicate": "MEASURED",
+  "object": "Outcome::Social Anxiety (SAD)"
+ },
+ {
+  "subject": "QT029",
+  "predicate": "MEASURED",
+  "object": "Outcome::Generalized Anxiety (GAD)"
+ },
+ {
+  "subject": "QT029",
+  "predicate": "MEASURED",
+  "object": "Outcome::Anxiety"
+ },
+ {
+  "subject": "QT030",
+  "predicate": "HAS_YEAR",
+  "object": "Year::2021"
+ },
+ {
+  "subject": "QT030",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Vietnam"
+ },
+ {
+  "subject": "QT030",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::China"
+ },
+ {
+  "subject": "QT030",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::USA"
+ },
+ {
+  "subject": "QT030",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Ireland"
+ },
+ {
+  "subject": "QT030",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Norway"
+ },
+ {
+  "subject": "QT030",
+  "predicate": "MEASURED",
+  "object": "Outcome::Anxiety"
+ },
+ {
+  "subject": "QT030",
+  "predicate": "MEASURED",
+  "object": "Outcome::Depression"
+ },
+ {
+  "subject": "QT031",
+  "predicate": "HAS_YEAR",
+  "object": "Year::2025"
+ },
+ {
+  "subject": "QT031",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Vietnam"
+ },
+ {
+  "subject": "QT031",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::UK"
+ },
+ {
+  "subject": "QT031",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Southeast Asia"
+ },
+ {
+  "subject": "QT031",
+  "predicate": "MEASURED",
+  "object": "Outcome::Generalized Anxiety (GAD)"
+ },
+ {
+  "subject": "QT031",
+  "predicate": "MEASURED",
+  "object": "Outcome::Anxiety"
+ },
+ {
+  "subject": "QT031",
+  "predicate": "USED_SCALE",
+  "object": "Scale::DASS-21"
+ },
+ {
+  "subject": "QT031",
+  "predicate": "USED_SCALE",
+  "object": "Scale::GAD-7"
+ },
+ {
+  "subject": "QT031",
+  "predicate": "REPORTED_ES",
+  "object": "ES::QT031::OR::1.51"
+ },
+ {
+  "subject": "QT031",
+  "predicate": "REPORTED_ES",
+  "object": "ES::QT031::OR::6.84"
+ },
+ {
+  "subject": "QT031",
+  "predicate": "REPORTED_ES",
+  "object": "ES::QT031::OR::0.3"
+ },
+ {
+  "subject": "QT032",
+  "predicate": "HAS_YEAR",
+  "object": "Year::2012"
+ },
+ {
+  "subject": "QT032",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Vietnam"
+ },
+ {
+  "subject": "QT032",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Korea"
+ },
+ {
+  "subject": "QT032",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::USA"
+ },
+ {
+  "subject": "QT032",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Ireland"
+ },
+ {
+  "subject": "QT032",
+  "predicate": "MEASURED",
+  "object": "Outcome::Anxiety"
+ },
+ {
+  "subject": "QT032",
+  "predicate": "MEASURED",
+  "object": "Outcome::Depression"
+ },
+ {
+  "subject": "QT032",
+  "predicate": "MEASURED",
+  "object": "Outcome::Stress"
+ },
+ {
+  "subject": "QT032",
+  "predicate": "USED_SCALE",
+  "object": "Scale::DASS-21"
+ },
+ {
+  "subject": "QT032",
+  "predicate": "REPORTED_ES",
+  "object": "ES::QT032::AOR::2.17"
+ },
+ {
+  "subject": "QT033",
+  "predicate": "PUBLISHED_IN",
+  "object": "Journal::JAMA Network Open"
+ },
+ {
+  "subject": "QT033",
+  "predicate": "HAS_YEAR",
+  "object": "Year::2024"
+ },
+ {
+  "subject": "QT033",
+  "predicate": "HAS_N",
+  "object": "SampleSize::63205"
+ },
+ {
+  "subject": "QT033",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Vietnam"
+ },
+ {
+  "subject": "QT033",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::China"
+ },
+ {
+  "subject": "QT033",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::UK"
+ },
+ {
+  "subject": "QT033",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Denmark"
+ },
+ {
+  "subject": "QT033",
+  "predicate": "MEASURED",
+  "object": "Outcome::Anxiety"
+ },
+ {
+  "subject": "QT033",
+  "predicate": "REPORTED_ES",
+  "object": "ES::QT033::OR::5.0"
+ },
+ {
+  "subject": "QT033",
+  "predicate": "REPORTED_ES",
+  "object": "ES::QT033::OR::5.0"
+ },
+ {
+  "subject": "QT034",
+  "predicate": "HAS_YEAR",
+  "object": "Year::2006"
+ },
+ {
+  "subject": "QT034",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Vietnam"
+ },
+ {
+  "subject": "QT034",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Korea"
+ },
+ {
+  "subject": "QT034",
+  "predicate": "MEASURED",
+  "object": "Outcome::Generalized Anxiety (GAD)"
+ },
+ {
+  "subject": "QT034",
+  "predicate": "MEASURED",
+  "object": "Outcome::Anxiety"
+ },
+ {
+  "subject": "QT034",
+  "predicate": "MEASURED",
+  "object": "Outcome::Stress"
+ },
+ {
+  "subject": "QT034",
+  "predicate": "USED_SCALE",
+  "object": "Scale::GAD-7"
+ },
+ {
+  "subject": "QT035",
+  "predicate": "HAS_YEAR",
+  "object": "Year::2020"
+ },
+ {
+  "subject": "QT035",
+  "predicate": "HAS_N",
+  "object": "SampleSize::6825"
+ },
+ {
+  "subject": "QT035",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Vietnam"
+ },
+ {
+  "subject": "QT035",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::China"
+ },
+ {
+  "subject": "QT035",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::UK"
+ },
+ {
+  "subject": "QT035",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::USA"
+ },
+ {
+  "subject": "QT035",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Indonesia"
+ },
+ {
+  "subject": "QT035",
+  "predicate": "MEASURED",
+  "object": "Outcome::Social Anxiety (SAD)"
+ },
+ {
+  "subject": "QT035",
+  "predicate": "MEASURED",
+  "object": "Outcome::Generalized Anxiety (GAD)"
+ },
+ {
+  "subject": "QT035",
+  "predicate": "MEASURED",
+  "object": "Outcome::Anxiety"
+ },
+ {
+  "subject": "QT035",
+  "predicate": "USED_SCALE",
+  "object": "Scale::DASS-21"
+ },
+ {
+  "subject": "QT035",
+  "predicate": "USED_SCALE",
+  "object": "Scale::GAD-7"
+ },
+ {
+  "subject": "QT035",
+  "predicate": "USED_SCALE",
+  "object": "Scale::SIAS"
+ },
+ {
+  "subject": "VN021",
+  "predicate": "HAS_N",
+  "object": "SampleSize::341"
+ },
+ {
+  "subject": "VN021",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Vietnam"
+ },
+ {
+  "subject": "VN021",
+  "predicate": "MEASURED",
+  "object": "Outcome::Generalized Anxiety (GAD)"
+ },
+ {
+  "subject": "VN021",
+  "predicate": "MEASURED",
+  "object": "Outcome::Anxiety"
+ },
+ {
+  "subject": "VN021",
+  "predicate": "MEASURED",
+  "object": "Outcome::Stress"
+ },
+ {
+  "subject": "VN021",
+  "predicate": "USED_SCALE",
+  "object": "Scale::DASS-21"
+ },
+ {
+  "subject": "VN021",
+  "predicate": "USED_SCALE",
+  "object": "Scale::GAD-7"
+ },
+ {
+  "subject": "VN021",
+  "predicate": "USED_SCALE",
+  "object": "Scale::ESSA"
+ },
+ {
+  "subject": "VN021",
+  "predicate": "REPORTED_ES",
+  "object": "ES::VN021::OR::11.58"
+ },
+ {
+  "subject": "VN021",
+  "predicate": "REPORTED_ES",
+  "object": "ES::VN021::AOR::1.51"
+ },
+ {
+  "subject": "VN021",
+  "predicate": "REPORTED_ES",
+  "object": "ES::VN021::beta::4.73"
+ },
+ {
+  "subject": "VN021",
+  "predicate": "REPORTED_ES",
+  "object": "ES::VN021::beta::4.73"
+ },
+ {
+  "subject": "VN021",
+  "predicate": "REPORTED_ES",
+  "object": "ES::VN021::beta::4.73"
+ },
+ {
+  "subject": "VN021",
+  "predicate": "REPORTED_ES",
+  "object": "ES::VN021::beta::3.2"
+ },
+ {
+  "subject": "VN021",
+  "predicate": "REPORTED_ES",
+  "object": "ES::VN021::beta::2.24"
+ },
+ {
+  "subject": "VN021",
+  "predicate": "REPORTED_ES",
+  "object": "ES::VN021::SUCRA::0.51"
+ },
+ {
+  "subject": "QT036",
+  "predicate": "HAS_YEAR",
+  "object": "Year::2025"
+ },
+ {
+  "subject": "QT036",
+  "predicate": "HAS_N",
+  "object": "SampleSize::213820"
+ },
+ {
+  "subject": "QT036",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Vietnam"
+ },
+ {
+  "subject": "QT036",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Korea"
+ },
+ {
+  "subject": "QT036",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Ireland"
+ },
+ {
+  "subject": "QT036",
+  "predicate": "MEASURED",
+  "object": "Outcome::Generalized Anxiety (GAD)"
+ },
+ {
+  "subject": "QT036",
+  "predicate": "MEASURED",
+  "object": "Outcome::Anxiety"
+ },
+ {
+  "subject": "QT036",
+  "predicate": "MEASURED",
+  "object": "Outcome::Stress"
+ },
+ {
+  "subject": "QT036",
+  "predicate": "USED_SCALE",
+  "object": "Scale::GAD-7"
+ },
+ {
+  "subject": "QT036",
+  "predicate": "REPORTED_ES",
+  "object": "ES::QT036::AOR::1.28"
+ },
+ {
+  "subject": "QT036",
+  "predicate": "REPORTED_ES",
+  "object": "ES::QT036::AOR::13.71"
+ },
+ {
+  "subject": "QT036",
+  "predicate": "REPORTED_ES",
+  "object": "ES::QT036::AOR::13.71"
+ },
+ {
+  "subject": "VN022",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Vietnam"
+ },
+ {
+  "subject": "VN022",
+  "predicate": "MEASURED",
+  "object": "Outcome::Social Anxiety (SAD)"
+ },
+ {
+  "subject": "VN022",
+  "predicate": "MEASURED",
+  "object": "Outcome::Generalized Anxiety (GAD)"
+ },
+ {
+  "subject": "VN022",
+  "predicate": "MEASURED",
+  "object": "Outcome::Anxiety"
+ },
+ {
+  "subject": "VN022",
+  "predicate": "MEASURED",
+  "object": "Outcome::Stress"
+ },
+ {
+  "subject": "VN022",
+  "predicate": "USED_SCALE",
+  "object": "Scale::DASS-21"
+ },
+ {
+  "subject": "VN022",
+  "predicate": "USED_SCALE",
+  "object": "Scale::GAD-7"
+ },
+ {
+  "subject": "VN022",
+  "predicate": "USED_SCALE",
+  "object": "Scale::ESSA"
+ },
+ {
+  "subject": "VN022",
+  "predicate": "REPORTED_ES",
+  "object": "ES::VN022::OR::11.58"
+ },
+ {
+  "subject": "VN022",
+  "predicate": "REPORTED_ES",
+  "object": "ES::VN022::OR::11.58"
+ },
+ {
+  "subject": "VN022",
+  "predicate": "REPORTED_ES",
+  "object": "ES::VN022::AOR::1.68"
+ },
+ {
+  "subject": "VN022",
+  "predicate": "REPORTED_ES",
+  "object": "ES::VN022::AOR::1.51"
+ },
+ {
+  "subject": "VN023",
+  "predicate": "HAS_YEAR",
+  "object": "Year::2023"
+ },
+ {
+  "subject": "VN023",
+  "predicate": "HAS_N",
+  "object": "SampleSize::5730"
+ },
+ {
+  "subject": "VN023",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Vietnam"
+ },
+ {
+  "subject": "VN023",
+  "predicate": "MEASURED",
+  "object": "Outcome::Generalized Anxiety (GAD)"
+ },
+ {
+  "subject": "VN023",
+  "predicate": "MEASURED",
+  "object": "Outcome::Anxiety"
+ },
+ {
+  "subject": "VN023",
+  "predicate": "USED_SCALE",
+  "object": "Scale::DASS-21"
+ },
+ {
+  "subject": "VN023",
+  "predicate": "USED_SCALE",
+  "object": "Scale::GAD-7"
+ },
+ {
+  "subject": "VN024",
+  "predicate": "HAS_YEAR",
+  "object": "Year::2024"
+ },
+ {
+  "subject": "VN024",
+  "predicate": "HAS_N",
+  "object": "SampleSize::919"
+ },
+ {
+  "subject": "VN024",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Vietnam"
+ },
+ {
+  "subject": "VN024",
+  "predicate": "MEASURED",
+  "object": "Outcome::Generalized Anxiety (GAD)"
+ },
+ {
+  "subject": "VN024",
+  "predicate": "MEASURED",
+  "object": "Outcome::Anxiety"
+ },
+ {
+  "subject": "VN024",
+  "predicate": "MEASURED",
+  "object": "Outcome::Depression"
+ },
+ {
+  "subject": "VN024",
+  "predicate": "MEASURED",
+  "object": "Outcome::Stress"
+ },
+ {
+  "subject": "VN024",
+  "predicate": "USED_SCALE",
+  "object": "Scale::DASS-21"
+ },
+ {
+  "subject": "VN024",
+  "predicate": "USED_SCALE",
+  "object": "Scale::GAD-7"
+ },
+ {
+  "subject": "VN024",
+  "predicate": "USED_SCALE",
+  "object": "Scale::CES-D"
+ },
+ {
+  "subject": "VN024",
+  "predicate": "USED_SCALE",
+  "object": "Scale::ESSA"
+ },
+ {
+  "subject": "QT037",
+  "predicate": "HAS_YEAR",
+  "object": "Year::2024"
+ },
+ {
+  "subject": "QT037",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Vietnam"
+ },
+ {
+  "subject": "QT037",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Philippines"
+ },
+ {
+  "subject": "QT037",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Indonesia"
+ },
+ {
+  "subject": "QT037",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Southeast Asia"
+ },
+ {
+  "subject": "QT037",
+  "predicate": "USED_METHOD",
+  "object": "Method::CBT"
+ },
+ {
+  "subject": "QT037",
+  "predicate": "USED_METHOD",
+  "object": "Method::CA-CBT"
+ },
+ {
+  "subject": "QT037",
+  "predicate": "MEASURED",
+  "object": "Outcome::Anxiety"
+ },
+ {
+  "subject": "QT038",
+  "predicate": "HAS_YEAR",
+  "object": "Year::2024"
+ },
+ {
+  "subject": "QT038",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Vietnam"
+ },
+ {
+  "subject": "QT038",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Sri Lanka"
+ },
+ {
+  "subject": "QT038",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::LMIC"
+ },
+ {
+  "subject": "QT038",
+  "predicate": "USED_METHOD",
+  "object": "Method::CBT"
+ },
+ {
+  "subject": "QT038",
+  "predicate": "MEASURED",
+  "object": "Outcome::Anxiety"
+ },
+ {
+  "subject": "QT039",
+  "predicate": "HAS_YEAR",
+  "object": "Year::2024"
+ },
+ {
+  "subject": "QT039",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Vietnam"
+ },
+ {
+  "subject": "QT039",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::China"
+ },
+ {
+  "subject": "QT039",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Korea"
+ },
+ {
+  "subject": "QT039",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Japan"
+ },
+ {
+  "subject": "QT039",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::ASEAN"
+ },
+ {
+  "subject": "QT039",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::LMIC"
+ },
+ {
+  "subject": "QT039",
+  "predicate": "USED_METHOD",
+  "object": "Method::CBT"
+ },
+ {
+  "subject": "QT039",
+  "predicate": "USED_METHOD",
+  "object": "Method::iCBT"
+ },
+ {
+  "subject": "QT039",
+  "predicate": "USED_METHOD",
+  "object": "Method::gCBT"
+ },
+ {
+  "subject": "QT039",
+  "predicate": "MEASURED",
+  "object": "Outcome::Social Anxiety (SAD)"
+ },
+ {
+  "subject": "QT039",
+  "predicate": "MEASURED",
+  "object": "Outcome::Generalized Anxiety (GAD)"
+ },
+ {
+  "subject": "QT039",
+  "predicate": "MEASURED",
+  "object": "Outcome::Anxiety"
+ },
+ {
+  "subject": "QT039",
+  "predicate": "REPORTED_ES",
+  "object": "ES::QT039::SUCRA::71.2"
+ },
+ {
+  "subject": "QT039",
+  "predicate": "REPORTED_ES",
+  "object": "ES::QT039::SUCRA::68.4"
+ },
+ {
+  "subject": "QT040",
+  "predicate": "HAS_YEAR",
+  "object": "Year::2025"
+ },
+ {
+  "subject": "QT040",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Vietnam"
+ },
+ {
+  "subject": "QT040",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::LMIC"
+ },
+ {
+  "subject": "QT040",
+  "predicate": "USED_METHOD",
+  "object": "Method::CBT"
+ },
+ {
+  "subject": "QT040",
+  "predicate": "USED_METHOD",
+  "object": "Method::iCBT"
+ },
+ {
+  "subject": "QT040",
+  "predicate": "USED_METHOD",
+  "object": "Method::DMHI"
+ },
+ {
+  "subject": "QT040",
+  "predicate": "USED_METHOD",
+  "object": "Method::VR Therapy"
+ },
+ {
+  "subject": "QT040",
+  "predicate": "MEASURED",
+  "object": "Outcome::Social Anxiety (SAD)"
+ },
+ {
+  "subject": "QT040",
+  "predicate": "MEASURED",
+  "object": "Outcome::Anxiety"
+ },
+ {
+  "subject": "QT040",
+  "predicate": "REPORTED_ES",
+  "object": "ES::QT040::g::0.508"
+ },
+ {
+  "subject": "QT040",
+  "predicate": "REPORTED_ES",
+  "object": "ES::QT040::g::0.878"
+ },
+ {
+  "subject": "QT040",
+  "predicate": "REPORTED_ES",
+  "object": "ES::QT040::g::0.825"
+ },
+ {
+  "subject": "VN025",
+  "predicate": "HAS_YEAR",
+  "object": "Year::2023"
+ },
+ {
+  "subject": "VN025",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Vietnam"
+ },
+ {
+  "subject": "VN025",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::China"
+ },
+ {
+  "subject": "VN025",
+  "predicate": "MEASURED",
+  "object": "Outcome::Anxiety"
+ },
+ {
+  "subject": "VN025",
+  "predicate": "MEASURED",
+  "object": "Outcome::Depression"
+ },
+ {
+  "subject": "VN025",
+  "predicate": "MEASURED",
+  "object": "Outcome::Stress"
+ },
+ {
+  "subject": "VN025",
+  "predicate": "USED_SCALE",
+  "object": "Scale::DASS-21"
+ },
+ {
+  "subject": "QT041",
+  "predicate": "HAS_YEAR",
+  "object": "Year::2025"
+ },
+ {
+  "subject": "QT041",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Vietnam"
+ },
+ {
+  "subject": "QT041",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::China"
+ },
+ {
+  "subject": "QT041",
+  "predicate": "MEASURED",
+  "object": "Outcome::Generalized Anxiety (GAD)"
+ },
+ {
+  "subject": "QT041",
+  "predicate": "MEASURED",
+  "object": "Outcome::Anxiety"
+ },
+ {
+  "subject": "QT041",
+  "predicate": "MEASURED",
+  "object": "Outcome::Stress"
+ },
+ {
+  "subject": "QT041",
+  "predicate": "USED_SCALE",
+  "object": "Scale::GAD-7"
+ },
+ {
+  "subject": "QT041",
+  "predicate": "USED_SCALE",
+  "object": "Scale::PSQI"
+ },
+ {
+  "subject": "QT041",
+  "predicate": "REPORTED_ES",
+  "object": "ES::QT041::AOR::13.71"
+ },
+ {
+  "subject": "QT041",
+  "predicate": "REPORTED_ES",
+  "object": "ES::QT041::beta::0.615"
+ },
+ {
+  "subject": "QT041",
+  "predicate": "REPORTED_ES",
+  "object": "ES::QT041::beta::0.223"
+ },
+ {
+  "subject": "QT041",
+  "predicate": "REPORTED_ES",
+  "object": "ES::QT041::beta::0.153"
+ },
+ {
+  "subject": "VN026",
+  "predicate": "HAS_YEAR",
+  "object": "Year::2025"
+ },
+ {
+  "subject": "VN026",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Vietnam"
+ },
+ {
+  "subject": "VN026",
+  "predicate": "MEASURED",
+  "object": "Outcome::Anxiety"
+ },
+ {
+  "subject": "VN026",
+  "predicate": "USED_SCALE",
+  "object": "Scale::DASS-21"
+ },
+ {
+  "subject": "QT042",
+  "predicate": "HAS_YEAR",
+  "object": "Year::2025"
+ },
+ {
+  "subject": "QT042",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Vietnam"
+ },
+ {
+  "subject": "QT042",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::UK"
+ },
+ {
+  "subject": "QT042",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::LMIC"
+ },
+ {
+  "subject": "QT042",
+  "predicate": "USED_METHOD",
+  "object": "Method::CBT"
+ },
+ {
+  "subject": "QT042",
+  "predicate": "USED_METHOD",
+  "object": "Method::Mindfulness"
+ },
+ {
+  "subject": "QT042",
+  "predicate": "MEASURED",
+  "object": "Outcome::Anxiety"
+ },
+ {
+  "subject": "QT042",
+  "predicate": "MEASURED",
+  "object": "Outcome::Depression"
+ },
+ {
+  "subject": "QT042",
+  "predicate": "MEASURED",
+  "object": "Outcome::Stress"
+ },
+ {
+  "subject": "QT043",
+  "predicate": "HAS_YEAR",
+  "object": "Year::2024"
+ },
+ {
+  "subject": "QT043",
+  "predicate": "HAS_N",
+  "object": "SampleSize::59"
+ },
+ {
+  "subject": "QT043",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Vietnam"
+ },
+ {
+  "subject": "QT043",
+  "predicate": "USED_METHOD",
+  "object": "Method::CBT"
+ },
+ {
+  "subject": "QT043",
+  "predicate": "USED_METHOD",
+  "object": "Method::Mobile CBT"
+ },
+ {
+  "subject": "QT043",
+  "predicate": "MEASURED",
+  "object": "Outcome::Social Anxiety (SAD)"
+ },
+ {
+  "subject": "QT043",
+  "predicate": "MEASURED",
+  "object": "Outcome::Generalized Anxiety (GAD)"
+ },
+ {
+  "subject": "QT043",
+  "predicate": "MEASURED",
+  "object": "Outcome::Anxiety"
+ },
+ {
+  "subject": "QT043",
+  "predicate": "USED_SCALE",
+  "object": "Scale::HAM-A"
+ },
+ {
+  "subject": "QT043",
+  "predicate": "USED_SCALE",
+  "object": "Scale::LSAS"
+ },
+ {
+  "subject": "QT043",
+  "predicate": "USED_SCALE",
+  "object": "Scale::ASI"
+ },
+ {
+  "subject": "QT043",
+  "predicate": "REPORTED_ES",
+  "object": "ES::QT043::Cohen_d::0.93"
+ },
+ {
+  "subject": "QT043",
+  "predicate": "REPORTED_ES",
+  "object": "ES::QT043::Cohen_d::1.04"
+ },
+ {
+  "subject": "QT043",
+  "predicate": "REPORTED_ES",
+  "object": "ES::QT043::Cohen_d::1.04"
+ },
+ {
+  "subject": "QT043",
+  "predicate": "REPORTED_ES",
+  "object": "ES::QT043::d::0.93"
+ },
+ {
+  "subject": "QT043",
+  "predicate": "REPORTED_ES",
+  "object": "ES::QT043::d::1.07"
+ },
+ {
+  "subject": "QT043",
+  "predicate": "REPORTED_ES",
+  "object": "ES::QT043::d::1.04"
+ },
+ {
+  "subject": "QT043",
+  "predicate": "REPORTED_ES",
+  "object": "ES::QT043::d::1.04"
+ },
+ {
+  "subject": "QT044",
+  "predicate": "HAS_YEAR",
+  "object": "Year::2025"
+ },
+ {
+  "subject": "QT044",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::China"
+ },
+ {
+  "subject": "QT044",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::India"
+ },
+ {
+  "subject": "QT044",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::USA"
+ },
+ {
+  "subject": "QT044",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Australia"
+ },
+ {
+  "subject": "QT044",
+  "predicate": "USED_METHOD",
+  "object": "Method::CBT"
+ },
+ {
+  "subject": "QT044",
+  "predicate": "USED_METHOD",
+  "object": "Method::Resilience training"
+ },
+ {
+  "subject": "QT044",
+  "predicate": "MEASURED",
+  "object": "Outcome::Stress"
+ },
+ {
+  "subject": "QT045",
+  "predicate": "HAS_YEAR",
+  "object": "Year::2024"
+ },
+ {
+  "subject": "QT045",
+  "predicate": "HAS_N",
+  "object": "SampleSize::77"
+ },
+ {
+  "subject": "QT045",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Vietnam"
+ },
+ {
+  "subject": "QT045",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Japan"
+ },
+ {
+  "subject": "QT045",
+  "predicate": "USED_METHOD",
+  "object": "Method::CBT"
+ },
+ {
+  "subject": "QT045",
+  "predicate": "USED_METHOD",
+  "object": "Method::iCBT"
+ },
+ {
+  "subject": "QT045",
+  "predicate": "USED_METHOD",
+  "object": "Method::DMHI"
+ },
+ {
+  "subject": "QT045",
+  "predicate": "MEASURED",
+  "object": "Outcome::Social Anxiety (SAD)"
+ },
+ {
+  "subject": "QT045",
+  "predicate": "MEASURED",
+  "object": "Outcome::Anxiety"
+ },
+ {
+  "subject": "QT045",
+  "predicate": "MEASURED",
+  "object": "Outcome::Depression"
+ },
+ {
+  "subject": "QT045",
+  "predicate": "USED_SCALE",
+  "object": "Scale::PHQ-9"
+ },
+ {
+  "subject": "QT045",
+  "predicate": "USED_SCALE",
+  "object": "Scale::SIAS"
+ },
+ {
+  "subject": "QT046",
+  "predicate": "HAS_YEAR",
+  "object": "Year::2025"
+ },
+ {
+  "subject": "QT046",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Vietnam"
+ },
+ {
+  "subject": "QT046",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Norway"
+ },
+ {
+  "subject": "QT046",
+  "predicate": "USED_METHOD",
+  "object": "Method::CBT"
+ },
+ {
+  "subject": "QT046",
+  "predicate": "USED_METHOD",
+  "object": "Method::Mindfulness"
+ },
+ {
+  "subject": "QT046",
+  "predicate": "USED_METHOD",
+  "object": "Method::Physical Exercise"
+ },
+ {
+  "subject": "QT046",
+  "predicate": "USED_METHOD",
+  "object": "Method::Yoga"
+ },
+ {
+  "subject": "QT046",
+  "predicate": "USED_METHOD",
+  "object": "Method::Relaxation"
+ },
+ {
+  "subject": "QT046",
+  "predicate": "MEASURED",
+  "object": "Outcome::Stress"
+ },
+ {
+  "subject": "QT046",
+  "predicate": "REPORTED_ES",
+  "object": "ES::QT046::OR::11.58"
+ },
+ {
+  "subject": "QT046",
+  "predicate": "REPORTED_ES",
+  "object": "ES::QT046::beta::4.73"
+ },
+ {
+  "subject": "VN027",
+  "predicate": "HAS_YEAR",
+  "object": "Year::2021"
+ },
+ {
+  "subject": "VN027",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Vietnam"
+ },
+ {
+  "subject": "VN027",
+  "predicate": "MEASURED",
+  "object": "Outcome::Generalized Anxiety (GAD)"
+ },
+ {
+  "subject": "VN027",
+  "predicate": "MEASURED",
+  "object": "Outcome::Anxiety"
+ },
+ {
+  "subject": "VN027",
+  "predicate": "USED_SCALE",
+  "object": "Scale::DASS-Y"
+ },
+ {
+  "subject": "VN027",
+  "predicate": "USED_SCALE",
+  "object": "Scale::GAD-7"
+ },
+ {
+  "subject": "QT047",
+  "predicate": "HAS_YEAR",
+  "object": "Year::2025"
+ },
+ {
+  "subject": "QT047",
+  "predicate": "HAS_N",
+  "object": "SampleSize::1844"
+ },
+ {
+  "subject": "QT047",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Vietnam"
+ },
+ {
+  "subject": "QT047",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::China"
+ },
+ {
+  "subject": "QT047",
+  "predicate": "MEASURED",
+  "object": "Outcome::Anxiety"
+ },
+ {
+  "subject": "QT047",
+  "predicate": "MEASURED",
+  "object": "Outcome::Depression"
+ },
+ {
+  "subject": "QT047",
+  "predicate": "USED_SCALE",
+  "object": "Scale::DASS-21"
+ },
+ {
+  "subject": "QT048",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Vietnam"
+ },
+ {
+  "subject": "QT048",
+  "predicate": "MEASURED",
+  "object": "Outcome::Anxiety"
+ },
+ {
+  "subject": "QT049",
+  "predicate": "HAS_YEAR",
+  "object": "Year::2026"
+ },
+ {
+  "subject": "QT049",
+  "predicate": "HAS_N",
+  "object": "SampleSize::19865"
+ },
+ {
+  "subject": "QT049",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Vietnam"
+ },
+ {
+  "subject": "QT049",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::UK"
+ },
+ {
+  "subject": "QT049",
+  "predicate": "USED_METHOD",
+  "object": "Method::CBT"
+ },
+ {
+  "subject": "QT049",
+  "predicate": "MEASURED",
+  "object": "Outcome::Anxiety"
+ },
+ {
+  "subject": "QT049",
+  "predicate": "MEASURED",
+  "object": "Outcome::Depression"
+ },
+ {
+  "subject": "QT050",
+  "predicate": "HAS_YEAR",
+  "object": "Year::2025"
+ },
+ {
+  "subject": "QT050",
+  "predicate": "HAS_N",
+  "object": "SampleSize::2479"
+ },
+ {
+  "subject": "QT050",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Vietnam"
+ },
+ {
+  "subject": "QT050",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Japan"
+ },
+ {
+  "subject": "QT050",
+  "predicate": "USED_METHOD",
+  "object": "Method::CBT"
+ },
+ {
+  "subject": "QT050",
+  "predicate": "USED_METHOD",
+  "object": "Method::iCBT"
+ },
+ {
+  "subject": "QT050",
+  "predicate": "USED_METHOD",
+  "object": "Method::Mobile CBT"
+ },
+ {
+  "subject": "QT050",
+  "predicate": "USED_METHOD",
+  "object": "Method::DMHI"
+ },
+ {
+  "subject": "QT050",
+  "predicate": "MEASURED",
+  "object": "Outcome::Social Anxiety (SAD)"
+ },
+ {
+  "subject": "QT050",
+  "predicate": "MEASURED",
+  "object": "Outcome::Anxiety"
+ },
+ {
+  "subject": "QT050",
+  "predicate": "MEASURED",
+  "object": "Outcome::Depression"
+ },
+ {
+  "subject": "QT050",
+  "predicate": "REPORTED_ES",
+  "object": "ES::QT050::g::0.878"
+ },
+ {
+  "subject": "QT051",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Vietnam"
+ },
+ {
+  "subject": "QT051",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::China"
+ },
+ {
+  "subject": "QT051",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Southeast Asia"
+ },
+ {
+  "subject": "QT051",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::LMIC"
+ },
+ {
+  "subject": "QT051",
+  "predicate": "REPORTED_ES",
+  "object": "ES::QT051::OR::0.22"
+ },
+ {
+  "subject": "VN028",
+  "predicate": "HAS_YEAR",
+  "object": "Year::2023"
+ },
+ {
+  "subject": "VN028",
+  "predicate": "HAS_N",
+  "object": "SampleSize::195"
+ },
+ {
+  "subject": "VN028",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Vietnam"
+ },
+ {
+  "subject": "VN028",
+  "predicate": "MEASURED",
+  "object": "Outcome::Anxiety"
+ },
+ {
+  "subject": "VN028",
+  "predicate": "MEASURED",
+  "object": "Outcome::Depression"
+ },
+ {
+  "subject": "VN028",
+  "predicate": "MEASURED",
+  "object": "Outcome::Stress"
+ },
+ {
+  "subject": "VN028",
+  "predicate": "USED_SCALE",
+  "object": "Scale::DASS-21"
+ },
+ {
+  "subject": "VN028",
+  "predicate": "USED_SCALE",
+  "object": "Scale::DASS-Y"
+ },
+ {
+  "subject": "VN028",
+  "predicate": "REPORTED_ES",
+  "object": "ES::VN028::d::0.05"
+ },
+ {
+  "subject": "VN029",
+  "predicate": "HAS_YEAR",
+  "object": "Year::2025"
+ },
+ {
+  "subject": "VN029",
+  "predicate": "HAS_N",
+  "object": "SampleSize::2631"
+ },
+ {
+  "subject": "VN029",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Vietnam"
+ },
+ {
+  "subject": "VN029",
+  "predicate": "CONDUCTED_IN",
+  "object": "Country::Australia"
+ },
+ {
+  "subject": "VN029",
+  "predicate": "USED_METHOD",
+  "object": "Method::CBT"
+ },
+ {
+  "subject": "VN029",
+  "predicate": "MEASURED",
+  "object": "Outcome::Anxiety"
+ },
+ {
+  "subject": "VN029",
+  "predicate": "MEASURED",
+  "object": "Outcome::Depression"
+ },
+ {
+  "subject": "VN029",
+  "predicate": "MEASURED",
+  "object": "Outcome::Stress"
+ },
+ {
+  "subject": "VN029",
+  "predicate": "USED_SCALE",
+  "object": "Scale::DASS-21"
+ },
+ {
+  "subject": "VN029",
+  "predicate": "USED_SCALE",
+  "object": "Scale::YBRS"
+ },
+ {
+  "subject": "QT015",
+  "predicate": "USED_SCALE",
+  "object": "Scale::CES-D"
+ }
+]

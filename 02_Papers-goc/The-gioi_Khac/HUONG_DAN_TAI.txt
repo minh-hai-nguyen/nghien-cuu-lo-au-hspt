@@ -1,0 +1,94 @@
+15 BÀI QUỐC TẾ CẦN TẢI (Mỹ/Anh/Úc/Châu Âu, 2024-2025)
+Tải bằng trình duyệt, lưu vào thư mục này.
+================================================================
+
+=== ÚC ===
+
+X 1. CATS Study — Lancet Psychiatry 2024 ⭐⭐⭐⭐⭐
+   Nghiên cứu dọc 8 năm (tuổi 10-18), Melbourne, lo âu + trầm cảm
+   Link: https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(24)00361-4/fulltext
+   File: CATS_2024_LancetPsychiatry_Australia.pdf
+
+2. Mental health of Australia's adolescents — BMC 2025
+   Distress & wellbeing, 3 mẫu quốc gia
+   Link: https://pmc.ncbi.nlm.nih.gov/articles/PMC11886970/
+   File: Australia_Adolescent_MH_2025_BMC.pdf
+
+=== CHÂU ÂU ===
+
+3. WHO Europe — Lancet Regional Health Europe 2025 ⭐⭐⭐⭐⭐
+   Tổng quan SKTT trẻ em/thanh niên toàn châu Âu
+   Link: https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762(25)00251-0/fulltext
+   File: WHO_Europe_2025_LancetRegional.pdf
+
+4. Norway mental distress trends 2011-2024 — Social Science & Medicine 2025
+   Xu hướng tăng stress ở VTN Na Uy, vai trò trường học + mạng xã hội
+   Link: https://www.sciencedirect.com/science/article/pii/S0277953625008597
+   File: Norway_MentalDistress_2011-2024.pdf
+
+5. UK NHS Mental Health Survey 2025
+   25,8% thanh niên 16-24 rối loạn tâm thần, tăng từ 18,9% (2014)
+   Link: https://commonslibrary.parliament.uk/research-briefings/sn06988/
+   File: UK_NHS_MH_Survey_2025.pdf
+
+6. Ireland: Anxiety/depression trends 2012-2019 — My World Survey
+   Xu hướng lo âu/trầm cảm ở VTN Ireland
+   Link: https://pubmed.ncbi.nlm.nih.gov/38956877/
+   File: Ireland_MyWorld_Anxiety_Trends_2024.pdf
+
+=== HOA KỲ ===
+
+7. JAACAP: Trends in mental disorders in US state MH system 2013-2021
+   Xu hướng chẩn đoán rối loạn tâm thần trẻ em Mỹ
+   Link: https://www.jaacap.org/article/S0890-8567(24)01357-1/fulltext
+   File: USA_JAACAP_Trends_MH_2024.pdf
+
+8. JAMA Network Open: Screen time, social media & youth MH — RCT 2024
+   Phân tích thứ cấp RCT, tác động màn hình lên SKTT
+   Link: https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2821176
+   File: USA_JAMA_ScreenTime_Youth_MH_2024.pdf
+
+9. Social media use in adolescents — Nature Human Behaviour 2025 ⭐⭐⭐⭐⭐
+   So sánh VTN có/không rối loạn tâm thần, UK study
+   Link: https://www.nature.com/articles/s41562-025-02134-4
+   File: SocialMedia_NatureHumanBehav_2025.pdf
+
+10. AJP: Current and future approaches to pediatric anxiety treatment 2024
+    Tổng quan điều trị lo âu trẻ em (CBT, thuốc, hướng mới)
+    Link: https://psychiatryonline.org/doi/full/10.1176/appi.ajp.20231037
+    File: USA_AJP_PediatricAnxiety_Treatment_2024.pdf
+
+=== TOÀN CẦU ===
+
+11. 59 Countries — J Affective Disorders 2025 ⭐⭐⭐⭐⭐
+    Lo âu ở HS đi học, phân tích 59 nước
+    Link: https://www.sciencedirect.com/science/article/abs/pii/S0165032725017574
+    File: 59Countries_Anxiety_2025_JAffectDisord.pdf
+
+12. Social Anxiety meta-analysis — JCPP 2024
+    Tổng quan hệ thống & phân tích tổng hợp lo âu xã hội trẻ em/VTN
+    Link: https://pubmed.ncbi.nlm.nih.gov/38852119/
+    File: SocialAnxiety_MetaAnalysis_2024.pdf
+
+13. GBD Trends 10-24y — J Affective Disorders 2025
+    Xu hướng lo âu 10-24 tuổi, 1990-2021, 204 nước (GBD 2021)
+    Link: https://www.sciencedirect.com/science/article/abs/pii/S0165032725009334
+    File: GBD_Anxiety_Trends_10-24y_2025_JAffectDisord.pdf
+
+14. Screen time & depression longitudinal — British J Clinical Psychology 2025
+    Nghiên cứu dọc tác động màn hình lên trầm cảm/lo âu VTN
+    Link: https://bpspsychub.onlinelibrary.wiley.com/doi/full/10.1111/bjc.12547
+    File: ScreenTime_Longitudinal_BJCP_2025.pdf
+
+15. CBT interventions — Bayesian network meta-analysis 2025 ⭐⭐⭐⭐
+    So sánh hiệu quả các loại can thiệp lo âu trẻ em (30 RCTs, 1.711 HS)
+    Link: https://link.springer.com/article/10.1186/s12888-025-07227-y
+    File: CBT_Interventions_NetworkMeta_BMCPsych_2025.pdf
+
+================================================================
+Mẹo tải:
+- Bấm link → Download PDF / Full Text / View PDF
+- PMC articles: bấm "PDF" ở góc phải trên
+- Lancet/JAMA/Nature: cần tài khoản hoặc dùng Sci-Hub
+- ScienceDirect: thử nút "Download PDF" (Open Access)
+================================================================

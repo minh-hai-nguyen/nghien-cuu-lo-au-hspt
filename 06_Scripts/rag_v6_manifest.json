@@ -1,0 +1,12 @@
+{
+  "collection": "rag_v6_multisource",
+  "n_chunks": 2393,
+  "n_sources": 130,
+  "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
+  "sources_by_type": {
+    "report": 1,
+    "summary": 68,
+    "translation": 61
+  },
+  "smoke_test_pass_rate": "9/10"
+}

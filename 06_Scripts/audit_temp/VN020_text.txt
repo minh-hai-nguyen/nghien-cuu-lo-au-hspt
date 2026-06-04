@@ -1,0 +1,873 @@
+----- VN020 page 1 -----
+ 
+Ngày nhận bài: 04-10-2024 / Ngày chấp nhận đăng bài: 11-11-2024 / Ngày đăng bài: 13-11-2024 
+*Tác giả liên hệ: Huỳnh Ngọc Vân Anh. Bộ môn Thống kê và Tin học y học - Khoa Y tế Công cộng, Đại học Y Dược Thành phố Hồ Chí 
+Minh, Thành phố Hồ Chí Minh, Việt Nam. E-mail: hnvanhytcc@ump.edu.vn 
+© 2024 Bản quyền thuộc về Tạp chí Y học Thành phố Hồ Chí Minh.  
+ 
+ 
+100                                                                                                                                                    https://www.tapchiyhoctphcm.vn 
+ ISSN: 1859-1779 
+Nghiên cứu Y học 
+Tạp chí Y học Thành phố Hồ Chí Minh; 27(5):100-110 
+https://doi.org/10.32895/hcjm.m.2024.05.12 
+ 
+       
+ 
+Trầm cảm, lo âu, căng thẳng và các yếu tố liên quan ở 
+học sinh trung học phổ thông tại Thành phố Hồ Chí Minh 
+Trần Hồ Vĩnh Lộc1, Huỳnh Ngọc Vân Anh2,* , Tô Gia Kiên3 
+1Khoa Y tế Công cộng, Đại học Y Dược Thành phố Hồ Chí Minh, Thành phố Hồ Chí Minh, Việt Nam 
+2Bộ môn Thống kê và Tin học y học - Khoa Y tế Công cộng, Đại học Y Dược Thành phố Hồ Chí Minh, Thành phố 
+Hồ Chí Minh, Việt Nam 
+3Bộ môn Quản lý y tế - Khoa Y tế Công cộng, Đại học Y Dược Thành phố Hồ Chí Minh, Thành phố Hồ Chí Minh, 
+Việt Nam  
+ 
+Tóm tắt  
+Đặt vấn đề: Trầm cảm, lo âu và căng thẳng là các vấn đề sức khỏe tâm thần phổ biến, gây ảnh hưởng nặng nề, đặc biệt 
+đối với trẻ vị thành niên (VTN). Tỷ lệ các vấn đề này ở học sinh Trung học phổ thông (THPT) tại Việt Nam, bao gồm 
+Thành phố Hồ Chí Minh (TP. HCM) tăng cao trong những năm gần đây. 
+Mục tiêu: Xác định tỷ lệ trầm cảm, lo âu, căng thẳng và các yếu tố liên quan ở học sinh trung học phổ thông tại Thành 
+phố Hồ Chí Minh năm 2024. 
+Đối tượng và phương pháp nghiên cứu: Nghiên cứu cắt ngang mô tả thực hiện trên 976 học sinh thỏa tiêu chí chọn mẫu 
+ở hai trường THPT tại TP. HCM bằng phương pháp chọn mẫu ngẫu nhiên nhiều bậc. Dữ liệu được thu thập từ tháng 
+02/2024 đến 04/2024 bằng bộ câu hỏi tự điền soạn sẵn. DASS-Y được dùng để đánh giá trầm cảm, lo âu, căng thẳng. 
+ESSA được dùng để đánh giá áp lực học tập. 
+Kết quả: Tuổi trung bình của học sinh trong mẫu nghiên cứu là 17 ,0 ± 0,8 tuổi. Tỷ lệ học sinh nữ chiếm 53,4%. Tỷ lệ trầm 
+cảm là 31,7%; lo âu là 25,1% và căng thẳng là 23,8%. Trong đó, tỷ lệ học sinh có trầm cảm hoặc lo âu hoặc căng thẳng 
+là 42,4% và cả ba vấn đề chiếm 13,2%. Các yếu tố liên quan đến tỷ lệ trầm cảm là học sinh nữ (PRhiệu chỉnh (hc)=1,24; 
+KTC95%: 1,03-1,50), áp lực học tập mức độ vừa (PRhc=1,82; KTC95%: 1,60-2,06) và nặng (PRhc=3,31; KTC95%: 2,57-
+4,27), cha mẹ đã ly thân/ly hôn (PRhc=1,44; KTC95%: 1,16-1,77), có tình trạng kinh tế gia đình đủ sống (PRhc=0,70; 
+KTC95%: 0,54-0,88) và khá giả trở lên (PRhc=0,69; KTC95%: 0,50-0,95). Các yếu tố liên quan đến tỷ lệ lo âu là học sinh 
+nữ (PRhc=1,30; KTC95%: 1,03-1,63), áp lực học tập mức độ vừa (PRhc=1,68; KTC95%: 1,45-1,94) và nặng (PRhc=2,82; 
+KTC95%: 2,11-3,77), có trình độ học vấn của mẹ là THPT (PRhc=0,57; KTC95%: 0,36-0,88). Các yếu tố liên quan đến tỷ 
+lệ căng thẳng là học sinh nữ (PRhc=1,47; KTC95%: 1,15-1,87), áp lực học tập mức độ vừa (PRhc=1,92; KTC95%: 1,64-2,25) 
+và nặng (PRhc=3,70; KTC95%: 2,71-5,06), có tôn giáo (PRhc=1,23; KTC95%: 1,01-1,52), cha mẹ đã ly thân/ly hôn 
+(PRhc=1,42; KTC95%: 1,09-1,86), có người mẹ biết đọc biết viết (PRhc=3,18; KTC95%: 1,10-9,13), trình độ học vấn tiểu học 
+(PRhc=3,53; KTC95%: 1,34-9,27), trung học cơ sở (PRhc=3,80; KTC95%: 1,48-9,72), THPT (PRhc=3,18; KTC95%: 1,23-
+8,25) và đại học/cao đẳng (PRhc=3,61; KTC95%: 1,39-9,35). 
+
+----- VN020 page 2 -----
+Tạp chí Y học Thành phố Hồ Chí Minh * Tập 27 * Số 5 * 2024 
+ 
+https://doi.org/10.32895/hcjm.m.2024.05.12                                                                                                                                        https://www.tapchiyhoctphcm.vn | 101 
+Kết luận: Tỷ lệ trầm cảm, lo âu và căng thẳng cao ở học sinh THPT, với các yếu tố liên quan đáng kể như giới tính, áp 
+lực học tập, tình trạng hôn nhân của cha mẹ, kinh tế gia đình và trình độ học vấn của mẹ. Nhà trường điều chỉnh áp lực 
+học tập và tổ chức các chương trình tư vấn tâm lý, giáo dục về sức khỏe tâm thần cho học sinh và gia đình, nhất là các 
+chương trình dành cho nữ sinh. 
+Từ khóa: sức khỏe tâm thần; Depression Anxiety Stress Scale-Y; sức khỏe vị thành niên 
+Abstract 
+STRESS, ANXIETY, DEPRESSION AND ASSOCIATED FACTORS AMONG 
+HIGH SCHOOL STUDENTS IN HO CHI MINH CITY 
+Tran Ho Vinh Loc, Huynh Ngoc Van Anh, To Gia Kien  
+Background: Depression, anxiety, and stress are common mental health issues that have severe impacts, particularly 
+on adolescents. The prevalence of these issues among high school students in Vietnam, including Ho Chi Minh City, 
+has risen significantly in recent years. 
+Objective: To determine the prevalence of stress, anxiety, depression and their associated factors among high school 
+students in Ho Chi Minh city in 2024. 
+Methods: A cross-sectional study used multistage sampling to recruit 976 students from two high schools in Ho Chi 
+Minh City. Data was collected from February to April 2024 using a self-administrated questionnaire. DASS-Y was used 
+to assess depression, anxiety and stress. ESSA was used to measure academic pressure.  
+Results: The mean age of students was 17.0 (SD 0.8). Females represented 53.4%. The prevalence of depression, 
+anxiety and stress were 31.7%, 25.1% and 23.8%, respectively. The percentage of students having at least one issue 
+condition was 42.4% and having all three issues conditions was 13.2%. Factors associated with depression included 
+being female (adjusted prevalence ratios [aPR]=1.24, CI95%:1.03-1.50), experienced moderate (aPR=1.82, CI95%: 1.60-
+2.06) to severe (aPR=3.31, CI95%: 2.57-4.27) studying academic pressure, had having separated parents (aPR=1.44, 
+CI95%: 1.16-1.77), had having an adequate (aPR=0.70, CI95%: 0.54-0.88) or higher (aPR=0.69, CI95%: 0.50-0.95) 
+economic status. Factors associated with anxiety included being female (aPR=1.30, CI95%: 1.03-1.63), experienced 
+experiencing moderate (aPR=1.68, CI95%: 1.45-1.94) to severe (aPR=2.82, CI95%: 2.11-3.77) studying academic 
+pressure, had having mother with a high school education completion (aPR=0.57, CI95%: 0.36-0.88). Factors 
+associated with stress included being female (aPR=1.47, CI95%: 1.15-1.87), experiencinged moderate (aPR=1.92, 
+CI95%: 1.64-2.25) to severe (aPR=3.70, CI95%: 2.71-5.06) studying academic pressure, had afollowing religion 
+(aPR=1.23, CI95%: 1.01-1.52), had having separated parents (aPR=1.42, CI95%: 1.09-1.86), had having a literate mother 
+(aPR=3.18, CI95%: 1.10-9.13), had having mother with a primary school (aPR=3.53, CI95%: 1.34-9.27), middle school 
+(aPR=3.80, CI95%: 1.48-9.72), high school (aPR=3.18, CI95%: 1.23-8.25), and university or college education 
+(aPR=3.61, CI95%: 1.39-9.35). 
+Conclusion: The prevalence of depression, anxiety, and stress was high among high school students, with significant 
+factors including gender, studying pressure, parental marital status, family economic status, and mother's education 
+level. Schools should adjust studying pressure and provide psychological consultancy and mental health education 
+campaign to students and their family, particularly programs for female students.  
+Keywords: mental health; Depression Anxiety Stress Scale-Y; adolescent health 
+ 
+----- VN020 page 3 -----
+Tạp chí Y học Thành phố Hồ Chí Minh * Tập 27 * Số 5 * 2024 
+ 
+ 
+102 | https://www.tapchiyhoctphcm.vn                                                                                                                                        https://doi.org/10.32895/hcjm.m.2024.05.12 
+1. ĐẶT VẤN ĐỀ  
+Sức khỏe tâm thần là một phần quan trọng của sức khỏe và 
+ảnh hưởng đến mọi khía cạnh trong cuộc sống. Trầm cảm, lo 
+âu và căng thẳng là các vấn đề sức khỏe tâm thần phổ biến, 
+ảnh hưởng đến hàng triệu người trên thế giới, nhất là đối với 
+trẻ vị thành niên (VTN) khi có nhiều thay đổi lớn về mặt thể 
+chất, tâm lý và xã hội. Theo Tổ chức Y tế Thế giới (WHO) 
+năm 2021, ước tính tỷ lệ trẻ VTN rối loạn sức khỏe tâm thần 
+liên quan đến trầm cảm, lo âu, căng thẳng là 14% và có xu 
+hướng gia tăng cần được quan tâm [1]. 
+Trầm cảm, lo âu và căng thẳng ở trẻ vị thành niên gây ra 
+nhiều tác động nặng nề, bao gồm rối loạn giấc ngủ, suy dinh 
+dưỡng, mắc bệnh mãn tính, và thành tích học tập kém [1]. 
+Theo Quỹ Nhi đồng Liên Hợp Quốc, tại Việt Nam có 21,4% 
+nữ giới và 7,9% nam giới trong độ tuổi VTN báo cáo đã từng 
+có suy nghĩ tự tử, ngoài ra, có 5,8% trẻ VTN đã báo cáo đã 
+từng cố gắng tự tử và đều có liên quan đến trầm cảm và các 
+vấn đề sức khỏe tâm thần khác [2]. Việc nhận diện và hỗ trợ 
+kịp thời các vấn đề này là rất quan trọng để giúp trẻ phát triển 
+khỏe mạnh và hạnh phúc. 
+Thành phố Hồ Chí Minh (TP . HCM) là trung tâm kinh tế, 
+văn hóa, giáo dục quan trọng với hơn 239.501 học sinh trong 
+năm học 2022 - 2023. Tuy nhiên, chương trình giáo dục còn 
+nhiều áp lực về thành tích, rèn luyện, thời lượng học trên lớp 
+hai buổi mỗi ngày, học ngoài giờ, thi cử nhiều đợt thường 
+xuyên cùng với những yếu tố nền tảng từ bản thân và gia đình 
+khiến cho học sinh dễ dàng mắc trầm cảm, lo âu, căng thẳng. 
+Tỷ lệ trầm cảm, lo âu, căng thẳng ở học sinh trung học phổ 
+thông (THPT) tại Việt Nam trong đó có TPHCM liên tục tăng 
+cao trong những năm gần đây. Tỷ lệ trầm cảm tăng từ 39,8% 
+(2020) đến 55,8% (2023), tỷ lệ lo âu từ 59,8% (2020) đến 
+67,9% (2023), tỷ lệ căng thẳng từ 36,1% (2020) đến 50,2% 
+(2023) [3].  
+Trong bối cảnh thay đổi sinh lý tuổi vị thành niên, chuyển 
+biến kinh tế xã hội, và cải cách giáo dục, học sinh phải thích 
+nghi với phương pháp học tập mới và yêu cầu đáp ứng toàn 
+diện, cùng với áp lực học tập lớn và kỳ vọng từ gia đình và xã 
+hội, ảnh hưởng đến sức khỏe tâm thần của học sinh [4]. 
+Nghiên cứu nhằm xác định tỷ lệ và các yếu tố liên quan đến 
+trầm cảm, lo âu, và căng thẳng ở học sinh THPT tại TP . HCM 
+năm 2024. Kết quả giúp trường học điều chỉnh phương pháp 
+giảng dạy, gia đình can thiệp kịp thời, học sinh nâng cao nhận 
+thức về sức khỏe tâm thần và tìm kiếm sự giúp đỡ khi cần. 
+Cơ sở y tế có thể phát triển các chương trình can thiệp và điều 
+trị hiệu quả hơn dựa trên dữ liệu nghiên cứu. 
+2. ĐỐI TƯỢNG VÀ PHƯƠNG PHÁP 
+NGHIÊN CỨU 
+2.1. Đối tượng nghiên cứu 
+Nghiên cứu được thực hiện trong năm 2024 trên học sinh 
+THPT tại TP . HCM.  
+2.1.1. Tiêu chuẩn chọn 
+Những học sinh khối lớp 10, lớp 11, lớp 12 đang học tại 02 
+trường gồm Trường THPT Bình Hưng Hòa, Trường THPT 
+Đa Phước tại thời điểm nghiên cứu đồng ý và được phụ huynh 
+chấp thuận cho tham gia vào nghiên cứu. 
+2.1.2. Tiêu chuẩn loại 
+Nghiên cứu loại ra những học sinh vắng mặt trong hai lần 
+đến thu thập dữ liệu (do nghỉ ốm, chuyển trường, thôi học). 
+2.2. Phương pháp nghiên cứu 
+2.2.1. Thiết kế nghiên cứu 
+Nghiên cứu cắt ngang mô tả.  
+2.2.2. Cỡ mẫu và kỹ thuật chọn mẫu 
+Nghiên cứu sử dụng công thức ước lượng một tỷ lệ; trong 
+đó tỷ lệ trầm cảm, lo âu, căng thẳng theo nghiên cứu của Võ 
+Minh Đức năm 2023 lần lượt là 55,8%, 67,9% và 50,2% [3]. 
+Với hệ số thiết kế k=2 và 5% học sinh, phụ huynh từ chối 
+tham gia nghiên cứu, cỡ mẫu tối thiểu ước lượng là 812 học 
+sinh. TP. HCM gồm có 16 quận, 01 thành phố và 05 huyện. 
+ Nghiên cứu sử dụng phương pháp chọn mẫu ngẫu nhiên 
+nhiều bậc.  
+- Nghiên cứu viên chọn ngẫu nhiên đơn bằng cách rút 
+thăm 1 quận (Bình Tân) và 1 huyện (Bình Chánh). Quận Bình 
+Tân có 05 trường THPT và huyện Bình Chánh có 6 trường 
+THPT. Nghiên cứu viên chọn ngẫu nhiên đơn bằng cách rút 
+thăm một trường THPT tại mỗi quận/huyện là Trường THPT 
+Bình Hưng Hòa (quận Bình Tân) và trường THPT Đa Phước 
+(huyện Bình Chánh). Trường THPT Bình Hưng Hòa là 
+trường công lập, có 18 lớp khối 10, có 16 lớp khối 11 và 15 
+----- VN020 page 4 -----
+Tạp chí Y học Thành phố Hồ Chí Minh * Tập 27 * Số 5 * 2024 
+ 
+https://doi.org/10.32895/hcjm.m.2024.05.12                                                                                                                                        https://www.tapchiyhoctphcm.vn | 103 
+lớp khối 12. Trường THPT Đa Phước là trường công lập, có 
+12 lớp khối 10, có 9 lớp khối 11 và 9 lớp khối 12.  
+- Nghiên cứu viên chọn thuận tiện 04 lớp trong mỗi khối 
+(khối 10, 11 và 12) tại mỗi trường. Tất cả các học sinh trong 
+mỗi lớp được mời tham gia nghiên cứu. 
+2.2.3. Công cụ và phương pháp thu thập số liệu 
+Dữ liệu thu thập từ tháng 02 đến tháng 04 bằng bộ câu hỏi 
+tự điền soạn sẵn gồm đặc điểm cá nhân (khối lớp, giới tính, 
+tôn giáo, áp lực học tập) và đặc điểm gia đình (tình trạng hôn 
+nhân cha mẹ, tình trạng sống chung của học sinh với cha mẹ, 
+số lượng con, thứ tự con, tình trạng kinh tế, nghề nghiệp và 
+trình độ học vấn của cha mẹ). Áp lực học tập được đánh giá 
+bằng thang ESSA. Trầm cảm, lo âu và căng thẳng được đánh 
+giá bằng DASS-Y . 
+Thang đo áp lực học tập (Educational Stress Scale for 
+Adolescents–ESSA) gồm 16 câu hỏi, sử dụng thang điểm 
+Likert 5 lựa chọn từ 1 (hoàn toàn không đồng ý) đến 5 (hoàn 
+toàn đồng ý), tổng điểm từ 16 đến 80 điểm. Xác định mức độ 
+áp lực học tập nhẹ (<51 điểm); vừa (51-58 điểm) và nặng  
+(≥59 điểm). Thang đo được chứng minh có tính giá trị tốt 
+với Cronbach’s Alpha là 0,81 [4]. 
+Thang đo trầm cảm, lo âu, căng thẳng (Depression Anxiety 
+Stress Scales for Youth-DASS-Y) gồm 21 câu hỏi theo thang 
+điểm Likert 4 lựa chọn mức độ tăng dần từ 0 (Không đúng) 
+đến 3 (Rất đúng). Trong nghiên cứu này, có căng thẳng từ 
+mức độ nhẹ trở lên (≥12 điểm), có lo âu từ mức độ nhẹ trở 
+lên (≥06 điểm) và có trầm cảm từ mức độ nhẹ trở lên (≥07 
+điểm) [5,6]. 
+2.2.4. Nghiên cứu thử (pilot study) 
+Nghiên cứu thử được thực hiện ở lớp 10C17 (có 34 học 
+sinh tham gia nghiên cứu thử và học sinh nữ là 88,2%) được 
+chọn ngẫu nhiên trong danh sách các lớp tại Trường THPT 
+Bình Hưng Hòa, khác với các lớp được chọn cho nghiên cứu 
+chính thức.  
+Kết quả cho thấy DASS-Y có Cronbach’s Alpha là 0,94. 
+Tỷ lệ trầm cảm, lo âu, căng thẳng lần lượt là 35,3%, 20,6% 
+và 17,7%. Đối với áp lực học tập, Cronbach’s Alpha của 
+thang đo ESSA là 0,74. Tỷ lệ học sinh có mức độ áp lực nhẹ, 
+vừa, nặng lần lượt là 14,7%; 55,8% và 29,4%. 
+2.2.5. Phân tích và xử lý số liệu 
+Nhập liệu bằng EpiData Entry Client 4.6.0.2 và xử lý dữ 
+liệu bằng Stata 16.0.  
+Tần số và tỷ lệ (%) để mô tả đặc điểm cá nhân, đặc điểm 
+gia đình, trầm cảm, lo âu, căng thẳng.  
+Kiểm định chi bình phương so sánh tỷ lệ trầm cảm, lo âu, 
+căng thẳng theo các đặc tính. Kiểm định có ý nghĩa khi  
+p <0,05.  
+Mô hình hồi quy Poisson đa biến với tùy chọn Robust xác 
+định mối liên quan giữa trầm cảm, lo âu, căng thẳng với các 
+yếu tố liên quan và lượng giá mối quan hệ này bằng tỉ số tỷ lệ 
+hiện mắc PR với KTC95%. 
+3. KẾT QUẢ 
+Tổng cộng 986 học sinh khối 10, 11, 12 thuộc Trường 
+THPT Bình Hưng Hòa (555 học sinh) và Trường THPT Đa 
+Phước (431 học sinh) có mặt tại thời điểm thu thập dữ liệu từ 
+tháng 02 đến tháng 04/2024. Tuy nhiên, có 10 học sinh trả lời 
+không đầy đủ bộ câu hỏi và bị loại ra khỏi phân tích. Kết quả 
+phân tích trên 976 học sinh (99,0%) với tuổi trung bình 17,0 
+± 0,8 tuổi. Tỷ lệ học sinh nữ chiếm 53,4%. Phân bố mức độ 
+áp lực học tập tương đối đồng đều bao gồm mức độ nhẹ 
+(34,7%), vừa (36,6%) và nặng (28,7%). Học sinh hầu hết đều 
+sống chung với cả cha và mẹ trong gia đình (81,9%) và tỷ lệ 
+cha mẹ sống chung với nhau là 82,5%. Mẹ của các học sinh 
+đã hoàn thành trình độ học vấn trung học cơ sở chiếm tỷ lệ 
+cao nhất (29,9%). Kết quả nghiên cứu được trình bày ở các 
+Bảng 1, 2. 
+Trong số 976 học sinh THPT tham gia nghiên cứu, có 309 
+học sinh có trầm cảm (31,7%) với KTC95%: 28,7%-34,7%, 
+có 245 học sinh có lo âu (25,1%) với KTC95%: 22,4%-
+27,9%, có 232 học sinh có căng thẳng (23,8%) với KTC95%: 
+21,1%-26,6%. Tỷ lệ học sinh có từ một vấn đề trở lên trong 
+trầm cảm, lo âu hoặc căng thẳng là 42,4% (n=414) và có cả 
+ba vấn đề là 13,2% (n=129) (Bảng 1). 
+----- VN020 page 5 -----
+Tạp chí Y học Thành phố Hồ Chí Minh * Tập 27 * Số 5 * 2024 
+ 
+ 
+104 | https://www.tapchiyhoctphcm.vn                                                                                                                                        https://doi.org/10.32895/hcjm.m.2024.05.12 
+Bảng 1. Đặc điểm cá nhân ở học sinh tham gia nghiên cứu (n=976) 
+Đặc tính Tổng 
+n (%) 
+Trầm cảm 
+n (%) 
+Lo âu 
+n (%) 
+Căng thẳng 
+n (%) 
+Vấn đề sức khỏe tâm thần Không 562 (57,6) 667 (68,3) 731 (74,9) 744 (76,2) 
+Có 414 (42,4)* 309 (31,7) 245 (25,1) 232 (23,8) 
+Mức độ vấn đề sức khỏe tâm thần 
+Bình thường  667 (68,3) 731 (74,9) 744 (76,2) 
+Nhẹ  91 (9,3) 85 (8,7) 88 (9,0) 
+Trung bình  124 (12,7) 120 (12,3) 89 (9,1) 
+Nặng  52 (5,4) 25 (2,6) 36 (3,7) 
+Rất nặng  42 (4,3) 15 (1,5) 19 (2,0) 
+Giới tính Nữ 521 (53,4) 196 (37,6) 157 (30,1) 158 (30,3) 
+Nam 455 (46,6) 113 (24,8) 88 (19,3) 74 (16,3) 
+Áp lực học tập 
+Nhẹ 339 (34,7) 52 (15,3) 45 (13,3) 36 (10,6) 
+Vừa 357 (36,6) 105 (29,4) 85 (23,8) 74 (20,7) 
+Nặng 280 (28,7) 152 (54,3) 115 (41,1) 122 (43,6) 
+Tôn giáo Có 405 (41,5) 136 (33,6) 117 (28,9) 112 (27,7) 
+Không 571 (58,5) 173 (30,3) 128 (22,4) 120 (21,0) 
+Khối lớp 
+Lớp 10 329 (33,7) 96 (29,2) 84 (25,5) 74 (22,5) 
+Lớp 11 325 (33,3) 113 (34,8) 85 (26,2) 84 (25,9) 
+Lớp 12 322 (33,0) 100 (31,1) 76 (23,6) 74 (23,0) 
+Hôn nhân của cha mẹ 
+Sống chung 805 (82,5) 240 (29,8) 197 (24,5) 187 (23,2) 
+Đã ly thân/ly hôn 138 (14,1) 59 (42,8) 41 (29,7) 43 (31,2) 
+Cha hoặc mẹ đã mất 33 (3,4) 10 (30,3) 7 (21,2) 2 (6,1) 
+Tình trạng sống chung của học 
+sinh với cha và mẹ 
+Sống cùng cả cha và mẹ 800 (81,9) 242 (30,3) 198 (24,8) 189 (23,6) 
+Chỉ sống cùng mẹ 104 (10,7) 39 (37,5) 31 (29,8) 26 (25,0) 
+Không sống cùng cha mẹ 40 (4,1) 13 (32,5) 6 (15,0) 7 (17,5) 
+Chỉ sống cùng cha 32 (3,3) 15 (46,9) 10 (31,3) 10 (31,3) 
+Số lượng con trong gia đình 
+Một người 131 (13,4) 45 (34,4) 31 (23,7) 36 (27,5) 
+Hai người 615 (63,0) 190 (30,9) 143 (23,3) 135 (21,9) 
+Từ ba người trở lên 230 (23,6) 74 (32,2) 71 (30,9) 61 (26,5) 
+Thứ tự con trong gia đình 
+Con lớn/con cả 398 (40,8) 130 (32,7) 106 (26,6) 86 (21,6) 
+Con út 327 (33,5) 95 (29,1) 74 (22,6) 78 (23,9) 
+Con duy nhất 131 (13,4) 45 (34,4) 31 (23,6) 36 (27,5) 
+Con thứ 120 (12,3) 39 (32,5) 34 (28,3) 32 (26,7) 
+Tình trạng kinh tế gia đình 
+Khó khăn 82 (8,4) 40 (48,8) 22 (26,8) 20 (24,4) 
+Đủ sống 759 (77,8) 227 (29,9) 186 (24,5) 178 (23,5) 
+Khá giả trở lên 135 (13,8) 42 (31,1) 37 (27,4) 34 (25,2) 
+Nghề nghiệp của cha (n=946) 
+Lao động tự do 354 (37,4) 123 (34,8) 97 (27,4) 97 (27,4) 
+Công nhân 234 (24,7) 68 (29,1) 53 (22,7) 48 (20,5) 
+Kinh doanh, buôn bán 221 (23,4) 67 (30,3) 50 (22,6) 51 (23,1) 
+Nhân viên, viên chức 67 (7,1) 21 (31,3) 17 (25,4) 12 (17,9) 
+----- VN020 page 6 -----
+Tạp chí Y học Thành phố Hồ Chí Minh * Tập 27 * Số 5 * 2024 
+ 
+https://doi.org/10.32895/hcjm.m.2024.05.12                                                                                                                                        https://www.tapchiyhoctphcm.vn | 105 
+Đặc tính Tổng 
+n (%) 
+Trầm cảm 
+n (%) 
+Lo âu 
+n (%) 
+Căng thẳng 
+n (%) 
+Không có việc làm 36 (3,8) 12 (33,3) 13 (36,1) 10 (27,8) 
+Không biết/Không nhớ 34 (3,6) 10 (29,4) 9 (26,5) 12 (35,3) 
+Trình độ học vấn của cha (n=946) 
+Biết đọc, biết viết 54 (5,7) 18 (33,3) 19 (35,2) 14 (25,9) 
+Tiểu học 79 (8,4) 27 (34,2) 18 (22,8) 20 (25,3) 
+Trung học cơ sở 245 (25,9) 69 (28,2) 59 (24,1) 61 (24,9) 
+Trung học phổ thông 272 (28,8) 90 (33,1) 68 (25,0) 66 (24,3) 
+Đại học/Cao đẳng 180 (19,0) 58 (32,2) 46 (25,6) 44 (24,4) 
+Sau đại học 59 (6,2) 21 (35,6) 19 (32,2) 14 (23,7) 
+Không biết/Không nhớ 57 (6,0) 18 (31,6) 10 (17,5) 11 (19,3) 
+Nghề nghiệp của mẹ (n=973) 
+Không có việc làm 307 (31,5) 106 (34,5) 77 (25,1) 79 (25,7) 
+Kinh doanh, buôn bán 210 (21,6) 64 (30,5) 54 (25,7) 52 (24,8) 
+Công nhân 202 (20,8) 55 (27,2) 50 (24,8) 45 (22,3) 
+Lao động tự do 175 (18,0) 62 (35,4) 46 (26,3) 44 (25,1) 
+Nhân viên, viên chức 67 (6,9) 14 (20,9) 11 (16,4) 7 (10,5) 
+Không biết/Không nhớ 12 (1,2) 6 (50,0) 6 (50,0) 5 (41,7) 
+Trình độ học vấn của mẹ (n=973) 
+Biết đọc, biết viết 42 (4,3) 12 (28,6) 15 (35,7) 9 (21,4) 
+Tiểu học 120 (12,4) 45 (37,5) 34 (28,3) 32 (26,7) 
+Trung học cơ sở 291 (29,9) 100 (34,4) 80 (27,5) 78 (26,8) 
+Trung học phổ thông 262 (26,9) 77 (29,4) 53 (20,2) 57 (21,8) 
+Đại học/Cao đẳng 156 (16,0) 48 (30,8) 45 (28,9) 42 (26,9) 
+Sau đại học 60 (6,2) 14 (23,3) 12 (20,0) 4 (6,7) 
+Không biết/Không nhớ 42 (4,3) 11 (26,2) 5 (11,9) 10 (23,8) 
+*Có ít nhất một vấn đề trầm cảm, lo âu, căng thẳng 
+Bảng 1. Các yếu tố liên quan đến trầm cảm, lo âu, căng thẳng qua mô hình hồi quy đa biến ở học sinh tham gia nghiên cứu (n=973) 
+Đặc tính 
+TRẦM CẢM LO ÂU CĂNG THẲNG 
+PRthô  
+(KTC95%) 
+PRhc  
+(KTC95%) 
+PRthô  
+(KTC95%) 
+PRhc  
+(KTC95%) 
+PRthô  
+(KTC95%) 
+PRhc  
+(KTC95%) 
+Giới tính 
+Nữ/Nam 1,51** 
+(1,24-1,83) 
+1,24* 
+(1,03-1,50) 
+1,55** 
+(1,23-1,95) 
+1,30* 
+(1,03-1,63) 
+1,86 
+(1,45-2,38) 
+1,47** 
+(1,15-1,87) 
+Áp lực học tập 
+Nhẹ 1 1 1 1 1 1 
+Vừa 1,87** 
+(1,65-2,11) 
+1,82** 
+(1,60-2,06) 
+1,75** 
+(1,52-2,02) 
+1,68** 
+(1,45-1,94) 
+2,04** 
+(1,75-2,38) 
+1,92** 
+(1,64-2,25) 
+Nặng 3,51** 
+(2,74-4,48) 
+3,31** 
+(2,57-4,27) 
+3,07** 
+(2,31-4,08) 
+2,82** 
+(2,11-3,77) 
+4,17** 
+(3,06-5,67) 
+3,70** 
+(2,71-5,06) 
+Tôn giáo 
+Có/Không 1,10 
+(0,92-1,33)  1,28* 
+(1,03-1,59)  1,31* 
+(1,05-1,64) 
+1,23* 
+(1,01-1,52) 
+----- VN020 page 7 -----
+Tạp chí Y học Thành phố Hồ Chí Minh * Tập 27 * Số 5 * 2024 
+ 
+ 
+106 | https://www.tapchiyhoctphcm.vn                                                                                                                                        https://doi.org/10.32895/hcjm.m.2024.05.12 
+Đặc tính 
+TRẦM CẢM LO ÂU CĂNG THẲNG 
+PRthô  
+(KTC95%) 
+PRhc  
+(KTC95%) 
+PRthô  
+(KTC95%) 
+PRhc  
+(KTC95%) 
+PRthô  
+(KTC95%) 
+PRhc  
+(KTC95%) 
+Hôn nhân của cha mẹ 
+Sống chung 1 1 1  1 1 
+Đã ly thân/ly hôn 1,43** 
+(1,15-1,78) 
+1,44** 
+(1,16-1,77) 
+1,21 
+(0,91 - 1,61)  1,34* 
+(1,01-1,77) 
+1,42** 
+(1,09-1,86) 
+Cha hoặc mẹ đã mất 1,43 
+(0,59-1,72) 
+1,15 
+(0,69-1,90) 
+0,86 
+(0,44 - 1,69)  0,26 
+(0,06-1,01) 
+0,31 
+(0,08-1,21) 
+Tình trạng kinh tế 
+Khó khăn 1 1 1  1  
+Đủ sống 0,61** 
+(0,47-0,78) 
+0,70** 
+(0,54-0,88) 
+0,97 
+(0,62-1,53)  0,96 
+(0,59-1,56)  
+Khá giả trở lên 0,63** 
+(0,45-0,89) 
+0,69* 
+(0,50-0,95) 
+0,89 
+(0,66-1,20)  0,93 
+(0,67-1,27)  
+Trình độ học vấn của mẹ 
+Biết đọc, biết viết 1  1 1 3,21* 
+(1,05-9,75) 
+3,18* 
+(1,10-9,13) 
+Tiểu học 1,31 
+(0,77-2,23)  0,79 
+(0,48-1,30) 
+0,75 
+(0,48-1,19) 
+3,99** 
+(1,48-10,79) 
+3,53** 
+(1,34-9,27) 
+Trung học cơ sở 1,20 
+(0,72-1,99)  0,76 
+(0,49-1,20) 
+0,74 
+(0,49-1,11) 
+4,02* 
+(1,53-10,56) 
+3,80* 
+(1,48-9,72) 
+Trung học phổ thông 1,02 
+(0,61-1,71)  0,56* 
+(0,35-0,90) 
+0,57* 
+(0,36-0,88) 
+3,26** 
+(1,23-8,64) 
+3,18** 
+(1,23-8,25) 
+Đại học/Cao đẳng 1,07 
+(0,63-1,83)  0,80 
+(0,50-1,29) 
+0,75 
+(0,48-1,16) 
+4,03** 
+(1,51-10,78) 
+3,61* 
+(1,39-9,35) 
+Sau đại học 0,81 
+(0,42-1,58)  0,56 
+(0,29-1,07) 
+0,58 
+(0,30-1,10) 1 1 
+Không biết/không nhớ 0,91 
+(0,45-1,84)  0,33* 
+(0,13-0,83) 
+0,35* 
+(0,14-0,87) 
+3,57* 
+(1,19-10,63) 
+3,67* 
+(1,31-10,25) 
+*p <0,05; **p <0,01 
+Hồi quy Poisson đánh giá mối liên quan giữa các yếu tố với trầm cảm, hiệu chỉnh với khối lớp, giới tính, mức độ áp lực học tập, tình trạng hôn nhân 
+cha mẹ, tình trạng sống chung của học sinh với cha mẹ, tình trạng kinh tế gia đình, nghề nghiệp của cha, nghề nghiệp của mẹ. 
+Hồi quy Poisson đánh giá mối liên quan giữa các yếu tố với lo âu, hiệu chỉnh với giới tính, tôn giáo, mức độ áp lực học tập, tình trạng hôn nhân cha 
+mẹ, tình trạng sống chung của học sinh với cha mẹ, số lượng người con, trình độ học vấn của cha, nghề nghiệp của mẹ, trình độ học vấn của mẹ. 
+Hồi quy Poisson đánh giá mối liên quan giữa các yếu tố với căng thẳng, hiệu chỉnh với giới tính, tôn giáo, mức độ áp lực học tập, tình trạng hôn 
+nhân cha mẹ, số lượng người con, thứ tự con, nghề nghiệp của cha, nghề nghiệp của mẹ, trình độ học vấn của mẹ. 
+Tỷ lệ trầm cảm cao hơn ở nhóm học sinh nữ (PRhc =1,24; 
+KTC95%: 1,03-1,50) so với học sinh nam, áp lực học tập mức 
+độ vừa (PRhc=1,82; KTC95%: 1,60-2,06) và nặng (PRhc=3,31; 
+KTC95%:2,57-4,27) so với mức độ nhẹ, cha mẹ đã ly thân/ly 
+hôn (PRhc=1,44; KTC95%: 1,16-1,77) so với nhóm có cha 
+mẹ sống chung, nhưng thấp hơn ở nhóm có kinh tế gia đình 
+đủ sống (PRhc=0,70; KTC95%: 0,54-0,88) và khá giả trở lên 
+(PRhc=0,69; KTC95%: 0,50-0,95) so với khó khăn. 
+Tỷ lệ lo âu cao hơn ở nhóm học sinh nữ (PRhc=1,30; 
+KTC95%:1,03-1,63) so với học sinh nam, áp lực học tập mức 
+độ vừa (PRhc=1,68; KTC95%: 1,45-1,94) và nặng (PRhc=2,82; 
+KTC95%: 2,11-3,77) so với mức độ nhẹ nhưng thấp hơn ở 
+nhóm có mẹ đã hoàn thành trình độ học vấn THPT 
+(PRhc=0,57; KTC95%: 0,36-0,88) so với nhóm có mẹ biết 
+đọc, biết viết. 
+Tỷ lệ căng thẳng cao hơn ở nhóm học sinh nữ (PRhc=1,47; 
+KTC95%: 1,15-1,87) so với học sinh nam, áp lực học tập mức 
+độ vừa (PRhc=1,92; KTC95%: 1,64-2,25) và nặng (PRhc=3,70; 
+----- VN020 page 8 -----
+Tạp chí Y học Thành phố Hồ Chí Minh * Tập 27 * Số 5 * 2024 
+ 
+https://doi.org/10.32895/hcjm.m.2024.05.12                                                                                                                                        https://www.tapchiyhoctphcm.vn | 107 
+KTC95%: 2,71-5,06) so với mức độ nhẹ, có tín ngưỡng tôn 
+giáo (PRhc=1,23; KTC95%: 1,01-1,52) so với không tôn giáo, 
+cha mẹ đã ly thân/ly hôn (PRhc=1,42; KTC95%: 1,09-1,86) 
+so với nhóm có cha mẹ sống chung, có người mẹ biết đọc biết 
+viết (PRhc=3,18; KTC95%: 1,10-9,13), đã hoàn thành trình độ 
+học vấn tiểu học (PRhc=3,53; KTC95%: 1,34-9,27), trung học 
+cơ sở (PRhc=3,80; KTC95%: 1,48-9,72), trung học phổ thông 
+(PRhc=3,18; KTC95%: 1,23-8,25) và đại học/cao đẳng 
+(PRhc=3,61; KTC95%: 1,39-9,35) so với nhóm có mẹ đã 
+hoàn thành trình độ học vấn sau đại học. 
+4. BÀN LUẬN 
+4.1. Đặc điểm đối tượng tham gia nghiên cứu 
+Sự phân bố giới tính phù hợp với tình hình dân số chung 
+tại TP. HCM [7] (nam giới chiếm 48,5%, nữ giới chiếm 
+51,5%). Kết quả học tập phù hợp với các nghiên cứu trong 
+khu vực và tình hình giáo dục, bối cảnh xã hội tại TP. HCM 
+khi học sinh cố gắng nỗ lực học tập và đáp ứng nhu cầu đạt 
+thành tích cao của học sinh, gia đình, nhà trường. 
+Hầu hết học sinh sống cùng cha mẹ (82,5%) và cả cha mẹ 
+cùng nuôi dưỡng học sinh (81,9%). Phân bố nghề nghiệp của 
+cha và mẹ có sự khác biệt so với các nghiên cứu đã thực hiện 
+tại TP . HCM [3,8]. Bên cạnh đó, có 8,8% học sinh cảm nhận 
+kinh tế gia đình khó khăn. Tỷ lệ này cao hơn so với nghiên cứu 
+của Vũ Thị Ly Ly Ngọc (2018) thực hiện tại quận 10, quận 11, 
+quận Tân Bình hay nghiên cứu của Võ Minh Đức (2023) tiến 
+hành tại quận 5, quận 10, quận Tân Bình và huyện Nhà Bè 
+[3,8]. Tuy nhiên, kết quả này phù hợp với tình hình kinh tế xã 
+hội của địa phương. Với nền kinh tế dựa chủ yếu vào nông 
+nghiệp và công nghiệp nhẹ, nhiều khu vực tại Bình Chánh vẫn 
+còn nghèo và thiếu cơ hội phát triển. Đối với Bình Tân, mặc dù 
+có một số khu công nghiệp nhỏ, cơ hội việc làm vẫn hạn chế, 
+sự phát triển đô thị hóa kéo theo chi phí sinh hoạt gia tăng, trong 
+khi thu nhập của nhiều hộ gia đình không đủ để đáp ứng nhu 
+cầu cơ bản, dẫn đến cảm giác khó khăn tài chính. 
+4.2. Tỷ lệ trầm cảm, lo âu, căng thẳng 
+Tỷ lệ trầm cảm là 31,7% với KTC95%: 28,7%-34,7%, tỷ 
+lệ lo âu là 25,1% với KTC95%: 22,4%-27,9%, tỷ lệ căng 
+thẳng là 23,8% với KTC95%: 21,1%-26,6% thấp hơn so với 
+đa số các nghiên cứu trước đây sử dụng DASS-21 trên đối 
+tượng học sinh THPT tại TP . HCM [3,8]. Theo nghiên cứu 
+của Cao C (2023), DASS-21 đã ước tính quá cao số lượng 
+học sinh có vấn đề sức khỏe tâm thần [6]. Đồng thời, DASS-
+Y làm giảm đáng kể tỷ lệ trầm cảm, lo âu, căng thẳng so với 
+DASS-21 do được thiết kế đặc biệt cho trẻ vị thành niên, với 
+các câu hỏi và khái niệm được điều chỉnh để phù hợp hơn với 
+lứa tuổi và sự phát triển tâm lý. Các nghiên cứu ghi nhận thời 
+điểm đánh giá học tập, áp lực thi cử có thể khiến tỷ lệ này 
+tăng cao so với thực tế. Trong nghiên cứu này, chúng tôi thu 
+thập dữ liệu vào thời điểm một tuần sau khi thi nhằm đảm bảo 
+học sinh có thể quay trở lại việc học tập bình thường mà 
+không bị chi phối bởi áp lực thi cử. Do đó, tỷ lệ trầm cảm, lo 
+âu, căng thẳng trong nghiên cứu này thấp hơn so với các 
+nghiên cứu đã thực hiện trước đây cũng trên đối tượng học 
+sinh THPT tại TP . HCM [3,8]. 
+Tỷ lệ học sinh bị trầm cảm cao nhất trong ba vấn đề, khác 
+biệt với một số nghiên cứu có tỷ lệ lo âu hoặc căng thẳng cao 
+nhất. Lo âu và căng thẳng là trạng thái tự nhiên đối phó với 
+những thách thức tức thời, có thể suy giảm nếu vấn đề được 
+giải quyết. Đối với trầm cảm, trạng thái cảm xúc không phụ 
+thuộc tình huống cụ thể và tồn tại liên tục hoặc tái phát từng 
+giai đoạn. Tuy nhiên, các vấn đề sức khỏe tâm thần không tồn 
+tại độc lập mà có sự chồng chéo và tác động lẫn nhau, mỗi 
+vấn đề có thể làm trầm trọng thêm các vấn đề khác. Tỷ lệ học 
+sinh có ít nhất một (42,4%) và có đồng thời ba vấn đề trầm 
+cảm, lo âu, căng thẳng (13,2%) trong nghiên cứu của chúng 
+tôi thấp hơn so với nghiên cứu của tác giả Vũ Thị Ly Ly Ngọc 
+năm 2018 sử dụng DASS-21 đánh giá học sinh thuộc ba 
+trường THPT công lập tại 3 quận nội thành TP . HCM ghi 
+nhận lần lượt là 67,3% và 22,7% [8]. Nghiên cứu của tác giả 
+Vũ Thị Ly Ly Ngọc tiến hành tại thời điểm thi cuối kì và khối 
+12 có kết hợp ôn luyện cho kì thi THPT Quốc gia, áp lực học 
+tập, cạnh tranh cao, khối lượng kiến thức lớn, đồng thời ghi 
+nhận năng lực nhận thức và năng lực tìm kiếm hỗ trợ sức khỏe 
+tâm thần ở học sinh tham gia chỉ ở mức trung bình nên học 
+sinh biểu hiện đa dạng và kết hợp các biểu hiện mệt mỏi, chán 
+nản là điều khó tránh khỏi, dẫn đến tỷ lệ cao hơn. Mặc dù vậy, 
+kết quả cho thấy tình trạng tổn thương sức khỏe tâm thần phối 
+hợp, tồn tại lâu dài đáng quan tâm và cần có những can thiệp 
+ở học sinh THPT tại TP . HCM. 
+4.3. Các yếu tố liên quan đến trầm cảm, lo âu, 
+căng thẳng 
+Nghiên cứu này cho thấy tỷ lệ học sinh nữ bị trầm cảm, lo 
+âu, căng thẳng cao hơn so với học sinh nam. Trong giai đoạn 
+----- VN020 page 9 -----
+Tạp chí Y học Thành phố Hồ Chí Minh * Tập 27 * Số 5 * 2024 
+ 
+ 
+108 | https://www.tapchiyhoctphcm.vn                                                                                                                                        https://doi.org/10.32895/hcjm.m.2024.05.12 
+tuổi VTN, cả học sinh nam và học sinh nữ đều chịu sự tác 
+động mạnh mẽ của hormon giới tính. Tuy nhiên, testosterone 
+ở học sinh nam liên quan đến hành vi cạnh tranh và mạo hiểm, 
+trong khi ở học sinh nữ, sự thay đổi estrogen và progesterone 
+mang tính định kỳ do có chu kỳ kinh nguyệt làm gia tăng 
+nguy cơ trầm cảm, lo âu [9]. Đồng thời, cấu trúc não bộ ở nữ 
+hoạt động mạnh hơn ở các vùng liên quan đến cảm xúc và 
+giao tiếp, ở nam có thể có sự hoạt động mạnh mẽ hơn ở các 
+vùng liên quan đến kỹ năng không gian và giải quyết vấn đề 
+theo lý trí [10]. Do đó, học sinh nữ nhạy cảm hơn với cảm 
+xúc của bản thân và của người khác, làm gia tăng nguy cơ lo 
+âu và trầm cảm khi cảm xúc không được quản lý hiệu quả. 
+Mức độ áp lực học tập càng lớn thì tỷ lệ học sinh báo cáo trầm 
+cảm, lo âu, căng thẳng càng cao, phù hợp với nghiên cứu của 
+Phạm Minh Quang (2023) [11]. Cụ thể, nghiên cứu của chúng 
+tôi ghi nhận ở những học sinh có mức độ áp lực học tập cao 
+hơn một mức độ thì tỷ lệ trầm cảm tăng 85%, tỷ lệ lo âu tăng 
+68% và tỷ lệ căng thẳng tăng 92%. Môi trường và khối lượng 
+học tập thay đổi từ trung học cơ sở đến THPT khiến khó thích 
+nghi, ảnh hưởng đến kết quả học tập gây sức ép lớn đối với 
+học sinh. Các trường đại học và cao đẳng đang có xu hướng 
+mở rộng hình thức xét tuyển dựa trên kết quả học tập của học 
+sinh trong ba năm học THPT. Xu hướng này khiến cho thành 
+tích học tập trong giai đoạn này trở thành yếu tố quan trọng 
+trong việc quyết định cơ hội trúng tuyển vào các cơ sở giáo 
+dục đại học, cao đẳng. Do đó, học sinh phải nỗ lực học tập và 
+rèn luyện bản thân để đạt được thành tích cao trong các môn 
+học, nhằm đáp ứng không chỉ yêu cầu của các trường đại học 
+mà còn kỳ vọng của cha mẹ. Điều này tác động mạnh mẽ đến 
+sức khỏe tâm thần của học sinh. 
+Trong bối cảnh phần lớn học sinh sống cùng cha mẹ, trình 
+độ học vấn của mẹ có mối liên quan đến lo âu, căng thẳng. Tỷ 
+lệ căng thẳng gia tăng ở bất kỳ trình độ học vấn của người 
+mẹ. Kết quả tương đồng với nghiên cứu của Mridha MK [12]. 
+Người mẹ luôn cố gắng nuôi dưỡng và kiểm soát hành vi, tâm 
+lý của con mình. Cùng với sự khác biệt về nhận thức giữa các 
+thế hệ, học sinh chịu đựng kém, căng thẳng với cách chăm 
+sóc, nuôi dạy của mẹ. Tuy nhiên, đối với lo âu, phát hiện của 
+chúng tôi cho thấy học sinh có mẹ đã hoàn thành chương trình 
+THPT có tỷ lệ lo âu bằng 0,57 lần (KTC95%: 0,36-0,88) và 
+p <0,05 so với nhóm học sinh có mẹ biết đọc, biết viết. Kết 
+quả này cho thấy phụ huynh có trình độ học vấn cao hơn có 
+những phương pháp quan tâm, tiếp cận và hỗ trợ học sinh giải 
+tỏa căng thẳng hiệu quả hơn. 
+Mặc dù nghiên cứu chưa tìm thấy mối liên quan giữa trầm 
+cảm, lo âu, căng thẳng ở học sinh với các yếu tố của người 
+cha. Tuy nhiên, yếu tố gia đình là quan trọng khi kết quả cho 
+thấy ở những học sinh có cha mẹ ly hôn hoặc ly thân thì tỷ lệ 
+trầm cảm, căng thẳng cao hơn so với những học sinh có cha 
+mẹ đang sống chung. Kết quả tương đồng với nghiên cứu của 
+Marouane M năm 2023 tìm thấy cha mẹ ly hôn (OR=6,00) là 
+một trong các yếu tố dự báo trầm cảm [13]. Theo Học viện 
+Tâm thần Trẻ em và Vị thành niên Hoa Kỳ, học sinh tự trách 
+và xem bản thân là lý do khiến cha mẹ ly hôn hoặc ly thân. 
+Phạm vi của nghiên cứu còn hạn chế trong việc tìm hiểu sâu 
+hơn về thời gian và quan hệ gia đình trước và sau ly thân hoặc 
+ly hôn. Tuy nhiên, trước và trong giai đoạn cha mẹ ly hôn 
+hoặc ly thân, học sinh chứng kiến sự mất hòa thuận và an toàn 
+trong gia đình. Phản ứng tức thời và lâu dài khi cha và mẹ ly 
+hôn hoặc ly thân là phù hợp với căng thẳng và trầm cảm ở 
+học sinh.  
+Học sinh có cảm nhận kinh tế gia đình đủ sống và khá giả 
+trở lên có tỷ lệ trầm cảm thấp hơn so với nhóm học sinh có 
+kinh tế gia đình khó khăn. Học sinh cảm nhận kinh tế gia đình 
+khó khăn thường cảm thấy cuộc sống bất công và thể hiện 
+nhiều cảm xúc tiêu cực, dẫn đến các vấn đề trong mối quan 
+hệ bạn bè. Thiếu hụt nguồn lực làm giảm sự lạc quan, khó 
+khăn trong việc thay đổi số phận và đạt mục tiêu cá nhân. Học 
+sinh cảm thấy cuộc sống ít có ý nghĩa, thiếu niềm tin vào 
+người khác, và do đó, đối phó với các vấn đề sức khỏe tâm 
+thần kém hiệu quả [14]. Căng thẳng, lo lắng kéo dài, khó thay 
+đổi và quá mức về sự tác động của thu nhập gia đình khiến 
+học sinh dễ dàng đối mặt với trầm cảm.  
+4.4. Điểm mạnh và hạn chế của nghiên cứu 
+Công cụ khảo sát sử dụng bộ câu hỏi tự điền soạn sẵn được 
+thiết kế đơn giản, từ ngữ rõ ràng, dễ hiểu, phù hợp với đối 
+tượng học sinh THPT. DASS-Y phù hợp đánh giá các vấn đề 
+sức khỏe tâm thần ở lứa tuổi VTN. Nghiên cứu tuân thủ chặt 
+chẽ đề cương. Phương pháp chọn mẫu ngẫu nhiên nhiều bậc 
+và cỡ mẫu đủ lớn đảm bảo tính đại diện và khả năng khái quát 
+hóa kết quả nghiên cứu. Nghiên cứu sử dụng thiết kế nghiên 
+cứu cắt ngang mô tả nên chỉ phản ánh thực trạng của học sinh 
+mà không có khả năng suy diễn mối quan hệ nhân quả giữa 
+các yếu tố liên quan. Tuy nhiên, mục đích nghiên cứu là xác 
+định tỷ lệ trầm cảm, lo âu, căng thẳng. Nhiều yếu tố trong 
+nghiên cứu có thể xác định xảy ra trước khi có trầm cảm, lo 
+âu, căng thẳng như giới tính, áp lực học tập, tôn giáo, hôn 
+----- VN020 page 10 -----
+Tạp chí Y học Thành phố Hồ Chí Minh * Tập 27 * Số 5 * 2024 
+ 
+https://doi.org/10.32895/hcjm.m.2024.05.12                                                                                                                                        https://www.tapchiyhoctphcm.vn | 109 
+nhân cha mẹ và điều kiện kinh tế gia đình. Các yếu tố này 
+cũng được xác định trong các nghiên cứu trước đây [11,13]. 
+5. KẾT LUẬN 
+Nhà trường phối hợp với gia đình để giảm tỷ lệ trầm cảm, 
+lo âu, căng thẳng ở học sinh bằng cách điều chỉnh khối lượng 
+bài tập và yêu cầu thành tích học tập, đồng thời tổ chức các 
+buổi giáo dục về nhận diện, quản lý sức khỏe tâm thần đặc 
+trưng theo giới tính. Học sinh tín ngưỡng tôn giáo lành mạnh. 
+Cha mẹ cải thiện mối quan hệ hôn nhân và tìm kiếm sự tư vấn 
+khi cần; quản lý tài chính và kế hoạch chi tiêu để giảm bớt 
+gánh nặng kinh tế. Người mẹ tham gia các khóa học đào tạo 
+nhận diện, can thiệp và quản lý sức khỏe tâm thần cho học 
+sinh do nhà trường phối hợp với chuyên gia hoặc trên nền 
+tảng trực tuyến để có những hiểu biết và hỗ trợ học sinh giải 
+tỏa căng thẳng hiệu quả hơn. 
+Lời cảm ơn 
+Nhóm nghiên cứu trân trọng cảm ơn học sinh, Thầy Cô tại 
+Trường THPT Bình Trị Đông, Trường THPT Đa Phước và 
+Đại học Y Dược TP.HCM đã hỗ trợ trong quá trình thực hiện 
+nghiên cứu này. 
+Nguồn tài trợ  
+Nghiên cứu này được tài trợ kinh phí bởi Đại học Y Dược 
+Thành phố Hồ Chí Minh theo hợp đồng số 139/2024/HĐ-
+ĐHYD, ngày 17 tháng 4 năm 2024. 
+Xung đột lợi ích 
+Không có xung đột lợi ích tiềm ẩn nào liên quan đến bài viết 
+này được báo cáo. 
+ORCID 
+Trần Hồ Vĩnh Lộc  
+https://orcid.org/0009-0007-2463-5747 
+Huỳnh Ngọc Vân Anh 
+https://orcid.org/0000-0003-2746-2048 
+Tô Gia Kiên  
+https://orcid.org/0000-0001-5038-5584 
+Đóng góp của các tác giả 
+Ý tưởng nghiên cứu: Trần Hồ Vĩnh Lộc, Huỳnh Ngọc Vân Anh 
+Đề cương và phương pháp nghiên cứu: Trần Hồ Vĩnh Lộc, 
+Huỳnh Ngọc Vân Anh 
+Thu thập dữ liệu: Trần Hồ Vĩnh Lộc 
+Giám sát nghiên cứu: Huỳnh Ngọc Vân Anh, Tô Gia Kiên 
+Nhập dữ liệu: Trần Hồ Vĩnh Lộc 
+Quản lý dữ liệu: Trần Hồ Vĩnh Lộc, Huỳnh Ngọc Vân Anh 
+Phân tích dữ liệu: Trần Hồ Vĩnh Lộc, Huỳnh Ngọc Vân Anh, 
+Tô Gia Kiên 
+Viết bản thảo đầu tiên: Trần Hồ Vĩnh Lộc, Tô Gia Kiên 
+Góp ý bản thảo và đồng ý cho đăng bài: Trần Hồ Vĩnh Lộc, 
+Huỳnh Ngọc Vân Anh, Tô Gia Kiên  
+Cung cấp dữ liệu và thông tin nghiên cứu 
+Tác giả liên hệ sẽ cung cấp dữ liệu nếu có yêu cầu từ Ban biên tập. 
+Chấp thuận của Hội đồng Đạo đức 
+Nghiên cứu đã được thông qua Hội đồng Đạo đức trong 
+nghiên cứu Y sinh học Đại học Y Dược Thành phố Hồ Chí 
+Minh, số 276/HĐĐĐ-ĐHYD, ngày 01/02/2024. 
+TÀI LIỆU THAM KHẢO 
+1. World Health Organization. Mental health of 
+adolescents. 2021. URL: https://www.who.int//news-
+room/fact-sheets/detail/adolescent-mental-health. 
+2. UNICEF. Adolescent mental health and well-being in 
+Viet Nam: The impact of school. 2022. 
+3. Đức Minh Võ. Mối liên quan giữa đa nhiệm phương tiện 
+truyền thông và trầm cảm, lo âu, stress ở học sinh trung 
+học phổ thông tại Thành phố Hồ Chí Minh [Khóa luận 
+tốt nghiệp Bác sĩ Y học dự phòng]: Đại học Y Dược 
+Thành phố Hồ Chí Minh; 2023. 
+4. Sun J, Dunne Michael P, Hou X, Xu A. Educational 
+stress scale for adolescents: development, validity, and 
+reliability with Chinese students. Journal of 
+Psychoeducational Assessment. 2011;29(6):534-46. 
+5. Psychology Foundation of Australia. DASS-Y severity 
+cutoffs. 2023. URL: https://dass.psy.unsw.edu.au/DASS-
+Y%20cutoffs.htm. 
+----- VN020 page 11 -----
+Tạp chí Y học Thành phố Hồ Chí Minh * Tập 27 * Số 5 * 2024 
+ 
+ 
+110 | https://www.tapchiyhoctphcm.vn                                                                                                                                        https://doi.org/10.32895/hcjm.m.2024.05.12 
+6. Cao C, Liao X, Gamble Jeffrey H, et al. Evaluating the 
+psychometric properties of the Chinese Depression 
+Anxiety Stress Scale for Youth (DASS-Y) and DASS-
+21. Child Adolescent Psychiatry Mental Health. 
+2023;17(1):106. 
+7. Cục Thống kê Thành phố Hồ Chí Minh. Niên giám 
+thống kê Thành phố Hồ Chí Minh 2023. 2023. 
+8. Vũ Thị Ly Ly Ngọc. Năng lực sức khỏe về tâm thần và 
+các yếu tố liên quan ở học sinh trung học phổ thông tại 
+thành phố Hồ Chí Minh. Khóa luận tốt nghiệp Cử nhân 
+Y tế Công cộng, Đại học Y Dược Thành phố Hồ Chí 
+Minh. 2018. 
+9. Kuehner C. Why is depression more common among 
+women than among men? The Lancet Psychiatry. 
+2017;4(2):146-58. 
+10. Luders E, Toga Arthur W. Sex differences in brain 
+anatomy. Progress in Brain Research. 2010;186:2-12. 
+11. Quang Minh Phạm. Tỉ lệ chịu áp lực học tập và mối liên 
+quan với lo âu ở học sinh trung học phổ thông Giồng 
+Ông Tố, Thành phố Thủ Đức, Thành phố Hồ Chí Minh 
+năm 2023. Khóa luận tốt nghiệp Bác sĩ Y học dự phòng, 
+Đại học Y Dược Thành phố Hồ Chí Minh. 2023. 
+12. Mridha MK, Hossain MM, Khan SA, et al. Prevalence 
+and associated factors of depression among adolescent 
+boys and girls in Bangladesh: findings from a nationwide 
+survey. BMJ Open. 2021;11(1):e038954. 
+13. Moustakbal M, Maataoui SB. Depression symptoms 
+among adolescents in Morocco: a school-based cross-
+sectional study. Pan African Medical Journal. 
+2023;44(1):147. 
+14. Weinberg D, Stevens Gonneke WJM, Peeters M, Visser 
+K, Tigchelaar J, Finkenauer C. The social gradient in 
+adolescent mental health: mediated or moderated by 
+belief in a just world? European Child Adolescent 
+Psychiatry. 2021;32(5):773-782.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

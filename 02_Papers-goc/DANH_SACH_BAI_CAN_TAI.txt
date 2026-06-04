@@ -1,0 +1,79 @@
+DANH SÁCH BÀI BÁO CẦN TẢI THÊM
+Cập nhật: 28/03/2026
+Ưu tiên: Việt Nam > Đông Nam Á > Thế giới | Chỉ từ 2024 trở lại
+
+=== ĐÃ CÓ (không cần tải) ===
+[OK] Hoa 2024 - Frontiers (VN Hà Nội, 8 trang)
+[OK] V-NAMHS 2022 - IOS/UQ/Johns Hopkins (VN quốc gia, 51 trang)
+[OK] UNICEF 2022 - Yếu tố trường học VN (118 trang)
+[OK] GBD ASEAN 2025 - Lancet Public Health (ĐNA, 12 trang)
+[OK] Zhameden 2025 - PLOS ONE (LMIC, 21 trang)
+[OK] Anderson 2025 - Wiley (Thế giới, 10 trang)
+[OK] Ngô Anh Vinh 2024 - DTTS Lạng Sơn (VN)
+[OK] VN Multicenter 2025 - 2.631 HS TPHCM (Springer)
+[OK] VN Huế Lo âu VTN 2025 (TC Tâm lý học)
+[OK] VN TPHCM DASS THPT 2024 (TC YH TPHCM)
+[OK] VN PNT DASS THPT 2025 (TC Y Dược PNT)
+[OK] Indonesia Adolescent MH 2024 (J Adolescent Health)
+[OK] Korea MH Trends 2024 (Nature Scientific Reports)
+[OK] Digital MH Social Anxiety 2025 (JMIR)
+[OK] BMC Public Health 2024 (11 trang) — bạn mới tải
+[OK] Lancet Regional SEA 2025 (13 trang) — Nam Á — bạn mới tải
+[OK] Filipino Youth Depression 2025 (9 trang) — bạn mới tải
+[OK] Pham 2024 VN adolescents social support (9 trang) — bạn mới tải
+
+=== CẦN TẢI — VIỆT NAM (ưu tiên cao) ===
+
+V 1. Chuẩn hóa PHQ-9 HS THPT Hà Nội 2024
+   https://www.researchgate.net/publication/385721784
+   (ResearchGate — có thể cần tài khoản)
+
+V 2. Thực trạng SKTT HS THPT Hà Nội 2025 (TC Y học Cộng đồng)
+   https://tapchiyhcd.vn/index.php/yhcd/article/view/2617
+   (Tạp chí trong nước — tải PDF từ trang)
+
+V 3. Sàng lọc lo âu trầm cảm stress HS Long Bình An Giang 2024
+   https://tapchiyhocvietnam.vn/index.php/vmj/article/view/13506
+   (TC Y học Việt Nam)
+
+4. Trầm cảm HS THCS Chu Văn An Thái Nguyên 2024
+   https://tapchiyhocvietnam.vn/index.php/vmj/article/view/11412
+   (TC Y học Việt Nam — ICD-10 chẩn đoán)
+
+5. Nguyễn HTT 2024 — Trầm cảm HS THPT Hà Nội, vai trò gia đình
+   https://pubmed.ncbi.nlm.nih.gov/39098167/
+   (J Epidemiology and Population Health)
+
+=== CẦN TẢI — ĐÔNG NAM Á ===
+
+X 6. Mallari 2025 — SKTT trường học Philippines
+   https://onlinelibrary.wiley.com/doi/10.1002/pits.23387
+   (Psychology in the Schools)
+
+X 7. Indonesia MH policy gap — trường học
+   https://www.sciencedirect.com/science/article/abs/pii/S1876201825001868
+
+8. So sánh giáo dục SKTT Philippines/Indonesia/Nhật 2025
+   https://link.springer.com/article/10.1186/s41182-025-00697-6
+   (Tropical Medicine and Health)
+
+=== CẦN TẢI — THẾ GIỚI ===
+
+9. China Eastern middle school depression trends 2024
+   https://pmc.ncbi.nlm.nih.gov/articles/PMC11697880/
+
+10. Racine 2021 JAMA Pediatrics — COVID meta-analysis (3000+ citations)
+    https://pmc.ncbi.nlm.nih.gov/articles/PMC8353576/
+    (Bài kinh điển, cũ nhưng rất quan trọng)
+
+11. Barriers help-seeking ASEAN 2025
+    https://journals.sagepub.com/doi/10.1177/00207640251367289
+
+12. Anxiety prevalence Philippines systematic review 2025
+    https://www.tandfonline.com/doi/full/10.1080/17450128.2025.2478149
+
+=== HƯỚNG DẪN TẢI ===
+- Bấm link → tìm nút Download PDF / Full Text
+- Nếu bị CAPTCHA hoặc paywall: thử trang Sci-Hub hoặc ResearchGate
+- Tải xong bỏ vào thư mục ./02_Papers-goc/ (hoặc thư mục con phù hợp)
+- Đặt tên file: [TácGiả]_[Năm]_[MôTảNgắn].pdf

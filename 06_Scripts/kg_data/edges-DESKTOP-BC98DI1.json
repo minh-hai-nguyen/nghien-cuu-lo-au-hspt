@@ -1,0 +1,3472 @@
+[
+  {
+    "source": "QT001",
+    "target": "SampleSize::75",
+    "rel": "HAS_N"
+  },
+  {
+    "source": "QT001",
+    "target": "Country::Vietnam",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT001",
+    "target": "Country::USA",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT001",
+    "target": "Outcome::Generalized Anxiety (GAD)",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT001",
+    "target": "Outcome::Anxiety",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT001",
+    "target": "Outcome::Depression",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT001",
+    "target": "Scale::PHQ-9",
+    "rel": "USED_SCALE"
+  },
+  {
+    "source": "VN001",
+    "target": "Year::2024",
+    "rel": "HAS_YEAR"
+  },
+  {
+    "source": "VN001",
+    "target": "SampleSize::3910",
+    "rel": "HAS_N"
+  },
+  {
+    "source": "VN001",
+    "target": "Country::Vietnam",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "VN001",
+    "target": "Country::UK",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "VN001",
+    "target": "Outcome::Generalized Anxiety (GAD)",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "VN001",
+    "target": "Outcome::Anxiety",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "VN001",
+    "target": "Scale::GAD-7",
+    "rel": "USED_SCALE"
+  },
+  {
+    "source": "VN001",
+    "target": "ES::VN001::OR::11.6",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "QT012",
+    "target": "Year::2021",
+    "rel": "HAS_YEAR"
+  },
+  {
+    "source": "QT012",
+    "target": "Country::Vietnam",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT012",
+    "target": "Country::Philippines",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT012",
+    "target": "Country::Indonesia",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT012",
+    "target": "Country::ASEAN",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT012",
+    "target": "Outcome::Anxiety",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT012",
+    "target": "Outcome::Depression",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT013",
+    "target": "Year::2025",
+    "rel": "HAS_YEAR"
+  },
+  {
+    "source": "QT013",
+    "target": "Country::Vietnam",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT013",
+    "target": "Country::UK",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT013",
+    "target": "Country::LMIC",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT013",
+    "target": "Outcome::Anxiety",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT013",
+    "target": "Outcome::Depression",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT014",
+    "target": "Year::2025",
+    "rel": "HAS_YEAR"
+  },
+  {
+    "source": "QT014",
+    "target": "Country::USA",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT014",
+    "target": "Method::CBT",
+    "rel": "USED_METHOD"
+  },
+  {
+    "source": "QT014",
+    "target": "Method::SSRI",
+    "rel": "USED_METHOD"
+  },
+  {
+    "source": "QT014",
+    "target": "Outcome::Anxiety",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT014",
+    "target": "Outcome::Stress",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "VN002",
+    "target": "Year::2022",
+    "rel": "HAS_YEAR"
+  },
+  {
+    "source": "VN002",
+    "target": "SampleSize::5996",
+    "rel": "HAS_N"
+  },
+  {
+    "source": "VN002",
+    "target": "Country::Vietnam",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "VN002",
+    "target": "Country::UK",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "VN002",
+    "target": "Country::Philippines",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "VN002",
+    "target": "Outcome::Generalized Anxiety (GAD)",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "VN002",
+    "target": "Outcome::Anxiety",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "VN002",
+    "target": "Outcome::Depression",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "VN002",
+    "target": "Scale::DASS-21",
+    "rel": "USED_SCALE"
+  },
+  {
+    "source": "VN002",
+    "target": "Scale::GAD-7",
+    "rel": "USED_SCALE"
+  },
+  {
+    "source": "QT015",
+    "target": "Year::2019",
+    "rel": "HAS_YEAR"
+  },
+  {
+    "source": "QT015",
+    "target": "SampleSize::9831",
+    "rel": "HAS_N"
+  },
+  {
+    "source": "QT015",
+    "target": "Country::Vietnam",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT015",
+    "target": "Country::China",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT015",
+    "target": "Outcome::Generalized Anxiety (GAD)",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT015",
+    "target": "Outcome::Anxiety",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT015",
+    "target": "Outcome::Depression",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT015",
+    "target": "Scale::GAD-7",
+    "rel": "USED_SCALE"
+  },
+  {
+    "source": "QT015",
+    "target": "Scale::PHQ-9",
+    "rel": "USED_SCALE"
+  },
+  {
+    "source": "QT015",
+    "target": "ES::QT015::AOR::13.71",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "QT015",
+    "target": "ES::QT015::AOR::13.71",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "QT015",
+    "target": "ES::QT015::AOR::13.71",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "QT016",
+    "target": "Year::2025",
+    "rel": "HAS_YEAR"
+  },
+  {
+    "source": "QT016",
+    "target": "Country::Vietnam",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT016",
+    "target": "Country::Sri Lanka",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT016",
+    "target": "Country::India",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT016",
+    "target": "Country::Philippines",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT016",
+    "target": "Country::Indonesia",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT016",
+    "target": "Country::ASEAN",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT016",
+    "target": "Country::Southeast Asia",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT016",
+    "target": "Country::LMIC",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT016",
+    "target": "Method::CBT",
+    "rel": "USED_METHOD"
+  },
+  {
+    "source": "QT016",
+    "target": "Outcome::Anxiety",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT016",
+    "target": "Outcome::Depression",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT017",
+    "target": "Year::2013",
+    "rel": "HAS_YEAR"
+  },
+  {
+    "source": "QT017",
+    "target": "SampleSize::19178",
+    "rel": "HAS_N"
+  },
+  {
+    "source": "QT017",
+    "target": "Country::China",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT017",
+    "target": "Country::Philippines",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT017",
+    "target": "Country::Southeast Asia",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT017",
+    "target": "Outcome::Generalized Anxiety (GAD)",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT017",
+    "target": "Outcome::Anxiety",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT017",
+    "target": "Outcome::Depression",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT017",
+    "target": "Scale::GAD-7",
+    "rel": "USED_SCALE"
+  },
+  {
+    "source": "QT017",
+    "target": "Scale::CES-D",
+    "rel": "USED_SCALE"
+  },
+  {
+    "source": "VN003",
+    "target": "Year::2024",
+    "rel": "HAS_YEAR"
+  },
+  {
+    "source": "VN003",
+    "target": "Country::Vietnam",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "VN003",
+    "target": "Outcome::Anxiety",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "VN003",
+    "target": "Outcome::Depression",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "VN003",
+    "target": "ES::VN003::OR::0.3",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "VN003",
+    "target": "ES::VN003::OR::0.32",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "QT002",
+    "target": "Year::2023",
+    "rel": "HAS_YEAR"
+  },
+  {
+    "source": "QT002",
+    "target": "SampleSize::360",
+    "rel": "HAS_N"
+  },
+  {
+    "source": "QT002",
+    "target": "Country::India",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT002",
+    "target": "Outcome::Anxiety",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT002",
+    "target": "Outcome::Depression",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT002",
+    "target": "Outcome::Stress",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT002",
+    "target": "Scale::DASS-21",
+    "rel": "USED_SCALE"
+  },
+  {
+    "source": "QT008",
+    "target": "Year::2020",
+    "rel": "HAS_YEAR"
+  },
+  {
+    "source": "QT008",
+    "target": "SampleSize::900",
+    "rel": "HAS_N"
+  },
+  {
+    "source": "QT008",
+    "target": "Country::China",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT008",
+    "target": "Outcome::Generalized Anxiety (GAD)",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT008",
+    "target": "Outcome::Anxiety",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT008",
+    "target": "Scale::DASS-21",
+    "rel": "USED_SCALE"
+  },
+  {
+    "source": "QT008",
+    "target": "Scale::GAD-7",
+    "rel": "USED_SCALE"
+  },
+  {
+    "source": "QT008",
+    "target": "ES::QT008::OR::0.562",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "QT008",
+    "target": "ES::QT008::OR::0.562",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "QT008",
+    "target": "ES::QT008::OR::11.6",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "QT010",
+    "target": "Year::2021",
+    "rel": "HAS_YEAR"
+  },
+  {
+    "source": "QT010",
+    "target": "Country::China",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT010",
+    "target": "Country::India",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT010",
+    "target": "Country::Ethiopia",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT010",
+    "target": "Outcome::Generalized Anxiety (GAD)",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT010",
+    "target": "Outcome::Anxiety",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT010",
+    "target": "Scale::GAD-7",
+    "rel": "USED_SCALE"
+  },
+  {
+    "source": "QT010",
+    "target": "ES::QT010::OR::1.3",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "VN014",
+    "target": "SampleSize::8473",
+    "rel": "HAS_N"
+  },
+  {
+    "source": "VN014",
+    "target": "Country::Vietnam",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "VN014",
+    "target": "Method::Physical Exercise",
+    "rel": "USED_METHOD"
+  },
+  {
+    "source": "VN014",
+    "target": "Outcome::Anxiety",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "VN014",
+    "target": "Outcome::Depression",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "VN014",
+    "target": "Outcome::Stress",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "VN014",
+    "target": "Scale::DASS-21",
+    "rel": "USED_SCALE"
+  },
+  {
+    "source": "VN014",
+    "target": "ES::VN014::OR::0.3",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "VN014",
+    "target": "ES::VN014::OR::5.0",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "VN014",
+    "target": "ES::VN014::AOR::13.71",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "VN014",
+    "target": "ES::VN014::AOR::0.557",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "VN015",
+    "target": "Year::2024",
+    "rel": "HAS_YEAR"
+  },
+  {
+    "source": "VN015",
+    "target": "SampleSize::845",
+    "rel": "HAS_N"
+  },
+  {
+    "source": "VN015",
+    "target": "Country::Vietnam",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "VN015",
+    "target": "Country::UK",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "VN015",
+    "target": "Country::USA",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "VN015",
+    "target": "Method::Physical Exercise",
+    "rel": "USED_METHOD"
+  },
+  {
+    "source": "VN015",
+    "target": "Outcome::Anxiety",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "VN015",
+    "target": "Outcome::Depression",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "VN015",
+    "target": "Outcome::Stress",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "VN015",
+    "target": "Scale::DASS-21",
+    "rel": "USED_SCALE"
+  },
+  {
+    "source": "VN015",
+    "target": "ES::VN015::OR::1.29",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "VN015",
+    "target": "ES::VN015::OR::6.84",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "VN015",
+    "target": "ES::VN015::OR::6.84",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "VN015",
+    "target": "ES::VN015::OR::0.43",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "VN015",
+    "target": "ES::VN015::OR::0.43",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "VN015",
+    "target": "ES::VN015::OR::0.51",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "VN015",
+    "target": "ES::VN015::OR::0.72",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "VN015",
+    "target": "ES::VN015::OR::0.57",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "VN016",
+    "target": "Year::2025",
+    "rel": "HAS_YEAR"
+  },
+  {
+    "source": "VN016",
+    "target": "SampleSize::501",
+    "rel": "HAS_N"
+  },
+  {
+    "source": "VN016",
+    "target": "Country::Vietnam",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "VN016",
+    "target": "Country::UK",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "VN016",
+    "target": "Country::Germany",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "VN016",
+    "target": "Outcome::Generalized Anxiety (GAD)",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "VN016",
+    "target": "Outcome::Anxiety",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "VN016",
+    "target": "Outcome::Depression",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "VN016",
+    "target": "Outcome::Stress",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "VN016",
+    "target": "Scale::DASS-21",
+    "rel": "USED_SCALE"
+  },
+  {
+    "source": "VN016",
+    "target": "Scale::DASS-Y",
+    "rel": "USED_SCALE"
+  },
+  {
+    "source": "VN016",
+    "target": "Scale::GAD-7",
+    "rel": "USED_SCALE"
+  },
+  {
+    "source": "VN017",
+    "target": "Year::2022",
+    "rel": "HAS_YEAR"
+  },
+  {
+    "source": "VN017",
+    "target": "SampleSize::482",
+    "rel": "HAS_N"
+  },
+  {
+    "source": "VN017",
+    "target": "Country::Vietnam",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "VN017",
+    "target": "Outcome::Generalized Anxiety (GAD)",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "VN017",
+    "target": "Outcome::Anxiety",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "VN017",
+    "target": "Outcome::Depression",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "VN017",
+    "target": "Outcome::Stress",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "VN017",
+    "target": "Scale::DASS-21",
+    "rel": "USED_SCALE"
+  },
+  {
+    "source": "VN017",
+    "target": "Scale::GAD-7",
+    "rel": "USED_SCALE"
+  },
+  {
+    "source": "VN018",
+    "target": "Year::2024",
+    "rel": "HAS_YEAR"
+  },
+  {
+    "source": "VN018",
+    "target": "SampleSize::366",
+    "rel": "HAS_N"
+  },
+  {
+    "source": "VN018",
+    "target": "Country::Vietnam",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "VN018",
+    "target": "Country::UK",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "VN018",
+    "target": "Country::Germany",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "VN018",
+    "target": "Outcome::Anxiety",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "VN018",
+    "target": "Outcome::Depression",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "VN018",
+    "target": "Outcome::Stress",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "VN018",
+    "target": "Scale::DASS-21",
+    "rel": "USED_SCALE"
+  },
+  {
+    "source": "VN019",
+    "target": "Year::2025",
+    "rel": "HAS_YEAR"
+  },
+  {
+    "source": "VN019",
+    "target": "SampleSize::685",
+    "rel": "HAS_N"
+  },
+  {
+    "source": "VN019",
+    "target": "Country::Vietnam",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "VN019",
+    "target": "Outcome::Generalized Anxiety (GAD)",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "VN019",
+    "target": "Outcome::Anxiety",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "VN019",
+    "target": "Outcome::Depression",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "VN019",
+    "target": "Scale::DASS-21",
+    "rel": "USED_SCALE"
+  },
+  {
+    "source": "VN019",
+    "target": "Scale::DASS-Y",
+    "rel": "USED_SCALE"
+  },
+  {
+    "source": "VN019",
+    "target": "Scale::GAD-7",
+    "rel": "USED_SCALE"
+  },
+  {
+    "source": "VN019",
+    "target": "Scale::LOT-R",
+    "rel": "USED_SCALE"
+  },
+  {
+    "source": "VN020",
+    "target": "Year::2024",
+    "rel": "HAS_YEAR"
+  },
+  {
+    "source": "VN020",
+    "target": "SampleSize::976",
+    "rel": "HAS_N"
+  },
+  {
+    "source": "VN020",
+    "target": "Country::Vietnam",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "VN020",
+    "target": "Country::UK",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "VN020",
+    "target": "Outcome::Generalized Anxiety (GAD)",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "VN020",
+    "target": "Outcome::Anxiety",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "VN020",
+    "target": "Outcome::Depression",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "VN020",
+    "target": "Outcome::Stress",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "VN020",
+    "target": "Scale::DASS-21",
+    "rel": "USED_SCALE"
+  },
+  {
+    "source": "VN020",
+    "target": "Scale::DASS-Y",
+    "rel": "USED_SCALE"
+  },
+  {
+    "source": "VN020",
+    "target": "Scale::GAD-7",
+    "rel": "USED_SCALE"
+  },
+  {
+    "source": "VN020",
+    "target": "Scale::ESSA",
+    "rel": "USED_SCALE"
+  },
+  {
+    "source": "VN020",
+    "target": "ES::VN020::OR::11.6",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "QT021",
+    "target": "Year::2011",
+    "rel": "HAS_YEAR"
+  },
+  {
+    "source": "QT021",
+    "target": "SampleSize::979043",
+    "rel": "HAS_N"
+  },
+  {
+    "source": "QT021",
+    "target": "Country::Korea",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT021",
+    "target": "Country::USA",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT021",
+    "target": "Country::Norway",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT021",
+    "target": "Outcome::Anxiety",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT021",
+    "target": "Outcome::Stress",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT021",
+    "target": "ES::QT021::g::0.46",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "QT022",
+    "target": "Year::2025",
+    "rel": "HAS_YEAR"
+  },
+  {
+    "source": "QT022",
+    "target": "SampleSize::4058",
+    "rel": "HAS_N"
+  },
+  {
+    "source": "QT022",
+    "target": "Country::Australia",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT022",
+    "target": "Country::Norway",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT022",
+    "target": "Outcome::Anxiety",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT022",
+    "target": "Outcome::Depression",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT022",
+    "target": "ES::QT022::OR::5.0",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "QT023",
+    "target": "Year::2024",
+    "rel": "HAS_YEAR"
+  },
+  {
+    "source": "QT023",
+    "target": "SampleSize::13684",
+    "rel": "HAS_N"
+  },
+  {
+    "source": "QT023",
+    "target": "Country::Korea",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT023",
+    "target": "Country::USA",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT023",
+    "target": "Country::Norway",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT023",
+    "target": "Outcome::Generalized Anxiety (GAD)",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT023",
+    "target": "Outcome::Anxiety",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT023",
+    "target": "Outcome::Depression",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT023",
+    "target": "Scale::GAD-7",
+    "rel": "USED_SCALE"
+  },
+  {
+    "source": "QT023",
+    "target": "ES::QT023::AOR::2.17",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "QT023",
+    "target": "ES::QT023::AOR::2.17",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "QT023",
+    "target": "ES::QT023::AOR::2.17",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "QT023",
+    "target": "ES::QT023::AOR::2.93",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "QT024",
+    "target": "Year::2025",
+    "rel": "HAS_YEAR"
+  },
+  {
+    "source": "QT024",
+    "target": "Country::Vietnam",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT024",
+    "target": "Country::ASEAN",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT024",
+    "target": "Country::LMIC",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT024",
+    "target": "Outcome::Anxiety",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT024",
+    "target": "Outcome::Depression",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT024",
+    "target": "ES::QT024::OR::0.562",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "QT024",
+    "target": "ES::QT024::OR::0.562",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "QT024",
+    "target": "ES::QT024::OR::0.562",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "QT025",
+    "target": "Year::2025",
+    "rel": "HAS_YEAR"
+  },
+  {
+    "source": "QT025",
+    "target": "SampleSize::3721",
+    "rel": "HAS_N"
+  },
+  {
+    "source": "QT025",
+    "target": "Country::Australia",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT025",
+    "target": "Country::Ireland",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT025",
+    "target": "Country::Norway",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT025",
+    "target": "Outcome::Anxiety",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT025",
+    "target": "Outcome::Depression",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT025",
+    "target": "Outcome::Stress",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT026",
+    "target": "Year::2025",
+    "rel": "HAS_YEAR"
+  },
+  {
+    "source": "QT026",
+    "target": "Country::Vietnam",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT026",
+    "target": "Country::UK",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT026",
+    "target": "Country::USA",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT026",
+    "target": "Country::Ireland",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT026",
+    "target": "Outcome::Anxiety",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT026",
+    "target": "ES::QT026::AOR::2.17",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "QT027",
+    "target": "Year::2025",
+    "rel": "HAS_YEAR"
+  },
+  {
+    "source": "QT027",
+    "target": "SampleSize::3340",
+    "rel": "HAS_N"
+  },
+  {
+    "source": "QT027",
+    "target": "Country::Vietnam",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT027",
+    "target": "Country::UK",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT027",
+    "target": "Country::Norway",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT027",
+    "target": "Outcome::Anxiety",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT027",
+    "target": "Outcome::Depression",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT027",
+    "target": "ES::QT027::OR::5.0",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "QT027",
+    "target": "ES::QT027::OR::5.0",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "QT028",
+    "target": "Year::2024",
+    "rel": "HAS_YEAR"
+  },
+  {
+    "source": "QT028",
+    "target": "Country::Vietnam",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT028",
+    "target": "Country::LMIC",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT028",
+    "target": "Method::CBT",
+    "rel": "USED_METHOD"
+  },
+  {
+    "source": "QT028",
+    "target": "Method::iCBT",
+    "rel": "USED_METHOD"
+  },
+  {
+    "source": "QT028",
+    "target": "Method::gCBT",
+    "rel": "USED_METHOD"
+  },
+  {
+    "source": "QT028",
+    "target": "Method::SSRI",
+    "rel": "USED_METHOD"
+  },
+  {
+    "source": "QT028",
+    "target": "Outcome::Anxiety",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT028",
+    "target": "Outcome::Depression",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT028",
+    "target": "ES::QT028::OR::0.562",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "QT029",
+    "target": "Year::2025",
+    "rel": "HAS_YEAR"
+  },
+  {
+    "source": "QT029",
+    "target": "Country::Vietnam",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT029",
+    "target": "Country::ASEAN",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT029",
+    "target": "Country::LMIC",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT029",
+    "target": "Method::CBT",
+    "rel": "USED_METHOD"
+  },
+  {
+    "source": "QT029",
+    "target": "Method::iCBT",
+    "rel": "USED_METHOD"
+  },
+  {
+    "source": "QT029",
+    "target": "Method::gCBT",
+    "rel": "USED_METHOD"
+  },
+  {
+    "source": "QT029",
+    "target": "Method::Relaxation",
+    "rel": "USED_METHOD"
+  },
+  {
+    "source": "QT029",
+    "target": "Method::SSRI",
+    "rel": "USED_METHOD"
+  },
+  {
+    "source": "QT029",
+    "target": "Outcome::Social Anxiety (SAD)",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT029",
+    "target": "Outcome::Generalized Anxiety (GAD)",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT029",
+    "target": "Outcome::Anxiety",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT029",
+    "target": "ES::QT029::OR::0.562",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "QT030",
+    "target": "Year::2021",
+    "rel": "HAS_YEAR"
+  },
+  {
+    "source": "QT030",
+    "target": "Country::Vietnam",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT030",
+    "target": "Country::China",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT030",
+    "target": "Country::USA",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT030",
+    "target": "Country::Ireland",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT030",
+    "target": "Country::Norway",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT030",
+    "target": "Outcome::Anxiety",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT030",
+    "target": "Outcome::Depression",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT031",
+    "target": "Year::2025",
+    "rel": "HAS_YEAR"
+  },
+  {
+    "source": "QT031",
+    "target": "Country::Vietnam",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT031",
+    "target": "Country::UK",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT031",
+    "target": "Country::Southeast Asia",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT031",
+    "target": "Outcome::Generalized Anxiety (GAD)",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT031",
+    "target": "Outcome::Anxiety",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT031",
+    "target": "Scale::DASS-21",
+    "rel": "USED_SCALE"
+  },
+  {
+    "source": "QT031",
+    "target": "Scale::GAD-7",
+    "rel": "USED_SCALE"
+  },
+  {
+    "source": "QT031",
+    "target": "ES::QT031::OR::1.51",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "QT031",
+    "target": "ES::QT031::OR::6.84",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "QT031",
+    "target": "ES::QT031::OR::0.3",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "QT032",
+    "target": "Year::2012",
+    "rel": "HAS_YEAR"
+  },
+  {
+    "source": "QT032",
+    "target": "Country::Vietnam",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT032",
+    "target": "Country::Korea",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT032",
+    "target": "Country::USA",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT032",
+    "target": "Country::Ireland",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT032",
+    "target": "Outcome::Anxiety",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT032",
+    "target": "Outcome::Depression",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT032",
+    "target": "Outcome::Stress",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT032",
+    "target": "Scale::DASS-21",
+    "rel": "USED_SCALE"
+  },
+  {
+    "source": "QT032",
+    "target": "ES::QT032::AOR::2.17",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "QT033",
+    "target": "Journal::JAMA Network Open",
+    "rel": "PUBLISHED_IN"
+  },
+  {
+    "source": "QT033",
+    "target": "Year::2024",
+    "rel": "HAS_YEAR"
+  },
+  {
+    "source": "QT033",
+    "target": "SampleSize::63205",
+    "rel": "HAS_N"
+  },
+  {
+    "source": "QT033",
+    "target": "Country::Vietnam",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT033",
+    "target": "Country::China",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT033",
+    "target": "Country::UK",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT033",
+    "target": "Country::Denmark",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT033",
+    "target": "Outcome::Anxiety",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT033",
+    "target": "ES::QT033::OR::5.0",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "QT033",
+    "target": "ES::QT033::OR::5.0",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "QT034",
+    "target": "Year::2006",
+    "rel": "HAS_YEAR"
+  },
+  {
+    "source": "QT034",
+    "target": "Country::Vietnam",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT034",
+    "target": "Country::Korea",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT034",
+    "target": "Outcome::Generalized Anxiety (GAD)",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT034",
+    "target": "Outcome::Anxiety",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT034",
+    "target": "Outcome::Stress",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT034",
+    "target": "Scale::GAD-7",
+    "rel": "USED_SCALE"
+  },
+  {
+    "source": "QT035",
+    "target": "Year::2020",
+    "rel": "HAS_YEAR"
+  },
+  {
+    "source": "QT035",
+    "target": "SampleSize::6825",
+    "rel": "HAS_N"
+  },
+  {
+    "source": "QT035",
+    "target": "Country::Vietnam",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT035",
+    "target": "Country::China",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT035",
+    "target": "Country::UK",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT035",
+    "target": "Country::USA",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT035",
+    "target": "Country::Indonesia",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT035",
+    "target": "Outcome::Social Anxiety (SAD)",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT035",
+    "target": "Outcome::Generalized Anxiety (GAD)",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT035",
+    "target": "Outcome::Anxiety",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT035",
+    "target": "Scale::DASS-21",
+    "rel": "USED_SCALE"
+  },
+  {
+    "source": "QT035",
+    "target": "Scale::GAD-7",
+    "rel": "USED_SCALE"
+  },
+  {
+    "source": "QT035",
+    "target": "Scale::SIAS",
+    "rel": "USED_SCALE"
+  },
+  {
+    "source": "VN021",
+    "target": "SampleSize::341",
+    "rel": "HAS_N"
+  },
+  {
+    "source": "VN021",
+    "target": "Country::Vietnam",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "VN021",
+    "target": "Outcome::Generalized Anxiety (GAD)",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "VN021",
+    "target": "Outcome::Anxiety",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "VN021",
+    "target": "Outcome::Stress",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "VN021",
+    "target": "Scale::DASS-21",
+    "rel": "USED_SCALE"
+  },
+  {
+    "source": "VN021",
+    "target": "Scale::GAD-7",
+    "rel": "USED_SCALE"
+  },
+  {
+    "source": "VN021",
+    "target": "Scale::ESSA",
+    "rel": "USED_SCALE"
+  },
+  {
+    "source": "VN021",
+    "target": "ES::VN021::OR::11.58",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "VN021",
+    "target": "ES::VN021::AOR::1.51",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "VN021",
+    "target": "ES::VN021::beta::4.73",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "VN021",
+    "target": "ES::VN021::beta::4.73",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "VN021",
+    "target": "ES::VN021::beta::4.73",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "VN021",
+    "target": "ES::VN021::beta::3.2",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "VN021",
+    "target": "ES::VN021::beta::2.24",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "VN021",
+    "target": "ES::VN021::SUCRA::0.51",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "QT036",
+    "target": "Year::2025",
+    "rel": "HAS_YEAR"
+  },
+  {
+    "source": "QT036",
+    "target": "SampleSize::213820",
+    "rel": "HAS_N"
+  },
+  {
+    "source": "QT036",
+    "target": "Country::Vietnam",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT036",
+    "target": "Country::Korea",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT036",
+    "target": "Country::Ireland",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT036",
+    "target": "Outcome::Generalized Anxiety (GAD)",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT036",
+    "target": "Outcome::Anxiety",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT036",
+    "target": "Outcome::Stress",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT036",
+    "target": "Scale::GAD-7",
+    "rel": "USED_SCALE"
+  },
+  {
+    "source": "QT036",
+    "target": "ES::QT036::AOR::1.28",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "QT036",
+    "target": "ES::QT036::AOR::13.71",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "QT036",
+    "target": "ES::QT036::AOR::13.71",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "VN022",
+    "target": "Country::Vietnam",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "VN022",
+    "target": "Outcome::Social Anxiety (SAD)",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "VN022",
+    "target": "Outcome::Generalized Anxiety (GAD)",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "VN022",
+    "target": "Outcome::Anxiety",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "VN022",
+    "target": "Outcome::Stress",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "VN022",
+    "target": "Scale::DASS-21",
+    "rel": "USED_SCALE"
+  },
+  {
+    "source": "VN022",
+    "target": "Scale::GAD-7",
+    "rel": "USED_SCALE"
+  },
+  {
+    "source": "VN022",
+    "target": "Scale::ESSA",
+    "rel": "USED_SCALE"
+  },
+  {
+    "source": "VN022",
+    "target": "ES::VN022::OR::11.58",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "VN022",
+    "target": "ES::VN022::OR::11.58",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "VN022",
+    "target": "ES::VN022::AOR::1.68",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "VN022",
+    "target": "ES::VN022::AOR::1.51",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "VN023",
+    "target": "Year::2023",
+    "rel": "HAS_YEAR"
+  },
+  {
+    "source": "VN023",
+    "target": "SampleSize::5730",
+    "rel": "HAS_N"
+  },
+  {
+    "source": "VN023",
+    "target": "Country::Vietnam",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "VN023",
+    "target": "Outcome::Generalized Anxiety (GAD)",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "VN023",
+    "target": "Outcome::Anxiety",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "VN023",
+    "target": "Scale::DASS-21",
+    "rel": "USED_SCALE"
+  },
+  {
+    "source": "VN023",
+    "target": "Scale::GAD-7",
+    "rel": "USED_SCALE"
+  },
+  {
+    "source": "VN024",
+    "target": "Year::2024",
+    "rel": "HAS_YEAR"
+  },
+  {
+    "source": "VN024",
+    "target": "SampleSize::919",
+    "rel": "HAS_N"
+  },
+  {
+    "source": "VN024",
+    "target": "Country::Vietnam",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "VN024",
+    "target": "Outcome::Generalized Anxiety (GAD)",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "VN024",
+    "target": "Outcome::Anxiety",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "VN024",
+    "target": "Outcome::Depression",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "VN024",
+    "target": "Outcome::Stress",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "VN024",
+    "target": "Scale::DASS-21",
+    "rel": "USED_SCALE"
+  },
+  {
+    "source": "VN024",
+    "target": "Scale::GAD-7",
+    "rel": "USED_SCALE"
+  },
+  {
+    "source": "VN024",
+    "target": "Scale::CES-D",
+    "rel": "USED_SCALE"
+  },
+  {
+    "source": "VN024",
+    "target": "Scale::ESSA",
+    "rel": "USED_SCALE"
+  },
+  {
+    "source": "QT037",
+    "target": "Year::2024",
+    "rel": "HAS_YEAR"
+  },
+  {
+    "source": "QT037",
+    "target": "Country::Vietnam",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT037",
+    "target": "Country::Philippines",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT037",
+    "target": "Country::Indonesia",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT037",
+    "target": "Country::Southeast Asia",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT037",
+    "target": "Method::CBT",
+    "rel": "USED_METHOD"
+  },
+  {
+    "source": "QT037",
+    "target": "Method::CA-CBT",
+    "rel": "USED_METHOD"
+  },
+  {
+    "source": "QT037",
+    "target": "Outcome::Anxiety",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT038",
+    "target": "Year::2024",
+    "rel": "HAS_YEAR"
+  },
+  {
+    "source": "QT038",
+    "target": "Country::Vietnam",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT038",
+    "target": "Country::Sri Lanka",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT038",
+    "target": "Country::LMIC",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT038",
+    "target": "Method::CBT",
+    "rel": "USED_METHOD"
+  },
+  {
+    "source": "QT038",
+    "target": "Outcome::Anxiety",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT039",
+    "target": "Year::2024",
+    "rel": "HAS_YEAR"
+  },
+  {
+    "source": "QT039",
+    "target": "Country::Vietnam",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT039",
+    "target": "Country::China",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT039",
+    "target": "Country::Korea",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT039",
+    "target": "Country::Japan",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT039",
+    "target": "Country::ASEAN",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT039",
+    "target": "Country::LMIC",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT039",
+    "target": "Method::CBT",
+    "rel": "USED_METHOD"
+  },
+  {
+    "source": "QT039",
+    "target": "Method::iCBT",
+    "rel": "USED_METHOD"
+  },
+  {
+    "source": "QT039",
+    "target": "Method::gCBT",
+    "rel": "USED_METHOD"
+  },
+  {
+    "source": "QT039",
+    "target": "Outcome::Social Anxiety (SAD)",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT039",
+    "target": "Outcome::Generalized Anxiety (GAD)",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT039",
+    "target": "Outcome::Anxiety",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT039",
+    "target": "ES::QT039::SUCRA::71.2",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "QT039",
+    "target": "ES::QT039::SUCRA::68.4",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "QT040",
+    "target": "Year::2025",
+    "rel": "HAS_YEAR"
+  },
+  {
+    "source": "QT040",
+    "target": "Country::Vietnam",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT040",
+    "target": "Country::LMIC",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT040",
+    "target": "Method::CBT",
+    "rel": "USED_METHOD"
+  },
+  {
+    "source": "QT040",
+    "target": "Method::iCBT",
+    "rel": "USED_METHOD"
+  },
+  {
+    "source": "QT040",
+    "target": "Method::DMHI",
+    "rel": "USED_METHOD"
+  },
+  {
+    "source": "QT040",
+    "target": "Method::VR Therapy",
+    "rel": "USED_METHOD"
+  },
+  {
+    "source": "QT040",
+    "target": "Outcome::Social Anxiety (SAD)",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT040",
+    "target": "Outcome::Anxiety",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT040",
+    "target": "ES::QT040::g::0.508",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "QT040",
+    "target": "ES::QT040::g::0.878",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "QT040",
+    "target": "ES::QT040::g::0.825",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "VN025",
+    "target": "Year::2023",
+    "rel": "HAS_YEAR"
+  },
+  {
+    "source": "VN025",
+    "target": "Country::Vietnam",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "VN025",
+    "target": "Country::China",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "VN025",
+    "target": "Outcome::Anxiety",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "VN025",
+    "target": "Outcome::Depression",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "VN025",
+    "target": "Outcome::Stress",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "VN025",
+    "target": "Scale::DASS-21",
+    "rel": "USED_SCALE"
+  },
+  {
+    "source": "QT041",
+    "target": "Year::2025",
+    "rel": "HAS_YEAR"
+  },
+  {
+    "source": "QT041",
+    "target": "Country::Vietnam",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT041",
+    "target": "Country::China",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT041",
+    "target": "Outcome::Generalized Anxiety (GAD)",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT041",
+    "target": "Outcome::Anxiety",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT041",
+    "target": "Outcome::Stress",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT041",
+    "target": "Scale::GAD-7",
+    "rel": "USED_SCALE"
+  },
+  {
+    "source": "QT041",
+    "target": "Scale::PSQI",
+    "rel": "USED_SCALE"
+  },
+  {
+    "source": "QT041",
+    "target": "ES::QT041::AOR::13.71",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "QT041",
+    "target": "ES::QT041::beta::0.615",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "QT041",
+    "target": "ES::QT041::beta::0.223",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "QT041",
+    "target": "ES::QT041::beta::0.153",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "VN026",
+    "target": "Year::2025",
+    "rel": "HAS_YEAR"
+  },
+  {
+    "source": "VN026",
+    "target": "Country::Vietnam",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "VN026",
+    "target": "Outcome::Anxiety",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "VN026",
+    "target": "Scale::DASS-21",
+    "rel": "USED_SCALE"
+  },
+  {
+    "source": "QT042",
+    "target": "Year::2025",
+    "rel": "HAS_YEAR"
+  },
+  {
+    "source": "QT042",
+    "target": "Country::Vietnam",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT042",
+    "target": "Country::UK",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT042",
+    "target": "Country::LMIC",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT042",
+    "target": "Method::CBT",
+    "rel": "USED_METHOD"
+  },
+  {
+    "source": "QT042",
+    "target": "Method::Mindfulness",
+    "rel": "USED_METHOD"
+  },
+  {
+    "source": "QT042",
+    "target": "Outcome::Anxiety",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT042",
+    "target": "Outcome::Depression",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT042",
+    "target": "Outcome::Stress",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT043",
+    "target": "Year::2024",
+    "rel": "HAS_YEAR"
+  },
+  {
+    "source": "QT043",
+    "target": "SampleSize::59",
+    "rel": "HAS_N"
+  },
+  {
+    "source": "QT043",
+    "target": "Country::Vietnam",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT043",
+    "target": "Method::CBT",
+    "rel": "USED_METHOD"
+  },
+  {
+    "source": "QT043",
+    "target": "Method::Mobile CBT",
+    "rel": "USED_METHOD"
+  },
+  {
+    "source": "QT043",
+    "target": "Outcome::Social Anxiety (SAD)",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT043",
+    "target": "Outcome::Generalized Anxiety (GAD)",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT043",
+    "target": "Outcome::Anxiety",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT043",
+    "target": "Scale::HAM-A",
+    "rel": "USED_SCALE"
+  },
+  {
+    "source": "QT043",
+    "target": "Scale::LSAS",
+    "rel": "USED_SCALE"
+  },
+  {
+    "source": "QT043",
+    "target": "Scale::ASI",
+    "rel": "USED_SCALE"
+  },
+  {
+    "source": "QT043",
+    "target": "ES::QT043::Cohen_d::0.93",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "QT043",
+    "target": "ES::QT043::Cohen_d::1.04",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "QT043",
+    "target": "ES::QT043::Cohen_d::1.04",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "QT043",
+    "target": "ES::QT043::d::0.93",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "QT043",
+    "target": "ES::QT043::d::1.07",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "QT043",
+    "target": "ES::QT043::d::1.04",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "QT043",
+    "target": "ES::QT043::d::1.04",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "QT044",
+    "target": "Year::2025",
+    "rel": "HAS_YEAR"
+  },
+  {
+    "source": "QT044",
+    "target": "SampleSize::10",
+    "rel": "HAS_N"
+  },
+  {
+    "source": "QT044",
+    "target": "Country::China",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT044",
+    "target": "Country::India",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT044",
+    "target": "Country::USA",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT044",
+    "target": "Country::Australia",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT044",
+    "target": "Method::CBT",
+    "rel": "USED_METHOD"
+  },
+  {
+    "source": "QT044",
+    "target": "Method::Resilience training",
+    "rel": "USED_METHOD"
+  },
+  {
+    "source": "QT044",
+    "target": "Outcome::Stress",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT045",
+    "target": "Year::2024",
+    "rel": "HAS_YEAR"
+  },
+  {
+    "source": "QT045",
+    "target": "SampleSize::38",
+    "rel": "HAS_N"
+  },
+  {
+    "source": "QT045",
+    "target": "Country::Vietnam",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT045",
+    "target": "Country::Japan",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT045",
+    "target": "Method::CBT",
+    "rel": "USED_METHOD"
+  },
+  {
+    "source": "QT045",
+    "target": "Method::iCBT",
+    "rel": "USED_METHOD"
+  },
+  {
+    "source": "QT045",
+    "target": "Method::DMHI",
+    "rel": "USED_METHOD"
+  },
+  {
+    "source": "QT045",
+    "target": "Outcome::Social Anxiety (SAD)",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT045",
+    "target": "Outcome::Anxiety",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT045",
+    "target": "Outcome::Depression",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT045",
+    "target": "Scale::PHQ-9",
+    "rel": "USED_SCALE"
+  },
+  {
+    "source": "QT045",
+    "target": "Scale::SIAS",
+    "rel": "USED_SCALE"
+  },
+  {
+    "source": "QT046",
+    "target": "Year::2025",
+    "rel": "HAS_YEAR"
+  },
+  {
+    "source": "QT046",
+    "target": "Country::Vietnam",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT046",
+    "target": "Country::Norway",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT046",
+    "target": "Method::CBT",
+    "rel": "USED_METHOD"
+  },
+  {
+    "source": "QT046",
+    "target": "Method::Mindfulness",
+    "rel": "USED_METHOD"
+  },
+  {
+    "source": "QT046",
+    "target": "Method::Physical Exercise",
+    "rel": "USED_METHOD"
+  },
+  {
+    "source": "QT046",
+    "target": "Method::Yoga",
+    "rel": "USED_METHOD"
+  },
+  {
+    "source": "QT046",
+    "target": "Method::Relaxation",
+    "rel": "USED_METHOD"
+  },
+  {
+    "source": "QT046",
+    "target": "Outcome::Stress",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT046",
+    "target": "ES::QT046::OR::11.58",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "QT046",
+    "target": "ES::QT046::beta::4.73",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "VN027",
+    "target": "Year::2021",
+    "rel": "HAS_YEAR"
+  },
+  {
+    "source": "VN027",
+    "target": "Country::Vietnam",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "VN027",
+    "target": "Outcome::Generalized Anxiety (GAD)",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "VN027",
+    "target": "Outcome::Anxiety",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "VN027",
+    "target": "Scale::DASS-Y",
+    "rel": "USED_SCALE"
+  },
+  {
+    "source": "VN027",
+    "target": "Scale::GAD-7",
+    "rel": "USED_SCALE"
+  },
+  {
+    "source": "QT047",
+    "target": "Year::2025",
+    "rel": "HAS_YEAR"
+  },
+  {
+    "source": "QT047",
+    "target": "SampleSize::1844",
+    "rel": "HAS_N"
+  },
+  {
+    "source": "QT047",
+    "target": "Country::Vietnam",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT047",
+    "target": "Country::China",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT047",
+    "target": "Outcome::Anxiety",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT047",
+    "target": "Outcome::Depression",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT047",
+    "target": "Scale::DASS-21",
+    "rel": "USED_SCALE"
+  },
+  {
+    "source": "QT048",
+    "target": "Country::Vietnam",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT048",
+    "target": "Outcome::Anxiety",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT049",
+    "target": "Year::2026",
+    "rel": "HAS_YEAR"
+  },
+  {
+    "source": "QT049",
+    "target": "SampleSize::19865",
+    "rel": "HAS_N"
+  },
+  {
+    "source": "QT049",
+    "target": "Country::Vietnam",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT049",
+    "target": "Country::UK",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT049",
+    "target": "Method::CBT",
+    "rel": "USED_METHOD"
+  },
+  {
+    "source": "QT049",
+    "target": "Outcome::Anxiety",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT049",
+    "target": "Outcome::Depression",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT050",
+    "target": "Year::2025",
+    "rel": "HAS_YEAR"
+  },
+  {
+    "source": "QT050",
+    "target": "SampleSize::2479",
+    "rel": "HAS_N"
+  },
+  {
+    "source": "QT050",
+    "target": "Country::Vietnam",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT050",
+    "target": "Country::Japan",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT050",
+    "target": "Method::CBT",
+    "rel": "USED_METHOD"
+  },
+  {
+    "source": "QT050",
+    "target": "Method::iCBT",
+    "rel": "USED_METHOD"
+  },
+  {
+    "source": "QT050",
+    "target": "Method::Mobile CBT",
+    "rel": "USED_METHOD"
+  },
+  {
+    "source": "QT050",
+    "target": "Method::DMHI",
+    "rel": "USED_METHOD"
+  },
+  {
+    "source": "QT050",
+    "target": "Outcome::Social Anxiety (SAD)",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT050",
+    "target": "Outcome::Anxiety",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT050",
+    "target": "Outcome::Depression",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "QT050",
+    "target": "ES::QT050::g::0.878",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "QT051",
+    "target": "Country::Vietnam",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT051",
+    "target": "Country::China",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT051",
+    "target": "Country::Southeast Asia",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT051",
+    "target": "Country::LMIC",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "QT051",
+    "target": "ES::QT051::OR::0.22",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "VN028",
+    "target": "Year::2023",
+    "rel": "HAS_YEAR"
+  },
+  {
+    "source": "VN028",
+    "target": "SampleSize::195",
+    "rel": "HAS_N"
+  },
+  {
+    "source": "VN028",
+    "target": "Country::Vietnam",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "VN028",
+    "target": "Outcome::Anxiety",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "VN028",
+    "target": "Outcome::Depression",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "VN028",
+    "target": "Outcome::Stress",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "VN028",
+    "target": "Scale::DASS-21",
+    "rel": "USED_SCALE"
+  },
+  {
+    "source": "VN028",
+    "target": "Scale::DASS-Y",
+    "rel": "USED_SCALE"
+  },
+  {
+    "source": "VN028",
+    "target": "ES::VN028::d::0.05",
+    "rel": "REPORTED_ES"
+  },
+  {
+    "source": "VN029",
+    "target": "Year::2025",
+    "rel": "HAS_YEAR"
+  },
+  {
+    "source": "VN029",
+    "target": "SampleSize::2631",
+    "rel": "HAS_N"
+  },
+  {
+    "source": "VN029",
+    "target": "Country::Vietnam",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "VN029",
+    "target": "Country::Australia",
+    "rel": "CONDUCTED_IN"
+  },
+  {
+    "source": "VN029",
+    "target": "Method::CBT",
+    "rel": "USED_METHOD"
+  },
+  {
+    "source": "VN029",
+    "target": "Outcome::Anxiety",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "VN029",
+    "target": "Outcome::Depression",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "VN029",
+    "target": "Outcome::Stress",
+    "rel": "MEASURED"
+  },
+  {
+    "source": "VN029",
+    "target": "Scale::DASS-21",
+    "rel": "USED_SCALE"
+  },
+  {
+    "source": "VN029",
+    "target": "Scale::YBRS",
+    "rel": "USED_SCALE"
+  },
+  {
+    "source": "QT042_B5",
+    "target": "Country::UK",
+    "rel": "IN_COUNTRY"
+  },
+  {
+    "source": "QT042_B5",
+    "target": "StudyType::editorial",
+    "rel": "HAS_TYPE"
+  },
+  {
+    "source": "QT042_PLACES",
+    "target": "PMC::PMC8909998",
+    "rel": "HAS_PMC"
+  },
+  {
+    "source": "QT042_PLACES",
+    "target": "Country::UK_Canada",
+    "rel": "IN_COUNTRY"
+  },
+  {
+    "source": "QT042_PLACES",
+    "target": "StudyType::model_paper",
+    "rel": "HAS_TYPE"
+  },
+  {
+    "source": "QT042_BESST",
+    "target": "PMID::38759665",
+    "rel": "HAS_PMID"
+  },
+  {
+    "source": "QT042_BESST",
+    "target": "TrialReg::ISRCTN90912799",
+    "rel": "TRIAL_REG"
+  },
+  {
+    "source": "QT042_BESST",
+    "target": "Country::UK",
+    "rel": "IN_COUNTRY"
+  },
+  {
+    "source": "QT042_BESST",
+    "target": "StudyType::cluster_RCT",
+    "rel": "HAS_TYPE"
+  },
+  {
+    "source": "QT042_BESST",
+    "target": "SampleSize::900",
+    "rel": "HAS_N"
+  },
+  {
+    "source": "QT042_BESST",
+    "target": "NumSchools::57",
+    "rel": "HAS_SCHOOLS"
+  },
+  {
+    "source": "QT042_BESST",
+    "target": "EffectSize::Cohen_d::-0.17",
+    "rel": "HAS_EFFECT_OVERALL"
+  },
+  {
+    "source": "QT042_BESST",
+    "target": "EffectSize::Cohen_d::-0.52",
+    "rel": "HAS_EFFECT_SUBGROUP_ELEVATED"
+  },
+  {
+    "source": "QT042_BESST",
+    "target": "ICER::GBP::15387",
+    "rel": "HAS_ICER"
+  },
+  {
+    "source": "QT042_BESST",
+    "target": "QT042_PLACES",
+    "rel": "USES_MODEL"
+  },
+  {
+    "source": "QT042_B5",
+    "target": "QT042_BESST",
+    "rel": "CITES_TRIAL"
+  },
+  {
+    "source": "QT042_B5",
+    "target": "QT042_PLACES",
+    "rel": "CITES_MODEL"
+  },
+  {
+    "source": "QT042_BESST",
+    "target": "Concept::self_referral",
+    "rel": "TESTS_CONCEPT"
+  },
+  {
+    "source": "QT042_PLACES",
+    "target": "Concept::self_referral",
+    "rel": "DEFINES_CONCEPT"
+  },
+  {
+    "source": "QT042_PLACES",
+    "target": "Concept::lay_language",
+    "rel": "DEFINES_CONCEPT"
+  },
+  {
+    "source": "QT042_PLACES",
+    "target": "Concept::publicity",
+    "rel": "DEFINES_CONCEPT"
+  },
+  {
+    "source": "QT042_PLACES",
+    "target": "Concept::acceptable",
+    "rel": "DEFINES_CONCEPT"
+  },
+  {
+    "source": "QT042_PLACES",
+    "target": "Concept::convenient",
+    "rel": "DEFINES_CONCEPT"
+  },
+  {
+    "source": "QT042_PLACES",
+    "target": "Concept::perceived_effectiveness",
+    "rel": "DEFINES_CONCEPT"
+  },
+  {
+    "source": "QT042_BESST",
+    "target": "Intervention::DISCOVER_CBT_workshop",
+    "rel": "TESTS_INTERVENTION"
+  },
+  {
+    "source": "QT042_BESST",
+    "target": "Outcome::MFQ_depression",
+    "rel": "PRIMARY_OUTCOME"
+  },
+  {
+    "source": "QT042_BESST",
+    "target": "Outcome::RCADS_anxiety",
+    "rel": "SECONDARY_OUTCOME"
+  },
+  {
+    "source": "QT042_BESST",
+    "target": "Outcome::WEMWBS_wellbeing",
+    "rel": "SECONDARY_OUTCOME"
+  },
+  {
+    "source": "QT042_BESST",
+    "target": "Outcome::SCI_sleep",
+    "rel": "SECONDARY_OUTCOME"
+  },
+  {
+    "source": "QT042_BESST",
+    "target": "Outcome::CYRM12_resilience",
+    "rel": "SECONDARY_OUTCOME"
+  },
+  {
+    "source": "QT042_BESST",
+    "target": "Provider::MHST",
+    "rel": "DELIVERED_BY"
+  },
+  {
+    "source": "QT042_BESST",
+    "target": "AgeGroup::16_18",
+    "rel": "TARGET_AGE"
+  },
+  {
+    "source": "QT042_BESST",
+    "target": "QT08",
+    "rel": "CONTRASTS_WITH_LPA_China"
+  },
+  {
+    "source": "QT042_BESST",
+    "target": "QT29",
+    "rel": "CONSISTENT_WITH_NMA_CBT"
+  },
+  {
+    "source": "TLNN_Coping_v3",
+    "target": "Date::2026-04-27",
+    "rel": "CREATED_ON"
+  },
+  {
+    "source": "TLNN_Coping_v3",
+    "target": "Topic::foreign_literature_coping_anxiety_secondary_school",
+    "rel": "ABOUT_TOPIC"
+  },
+  {
+    "source": "TraLoi_3CauHoi_v2",
+    "target": "Date::2026-04-27",
+    "rel": "CREATED_ON"
+  },
+  {
+    "source": "TraLoi_3CauHoi_v2",
+    "target": "Topic::three_questions_qualitative_coping_Jefferies_BESST_80percent",
+    "rel": "ABOUT_TOPIC"
+  },
+  {
+    "source": "BaoCao_KiemTra_3BanDich",
+    "target": "Date::2026-04-27",
+    "rel": "CREATED_ON"
+  },
+  {
+    "source": "BaoCao_KiemTra_3BanDich",
+    "target": "Topic::verification_report_3_translations_Brown",
+    "rel": "ABOUT_TOPIC"
+  },
+  {
+    "source": "TLN_001",
+    "target": "TLNN_Coping_v3",
+    "rel": "CITED_IN_DOC"
+  },
+  {
+    "source": "TLN_001",
+    "target": "DOI::10.3389/fpsyt.2025.1594658",
+    "rel": "HAS_DOI"
+  },
+  {
+    "source": "TLN_001",
+    "target": "PMC::PMC12127306",
+    "rel": "HAS_PMC"
+  },
+  {
+    "source": "TLN_001",
+    "target": "Topic::school_resilience",
+    "rel": "ABOUT_TOPIC"
+  },
+  {
+    "source": "TLN_002",
+    "target": "TLNN_Coping_v3",
+    "rel": "CITED_IN_DOC"
+  },
+  {
+    "source": "TLN_002",
+    "target": "DOI::10.1007/s10578-024-01667-5",
+    "rel": "HAS_DOI"
+  },
+  {
+    "source": "TLN_002",
+    "target": "PMC::PMC12628395",
+    "rel": "HAS_PMC"
+  },
+  {
+    "source": "TLN_002",
+    "target": "Topic::academic_stress_HS",
+    "rel": "ABOUT_TOPIC"
+  },
+  {
+    "source": "TLN_003",
+    "target": "TLNN_Coping_v3",
+    "rel": "CITED_IN_DOC"
+  },
+  {
+    "source": "TLN_003",
+    "target": "Topic::stress_management_NL",
+    "rel": "ABOUT_TOPIC"
+  },
+  {
+    "source": "TLN_004",
+    "target": "TLNN_Coping_v3",
+    "rel": "CITED_IN_DOC"
+  },
+  {
+    "source": "TLN_004",
+    "target": "Topic::coping_power_USA",
+    "rel": "ABOUT_TOPIC"
+  },
+  {
+    "source": "TLN_005",
+    "target": "TLNN_Coping_v3",
+    "rel": "CITED_IN_DOC"
+  },
+  {
+    "source": "TLN_005",
+    "target": "Topic::mindfulness_MBI",
+    "rel": "ABOUT_TOPIC"
+  },
+  {
+    "source": "TLN_006",
+    "target": "TLNN_Coping_v3",
+    "rel": "CITED_IN_DOC"
+  },
+  {
+    "source": "TLN_006",
+    "target": "PMC::PMC12173555",
+    "rel": "HAS_PMC"
+  },
+  {
+    "source": "TLN_006",
+    "target": "Topic::mindfulness_booster",
+    "rel": "ABOUT_TOPIC"
+  },
+  {
+    "source": "TLN_007",
+    "target": "TLNN_Coping_v3",
+    "rel": "CITED_IN_DOC"
+  },
+  {
+    "source": "TLN_007",
+    "target": "DOI::10.1111/camh.12572",
+    "rel": "HAS_DOI"
+  },
+  {
+    "source": "TLN_007",
+    "target": "Topic::mindfulness_cautionary",
+    "rel": "ABOUT_TOPIC"
+  },
+  {
+    "source": "TLN_008",
+    "target": "TLNN_Coping_v3",
+    "rel": "CITED_IN_DOC"
+  },
+  {
+    "source": "TLN_008",
+    "target": "DOI::10.1007/s12310-023-09620-y",
+    "rel": "HAS_DOI"
+  },
+  {
+    "source": "TLN_008",
+    "target": "Topic::mindfulness_10w",
+    "rel": "ABOUT_TOPIC"
+  },
+  {
+    "source": "TLN_009",
+    "target": "TLNN_Coping_v3",
+    "rel": "CITED_IN_DOC"
+  },
+  {
+    "source": "TLN_009",
+    "target": "DOI::10.1007/s10488-024-01373-3",
+    "rel": "HAS_DOI"
+  },
+  {
+    "source": "TLN_009",
+    "target": "Topic::emotion_regulation",
+    "rel": "ABOUT_TOPIC"
+  },
+  {
+    "source": "TLN_010",
+    "target": "TLNN_Coping_v3",
+    "rel": "CITED_IN_DOC"
+  },
+  {
+    "source": "TLN_010",
+    "target": "DOI::10.3389/fpsyt.2024.1448529",
+    "rel": "HAS_DOI"
+  },
+  {
+    "source": "TLN_010",
+    "target": "Topic::ER_parents",
+    "rel": "ABOUT_TOPIC"
+  },
+  {
+    "source": "TLN_011",
+    "target": "TLNN_Coping_v3",
+    "rel": "CITED_IN_DOC"
+  },
+  {
+    "source": "TLN_011",
+    "target": "DOI::10.2196/55786",
+    "rel": "HAS_DOI"
+  },
+  {
+    "source": "TLN_011",
+    "target": "Topic::iCBT_SAD",
+    "rel": "ABOUT_TOPIC"
+  },
+  {
+    "source": "TLN_012",
+    "target": "TLNN_Coping_v3",
+    "rel": "CITED_IN_DOC"
+  },
+  {
+    "source": "TLN_012",
+    "target": "DOI::10.2196/31456",
+    "rel": "HAS_DOI"
+  },
+  {
+    "source": "TLN_012",
+    "target": "Topic::digital_games",
+    "rel": "ABOUT_TOPIC"
+  },
+  {
+    "source": "TLN_013",
+    "target": "TLNN_Coping_v3",
+    "rel": "CITED_IN_DOC"
+  },
+  {
+    "source": "TLN_013",
+    "target": "DOI::10.1002/jcop.23090",
+    "rel": "HAS_DOI"
+  },
+  {
+    "source": "TLN_013",
+    "target": "Topic::peer_support",
+    "rel": "ABOUT_TOPIC"
+  },
+  {
+    "source": "TLN_014",
+    "target": "TLNN_Coping_v3",
+    "rel": "CITED_IN_DOC"
+  },
+  {
+    "source": "TLN_014",
+    "target": "PMC::NBK602668",
+    "rel": "HAS_PMC"
+  },
+  {
+    "source": "TLN_014",
+    "target": "Topic::peer_support_UK",
+    "rel": "ABOUT_TOPIC"
+  },
+  {
+    "source": "TLN_015",
+    "target": "TLNN_Coping_v3",
+    "rel": "CITED_IN_DOC"
+  },
+  {
+    "source": "TLN_015",
+    "target": "Topic::china_school_MH",
+    "rel": "ABOUT_TOPIC"
+  },
+  {
+    "source": "TraLoi_3CauHoi_v2",
+    "target": "QT042_BESST",
+    "rel": "ANSWERS_ABOUT"
+  },
+  {
+    "source": "TraLoi_3CauHoi_v2",
+    "target": "QT_PLACES",
+    "rel": "ANSWERS_ABOUT"
+  },
+  {
+    "source": "TraLoi_3CauHoi_v2",
+    "target": "Concept::self_referral",
+    "rel": "EXPLAINS_CONCEPT"
+  },
+  {
+    "source": "TraLoi_3CauHoi_v2",
+    "target": "Concept::Photovoice",
+    "rel": "INTRODUCES_CONCEPT"
+  },
+  {
+    "source": "TraLoi_3CauHoi_v2",
+    "target": "Concept::bottom_up_research",
+    "rel": "INTRODUCES_CONCEPT"
+  },
+  {
+    "source": "BaoCao_KiemTra_3BanDich",
+    "target": "QT042_BESST",
+    "rel": "VERIFIES"
+  },
+  {
+    "source": "BaoCao_KiemTra_3BanDich",
+    "target": "QT_PLACES",
+    "rel": "VERIFIES"
+  },
+  {
+    "source": "BaoCao_KiemTra_3BanDich",
+    "target": "QT042_B5",
+    "rel": "VERIFIES"
+  },
+  {
+    "source": "TLNN_Coping_v3",
+    "target": "QT042_BESST",
+    "rel": "COMPLEMENTS"
+  },
+  {
+    "source": "TLNN_Coping_v3",
+    "target": "QT_PLACES",
+    "rel": "COMPLEMENTS"
+  },
+  {
+    "source": "TLNN_Coping_v3",
+    "target": "Concept::CBT_school_intervention",
+    "rel": "OVERVIEWS"
+  },
+  {
+    "source": "TLNN_Coping_v3",
+    "target": "Concept::emotion_regulation",
+    "rel": "OVERVIEWS"
+  },
+  {
+    "source": "TLNN_Coping_v3",
+    "target": "Concept::mindfulness",
+    "rel": "OVERVIEWS"
+  },
+  {
+    "source": "TLNN_Coping_v3",
+    "target": "Concept::peer_support",
+    "rel": "OVERVIEWS"
+  },
+  {
+    "source": "TraLoi_HieuQuaCoping_v1",
+    "target": "Topic::effectiveness_spontaneous_coping",
+    "rel": "ABOUT_TOPIC"
+  },
+  {
+    "source": "TLN_Herres2015_CopingProfiles",
+    "target": "Topic::coping_profiles_LPA",
+    "rel": "ABOUT_TOPIC"
+  },
+  {
+    "source": "TLN_Herres2015_CopingProfiles",
+    "target": "DOI::10.1016/j.jad.2015.07.031",
+    "rel": "HAS_DOI"
+  },
+  {
+    "source": "TLN_Herres2015_CopingProfiles",
+    "target": "PMID::26275359",
+    "rel": "HAS_PMID"
+  },
+  {
+    "source": "TLN_Herres2015_CopingProfiles",
+    "target": "PMC::PMC4565746",
+    "rel": "HAS_PMC"
+  },
+  {
+    "source": "TLN_Herres2015_CopingProfiles",
+    "target": "SampleSize::982",
+    "rel": "HAS_N"
+  },
+  {
+    "source": "TLN_Steinhoff2023_LongCoping",
+    "target": "Topic::longitudinal_coping_predictors",
+    "rel": "ABOUT_TOPIC"
+  },
+  {
+    "source": "TLN_Steinhoff2023_LongCoping",
+    "target": "DOI::10.1177/02724316231181660",
+    "rel": "HAS_DOI"
+  },
+  {
+    "source": "TLN_Steinhoff2023_LongCoping",
+    "target": "PMID::39372429",
+    "rel": "HAS_PMID"
+  },
+  {
+    "source": "TLN_Steinhoff2023_LongCoping",
+    "target": "PMC::PMC10261967",
+    "rel": "HAS_PMC"
+  },
+  {
+    "source": "TLN_Steinhoff2023_LongCoping",
+    "target": "SampleSize::786",
+    "rel": "HAS_N"
+  },
+  {
+    "source": "GiaiThich_I2",
+    "target": "Topic::I_squared_heterogeneity_meta_analysis",
+    "rel": "ABOUT_TOPIC"
+  },
+  {
+    "source": "TLN_Herres2015_CopingProfiles",
+    "target": "QT08",
+    "rel": "SHARES_METHOD_LPA"
+  },
+  {
+    "source": "TLN_Herres2015_CopingProfiles",
+    "target": "TraLoi_HieuQuaCoping_v1",
+    "rel": "CITED_IN"
+  },
+  {
+    "source": "TLN_Steinhoff2023_LongCoping",
+    "target": "TraLoi_HieuQuaCoping_v1",
+    "rel": "CITED_IN"
+  },
+  {
+    "source": "TLN_Herres2015_CopingProfiles",
+    "target": "Concept::adaptive_coping",
+    "rel": "STUDIES_CONCEPT"
+  },
+  {
+    "source": "TLN_Herres2015_CopingProfiles",
+    "target": "Concept::maladaptive_coping",
+    "rel": "STUDIES_CONCEPT"
+  },
+  {
+    "source": "TLN_Herres2015_CopingProfiles",
+    "target": "Concept::coping_profile_LPA",
+    "rel": "INTRODUCES_CONCEPT"
+  },
+  {
+    "source": "TLN_Steinhoff2023_LongCoping",
+    "target": "Concept::inoculation_hypothesis",
+    "rel": "TESTS_CONCEPT"
+  },
+  {
+    "source": "TLN_Steinhoff2023_LongCoping",
+    "target": "Concept::supportive_parenting",
+    "rel": "STUDIES_CONCEPT"
+  },
+  {
+    "source": "GiaiThich_I2",
+    "target": "Concept::heterogeneity",
+    "rel": "EXPLAINS_CONCEPT"
+  },
+  {
+    "source": "GiaiThich_I2",
+    "target": "Concept::meta_analysis",
+    "rel": "EXPLAINS_CONCEPT"
+  },
+  {
+    "source": "TraLoi_HieuQuaCoping_v1",
+    "target": "TLN_Herres2015_CopingProfiles",
+    "rel": "SUMMARIZES"
+  },
+  {
+    "source": "TraLoi_HieuQuaCoping_v1",
+    "target": "TLN_Steinhoff2023_LongCoping",
+    "rel": "SUMMARIZES"
+  }
+]

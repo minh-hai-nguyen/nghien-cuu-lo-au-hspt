@@ -1,0 +1,913 @@
+
+=== PG 4 ===
+12
+Student papers
+University of Reading
+<1%
+13
+Student papers
+National Economics University
+<1%
+14
+Student papers
+Tilburg University
+<1%
+15
+Internet
+hvtc.edu.vn
+<1%
+16
+Internet
+ebin.pub
+<1%
+17
+Internet
+ouci.dntb.gov.ua
+<1%
+18
+Internet
+repository.unj.ac.id
+<1%
+19
+Internet
+www.essentiafoundation.org
+<1%
+20
+Internet
+kobra.uni-kassel.de
+<1%
+21
+Publication
+Ton Duc Thang University
+<1%
+22
+Internet
+csdlkhoahoc.hueuni.edu.vn
+<1%
+23
+Internet
+tapchiyhoctphcm.vn
+<1%
+24
+Student papers
+University of Finance – Marketing
+<1%
+25
+Internet
+ueh.edu.vn
+<1%
+Page 4 of 15 - Integrity Overview
+Submission ID
+trn:oid:::1:3568641860
+Page 4 of 15 - Integrity Overview
+Submission ID
+trn:oid:::1:3568641860
+
+=== PG 5 ===
+26
+Internet
+www.stata.com
+<1%
+27
+Internet
+jfm.edu.vn
+<1%
+28
+Internet
+omp.academicon.pl
+<1%
+29
+Internet
+timtailieu.vn
+<1%
+30
+Student papers
+Hanoi University of Public Health
+<1%
+31
+Student papers
+Foreign Trade University - Ho Chi Minh Campus
+<1%
+32
+Publication
+Ho Chi Minh National Academy of Politics
+<1%
+33
+Student papers
+Hanoi National University
+<1%
+34
+Internet
+fwps.ftu.edu.vn
+<1%
+35
+Internet
+text.xemtailieu.net
+<1%
+36
+Internet
+sdh.hmu.edu.vn
+<1%
+Page 5 of 15 - Integrity Overview
+Submission ID
+trn:oid:::1:3568641860
+Page 5 of 15 - Integrity Overview
+Submission ID
+trn:oid:::1:3568641860
+
+=== PG 6 ===
+ 
+Tạp chí Tâm lý học Việt Nam số 2 - Tháng 4 năm 2026 
+ 
+KIỂM ĐỊNH GIÁ TRỊ ĐO LƯỜNG CỦA CÁC THANG ĐO RỐI LOẠN LO ÂU  
+THEO DSM-5 TRÊN HỌC SINH TRUNG HỌC CƠ SỞ TẠI VIỆT NAM 
+ 
+Công Thị Hằng, Đào Minh Đức. 
+Trường Đại học Sư phạm Hà Nội 
+Tác giả liên hệ: Công Thị Hằng; Mobile: 0983973479; Email: conghang@icp.edu.vn. 
+ 
+TÓM TẮT 
+Nghiên cứu nhằm kiểm định độ tin cậy và hiệu lực cấu trúc của ba thang đo rối 
+loạn lo âu theo DSM-5 trên học sinh trung học cơ sở tại Việt Nam. Khảo sát được thực 
+hiện trên 433 học sinh trung học cơ sở bằng phương pháp điều tra bảng hỏi tự báo cáo. 
+Các thang đo được đánh giá thông qua hệ số Cronbach’s alpha, McDonald’s omega, độ 
+tin cậy phân đôi, phân tích nhân tố khẳng định (CFA) và tương quan với DASS-21 nhằm 
+xem xét hiệu lực hội tụ. Kết quả cho thấy các thang đo đều có độ tin cậy nội tại tốt, với 
+các hệ số Cronbach’s alpha, McDonald’s omega và độ tin cậy phân đôi đạt mức phù 
+hợp. Các thang đo có tương quan thuận và có ý nghĩa thống kê với nhau cũng như với 
+các tiểu thang đo lo âu, trầm cảm và căng thẳng của DASS-21, qua đó cung cấp bằng 
+chứng bước đầu về hiệu lực hội tụ. Tuy nhiên, kết quả CFA cho thấy mức độ phù hợp mô 
+hình chưa thật sự tối ưu ở một số chỉ số như CFI, TLI và RMSEA, cho thấy hiệu lực cấu 
+trúc của các thang đo vẫn cần tiếp tục được kiểm định trong các nghiên cứu tiếp theo. 
+Kết quả nghiên cứu góp phần cung cấp thêm bằng chứng thực nghiệm về khả năng sử 
+dụng các thang đo rối loạn lo âu theo DSM-5 trong nghiên cứu và sàng lọc ban đầu 
+trên học sinh trung học cơ sở tại Việt Nam. 
+Từ khóa: Độ tin cậy; Độ hiệu lực; Rối loạn lo âu; DSM-5; Học sinh trung học cơ sở. 
+Ngày nhận bài: 1/2/2026; Ngày duyệt đăng bài: 20/3/2026. 
+ 
+1. Đặt vấn đề 
+Rối loạn lo âu là nhóm rối loạn tâm lý đặc trưng bởi trạng thái lo lắng, sợ hãi 
+quá mức và kéo dài, kèm theo các phản ứng sinh lý, nhận thức và hành vi né tránh, gây 
+suy giảm đáng kể chức năng cá nhân và xã hội (American Psychiatric Association, 
+2013). Theo DSM-5, các rối loạn lo âu phổ biến ở trẻ em và vị thành niên bao gồm rối 
+loạn lo âu tổng quát, rối loạn lo âu chia ly và rối loạn lo âu xã hội. Các nghiên cứu thực 
+nghiệm cho thấy khoảng 6-20% trẻ em và thanh thiếu niên trên thế giới từng trải qua ít 
+nhất một dạng rối loạn lo âu có ý nghĩa lâm sàng, trong đó lứa tuổi trung học cơ sở được 
+xem là giai đoạn nguy cơ cao do những thay đổi đồng thời về sinh lý, nhận thức và quan 
+hệ xã hội (Polanczyk và cộng sự, 2015; Merikangas và cộng sự, 2010). 
+Học sinh trung học cơ sở là nhóm tuổi có nhiều biến đổi mạnh về cảm xúc và 
+thích nghi xã hội, đồng thời chịu áp lực đáng kể từ học tập và các mối quan hệ bạn bè. 
+1
+1
+1
+1
+1
+4
+5
+5
+5
+5
+5
+22
+22
+24
+25
+29
+32
+Page 6 of 15 - Integrity Submission
+Submission ID
+trn:oid:::1:3568641860
+Page 6 of 15 - Integrity Submission
+Submission ID
+trn:oid:::1:3568641860
+
+=== PG 7 ===
+ 
+Những yếu tố này làm gia tăng nguy cơ xuất hiện các biểu hiện lo âu, đặc biệt là lo âu 
+học đường và lo âu xã hội (Eccles và cộng sự, 1993). Các nghiên cứu cho thấy rối loạn 
+lo âu có thể ảnh hưởng tiêu cực đến khả năng tập trung, kết quả học tập, quan hệ xã hội 
+và sức khỏe tâm thần của học sinh (Essau và cộng sự, 2014; Woodward và Fergusson, 
+2001). 
+Tại Việt Nam, một số nghiên cứu gần đây ghi nhận tỷ lệ đáng kể học sinh trung 
+học cơ sở có biểu hiện lo âu, đặc biệt trong và sau giai đoạn đại dịch COVID-19. Tuy 
+nhiên, phần lớn các nghiên cứu mới tập trung mô tả mức độ lo âu chung hoặc sử dụng 
+các công cụ sàng lọc tổng quát, trong khi bằng chứng thực nghiệm về từng dạng rối loạn 
+lo âu cụ thể theo DSM-5 trên học sinh trung học cơ sở vẫn còn hạn chế. Điều này đặt ra 
+nhu cầu cần sử dụng các công cụ đo lường có cơ sở lý thuyết rõ ràng và được kiểm định 
+phù hợp với bối cảnh văn hóa Việt Nam. 
+Hiện nay, việc đánh giá rối loạn lo âu ở học sinh chủ yếu dựa trên các công cụ tự 
+báo cáo như DASS-21 hoặc các thang đo được điều chỉnh từ công cụ quốc tế. Tuy 
+nhiên, nhiều thang đo chưa được kiểm định đầy đủ về độ tin cậy và độ hiệu lực trên mẫu 
+học sinh trung học cơ sở Việt Nam, đặc biệt đối với từng dạng rối loạn lo âu cụ thể theo 
+DSM-5. Điều này có thể ảnh hưởng đến độ chính xác của hoạt động sàng lọc và giá trị 
+ứng dụng của kết quả nghiên cứu (DeVellis, 2017; Van de Vijver và Tanzer, 2004). 
+Xuất phát từ những vấn đề trên, nghiên cứu này được thực hiện nhằm kiểm định 
+độ tin cậy và độ hiệu lực của các thang đo rối loạn lo âu theo DSM-5 trên một mẫu học 
+sinh trung học cơ sở tại Việt Nam, qua đó cung cấp thêm bằng chứng thực nghiệm cho 
+việc sử dụng các công cụ này trong nghiên cứu và sàng lọc tâm lý học đường. 
+2. Mẫu và phương pháp nghiên cứu 
+2.1. Khách thể nghiên cứu 
+Mẫu nghiên cứu gồm 433 học sinh trung học cơ sở thuộc khu vực đô thị và ven 
+đô thị, được lựa chọn theo phương pháp chọn mẫu thuận tiện. Học sinh tham gia khảo 
+sát trên cơ sở tự nguyện, sau khi được thông báo về mục đích nghiên cứu, quy trình 
+khảo sát, nguyên tắc bảo mật thông tin và quyền từ chối tham gia. Sau khi thu thập, dữ 
+liệu được kiểm tra, làm sạch và đưa vào phân tích thống kê. Đặc điểm nhân khẩu học 
+của mẫu nghiên cứu được trình bày ở Bảng 1. 
+Bảng 1. Thông tin về khách thể nghiên cứu 
+ 
+Đặc điểm 
+Phân loại 
+Số lượng 
+Tỷ lệ (%) 
+Giới tính 
+Nam
+191
+44,1
+Nữ
+202
+46,7
+Không cung cấp 
+40
+9,2
+Khối lớp 
+Lớp 6
+149
+34,4
+Lớp 7
+143
+33,0
+Lớp 8
+55
+12,7
+Lớp 9
+71
+16,4
+1
+1
+1
+1
+1
+1
+1
+4
+4
+4
+15
+15
+21
+22
+32
+32
+33
+36
+Page 7 of 15 - Integrity Submission
+Submission ID
+trn:oid:::1:3568641860
+Page 7 of 15 - Integrity Submission
+Submission ID
+trn:oid:::1:3568641860
+
+=== PG 8 ===
+ 
+Không cung cấp
+15
+3,5
+Dân tộc 
+Kinh
+372
+85,9
+Khác
+15
+3,5
+Không cung cấp 
+46
+10,6
+ 
+2.2. Thiết kế nghiên cứu và công cụ nghiên cứu 
+Nghiên cứu được thực hiện theo thiết kế định lượng, cắt ngang, nhằm đánh giá 
+độ tin cậy và giá trị đo lường của các thang đo rối loạn lo âu theo DSM-5 trên mẫu học 
+sinh trung học cơ sở tại Việt Nam. Dữ liệu được thu thập tại một thời điểm tháng 3 năm 
+2025, thông qua bảng hỏi tự báo cáo.  
+Ba thang đo rối loạn lo âu được sử dụng trong nghiên cứu này có nguồn gốc từ 
+bộ công cụ đánh giá Emerging Measures do Hiệp hội Tâm thần Hoa Kỳ (American 
+Psychiatric Association- APA) phát triển và công bố kèm theo DSM-5. Các thang đo này 
+được thiết kế nhằm đánh giá mức độ nghiêm trọng của triệu chứng rối loạn lo âu ở trẻ 
+em và vị thành niên, phục vụ cho nghiên cứu và đánh giá lâm sàng, đặc biệt trong giai 
+đoạn phỏng vấn ban đầu và theo dõi tiến trình can thiệp, không được sử dụng như cơ sở 
+duy nhất cho chẩn đoán lâm sàng. Mỗi thang đo rối loạn lo âu gồm có 10 mệnh đề, theo 
+Likert 4 mức độ, bao gồm: 1 = chưa bao giờ, 2 = hiếm khi, 3 = nhiều lần, 4 = luôn luôn. 
+Nội dung chi tiết các mệnh đề của 3 thang đo rối loạn lo âu được thể hiện trong phần 
+phụ lục của bài viết này. Các thang đo có hướng dẫn chấm điểm và diễn giải, được APA 
+cho phép tự do sử dụng trong nghiên cứu khoa học và thực hành lâm sàng. APA cũng 
+khuyến khích các nhà nghiên cứu tiếp tục cung cấp bằng chứng thực nghiệm về tính hữu 
+ích và khả năng ứng dụng của các công cụ này trên các nhóm đối tượng và bối cảnh văn 
+hóa khác nhau (American Psychiatric Association, 2013).  
+Ngoài ra, một công cụ khác được sử dụng trong nghiên cứu này là thang đo 
+DASS-21, sử dụng để phân tích tương quan với các thang đo rối loạn lo âu của DSM-5. 
+Việc kiểm định giá trị đo lường của các thang đo rối loạn lo âu trong phạm vi nghiên 
+cứu này góp phần cung cấp một cái nhìn thực tiễn trên một nhóm khách thể thực tiễn 
+vào một thời điểm cụ thể, giúp các nhà tâm lý, nhà khoa học có thêm góc nhìn về bộ 
+công cụ này. 
+2.3. Quy trình thực hiện 
+Nghiên cứu được triển khai theo quy trình chuẩn hóa, tuân thủ các nguyên tắc 
+đạo đức trong nghiên cứu khoa học. Trước hết, nhóm nghiên cứu xây dựng kế hoạch 
+khảo sát cụ thể và liên hệ xin phép trường THCS nơi khảo sát. Công cụ đo lường được 
+chuẩn hóa và thử nghiệm sơ bộ, bảo đảm tính rõ ràng và phù hợp với đối tượng học sinh 
+trung học cơ sở. Quá trình thu thập dữ liệu được tiến hành trực tiếp tại lớp học, dưới sự 
+phối hợp của giáo viên và nhóm nghiên cứu. Những học sinh đồng ý tham gia sẽ được 
+phát phiếu khảo sát. Phiếu hỏi được hoàn thành theo hình thức tự báo cáo. Sau khi thu 
+thập, dữ liệu được kiểm tra trực quan, sàng lọc trên máy tính, làm sạch trước khi đưa 
+vào phân tích thống kê.  
+ 
+1
+1
+1
+1
+4
+4
+5
+15
+21
+25
+30
+35
+35
+Page 8 of 15 - Integrity Submission
+Submission ID
+trn:oid:::1:3568641860
+Page 8 of 15 - Integrity Submission
+Submission ID
+trn:oid:::1:3568641860
+
+=== PG 9 ===
+ 
+ 
+2.4. Phân tích dữ liệu 
+Dữ liệu được xử lý và phân tích bằng phần mềm SPSS 31.0 và AMOS 31.0. Độ 
+tin cậy của các thang đo rối loạn lo âu được đánh giá thông qua Cronbach’s Alpha, 
+McDonald’s Omega và độ tin cậy phân đôi. Bên cạnh đó, phân tích nhân tố khẳng định 
+(CFA) được thực hiện nhằm kiểm định mức độ phù hợp của cấu trúc đo lường thông 
+qua các chỉ số. Phân tích tương quan giữa các thang đo rối loạn lo âu với nhau và phân 
+tích tương quan giữa các thang đo rối loạn lo âu với thang đo DASS-21 hiện hành để 
+đánh giá mối liên hệ giữa các cấu phần và kiểm định hiệu lực cấu trúc của các thang đo 
+rối loạn lo âu DSM-5. 
+3. Kết quả nghiên cứu 
+3.1. Độ tin cậy 
+Độ tin cậy phản ánh mức độ nhất quán nội tại và ổn định của công cụ đo lường 
+trong việc đánh giá một cấu trúc tâm lý (Cronbach, 1951; DeVellis, 2017). Trong nghiên 
+cứu này, độ tin cậy của các thang đo rối loạn lo âu được đánh giá thông qua Cronbach’s 
+Alpha, McDonald’s Omega và độ tin cậy phân đôi, nhằm tìm hiểu về độ ổn định của các 
+thang đo trong thực tiễn, trên nhóm mẫu khách thể học sinh trung học cơ sở tại Việt 
+Nam. 
+ 
+Bảng 2. Độ tin cậy các thang đo rối loạn lo âu DSM-5 
+ 
+TT 
+Thang đo 
+Số mục 
+Hệ số Cronbach’s α 
+Hệ số McDonald’s ω 
+1
+Rối loạn lo âu tổng quát 
+10
+0,865
+0,864
+2
+Rối loạn lo âu chia ly 
+10
+0,877
+0,872
+3
+Rối loạn lo âu xã hội 
+10
+0,897
+0,896
+ 
+Kết quả phân tích tại Bảng 2 cho thấy, các thang đo rối loạn lo âu DSM-5 đều 
+có độ tin cậy nội tại cao. Hệ số Cronbach’s α của ba thang đo dao động từ 0,865 đến 
+0,897, trong khi hệ số McDonald’s ω tương ứng nằm trong khoảng 0,864-0,896. Các giá 
+trị này đều đạt yêu cầu về tiêu chuẩn (≥ 0,70) và phản ánh mức độ nhất quán nội tại tốt 
+giữa các mục hỏi trong từng thang đo. Xét theo từng thang đo, thang đo rối loạn lo âu xã 
+hội cho thấy độ tin cậy cao nhất, trong khi hai thang đo còn lại có giá trị độ tin cậy 
+tương đồng. Hệ số tương quan biến - tổng của hầu hết các item đều lớn hơn 0,50 (xem 
+phụ lục), phản ánh khả năng đóng góp tốt của từng mục vào cấu trúc chung của thang 
+đo. Ngoài ra, hệ số Cronbach’s α nếu item bị xóa ở tất cả các mục đều không tăng đáng 
+kể so với α tổng, cho thấy việc loại bỏ bất kỳ item nào cũng không cải thiện độ tin cậy 
+của thang đo. Điều này cho thấy các item được xây dựng phù hợp về nội dung lâm sàng 
+và cấu trúc đo lường, phản ánh đầy đủ các biểu hiện nhận thức, cảm xúc, sinh lý và 
+hành vi đặc trưng của từng dạng rối loạn lo âu. Nhìn chung, các kết quả này cung cấp 
+bằng chứng thực nghiệm thuyết phục về độ tin cậy nội tại của các thang đo rối loạn lo 
+âu theo DSM-5 trên nhóm mẫu nghiên cứu. 
+1
+1
+1
+1
+1
+1
+10
+13
+13
+13
+23
+23
+27
+31
+31
+33
+Page 9 of 15 - Integrity Submission
+Submission ID
+trn:oid:::1:3568641860
+Page 9 of 15 - Integrity Submission
+Submission ID
+trn:oid:::1:3568641860
+
+=== PG 10 ===
+ 
+ 
+ 
+Bảng 3. Hệ số tin cậy phân đôi của các thang đo rối loạn lo âu DSM-5 
+ 
+TT 
+Thang đo 
+Phân đôi 
+Số 
+mục 
+Giá trị 
+Tương 
+quan 
+Hệ số Guttman 
+Split-Half 
+1 
+Rối loạn lo âu tổng 
+quát 
+Phần 1
+5
+0,818
+0,621 
+0,766 
+Phần 2
+5
+0,787
+2 
+Rối loạn lo âu chia ly 
+Phần 1
+5
+0,851
+0,611 
+0,758 
+Phần 2
+5
+0,802
+3 
+Rối loạn lo âu xã hội 
+Phần 1
+5
+0,857
+0,699 
+0,823 
+Phần 2
+5
+0,825
+ 
+Kết quả phân tích tại Bảng 3 cho thấy, các thang đo rối loạn lo âu DSM-5 có độ 
+ổn định nội tại tốt. Hệ số tương quan giữa hai nửa thang đo dao động từ 0,611 đến 
+0,699, hệ số Guttman split-half đạt từ 0,758 đến 0,823, phản ánh mức liên hệ tốt giữa 
+các phần đo lường trong cùng một cấu trúc. Các giá trị này tương đương với mức độ tin 
+cậy phân đôi phổ biến trong các thang đo tâm lý có số lượng mục trung bình (Clark và 
+Watson, 2019; DeVellis và Thorpe, 2022). Sự cân bằng về số mục giữa hai nửa (5 mục) 
+cùng với hệ số tin cậy riêng của từng phần đều vượt ngưỡng 0,78 cho thấy các mục hỏi 
+được phân bố tương đối đồng đều và không có nửa thang nào chiếm ưu thế về mặt đo 
+lường. kết quả này phù hợp với các kết quả được ghi nhận trong các nghiên cứu đánh 
+giá thang đo rối loạn lo âu dựa trên DSM-5, trong đó hệ số split-half thường dao động 
+quanh 0,75-0,85 khi thang đo có cấu trúc đơn hướng và độ đồng nhất nội tại cao (Kotov 
+và cộng sự, 2017; Reise và cộng sự, 2013).  
+Nhìn chung, kết quả phân tích từ Bảng 2 và Bảng 3 trên cho thấy, các thang đo 
+rối loạn lo âu DSM-5 đạt độ tin cậy nội tại và độ ổn định phân đôi tốt, nhất quán với các 
+chuẩn đo lường quốc tế, khẳng định chất lượng đo lường và khả năng sử dụng đáng tin 
+cậy trên nhóm mẫu học sinh trung học cơ sở tại Việt Nam. 
+3.2. Độ hiệu lực 
+Độ hiệu lực phản ánh mức độ mà một công cụ đo lường đánh giá đúng khái 
+niệm tâm lý mà nó hướng tới, đồng thời cung cấp bằng chứng cho tính chính xác và ý 
+nghĩa của các suy luận được rút ra từ điểm số thang đo (Cronbach và Meehl, 1955). 
+Trong nghiên cứu đo lường tâm lý hiện đại, độ hiệu lực không được xem là một thuộc 
+tính đơn lẻ mà là tập hợp các bằng chứng, bao gồm hiệu lực cấu trúc, hiệu lực hội tụ và 
+hiệu lực phân biệt, nhằm xác nhận sự phù hợp giữa mô hình lý thuyết và dữ liệu thực 
+nghiệm (Messick, 1995). Do đó, việc kiểm định độ hiệu lực của các thang đo rối loạn lo 
+âu DSM-5 trong nghiên cứu này là cần thiết để bảo đảm rằng công cụ không chỉ có độ 
+tin cậy cao mà còn đo lường đúng và đầy đủ các biểu hiện rối loạn lo âu trên thực tiễn 
+khách thể học sinh trung học cơ sở tại Việt Nam. 
+Bảng 4. Tương quan giữa các thang đo rối loạn lo âu DSM-5 
+1
+1
+1
+1
+4
+5
+5
+10
+10
+10
+13
+15
+21
+Page 10 of 15 - Integrity Submission
+Submission ID
+trn:oid:::1:3568641860
+Page 10 of 15 - Integrity Submission
+Submission ID
+trn:oid:::1:3568641860
+
+=== PG 11 ===
+ 
+ 
+TT 
+Thang đo 
+Hệ số tương quan 
+1 
+2 
+3 
+1
+Rối loạn lo âu tổng quát
+1
+0,676**
+0,732**
+2
+Rối loạn lo âu chia ly
+1
+0,774**
+3
+Rối loạn lo âu xã hội
+1
+Ghi chú: p < 0,01. 
+ 
+Kết quả phân tích tại Bảng 4 cho thấy, các thang đo rối loạn lo âu DSM-5 có mối 
+tương quan thuận, theo chiều dương, ở mức trung bình đến cao (r = 0,676-0,774, p < 
+0,01), phản ánh mức độ liên hệ chặt chẽ giữa các thang đo với nhau, cùng đo lường về 
+rối loạn lo âu nhưng có sự khác biệt có ý nghĩa thống kê về đối tượng đo lường. 
+ 
+Bảng 5. Tương quan giữa các thang đo rối loạn lo âu DSM-5 và thang đo DASS-21 
+ 
+TT 
+Thang đo 
+DASS-21 
+Lo âu 
+Căng thẳng 
+Trầm cảm 
+1
+Rối loạn lo âu tổng quát
+0,714**
+0,701**
+0,658**
+2
+Rối loạn lo âu chia ly
+0,588**
+0,525**
+0,471**
+3
+Rối loạn lo âu xã hội
+0,675**
+0,601**
+0,589**
+Ghi chú: p < 0,01. 
+ 
+Kết quả phân tích tại Bảng 5 cho thấy, các thang đo rối loạn lo âu DSM-5 có mối 
+tương quan thuận, theo chiều dương và có ý nghĩa thống kê với các tiểu thang đo của 
+DASS-21 ở mức trung bình đến cao (r = 0,471-0,714, p < 0,01). Trong đó, tương quan 
+với thang đo lo âu của DASS-21 ở mức độ khá tốt đến tốt (r = 0,588-0,714; p < 0,01). 
+Thang rối loạn lo âu tổng quát đạt hệ số tương quan cao nhất (r = 0,714), tiếp theo là rối 
+loạn lo âu xã hội (r = 0,675) và rối loạn lo âu chia ly (r = 0,588), phản ánh mức độ chia 
+sẻ phương sai cao với một thước đo rối loạn lo âu chuẩn hóa quốc tế. Theo các tiêu 
+chuẩn đo lường hiện hành trong tâm lý học, hệ số tương quan trong khoảng 0,60-0,75 
+được xem là tối ưu để khẳng định giá trị hội tụ (Brown, 2015; Kline, 2016). Kết quả này 
+cũng cho thấy rằng các thang đo rối loạn lo âu theo DSM-5 đo lường cùng một miền 
+khái niệm rối loạn lo âu với DASS-21. Điều này cung cấp bằng chứng đo lường mạnh 
+mẽ, khẳng định các thang đo rối loạn lo âu DSM-5 đạt tính tương đương khái niệm và 
+độ hội tụ cao với công cụ chuẩn hiện hành, đáp ứng yêu cầu sử dụng trong thực tiễn. 
+ 
+Bảng 6. Phân tích nhân tố khẳng định (CFA) 
+ 
+TT 
+Thang đo 
+χ²(df) 
+χ²/df 
+CFI 
+TLI 
+RMSEA 
+90% CI 
+RMSEA 
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+10
+15
+24
+30
+Page 11 of 15 - Integrity Submission
+Submission ID
+trn:oid:::1:3568641860
+Page 11 of 15 - Integrity Submission
+Submission ID
+trn:oid:::1:3568641860
+
+=== PG 12 ===
+ 
+1 
+Rối loạn lo âu 
+tổng quát 
+230,828 (35) 
+6,595 
+0,871 
+0,798 
+0,114 
+0,100 - 0,118 
+2 
+Rối loạn lo âu 
+chia ly
+443,335 (35) 
+12,667 
+0,787 
+0,726 
+0,164 
+0,151 - 0,178
+3 
+Rối loạn lo âu 
+xã hội
+323,507 (35) 
+9,243 
+0,860 
+0,780 
+0,138 
+0,125 - 0,152
+ 
+Tổng thể 
+2125,182 
+(402) 
+5,287 
+0,758 
+0,720 
+0,100 
+0,095 - 0,104
+ 
+Kết quả phân tích nhân tố khẳng định tại Bảng 6 cho thấy mức độ phù hợp mô 
+hình của từng thang đo rối loạn lo âu theo DSM-5 còn hạn chế. Cụ thể, các giá trị χ²/df 
+dao động từ 6,60 đến 12,67, các chỉ số CFI (0,787-0,871) và TLI (0,726-0,798) nằm 
+dưới ngưỡng tốt (≥ 0,90) nhưng vẫn tiệm cận mức chấp nhận trong các nghiên cứu đánh 
+giá thang đo sàng lọc tâm lý. Giá trị RMSEA của cả ba tiểu thang (0,114 - 0,164), cùng 
+với khoảng tin cậy 90% tương đối hẹp, cho thấy mức độ sai lệch giá trị đo lường ở mức 
+trung bình đến cao. Số liệu này có thể giải thích bởi lý do 3 thang đo rối loạn lo âu 
+DSM-5 đều là các thang đo đơn hướng, hơn nữa, cỡ mẫu nhỏ cũng ảnh hưởng đến mô 
+hình CFA. 
+Một số nghiên cứu trên thế giới ghi nhận RMSEA > 0,10 khi kiểm định mô hình 
+đơn hướng của các thang đo rối loạn lo âu và cảm xúc âm tính, đồng thời khuyến nghị 
+diễn giải kết quả CFA kết hợp với độ tin cậy và các chỉ số giá trị khác thay vì loại bỏ 
+thang đo chỉ dựa trên độ phù hợp mô hình (Beesdo-Baum và cộng sự, 2012; Reise và 
+cộng sự, 2010). So sánh giữa các thang đo cho thấy, thang rối loạn lo âu tổng quát có 
+mức độ phù hợp tương đối tốt hơn so với hai thang đo còn lại. Mô hình này tương đồng 
+với các kết quả phân tích CFA trên các thang đo rối loạn lo âu xã hội và rối loạn lo âu 
+chia ly ở trẻ em và vị thành niên, nơi cấu trúc đơn nhân tố thường chỉ đạt mức phù hợp 
+trung bình và được cải thiện đáng kể khi áp dụng mô hình hai nhân tố hoặc mô hình 
+song nhân tố (Ebesutani và cộng sự, 2012). 
+Nhìn chung, kết quả phân tích CFA trong Bảng 6 cho thấy các thang đo rối loạn 
+lo âu DSM-5 đáp ứng được yêu cầu cơ bản về tính hiệu lực cấu trúc, khuyến khích việc 
+sử dụng các thang đo rối loạn lo âu này cho mục đích nghiên cứu sàng lọc, đồng thời 
+gợi ý về hướng cải tiến mô hình đo lường này ở các nghiên cứu tiếp theo thông qua các 
+cấu trúc nhân tố linh hoạt hơn. 
+4. Bàn luận 
+Kết quả nghiên cứu cho thấy ba thang đo rối loạn lo âu theo DSM-5 có độ tin 
+cậy nội tại tốt trên mẫu học sinh trung học cơ sở được khảo sát. Các hệ số Cronbach’s α, 
+McDonald’s ω và tin cậy phân đôi Guttman đều đạt mức phù hợp, cho thấy các mục hỏi 
+trong từng thang có sự nhất quán nội tại tương đối cao. Việc sử dụng đồng thời nhiều 
+chỉ số độ tin cậy giúp củng cố bằng chứng về tính ổn định của thang đo và hạn chế sự 
+phụ thuộc vào một chỉ số đơn lẻ (DeVellis và Thorpe, 2022). 
+Các thang đo rối loạn lo âu DSM-5 có tương quan thuận, có ý nghĩa thống kê 
+với nhau và với các tiểu thang đo của DASS-21, qua đó cung cấp bằng chứng bước đầu 
+1
+1
+1
+1
+1
+10
+21
+21
+27
+29
+36
+Page 12 of 15 - Integrity Submission
+Submission ID
+trn:oid:::1:3568641860
+Page 12 of 15 - Integrity Submission
+Submission ID
+trn:oid:::1:3568641860
+
+=== PG 13 ===
+ 
+về hiệu lực hội tụ. Tuy nhiên, kết quả CFA cho thấy mô hình đơn nhân tố của các thang 
+đo chưa đạt mức phù hợp tối ưu, đặc biệt ở các chỉ số RMSEA, CFI và TLI. Vì vậy, các 
+kết quả cần được diễn giải thận trọng; các thang đo có thể sử dụng trong nghiên cứu và 
+sàng lọc ban đầu, nhưng cần tiếp tục được kiểm định trên các mẫu lớn hơn và với các 
+mô hình đo lường thay thế trong những nghiên cứu tiếp theo. 
+5. Kết luận 
+Kết quả nghiên cứu cho thấy ba thang đo rối loạn lo âu theo DSM-5 có độ tin 
+cậy nội tại tốt trên mẫu học sinh trung học cơ sở được khảo sát. Các hệ số Cronbach’s 
+alpha, McDonald’s omega và hệ số tin cậy phân đôi đều đạt mức phù hợp, cho thấy các 
+mục hỏi trong từng thang đo có sự nhất quán tương đối cao. 
+Các thang đo có tương quan thuận, có ý nghĩa thống kê với nhau và với các tiểu 
+thang đo của DASS-21, qua đó cung cấp bằng chứng bước đầu về hiệu lực hội tụ. Tuy 
+nhiên, kết quả CFA cho thấy mô hình đơn nhân tố của các thang đo chưa đạt mức phù 
+hợp tối ưu, đặc biệt ở các chỉ số CFI, TLI và RMSEA. Vì vậy, các thang đo này có thể 
+được sử dụng trong nghiên cứu và sàng lọc ban đầu, nhưng chưa nên xem là công cụ 
+chẩn đoán hoặc công cụ đã được chuẩn hóa đầy đủ cho học sinh trung học cơ sở Việt 
+Nam. 
+Các nghiên cứu tiếp theo cần mở rộng cỡ mẫu, đa dạng hóa địa bàn khảo sát, 
+kiểm định bất biến đo lường theo giới tính và khối lớp, đánh giá độ tin cậy lặp lại, đồng 
+thời thử nghiệm các mô hình đo lường thay thế nhằm củng cố thêm bằng chứng về giá 
+trị sử dụng của các thang đo trong bối cảnh Việt Nam. 
+Hạn chế của nghiên cứu và định hướng tương lai 
+Nghiên cứu sử dụng thiết kế cắt ngang và thu thập dữ liệu tại một thời điểm, do 
+đó chưa đánh giá được độ ổn định theo thời gian của thang đo, bao gồm độ tin cậy đánh 
+giá lại (test-retest). Bên cạnh đó, việc chưa có dữ liệu theo chiều dọc hạn chế khả năng 
+kiểm định tính ổn định cấu trúc và bất biến đo lường theo thời gian. Ngoài ra, quy mô 
+mẫu còn hạn chế đối với việc kiểm định các mô hình đo lường phức tạp và phân tích bất 
+biến giữa các nhóm. Các nghiên cứu tiếp theo nên áp dụng thiết kế dọc, thu thập dữ liệu 
+lặp lại và mở rộng cỡ mẫu nhằm củng cố thêm độ vững chắc và khả năng khái quát của 
+thang đo. 
+Tài liệu tham khảo 
+1. American Psychiatric Association (APA) (2013). DSM-5 emerging measures: Severity 
+measures for anxiety disorders (child age 11-17). American Psychiatric Association. 
+https://www.psychiatry.org/psychiatrists/practice/dsm/educational-resources/dsm-5-
+assessment-measures. 
+2. American Psychiatric Association. (2013). Diagnostic and statistical manual of 
+mental 
+disorders (5th 
+ed.). 
+American 
+Psychiatric 
+Publishing. 
+https://doi.org/10.1176/appi.books.9780890425596. 
+3. Beesdo-Baum, K., & Knappe, S. (2012). Developmental epidemiology of anxiety 
+disorders. Child and Adolescent Psychiatric Clinics of North America, 21(3), 457-478. 
+https://doi.org/10.1016/j.chc.2012.05.001. 
+1
+4
+7
+14
+22
+23
+25
+25
+27
+29
+32
+34
+Page 13 of 15 - Integrity Submission
+Submission ID
+trn:oid:::1:3568641860
+Page 13 of 15 - Integrity Submission
+Submission ID
+trn:oid:::1:3568641860
+
+=== PG 14 ===
+ 
+4. Beesdo-Baum, K., Knappe, S., Fehm, L., Höfler, M., Lieb, R., Hofmann, S. G., & 
+Wittchen, H.-U. (2012). The natural course of social anxiety disorder among 
+adolescents and young adults. Acta Psychiatrica Scandinavica, 126(6), 411-425. 
+https://doi.org/10.1111/j.1600-0447.2012.01886.x. 
+5. Brown, T. A. (2015). Confirmatory factor analysis for applied research (2nd ed.). 
+Guilford Press. 
+6. Clark, L. A., & Watson, D. (2019). Constructing validity: New developments in 
+creating objective measuring instruments. Psychological Assessment, 31(12), 1412-
+1427. https://doi.org/10.1037/pas0000626. 
+7. Cronbach, L. J. (1951). Coefficient alpha and the internal structure of 
+tests. Psychometrika, 16(3), 297-334. https://doi.org/10.1007/BF02310555. 
+8. Cronbach, L. J., & Meehl, P. E. (1955). Construct validity in psychological 
+tests. Psychological 
+Bulletin, 
+52(4), 
+281-302. 
+https://doi.org/10.1037/h0040957. 
+9. DeVellis, R. F. (2017). Scale development: Theory and applications (4th ed.). Sage 
+Publications. 
+10. DeVellis, R. F., & Thorpe, C. T. (2022). Scale development: Theory and 
+applications (5th ed.). Sage. 
+11. Ebesutani, C., Reise, S. P., Chorpita, B. F., Ale, C., Regan, J., Young, J., Higa-
+McMillan, C., & Weisz, J. R. (2012). The Revised Child Anxiety and Depression Scale-
+Short Version: Scale reduction via exploratory bifactor modeling of the broad anxiety 
+factor. Psychological Assessment, 24(4), 833-845. https://doi.org/10.1037/a0027283. 
+12. Eccles, J. S., Midgley, C., Buchanan, C. M., Flanagan, C., Mac Iver, D., Reuman, 
+D., & Wigfield, A. (1993). Development during adolescence: The impact of stage-
+environment fit. American Psychologist, 48(2), 90-101. https://doi.org/10.1037/0003-
+066X.48.2.90. 
+13. Enders, C. K. (2010). Applied Missing Data Analysis. New York, NY: Guilford 
+Press. 
+14. Essau, C. A., Lewinsohn, P. M., Olaya, B., & Seeley, J. R. (2014). Anxiety disorders 
+in adolescents and psychosocial outcomes at age 30. Journal of Affective Disorders, 
+163, 125-132. http://dx.doi.org/10.1016/j.jad.2013.12.033. 
+15. Graham, J. W. (2009). Missing data analysis: Making it work in the real 
+world. Annual 
+Review 
+of 
+Psychology, 
+60, 
+549-576. 
+https://doi.org/10.1146/annurev.psych.58.110405.085530. 
+16. Kline, R. B. (2016). Principles and practice of structural equation modeling (4th 
+ed.). Guilford Press. 
+17. Kotov, R., Krueger, R. F., Watson, D., Achenbach, T. M., Althoff, R. R., Bagby, R. 
+M., … & Zimmerman, M. (2017). The Hierarchical Taxonomy of Psychopathology 
+(HiTOP): A dimensional alternative to traditional nosologies. Journal of Abnormal 
+Psychology, 126(4), 454-477. https://doi.org/10.1037/abn0000258. 
+18. Merikangas, K. R., He, J. P., Burstein, M., Swanson, S. A., Avenevoli, S., Cui, L., … 
+Swendsen, 
+J. 
+(2010). 
+Lifetime 
+prevalence 
+of 
+mental 
+disorders 
+in 
+U.S. 
+2
+6
+8
+9
+16
+17
+18
+19
+26
+28
+Page 14 of 15 - Integrity Submission
+Submission ID
+trn:oid:::1:3568641860
+Page 14 of 15 - Integrity Submission
+Submission ID
+trn:oid:::1:3568641860
+
+=== PG 15 ===
+ 
+adolescents. Journal of the American Academy of Child & Adolescent Psychiatry, 
+49(10), 980-989. https://doi.org/10.1016/j.jaac.2010.05.017. 
+19. Messick, S. (1995). Validity of psychological assessment: Validation of inferences 
+from persons’ responses and performances as scientific inquiry into score 
+meaning. American 
+Psychologist, 
+50(9), 
+741-749. 
+https://doi.org/10.1037/0003-
+066X.50.9.741. 
+20. Polanczyk, G. V., Salum, G. A., Sugaya, L. S., Caye, A., & Rohde, L. A. (2015). 
+Annual research review: A meta-analysis of the worldwide prevalence of mental 
+disorders in children and adolescents. Journal of Child Psychology and Psychiatry, 
+56(3), 345-365. https://doi.org/10.1111/jcpp.12381. 
+21. Reise, S. P., Bonifay, W. E., & Haviland, M. G. (2013). Scoring and modeling 
+psychological measures in the presence of multidimensionality. Journal of Personality 
+Assessment, 95(2), 129-140. https://doi.org/10.1080/00223891.2012.725437. 
+22. Reise, S. P., Moore, T. M., & Haviland, M. G. (2010). Bifactor models and rotations: 
+Exploring the extent to which multidimensional data yield univocal scale scores. 
+Journal 
+of 
+Personality 
+Assessment, 
+92(6), 
+544-559. 
+https://doi.org/10.1080/00223891.2010.496477. 
+23. Silove, D., Alonso, J., Bromet, E., Gruber, M., Sampson, N., Scott, K., … Kessler, 
+R. C. (2015). Pediatric-onset and adult-onset separation anxiety disorder across 
+countries in the World Mental Health Survey. American Journal of Psychiatry, 172(7), 
+647-656. https://doi.org/10.1176/appi.ajp.2015.14091185. 
+24. Stein, M. B., & Stein, D. J. (2008). Social anxiety disorder. The Lancet, 371(9618), 
+1115-1125. https://doi.org/10.1016/S0140-6736(08)60488-2. 
+25. Van de Vijver, F. J. R., & Tanzer, N. K. (2004). Bias and equivalence in cross-
+cultural assessment. European Review of Applied Psychology, 54(2), 119-135. 
+https://doi.org/10.1016/j.erap.2003.12.004. 
+26. Woodward, L. J., & Fergusson, D. M. (2001). Life course outcomes of young people 
+with anxiety disorders in adolescence. Journal of the American Academy of Child & 
+Adolescent 
+Psychiatry, 
+40(9), 
+1086-1093. 
+https://doi.org/10.1097/00004583-
+200109000-00018. 
+2
+2
+3
+11
+12
+18
+20
+Page 15 of 15 - Integrity Submission
+Submission ID
+trn:oid:::1:3568641860
+Page 15 of 15 - Integrity Submission
+Submission ID
+trn:oid:::1:3568641860

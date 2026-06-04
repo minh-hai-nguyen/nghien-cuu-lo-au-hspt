@@ -1,0 +1,465 @@
+{
+  "bai1": {
+    "QT060_Bie_2024": {
+      "expected": [
+        "Bie",
+        "2024",
+        "Frontiers",
+        "Psychiatry",
+        "DALY",
+        "10-24",
+        "GBD"
+      ],
+      "type": "prevalence"
+    },
+    "QT031_Islam_2025": {
+      "expected": [
+        "Islam",
+        "2025",
+        "59",
+        "countries",
+        "PLOS"
+      ],
+      "type": "prevalence"
+    },
+    "QT007_Chen_2023": {
+      "expected": [
+        "Chen",
+        "2023",
+        "BMCPsych",
+        "63205",
+        "China"
+      ],
+      "type": "sample_size"
+    },
+    "QT010_Xu_2021": {
+      "expected": [
+        "Xu",
+        "2021",
+        "JAD",
+        "100000"
+      ],
+      "type": "sample_size"
+    },
+    "VN002_VNAMHS_2022": {
+      "expected": [
+        "V-NAMHS",
+        "2022",
+        "18.45%",
+        "DSM-5",
+        "7.4%",
+        "SAD",
+        "4.5%",
+        "GAD",
+        "3.2%",
+        "SP",
+        "2.7%"
+      ],
+      "type": "prevalence_breakdown"
+    },
+    "VN014_HoangTrungHoc_2025": {
+      "expected": [
+        "Hoang Trung Hoc",
+        "2025",
+        "8473",
+        "DASS-21"
+      ],
+      "type": "sample"
+    },
+    "VN029_Duong_2025": {
+      "expected": [
+        "Duong",
+        "2025",
+        "2631",
+        "TPHCM"
+      ],
+      "type": "sample"
+    },
+    "QT034_Cho_2024": {
+      "expected": [
+        "Cho",
+        "2024",
+        "Korea"
+      ],
+      "type": "region"
+    },
+    "QT016_Mudunna_2025": {
+      "expected": [
+        "Mudunna",
+        "2025",
+        "South Asia"
+      ],
+      "type": "region"
+    },
+    "QT017_Puyat_2025": {
+      "expected": [
+        "Puyat",
+        "2025",
+        "Filipino"
+      ],
+      "type": "region"
+    },
+    "QT018_Salari_2024": {
+      "expected": [
+        "Salari",
+        "2024",
+        "SAD",
+        "41"
+      ],
+      "type": "meta"
+    },
+    "QT067_Pascoe_2020": {
+      "expected": [
+        "Pascoe",
+        "2020",
+        "6",
+        "academic stress"
+      ],
+      "type": "framework"
+    },
+    "QT046_Jagiello_2025": {
+      "expected": [
+        "Jagiello",
+        "2025",
+        "99",
+        "0.30",
+        "0.55"
+      ],
+      "type": "effect_size"
+    },
+    "QT012_GBD_ASEAN_2025": {
+      "expected": [
+        "GBD",
+        "ASEAN",
+        "2025"
+      ],
+      "type": "region"
+    },
+    "VN027_Dinh_2021": {
+      "expected": [
+        "Dinh",
+        "2021",
+        "1300"
+      ],
+      "type": "sample"
+    },
+    "VN006_TranThiMyLuong_2020": {
+      "expected": [
+        "Tran Thi My Luong",
+        "2020",
+        "540",
+        "DASS-42"
+      ],
+      "type": "sample"
+    },
+    "VN001_Hoa_2024": {
+      "expected": [
+        "Hoa",
+        "2024",
+        "Frontiers",
+        "Ha Noi"
+      ],
+      "type": "location"
+    },
+    "VN004_NguyenThiVan_2020": {
+      "expected": [
+        "Nguyen Thi Van",
+        "2020",
+        "STAI",
+        "TPHCM"
+      ],
+      "type": "sample"
+    },
+    "QT027_Fassi_2025": {
+      "expected": [
+        "Fassi",
+        "2025",
+        "Nature",
+        "24",
+        "50000",
+        "0.4"
+      ],
+      "type": "effect_size"
+    },
+    "QT021_Brunborg_2025": {
+      "expected": [
+        "Brunborg",
+        "2025",
+        "4000",
+        "0.12"
+      ],
+      "type": "effect_size"
+    },
+    "QT022_Li_2025": {
+      "expected": [
+        "Li",
+        "2025",
+        "screen",
+        "73%"
+      ],
+      "type": "prevalence"
+    },
+    "QT070_Moore_2017": {
+      "expected": [
+        "Moore",
+        "2017",
+        "36",
+        "230000",
+        "1.77"
+      ],
+      "type": "meta"
+    },
+    "QT008_Wen_2020": {
+      "expected": [
+        "Wen",
+        "2020",
+        "rural",
+        "1000"
+      ],
+      "type": "region"
+    },
+    "VN022_UNICEF_2022": {
+      "expected": [
+        "UNICEF",
+        "2022",
+        "66",
+        "Gia Lai",
+        "TPHCM"
+      ],
+      "type": "sample"
+    },
+    "VN015_NgoAnhVinh_2024": {
+      "expected": [
+        "Ngo Anh Vinh",
+        "2024",
+        "Lang Son",
+        "DTTS"
+      ],
+      "type": "sample"
+    },
+    "QT072_Lee_2025": {
+      "expected": [
+        "Lee",
+        "2025",
+        "cyberbullying",
+        "0.229"
+      ],
+      "type": "effect_size"
+    },
+    "VN019_HoThiTrucQuynh_2025": {
+      "expected": [
+        "Ho Thi Truc Quynh",
+        "2025",
+        "Hue"
+      ],
+      "type": "location"
+    },
+    "VN003_Pham_2024": {
+      "expected": [
+        "Pham",
+        "2024",
+        "Hue",
+        "MSPSS"
+      ],
+      "type": "sample"
+    },
+    "VN021_TranThaoVi_2024": {
+      "expected": [
+        "Tran Thao Vi",
+        "2024",
+        "Hue"
+      ],
+      "type": "sample"
+    },
+    "VN025_PhamThiNgoc_2024": {
+      "expected": [
+        "Pham Thi Ngoc",
+        "2024",
+        "Hai Phong",
+        "Smartphone"
+      ],
+      "type": "prevalence"
+    },
+    "VN020_TranHoVinhLoc_2024": {
+      "expected": [
+        "Tran Ho Vinh Loc",
+        "2024"
+      ],
+      "type": "author"
+    }
+  },
+  "bai2": {
+    "QT068_Urao_2018": {
+      "expected": [
+        "Urao",
+        "2018",
+        "CBT",
+        "Japan"
+      ],
+      "type": "intervention"
+    },
+    "QT069_Urao_2022": {
+      "expected": [
+        "Urao",
+        "2022",
+        "Journey",
+        "Brave"
+      ],
+      "type": "intervention"
+    },
+    "QT020_Liu_2025": {
+      "expected": [
+        "Liu",
+        "2025",
+        "NMA",
+        "47",
+        "0.82",
+        "0.68",
+        "0.55"
+      ],
+      "type": "effect_size"
+    },
+    "QT039_Xian_2024": {
+      "expected": [
+        "Xian",
+        "2024",
+        "SAD",
+        "0.7",
+        "0.9"
+      ],
+      "type": "effect_size"
+    },
+    "QT037_Praptomojati_2024": {
+      "expected": [
+        "Praptomojati",
+        "2024",
+        "CA-CBT",
+        "SEA"
+      ],
+      "type": "intervention"
+    },
+    "QT040_Walder_2025": {
+      "expected": [
+        "Walder",
+        "2025",
+        "21",
+        "0.508",
+        "0.825"
+      ],
+      "type": "effect_size"
+    },
+    "VN005_TranNguyenNgoc_2018": {
+      "expected": [
+        "Tran Nguyen Ngoc",
+        "2018",
+        "GAD"
+      ],
+      "type": "intervention"
+    },
+    "VN030_Tran_2023": {
+      "expected": [
+        "Tran",
+        "2023",
+        "Happy House",
+        "Cambridge"
+      ],
+      "type": "intervention"
+    },
+    "QT044_Cai_2025": {
+      "expected": [
+        "Cai",
+        "2025",
+        "39",
+        "resilience"
+      ],
+      "type": "effect_size"
+    },
+    "QT065_Bradshaw_2025": {
+      "expected": [
+        "Bradshaw",
+        "Lochman",
+        "2025",
+        "1200",
+        "0.28"
+      ],
+      "type": "effect_size"
+    },
+    "QT042_BrownCarter_2025": {
+      "expected": [
+        "Brown-Carter",
+        "2025",
+        "UK"
+      ],
+      "type": "region"
+    },
+    "QT073_He_2025": {
+      "expected": [
+        "He",
+        "2025",
+        "Power Up",
+        "CBT"
+      ],
+      "type": "intervention"
+    },
+    "QT045_Matsumoto_2024": {
+      "expected": [
+        "Matsumoto",
+        "2024",
+        "iCBT",
+        "0.64"
+      ],
+      "type": "effect_size"
+    },
+    "QT050_Qiaochu_2025": {
+      "expected": [
+        "Qiaochu",
+        "2025",
+        "12",
+        "CBT"
+      ],
+      "type": "intervention"
+    },
+    "QT061_Li_2024": {
+      "expected": [
+        "Li",
+        "2024",
+        "ClearlyMe",
+        "Cambridge"
+      ],
+      "type": "intervention"
+    },
+    "QT062_Samele_2025": {
+      "expected": [
+        "Samele",
+        "2025",
+        "Clear Fear"
+      ],
+      "type": "intervention"
+    },
+    "QT063_Chen_2025": {
+      "expected": [
+        "Chen",
+        "2025",
+        "CBT-I"
+      ],
+      "type": "intervention"
+    },
+    "QT043_Bress_2024": {
+      "expected": [
+        "Bress",
+        "2024",
+        "JAMA",
+        "Maya"
+      ],
+      "type": "app"
+    },
+    "VN022_UNICEF_2022_v2": {
+      "expected": [
+        "UNICEF",
+        "2022",
+        "60%"
+      ],
+      "type": "prevalence"
+    }
+  }
+}

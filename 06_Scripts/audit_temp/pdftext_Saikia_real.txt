@@ -1,0 +1,549 @@
+© 2023 Indian Journal of Community Medicine | Published by Wolters Kluwer - Medknow
+835
+Abstract
+Original Article
+IntroductIon
+Among the “World Health Organization South‑East Asia 
+Region” (WHO SEAR) countries, India holds a unique position 
+in the sense that it has the world’s largest adolescent population; 
+that is, almost 22% comprise 10–19‑year‑old (242 million) of 
+the total Indian population. [1] The United Nations classifies 
+individuals aged 10 to 19 years as adolescents, and this 
+age group comprises nearly 1.2  billion people worldwide, 
+constituting approximately 16% of the global population. [2] 
+The impact of urbanization, social media, economic growth, 
+lifestyle changes, and cultural shifts in India has led to the rapid 
+rise of non‑communicable diseases (NCDs) encompassing 
+mental, behavioral, and substance use disorders. Moreover, 
+the ageing population and increasing risk factors like tobacco 
+smoking, excessive alcohol intake, physical inactivity, and 
+unfavorable dietary habits have significantly contributed to 
+the growing prevalence of NCDs. As a result, the burden of 
+NCDs in India has escalated considerably.[3] These disorders 
+contribute to significant morbidity, disability, and even 
+mortality among those affected and adolescents are a highly 
+vulnerable group among them.
+The dramatic hormonal changes and the changing perspective 
+in the surrounding adults make the adolescence more 
+susceptible to stress, strain, and anxiety. The period of 
+adolescence is characterized by heightened vulnerability 
+to mental health challenges due to the rapid interplay of 
+psychophysical and hormonal changes. These dynamics can 
+significantly impact the behavior and adaptability of maturing 
+individuals. Mental health conditions constitute a substantial 
+proportion of the global burden of disease and injury among 
+individuals aged 10–19 years, accounting for approximately 
+16%. Notably, about half of these mental health conditions 
+manifest before the age of 14 years. [4] Globally, among the 
+mental health morbidities, depression and anxiety are the fourth 
+and ninth primary sources of illness and impairment among 
+adolescents aged 15–19 years, respectively. [4] In the Indian 
+Background: India has the largest adolescent population worldwide, and among this group, mental health issues account for 16% of the 
+total global burden of disease and injury. Disturbingly, approximately half of these health conditions manifest before the age of 14 years. 
+To assess the prevalence of depression, anxiety, and stress along with its correlates among the adolescents in the schools of Kamrup (Metro) 
+district, Assam. Methods and Material: This cross‑sectional study was conducted in 10 randomly selected high schools in the study area 
+among the adolescents selected from 8 th to 10th standards in the age group of 14 to 17 years. A  pre‑designed, pre‑tested interview schedule, 
+the modified Kuppuswamy scale, and ‘Depression Anxiety Stress Scale‑21 Items’  (DASS 21) questionnaire were used for data collection. 
+Results: The mean ± 2SD age of the adolescents was 14.74 ± 1.58 years. Among the adolescents, the overall prevalence of depression, anxiety, 
+and stress was found to be 22.2%, 24.4%, and 6.9%, respectively. Conclusions: The occurrence of mental health morbidities among adolescents 
+is notably widespread, yet researchers have largely overlooked this aspect. This underscores the need for comprehensive investigations into 
+the factors that contribute to these mental health issues.
+Keywords: Adolescents, anxiety, DASS 21, depression, mental health morbidities, stress
+Address for correspondence: Dr. Hemen Das, 
+Department of Community Medicine, Gauhati Medical College and Hospital, 
+Guwahati, Assam, India. 
+E‑mail: hemendas82@gmail.com
+Access this article online
+Quick Response Code:
+Website:  
+www.ijcm.org.in
+DOI:  
+10.4103/ijcm.ijcm_614_21
+ This is an open access journal, and articles are distributed under the terms of the Creative 
+Commons Attribution‑NonCommercial‑ShareAlike 4.0 License, which allows others to 
+remix, tweak, and build upon the work non‑commercially, as long as appropriate credit 
+is given and the new creations are licensed under the identical terms.
+For reprints contact: WKHLRPMedknow_reprints@wolterskluwer.com
+How to cite this article: Saikia AM, Das H, Rajendran V . Mental health 
+morbidities and their correlates among the adolescents in Kamrup (Metro), 
+Assam: A school‑based study. Indian J Community Med 2023;48:835‑40.
+Received: 25‑03‑21, Accepted: 09‑09‑23, Published: 01‑12‑23
+Mental Health Morbidities and their Correlates among the 
+Adolescents in Kamrup (Metro), Assam: A School‑Based Study
+Anku M. Saikia, Hemen Das, Vinoth Rajendran
+Department of Community Medicine, Gauhati Medical College and Hospital, Guwahati, Assam, India
+Saikia, et al.: Mental health morbidities among the adolescents
+Indian Journal of Community Medicine ¦ V olume 48 ¦ Issue 6 ¦ November-December 2023
+836
+context, the calculated lifetime prevalence rate for “any form of 
+mental morbidity” is approximated at 13.67%, indicating that 
+a significant portion of the population has experienced mental 
+health issues at some point in their lives. The current prevalence 
+stands at 10.56%, highlighting the ongoing burden of mental 
+health conditions in the country. Among the various categories 
+of mental morbidity, problems arising from psycho‑active 
+substance use were found to be the most prevalent, affecting 
+approximately 22.44% of the population. Additionally, mood 
+disorders were reported in 5.61% of individuals, while neurotic 
+and stress‑related disorders were prevalent in 3.70% of the 
+population.[5]
+The rapid expansion of the population, along with factors 
+such as migration, industrialization, and the adoption of 
+modern non‑traditional lifestyles, has led to increased stress 
+among individuals in India. This is particularly evident 
+among the younger population who are navigating the 
+challenges of a fast‑paced life. In light of these circumstances, 
+the present study examined the mental health morbidities 
+experienced by adolescents residing in the Lower part of 
+Assam, India. The aim was to gain a deeper understanding 
+of the psychological well‑being of this specific population 
+and shed light on the impact of the changing psycho‑social 
+landscape in the region. Early recognition of mental health 
+morbidities through epidemiological studies may help greatly 
+to institute effective interventions, and it will help in policy 
+formulation and planning for appropriate action. This study 
+assesses the prevalence of depression, anxiety, and stress along 
+with its correlates among the adolescents in the schools of 
+Kamrup (Metro) district, Assam.
+MaterIals  and  Methods
+This cross‑sectional study was conducted among adolescents 
+in the high schools of Kamrup (Metro) district, Assam, from 
+April 2019 to June 2020. We included the adolescents of the 
+age group 14 to 17 years, who were studying in the 8th, 9th, and 
+10th standards in the selected schools and whose parents/teachers 
+consented for participation in the study. Ethical clearance was 
+obtained from the “Institutional Ethics Committee, GMCH, 
+Assam,” followed by securing approval from educational 
+institutions and obtaining informed consent from adolescents 
+attending the school, their parents, and class instructors. The 
+adolescents who were not present in the schools during the 
+study period and could not be contacted on three consecutive 
+visits were excluded from the study. Considering p = 16%,[6] 
+l = 4%, and the formula n = 4pq/l 2, the minimum required 
+sample size was calculated as 336. The list of all Government 
+schools of Kamrup (Metro) was collected from the office of 
+the district school inspector along with formal permission and 
+was considered as the sampling frame. From the total of 120 
+Government provincialized high schools, a simple random 
+sampling method was performed to select 10 schools. Then, 
+from each school with an average class size of 30–40 students, 
+36 students were randomly selected (12 students from each 
+class of 8th, 9th, and 10th standards) to get the desired sample 
+size. It was decided to include equal numbers of male and 
+female adolescents from each class in the school to maintain 
+uniformity. Finally, a total of 360 students (36 × 10) were 
+selected for the study.
+The students from each class were randomly selected using 
+their roll numbers from class registers. If a student was 
+absent on three consecutive visits or unwilling to take part 
+in the study, then the student with a subsequent roll number 
+was selected for the interview. Adequate rapport was built 
+before the interview. Strict privacy and confidentiality were 
+maintained while interviewing the adolescents. The data on the 
+socio‑demographic variables, including age, sex, type of family, 
+socio‑economic status, parental status (single parent or living 
+with both parents), lifestyle factors, and academic performance, 
+were collected using a pre‑designed and pre‑tested schedule 
+and the modified Kuppuswamy scale.[7] Depression, anxiety, 
+and stress were screened using the “Depression Anxiety Stress 
+Scale‑21 Items” (DASS 21) questionnaire. [8] DASS‑21 has 
+been translated into a vernacular language (Assamese). It was 
+back‑translated by a bilingual language expert and validated 
+by a team of bilingual experts in psychiatry and community 
+medicine faculty. The data collected were analyzed using 
+IBM SPSS Statistics version  25. The study variables were 
+presented as proportions, and categorical variables were 
+assessed using the Chi‑square test. The  P value <0.05 was 
+considered significant.
+results
+The mean ± 2SD age of the adolescents was 14.74 ± 1.58 years. 
+Among the adolescents, the overall prevalence of depression, 
+anxiety, and stress was found to be 22.2%, 24.4%, and 6.9%, 
+respectively.
+The study assessed the relationship between various 
+socio‑demographic variables and depression among participants. 
+Age, gender, type of family, and socio‑economic class did not show 
+significant associations with depression. However, significant 
+associations were observed with parental status ( P = 0.001), 
+alcohol use by parents ( P < 0.001), habit of playing video 
+games (P < 0.001), and academic performance (P < 0.001). No 
+significant associations were found with a history of abuse or a 
+history of mental illness in the family [Table 1].
+The relationship between socio‑demographic variables and 
+the presence of anxiety among the participants was assessed. 
+Age, gender, and type of family did not show significant 
+associations with anxiety. The lower socio‑economic 
+class was significantly linked to a higher prevalence of 
+anxiety (P = 0.028). Single‑parent households and parental 
+alcohol use were strongly associated with increased anxiety. 
+Participants with a history of abuse had a higher prevalence of 
+anxiety (P = 0.044), as did those with a familial background 
+of mental health conditions (P = 0.043) Playing video games 
+was associated with higher anxiety levels ( P = 0.003). The 
+academic performance showed a strong association, with 
+detained participants having higher anxiety rates compared 
+Saikia, et al.: Mental health morbidities among the adolescents
+837
+Indian Journal of Community Medicine ¦ V olume 48 ¦ Issue 6 ¦ November-December 2023837
+Table 1: Association of various risk factors with depression
+Sociodemographic variables Depression 
+present (n=80)
+Row 
+%
+Column 
+%
+Depression 
+absent (n=280)
+Row 
+%
+Column 
+%
+P
+Age
+14‑15 years 36 22.2% 45.0% 126 77.7% 45.0% 0.444
+15‑16 years 27 19.7% 33.8% 110 80.3% 39.3%
+16‑17 years 17 27.9% 21.3% 44 72.0% 15.7%
+Gender
+Boy 47 26.1% 58.8% 133 73.9% 47.5% 0.076
+Girl 33 18.3% 41.3% 147 81.7% 52.5%
+Type of family
+Nuclear 49 22.8% 61.3% 166 77.2% 59.3% 0.752
+Joint 31 21.4% 38.8% 114 78.6% 40.7%
+Socioeconomic status
+Lower class 41 24.7% 51.3% 125 75.3% 44.6% 0.839
+Upper lower class 13 19.1% 16.3% 55 80.9% 19.6%
+Lower middle class 16 21.3% 20.0% 59 78.7% 21.1%
+Upper middle class 6 22.2% 7.5% 21 77.8% 7.5%
+Upper class 4 16.7% 5.0% 20 83.3% 7.1%
+Parental status
+Single parent 10 52.6% 12.5% 9 47.4% 3.2% 0.001
+Living with both parents 70 20.5% 87.5% 271 79.5% 96.8%
+Alcohol use by the parents
+Yes 36 38.3% 45.0% 58 61.7% 20.7% <0.001
+No 44 16.5% 55.0% 222 83.5% 79.3%
+History of abuse
+Yes 45 26.3% 56.3% 126 73.7% 45.0% 0.076
+No 35 18.5% 43.8% 154 81.5% 55.0%
+History of mental illness in the family
+Yes 6 28.6% 7.5% 15 71.4% 5.4% 0.471
+No 74 21.8% 92.5% 265 78.2% 94.6%
+Habit of playing video games
+Yes 67 27.9% 83.8% 173 72.1% 61.8% <0.001
+No 13 10.8% 16.3% 107 89.2% 38.2%
+Academic performance
+Detained 17 58.6% 21.3% 12 41.4% 4.3% <0.001
+Regular 63 19.0% 78.8% 268 81.0% 95.7%
+to those with regular performance (P < 0.001). These 
+findings underscore the importance of considering these 
+socio‑demographic factors in understanding and addressing 
+anxiety among adolescents [Table 2].
+Socio‑demographic variables showed associations with the 
+presence of stress. There was a significant relationship between 
+age and stress, with a higher stress prevalence observed among 
+participants aged 16–17 years. Gender ( P = 0.824), type of 
+family (P = 0.032), socio‑economic class (P = 0.905), alcohol 
+use by parents (P = 0.243), history of abuse (P = 0.716), habit 
+of playing video games (P = 0.883), and history of mental 
+illness in the family (P = 0.024) did not exhibit significant 
+associations with stress. However, parental status (P = 0.013) 
+and academic performance ( P = 0.001) showed significant 
+associations, indicating that participants living with a single 
+parent and those who were academically detained had a higher 
+prevalence of stress [Table 3].
+dIscussIon
+This study represents one of the initial investigations conducted 
+to examine the mental health morbidities among school‑going 
+adolescents in this district, serving as the gateway to the 
+entire north‑eastern states. The findings reveal a significant 
+prevalence of depression, anxiety, and stress, particularly 
+highlighting the elevated prevalence of anxiety (24.2%) 
+in comparison to various studies conducted globally. [7‑9] In 
+contrast, the studies conducted in Tamil Nadu and Chandigarh 
+demonstrated an even higher prevalence of anxiety among 
+adolescents, indicating regional variations in the prevalence 
+of anxiety disorders.[10,11] This may be due to different study 
+instruments used, socio‑cultural differences, variations in study 
+settings which have much bigger urbanization, and inclusion of 
+different age groups in their study.[9,10] The high prevalence of 
+depression (22.2%) among adolescents is consistent with other 
+studies done in India.[9,10,12] A lower prevalence of stress (6.9%) 
+Saikia, et al.: Mental health morbidities among the adolescents
+Indian Journal of Community Medicine ¦ V olume 48 ¦ Issue 6 ¦ November-December 2023
+838
+Table 2: Association of various risk factors with anxiety
+Sociodemographic variables Anxiety present 
+(n=88)
+Row % Column 
+%
+Anxiety absent 
+(n=272)
+Row 
+%
+Column 
+%
+P
+Age
+14‑15 years 40 24.7% 45.5% 122 75.3% 44.9% 0.727
+15‑16 years 31 22.6% 35.2% 106 77.4% 39.0%
+16‑17 years 17 27.9% 19.3% 44 72.1% 16.2%
+Gender
+Boy 54 30.0% 61.4% 126 70.0% 46.3% 0.049
+Girl 34 18.9% 38.6% 146 81.1% 53.7%
+Type of Family
+Nuclear 54 25.1% 61.4% 161 74.9% 59.2% 0.718
+Joint 34 23.4% 38.6% 111 76.6% 40.8%
+Socioeconomic Class
+Lower Class 53 31.9% 60.2% 113 68.1% 41.5% 0.028
+Upper Lower Class 9 13.2% 10.2% 59 86.8% 21.7%
+Lower Middle Class 16 21.3% 18.2% 59 78.7% 21.7%
+Upper Middle Class 6 22.2% 6.8% 21 77.8% 7.7%
+Upper Class 4 16.7% 4.5% 20 83.3% 7.4%
+Parental Status
+Single parent 12 63.2% 13.6% 7 36.8% 2.6% <0.001
+Living with both parents 76 22.3% 86.4% 265 77.7% 97.4%
+Alcohol use by the parents
+Yes 38 40.4% 43.2% 56 59.6% 20.6% <0.001
+No 50 18.8% 56.8% 216 81.2% 79.4%
+History of abuse
+Yes 50 29.2% 56.8% 121 70.8% 44.5% 0.044
+No 38 20.1% 43.2% 151 79.9% 55.5%
+History of mental illness in the family
+Yes 9 42.9% 10.2% 12 57.1% 4.4% 0.043
+No 79 23.3% 89.8% 260 76.7% 95.6%
+Habit of playing video games
+Yes 70 29.2% 79.5% 170 70.8% 62.5% 0.003
+No 18 15.0% 20.5% 102 85.0% 37.5%
+Academic performance
+Detained 19 65.5% 21.6% 10 34.5% 3.7% <0.001
+Regular 69 20.8% 78.4% 262 79.2% 96.3%
+has been found among the adolescents in the current study in 
+comparison with other studies. [9‑14] The regional variations 
+in the prevalence of anxiety disorders can be influenced by 
+differences in the study instruments used, socio‑cultural 
+norms, and variations in study settings, particularly in terms of 
+urbanization levels and the inclusion of different age groups.
+In the present study, the prevalence of stress increases with age 
+and it was statistically significant. This could be explained by 
+the academic pressure with increasing age as well as the different 
+social and developmental challenges confronted by adolescents. 
+A similar finding was found in studies done in Chandigarh using 
+DASS 21 scale. [11] Gender was significantly associated with 
+anxiety, and boys were found to be having a higher prevalence 
+of anxiety when compared to girls in our study. In contrast, many 
+studies showed that girls were more at risk for anxiety.[9‑13] This 
+may be due to social roles and responsibilities in this society 
+putting boys at more risk of developing anxiety.
+A high prevalence of stress is seen in the nuclear family. However, 
+depression, stress, and anxiety were significantly higher in the 
+adolescents who were staying with a single parent. These findings 
+were confirmed by previous studies done among adolescents in 
+Delhi and Jammu.[15,16] However, in contrast to these findings, 
+one study done in Uttar Pradesh estimated lesser prevalence was 
+seen in the nuclear family.[10] These variations could be influenced 
+by socio‑cultural differences within families and the broader 
+community. Factors such as parenting styles, family dynamics, 
+support systems, and socio‑economic conditions can contribute 
+to the differences observed. The study conducted in Uttar Pradesh 
+might reflect unique socio‑cultural characteristics specific to that 
+region.[10] It is essential to consider these contextual factors when 
+interpreting and comparing the prevalence rates of mental health 
+conditions in different family structures.
+In our study, the lower socio‑economic class had an increased 
+risk of anxiety, which may be caused by the prevailing financial 
+Saikia, et al.: Mental health morbidities among the adolescents
+839
+Indian Journal of Community Medicine ¦ V olume 48 ¦ Issue 6 ¦ November-December 2023839
+Table 3: Association of various risk factors with stress
+Sociodemographic variables Stress present 
+(n=25)
+Row 
+%
+Column 
+%
+Stress absent 
+(n=335)
+Row 
+%
+Column 
+%
+P
+Age
+14‑15 years 7 4.3% 28.0% 155 95.7% 46.3% 0.001
+15‑16 years 7 5.1% 28.0% 130 94.9% 38.8%
+16‑17 years 11 18.0% 44.0% 50 82.0% 14.9%
+Gender
+Boy 14 7.8% 56.0% 166 92.2% 49.6% 0.824
+Girl 11 6.1% 44.0% 169 93.9% 50.4%
+Type of family
+Nuclear 20 9.3% 80.0% 195 90.7% 58.2% 0.032
+Joint 5 3.4% 20.0% 140 96.6% 41.8%
+Socioeconomic class
+Lower class 13 7.8% 52.0% 153 92.2% 45.7% 0.905
+Upper lower class 5 7.4% 20.0% 63 92.6% 18.8%
+Lower middle class 4 5.3% 16.0% 71 94.7% 21.2%
+Upper middle class 1 3.7% 4.0% 26 96.3% 7.8%
+Upper class 2 8.3% 8.0% 22 91.7% 6.6%
+Parental status
+Single parent 4 21.1% 16.0% 15 78.9% 4.5% 0.013
+Living with both parents 21 6.2% 84.0% 320 93.8% 95.5%
+Alcohol use by the parents
+Yes 9 9.6% 36.0% 85 90.4% 25.4% 0.243
+No 16 6.0% 64.0% 250 94.0% 74.6%
+History of abuse
+Yes 11 6.4% 44.0% 160 93.6% 47.8% 0.716
+No 14 7.4% 56.0% 175 92.6% 52.2%
+History of mental illness in the family
+Yes 4 19.0% 16.0% 17 81.0% 5.1% 0.024
+No 21 6.2% 84.0% 318 93.8% 94.9%
+Habit of playing video games
+Yes 17 7.1% 68.0% 223 92.9% 66.6% 0.883
+No 8 6.7% 32.0% 112 93.3% 33.4%
+Academic performance
+Detained 7 24.1% 28.0% 22 75.9% 6.6% 0.001
+Regular 18 5.4% 72.0% 313 94.6% 93.4%
+insecurity in their family. Our findings align with numerous 
+earlier studies conducted among adolescents in many parts 
+of India.[16‑18] Alcohol use by the parents was also associated 
+significantly with adolescent depression and anxiety in this study. 
+The findings are similar to the other studies done in Bangalore 
+and Finland.[19,20]
+The finding of a higher prevalence of anxiety with reported 
+abuse in the family has been corroborated by many previous 
+studies’ statements. [15,21,22]  However, in the current study, 
+we did not use any tool for screening abuse. Furthermore, 
+a significantly higher prevalence of anxiety and stress 
+was found in the adolescents reporting mental disorder 
+in their family members. Many studies done across the 
+globe are in conformation to our study finding that mental 
+disorders in the family are significantly associated with 
+psychological distress among adolescents. [23,24] The role of 
+having the habit of playing a video game in adolescents’ 
+depression and anxiety was in conformity with the earlier 
+studies done in Bengaluru and China. [25,26] This demands 
+further research and exploration in this regard. A  significant 
+relationship of depression, anxiety, and stress with academic 
+performance found in the current study conformed with 
+various studies. [27,28] However, this needs further in‑depth 
+qualitative research.
+conclusIon
+There is a high prevalence of mental health morbidities 
+among adolescents in Kamrup (Metro), Assam, but they are 
+least explored by researchers. In‑depth research is required to 
+explore the contributing factors of mental health morbidities 
+among adolescents, and schools serve as a great platform for 
+evaluating them. The family environmental factors like alcohol 
+use, adolescent abuse and neglect, the habit of video gaming, 
+and so on have to be addressed through a holistic approach 
+involving policymakers, civic societies, professionals like 
+counsellors, and so on.
+Saikia, et al.: Mental health morbidities among the adolescents
+Indian Journal of Community Medicine ¦ V olume 48 ¦ Issue 6 ¦ November-December 2023
+840
+Abbreviations
+•	 WHO: World Health Organization
+•	 SEAR: South East Asian Region
+•	 NCD: Non‑Communicable Diseases
+•	 DASS: Depression Anxiety Stress Scale
+•	 SPSS: Statistical Package for Social Sciences
+•	 SD: Standard Deviation
+•	 GMCH: Gauhati Medical College and Hospital.
+Acknowledgements
+The authors acknowledge their gratefulness to all the school 
+authorities for giving permission for conducting the study 
+and also, to the students who participated and shared their 
+valuable opinions.
+Financial support and sponsorship
+Nil.
+Conflicts of interest
+There are no conflicts of interest.
+references
+1. Adolescents in India: A  Desk Review of Existing Evidence and 
+Behaviours, Programmes and Policies. New Delhi: Population Council 
+& UNICEF; 2013. Available from http://4dj7dt2ychlw3310xlowzop2.
+wpengine.netdna ‑cdn.com/wpcontent/uploads/2016/09/Adolescents_
+in_India. [Last accessed on 2020 Sept 07].
+2. Adolescents Statistics. UNICEF DATA. Available from: https://data.
+unicef.org/topic/adolescents/overview/. [Last accessed on 2020 Oct 04].
+3. Reddy KS, Shah B, Varghese C, Ramadoss A. Responding to the threat 
+of chronic diseases in India. Lancet 2005;366:1744‑9.
+4. Adolescent mental health. Available from: https://www.who.int/news‑
+room/fact‑sheets/detail/adolescent‑mental‑health. [Last accessed on 
+2020 Oct 04].
+5. Gautham MS, Gururaj G, Varghese M, Benegal V , Rao GN, Kokane A, 
+et al. The National Mental Health Survey of India (2016): Prevalence, 
+socio‑demographic correlates and treatment gap of mental morbidity. Int 
+J Soc Psychiatry 2020;66:361‑72.
+6. Nair BK, Elizabeth KE. Prevalence of stress, anxiety and its correlates 
+among adolescents in Kannur District, Kerala, India. Int J Health Sci 
+2016;6:225‑8.
+7. Modified Kuppuswamy socioeconomic scale updated for the year 
+2019. ResearchGate. Available from: https://www.researchgate.net/
+publication/332155248_Modified_Kuppuswamy_socioeconomic_
+scale_updated_for_the_year_2019. [Last accessed on 2020 Oct 04].
+8. Depression Anxiety Stress Scales ‑ DASS. Available from: http://www2.
+psy.unsw.edu.au/dass//. [Last accessed on 2020 Oct 04].
+9. Madasu S, Malhotra S, Kant S, Sagar R, Mishra AK, Misra P, et al . 
+Anxiety disorders among adolescents in a rural area of northern 
+India using screen for child anxiety‑related emotional disorders tool: 
+A community‑based study. Indian J Community Med 2019;44:317‑21.
+10. Mishra SK, Srivastava M, Tiwary NK, Kumar A. Prevalence of depression 
+and anxiety among children in rural and suburban areas of Eastern Uttar 
+Pradesh: A cross‑sectional study. J Family Med Prim Care 2018;7:21‑6.
+11. Sandal RK, Goel NK, Sharma MK, Bakshi RK, Singh N, Kumar D. 
+Prevalence of depression, anxiety and stress among school going 
+adolescent in Chandigarh. J Family Med Prim Care 2017;6:405.
+12. Chorpita BF, Yim L, Moffitt C, Umemoto LA, Francis SE. Assessment 
+of symptoms of DSM‑IV anxiety and depression in children: A revised 
+child anxiety and depression scale. Behav Res Ther 2000;38:835‑55.
+13. Kumar KS, Akoijam BS. Depression, anxiety and stress among higher 
+secondary school students of Imphal, Manipur. Indian J Community 
+Med 2017;42:94.
+14. Daya PA, Karthikeyan G. Depression, anxiety, stress and its correlates 
+among urban school going adolescents in Tamilnadu, India. Int J Res 
+Med Sci 2018;6:2813‑7.
+15. Fernandes A, Hayes R, Patel V . Abuse and other correlates of common 
+mental disorders in youth: A  cross‑sectional study in Goa, India. Soc 
+Psychiatry Psychiatr Epidemiol 2012;48:515‑23.
+16. Kumar A, Yadav G, Chauhan N, Bodat S. Prevalence of depression, 
+anxiety and stress among school going adolescents in Delhi: A  cross 
+sectional study. Int J Community Med Public Health 2019;6:5021‑6.
+17. Mangal A, Thakur A, Nimavat KA, Dabar D, Yadav SB. Screening 
+for common mental health problems and their determinants among 
+school‑going adolescent girls in Gujarat, India. J Family Med Prim Care 
+2020;9:264‑70.
+18. Tiwari AK, Jaiswal AK. Study of correlation between social determinants 
+on mental health status of adolescent school students of Patna, Bihar, 
+India. Int J Contemp Pediatr 2020;7:1561‑5.
+19. Omkarappa DB, Rentala S. Anxiety, depression, self‑esteem among 
+children of alcoholic and nonalcoholic parents. J Family Med Prim Care 
+2019;8:604.
+20. Raitasalo K, Holmila M, Jääskeläinen M, Santalahti P. The effect of the 
+severity of parental alcohol abuse on mental and behavioural disorders 
+in children. Eur Child Adolesc Psychiatry 2019;28:913‑22.
+21. Pandey R, Gupta S, Upadhyay A, Gupta RP, Shukla M, Mishra RC, et al. 
+Childhood maltreatment and its mental health consequences among 
+Indian adolescents with a history of child work. Aust N Z J Psychiatry 
+2020;54:496‑508.
+22. Charak R, Koot HM. Abuse and neglect in adolescents of Jammu, India: 
+The role of gender, family structure, and parental education. J Anxiety 
+Disord 2014;28:590‑8.
+23. Ramchandani P, Stein A. The impact of parental psychiatric disorder on 
+children. BMJ 2003;327:242‑3.
+24. Mental Illness in Families. Available from: https://www.aacap.org/AACAP/
+Families_and_Youth/Facts_for_Families/FFF‑Guide/Children‑Of‑Parents‑
+With‑Mental‑Illness‑039.aspx. [Last accessed on 2021 Mar 16].
+25. Archana. Internet gaming disorder and psychiatric symptoms in 
+Bengaluru, India: Treatment implication for promotion of user mental 
+health. Available from: https://www.indjsp.org/article.asp?issn=0971‑
+9962;year=2019;volume=35;issue=2;spage=135;epage=136;aulast=Ar
+chana. [Last accessed on 2021 Mar 16].
+26. Wang JL, Sheng JR, Wang HZ. The association between mobile 
+game addiction and depression, social anxiety, and loneliness. Front 
+Public Health 2019;7. Available from: https://www.frontiersin.org/
+articles/10.3389/fpubh.2019.00247/full.
+27. Kaur S, Sharma V . Depression among adolescents in relation to their 
+academic stress. Indian J Appl Res 2014;4:183‑5.
+28. Agnafors S, Barmark M, Sydsjö G. Mental health and academic 
+performance: A  study on selection and causation effects from 
+childhood to early adulthood. Soc Psychiatry Psychiatr Epidemiol 
+2021;56:857‑66.

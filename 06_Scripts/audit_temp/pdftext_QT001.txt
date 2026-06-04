@@ -1,0 +1,1012 @@
+https://doi.org/10.1177/00207640221140282
+International Journal of  
+Social Psychiatry
+2023, Vol. 69(3) 784 –794
+© The Author(s) 2022
+Article reuse guidelines: 
+sagepub.com/journals-permissions
+DOI: 10.1177/00207640221140282
+journals.sagepub.com/home/isp
+E CAMDEN SCHIZOPH
+Introduction
+While the mental health of adolescents has been the sub-
+ject of investigation for decades now (Cohen et al., 1993; 
+Kazdin, 1993; Rutter & Stevenson, 2008), research is 
+needed to more precisely delineate factors associated with 
+the development of mental disorder. For adolescents, 
+depression and anxiety-related disorders are common, 
+often occurring as comorbid conditions (Garber & 
+Weersing, 2010; Seligman & Ollendick, 1998). While pre-
+vious research has identified domains of broad risk such as 
+adolescence, gender, and psychological stress (Kuehner, 
+2017; Nolen-Hoeksema, 1990; Petersen et al., 1991), 
+empirical research is needed to identify specific factors 
+within social context. While the impact of these factors 
+may vary globally, current studies indicate that risk factors 
+are disproportionately greater in low-income settings 
+(GBD 2019 Mental Disorders Collaborators, 2022). A 
+working foundation to approach the goal of greater speci-
+ficity of our understandings of adolescent mental health is 
+usefully guided by three considerations.
+First, is the burgeoning field of global mental health 
+which has expanded focus to include child and adolescent 
+populations (Kessler et al., 2009; Kieling et al., 2011). The 
+Depression and anxiety among multiethnic 
+middle school students: Age, gender, and 
+sociocultural environment
+Janis H Jenkins1 , Giselle Sanchez1 , Eric A Miller2,  
+Nadia Irina Santillanes Allande3, Grace Urano1  
+and Alexandra J Pryor2
+Abstract
+Background: Depression and anxiety-related disorders are common among adolescents. Research attention to early 
+adolescence and low-income ethnically diverse populations is limited.
+Aim: To conduct screening for depression and anxiety at an early age with attention to gender and socioenvironmental 
+context within a low-income setting.
+Method: Mixed methods included the PHQ-9A and GAD-10 screening instruments and ethnographic interviews.
+Results: 75 ethnically diverse middle school students were included. Mean years age was 11.2 (0.74). Females had higher 
+PHQ-9A sum scores than males (p = .002, Mann-Whitney test) and higher GAD-10 sum scores than males (p = .016, 
+Mann-Whitney test). After controlling for multiple comparisons, girls had higher mean responses on three PHQ-9A 
+items (p < .006, two-sided t-test) and only one GAD-10 item (p < .005, two-sided t-test). Ethnographic interviews 
+revealed contexts associated with girls’ experiences of depression and anxiety, including gender-based violence in both 
+school and home environments. Salient for girls and boys alike were worries about consequences of COVID-19 for family 
+with respect to illness, death, job loss, economic hardship. Fears over student perceptions of intensified discrimination 
+and racism in school and community were prominent. These problems were experienced by students as barriers to 
+educational engagement.
+Conclusion: Specific attention to early adolescence is needed to identify emergence of subsyndromal conditions which 
+may benefit from therapeutic attention to reduce symptom severity, identify sociocultural, structural, and gender-
+specific stressors, and to enhance educational engagement.
+Keywords
+Adolescents, depression, anxiety, gender, COVID-19, ethnographic mixed methods, global mental health
+1Department of Anthropology, University of California San Diego, La 
+Jolla, CA, USA
+2School of Medicine, University of California San Diego, La Jolla, CA, 
+USA
+3Ciesas Noreste, Monterrey, NL, Mexico
+Corresponding author:
+Janis H Jenkins, Department of Anthropology, University of California 
+San Diego, 9500 Gilman Drive, #0532, La Jolla, CA 92093-0532, USA. 
+Email: jhjenkins@ucsd.edu
+1140282ISP0010.1177/00207640221140282International Journal of Social PsychiatryJenkins et al.
+research-article2022
+Original Article
+
+Jenkins et al. 785
+World Health Organization (WHO, 2022a) recently reported 
+that 14% of adolescents (based on an age range of 10–
+19 years) lived with a mental disorder in 2019. While studies 
+of the global burden of disease continue to show mental dis-
+order as a leading cause of disability, childhood and adoles-
+cence is the period during which this vulnerability is observed 
+to steadily increase (GBD 2019 Mental Disorders 
+Collaborators, 2022). Second, current reports of the age of 
+onset of mental disorder range from over one-third of cases 
+before age 14 (Solmi et al., 2022) to approximately half of all 
+cases by age 14 (Revet & Kennedy, 2022). Thus, early onset 
+of illness is not uncommon and may call for early interven-
+tion as needed and possibly more efficacious (Correll et al., 
+2018; Fusar-Poli et al., 2017). In parallel fashion, early onset 
+provides the research rationale to focus on a younger age  
+than typically investigated. Third, while still in early stages, 
+studies of COVID-19 and mental health have identified det-
+rimental impacts of the pandemic (Necho et al., 2021; Samji 
+et al., 2022; Torales et al., 2020). Recent estimates from the 
+World Health Organization find an overall increase of 25% 
+in the global prevalence of anxiety and depression, with 
+youth and women among the most affected (GBD 2019 
+Mental Disorders Collaborators, 2022; WHO, 2022b). 
+Medical and allied professionals have issued declarations of 
+a mental health crisis that has been exacerbated by COVID-
+19, particularly among children and adolescents living in 
+low-income communities and nation-states. Specific risk 
+factors include higher frequencies of the death of parents, 
+parental job loss, social environments marked by systemic 
+racism, and highly limited mental health services (American 
+Academy of Pediatrics, American Academy of Child and 
+Adolescent Psychiatry, and Children’s Hospital Association, 
+2021; Huang & Ougrin, 2021; Mansfield et al., 2022; 
+Organization for Economic Development and Cooperation, 
+2021; United States Department of Health and Human 
+Services, 2021). Taken together, these three sets of interlock-
+ing features point to the need to investigate adolescent men-
+tal health with attention to younger age, gender, and 
+socio-environmental disadvantage.
+Methods
+Overview of study design and procedures
+This study was designed to investigate lived experience and 
+mental health during adolescence through a mixed method 
+and ethnographic approach. The setting for this non-clinical 
+study was a low-income multi-ethnic school and community 
+in Southern California, USA. The research plan focused on 
+investigation of the everyday routines, mental health status, 
+and educational engagement of middle school students 
+recruited at the sixth-grade level (ages 10–11). Selection from 
+this younger age range is intended as a contribution toward the 
+identification of developmental vulnerabilities that may occur 
+during early adolescence. It should be noted that demarcation 
+of what constitutes the age range of ‘adolescence’ has varied 
+historically and cross-culturally (Ariès, 1996). Data collection 
+procedures included sociodemographic background, a series 
+of semi-structured ethnographic interviews, ethnographic 
+observations, the adolescent modified versions of the Patient 
+Health Questionnaire (PHQ-9A) depression screening scale 
+(Johnson et al., 2002), and the child (age 11-17) version  of the 
+Generalized Anxiety Disorder scale (GAD-10) (Craske et al., 
+2013). Sociodemographic data included age, gender identity, 
+ethnic identity, family composition, and religious affiliation. 
+Our ethnographic interview guide was designed to inquire in 
+an open-ended manner with flexibility for probing questions. 
+Interview themes included family life, experiences at school 
+and with peers, mental health and well-being, perspectives on 
+neighborhood and broader national and global events, as well 
+as future goals. All interviews were conducted in English and 
+were audio-recorded for subsequent transcription and qualita-
+tive coding and analysis utilizing NVivo software.
+Our mixed method approach to utilize depression and 
+anxiety screening scales, combined with ethnographic 
+tools, was formulated in light of previous studies that dem-
+onstrate complementarity of various types of research evi-
+dence that shed reciprocal light on domains of inquiry 
+(Csordas et al., 2010; Jenkins, 2015; Jenkins & Csordas, 
+2020). For example, while students may deny the presence 
+of symptoms when assessed in scalar form, they may nar -
+rate their experience of these in an open-ended interview 
+format. Conversely, some research participants may 
+endorse items in a scalar assessment that they may not 
+wish to speak about in a narrative interview format. We 
+focused specifically on depression and anxiety as these are 
+among the most common mental health conditions among 
+youth, including sizeable Mexican-descent populations 
+that reside within the study locale (Flores, 2013; Garber & 
+Weersing, 2010). Our review of the literature shows that 
+the PHQ-9 and GAD-7 adult scales are often used inaptly 
+with child and adolescent populations (Anand et al., 2021; 
+Mossman et al., 2017; Richardson et al., 2010; Tiirikainen 
+et al., 2019; Tsai et al., 2014; Walter et al., 2020). 
+Furthermore, studies which administer the PHQ-9A often 
+rely upon adolescent age cohorts beginning at age 12, pos-
+sibly on the basis of recommendations to commence clini-
+cal depression screenings at age 12 by the American 
+Academy of Pediatrics, the U.S. Preventative Task Force, 
+and the National Committee for Quality Assurance. This  
+guideline also appears to folow the United States 
+Preventative Task Force’s (2022) determination that there 
+is insufficient evidence to warrant depression screenings at 
+a younger age. In terms of assessments, one study utilizing 
+the PHQ-9A documented no significant differences in 
+completion, mean total scores, or rates of positive screen-
+ings that would affect or preclude its use among 11-year-
+olds (Cortez et al. 2021). That study opted to use the 
+adolescent modified versions of the scales (for use among 
+11–17-year-olds) in light of their established reliability in 
+786 International Journal of Social Psychiatry 69(3)
+cross-cultural settings (Aggarwal et al., 2017; Burdzovic 
+Andreas & Brunborg, 2017; Naveed et al., 2019; Yalın 
+Sapmaz et al., 2018). In the present study, we utilized ado-
+lescent versions of the PHQ and GAD scales to gain a 
+basic overview of endorsed depression and anxiety symp-
+toms among middle school students.
+Participant recruitment and procedures before 
+and during COVID-19 outbreak
+Recruitment for this study was conducted between 2018 
+and 2021 utilizing a purposive sample of middle school-
+aged adolescents and their families at a school orientation 
+event. The first wave of recruitment yielded 53 student 
+participants primarily comprising 11-year-old participants 
+(sixth grade level). Two bilingual (English-Spanish) 
+research team members recruited participants, explained 
+research aims, procedures, and addressed questions with 
+interested parents and students. Recruitment also occurred 
+via snowball sampling and through the distribution of fly-
+ers at the school. Parents who completed flyers or who 
+were recommended for the study were contacted by a 
+research team member to explain the research aims and 
+procedures. After attaining written informed parent con-
+sent and child assent, we began research procedures with 
+participants at the school. We conducted between 1 and 8 
+semi-structured interviews over the course of 1 year with 
+student participants, lasting between 35 and 45 minutes 
+during school elective periods. Interviews were conducted 
+in offices provided by school administrators to ensure stu-
+dent privacy. The total number of interviews per student 
+was contingent upon the time needed to complete all 
+research procedures. Research protocols were conducted 
+by five research team members who each met with the 
+same students to build rapport and trust. While subject 
+recruitment yielded an N of 83, we could only include 75 
+for whom procedures were fully completed since eight stu-
+dents had family relocations, class schedule conflicts, or 
+disinterest in continuing with research procedures.
+In the wake of the COVID-19 outbreak and school clo-
+sure, we conducted follow-up questions by telephone or 
+zoom and incorporated additional questions in the ethno-
+graphic interviews once in-person school instruction 
+resumed, along with a second wave of participants recruit-
+ment. The content of these interviews included open-ended 
+questions on student experiences of general health and 
+wellbeing, experiences with relatives and friends during 
+lockdown, and their experience of distance-learning dur -
+ing COVID-19. Given notably heightened political ten-
+sions in the research setting, particularly due to its 
+proximity to the U.S./Mexico border zone, we inquired 
+about student perspectives on contemporary local and 
+global events such as immigration policies, the Black 
+Lives Matter protests, the January 6th Washington D.C. 
+insurrection, and COVID-19 safety practices.
+Human subjects protection
+Research procedures were carried out in compliance with 
+UCSD Institutional Review Board for Human Subjects 
+project approval #171596, and with permission from 
+school district administrators. Participants received a copy 
+of their signed consent form detailing any potential risks 
+for participation in this study. Researchers moved to differ-
+ent questions if they sensed discomfort from adolescent 
+participants and reminded them that all responses were 
+voluntary. To reduce a potential breach in confidentiality, 
+all identifying information was removed from transcrip-
+tions, utilizing only pseudonyms and numbers. All physi-
+cal data is kept in a locked cabinet accessible only to the 
+research team and digital data is stored in a password pro-
+tected university server. Per IRB protocol, we connected 
+students with a school counselor if they wished to speak 
+with a mental health professional.
+Results
+Table 1 lists sociodemographic characteristics of the sample, 
+including gender, age, grade level, ethnic background, and 
+household type. Mean years of age was 11.2 with a limited 
+age range among student participants. Within this sample, 
+the majority of students identified as male or female; how-
+ever, it is salient to note that during the interviews, some stu-
+dents were questioning their gender and sexual identities, 
+revealing the limitations of coding gender or sexuality in a 
+binary fashion. The most frequent ethnic identification was 
+Mexican-descent, followed by combinations of Euro-
+American background. Additional identifications included 
+African American and Black, Central American, Pacific 
+Islander, South and East Asian, and Native American. 
+Regarding ethnic background, we note that for some stu-
+dents this is a straightforward matter (e.g. ‘I am Mexican’) 
+while others identify with more than one ethnic origin or 
+geographic region. Table 1 thus oversimplifies the complex-
+ity of possible combinations. The increasingly common 
+complexity of ethnic diversity has been identified by Hannah 
+(2011) as ‘hyper-diversity’ that exists within the U.S. Overall, 
+there is considerable cultural diversity among students in the 
+sample and within the school setting generally. For house-
+hold composition, all but one student lived with parents.
+Analysis of PHQ-9A depression and GAD-10 
+anxiety scores
+Table 2 lists out the full range of the student scores for the 
+PHQ-9A and GAD-10. As seen therein, 56% of the stu-
+dents fell into the lowest range of ‘none’ for depressive 
+symptoms as did 49.3% for anxiety symptoms.
+In terms of frequency, what is classified as ‘mild’ is next 
+most common, 22.6% and 32%, respectively. Moderate to 
+extreme levels were less commonly observed. When taken 
+Jenkins et al. 787
+together for any degree of symptoms reported, 44% of ado-
+lescents in our study fall in the mild to severe range of the 
+PHQ-9A depression screening scale, while the GAD-10 
+responses suggest that approximately half (50.6%) of ado-
+lescents fall in the mild to extreme anxiety screening range.
+The PHQ-9A total scores reflect the frequency of symp-
+toms listed in the nine items for depressive symptomatol-
+ogy. In this study, item 10 of the GAD-10 was modified by 
+omitting the language of ‘superstitious object’ as a matter 
+of cultural validity (further description of this issue is 
+beyond the scope of this article but the subject of a forth-
+coming publication) and its aggregation of multiple help-
+seeking behaviors was broken up into seven separate boxes 
+for enhanced identification of specific coping activities. 
+Thus, GAD-10 total scores comprise the sum of items 1 
+through 9, plus the highest endorsed frequency of the 
+seven expanded items. This calculation was done so as not 
+to overly weigh coping symptoms in the sum scores.
+Variance in PHQ-9A and GAD-10
+Previous studies have found that PHQ-9 scores are not 
+normally distributed among adults and older adolescents 
+(Burdzovic Andreas & Brunborg, 2017; Tomitaka et al., 
+2018), and that GAD-7 item responses are similarly 
+skewed (Tomitaka & Furukawa, 2021). We confirmed 
+these findings among our cohort of early adolescents. 
+Neither the PHQ-9 (p  < 10
+−5, Shapiro-Wilk test) nor the 
+GAD (p < 10−6, Shapiro-Wilk test) sum scores were con-
+sistent with a Gaussian distribution (Figure 1a). PHQ-9A 
+sum scores ranged from 0 to 23, with median 3.4 (IQR 
+6.5); GAD-10 sum scores ranged from 0 to 36, with 
+median 5.0 (IQR 9.5) Prior studies have also shown strong 
+correlations between the PHQ-9 and GAD-7 among adults 
+(Kroenke et al., 2016) and adolescents (Leung et al., 
+2020). We confirmed that PHQ-9A and GAD-10 scores 
+were highly correlated among our cohort (Figure 1b, 
+Pearson’s r
+2 = .76). This indicates that over three quarters 
+of the variation in PHQ-9A scores can be explained by 
+variation in GAD-10 scores. The correlations remained 
+strong for male and female participants analyzed sepa-
+rately (Figure 1b, r
+2 = .76 for females, r2 = .74 for males).
+Gender differences in PHQ-9 and GAD scores
+Females consistently report higher levels of depression 
+than males (Salk et al., 2017). In fact, gender disparities in 
+depression have widened among adolescents in the United 
+States in the past decade (Daly, 2022). We confirmed in 
+this cohort of early adolescents that PHQ-9A scores were 
+higher for females than males (p = .002, Mann Whitney 
+test), with a difference in medians of 4 points (Figure 2). 
+Similarly, GAD-10 scores were higher for females than 
+males (p = .016, Mann Whitney test), with a difference in 
+medians of 3 points (Figure 2).
+Table 1. Sociodemographic characteristics of student 
+participants. (N = 75).
+Characteristics N %
+Sex
+ Female 38 50.7
+ Male 37 49.3
+Age (# of years)
+ Mean (SD) 11.2 (0.74)
+ Range 10–14
+Grade Level
+ Mean (SD) 6.21 (0.58)
+ Range 6–8
+Ethnic Background*
+ Mexican-Descent 41 54.7
+ Euro-American 32 42.7
+ African American/Black 10 13.3
+ Central American 5 6.7
+ Pacific Islander 4 5.3
+ South Asian 3 4.0
+ East Asian 3 4.0
+ Native American 2 2.7
+Household Type
+ Parental, both biological parents 34 45.3
+ Parental, one biological parent 20 26.7
+ Alternating households (parent, 
+grandparent)
+13 17.3
+ Parental (one biological & one 
+step-parent)
+7 9.3
+ Extended Family 1 1.3
+*Total exceeds 100% as students may identify a mix of ethnic origin or 
+geographic region. This abbreviated table oversimplifies the complexity 
+of possible combinations.
+Table 2. Student PHQ-9A and GAD-10 responses (N = 75).
+Student PHQ 9-A responses
+N %
+PHQ-9A ranges
+ None (0–4) 42 56
+ Mild (5–9) 17 22.6
+ Moderate (10–14) 12 16
+ Moderately severe (15–19) 2 2.7
+ Severe (20–27) 2 2.7
+Student GAD-10 responses
+N %*
+GAD-10 ranges
+ None (0–4.90) 37 49.3
+ Mild (5.00–14.90) 24 32
+ Moderate (15.00–24.90) 10 13.3
+ Severe (25.00–34.90) 3 4
+ Extreme (35.00–40.00) 1 1.3
+*Due to rounding, percentage does not equal 100%.
+788 International Journal of Social Psychiatry 69(3)
+Male
+Female
+(a) 0.4 0.5
+0.3 0.4
+0.3
+0.2
+0.2
+0.1 0.1
+0.0
+04 81 2 16 20 24
+0.0 01 02 03 04 0
+PHQ-9 Score
+24
+20
+GAD Score
+16
+12
+8
+4
+0
+01 02 03 04 0
+GAD score
+Fraction of participantsPHQ-9 score
+Fraction of participants
+(b)
+Figure 1. PHQ-9A and GAD-10 response distributions: (a) histograms of sum scores for the PHQ-9A and GAD-10 across all 
+participants and (b) scatter plot of PHQ-9A versus GAD-10 sum scores for all male (purple) and female (green) participants.
+GADs um score
+24 40
+20
+30
+16
+12 20
+8
+10
+4
+0
+Male Female
+0
+Male Female
+PHQ-9 s um score
+Figure 2. Female adolescents have higher PHQ-9A and GAD-10 sum scores than males: (a) box plots of PHQ-9A sum scores 
+for male and female participants and (b) box plots of the GAD-10 sum scores for male and female participants. For a & b, boxes 
+show median and interquartile range (IQR); whiskers extend to extend to the last datum within 1.5 IQR outside the first and third 
+quartiles; points outside of this range are represented as outliers.
+Jenkins et al. 789
+Gender differences in specific PHQ-9 and GAD 
+items
+Items were sorted in decreasing order of normalized mean 
+difference (Figure 3), and two-sided t-tests were computed to 
+evaluate group difference. To control for multiple compari-
+sons, Bonferroni correction was applied with an alpha of 
+0.05, which sets the significance level to 0.05 divided by the 
+number of comparisons. Of note, the total number of com-
+parisons was 10 for the GAD-10, as we only compared the 
+maximum response to the seven coping questions in accord-
+ance with existing GAD-10 research studies that utilize a 
+composite item #10. Thus, significance was defined as 
+p < .006 for PHQ-9A items and p < .005 for GAD-10 items. 
+Females had higher mean responses on three items of the 
+PHQ-9A after controlling for multiple comparisons (p < .006, 
+two-sided t-test). This included the item concerning depressed 
+mood (DEPRSD), one of two core symptoms required for a 
+diagnosis of depression according to the DSM and ICD crite-
+ria. The other two significant question items concern feeling 
+tired or having low energy (TIRED), and feeling bad about 
+yourself or like a failure (FAILUR). The normalized differ-
+ences for the TIRED, FAILUR, and DEPRSD items were 
+5.18, 4.35, and 4.33, respectively. This indicates that the mean 
+responses on these items were 4 to 5 standard errors higher 
+for females than males. The item concerning poor sleep 
+(SLEEP) showed strong trend level differences (p  = .018, 
+two-sided t-test) with normalized difference of 3.4, but this 
+item failed to reach significance after Bonferroni correction.
+Females had higher mean responses on only one ques-
+tion item in the GAD-10 after controlling for multiple 
+comparisons (p < .005, two-sided t-test). This question 
+concerns feeling moments of sudden terror or fright 
+(TERROR), which had a normalized mean difference of 
+4.5, indicating mean responses 4.5 standard errors higher 
+for females than males. The core diagnostic item concern-
+ing feeling anxious, worried, or nervous (ANXTY) showed 
+a strong trend level differences (p = .017, two-sided t-test) 
+with a normalized mean difference of 3.5, though this item 
+was not significant after Bonferroni correction. Trend level 
+differences were higher for females on all 10 items of the 
+GAD-10, and for 8 of 9 items of the PHQ-9A.
+* Female
+Male
+1.50
+1.25
+1.00
+0.75
+0.50
+0.25
+0
+1.6
+1.4
+1.2
+1.0
+0.8
+0.6
+0.4
+0.2
+PHQ-9i tem
+GAD item
+** * Female
+Male
+naeMi tem esnopsernaeMi tem esnopser
+(a)
+(b)
+Figure 3. Gender difference in specific PHQ-9A and GAD-10 items: (a) mean item responses and standard errors for all nine 
+items of the PHQ-9A for female (green) and male (purple) participants and (b) mean item responses and standard errors for all 10 
+items of the GAD for female (green) and male (purple) participants. For (a) and (b) items are sorted on x-axis in decreasing order 
+of normalized mean difference between males and females, defined as the difference in means divided by the average standard error.
+790 International Journal of Social Psychiatry 69(3)
+Discussion
+Age-specific findings in depression and anxiety
+We find that 44% of adolescents in our study fall in the mild 
+to severe range of the PHQ-9A depression screening scale, 
+while the GAD-10 responses suggest that approximately 
+half (50.6%) of adolescents fall in the mild to extreme anxi-
+ety screening range. Given that this is a non-clinical, 
+school-based study, our results indicate that screening for 
+these common mental health-related items could be impor-
+tant for the early identification of distress that may continue 
+or become exacerbated beyond age 11. Our study is one of 
+the few we could identify that specifically target this earlier 
+adolescence age group. In comparing our results with exist-
+ing studies that utilize the PHQ-9A, and which report 
+scores within lower and narrower age ranges, our findings 
+are lower than those reported among school-based Pakistani 
+children (at 66.8%) (Naveed et al., 2019), yet higher than 
+the 13.2% depression scores among 10 to 12 years-old stu-
+dents in South West Nigeria (Oderinde et al., 2018). 
+Although the GAD-7 is used in clinical and research set-
+tings for screening of anxiety symptoms, the GAD-10 mod-
+ified for use with adolescents to date has not been widely 
+applied in screenings for research on adolescent prevalence 
+of anxiety symptoms.
+Gender, depression/anxiety, and mental health 
+care
+In light of studies of adult and older adolescent popula-
+tions that find higher levels of depression and anxiety 
+among women and girls (Beesdo-Baum & Knappe, 2012; 
+Jenkins & Csordas, 2020; Nolen-Hoeksema, 1990; Seedat 
+et al., 2009), we hypothesized that girls in this study would 
+score higher on these assessments even at the lower range 
+(mean age 11 years) of what is typically classified as ‘ado-
+lescence’. Thus far, empirical study of age-specific rather 
+than a broad age-range for adolescence has yet to be under-
+taken. While screening instruments such as those used 
+here for depression and anxiety in no way constitute a 
+clinical diagnosis of a syndrome, the presence of symp-
+toms even at subsyndromal levels suggests that the observ-
+able onset of depression and anxiety may occur earlier 
+than previously thought. Risk of major depressive disorder 
+is considered low in childhood, and when it does occur, 
+this has been in the absence of gender differences (Kazdin, 
+1993; Lewinsohn et al., 1994). Longitudinal studies show 
+that subsyndromal symptoms of depression in early life 
+may predict the future development of major depressive 
+disorders (Uchida et al., 2021).
+Psychiatric, epidemiologic, and anthropological studies 
+suggest multiple factors as possible explanations for higher 
+rates of depression, including developmental, psychologi-
+cal, biological, and sociocultural processes (Jenkins & 
+Csordas, 2020; Kuehner, 2017; Riecher-Rössler, 2017). 
+Sex variation in depression may commence with morpho-
+logical and endocrinological changes in early adolescence 
+(Cyranowski et al., 2000; Nolen-Hoeksema, 1990; 
+Petersen et al., 1991; Piccinelli & Wilkinson, 2000). The 
+onset of symptoms of anxiety may begin earlier in the life 
+course, frequently preceding or co-occurring with depres-
+sive symptoms (Beesdo et al., 2010; Strawn et al., 2021). A 
+frequently cited factor utilized to explain the emergence of 
+depressive and anxiety-related symptoms entails bodily 
+development that may be perceived negatively in compari-
+son to peers, particularly among adolescent girls 
+(Blakemore, 2019). Genetics have also been explored, 
+though specific markers for depression and anxiety risk 
+have yet to be identified (Li & Graham, 2017).
+Another critical concern is the impact of widespread 
+sociocultural gender inequity and gender-based violence 
+since girls and women are more frequently exposed to 
+childhood sexual abuse and assault (Oram et al., 2017; 
+Stoltenborgh et al., 2015). Based upon our ethnographic 
+interviews and observations, we consider several factors as 
+of likely relevance for adolescent girls’ experiences of 
+depression and anxiety. Gender-based violence, particu-
+larly in a school and community setting, involving extant 
+insecurity is a prominent feature of the socio-structural 
+environment of the research participants. Girls in our study 
+report having experienced or witnessed sexual assault at 
+home, and/or school settings, hearing or receiving sexually 
+based or derogatory remarks on girls’ bodies online via 
+social media and at school, and/or recount instances of 
+being attacked by peers resulting in school fights. The 
+heighted risk of gender-based violence in both school and 
+home environments extends also to adolescents who may 
+be questioning their sexual and gender identities. Within 
+familial settings, psychosocial features of the home atmos-
+phere are also of key relevance. Within our study, we 
+observed that a notable feature within home environments 
+for girls who endorsed depression and anxiety (to any 
+degree, mild to severe), was criticism by family members 
+(parents, siblings, grandparents) directed toward girls’ 
+bodily appearance (e.g. weight), academic performance, 
+along with cultural attributions of laziness or lack of moti-
+vation in accomplishing tasks. Additionally, girls often 
+worry about the possibility of being abandoned by friends, 
+loved ones, or significant others based upon their experi-
+ences of loss and grief in the context of the COVID-19 
+pandemic. Among the large proportion of our sample who 
+maintain cross-border ties with Mexico, the dread of 
+deportation of relatives, border closures, and heightened 
+discrimination and racism in their school and community 
+settings creates additional sources of fear and uncertainty 
+in their everyday milieu.
+With respect to seeking mental healthcare, some stu-
+dents in the study had sought services with or without a 
+referral from a school counselor. Generally, there was lim-
+ited available care and significant social stigma attached to 
+Jenkins et al. 791
+the use of mental healthcare services by students and par -
+ents alike. Also important to note for the United States, 
+often imagined as a wealthy country with multiple 
+resources, is the reality of severely limited or unavailable 
+mental healthcare services for many. Ever-increasing 
+social inequity within the country most affects low-income 
+communities, such as described in this study. This struc-
+tural problem points to the recent observation (WHO, 
+2022b) that:
+‘Even before the COVID-19 pandemic, just a small fraction of 
+people in need had access to effective, affordable, and quality 
+mental health care. . . For depression, the gaps in service 
+coverage are wide across all countries: even in high-income 
+countries, only one third of people with depression receive 
+formal mental health care and minimally-adequate treatment 
+for depression is estimated to range from 23% in high-income 
+countries to 3% in low- and lower-middle-income countries’.
+Indeed, recent rankings by the Global Burden of Disease 
+group (GBD 2019 Mental Disorders Collaborators, 2022) 
+for ‘disability-adjusted life years’ show the highest health 
+impacts across three geographic regions: Australasia, 
+Tropical Latin America, and North America. Some of the 
+impacts of structural features affecting these students was 
+mediated by supportive relationships with family and 
+friends, thereby offering a buffer zone from which to fend 
+off or struggle with depressive or anxiety-related feelings, 
+thoughts, and behaviors. Having such support has been 
+associated with academic success or engagement (Benner, 
+2011; Gonzales et al., 2013; Stanton-Salazar, 2001). 
+Moreover, anthropological research documents how unsta-
+ble social environments throughout adolescence can exac-
+erbate the ways that individuals develop self-protective 
+strategies associated with preoccupation or dissociation 
+from multiple forms of familial abuse (Jenkins, 2015).
+Conclusion
+Our data, showing the presence of mild to severe levels of 
+symptoms of depression and anxiety within a non-clinical 
+sample of young middle school students, suggests that 
+research attention is warranted at an earlier age for basic 
+screening procedures. These findings for 11-year-old stu-
+dents are of potential clinical relevance for identification 
+of subsyndromal conditions during early adolescence. 
+Significant gender differences, previously found for older 
+adolescents and adults, were observable in this study. In a 
+middle school setting such as that of the present study, the 
+need to address mental health difficulties, whether mild or 
+severe, is vital to facilitate educational engagement.
+Author contributions
+JHJ is Principal Investigator for the study, responsible for study 
+design and supervision of all aspects of the research. She is the 
+primary author of the article. GS is Research Coordinator and 
+lead researcher for data collection and management; she is also a 
+primary author for this article. EAM completed all computational 
+analyses for this study and is a primary author for write-up of 
+statistical results. NS is a senior ethnographic researcher and 
+assisted with data collection. GU assisted with data collection 
+and management. AJP assisted with data collection and manage-
+ment. All authors have reviewed the manuscript and provided 
+their consent for the publication.
+Conflict of interest
+The author(s) declared no potential conflicts of interest with respect 
+to the research, authorship, and/or publication of this article.
+Funding
+The author(s) disclosed receipt of the following financial support 
+for the research, authorship, and/or publication of this article: 
+The first author received support through grants awarded as PI 
+through the UCSD Frontiers of Innovation Scholar Award # 
+C6009, UCSD Faculty Senate grants 2020-2022.
+ORCID iDs
+Janis H Jenkins  https://orcid.org/0000-0003-4987-3075
+Giselle Sanchez  https://orcid.org/0000-0003-4829-0900
+References
+Aggarwal, S., Taljard, L., Wilson, Z., & Berk, M. (2017). 
+Evaluation of modified patient health questionnaire-9 teen in 
+South African adolescents. Indian Journal of Psychological 
+Medicine, 39(2), 143–145.
+American Academy of Pediatrics, American Academy 
+of Child and Adolescent Psychiatry, and Children’s 
+Hospital Association. (2021). AAP-AACAP-CHA dec-
+laration of a national emergency in child and adoles-
+cent mental health. https://www.aap.org/en/advocacy/
+child-and-adolescent-healthy-mental-development/aap-
+aacap-cha-declaration-of-a-national-emergency-in-child-
+and-adolescent-mental-health/?campaign_id=9&emc=edit_
+nn_20220104&instance_id=49344&nl=the-morning®i_
+id=50495416&segment_id=78602&te=1&user_id=881713
+7e9ec05a2534f85d0b4b455a65
+Anand, P., Bhurji, N., Williams, N., & Desai, N. (2021). 
+Comparison of PHQ-9 and PHQ-2 as screening tools 
+for depression and school related stress in Inner City 
+Adolescents. Journal of Primary Care & Community Health, 
+12, 1–8. https://doi.org/10.1177/21501327211053750
+Ariès, P. (1996). Centuries of childhood: A social history of fam-
+ily life. Pimlico.
+Beesdo-Baum, K., & Knappe, S. (2012). Developmental epi-
+demiology of anxiety disorders. Child and Adolescent 
+Psychiatric Clinics of North America, 21(3), 457–478. 
+https://doi.org/10.1016/j.chc.2012.05.001
+Beesdo, K., Pine, D. S., Lieb, R., & Wittchen, H. U. (2010). 
+Incidence and risk patterns of anxiety and depressive dis-
+orders and categorization of generalized anxiety disorder. 
+Archives of General Psychiatry, 67(1), 47–57.
+Benner, A. D. (2011). The transition to high school: Current 
+knowledge, future directions. Educational Psychology 
+Review, 23(3), 299–328.
+792 International Journal of Social Psychiatry 69(3)
+Blakemore, S.-J. (2019). Adolescence and mental health. 
+Lancet, 393(10185), 2030–2031. https://doi.org/10.1016/
+s0140-6736(19)31013-x
+Burdzovic Andreas, J., & Brunborg, G. S. (2017). Depressive 
+symptomatology among Norwegian adolescent boys and 
+girls: The patient health Questionnaire-9 (PHQ-9) psycho-
+metric properties and correlates. Frontiers in Psychology, 8, 
+887–898. https://doi.org/10.3389/fpsyg.2017.00887
+Cohen, P., Cohen, J., & Brook, J. (1993). An epidemio-
+logical study of disorders in late childhood and ado-
+lescence–ii. Persistence of disorders. Journal of Child 
+Psychology and Psychiatry, 34(6), 869–877. https://doi.
+org/10.1111/j.1469-7610.1993.tb01095.x
+Correll, C. U., Galling, B., Pawar, A., Krivko, A., Bonetto, C., 
+Ruggeri, M., Craig, T. J., Nordentoft, M., Srihari, V. H., 
+Guloksuz, S., Hui, C. L. M., Chen, E. Y. H., Valencia, M., 
+Juarez, F., Robinson, D. G., Schooler, N. R., Brunette, M. 
+F., Mueser, K. T., Rosenheck, R. A., . . . Kane, J. M. (2018). 
+Comparison of early intervention services vs treatment as 
+usual for early-phase psychosis: A systematic review, meta-
+analysis, and meta-regression. JAMA Psychiatry, 75(6), 555–
+565. https://doi.org/10.1001/jamapsychiatry.2018.0623
+Cortez, A. B., Wilkins, J., Handler, E., Lerner, M. A., Burchette, 
+R., & Wissow, L. S. (2021). Multistage adolescent depres-
+sion screening: A comparison of 11-year-olds to 12-year-
+olds. The Permanente Journal, 25, 1–8. https://doi.
+org/10.7812/TPP/20.233
+Craske, M., Wittchen, U., Bogels, S., Stein, M., Andrews, G., 
+& Lebeu, R. (2013). Severity measure for separation 
+anxiety disorder—child age 11–17. American Psychiatric 
+Association.
+Csordas, T. J., Dole, C., Tran, A., Strickland, M., & Storck, M. 
+G. (2010). Ways of asking, ways of telling: A methodologi-
+cal comparison of ethnographic and Research Diagnostic 
+Interviews. Culture Medicine and Psychiatry, 34, 29–55.
+Cyranowski, J. M., Frank, E., Young, E., & Shear, M. K. (2000). 
+Adolescent onset of the gender difference in lifetime rates 
+of major depression: A theoretical model. Archives of 
+General Psychiatry, 57(1), 21–27. https://doi.org/10.1001/
+archpsyc.57.1.21
+Daly, M. (2022). Prevalence of depression among adolescents in 
+the US from 2009 to 2019: Analysis of trends by sex, race/
+ethnicity, and income. Journal of Adolescent Health, 70(3), 
+496–499.
+Flores, Y. G. (2013). Chicana and chicano mental health: Alma, 
+Mente Y Corazón. University of Arizona Press.
+Fusar-Poli, P., McGorry, P. D., & Kane, J. M. (2017). Improving 
+outcomes of first-episode psychosis: An overview. World 
+Psychiatry, 16(3), 251–265. https://doi.org/10.1002/wps.20446
+Garber, J., & Weersing, V. R. (2010). Comorbidity of anxiety 
+and depression in youth: Implications for treatment and pre-
+vention. Clinical Psychology Science and Practice, 17(4), 
+293–306.
+GBD 2019 Mental Disorders Collaborators. (2022). Global, 
+regional, and national burden of 12 mental disorders in 204 
+countries and territories, 1990-2019: A systematic analysis 
+for the Global Burden of Disease Study 2019. The Lancet 
+Psychiatry, 9(2), 137–150. https://doi.org/10.1016/S2215-
+0366(21)00395-3
+Gonzales, R. G., Suárez-Orozco, C., & Dedios-Sanguineti, M. 
+C. (2013). No place to belong: Contextualizing concepts 
+of mental health among undocumented immigrant youth 
+in the United States. American Behavioral Scientist, 57(8), 
+1174–1199.
+Hannah, S. (2011). Cultural environments of hyperdiversity. 
+In M.-J. DelVecchio Good, S. S. Willen, S. D. Hannah, 
+K. Vickery & L. Taeseng Park (Eds.), Shattering culture: 
+American medicine responds to cultural diversity (pp. 31–
+34). Russell SAGE Foundation.
+Huang, H. C., & Ougrin, D. (2021). Impact of the COVID-
+19 pandemic on child and adolescent mental health ser-
+vices. BJPsych Open, 7(5), e145. https://doi.org/10.1192/
+bjo.2021.976
+Jenkins, J. H. (2015). Extraordinary conditions: Culture and 
+experience in mental illness. University of California Press.
+Jenkins, J. H., & Csordas, T. J. (2020). Troubled in the land of 
+enchantment: Adolescent experience of psychiatric treat-
+ment. University of California Press.
+Johnson, J. G., Harris, E. S., Spitzer, R. L., & Williams, J. B. 
+(2002). The patient health questionnaire for adolescents: 
+Validation of an instrument for the assessment of mental 
+disorders among adolescent primary care patients. Journal 
+of Adolescent Health, 30(3), 196–204.
+Kazdin, A. E. (1993). Adolescent mental health: Prevention and 
+treatment programs. American Psychologist, 48(2), 127–
+141. https://doi.org/10.1037/0003-066X.48.2.127
+Kessler, R. C., Aguilar-Gaxiola, S., Alonso, J., Chatterji, S., Lee, 
+S., Ormel, J., Ustün, T. B., & Wang, P. S. (2009). The global 
+burden of mental disorders: An update from the WHO 
+World Mental Health (WMH) Surveys. Epidemiologia E 
+Psichiatria Sociale, 18(1), 23–33. https://doi.org/10.1017/
+s1121189x00001421
+Kieling, C., Baker-Henningham, H., Belfer, M., Conti, G., Ertem, 
+I., Omigbodun, O., Rohde, L. A., Srinath, S., Ulkuer, N., 
+& Rahman, A. (2011). Child and adolescent mental health 
+worldwide: Evidence for action. Lancet, 378(9801), 1515–
+1525.
+Kroenke, K., Wu, J., Yu, Z., Bair, M. J., Kean, J., Stump, T., 
+& Monahan, P. O. (2016). The patient health questionnaire 
+anxiety and depression scale (PHQ-ADS): Initial valida-
+tion in three clinical trials. Psychosomatic Medicine, 78(6), 
+716–727.
+Kuehner, C. (2017). Why is depression more common among 
+women than among men? The Lancet Psychiatry, 4(2), 
+146–158.
+Leung, D. Y. P., Mak, Y. W., Leung, S. F., Chiang, V. C. L., & 
+Loke, A. Y. (2020). Measurement invariances of the PHQ-9 
+across gender and age groups in Chinese adolescents. Asia-
+Pacific Psychiatry, 12(3), e12381.
+Lewinsohn, P. M., Clarke, G. N., Seeley, J. R., & Rohde, P. 
+(1994). Major depression in community adolescents: Age at 
+onset, episode duration, and time to recurrence. Journal of 
+the American Academy of Child and Adolescent Psychiatry, 
+33(6), 809–818.
+Li, S. H., & Graham, B. M. (2017). Why are women so vulner-
+able to anxiety, trauma-related and stress-related disorders? 
+The potential role of sex hormones. The Lancet Psychiatry, 
+4(1), 73–82.
+Mansfield, R., Santos, J., Deighton, J., Hayes, D., Velikonja, 
+T., Boehnke, J. R., & Patalay, P. (2022). The impact of 
+the COVID-19 pandemic on adolescent mental health. 
+Department for Education Report. https://discovery.ucl.
+Jenkins et al. 793
+ac.uk/id/eprint/10146370/1/The_impact_of_the_COVID-
+19_pandemic_on_adolescent_mental_health.pdf
+Mossman, S. A., Luft, M. J., Schroeder, H. K., Varney, S. T., 
+Fleck, D. E., Barzman, D. H., Gilman, R., DelBello, M. 
+P., & Strawn, J. R. (2017). The generalized anxiety disor-
+der 7-item (GAD-7) scale in adolescents with generalized 
+anxiety disorder: Signal detection and validation. Annals of 
+Clinical Psychiatry, 29(4), 227–234A.
+Naveed, S., Waqas, A., Memon, A. R., Jabeen, M., & Sheikh, M. 
+H. (2019). Cross-cultural validation of the Urdu translation 
+of the Patient Health Questionnaire for adolescents among 
+children and adolescents at a Pakistani school. Public 
+Health, 168, 59–66.
+Necho, M., Tsehay, M., Birkie, M., Biset, G., & Tadesse, E. 
+(2021). Prevalence of anxiety, depression, and psycho-
+logical distress among the general population during the 
+COVID-19 pandemic: A systematic review and meta-
+analysis. International Journal of Social Psychiatry, 67(7), 
+892–906.
+Nolen-Hoeksema, S. (1990). Sex differences in depression. 
+Stanford University Press.
+Oderinde, K. O., Dada, M. U., Ogun, O. C., Awunor, N. S., 
+Awunor, N. S., Ahmed, H. K., Tsuung, A. B., Tanko, S. 
+T., & Yusuff, A. A. (2018). Prevalence and predictors of 
+depression among adolescents in Ido Ekiti, south west 
+Nigeria. International Journal of Clinical Medicine, 09(03), 
+187–202.
+Oram, S., Khalifeh, H., & Howard, L. M. (2017). Violence 
+against women and mental health. The Lancet Psychiatry, 
+4(2), 159–170.
+Organization for Economic Development and Cooperation. 
+(2021). Tackling the mental health impact of the COVID-
+19 crisis: An integrated whole-of-society response. https://
+www.oecd.org/coronavirus/policy-responses/tackling-the-
+mental-health-impact-of-the-covid-19-crisis-an-integrated-
+whole-of-society-response-0ccafa0b/
+Petersen, A. C., Sarigiani, P. A., & Kennedy, R. E. (1991). 
+Adolescent depression: Why more girls? Journal of Youth 
+and Adolescence, 20(2), 247–271. https://doi.org/10.1007/
+BF01537611
+Piccinelli, M., & Wilkinson, G. (2000). Gender differences 
+in depression: Critical review. The British Journal of 
+Psychiatry, 177(6), 486–492. https://doi.org/10.1192/
+bjp.177.6.486
+Revet, A., & Kennedy, C. A. (2022). Training & treatment in 
+child mental health services (CAMHS): Novel and collabo-
+rative approaches. Frontiers in Psychiatry, 13, 1–3. https://
+doi.org/10.3389/fpsyt.2022.997647
+Richardson, L. P., McCauley, E., Grossman, D. C., McCarty, C. 
+A., Richards, J., Russo, J. E., Rockhill, C., & Katon, W. 
+(2010). Evaluation of the Patient Health Questionnaire-9 
+item for detecting major depression among adolescents. 
+Pediatrics, 126(6), 1117–1123. https://doi.org/10.1542/
+peds.2010-0852
+Riecher-Rössler, A. (2017). Sex and gender differences in mental 
+disorders. The Lancet Psychiatry, 4(1), 8–9.
+Rutter, M., & Stevenson, J. (2008). Developments in child and 
+adolescent psychiatry over the last 50 years. In M. Rutter, 
+D. Bishop, D. Pine, S. Scott, J. Stevenson, E. Taylor & A. 
+Thapar (Eds.), Rutter’s child and adolescent psychiatry (pp. 
+3–17). Wiley Blackwell.
+Salk, R. H., Hyde, J. S., & Abramson, L. Y. (2017). Gender dif-
+ferences in depression in representative national samples: 
+Meta-analyses of diagnoses and symptoms. Psychological 
+Bulletin, 143(8), 783–822.
+Samji, H., Wu, J., Ladak, A., Vossen, C., Stewart, E., Dove, 
+N., Long, D., & Snell, G. (2022). Review: Mental health 
+impacts of the COVID-19 pandemic on children and youth 
+- a systematic review. Child and Adolescent Mental Health, 
+27(2), 173–189. https://doi.org/10.1111/camh.12501
+Seedat, S., Scott, K. M., Angermeyer, M. C., Berglund, 
+P., Bromet, E. J., Brugha, T. S., Demyttenaere, K., de 
+Girolamo, G., Haro, J. M., Jin, R., Karam, E. G., Kovess-
+Masfety, V., Levinson, D., Medina Mora, M. E., Ono, Y., 
+Ormel, J., Pennell, B. E., Posada-Villa, J., Sampson, N. 
+A., . . . Kessler, R. C. (2009). Cross-national associations 
+between gender and mental disorders in the World Health 
+Organization World Mental Health Surveys. Archives of 
+General Psychiatry, 66(7), 785–795.
+Seligman, L. D., & Ollendick, T. H. (1998). Comorbidity of anxi-
+ety and depression in children and adolescents: An integra-
+tive review. Clinical Child and Family Psychology Review, 
+1(2), 125–144.
+Solmi, M., Radua, J., Olivola, M., Croce, E., Soardo, L., Salazar 
+de Pablo, G., Il Shin, J., Kirkbride, J. B., Jones, P., Kim, 
+J. H., Kim, J. Y., Carvalho, A. F., Seeman, M. V., Correll, 
+C. U., & Fusar-Poli, P. (2022). Age at onset of mental dis-
+orders worldwide: Large-scale meta-analysis of 192 epide-
+miological studies. Molecular Psychiatry, 27(1), 281–295. 
+https://doi.org/10.1038/s41380-021-01161-7
+Stanton-Salazar, R. D. (2001). Manufacturing hope and despair: 
+The school and kin support networks of US-Mexican youth. 
+Teachers College Press.
+Stoltenborgh, M., Bakermans-Kranenburg, M. J., Alink, L. R. A., 
+& van IJzendoorn, M. H. (2015). The prevalence of child 
+maltreatment across the globe: Review of a series of meta-
+analyses. Child Abuse Review, 24(1), 37–50.
+Strawn, J. R., Lu, L., Peris, T. S., Levine, A., & Walkup, J. T. 
+(2021). Research review: Pediatric anxiety disorders - 
+what have we learnt in the last 10 years? Journal of Child 
+Psychology and Psychiatry, 62(2), 114–139. https://doi.
+org/10.1111/jcpp.13262
+Tiirikainen, K., Haravuori, H., Ranta, K., Kaltiala-Heino, R., 
+& Marttunen, M. (2019). Psychometric properties of the 
+7-item Generalized Anxiety Disorder Scale (GAD-7) 
+in a large representative sample of Finnish adolescents. 
+Psychiatry Research, 272, 30–35. https://doi.org/10.1016/j.
+psychres.2018.12.004
+Tomitaka, S., & Furukawa, T. A. (2021). The GAD-7 and the 
+PHQ-8 exhibit the same mathematical pattern of item 
+responses in the general population: Analysis of data from 
+the National Health Interview Survey. BMC Psychology, 
+9(1), 149.
+Tomitaka, S., Kawasaki, Y., Ide, K., Akutagawa, M., Yamada, 
+H., Ono, Y., & Furukawa, T. A. (2018). Distributional pat-
+terns of item responses and total scores on the PHQ-9 in 
+the general population: Data from the National Health and 
+Nutrition Examination Survey. BMC Psychiatry, 18(1), 108.
+794 International Journal of Social Psychiatry 69(3)
+Torales, J., O’Higgins, M., Castaldelli-Maia, J. M., & 
+Ventriglio, A. (2020). The outbreak of COVID-19 corona-
+virus and its impact on global mental health. International 
+Journal of Social Psychiatry, 66(4), 317–320. https://doi.
+org/10.1177/0020764020915212
+Tsai, F.-J., Huang, Y.-H., Liu, H.-C., Huang, K.-Y., Huang, 
+Y.-H., & Liu, S.-I. (2014). Patient Health Questionnaire 
+for school-based depression screening among Chinese 
+adolescents. Pediatrics, 133(2), e402–e409. https://doi.
+org/10.1542/peds.2013-0204
+Uchida, M., Hirshfeld-Becker, D., DiSalvo, M., Rosenbaum, J., 
+Henin, A., Green, A., & Biederman, J. (2021). Further evidence 
+that subsyndromal manifestations of depression in childhood 
+predict the subsequent development of major depression: A 
+replication study in a 10 year longitudinally assessed sample. 
+Journal of Affective Disorders, 287, 101–106.
+United States Department of Health and Human Services. 
+(2021, December 7). US surgeon general issues advisory 
+on youth mental health crisis further exposed by COVID-
+19 pandemic. https://www.hhs.gov/about/news/2021/12/07/
+us-surgeon-general-issues-advisory-on-youth-mental-
+health-crisis-further-exposed-by-covid-19-pandemic.html
+United States Preventative Task Force. (2022). Screening for 
+anxiety, depression, and suicide risk in children and ado-
+lescents. https://www.aafp.org/news/health-of-the-public/
+uspstf-anxiety-depression-suicide.html
+Walter, H. J., Bukstein, O. G., Abright, A. R., Keable, H., 
+Ramtekkar, U., Ripperger-Suhler, J., & Rockhill, C. (2020). 
+Clinical Practice guideline for the assessment and treat-
+ment of children and adolescents with anxiety disorders. 
+Journal of the American Academy of Child & Adolescent 
+Psychiatry, 59(10), 1107–1124. https://doi.org/10.1016/j.
+jaac.2020.05.005
+World Health Organization. (2022a, March 2). COVID-19 pan-
+demic triggers 25% increase in prevalence of anxiety and 
+depression worldwide. https://www.who.int/news/item/02-
+03-2022-covid-19-pandemic-triggers-25-increase-in-
+prevalence-of-anxiety-and-depression-worldwide
+World Health Organization. (2022b, June 17). WHO highlights 
+urgent need to transform mental health and mental health 
+care. https://www.who.int/news/item/17-06-2022-who-
+highlights-urgent-need-to-transform-mental-health-and-
+mental-health-care
+Yalın Sapmaz, Ş., Özek Erkuran, H., Ergin, D., Öztürk, M., Şen 
+Celasin, N., Karaarslan, D., & Aydemir. (2018). Validity and 
+reliability of the Turkish version of the DSM-5 Generalized 
+Anxiety Disorder Severity Scale for children aged 11–17 
+years. Turkish Journal of Medical Sciences, 48(1), 74–79.

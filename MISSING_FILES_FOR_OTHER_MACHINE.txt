@@ -1,0 +1,107 @@
+================================================================================
+DANH SÁCH FILE/THƯ MỤC CẦN COPY TỪ MÁY KIA → MÁY NÀY
+================================================================================
+Sinh ngày: 2026-05-14 17:19
+So sánh với: PROJECT_INVENTORY_13052026.md (máy kia, 13/05/2026)
+Máy hiện tại: c:\Users\HLC\OneDrive\read_books\Lo-au
+
+HƯỚNG DẪN SỬ DỤNG:
+  Gửi file này cho máy kia. Máy kia gom các file/thư mục theo danh sách,
+  nén lại (zip/7z) và copy về máy này theo đường dẫn tương đối tương ứng.
+
+--------------------------------------------------------------------------------
+TỔNG KẾT
+--------------------------------------------------------------------------------
+  Tổng file thiếu trên máy này:  30
+  Tổng file thừa trên máy này:   28 (máy kia không có)
+
+PHÂN BỔ THEO THƯ MỤC GỐC:
+  02_Papers-goc                                        30 file
+
+================================================================================
+DANH SÁCH FILE THIẾU CHI TIẾT
+================================================================================
+
+## ƯU TIÊN 1 — CRITICAL — PDF gốc tài liệu (02_Papers-goc/)
+  (30 file)
+
+  [02_Papers-goc/Chua-phan-loai/]
+    02_Papers-goc/Chua-phan-loai/Bhardwaj_2020_Chandigarh_DASS21.pdf    (326.0KB, mod 2026-03-24)
+    02_Papers-goc/Chua-phan-loai/CBT_Delivery_GAD_TranslPsych_2025.pdf    (1.1MB, mod 2026-03-24)
+    02_Papers-goc/Chua-phan-loai/Chen_2023_Chinese_SecondarySchool_BMCPsych.pdf    (1023.1KB, mod 2026-03-24)
+    02_Papers-goc/Chua-phan-loai/Chronic_Stress_Neuroinflammation_FrontPsych_2023.pdf    (1.8MB, mod 2026-03-24)
+    02_Papers-goc/Chua-phan-loai/Epigenetics_Childhood_Maltreatment_TranslPsych_2021.pdf    (886.3KB, mod 2026-03-24)
+    02_Papers-goc/Chua-phan-loai/HoangTrungHoc_2025_COVID_VN.pdf    (22.0B, mod 2026-03-29)
+    02_Papers-goc/Chua-phan-loai/Indonesia_Adolescent_MH_2024.pdf    (813.2KB, mod 2026-03-28)
+    02_Papers-goc/Chua-phan-loai/Korea_Adolescent_MH_Trends_2024.pdf    (1.9MB, mod 2026-03-28)
+    02_Papers-goc/Chua-phan-loai/Microbiota_GutBrain_Anxiety_2024_FrontNeuro.pdf    (1.3MB, mod 2026-03-24)
+    02_Papers-goc/Chua-phan-loai/Mindfulness_Nature_MentalHealth_2023.pdf    (2.6MB, mod 2026-03-24)
+    02_Papers-goc/Chua-phan-loai/Nakie_2022_Ethiopia_HighSchool_BMCPsych.pdf    (782.6KB, mod 2026-03-24)
+    02_Papers-goc/Chua-phan-loai/Neural_Circuits_Mechanisms_Anxiety_2025_FrontNeuralCirc.pdf    (3.3MB, mod 2026-03-24)
+    02_Papers-goc/Chua-phan-loai/Neuroinflammation_Neuromodulation_TranslPsych_2022.pdf    (881.6KB, mod 2026-03-24)
+    02_Papers-goc/Chua-phan-loai/NgoAnhVinh_2024_DTTS_LangSon.pdf    (813.2KB, mod 2026-03-28)
+    02_Papers-goc/Chua-phan-loai/PIIS2468266725000982.pdf    (1.3MB, mod 2026-03-27)
+    02_Papers-goc/Chua-phan-loai/Pham_2024_QualityCare_VN_Adolescents.pdf    (6.9KB, mod 2026-03-28)
+    02_Papers-goc/Chua-phan-loai/Pharmacotherapy_Anxiety_2020_Frontiers.pdf    (527.9KB, mod 2026-03-24)
+    02_Papers-goc/Chua-phan-loai/Qiu_2022_ParentingStyle_Resilience_FrontPsych.pdf    (651.3KB, mod 2026-03-24)
+    02_Papers-goc/Chua-phan-loai/SchoolFactors_VN_Anxiety_2021.pdf    (16.0B, mod 2026-03-29)
+    02_Papers-goc/Chua-phan-loai/Social_Anxiety_Young_People_7Countries_2020_PLOSONE.pdf    (1.4MB, mod 2026-03-24)
+    02_Papers-goc/Chua-phan-loai/VNAMHS-Report_Eng_15-Feb-2023.pdf    (1.7MB, mod 2026-03-27)
+    02_Papers-goc/Chua-phan-loai/VN_Hue_LoAu_TramCam_VTN_2025.pdf    (745.5KB, mod 2026-03-28)
+    02_Papers-goc/Chua-phan-loai/VN_PNT_DASS_THPT_2025.pdf    (541.9KB, mod 2026-03-28)
+    02_Papers-goc/Chua-phan-loai/VN_TPHCM_DASS_THPT_2024.pdf    (1.2MB, mod 2026-03-28)
+    02_Papers-goc/Chua-phan-loai/Wen_2020_LPA_Anxiety_Rural_China.pdf    (1.1MB, mod 2026-03-24)
+    02_Papers-goc/Chua-phan-loai/fpubh-12-1232856.pdf    (178.3KB, mod 2026-03-27)
+    02_Papers-goc/Chua-phan-loai/journal.pone.0316825.pdf    (1.1MB, mod 2026-03-27)
+
+  [02_Papers-goc/Chua-phan-loai/Viet-nam/]
+    02_Papers-goc/Chua-phan-loai/Viet-nam/16.-NguyenThiVan.pdf    (628.1KB, mod 2026-03-25)
+    02_Papers-goc/Chua-phan-loai/Viet-nam/TRANNGUYENNGOC-TamThan.pdf    (2.3MB, mod 2026-03-25)
+
+  [02_Papers-goc/Viet-Nam/]
+    02_Papers-goc/Viet-Nam/2617-Văn bản của bài báo-2387-1-10-20250619 (1).pdf    (228.2KB, mod 2026-04-03)
+
+================================================================================
+PHỤ LỤC — FILE THỪA TRÊN MÁY NÀY (máy kia không có — không cần gom)
+================================================================================
+  (Tổng: 28 file)
+
+  [(root)/]  (10 file)
+    ANTI_FABRICATION_FINAL_REPORT.json
+    Lo-au_sync_to_other_machine_14052026.zip
+    MISSING_FILES_FOR_OTHER_MACHINE.txt
+    PROJECT_INVENTORY_13052026.md
+    bai1_bai2_citations.json
+    final_verification_status.json
+    paper_existence_check.json
+    tom_tat_extraction.json
+    verification_status.json
+    verification_tasks.json
+
+  [01_Bao-cao/]  (2 file)
+    01_Bao-cao/Narrative_Review_OUTLINE_G1.md
+    01_Bao-cao/~$o cao Can thiep tam ly RLLA VTN - 12042026 v5-5.docx
+
+  [06_Scripts/]  (5 file)
+    06_Scripts/anti_turnitin_check.py
+    06_Scripts/build_bai1_KHGDVN.py
+    06_Scripts/build_bai2_KHGDVN.py
+    06_Scripts/build_vjes_rag_kg.py
+    06_Scripts/compare_inventory_14052026.py
+
+  [bai-bao-khgdvn/]  (11 file)
+    bai-bao-khgdvn/01_Bài báo số 1.docx
+    bai-bao-khgdvn/02_Bài báo số 2.docx
+    bai-bao-khgdvn/2. CONG THI HANG VA CS SO 2 THANG 4 - 2026_v2_da_sua_13052026.doc
+    bai-bao-khgdvn/Bai1_YTNC_HSTHCS_v1.docx
+    bai-bao-khgdvn/Bai2_CanThiep_HSTHCS_v1.docx
+    bai-bao-khgdvn/cong_thi_hang_extracted.txt
+    bai-bao-khgdvn/huong-dan-tac-gia-tap-chi-khgdvn/1.Tóm tắt Hướng dẫn dành cho tác giả 2025.pdf
+    bai-bao-khgdvn/huong-dan-tac-gia-tap-chi-khgdvn/3. VJES. Hướng dẫn sắp xếp tài liệu tham khảo.pdf
+    bai-bao-khgdvn/huong-dan-tac-gia-tap-chi-khgdvn/VJES Article Template V06.2025.docx
+    bai-bao-khgdvn/vjes_kg.json
+    bai-bao-khgdvn/vjes_rag.json
+
+================================================================================
+HẾT
+================================================================================

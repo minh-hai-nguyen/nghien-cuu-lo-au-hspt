@@ -1,0 +1,2356 @@
+
+========== PDF idx 57 (journal pg 35) ==========
+3
+EPIDEMIOLOGY 
+ECONOMIC COSTS 
+KEY GAPS 
+DEMAND FOR CARE
+World mental 
+health today
+
+========== PDF idx 58 (journal pg 36) ==========
+Chapter summary
+In this chapter we outline the state of mental health and mental health 
+systems in the world and show that mental health needs are high and 
+that responses are insufficient and inadequate. We present the latest 
+data available on the global prevalence and cost of mental disorders, 
+looking beyond the impact of mortality and disability to also consider 
+the formidable economic and social costs involved. This chapter also 
+highlights the results of WHO’s most recent Mental health atlas to reveal 
+some of the enduring critical gaps in, and barriers to, mental health care 
+around the world. 
+Key messages from this chapter are:
+In all countries, mental disorders are highly 
+prevalent and largely undertreated. 
+Mental disorders are the leading cause 
+of years lived with disability and suicide 
+remains a major cause of death globally. 
+The economic consequences of mental 
+health conditions are enormous, 
+with productivity losses significantly 
+outstripping the direct costs of care.
+Mental health systems all over the world 
+are marked by major gaps in governance, 
+resources, services, information and 
+technologies for mental health.
+Several factors stop people from seeking 
+help for mental health conditions, 
+including limited access to quality 
+services, low levels of health literacy about 
+mental health, and pervasive stigma.
+36
+World mental health report: transforming mental health for all
+
+========== PDF idx 59 (journal pg 37) ==========
+Despite mental health’s critical importance to our health and well-being, too 
+many of us do not get the support we need. In 2019, an estimated one in eight 
+people globally were living with a mental disorder (96). At the same time, the 
+services, skills and funding available for mental health remain in short supply, 
+and fall far below what is needed, especially in LMICs.
+In all countries, mental health conditions are widespread (yet misunderstood) 
+and undertreated, and services to address them are insufficiently resourced 
+(see Fig. 3.1). And, as discussed in Chapter 2 Principles and drivers in public 
+mental health, the various interacting biopsychosocial factors that undermine 
+mental health – ranging from population-wide stressors such as poverty, 
+conflict and social inequalities to individual factors such as low self-worth – 
+will continue to generate threats to mental health for the foreseeable future.
+This chapter presents the latest data available at the time of writing (see Box 
+3.1 Data for assessing world mental health). In most cases, the data pre-date 
+the COVID-19 pandemic, which has greatly exacerbated the risk factors for 
+mental health conditions for many people. The pandemic is sure to impact the 
+prevalence and burden of mental disorders, just as access to mental health 
+services has been compromised (see Chapter 2, In focus: COVID-19 and mental 
+health). A long-term upsurge in the number and severity of mental health 
+conditions worldwide has been anticipated and, as shown below, the most 
+recent global estimates confirm this (97, 69).
+FIG. 3.1
+Mental health conditions are widespread, undertreated and under-resourced
+Source: IHME, 2019 (98); WHO, 2021 (5).
+live with a mental
+health condition
+people with psychosis do not
+receive mental health services 
+of health budgets, on average,
+go to mental health  
+1 in 8
+71%
+WIDESPREAD
+UNDERTREATED
+UNDER-RESOURCED
+2%
+37
+Chapter 3 World mental health today
+
+========== PDF idx 60 (journal pg 38) ==========
+INSIGHT
+BOX 3.1
+Data for assessing world mental health 
+To speak to the broadest group of stakeholders 
+possible, this report generally uses the umbrella 
+term “mental health conditions”, which covers 
+mental disorders, psychosocial disabilities and other 
+mental states associated with significant distress, 
+impairment in functioning, or risk of self-harm. 
+But when describing prevalence rates and global 
+health estimates in this chapter, we refer to “mental 
+disorders” since this term more accurately reflects 
+data that are being collected and reported, and its 
+scope is clearly defined by WHO’s ICD-11. We similarly 
+refer in this chapter to diagnostic categories such as 
+“depressive disorders” or “anxiety disorders”, rather 
+than using the more general terms “depression” and 
+“anxiety” as we do elsewhere in this report.
+Mental disorders are distinct from neurological 
+disorders and substance use disorders. The latter 
+two, while not a focus of this report, are mentioned in 
+this chapter to give a broad picture of the needs that 
+mental health decision-makers often are responsible 
+for in LMICs. 
+Measurement and monitoring of disease incidence, 
+prevalence and mortality as well as disease 
+distribution and determinants within and across 
+populations – the defining features of epidemiology – 
+provide vital information for health service planning, 
+delivery and evaluation. The primary international 
+sources of epidemiological data used in this chapter 
+are WHO’s Global Health Estimates (GHE) and the 
+Global Burden of Diseases, Injuries and Risk Factors 
+Study 2019 (GBD 2019) by the Institute of Health 
+Metrics and Evaluation (IHME). These are closely 
+linked in terms of mental health estimates. Together, 
+they provide point prevalence and associated 
+disease burden estimates for all major categories of 
+communicable and noncommunicable diseases as 
+well as injuries.
+The term ‘burden of disease’ is only used in relation 
+to published epidemiological assessments. This is the 
+standard term used in public health for population-level 
+impact estimates (e.g., disability-adjusted life years, 
+years of life lost to premature mortality and years of 
+healthy life lost to disability).
+Estimates have to be interpreted with caution. These 
+long-standing global studies offer the best available 
+evidence of the extent, distribution and public health 
+impact of mental disorders across age groups, gender 
+and countries (grouped by income or geographical 
+location). But while current estimates incorporate 
+the latest available data and methodological 
+advances in disease modelling, they remain uncertain 
+because of the paucity of epidemiological data for 
+mental disorders in many countries. In particular, 
+estimates are often based on incomplete input data 
+that do not cover all parameters or all countries, 
+and on information that is outdated or poor quality. 
+Moreover, it is important to acknowledge that 
+mental disorders can be conceptualized in different 
+ways across cultures, which raises challenges for 
+measuring them from a particular reference point, 
+such as in the global burden of disease studies.
+38
+World mental health report: transforming mental health for all
+
+========== PDF idx 61 (journal pg 39) ==========
+3.1 Epidemiological overview
+1 This estimate includes people living with schizophrenia, depressive disorders (including dysthymia), anxiety disorders, 
+bipolar disorder, autism spectrum disorders, attention-deficit/hyperactivity disorder, conduct disorder, idiopathic devel-
+opmental intellectual disability, eating disorders and other mental disorders, as covered in the GBD 2019. 
+3.1.1 Prevalence
+Pre-pandemic, in 2019, an estimated 970 million people in the world were 
+living with a mental disorder, 82% of whom were in LMICs (96).1 Between 2000 
+and 2019, an estimated 25% more people were living with mental disorders, 
+but since the world’s population has grown at approximately the same rate 
+the (point) prevalence of mental disorders has remained steady, at around 
+13% (see Fig. 3.2) (99). 
+Additionally, according to various estimates, 283 million people had alcohol 
+use disorders in 2016 (100), 36 million people had drug use disorders in 2019 
+(101), 55 million people had dementia in 2019 (102) and 50 million people had 
+epilepsy in 2015 (9). In many countries mental health care systems are respon-
+sible for the care of people with these conditions.
+970 
+million 
+people globally 
+were living 
+with a mental 
+disorder in 2019.
+39
+Chapter 3 World mental health today
+
+========== PDF idx 62 (journal pg 40) ==========
+FIG. 3.2
+The global prevalence of mental disorders in 2019
+Source: IHME, 2019 (99).
+The prevalence of mental disorders varies with 
+sex and age (see Table 3.1). In both males and 
+females, anxiety disorders and depressive 
+disorders are the two most common mental 
+disorders. Anxiety disorders become prevalent 
+at an earlier age than depressive disorders, 
+which are rare before ten years of age. They 
+continue to become more common in later life, 
+with highest estimates in people between 50 
+and 69. Among adults, depressive disorders are 
+the most prevalent of all mental disorders.
+In 2019, 301 million people globally were living 
+with anxiety disorders; and 280 million were 
+living with depressive disorders (including both 
+major depressive disorder and dysthymia). 
+In 2020, these numbers rose significantly as a 
+result of the COVID-19 pandemic (see Box 3.2 
+Depression and anxiety in times of COVID-19).
+Schizophrenia, which occurs in 24 million 
+people and in approximately 1 in 200 adults 
+(aged 20 years and over), is a primary concern 
+of mental health services in all countries (see 
+Table 3.1). In its acute states, it is the most 
+impairing of all health conditions (see Box 
+3.3 Severity of mental health conditions and 
+the principle of vertical equity) (103). Bipolar 
+disorder, another key concern of mental health 
+services around the world, occurs in 40 million 
+people and approximately 1 in 150 adults 
+globally in 2019 (see Table 3.1). Both disorders 
+primarily affect working-age populations.
+High-income countries
+Upper middle-income countries
+All countries
+Lower middle-income countries
+Low-income countries
+13% of global population is 
+living with mental disorders
+2000 2003 2006 2009 2012
+2018
+2015
+% global population living 
+with a mental disorder
+47.6%
+52.4%
+males
+females
+people living with
+mental disorders
+970 milion
+ Schizophrenia  
+Developmental disorder (idiopathic) 
+ Conduct disorders  
+ Attention-deficit/hyper-activity disorder  
+ Autism spectrum disorders  
+ Eating disorders  
+Anxiety
+disorders
+ Bipolar disorder  
+Depressive
+disorders
+31.0%
+28.9%
+11.1%
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+40
+World mental health report: transforming mental health for all
+
+========== PDF idx 63 (journal pg 41) ==========
+TABLE 3.1
+Prevalence of mental disorders across age and sex (2019)
+Source: IHME, 2019 (96).
+a Includes major depressive disorder and dysthymia.
+b Includes all anxiety disorders and PTSD.
+c Includes anorexia and bulimia nervosa.
+d For more information on developmental disorder and autism spectrum disorders see the forthcoming WHO-UNICEF Report on Developmental 
+Delays and Disabilities.
+e A residual cause within GBD which includes personality disorders.
+Note. These are GBD 2019 data and do not necessarily represent ICD-11 categorization. Blank cells indicate 0.0%. Rates are adjusted for 
+independent comorbidity but not for dependent comorbidity. All prevalence data reflect point prevalence, except for bipolar disorder for which a 
+12-month prevalence was calculated.
+ALL AGES 
+(MILLIONS)
+ALL AGES (%)
+AGE (%)
+AGED 20+ YEARS (%)
+ALL
+MALE FEMALE
+< 5
+5-9
+10-14
+15-19
+20-24 
+25-49
+50-69
+70+
+ALL
+MALE FEMALE
+Mental disorders
+970
+13.0
+12.5
+13.5
+3.0
+7.6
+13.5
+14.7
+14.1
+14.9
+14.7
+13.1
+14.6
+13.4
+15.7
+Schizophrenia
+24
+0.3
+0.3
+0.3
+0.1
+0.3
+0.5
+0.5
+0.2
+0.5
+0.5
+0.4
+Depressive 
+disordersa
+280
+3.8
+3.0
+4.5
+0.1
+1.1
+2.8
+4.0
+4.8
+5.8
+5.4
+5.0
+4.0
+6.0
+Bipolar disorder
+40
+0.5
+0.5
+0.6
+0.2
+0.6
+0.7
+0.7
+0.7
+0.5
+0.7
+0.7
+0.7
+Anxiety disordersb
+301
+4.0
+3.0
+5.0
+0.1
+1.5
+3.6
+4.6
+4.7
+4.9
+4.8
+4.4
+4.8
+3.6
+5.9
+Eating disordersc
+14
+0.2
+0.1
+0.2
+0.1
+0.3
+0.4
+0.3
+0.2
+0.2
+0.3
+Autism spectrum 
+disorders
+28
+0.4
+0.6
+0.2
+0.5
+0.5
+0.5
+0.4
+0.4
+0.4
+0.3
+0.3
+0.3
+0.5
+0.2
+Attention-deficit/
+hyper-activity 
+disorder
+85
+1.1
+1.7
+0.6
+0.2
+2.4
+3.1
+2.4
+1.7
+0.9
+0.3
+0.7
+0.4
+1.1
+Conduct disorder
+40
+0.5
+0.7
+0.4
+1.1
+3.6
+2.1
+Developmental 
+disorder 
+(idiopathic)d
+108
+1.5
+1.5
+1.4
+2.2
+2.3
+2.2
+2.0
+1.8
+1.3
+0.7
+0.4
+1.1
+1.1
+1.1
+Other mental 
+disorderse
+117
+1.6
+1.9
+1.3
+0.1
+0.4
+1.0
+2.2
+2.6
+2.7
+2.2
+2.7
+1.8
+41
+Chapter 3 World mental health today
+
+========== PDF idx 64 (journal pg 42) ==========
+CASE STUDY
+BOX 3.2
+Depression and anxiety in times of COVID-19
+GBD 2020 estimated a substantial increase in 
+depressive and anxiety disorders as a result of the 
+COVID-19 pandemic, taking into account many of the 
+uncertainties around epidemiological estimates of 
+mental disorders in major emergencies.
+Before the pandemic, an estimated 193 million 
+people (2 471 cases per 100 000 population) had 
+major depressive disorder; and 298 million people 
+(3 825 cases per 100 000 population) had anxiety 
+disorders in 2020. After adjusting for the COVID-19 
+pandemic, initial estimates show a jump to 246 
+million (3 153 cases per 100 000 population) for 
+major depressive disorder and 374 million (4 802 
+per 100 000 population) for anxiety disorders. 
+This represents an increase of 28% and 26% for 
+major depressive disorders and anxiety disorders, 
+respectively in just one year.
+In both cases, the countries that were hit hardest by 
+the pandemic had the greatest increases in disorder 
+prevalence. All over the world, there was a greater 
+increase in disorder prevalence among females than 
+among males, likely because females were more 
+likely to be affected by the social and economic 
+consequences of the pandemic. And globally there 
+was also a greater change in prevalence among 
+younger age groups than older ones, potentially 
+reflecting the deep impact of school closures and 
+social restrictions on youth mental health.
+Source: COVID-19 Mental Disorders Collaborators, 2021 (68).
+42
+World mental health report: transforming mental health for all
+
+========== PDF idx 65 (journal pg 43) ==========
+BOX 3.3
+Severity of mental health conditions and the principle of vertical equity
+A key input into the WHO’s Global Health Estimates 
+(GHE) are the so-called "health state weights", which 
+are used to adjust time spent in a particular state of 
+health by its associated level of diminished health or 
+impairment (on a scale of 0 to 1, where 0 denotes full 
+health or no impairment).
+The most impairing state across all health 
+conditions – both in GHE 2019 and GBD 2019 – is 
+acute schizophrenia, which is given a health state 
+weight of 0.78. Put simply, this means an individual 
+experiencing acute schizophrenia is expected to 
+have only one fifth of the health and functioning of 
+a fully healthy person. Severe depressive episode is 
+considered the fifth most impairing health state; and 
+the residual state of schizophrenia is tenth.
+Estimating health state weights can also help to 
+inform discussions around “vertical equity”. This 
+concept means giving more attention to those with 
+greater need. It is distinct from horizontal equity, 
+which is focused on equal access or treatment for 
+equal need (such as ensuring equal access to care 
+in urban and rural areas). Indeed, several countries 
+have explicitly included the severity of a disease 
+or condition as a key criterion for priority-setting. 
+So, from a vertical equity perspective, care for 
+schizophrenia and other severe mental health 
+conditions, including severe episodes of depressive 
+disorder, should be accorded priority because of the 
+impairment involved.
+Sources: Barra et al, 2020 (104); WHO, 2006 (103).
+INSIGHT
+Prevalence in males and females
+Depressive and anxiety disorders are about 
+50% more common among women than 
+men throughout the life-course, while men 
+are more likely to have a substance use 
+disorder. As depressive and anxiety disorders 
+account for most cases of mental disorder, 
+overall, slightly more women (13.5% or 508 
+million) than men (12.5% or 462 million) live 
+with a mental disorder (see Table 3.1).
+Mental disorders are common among pregnant 
+women and women who have just given birth, 
+often with severe impacts for both mothers and 
+babies. Worldwide, more than 10% of pregnant 
+women and women who have just given birth 
+experience depression (105). In LMICs this 
+figure is estimated to be substantially higher.
+Women who have experienced intimate partner 
+violence or sexual violence are particularly 
+vulnerable to developing a mental health 
+condition, with significant associations found 
+between victimization and depression, anxiety, 
+stress conditions including PTSD, and suicidal 
+ideation (106). Women living with a severe 
+mental disorder are much more likely to have 
+experienced domestic and sexual violence 
+during their life than other women (107).
+43
+Chapter 3 World mental health today
+
+========== PDF idx 66 (journal pg 44) ==========
+Prevalence in children and adolescents
+Around 8% of the world’s young children (aged 
+5–9 years) and 14% of the world’s adolescents 
+(aged 10–19 years) live with a mental disorder 
+(see Table 3.1). A seminal nationwide study 
+in the United States found that half of the 
+mental disorders present in adulthood had 
+developed by the age of 14 years; three quarters 
+appeared by the age of 24 years (108).
+Idiopathic developmental disorders, which cause 
+developmental disability, are the most common 
+type of mental disorder in young children, affecting 
+1 in 50 children aged under five years. The second 
+most prevalent mental disorder in young children is 
+autism spectrum disorder (another developmental 
+disorder), which affects 1 in 200 children aged 
+under five years (see Table 3.1). Both disorders 
+become gradually less prevalent with age, as many 
+people with developmental disorders die young.
+Attention-deficit/hyperactivity disorder and 
+conduct disorders are particularly common in 
+adolescence, especially among younger boys (4.6% 
+and 4.5%, respectively in boys 10–14 years of age). 
+Anxiety is the most prevalent mental disorder 
+among older adolescents (4.6%) and even more 
+so among adolescent girls (5.5%). Anxiety and 
+depressive disorders at this age may be associated 
+with bullying victimization. Eating disorders occur 
+mainly among young people and, within this group, 
+are more common among females (for example, 
+0.6% in women aged 20–24 years compared with 
+0.3% in men in the same age group) (109).
+Prevalence in older adults
+Around 13% of adults aged 70 years and over 
+lived with a mental disorder in 2019, mainly 
+depressive and anxiety disorders. Sex differences 
+in rates of mental disorders increase in this 
+age category as 14.2% of women and 11.7% of 
+men aged over 70 years are estimated to have 
+a mental disorder. Prevalence estimates for 
+schizophrenia are lower in adults aged over 70 
+years (0.2%) compared with adults under 70 years 
+of age (0.3%), which in part may be explained by 
+premature mortality (see section 3.1.2 Mortality).
+Notably, these estimates on mental disorders do 
+not include dementia, which is a key public health 
+concern that is often addressed by mental health or 
+aging policy and plans. An estimated 6.9% of adults 
+aged 65 years and over live with dementia (102).
+Geographical disparities
+Mental disorders are common in all countries: they 
+occur across all WHO Regions, ranging from 10.9% 
+prevalence in the WHO African Region to 15.6% in 
+the WHO Region of the Americas (see Fig. 3.3) (110).
+Mental disorders are somewhat more 
+common in high-income countries (15.1%) 
+but they are also common in low-income 
+countries (11.6%) (see Fig. 3.3).
+The variations in prevalence rates across regions 
+and income groups may be explained by at 
+least three factors. First, demographic factors 
+lessen prevalence rates in low-income countries: 
+populations here tend to have a higher proportion 
+of children under ten years of age, for whom mental 
+disorders are much less common. Second, war and 
+conflict contribute to the relatively higher rates 
+of mental disorder in WHO’s Eastern Mediterra-
+nean Region. Third, sociocultural factors have a 
+role. For example, differing cultural understand-
+ings and conceptualizations of mental health and 
+mental health conditions may influence people’s 
+readiness to disclose mental health symptoms in 
+surveys. Local cultural concepts of distress – which 
+can be associated with psychopathology – are 
+typically not well-covered in epidemiological 
+studies (111). And while stigma and discrimination 
+is high in all countries, it may even be higher in 
+many LMICs, which could lead to underreporting.
+Combining factors such as age, sex and 
+geographical location can reveal important 
+differences in people’s specific mental health 
+needs. For example, while an estimated 4% of all
+44
+World mental health report: transforming mental health for all
+
+========== PDF idx 67 (journal pg 45) ==========
+FIG. 3.3
+Prevalence of mental disorders across 
+WHO regions, 2019
+Source: IHME, 2019 (112).
+age groups worldwide lived with anxiety disorders 
+in 2019 (see Table 3.1), the rate rises to around 10% 
+among working age women in the Americas (113).
+3.1.2 Mortality
+Premature mortality
+Estimating mortality from mental health 
+conditions is complex. Both mental health 
+conditions and suicide are rarely recorded as the 
+cause of death on death certificates or in country 
+mortality statistics. Yet poor mental health is 
+often an important underlying or causative 
+factor. Across the world, people with mental 
+health conditions are known to experience 
+disproportionately higher mortality rates 
+compared with the general population (114).
+People with severe mental health conditions – 
+including schizophrenia and bipolar disorder – die 
+on average 10 to 20 years earlier than the general 
+population (115). Most of these deaths are due 
+to preventable diseases, especially cardiovas-
+cular disease, respiratory disease and infection, 
+which are more common in people with mental 
+health conditions. In these cases, having a mental 
+health condition may not be the cause of death, 
+but it is likely to be a major contributing factor.
+Side effects of medications for severe mental 
+health conditions can have a role in premature 
+mortality by contributing, for example, to 
+obesity, glucose intolerance and dyslipidemia 
+(116). Moreover, people with mental health 
+conditions are more likely to be exposed to the 
+well-known risk factors for noncommunicable 
+diseases (NCDs), including smoking, alcohol 
+use, unhealthy diet and physical inactivity.
+This is further exacerbated by the fragmented 
+approach health systems take in caring for physical 
+and mental health conditions: once a person is 
+channelled into a mental health service, their 
+physical health too often gets neglected. At the 
+same time, in both general and specialized mental 
+health care settings, the signs and symptoms 
+of physical illness are often misattributed to a 
+concurrent mental health condition in what is 
+known as “diagnostic overshadowing” (117). These 
+two factors have, for example, led to a systematic 
+under-recognition and undertreatment of cardio-
+vascular conditions among people living with 
+schizophrenia and bipolar disorder (118, 119). 
+WHO and its expert advisers have developed a 
+multilevel intervention framework and guidelines 
+aimed at addressing these shortcomings (see 
+section 4.1.2 Improved physical health, subsection 
+Integrated care is good care) (114, 120).
+Prevalence of mental disorders (%) 
+WHO REGIONS
+Africa
+Eastern Mediterranean
+Europe
+Americas
+South-East Asia
+Western Pacific
+0
+5
+10
+15
+11.7%
+13.2%
+15.6%
+14.2%
+14.7%
+10.9%
+People with severe mental 
+health conditions die 
+10 to 20 years 
+earlier than the general 
+population.
+45
+Chapter 3 World mental health today
+
+========== PDF idx 68 (journal pg 46) ==========
+The cumulative mortality burden of mental health 
+conditions can be derived using natural history 
+models that relate prevalence to observed rates 
+of excess deaths. These models are not part 
+of the estimation of fatal burden (see section 
+3.1.3 Burden), which attributes deaths to the 
+primary cause (such as cardiovascular disease), 
+but researchers have used these models to 
+show that the mortality burden of mental health 
+conditions is grossly underestimated. One 
+analysis of 2010 data shows there were more 
+than four million excess deaths attributable to 
+mental disorders, including 2.2 million from 
+major depressive disorder, 1.3 million from 
+bipolar disorder and 700 000 from schizophrenia – 
+compared with just 20 000 cause-specific deaths, 
+all from schizophrenia, calculated using the 
+standard burden of disease calculations (121).
+This huge yet hidden mortality burden of 
+mental health conditions has been labelled 
+a scandal, and one that contravenes inter-
+national conventions for the right to the 
+highest attainable standard of health (122).
+Suicide
+Suicide accounts for more than one in every 
+100 deaths globally (123). And for every death 
+by suicide there are more than 20 suicide 
+attempts (124). Suicide affects people from all 
+countries and contexts. And at all ages suicides 
+and suicide attempts have a ripple effect on 
+families, friends, colleagues, communities 
+and societies (read Marie’s experience).
+In 2019, an estimated 703 000 people across all 
+ages (or 9 per 100 000 population) lost their life 
+to suicide (see Fig. 3.4) (125). Estimates of suicide 
+rates vary significantly across countries – from 
+fewer than two deaths by suicide per 100 000 
+in some nations to more than 80 per 100 000 
+in others. Around three-quarters (77%) of all 
+suicides occur in LMICs, where most of the world’s 
+population live. But high-income countries 
+grouped together have the highest suicide rates 
+at 10.9 per 100 000. These countries are also more 
+likely to have high-quality vital registration data.
+Suicide rates also vary between males 
+and females. Globally, women are more 
+likely to attempt suicide than men. And 
+yet twice as many men die by suicide than 
+46
+World mental health report: transforming mental health for all
+
+========== PDF idx 69 (journal pg 47) ==========
+women do. In high-income countries the 
+male-to-female ratio for death by suicide is 
+even higher, at three men to every woman. 
+In both males and females, suicide is a major 
+cause of death among young people. In 2019, 
+it was the third leading cause of death in 
+15–29-year-old females; and the fourth leading 
+cause of death in males in this age group. Overall, 
+it is the fourth leading cause of death among 
+15–29-year-olds and accounts for some 8% of all 
+deaths in this age group. More than half (58%) of 
+suicides happen before the age of 50 years. And 
+suicide rates in people aged over 70 years are more 
+than twice those of working age people (126).
+Globally, the suicide rate has dropped by 36% 
+since 2000, with decreases ranging from 17% 
+in WHO’s Eastern Mediterranean Region to 47% 
+in WHO’s European Region and 49% in WHO’s 
+Western Pacific Region. Yet, in WHO’s Region of 
+the Americas, suicide rates have increased 17% 
+over the past 20 years. (For more information on 
+and examples of successful suicide prevention 
+see section 6.3.1 Preventing suicide.)
+ 
+FIG. 3.4
+Suicides in 2019
+Source: WHO, 2021 (125).
+Global suicide rate: 
+9 per 100 000
+people died by 
+suicide in 2019
+703k
+suicides happen
+before the
+age of 50
+58%
+drop in suicide 
+rates since 2000
+Global age-standardized 
+suicide rate (per 100 000)
+36%
+2019
+2000
+0
+5
+10
+15
+Time
+Total suicide deaths (thousands)
+85+
+80
+75
+70
+65
+60
+55
+50
+45
+40
+35
+30
+25
+20
+15
+10
+5
+0
+0
+15
+30
+45
+60
+High-income countries
+Low- and middle-income countries
+Age groups
+Suicide accounts for 
+1 in 100 deaths
+globally.
+47
+Chapter 3 World mental health today
+
+========== PDF idx 70 (journal pg 48) ==========
+NARRATIVE
+3.1.3 Burden 
+Burden of disease studies estimate the 
+population-wide impact of living with disease 
+and injury and dying prematurely. They involve 
+calculations using the Disability-Adjusted Life 
+Year (DALY), where one DALY represents the 
+loss of one year of full health. DALYs combine in 
+one measure the years of life lost to premature 
+mortality (YLLs) and years of healthy life lost to 
+disability (YLDs) to estimate the overall burden 
+from each cause of disease and injury.
+In 2019, across all ages, mental, neurological 
+and substance use disorders together accounted 
+for one in ten DALYs (10.1%) worldwide. Mental 
+disorders accounted for 5.1% of the global 
+burden (see Fig. 3.5). Neurological disorders 
+accounted for another 3.5%; while substance 
+use conditions accounted for 1.5%.
+In all countries, the burden of mental disorders 
+spans the entire life-course: from early life, where 
+conditions such as developmental disorders 
+and childhood behavioural disorders are the 
+biggest contributors to burden; through to 
+I abandoned everything  
+and everyone
+Marie’s experience
+I am a high-functioning lady living with a history of 
+trauma. I come from a family with a lot of experience 
+of mental health conditions, but my family and the 
+society we lived in didn’t acknowledge mental health 
+and didn’t know how to take care of a loved one living 
+with mental health challenges. We didn’t get the care 
+we needed. We lost my brother when he was just 33 
+years of age, without a conclusive diagnosis.
+I suffered with behavioural issues. My greatest 
+trauma was the breakdown of my parent’s marriage. 
+I struggled and self-medicated with dangerous 
+relationships and risky sexual behaviours.
+In 2009, I attempted suicide. I was five months 
+pregnant. Me and the baby survived, but I knew I 
+couldn’t continue this way. I abandoned everything 
+and everyone, including my three sons. I left my 
+country without a single word to anyone. Only a 
+mental illness makes you behave this way.
+I continued to struggle and eventually got professional 
+help. Four years later I returned as a much stronger 
+person. I am now a commonwealth scholar doing an 
+MSc in professional practice health care provision; 
+and committed to raising awareness of mental health 
+especially through people with lived experience 
+sharing their stories in countries like mine.
+Marie Abanga, Cameroon
+48
+World mental health report: transforming mental health for all
+
+========== PDF idx 71 (journal pg 49) ==========
+adulthood and old age, where depressive and 
+anxiety disorders dominate. Overall, the greatest 
+burden is carried during early adulthood.
+Across all mental disorders, most of the burden 
+manifests as YLDs, rather than YLLs. This is because 
+of the way burden estimates are calculated, which 
+does not attribute any deaths to conditions such 
+as depressive disorders or bipolar disorder, and 
+which includes self-harm and suicide under a 
+separate category of intentional injuries (127).
+Mental disorders are the leading cause of 
+years lived with disability, accounting for one 
+in every six (15.6%) YLDs globally. Substance 
+use disorders account for a further 3.1% of 
+YLDs; and neurological conditions account 
+for 6.4%. Combined mental, neurological 
+and substance use disorders account 
+for one in every four YLDs globally.
+FIG. 3.5
+The global burden of mental disorders 
+in disability-adjusted life years (DALYs), 
+2019
+Source:  WHO, 2019 (128).
+The contribution of mental disorders to YLDs 
+varies across the lifespan, from less than 10% for 
+children and older adults to more than 23% for 
+young people aged 15–29 years (see Fig. 3.6).
+Since 2000, both depressive and anxiety 
+disorders have consistently been among the 
+top ten leading causes of all YLDs worldwide. 
+FIG. 3.6
+Proportion of all-cause years lived with 
+disability (YLDs) attributable to mental 
+disorders, across the life-course, 2019
+Source:  WHO, 2019 (129).
+129m
+The global burden
+of mental disorders
+in DALYs, 2019.
+all DALYs
+5.1%
+54.1%
+45.9%
+females
+males
+39%
+11.7%
+22%
+Depression
+6.5%
+Schizophrenia
+Anxiety
+2.2%
+3.3%
+4.5%
+7.1%
+6.6%
+Eating disorders
+Autism spectrum
+Behavioural
+Bipolar
+Other
+IID
+YLDs 
+are attributable to mental disorders
+15.6%
+0
+5
+10
+15
+20
+25
+30
+0-28
+days
+1-59
+months
+5-14
+years
+15-29
+years
+30-49
+years
+50-59
+years
+60-69
+years
+70+
+years
+Male
+Female
+4.2%
+3.2%
+6.8%
+5.1%
+20.5%
+18.3%
+25.6%
+23.7%
+20.0%
+18.7%
+13.5%
+14.5%
+9.3%
+10.7%
+5.4%
+6.2%
+Globally, mental 
+disorders account for 
+1 in 6 years 
+lived with disability.
+49
+Chapter 3 World mental health today
+
+========== PDF idx 72 (journal pg 50) ==========
+Depressive disorders alone are the second 
+leading cause of global YLDs, accounting 
+for 5.6% of all YLDs in 2019 (see Fig. 3.7).
+Two important risk factors for these common 
+mental disorders have been quantified as part 
+of GBD 2019: childhood sexual abuse (exposure 
+before 15 years to any unwanted sexual contact); 
+and bullying victimization (intentional and repeated 
+harm of children and adolescents attending school 
+by peers). In 2019, global age-standardized levels 
+of lifetime exposure to childhood sexual abuse 
+and bullying victimization in the preceding year 
+amounted to 9.4% and 7.3%, respectively (130). 
+Together, these modifiable risk factors accounted 
+for 7.1% of all anxiety disorder DALYs and 9.9% of 
+all major depressive disorder DALYs globally.
+FIG. 3.7
+Top ten leading causes of global years lived with disability (YLDs), 2019
+Source:  WHO, 2019 (129).
+3.2 Economic consequences
+In addition to the direct costs of treatment, 
+mental health conditions come with a variety 
+of indirect costs associated with reduced 
+economic productivity, higher rates of 
+unemployment and other economic impacts.
+These costs to society can be significant, often 
+far outstripping health care costs. Researchers 
+from the World Economic Forum calculated 
+that a broadly defined set of mental health 
+conditions cost the world economy approximately 
+US$ 2.5 trillion in 2010, combining lost economic 
+productivity (US$ 1.7 trillion) and direct costs 
+of care (US$ 0.8 trillion) (131). This total cost 
+was projected to rise to US$ 6 trillion by 2030 
+alongside increased social costs. That’s more 
+than the researchers projected for the costs of 
+cancer, diabetes and chronic respiratory disease 
+combined. LMICs were predicted to bear 35% 
+of the cost of these mental health conditions.
+Years lived with disability (000s)
+% YLDS
+CAUSE
+RANK
+2.8
+10
+Oral conditions
+3.3
+9
+Migraine
+3.4
+8
+Iron-deficiency anaemia
+3.4
+7
+Gynecological diseases
+3.4
+6
+Anxiety disorders
+3.9
+5
+Uncorrected refractive errors
+4.4
+4
+Diabetes melitus
+4.8
+3
+Other hearing loss
+5.6
+2
+Depressive disorders
+5.6
+1
+Back and neck pain
+0
+10,000
+20,000
+30,000
+40,000
+50,000
+50
+World mental health report: transforming mental health for all
+
+========== PDF idx 73 (journal pg 51) ==========
+The indirect costs related to mental health 
+conditions can also be significant to countries. 
+For example, in the Philippines, an analysis 
+calculated that in 2019 six conditions (psychosis, 
+bipolar disorder, depressive disorders, anxiety 
+disorders, alcohol dependence and epilepsy) 
+cost the national economy around US$ 1.3 billion 
+in lost productive capacity due to premature 
+death, disability and reduced productivity while 
+at work (132). Combined with the direct costs of 
+care (around US$ 53 million), this amounts to 
+0.4% of the country’s gross domestic product.
+Most recently, in 2020, a systematic review of 
+cost-of-illness studies from around the world 
+showed that the average annual societal cost 
+of mental health conditions – adjusted for 
+purchasing power parity to the US price level 
+– ranges between US$ 1180 and US$ 18313 per 
+treated person, depending on the condition 
+(133). This cost includes both direct costs of 
+treatment and other services as well as other 
+costs such as foregone production and income.
+The most costly mental health condition per 
+person globally was found to be schizophrenia. 
+Depressive and anxiety disorders were much 
+less costly per treated case; but they are much 
+more prevalent, and so majorly contribute 
+to the overall national cost of mental health 
+conditions. Across all conditions, nearly half 
+the total societal cost was found to be driven by 
+indirect costs such as reduced productivity (133).
+Of course, even cost-of-illness studies do not 
+provide a complete picture of the societal costs 
+of mental health conditions. Typically they do not 
+attach monetized value to people outside the paid 
+workforce, including carers and home-makers. 
+They only focus on productivity losses, rather than 
+on other social factors that individuals may value 
+more, such as interpersonal relationships. And, 
+importantly, they do not include intangible costs 
+such as any psychological pain experienced (133).
+3.3 Gaps in public mental health
+In addition to affecting every country in the world 
+and being costly, mental health conditions are 
+also severely underserved. Results from the latest 
+assessment in WHO Member States – the Mental 
+health atlas 2020 – show that mental health 
+systems all over the world continue to be marked 
+by major gaps in governance, resources, services, 
+information and technologies for mental health 
+(see Fig. 3.8). These gaps are important because 
+they can severely hamper a country’s mental 
+health response. The sections that follow highlight 
+the defining features of some of the key gaps.
+3.3.1 The information gap
+Limited mental health data
+In part, the information gap is about countries’ 
+capacities for gathering, reporting and monitoring 
+reliable, up-to-date mental health data, including 
+on policies and laws, workforces and services.
+There has been much progress in the past 
+decade. Since 2014, the vast majority of 
+countries (88–91%) consistently report data 
+on mental health to WHO (5). And 76% of WHO 
+Member States confirmed their ability to report 
+against five core mental health indicators, 
+compared with 60% in 2014 and 62% in 2017.
+ 
+51
+Chapter 3 World mental health today
+
+========== PDF idx 74 (journal pg 52) ==========
+FIG. 3.8
+A snapshot of key gaps in public mental health
+But often the data that are reported are 
+incomplete, particularly on service availability 
+and use, which can be difficult to track. Nearly half 
+of countries said they regularly compile data on 
+mental health service activity in the public sector 
+for policy, planning or management. In most 
+cases, especially among low-income countries, 
+these data are only compiled as part of general 
+Less than 5% of mental 
+health research funding 
+goes to LMICs.
+Most research is 
+basic rather than 
+clinical or applied.
+Most countries report  
+data to WHO but these
+are often incomplete.
+INCOMPLETE DATA
+INSUFFICIENT RESEARCH
+INFORMATION
+GAP
+SCANT SPENDING
+SCARCE WORKFORCE
+LACK OF ESSENTIAL 
+MEDICINES
+DIGITAL DIVIDE
+Countries spend on
+average just 2% of
+their health budget
+on mental health.
+In low-income countries,
+there are fewer than one
+mental health worker per
+100 000 population.
+Most households in least 
+developed countries do 
+not have internet access
+In LMICs, essential 
+psychotropics are
+often unavailable
+or unaﬀordable.
+RESOURCES
+GAP
+INADEQUATE POLICIES, 
+PLANS AND LAWS
+MISPLACED PRIORITIES
+Only 21% of countries
+report implementing
+policies and plans that
+fully comply with human 
+rights instruments.
+Two out of every three 
+dollars spent on mental 
+health goes to running 
+psychiatric hospitals.
+GOVERNANCE
+GAP
+POOR TREATMENT 
+COVERAGE
+LIMITED RANGE AND 
+QUALITY OF SERVICES
+71% of people with 
+psychosis do not 
+receive mental 
+health services.
+Few countries provide
+psychosocial interventions
+in primary care.
+Few LMICs provide income, 
+housing, employment or
+education support.
+SERVICES
+GAP
+52
+World mental health report: transforming mental health for all
+
+========== PDF idx 75 (journal pg 53) ==========
+health statistics and are not available for reporting 
+to WHO. A quarter of LMICs had not compiled 
+any mental health data in the past two years.
+In many cases, data reported from LMICs come 
+exclusively from public psychiatric hospitals, and do 
+not include mental health services and interventions 
+provided in general hospitals, community settings, 
+primary health care, schools or the private sector 
+(134). This is a major limitation, given the importance 
+of moving mental health care away from psychiatric 
+hospitals to community-based settings (see Chapter 
+7 Restructuring and scaling up care for change) 
+and the need to keep watch over these changes.
+The lack of comprehensive, independent and 
+comparable data poses a major barrier to 
+monitoring and accountability in mental health. 
+To address this challenge, the Countdown Global 
+Mental Health 2030 initiative uses a broad and 
+integrated set of indicators to track progress 
+in mental health (135). These indicators, which 
+to date have focused on child and caregiver 
+mental health, extend beyond those captured 
+by existing mental health service surveys such 
+as WHO’s Mental health atlas to also include 
+data on the determinants of mental health and 
+on factors that shape the demand or need for 
+mental health care. They are available through 
+an interactive, publicly-accessible dashboard, 
+which the initiative intends for use to inform 
+action towards improved mental health (136).
+Insufficient and imbalanced research
+The second part of the information gap is a gap 
+in research that could help countries develop and 
+implement relevant and tailored intervention 
+strategies. Analyses by the Mental health atlas 
+2020 show that while the absolute level of mental 
+health research output (as measured by published 
+studies reflected in research databases) has risen 
+by 12% since 2013, other health research output 
+has risen even faster, so the proportion of health 
+research that focuses on mental health is slightly 
+falling (from 5.0% in 2013 to 4.6% in 2019).
+The Mental health atlas 2020 also reveals major 
+differences in mental health research across 
+regions and income groups. In particular, the 
+proportion of a country’s health research output 
+that focuses on mental health is nearly three 
+times greater in high-income countries compared 
+with low-income countries (see Fig. 3.9).
+FIG. 3.9
+Proportion of national health research 
+focused on mental health across 
+income groups
+Source:  WHO, 2021 (5).
+A recent analysis of inequities in mental health 
+research funding shows that 99% of research 
+is funded by high-income countries, and most 
+research in mental health is done in high-income 
+countries, with less than 5% of research funding 
+going to LMICs (137). Where high-profile research 
+is done in LMICs, it is often led by researchers 
+from, or based in, high-income countries, 
+so reinforcing power asymmetries (138).
+About US$ 3.7 billion a year is spent globally 
+on mental health research worldwide – an 
+estimated 7% of global health research funding 
+(137). Overall, more than half (56%) of all global 
+funding for mental health research is spent on 
+of health research globally 
+focuses on mental health 
+4.6%
+High-
+income
+Upper-middle-
+income
+Lower-
+midldle-income
+Low-
+income
+Proportion of national research output
+2.7%
+3.9%
+5.2%
+8.0%
+53
+Chapter 3 World mental health today
+
+========== PDF idx 76 (journal pg 54) ==========
+basic research rather than clinical or applied 
+research (see Fig. 3.10). Moreover, some fields 
+of mental health are underfunded compared 
+with others. Most notably, suicide and self-harm, 
+which is the subject of the only explicit SDG 
+indicator on mental health, receives less than 1% 
+of the overall mental health research funding.
+FIG. 3.10
+Most mental health research is focused on the basic end of the spectrum
+Source:  Woelbert et al, 2020 (137).
+3.3.2 The governance gap
+Inadequate policies, plans and laws
+Well-defined policies, plans and laws provide 
+the basis for action on mental health. Assuming 
+they are appropriately and fully implemented, 
+they are the mainstay of good governance.
+In total, 146 countries (86% of WHO Member 
+States) reported having a mental health policy or 
+plan in place – either stand-alone or integrated 
+into general health policies or plans. Slightly 
+more than half (56%) of responding countries 
+reported updating their mental health plans 
+within the past two years. Around 90 countries 
+PROPORTION OF MENTAL
+HEALTH RESEARCH
+BASIC RESEARCH
+APPLIED RESEARCH
+Underpinning
+Aetiology
+Prevention
+Detection, screening
+and diagnosis   
+Treatment development 
+21.2%
+34.8%
+7.1%
+5.4%
+4.6%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+Treatment evaluation 
+12.1%
+Disease management 
+7.2%
+Health services 
+7.6%
+US$ 2075m
+US$ 998m
+US$ 633m
+54
+World mental health report: transforming mental health for all
+
+========== PDF idx 77 (journal pg 55) ==========
+(fewer than half of WHO Member States) had a 
+plan specifically for children and adolescents. 
+A third of these had not been updated since 2017.
+But simply having a plan in place is not enough 
+to meet mental health care needs: plans need 
+to comply with human rights instruments, 
+be fully resourced and implemented, and 
+regularly monitored and evaluated.
+Only half (51%) of WHO Member States reported that 
+their mental health policies or plans fully complied 
+with human rights instruments. About a third (31%) 
+reported plans that were being implemented. And 
+only 21% of WHO Member States reported policies 
+or plans that were being implemented and fully 
+compliant with human rights instruments. This 
+proportion varied significantly across income groups, 
+from 32% for upper-middle-income countries to 
+just 3% for low-income countries (see Fig. 3.11).
+Few countries monitored the implementation of 
+their mental health policies or plans effectively. 
+Only 23% of responding countries reported using 
+indicators or targets to monitor most or all the 
+components of their mental health plan. A third of 
+responding countries reported using indicators to 
+monitor some components of their plan. Nearly 
+a quarter reported having no indicators at all.
+FIG. 3.11 
+The state of national mental health policies and plans grouped according to 
+countries’ income 
+Source:  WHO, 2021 (5).
+A similar pattern is seen in mental health legislation: 
+80% of WHO Member States reported having a 
+stand-alone or integrated law for mental health; 
+but only 38% reported that their laws were fully 
+compliant with human rights instruments; and 
+only 28% reported having fully compliant laws 
+that were in the process of implementation. 
+Again, there was a wide gap between income 
+groups, with 40% of high-income WHO Member 
+States having a fully compliant law in the 
+process of implementation, compared with 
+just 3% of low-income WHO Member States.
+For both policies and legislation, people 
+with mental health conditions remain 
+Countries with a 
+policy or plan
+Countries
+that report a
+fully compliant
+ policy or plan
+Countries
+that report
+implementing a 
+fully compliant 
+policy or  plan
+GLOBAL
+HIGH-INCOME
+UPPER-
+MIDDLE-INCOME
+LOWER-
+MIDDLE-INCOME
+LOW-INCOME
+83%
+78%
+89%
+87%
+86%
+45%
+45%
+50%
+60%
+51%
+3%
+14%
+32%
+25%
+21%
+55
+Chapter 3 World mental health today
+
+========== PDF idx 78 (journal pg 56) ==========
+poorly represented in decision-making and 
+development processes of most countries, 
+as well as in the accountability mechanisms 
+that monitor, evaluate and report compliance 
+with human rights instruments (139).
+Disparities and misplaced priorities
+Within broader health policies and plans, most 
+LMICs give low priority to mental health compared 
+with other burdensome health conditions 
+such as communicable and noncommunicable 
+diseases. Mental health resources are also 
+unfairly distributed across countries, regions and 
+communities. So populations with high rates 
+of socioeconomic deprivation end up having 
+the lowest access to care (140). Urban areas 
+tend to be better resourced than rural ones.
+Adult mental health services are typically 
+prioritized over services for children or older 
+adults, leading to less available or appropriate 
+care for these groups. Targeted services are 
+also deficient for many marginalized groups 
+such as indigenous peoples, ethnic and sexual 
+minorities, homeless people, refugees, and 
+migrants. Importantly, it is not only people 
+in low-income countries that receive less 
+accessible and poorer quality care, but also less 
+privileged groups within all countries (141). 
+Across all population groups, providing beds and 
+treatment in institutions is consistently prioritized 
+over making services available in the community. 
+Across both staff and budgets, most resources 
+available for mental health end up concentrated 
+in psychiatric hospitals, especially in LMICs. 
+More than 70% of mental health expenditure in 
+middle-income countries (compared with 35% in 
+high-income countries) goes towards psychiatric 
+hospitals, which largely cater for people with 
+severe mental health conditions (5). In low-income 
+countries psychiatric hospitals use up similarly 
+large, if not larger, proportions of the mental health 
+budget. Overall, stand-alone inpatient psychiatric 
+hospitals account for two out of every three 
+dollars (66%) spent globally by governments 
+on mental health (5). This is an inefficient 
+way of using resources for mental health.
+In 2019, most of the reporting countries (67%) 
+spent less than 20% of their mental health budget 
+on community mental health services. Around 80% 
+of countries spent less than 20% on mental health 
+in general hospitals and similarly 80% of countries 
+spent less than 20% on mental health in primary 
+care. Expenditures on prevention and promotion 
+programmes were even less common (5). 
+International funders similarly side-line mental 
+health, giving it only a fraction of the funding that 
+other health conditions receive and often focusing 
+on short-term projects rather than supporting 
+design and delivery of long-term mental health 
+systems. While health budget allocation should 
+never be based on burden alone, burden is a 
+factor to be considered when setting priorities 
+for health interventions. From 2006 to 2016, just 
+0.3% of global development assistance for health 
+went to mental health (142). In comparison, the 
+control of sexually-transmitted infections (STIs), 
+including HIV/AIDS, received almost 50% of 
+global development assistance for health in the 
+same timeframe – even though the burden in 
+DALYs attributed to mental disorders was more 
+than three times as great as that of STIs (143). 
+3.3.3 The resources gap
+The limited implementation of mental health 
+plans, policies and legislation is, in part, due 
+to a lack of resources – both human and 
+Most countries spent
+ less than 20% 
+of their mental health 
+budget on community 
+mental health services.
+56
+World mental health report: transforming mental health for all
+
+========== PDF idx 79 (journal pg 57) ==========
+financial – available for mental health.
+The Mental health atlas 2020 shows that only 
+half of countries with a mental health policy or 
+plan have also estimated the financial resources 
+they need to implement it (60% include an 
+estimate of human resources required). And 
+only around a third of countries have actually 
+allocated financial and human resources to 
+implement their mental health policy or plan.
+The gap between estimating resources and 
+allocating them is particularly stark among 
+low-income countries. For example, while 40% 
+of these countries have estimated the funding 
+they need, only 8% have actually allocated 
+the requisite resources (see Fig. 3.12).
+FIG. 3.12 
+The gap between estimating and allocating resources to implement mental 
+health plans
+Source:  WHO, 2021 (5). 
+Scant spending
+Mental health spending includes activities 
+delivered at all levels of care as well as programme 
+costs, such as administration, training and 
+supervision, and promotion and prevention 
+activities. Calculating the full level of mental 
+health spending in many countries is difficult 
+because of the range of services, service 
+providers and funding sources involved.
+In many cases, even calculating government 
+spending can be hard. Budgets for general health 
+care tend to allocate funds to generic categories 
+such as hospitals or primary health care, rather 
+than to specific health conditions (such as 
+depression). All health conditions treated at that 
+level or facility are then funded from the generic 
+allocation. The budget may further be broken 
+down into allocations for medicines, personnel 
+and equipment for instance; but it will rarely 
+describe funds specifically for mental health care.
+% responding countries
+High-
+income
+Upper-middle-
+income
+Lower-
+middle-income
+Low-
+income
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+High-
+income
+Upper-middle-
+income
+Lower-
+middle-income
+Low-
+income
+% countries that allocated the required human resources
+% countries that estimated needed human resources 
+% countries that allocated the required financial resources
+% countries that estimated needed financial resources
+68%
+40%
+8%
+27%
+43%
+43%
+43%
+64%
+53%
+55%
+67%
+51%
+33%
+49%
+36%
+29%
+57
+Chapter 3 World mental health today
+
+========== PDF idx 80 (journal pg 58) ==========
+Even so, most (but not all) countries dedicate 
+only a small fraction of their health care budgets 
+to mental health; and their spending is dispro-
+portionately low to their needs. Although a few 
+high-income countries spend up to or more than 
+10%, the Mental health atlas 2020 shows that the 
+median allocation of government health budgets 
+around the world to mental health amounts to 
+just 2%.1 In LMICs this figure drops to just 1%.
+The need for investments into mental health 
+promotion, protection and care are not limited to 
+the health sector. Supporting social integration 
+for people living with mental health conditions 
+requires action across social services, education, 
+labour and justice. Investments by these 
+sectors into mental health tends to be even 
+less than those made by the health sector.
+Scarce workforce for mental health
+In addition to scant spending, many countries 
+face huge scarcities of personnel trained for 
+dealing with mental health. This includes 
+shortages in mental health nurses, psychiatric 
+social workers, psychiatrists, psychologists, 
+counsellors and other paid mental health workers.
+Around half the world’s population lives in 
+countries where there is just one psychiatrist 
+to serve 200 000 or more people. Other mental 
+health care providers who are trained to use 
+psychosocial interventions are even scarcer 
+(5). In low-income countries there are fewer 
+than one mental health worker of any kind per 
+1 This figure should be interpreted with caution as only 67 countries reported data on government spending to the 
+Mental health atlas 2020 (5).
+100 000 population, compared with more than 
+60 in high-income countries (see Fig. 3.13; the 
+median across all countries is 13 mental health 
+workers per 100 000 population). Across all 
+income groups, most mental health workers 
+are nurses, who combined make up 44% of 
+the global workforce for mental health.
+Across all income groups, there is a great 
+shortage of specialized mental health workers 
+for children and adolescents, with just three 
+mental health workers of any kind per 100 000 
+population, and a median rate as low as 0.01 per 
+100 000 population in low-income countries. In 
+these countries, the mental health workforce for 
+children and adolescents is almost non-existent.
+In LMICs, the mental health 
+workforce for children and 
+adolescents is almost non-existent.
+The scarcities in skills are compounded because 
+few non-specialist doctors, nurses, and clinical 
+officers have been trained to recognize and 
+treat patients with mental health conditions 
+in primary health care. In 2020, the number of 
+countries reporting that primary health care 
+workers receive training on how to manage 
+mental health conditions is high (146 or 88% of 
+countries) (5). This would seem to indicate an 
+appetite for task-sharing to increase the pool of 
+workers available for mental health care. But still 
+most countries have nowhere near the level of 
+trained and skilled personnel required to provide 
+for everyone in need, with only 25% of WHO 
+Member States reporting that they had integrated 
+mental health into primary care (see section 
+3.3.4 The services gap). This means that, beyond 
+task-sharing, other solutions can and must be 
+rapidly scaled up, including e-health solutions, 
+even though the digital divide remains a further 
+barrier to health service access and socioeconomic 
+development more broadly (see A digital divide).
+Governments around the 
+world allocate just 2% 
+of their health budgets 
+to the treatment and 
+prevention of mental  
+health conditions.
+58
+World mental health report: transforming mental health for all
+
+========== PDF idx 81 (journal pg 59) ==========
+FIG. 3.13
+The specialized mental health workforce across country income groups
+ 
+Source:  WHO, 2021 (5).
+Lack of essential medicines
+Another aspect of the resources gap is the 
+limited availability of essential psychotropic 
+medicines, especially in LMICs. And when they 
+are available, far more people in LMICs also end 
+up paying for these medicines out of pocket (5).
+A recent review of 112 national essential 
+medicines lists – commissioned for this 
+report – found inequities in the listing, 
+availability, pricing and affordability of essential 
+psychotropic medicines in countries (144).
+The review showed that up to 40% of low-income 
+countries did not include essential medicines 
+that have been on the WHO Model list for essential 
+medicines for decades, such as long-acting 
+(depot) fluphenazine for schizophrenia 
+and lithium carbonate mood stabilizer for 
+bipolar disorder. Other supply gaps may be 
+behind some of these omissions, for example 
+laboratory tests are needed to monitor use of 
+some medicines, to avoid inappropriate use or 
+serious side effects (read Eleni’s experience).
+Median number per 100 000 population
+High-income
+Upper-middle-income
+Lower-middle-income
+Low-income
+0
+5
+10
+15
+20
+25
+30
+
+
+Global 
+workforce 
+composition
+0
+20
+40
+60
+80
+100
+Other specialized workers
+Social workers
+Psychologists
+Mental health nurses
+Psychiatrists
+ 
+
+
+ 
+
+
+
+
+
+
+ 
+    
+
+
+
+
+59
+Chapter 3 World mental health today
+
+========== PDF idx 82 (journal pg 60) ==========
+The review also showed that some 
+second-generation antipsychotics on the 
+model list for schizophrenia (risperidone 
+and clozapine) were only included in 35% 
+and 25% of national essential medicines lists 
+in low-income countries respectively.
+The actual availability of different essential 
+psychotropic medicines was lower in the public 
+sector compared with the private sector, and 
+well below 50% worldwide, often much lower 
+in low-income countries where there is a high 
+incidence of stock-outs. The antidepressant 
+medicines amitriptyline and fluoxetine in the 
+public sector in low-income countries were three 
+times more expensive than the international 
+unit reference price. Overall, the review found 
+that essential psychotropic medicines were less 
+affordable to people in low-income countries 
+compared with people in other countries (144).
+A digital divide
+Whether through electronic systems or mobile 
+applications, digital technologies are becoming 
+a standard part of mental health care around 
+the world (see Chapter 5, In focus: Harnessing 
+digital technologies for mental health). They can 
+be key to scaling up access to care for common 
+mental health conditions such as depression 
+or anxiety and can also provide a platform for 
+providing remote care, as during the COVID-19 
+pandemic when face-to-face options were 
+shut down as part of social restrictions.
+But relying on digital technologies to deliver 
+mental health services risks excluding some of the 
+world’s most vulnerable people from accessing 
+the care they need and fails to address the full 
+spectrum of mental health conditions that people 
+experience. For many people in LMICs, mobile 
+phones offer the only way of connecting to the 
+internet and accessing valuable information 
+and resources that would otherwise be out of 
+reach. Access to mobile phones has grown expo-
+nentially in recent years, with mobile networks 
+now covering more than 85% of the population 
+in every region of the world (145). But even 
+where networks are available, not everyone 
+has a smart phone, and even for those who do, 
+internet access can be prohibitively expensive.
+Indeed, the figures for mobile network coverage 
+only tell half the story: analysis from 2019 showed 
+that around half the world’s population had no 
+internet connection, with big disparities between 
+and within countries (145). Just 20% of households 
+in low-income countries were connected to the 
+internet in 2019, compared with 87% of people 
+in developed ones (145). In sub-Saharan Africa, 
+4G or newer wireless systems remained largely 
+unavailable. Across all regions, but especially in 
+sub-Saharan Africa, people living in rural areas 
+were half as likely to be connected to the internet 
+as those living in urban areas; and women were 
+less likely to use the internet than men. In all 
+regions, internet access was more prevalent 
+among young people (15–24 years of age).
+Surveys in high-income countries further suggest 
+that people living with mental health conditions 
+face a heightened risk of digital exclusion, 
+because of material deprivation and diminished 
+opportunities to use or be trained in information 
+technology or the internet, including people 
+residing in long-term care facilities (146).
+All these disparities add up to a digital 
+divide that compounds existing inequities 
+in access to mental health services.
+Even if connectivity to the internet improves, 
+many countries still need to step up their 
+investment in mental health information systems, 
+service user empowerment and workforce 
+development to make the move from analogue 
+to digital care provision a reality for all.
+60
+World mental health report: transforming mental health for all
+
+========== PDF idx 83 (journal pg 61) ==========
+NARRATIVE
+Living in a low-income country 
+means facing disabling barriers to 
+quality care
+Eleni’s experience
+I struggle with bipolar disorder in Ethiopia, a 
+low-income country. This means facing disabling 
+barriers to access mental health care of minimum 
+standards.
+Medication supplies are scarce, irregular and 
+expensive. Being a poor country comes with lack 
+of hard currency to import such medications 
+sustainably. More than often, I had to switch from 
+a medication that enabled me live a stable life to 
+a sub-optimal one because of unavailability in 
+the market. Isn’t it sad to report that many of my 
+mood episodes were actually triggered by these 
+involuntary changes in medication?
+Even when the medicines are available, the 
+prescribed dosage may not be. I remember I was 
+prescribed a mood stabilizer with 25mg but only 
+100mg was available in the market. This left me with 
+no other choice than having to split the tablet in 4 
+parts with a kitchen knife. Most of the time, half of 
+the tablet will turn to powder as it does not have 
+built-in breakable splits.
+Not only medication but also laboratory tests are 
+more than often unavailable to monitor therapeutic 
+ranges. I was put on a mood stabilizer that required 
+regular blood tests. I will never forget the toxic 
+reactions I suffered because my blood level could 
+not be monitored. Chemicals for those blood tests 
+could not be imported at the time.
+I have always covered my mental health 
+treatment costs myself. I am privileged to have a 
+middle-income family. But this imposed a heavy 
+burden on our income. Health insurance schemes 
+are not set. Sometimes, I would buy medications on 
+the black market. They were very expensive but that 
+was the price for a stable functional life.
+Eleni Misganaw, Ethiopia
+61
+Chapter 3 World mental health today
+
+========== PDF idx 84 (journal pg 62) ==========
+3.3.4 The services gap
+Poor treatment coverage
+With nearly a billion people in the world living 
+with a mental disorder, the need for adequate 
+and accessible services is evident. But all 
+over the globe, mental health systems are 
+failing to meet their populations’ needs.
+The gap between prevalence and treatment 
+remains unacceptably large. Researchers suggest 
+that all over the world a large proportion of people 
+with mental health conditions  go completely 
+untreated, receiving no formal care at all. For 
+example, WHO estimates that only 29% of people 
+with psychosis receive mental health services (5).
+The gaps in treatment vary across countries and 
+from one mental disorder to another. For example, 
+while 70% of people with psychosis are reported 
+to be treated in high-income countries, only 12% 
+of people with psychosis receive mental health 
+care in low-income countries (5). For depression, 
+the gaps in service coverage are wide across 
+all countries: even in high-income countries, 
+only one third of people with major depressive 
+disorders receive formal mental health care (147).
+Variable quality and range of services 
+available
+In all countries, gaps in service coverage are 
+compounded by variability in quality of care. 
+Quality includes how well mental health care 
+aligns with human rights principles, whether 
+or not treatment meets any defined minimum 
+standards for adequacy, and to what extent 
+mental health care supports social inclusion. 
+Though difficult to quantify, mental health 
+care does not align with human rights 
+principles throughout the world (22). Abuses 
+and substandard living conditions in many 
+psychiatric hospitals are especially notorious 
+and widespread (read Mrs BN’s experience and 
+see section 4.2.2 The right to quality care). 
+Among those people with mental health 
+conditions who are treated, only a small 
+proportion receive care that meets minimum 
+standards for adequacy. A recent systematic 
+review of treatment coverage for major depressive 
+disorder found that minimally-adequate treatment 
+ranged from 23% in high-income countries to 3% 
+in low- and lower-middle-income countries (147).
+Often the range of interventions available 
+is severely limited, with few alternatives to 
+biomedical-based care available. In 2020, WHO 
+Member States reported that pharmacological 
+interventions were much more widely available 
+than psychosocial interventions (5). The gap is 
+particularly in high-income countries, where 
+71% countries report providing pharmaco-
+logical interventions at primary care facilities 
+but only 34% provide psychosocial interven-
+tions there. In LMICs, the gap in availability 
+between different types of intervention is 
+much smaller, but that is because neither type 
+is widely provided in primary health care.
+In many countries mental health care systems 
+also fail to provide the full range of social 
+support that people living with mental health 
+conditions can require. In 2020, nearly all (96%) 
+high-income countries reported providing 
+social care and income support to people with 
+mental health conditions, compared with 21% of 
+low-income countries providing income support 
+and 38% providing social care support (5). 
+Other types of critical social support – including 
+housing, employment, education and legal 
+support – are scarce almost everywhere. Fewer 
+than 45% of countries worldwide reported 
+providing any of these types of support; and 
+only 24% reported providing all of them. 
+Housing was the least available form of 
+support globally (36%), but especially so in 
+low-income countries (4%), where employment 
+and education support were similarly rare.
+62
+World mental health report: transforming mental health for all
+
+========== PDF idx 85 (journal pg 63) ==========
+NARRATIVE
+I am writing to you with a last hope
+Mrs BN’s experience
+A few years ago my son, a student, fell ill and was 
+admitted to the sanatorium of […], which I would 
+say has been forgotten by the world and God. The 
+conditions there are miserable. As soon as I entered 
+I was overwhelmed by a nightmarish atmosphere: 
+dirty patients, dishevelled and very very skinny, 
+surrounded me asking for some bread. As for the 
+building, it is pitiful to look at: many broken windows, 
+walls that haven’t been painted for many years and 
+toilets totally out of order.
+There is not even one bed per patient so people 
+have to sleep on mattresses on the floor. There is no 
+running water and most of the cooking is done using 
+rainwater. The worst is the food. I go there every week 
+and see pigs’ feet or heads on the inmates’ plates. On 
+several occasions I have seen mouldy margarine be 
+served and rotten meat given to the cooks to prepare. 
+I cannot find an explanation for why a normal man 
+treats other people with such a lack of respect, like 
+animals. Actually, worse than animals, since the 
+many dogs in the yard of the sanatorium are fed with 
+lean, fresh meat (I’ve seen it myself). These dogs are 
+allowed to run after and bite the inmates, making 
+them so scared they won’t leave the buildings to walk 
+in the yard.
+Some of the patients are exploited by the staff, either 
+to work at their own homes or to do outdoor chores 
+under the scorching sun. Patients are beaten or 
+stuffed with sedatives and do not leave their beds.
+Through several conversations and letters I have 
+tried to improve the lives of those poor inmates, 
+whose lives have already been stricken enough by 
+their destiny and do not need to made worse by 
+other men. Someone has even answered me: “Why 
+are you fighting that much? This place is but the 
+waste of society.”
+This is why I am writing to you with a last hope.
+ 
+Extract from a letter to WHO.
+63
+Chapter 3 World mental health today
+
+========== PDF idx 86 (journal pg 64) ==========
+
+========== PDF idx 87 (journal pg 65) ==========
+3.4 Barriers to demand for care
+In part, the extremely high unmet need for mental 
+health care, even among people with severe 
+mental health conditions, is due to a lack of 
+demand for, or uptake of, services. This reluctance 
+or inability to seek help can be explained by a 
+variety of factors, from high cost, poor quality 
+and limited accessibility, through to lack of 
+knowledge about mental health, stigma and 
+poor previous experiences with seeking help.
+The sections that follow summarize some of the 
+biggest barriers to demand for care worldwide.
+3.4.1 Poor supply
+There is a close relationship between demand 
+and supply of mental health care. Each of the 
+gaps described previously (gaps in information, 
+governance, resources and services) compromise 
+the supply of appropriate, good quality mental 
+health care. Yet, the lack of quality mental health 
+services available, especially at the primary and 
+secondary levels of care, in turn suppresses demand.
+In many places, formal mental health services 
+simply do not exist. Even when they are available, 
+they are often inaccessible. Concerns about 
+location, cost, treatment and confidentiality 
+can all drive up reluctance to seek help.
+Locating services appropriately is key. In 
+LMICs many mental health services are dispro-
+portionately concentrated in psychiatric 
+hospitals in or near major cities. This means that 
+rural populations often cannot or choose not to 
+use them: the journey may be too expensive; the 
+transportation systems may be too unreliable; 
+and the time required may be too much.
+Even for those living near mental health services, 
+the cost of treatment can prove a major barrier 
+to demand for mental health care. Two-thirds of 
+low-income countries reporting to WHO in 2020 
+did not include mental health care in national 
+health insurance schemes (5). This means that 
+people in need have to fund their care themselves, 
+often spending significant and potentially 
+impoverishing sums out of pocket. Research in 
+Ethiopia, India, Nepal and Nigeria shows that 
+spending money on mental health care signifi-
+cantly increases the likelihood of a household 
+outspending its resources, which can lead to 
+debt and poverty (148). One study in Goa, India, 
+showed that depressed women were three times 
+more likely than other women to spend more 
+than half their monthly household expenditure 
+on out-of-pocket health care costs (149).
+Weak or low-quality care systems pose another 
+barrier to demand. Negative past experiences 
+with mental health services, distrust of health 
+professionals and treatment and unwillingness 
+to disclose mental health problems can all play 
+a big part in preventing help-seeking. Many 
+people, faced with the option of no care versus 
+contacting services that may offer little help, 
+may not be confidential, or may stigmatize or 
+even mistreat them, choose to go untreated.
+3.4.2 Low levels of health 
+literacy about mental health
+Low demand for mental health care can also 
+be driven by low levels of health literacy 
+Two-thirds  
+of low-income countries 
+did not include mental 
+health in national health 
+insurance schemes.
+65
+Chapter 3 World mental health today
+
+========== PDF idx 88 (journal pg 66) ==========
+about mental health, including a lack of 
+knowledge and understanding of mental health 
+as well as prevailing beliefs and attitudes 
+that undermine the value placed on mental 
+health and effective mental health care.
+When it comes to physical health, it is widely 
+accepted that people need to appreciate and look 
+after their own health, and that governments 
+can help to inform and support people, for 
+example by promoting physical activity, healthy 
+diets and no tobacco and alcohol use. This 
+approach is just as important for mental health.
+A recent global survey by the Wellcome Trust 
+found that most people around the world 
+believe mental health is as or more important 
+than physical health (150). Yet the idea that 
+mental health is something everyone needs 
+to understand and nurture is not part of the 
+common public discourse in most communities.
+The reality is that most people may not have 
+access to evidence-based information on 
+opportunities that can promote their mental 
+health. Meanwhile, pervasive negative 
+attitudes continue to devalue and perpetuate 
+discrimination against and abuse of people 
+living with mental health conditions.
+The above mentioned global survey shows 
+that people are not sure science can help in 
+addressing mental health issues (150). In many 
+cases, people do not recognize their own need 
+for treatment (read Steven’s experience).
+Caregivers may not have access to tailored 
+information to recognize mental health 
+conditions in their children, especially when 
+these manifest as stomachaches, headaches, 
+irritability, frustration, anger, rapid mood 
+changes and emotional outbursts, and 
+destructive or challenging behaviour. General 
+health care providers can also often miss these 
+symptoms of mental health problems (151).
+Differences in beliefs across cultures influence 
+help-seeking outside the formal health 
+system, for example through traditional or 
+complementary medicine or self-reliance 
+(152). All societies probably have terms and 
+concepts to describe people with mental 
+health conditions, but ideas about how or 
+why these conditions arise vary markedly.
+Similarly, the need to provide dedicated support 
+for people with severe mental health conditions 
+is widely acknowledged, but ideas about what 
+that support should look like may not match 
+prevailing evidence-based treatments. For 
+example, in many cultural contexts, common 
+mental health conditions such as depression and 
+anxiety are not regarded as health conditions 
+that can be helped through the formal health 
+care system. Rather, these conditions are 
+often expected to improve through social 
+and emotional support from relatives or 
+through religious, traditional or alternative 
+and complementary healing methods (153).
+3.4.3 Stigma
+One of the biggest barriers to demand for mental 
+health care is the stigma associated with mental 
+health conditions. All over the world, people living 
+with mental health conditions are the subject 
+of deep-rooted stigma and discrimination.
+All over the world, people living 
+with mental health conditions 
+are the subject of deep-rooted 
+stigma and discrimination.
+Society in general has stereotyped views about 
+mental health conditions and how they affect 
+people. People with mental health conditions are 
+commonly assumed to be lazy, weak, unintelligent 
+or difficult (154). They are also often believed to be 
+violent and dangerous, when in fact they are more 
+at risk of being attacked or harming themselves 
+than harming other people (155). Women with 
+66
+World mental health report: transforming mental health for all
+
+========== PDF idx 89 (journal pg 67) ==========
+NARRATIVE
+severe mental health conditions are particularly 
+at risk of sexual violence. Violence against people 
+with mental health conditions can be deadly.
+In many communities, mental health conditions 
+are not considered to be health issues, but are 
+seen as a weakness of character, a punishment 
+for immoral behaviour or the result of illicit 
+drug taking or supernatural forces. In all cases, 
+the media can exacerbate misconceptions 
+by portraying people with mental health 
+conditions as dangerous, irresponsible or 
+incapable of making rational decisions (156).
+You can achieve anything
+Steven’s experience 
+My chronic anxiety started around 15 years ago, when I 
+was studying for my law degree. I put a lot of pressure 
+on myself to be a high achiever and set the bar so high 
+it was at times unachievable. I had low self-worth.
+My anxiety got so bad it was hard to get out of bed 
+some days. It stayed with me as I trained to become 
+a lawyer. I couldn’t tell management of my mental 
+health struggles. I felt that I would be perceived as 
+“weak” and “not able to do my job” and I felt I’d lose 
+the respect of my colleagues.
+I didn’t want to go to work anymore. I felt I was 
+changing, becoming someone I didn’t recognize or like. 
+I tried to discuss it with my family but couldn’t express 
+how I was feeling in words. It still hurts today when I cast 
+my mind back to this difficult period of my life.
+Then I had a lightbulb moment. I reached out for 
+support from a psychologist. It was a breath of fresh air. 
+For the first time I felt somebody understood and didn’t 
+judge me. This lifted a huge weight off my shoulders.
+The psychologist showed me how I could break 
+things down which allowed me to cope better and not 
+become so overwhelmed with life. I have used this 
+advice in every aspect of my life, even today, running 
+my own company promoting mental health awareness 
+within business and law firms.
+I still suffer with my anxiety and feelings of low 
+self-worth. But I have learned to manage them and 
+I am in a happy place with a good mindset. I have 
+also been successful in what I do, which I believe is 
+because I have lived experience and can relate to the 
+needs of my clients.
+I would like to advise anyone reading this to not let 
+your mental health struggles define who you are. Do 
+not feel pressured to perform or rush things: you are 
+on your own path and you will achieve your dreams 
+and goals in your own time.
+Steven Lawlor, United Kingdom
+67
+Chapter 3 World mental health today
+
+========== PDF idx 90 (journal pg 68) ==========
+NARRATIVE
+Stigma stifled my recovery
+Odireleng’s experience
+For the longest time I was afraid of speaking about 
+my battle with mental health because of the 
+stigma attached to it. My healing only began when I 
+overcame the stigma and realized there is no shame 
+in asking for help.
+When I was diagnosed in 2014, I was very afraid, lonely 
+and didn’t believe that healing was possible. The 
+single-sided story of bipolar illness that was narrated 
+in my community focused only on the struggles it 
+caused, rather than how to overcome them.
+Even after diagnosis, I had a very difficult time and 
+low self-esteem. But I remained hopeful and I made 
+a pledge to myself to use the lessons I’d learned to 
+help others. As part of my recovery I became a mental 
+health advocate.
+I am passionate about encouraging people to begin 
+their healing by overcoming stigma and speaking up 
+openly about their mental health condition. I strongly 
+believe that it is possible to overcome the barrier of 
+stigma and receive mental health care that enables 
+you to lead a prosperous life.
+Odireleng Kasale, Botswana
+The result is that people living with mental health 
+conditions are often treated with fear, shame and 
+contempt. For example, one survey in south-west 
+Nigeria found that 97% of people believed people 
+with mental health conditions were dangerous, 
+83% of people were afraid to talk to someone with 
+a mental health condition and only 17% of people 
+would consider marrying someone with a mental 
+health condition (157). In many cases, people 
+with mental health conditions are also subject 
+to human rights violations including isolation, 
+incarceration and ill-treatment (see section 4.2 
+Promoting and protecting human rights).
+The stigma attached to mental health conditions is 
+universal, pervading across cultures and contexts 
+in countries everywhere. People living with mental 
+health conditions can experience stigma from 
+families, neighbours, and from health profes-
+sionals themselves (158). In some cases, they can 
+internalize negative messages and stereotypes 
+and apply them to themselves in what is known as 
+self-stigma. In many countries stigma extends to 
+working in mental health care and can contribute 
+to staff shortages in mental health systems (158).
+People will often choose to suffer mental distress 
+without relief, rather than risk the discrimination 
+and ostracization that comes with accessing 
+mental health services (read Odireleng’s 
+experience). Yet with the right support, most 
+people with severe mental health conditions 
+can function at a very high social and economic 
+level, maintaining excellent relationships 
+and functioning well in employment.
+68
+World mental health report: transforming mental health for all

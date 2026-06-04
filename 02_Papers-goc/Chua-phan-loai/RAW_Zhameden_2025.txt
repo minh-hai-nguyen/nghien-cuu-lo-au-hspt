@@ -1,0 +1,1199 @@
+PLOS One | https://doi.org/10.1371/journal.pone.0316825  April 30, 2025 1 / 21
+ 
+ OPEN ACCESS
+Citation: Yin SZD, Low MK, Mishu MP (2025) 
+School-based interventions to prevent anxiety 
+and depression in children and adolescents 
+in low- and middle-income countries: A 
+systematic review. PLoS One 20(4): e0316825. 
+https://doi.org/10.1371/journal.pone.0316825
+Editor: Patricia Moreno-Peral, Institute of 
+Biomedical and Health Research in Malaga 
+(IBIMA), SPAIN
+Received:  June 1, 2024
+Accepted:  December 17, 2024
+Published: April 30, 2025
+Peer Review History: PLOS recognizes the 
+benefits of transparency in the peer review 
+process; therefore, we enable the publication 
+of all of the content of peer review and 
+author responses alongside final, published 
+articles. The editorial history of this article is 
+available here: https://doi.org/10.1371/journal.
+pone.0316825
+Copyright:  © 2025 Yin et al . This is an open 
+access article distributed under the terms of 
+the Creative Commons Attribution License , 
+which permits unrestricted use, distribution, 
+and reproduction in any medium, provided the 
+original author and source are credited.RESEARCH ARTICLE
+School-based interventions to prevent 
+anxiety and depression in children and 
+adolescents in low- and middle-income 
+countries: A systematic review
+Sharone Zhameden Dieu Yin1, Mei Ken Low2, Masuma Pervin Mishu3*
+1 Institute of Epidemiology and Health Care, University College London, London, United Kingdom, 
+2 Institute of Ophthalmology, University College London, London, United Kingdom, 3 Department of 
+Epidemiology and Public Health, Institute of Epidemiology and Health Care, University College London, 
+London, United Kingdom 
+* masuma.mishu@ucl.ac.uk
+Abstract 
+Background
+Anxiety and depression are on the rise among children and adolescents globally. 
+Low- and middle-income countries (LMICs) face heightened vulnerability due to limited 
+resources, restricted access to mental health services, socioeconomic disparities and 
+widespread mental health stigma. Schools offer a unique and potentially impactful setting 
+for preventive interventions targeting anxiety and depression in young individuals.
+Aim
+We aimed to identify empirical research to explore the effectiveness of school-based inter -
+ventions designed to prevent anxiety and depression among children and adolescents in 
+LMICs.
+Method
+Ovid MEDLINE, Embase, PsycINFO and CENTRAL were systematically searched for arti -
+cles published between 2018 and July 2023. Randomised controlled trials that evaluated 
+school-based interventions for children and adolescents aged 4–18 years in LMICs were 
+included. Only studies in English language were included. The primary outcomes were 
+anxiety and/or depressive symptoms. Risk-of-bias assessments were performed.
+Results
+Out of 3863 articles identified, six studies comprising 1587 students met the inclusion 
+criteria. Among the four studies that examined interventions for the prevention of both 
+anxiety and depression, as well as anxiety alone, only one study showed a reduc -
+tion in anxiety symptoms. In the case of depression, three out of four studies reported 
+improvements in depressive symptoms. The finding suggests a potential effectiveness of 
+
+PLOS One | https://doi.org/10.1371/journal.pone.0316825  April 30, 2025 2 / 21PLOS One
+Prevention of anxiety and depression in children in LMICs
+preventive interventions against depression, but not anxiety. However, this finding should 
+be interpreted with caution given the limited number of studies identified. All studies were 
+either classified as high risk of bias or having some concerns.
+Conclusion
+There is some evidence of the effectiveness of school-based interventions in preventing 
+anxiety and depression among young people in LMICs. Further research is necessary to 
+gain a more comprehensive understanding of this critical issue. Moving forward, it is cru -
+cial to enhance and broaden existing school-based prevention programs in these nations, 
+exploring different intervention strategies tailored to their specific contextual factors.
+Introduction
+Mental health problems among children and adolescents are major public health concerns 
+globally. According to the World Mental Health Report published by World Health Orga -
+nization (WHO) in 2022, approximately 8% of young children aged 5–9 years and 14% of 
+adolescents aged 10–19 years are affected by mental disorders globally [ 1]. The most common 
+mental health disorders are anxiety and depression, accounting for over 40% of cases among 
+adolescents [ 2]. Since the onset of the coronavirus disease 2019 (COVID-19) pandemic, 
+there has been a doubling in the estimated rates of anxiety and depression symptoms among 
+children and adolescents. A meta-analysis of 29 studies revealed that the global prevalence of 
+clinically elevated anxiety and depressive symptoms in this age group during the first year of 
+the pandemic were 20.5% and 25.2%, respectively [ 3]. The pandemic has exacerbated existing 
+mental health challenges and introduced new stressors for this demographic. Factors such as 
+isolation, disrupted routines and education, financial strain and increased feelings of uncer -
+tainty about the future have significantly contributed to heightened levels of psychological 
+distress [ 4–6].
+According to the most recent systematic analysis of the global burden of disease among 
+young people aged 10–24 years, self-harm, a severe outcome strongly linked to poor mental 
+health, has emerged as one of the leading causes of adolescent mortality. It contributes to 8.2% 
+of all adolescent deaths worldwide and approximately 20% of deaths within the age group of 
+15–24 years [ 7]. The majority of mental health disorders begin in adolescence, with half of 
+them starting by the age of 14 and three-quarters by the age of 25 [ 8,9]. Research indicates that 
+mental health issues experienced during childhood and adolescence can persist or recur over 
+the lifespan [ 10–12] and have long-term biopsychosocial ramifications [ 13–15]. Furthermore, 
+childhood mental disorders have a significant economic impact [ 16–18]. According to the 
+United Nations Children’s Fund’s (UNICEF) State of the World’s Children 2021 report, mental 
+health conditions in children aged 0–19 lead an estimated annual loss of US$340.2 billion, 
+adjusted for purchasing power parity, in human capital [ 2].
+The burden of mental health problems is unevenly distributed, with a higher prevalence 
+observed in low- and middle-income countries (LMICs). It is estimated that over 225 million 
+children and adolescents worldwide are affected by mental disorders and 88% of these cases 
+are found in LMICs [ 19]. However, there is limited data on mental health, especially for chil -
+dren and adolescents, in these regions. Despite LMICs being home to nearly 90% of the global 
+adolescent population, data coverage is only available for approximately 2% of children and 
+adolescents living in these countries [ 1,2,20]. Children and adolescents in LMICs face distinct 
+challenges when it comes to addressing mental health issues and providing mental health care Data availability statement : All relevant 
+data are within the paper and its Supporting 
+Information  files.
+Funding: The author(s) received no specific 
+funding for this work.
+Competing interests: The authors declare no 
+conflict of interest
+PLOS One | https://doi.org/10.1371/journal.pone.0316825  April 30, 2025 3 / 21PLOS One
+Prevention of anxiety and depression in children in LMICs
+services. These challenges include limited human and financial resources, inadequate mental 
+health infrastructure and vast variations in socio-cultural contexts [ 21]. Health systems often 
+exhibit inadequate integration of mental health services into the broader healthcare policies or 
+within primary healthcare [ 22–24]. Additionally, this population faces a higher risk of being 
+exposed to adverse childhood experiences and various risk factors such as physical and emo -
+tional abuse, chronic neglect, poverty, homelessness, violence and conflicts [ 25–30]. Further -
+more, a culture of stigma surrounding mental health is widespread in LMICs. Misconceptions, 
+fear and societal attitudes regarding mental illness often led to social exclusion, discrimination 
+and hesitancy to seeking assistance [ 31–33]. Cultural and religious beliefs about illnesses have 
+driven many individuals to favour non-evidence-based approaches provided by traditional 
+or alternative healers, such as complementary practitioners or spiritual healers, instead of 
+relying on current therapeutic interventions [ 23,34]. The stigma associated with mental health 
+alongside cultural and religious perceptions have resulted in significant delays in help-seeking, 
+reduced access to health services and poor adherence to treatments.
+Given the long-term implications of untreated mental health conditions, there is a critical 
+need for preventive measures and timely interventions. Early prevention strategies are crucial 
+in reducing the prevalence of mental health disorders in children and young people, as well 
+as alleviating the associated burden and disability that comes with these conditions. Pri -
+mary prevention refers to measures designed to prevent the occurrence of a disease before 
+it develops in a susceptible population or individual [ 35]. Interventions, aimed at primary 
+prevention, can be classified as universal, selective and indicated. Universal prevention aims 
+to reach the entire population not defined on the basis of risk. On the other hand, selective 
+prevention focuses on individuals who have a higher-than-average risk of developing a 
+mental disorder. Lastly, indicated prevention targets high risk individuals who exhibit early 
+subclinical symptoms of a mental disorder. Risk factors are determined by biological, psy -
+chological or social indicators [ 36]. Policies have prioritised primary prevention of mental 
+disorders in children and young people, with schools playing a central role in implementa -
+tion [ 37]. Schools serve as important environments for social and emotional learning [ 38]. 
+Since education is compulsory in most LMICs [ 39,40], the majority of children and young 
+people spend a substantial amount of time in schools. Therefore, school-based interventions 
+have the potential to reach a large number of children and adolescents, irrespective of their 
+socio-cultural backgrounds. They can help overcome challenges related to limited resources 
+and poor access to mental health services.
+A diverse array of interventions has been integrated into educational settings, falling into 
+categories such as psychological, psychosocial, psychoeducational, psycho-supportive, physi -
+cal, mindfulness, relaxation and many more [ 41]. Among these, cognitive-behavioural therapy 
+(CBT) is one of the most widely used psychological interventions, supported by robust 
+evidence demonstrating its efficacy in addressing both anxiety and depression [ 42]. Other 
+examples of psychological interventions are behavioural therapy (BT), third wave therapies 
+and interpersonal therapies [ 41].
+Several systematic reviews have sought to assess the effectiveness of school-based pre -
+ventive interventions in addressing anxiety and depression among children and adolescents 
+[41,43–46]. However, most of the interventions have been evaluated in high-income countries 
+(HICs). Considering the unique mental health challenges and disparities in LMICs, it remains 
+uncertain whether these interventions can be effectively applied in such settings. A com -
+prehensive review of preventive interventions, accounting the specific contexts of LMICs, is 
+necessary to inform ongoing policy implementation in these countries.
+This systematic review aims to identify and explore the effectiveness of interventions to 
+prevent anxiety and depression in children and adolescents in LMICs.
+PLOS One | https://doi.org/10.1371/journal.pone.0316825  April 30, 2025 4 / 21PLOS One
+Prevention of anxiety and depression in children in LMICs
+Methods
+This systematic review was conducted and reported according to the preferred reporting items 
+for systemic reviews and meta-analyses (PRISMA) guidelines [ 47]. The protocol was regis -
+tered retrospectively on INPLASY: INPLASY2024100063 on 15th October 2024.
+Eligibility criteria
+Inclusion criteria. Studies with participants aged between 4 and 18 years at recruitment and 
+who did not have an identifiable physical or mental health condition were included. Studies were 
+eligible if they evaluated school-based interventions aimed at preventing anxiety and depression. 
+These interventions were required to take place in school settings or be integrated into the 
+school curriculum. Various primary prevention approaches, including universal, selective 
+or indicated prevention, were eligible. Randomised controlled trials (RCTs) including both 
+individual and cluster RCTs reporting anxiety and/or depression symptoms as the outcomes 
+were included. All types of outcome assessors, such as participants, parents, teachers and 
+clinicians, were eligible. All types of control group were eligible. These included no intervention 
+(NI), usual curriculum (UC), waitlist (WL) or attention control (AC) groups. Only studies 
+conducted in LMICs, based on the Development Assistance Committee (DAC) list of recipients 
+eligible for official development assistance (ODA) funding [ 48], were included. Studies 
+published from 2018 were included. The date limit was selected because the search strategy 
+of the last major systematic review [ 41] on school-based anxiety and depression prevention 
+interventions was conducted until 2018. Studies published in English Language were included.
+Exclusion criteria. Studies that focused on addressing mental health promotion, 
+awareness or literacy, emotional well-being and positive psychology were not eligible, unless 
+their aim was to prevent anxiety and depression. Interventions intended to address problems 
+potentially leading to a mental health disorder, for example, stress, bullying and substance 
+abuse, were excluded. Similarly, interventions aimed to help children and young people cope 
+with specific events or circumstances such as parental divorce, natural disasters and conflicts, 
+were excluded. Any grey literature and reviews, reports and study protocols were excluded.
+Search strategy and study selection
+Ovid MEDLINE, Embase, PsycINFO and CENTRAL were searched on 7th July 2023. The 
+search terms were developed using Caldwell et al. ’s search strategy [ 41] and further expanded 
+to encompass LMICs listed in the DAC list of ODA recipients [ 48]. The concepts used in the 
+structured search were “children and young people” , “school-based” , “depression and anxi -
+ety” , “preventive interventions” , “risk factors” , “randomised controlled trials” and “low- and 
+middle-income countries” . Under these concepts, relevant keywords, synonyms and Medical 
+Subject Headings (MeSH) terms were included. Boolean operators “OR” was used to link 
+search terms within each concept and “ AND” was used to combine the different concepts. The 
+search strategy was checked by an information specialist and modified for each database [ 49].
+Titles, abstracts and full texts were screened fully by the primary reviewer, SZDY . A second 
+reviewer, MKL, independently undertook 20% of titles, abstracts and full-texts screening. Dis -
+crepancies were jointly reconciled by the reviewers, SZDY and MKL. Any disagreement was 
+resolved by a third reviewer, MPM, when necessary. References were collated using Endnote 
+[50] and transferred to Rayyan [ 51] for screening.
+Data extraction
+A data extraction form was developed to register and code relevant information about the 
+included studies. Data on study details (authors, year of publication, study design, country, 
+PLOS One | https://doi.org/10.1371/journal.pone.0316825  April 30, 2025 5 / 21PLOS One
+Prevention of anxiety and depression in children in LMICs
+study setting, target condition, and type of prevention intervention), participant character -
+istics (age range, gender and sample size), interventions (program name, mode of delivery, 
+program format, program content, who delivered the intervention, number and duration of 
+sessions), controls (types and content of control) and outcomes (duration of follow-up, out -
+come assessors, measurement scale used, pre- and post-intervention results and effectiveness 
+of intervention on symptoms of anxiety and/or depression) were extracted.
+Data were extracted by the primary reviewer, SZDY , and checked by a second reviewer, 
+MPM.
+Risk of bias and quality assessment
+The Cochrane Risk of Bias tool version 2 (RoB 2 tool) [ 52] was used to assess the risk of bias 
+of all included studies. The RoB 2 for cluster-randomised trials was employed when the study 
+design involved a cluster RCT. Studies were rated as ‘low’ , ‘some concerns’ and ‘high’ in risk 
+of bias. The process of assessment was performed by the primary assessor, SZDY , and were 
+checked by a second assessor, MPM. Discrepancies were resolved through discussion.
+The quality of evidence was assessed using the Grading of Recommendations Assessment, 
+Development and Evaluation (GRADE) approach [ 53]. Studies were classified as ‘high’ , ‘mod -
+erate’ , ‘low’ and ‘very low’ in quality of evidence. The quality assessment of included studies 
+was performed independently by two assessors, SZDY , and MKL. Discrepancies were resolved 
+through discussion.
+Data Synthesis
+Due to the heterogeneity of the included studies, it was not possible to conduct a meta- 
+analysis. A narrative synthesis of anxiety and/or depression outcomes of all included studies 
+was undertaken. For reporting of anxiety and/or depression outcomes, we grouped the studies 
+as they reported the outcome as: anxiety and depression, anxiety only and depression only.
+Results
+Study Selection
+A total of 3863 records were identified through electronic database searching, of which 1102 
+duplicates and one retracted paper were removed. Following a 100% agreement rate in the 
+20% double-screened abstracts, 2760 records underwent title and abstract screening, resulting 
+in the exclusion of 2711 records. 49 full-text articles were assessed for eligibility. Finally, six 
+studies [ 54–59] were included in the review, encompassing data from 1587 participants. Fig 1  
+shows the PRISMA flow diagram of the selection process.
+Study characteristics
+Table 1  shows the characteristics of the included studies. The included studies were published 
+between 2018 and 2021. Sample sizes ranged from 43 to 580 individuals with the age range 
+between 4–18 years. Four studies were cluster-RCTs and two were individually randomised, 
+parallel trials. All studies were conducted in middle-income countries (MICs); four [ 54–56,58] 
+were conducted in upper and two [ 57,59] were conducted in lower MICs. The upper MICs 
+were Brazil [ 58], China [ 55], Lebanon [ 56] and Malaysia [ 54] while the lower MICs were India 
+[59] and Kenya [ 57]. Five studies were classified as universal prevention [ 54–58], and one as 
+indicated [ 59]. Among the six studies that were included, one study took place in a pre-school 
+setting [ 58], another in a primary school setting [ 54] and the majority were conducted in 
+secondary schools (n=4) [ 55–57,59]. Studies evaluated interventions that target anxiety (n=2) 
+[54,58], depression (n=2) [ 55,59] and both anxiety and depression (n=2) [ 56,57].
+PLOS One | https://doi.org/10.1371/journal.pone.0316825  April 30, 2025 6 / 21PLOS One
+Prevention of anxiety and depression in children in LMICs
+The preventive interventions were based on CBT (n=4) [ 54,56,58,59] and psychoeducation 
+(n=2) [ 55,57] programs. The program sessions varied in number, spanning from 1 to 18, and 
+the duration of each session ranged between 40–120 minutes. Regarding control conditions, 
+three studies utilised the wait-list control condition [ 54,56,58], two used the attention control 
+condition [ 57,59] and one used the usual curriculum [ 55] condition. Studies were delivered 
+by teachers (n=1) [ 55], mental health professionals (n=2) [ 56,58] and researchers (n=3) 
+[54,57,59]. Mental health professionals were psychologists, psychiatry trainees, post-doctoral 
+research fellows and master’s students in psychology. Five studies [ 54–56,58,59] were deliv -
+ered face-to-face whereas one study [ 57] utilised digital means as mode of delivery. All were 
+delivered through group settings and included a mixture of both genders.
+Fig 1 . PRISMA flow diagram.
+https://doi.org/10.1371/journal.pone.0316825.g001
+PLOS One | https://doi.org/10.1371/journal.pone.0316825  April 30, 2025 7 / 21PLOS One
+Prevention of anxiety and depression in children in LMICs
+Table 2  displays the outcome characteristics of the included studies. Five studies evaluated 
+the effects of the prevention programs on anxiety and/or depression by utilising measures 
+based on self-reported symptoms. One study, however, employed measures reported by 
+parents. Four studies [ 54–56,59] reported an end of intervention outcome on anxiety and/
+or depression symptoms. Additionally, two [ 57,58] presented follow-up data either before 
+or at the one-month timepoint, while three studies [ 54,58,59] presented follow-up data at 
+the three-month timepoint. Most programs (n=5) did not report any parental involvements. 
+In the study conducted by Rivero et. al. [ 58], parents were provided guidance for fostering 
+resilience within the family setting, building healthy habits, parental strategies and enhanc -
+ing social-emotional skills. Additionally, they received a weekly report outlining the skills 
+cultivated during each FunFRIENDS session and instructions for activities to be performed 
+at home.
+Due to the heterogeneity in the studies and utilisation of diverse outcome measures, a 
+meta-analysis for combining the results of the included studies was not feasible. We conducted 
+a narrative synthesis of the results, and the effectiveness of the interventions across the studies 
+was reported individually. The effectiveness of the interventions reported in the included 
+studies are presented based on the specific target conditions: the combination of anxiety 
+and depression, anxiety alone and depression alone, as outlined in Table 2 . Among these, 
+four studies [ 54,56,57,59] reported statistically significant improvements in either anxiety 
+or depression symptoms within the intervention group when compared to the comparator 
+group.
+Anxiety and depression
+Two studies evaluated interventions that targeted both anxiety and depression in children 
+and young people. In the cluster RCT conducted by Maalouf and colleagues [ 56], a total Table 1 . Study characteristics.
+Author 
+and 
+Y earStudy 
+DesignTarget 
+Con -
+ditionCoun -
+tryStudy 
+SettingPre-
+vention 
+TypeAge 
+RangeSam -
+ple 
+SizeProgram 
+NamePro-
+gram 
+ContentMode and 
+Format of 
+DeliveryDelivered By Number, 
+Duration 
+of SessionsControl Types 
+and Content
+Ab 
+Ghaffar 
+2019Cluster 
+RCTA Malay -
+siaPri-
+maryU 10-11 461 IMB-based 
+prevention 
+programCBT F2F, 
+GroupResearch 
+Assistants4, 60 mins WL
+Desan 
+2021Cluster 
+RCT 
+(Pilot)D China Sec-
+ond-
+aryU NR (US 
+10th 
+Grade)580 Curriculum 
+based on posi -
+tive psychologyPsycho-  
+educationF2F, 
+GroupTeachers 18, 40 
+minsUC – tradi -
+tional psychol -
+ogy curriculum
+Maalouf 
+2020Cluster 
+RCTA and 
+DLeba -
+nonSec-
+ond-
+aryU 11-13 280 My FRIENDS 
+Y outh programCBT F2F, 
+GroupMental Health 
+Professionals 
+or Trainees10, 45–50 
+minsWL
+Osborn 
+2020Indi-
+vidual 
+RCTA and 
+DKenya Sec-
+ond-
+aryU 13-18 103 Shamiri-Digital Psycho-  
+educationMM, 
+GroupStudent 
+Researchers1, 90 mins AC – active, 
+digital 
+study-skills
+Rivero 
+2020Individ -
+ual RCT 
+(Pilot)A Brazil Pre-
+SchoolU 4-6 43 FunFRIENDS 
+programCBT F2F, 
+GroupPsychologists 14, 90–120 
+minsWL
+Singhal 
+2018Cluster 
+RCTD India Sec-
+ond-
+aryI 13-18 120 Coping Skills 
+programCBT F2F, 
+GroupResearchers 8, NR AC – single 
+interactive 
+psycho- 
+education
+RCT – Randomised Controlled Trial, A – Anxiety, D – Depression, A and D – Anxiety and Depression, U – Universal, I – Indicated, IMB – Information- Motivation-
+Behaviour, CBT – Cognitive Behavioural Therapy, F2F – Face-to-face, MM – Multimedia, UC – Usual Curriculum, WL – Waiting List, AC – Attention Control. NR- 
+Not reported
+https://doi.org/10.1371/journal.pone.0316825.t001
+PLOS One | https://doi.org/10.1371/journal.pone.0316825  April 30, 2025 8 / 21PLOS One
+Prevention of anxiety and depression in children in LMICs
+Table 2 . Outcome measures and results of included studies.
+Study Outcome Mea -
+sures (Cut-off 
+Scores)Intervention Group (Mean, SD, n) Control Group (Mean, SD, n) Overall Results
+Pre- 
+interventionPost- 
+intervention 
+(Intervention 
+Endpoint)Follow-up Pre- 
+interventionPost- 
+intervention 
+(Intervention 
+Endpoint)Follow-up
+Studies that evaluated interventions on both anxiety and depression
+Maalouf 
+2020Anxiety: Scale 
+for Childhood 
+Anxiety and 
+Related Disor -
+ders (SCARED)
+(No Cut-off 
+identified) *131.24 (-), n=144 23.16 (-), 
+n=102– 26.24 (-), 
+n=13319.66 (-), 
+n=126– No significant time *group 
+effect was found for the total 
+SCARED score (p=0.709).
+Depression:
+Mood and Feel -
+ings Question -
+naire (MFQ)
+(No Cut-off 
+identified) *218.46 (-), n=144 10.66 (-), 
+n=102– 14.13 (-), 
+n=1339.36 (-), 
+n=126– Significant time × group effect 
+for the MFQ for depressive 
+symptoms (p= 0.039) scores, 
+indicating that being in the 
+intervention group was associ -
+ated with a significant decrease 
+in emotional and depressive 
+symptoms compared with the 
+control group over time.
+Osborn 
+2020Anxiety: GAD-7 
+(Cut-off: ≥10)8.98 (5.12), 
+n=50– 2 weeks 7.92 
+(4.48), 
+n=508.74 (5.30), 
+n=53– 2 weeks 9.00 
+(4.45), 
+n=53Although adolescents in the 
+intervention group experienced 
+a decline in anxiety symp -
+toms from baseline to 2-week 
+ follow-up compared with the 
+control group youths, this decline 
+was non-significant (p=0.280, 
+d=0.29, 95% CI [-0.20, 0.79]).
+Depression: 
+PHQ-8 (Cut-off: 
+≥10)
+310.60 (5.37), 
+n=50– 2 weeks 8.35 
+(4.69), 
+n=509.68 (4.75), 
+n=53– 2 weeks 10.00 
+(4.65), 
+n=53The significant Time *Condition 
+interaction indicated that ado -
+lescents in the Shamiri- Digital 
+intervention experienced larger 
+declines in depressive symp -
+toms from baseline to 2-week 
+follow-up than control-group 
+youths (p=0.028, d=0.50, 95% 
+CI [0.00, 1.60]).
+Studies that evaluated interventions on anxiety
+Ab 
+Ghaffar 
+2019Anxiety: RCAD-
+25 (Cut-off: T 
+score ≥65)14.14 (6.19), 
+n=19314.10 (6.42), 
+n=-3 
+months12.95 
+(7.09), 
+n=17215.06 (6.95), 
+n=26815.14 (6.33), 
+n=-3 
+months13.87 
+(7.18), 
+n=241The intervention was effective 
+in reducing anxiety for the 
+whole sample (F(4,1097)=5.86, 
+p=0.001, d=0.103). The findings 
+showed that the effect size 
+of our school-based anxiety 
+prevention program at three 
+months post-intervention was 
+small, with Cohen’s d=0.10.
+Rivero 
+2020Anxiety: PAS * 
+(Cut-off: T 
+score ≥60)ITT1 41.04 
+(15.65), 
+n=21– 1 month 36.61 
+(15.37), 
+n=1936.86 (13.76), 
+n=22– 1 month 33.27 
+(11.73), 
+n=20A reduction in overall scores 
+in both groups was observed 
+for the PAS instrument, but 
+without statistical significance 
+(F=0.14, p=0.86, effect=0.00).3 
+months31.95 
+(16.32), 
+n=163 
+months29.77 
+(10.13), 
+n=15
+ITT2 – 1 month 36.46 
+(15.25), 
+n=19– 1 month 33.57 
+(10.32), 
+n=20Non-statistical significance 
+(F=0.70, p=0.47, effect=0.01).
+3 
+months29.66 
+(11.37), 
+n=163 
+months29.86 
+(7.60), 
+n=15
+(Continued )
+PLOS One | https://doi.org/10.1371/journal.pone.0316825  April 30, 2025 9 / 21PLOS One
+Prevention of anxiety and depression in children in LMICs
+of ten schools comprising 280 students aged 11–13 years were randomly assigned to either 
+the My FRIENDS Y outh program, a CBT-based intervention, or a wait-list control group. 
+Pre-intervention and post-intervention anxiety scores were measured using the Scale for 
+Childhood Anxiety and Related Disorders (SCARED). A reduction in the SCARED scores 
+was observed for both the FRIENDS program (pre-intervention: Mean=31.24, SD=Not 
+Reported (NR), post-intervention: Mean=23.16, SD=NR) and the wait-list control (pre-  
+intervention: Mean=26.24, SD=NR, post-intervention: Mean=19.66, SD=NR) groups. 
+However, this reduction was not statistically significant. On the other hand, depression 
+scores were measured using the Mood and Feelings Questionnaire (MFQ) at the same 
+time points. Similarly, the MFQ scores reduced for both the intervention and control 
+groups. Unlike the SCARED scores, there was a statistically significant reduction in the 
+MFQ scores in the My FRIENDS Y outh program group (pre-intervention: Mean=18.46, Study Outcome Mea -
+sures (Cut-off 
+Scores)Intervention Group (Mean, SD, n) Control Group (Mean, SD, n) Overall Results
+Pre- 
+interventionPost- 
+intervention 
+(Intervention 
+Endpoint)Follow-up Pre- 
+interventionPost- 
+intervention 
+(Intervention 
+Endpoint)Follow-up
+Studies that evaluated interventions on depression
+Desan 
+2021Depression: 
+Centre for 
+Epidemiological 
+Studies Depres -
+sion Scale (CES-
+D) (No Cut-off 
+identified)*,48.15 (4.66), 
+n=2889.22 (4.96), 
+n=252– 8.38 (4.71), 
+n=29210.11 (4.82), 
+n=263– There was a negative interven -
+tion effect on CES-D (not sta -
+tistically significant). Since this 
+is a measure of negative affect, 
+this represents improved (less 
+depressed) scores associated 
+with the intervention (Mean+/- 
+SE=-0.725+/-0.436, p>0.05, 
+95% CI [-1.582, 0.1331]).
+Singhal 
+2018Depression: 
+CDI (Cut offs: 
+>14 and <24)22.00 (4.30), 
+n=6510.30 (3.20), 
+n=513 
+months5.10 
+(2.30), 
+n=5121.80 (3.50), 
+n=5519.90 (3.10), 
+n=493 
+months22.20 
+(3.60), 
+n=49The interven -
+tion group 
+evidenced 
+clinically 
+significant 
+reductions 
+in depressive 
+symptoms 
+at both post- 
+intervention 
+and 
+follow-up.F(1,90)=234.2, 
+p<0.001
+Depression: 
+Centre for 
+epidemiolog -
+ical Studies- 
+Depression 
+Scale for Chil -
+dren (CES-DC) 
+5(No Cut-off 
+identified) *29.4 (6.40), 
+n=6515.90 (4.90), 
+n=519.40 
+(3.30), 
+n=5129.50 (5.30), 
+n=5528.40 (5.30), 
+n=4929.40 
+(4.60), 
+n=49F(1,90)=132.5, 
+p<0.001
+- –Parent-reported, SCARED – Scale for Childhood Anxiety and Related Disorders, MFQ – Mood and Feelings Questionnaire, GAD-7 – Generalized Anxiety Disorder 
+Screener–7, PHQ-8 – Patient Health Questionnaire–8, RCAD-25 – Short version of the Revised Child Anxiety and Depression Scale, P AS – Preschool Anxiety Scale, 
+CES-D – Centre for Epidemiological Studies Depression Scale, CDI – Children’s Depression Inventory, CES-DC – Centre for Epidemiological Studies-Depression Scale 
+for Children, ITT1 – Intention-to-treat analysis 1, ITT2 – Intention-to-treat analysis
+*No identified cut off scores within the included studies.
+1–5 highlights commonly used cut off scores for these outcome measures: 1. A total score of ≥ 25 may indicate the presence of an anxiety disorder. Scores higher than 30 
+are more specific
+2Higher scores on the MFQ suggest more severe depressive symptoms. Scores on the long version range from 0 to 66. Scoring 27 or higher on the long version may 
+indicate the presence of depression in the respondent.
+3Higher scores on the MFQ suggest more severe depressive symptoms. Scores on the long version range from 0 to 66. Scoring 27 or higher on the long version may 
+indicate the presence of depression in the respondent.
+4Cut-off score for depressive symptoms was ≥10 for the 10-item version. 5. Scores over 15 can be indicative of significant levels of depressive symptoms.
+https://doi.org/10.1371/journal.pone.0316825.t002Table 2. (Continued)
+PLOS One | https://doi.org/10.1371/journal.pone.0316825  April 30, 2025 10 / 21PLOS One
+Prevention of anxiety and depression in children in LMICs
+SD=NR, post-intervention: Mean=10.66, SD=NR) as compared to the wait-list control 
+group (pre-intervention: Mean=14.13, SD=NR, post-intervention: Mean=9.36, SD=NR). 
+My FRIENDS Y outh program was effective in improving the depressive symptoms in the 
+participants of the study, but it did not demonstrate the same effectiveness in alleviating 
+anxiety symptoms.
+In the study by Osborn and colleagues [ 57], a group of 103 high school students aged 
+13–18 years were randomised to either the Shamiri-Digital, a single session of digital 
+ |psychoeducation-based program, or an active digital study-skills control intervention. Anxi -
+ety and depression scores were evaluated using the Generalised Anxiety Disorder Screener-7 
+(GAD-7] and the Patient Health Questionnaire-8 (PHQ-8) respectively, both before the 
+intervention and at a two-week follow-up. For anxiety outcomes, participants assigned to the 
+Shamiri-Digital intervention experienced a reduction in GAD-7 scores (pre-intervention: 
+Mean=8.98, SD=5.12, 2-weeks post-intervention: Mean=7.92, SD=4.48). On contrast, the 
+study-skills control group showed an increase in GAD-7 scores (pre-intervention: Mean=8.74, 
+SD=5.30, 2-weeks post-intervention: Mean=9.00, SD=4.45). In terms of depression outcomes, 
+the PHQ-8 scores decreased in the Shamiri-Digital group (pre-intervention: Mean=10.60, 
+SD=5.37, 2-weeks post-intervention: Mean=8.35, SD=4.69) while an increase was observed 
+in the study-skills control group (pre-intervention: Mean=9.68, SD=4.75, 2-weeks post- 
+intervention: Mean=10.00, SD=4.65). Comparing the Shamiri-Digital intervention to the 
+study-skills control, a significant reduction in depressive symptoms among adolescents 
+from baseline to the two-week follow-up was evident (p=0.028, 95% CI [0.00, 1.60], d=0.50), 
+whereas no statistically significant effect was seen on anxiety symptoms (p=0.280, 95% CI 
+[-0.20, 0.79], d=0.29).
+In summary, both studies demonstrated that school-based interventions led to a statisti -
+cally significant reduction in depressive symptoms, while no significant effect was observed on 
+anxiety symptoms.
+Anxiety
+Among the six studies that were included, two RCTs assessed interventions solely aimed at 
+addressing anxiety. Ab Ghaffar et. al. [ 54] conducted a cluster RCT in which they randomised 
+12 primary schools, involving a total of 461 students, into two groups: one receiving a school-
+based anxiety prevention program, a CBT-based intervention, and the other consisted of a 
+waitlist control group. Anxiety scores were assessed using the short version of the Revised 
+Child Anxiety and Depression Scale (RCAD-25) at three time points: pre- intervention, 
+post-intervention and at a 3-month follow-up. The anxiety scores demonstrated a decrease 
+across all three time points in the intervention group (pre-intervention: Mean=14.14, 
+SD=6.19, post-intervention: Mean=14.10, SD=6.42, 3-months follow-up: Mean=12.95, 
+SD=7.09). Conversely, the control group indicated a minor escalation in anxiety scores 
+from baseline to post-intervention, followed by a reduction at the 3-month follow-up (pre- 
+intervention: Mean=15.06, SD=6.95, post-intervention: Mean=15.14, SD=6.33, 3-months 
+follow-up: Mean=13.87, SD=7.18). The authors concluded that the school-based anxiety 
+prevention program was effective in reducing anxiety, although the effect of the intervention 
+was small (F(4,1097)=5.86, p=0.001, Cohen’s d=0.10).
+Rivero et. al. [ 58] conducted a pilot RCT that involved 43 preschoolers aged 4–6 years. 
+These participants were randomly assigned to either a CBT-based intervention called the 
+FunFRIENDS program or a wait-list control group. Anxiety scores were collected from 
+parents using the Preschool Anxiety Scale (PAS) at three time points: pre-intervention, at 
+1-month follow-up and 3-months follow-up. Through intention-to-treat analyses, with one 
+using a last-observation-carried-forward (LOCF) method (ITT1) and the other employing 
+PLOS One | https://doi.org/10.1371/journal.pone.0316825  April 30, 2025 11 / 21PLOS One
+Prevention of anxiety and depression in children in LMICs
+mean substitution (ITT2) for handling missing data, reductions were observed in both the 
+intervention group (ITT1; pre-intervention: Mean=41.04, SD=15.65, 1-month follow-up: 
+Mean=36.61, SD=15.37, 3-months follow-up: Mean=31.95, SD=16.32 and ITT2; pre-  
+intervention: Mean=41.04, SD=15.65, 1-month follow-up: Mean=36.46, SD=15.25, 3-months 
+post-intervention: Mean=29.66, SD=11.37) and the control group (ITT1; pre-intervention: 
+Mean=36.86, SD=13.76, 1-month follow-up: Mean=33.27, SD=11.73, 3-months follow-up: 
+Mean=29.77, SD=10.13 and ITT2; pre-intervention: Mean=36.86, SD=13.76, 1-month 
+follow-up: Mean=33.57, SD=10.32, 3-months post-intervention: Mean=29.86, SD=7.60) 
+across all three time points. However, the observed differences across these time points were 
+not statistically significant (ITT1; F=0.14, p=0.86, effect=0.00 and ITT2; F=0.70, p=0.47, 
+effect=0.01).
+In summary, both studies observed a reduction in anxiety symptoms. However, in contrast 
+to the small but statistically significant reduction noted in the study by Ab Ghaffar et. al. [ 54], 
+the results found by Rivero et al. [ 58] were not statistically significant.
+Depression
+Among the six included studies, two RCTs evaluated interventions exclusively focused on 
+addressing depression. In Desan and colleagues’ study [ 55], they conducted a pilot cluster 
+RCT across two distinct cohorts, encompassing a total of 580 students. In the first cohort, ten 
+classrooms were randomly assigned to either a curriculum centred around psychoeducation 
+on positive psychology or a control group with a traditional psychology curriculum. The 
+second cohort comprised eight classrooms, again randomised into intervention and con -
+trol groups. Depression scores were measured using the Centre for Epidemiological Studies 
+Depression Scale (CES-D) at pre-intervention and post-intervention. Both the interven -
+tion (pre-intervention: Mean=8.15, SD=4.66, post-intervention: Mean=9.22, SD=4.96) and 
+control (pre-intervention: Mean=8.38, SD=4.71, post-intervention: Mean=10.11, SD=4.82) 
+groups demonstrated an increase in CES-D scores. The authors reported a non-statistically 
+significant negative intervention effect, indicating an improvement in depressive symptoms 
+among the intervention group (Intervention effect: Mean=-0.73, SE=0.44, p>0.05, 95% CI 
+[-1.58, 0.13]).
+Another study by Singhal et. al. [ 59] examined a CBT-based indicated prevention interven -
+tion known as the Coping Skills program, compared to an attention control group consisting 
+of a single interactive psychoeducation session. This study involved two schools with a total of 
+120 students aged 13–18 years, who were experiencing subclinical depression. They were ran -
+domly assigned to either the intervention or control group. The Children’s Depression Inven -
+tory (CDI) and Centre for Epidemiological Studies-Depression Scale for Children (CES-DC) 
+were administered at pre-intervention, post-intervention and 3-months follow-up. The 
+intervention group reported a decline in both CDI (pre-intervention: Mean=22.00, SD=4.30, 
+post-intervention: Mean=10.30, SD=3.20, 3-months follow-up: Mean=5.10, SD=2.30) and 
+CES-DC (pre-intervention: Mean=29.4, SD=6.40, post-intervention: Mean=15.90, SD=4.90, 
+3-months follow-up: Mean=9.40, SD=3.30) scores. In contrast, the control group’s CDI 
+(pre-intervention: Mean=21.80, SD=3.50, post-intervention: Mean=19.90, SD=3.10, 3-months 
+follow-up: Mean=22.20, SD=3.60) and CES-D (pre-intervention: Mean=29.50, SD=5.30, 
+post-intervention: Mean=28.40, SD=5.30, 3-months follow-up: Mean=29.40, SD=4.60) 
+scores remained relatively consistent. The authors reported a statistically significant reduc -
+tion in depressive symptoms across all time points, as indicated by both CDI (F(1,90)=234.2, 
+p<0.001) and CES-DC (F(1,90)=132.5, p<0.001) scores.
+Both studies found that school-based interventions led to an improvement in depressive 
+symptoms. However, only results found by Singhal et. al. [ 59] reached statistical significance.
+PLOS One | https://doi.org/10.1371/journal.pone.0316825  April 30, 2025 12 / 21PLOS One
+Prevention of anxiety and depression in children in LMICs
+Risk of bias assessments
+The results from the risk of bias assessment are illustrated in Figs 2 –4 Four studies were rated 
+as high risk of bias and two studies had some concerns. The main reasons for studies being 
+classified as high risk of bias were due to lack of blindness in the assessment of outcomes, lack of 
+evidence reported on missing data, significant deviations from the intended interventions and 
+problems with the randomisation process. The main reasons for studies being classified as some 
+concerns were due to lack of pre-specified analysis plans, lack of analysis to correct for missing 
+data, possible deviations from intended intervention due to lack of blindness in people deliv -
+ering interventions, studies not reporting any procedures to guarantee that outcome assessors 
+were blinded to group assignment as well as allocation concealment. Please see Appendix 2 for 
+the full ‘Risk of Bias’ assessments for each study, including the evidence used to justify ratings.
+Quality of evidence
+The main outcomes assessed were anxiety and depression ( Table 3 ). Overall, the quality of evi -
+dence across all outcome domains was deemed very low. Several quality concerns arose from 
+several factors, including risk of bias, indirectness and imprecision. Generally, the risk of bias 
+of the included studies stemmed from a lack of allocation concealment, inadequate blinding 
+Fig 2 . Results of ‘Risk of Bias’ assessments, categorised based on study design.  The RoB 2 Excel tool (Beta Version 9) was used for the generation of part 
+of this figure.
+https://doi.org/10.1371/journal.pone.0316825.g002
+PLOS One | https://doi.org/10.1371/journal.pone.0316825  April 30, 2025 13 / 21PLOS One
+Prevention of anxiety and depression in children in LMICs
+and incomplete accounting of patients and outcome events. The indirectness of evidence 
+arises from variations in interventions, making their applicability to LMICs uncertain. While 
+the optimal information size was not calculated for the included studies, most had small sam -
+ple sizes and there was limited information around the precision of results. A funnel plot was 
+not generated due to significant heterogeneity in outcome measures across studies, precluding 
+evaluation of publication bias in the quality assessment.
+Discussion
+Overall, six relevant studies of school-based interventions that prevent anxiety and depression 
+among children and adolescents in LMICs were identified. The findings suggest the poten -
+tial effectiveness of preventive interventions against depression, while the same cannot be 
+concluded for anxiety. In the subset of studies (n=4) that evaluated interventions addressing 
+Fig 3 . Judgements for each risk of bias items presented as percentages across all individually randomised parallel-group trials.  
+Figure generated using RoB 2 Excel tool (Beta Version 9).
+https://doi.org/10.1371/journal.pone.0316825.g003
+Fig 4 . Judgements for each risk of bias items presented as percentages across all cluster randomised trials.  Figure generated using 
+RoB 2 Excel tool (Beta Version 9).
+https://doi.org/10.1371/journal.pone.0316825.g004
+PLOS One | https://doi.org/10.1371/journal.pone.0316825  April 30, 2025 14 / 21PLOS One
+Prevention of anxiety and depression in children in LMICs
+both anxiety and depression, as well as interventions targeting anxiety alone, only one study 
+[54] demonstrated a statistically significant reduction in anxiety symptoms due to the inter -
+vention. In the subset of studies (n=4) that examined interventions targeting both anxiety and 
+depression, as well as interventions exclusively addressing depression, three studies [ 56,57,59] 
+recorded statistically significant improvements in depressive symptoms. Nevertheless, this 
+finding should be interpreted with caution given the limited number of studies identified. The 
+current review lacked sufficient data to confidently draw conclusions about the overall effec -
+tiveness of the identified interventions.
+To date, several systematic reviews and meta-analyses [ 41,43–46] have explored preventative 
+interventions targeting anxiety and depression in children and adolescents within school settings. 
+However, no systematic review that specifically addresses school-based preventative interventions 
+in LMICs has been identified. The overall conclusions drawn from the previous reviews were 
+varied, with most of them indicating a modest beneficial effect in preventing depression and/
+or anxiety. A meta-analysis performed by Johnstone et. al. [ 44], involving 14 RCTs with 5970 
+children under the age of 13, revealed that programs aimed at both anxiety and depression were 
+effective in preventing depressive symptoms, but no significant effect was observed on anxiety 
+symptoms. This aligns with the evidence drawn from the current review, which demonstrates the 
+potential impact of school-based interventions on depressive but not anxiety symptoms.Table 3 . Quality assessment of the evidence using the GRADE approach.
+Outcome Number of studies Study design Risk of bias Inconsistency Indirectness Imprecision Other factors Overall
+Comparison: CBT vs Waitlist
+Anxiety
+[54,56,58]3 Cluster and Indi -
+vidual RCTsVery serious Serious Serious aSerious cNone Very low
+⨁○○○
+Depression [ 56] 1 Cluster RCT Very serious Not serious Serious aSerious cNone Very low
+⨁○○○
+Comparison: CBT vs Usual Curriculum
+Anxiety 0 – – – – – – –
+Depression 0 – – – – – – –
+Comparison: CBT vs Attention Control
+Anxiety 0 – – – – – – –
+Depression [ 59] 1 Cluster RCT Very serious Not serious Serious aSerious cNone Very low
+⨁○○○
+Comparison: Psychoeducation vs Waitlist
+Anxiety 0 – – – – – – –
+Depression 0 – – – – – – –
+Comparison: Psychoeducation vs Usual Curriculum
+Anxiety 0 – – – – – – –
+Depression [ 55] 1 Cluster RCT Very serious Not serious Serious aSerious cNone Very low
+⨁○○○
+Comparison: Psychoeducation vs Attention Control
+Anxiety [ 57] 1 Individual RCT Not serious Not serious Very serious bSerious cNone Very low
+⨁○○○
+Depression [ 57] 1 Individual RCT Not serious Not serious Very serious bSerious cNone Very low
+⨁○○○
+- – Not reported, CBT – Cognitive Behavioural Therapy, RCT – Randomised Controlled Trial.
+a.Some variations in interventions adapted to fit specific populations, potentially limiting generalisability to all LMICs
+b.Vast variations in intervention, limiting generalisability to all LMICs
+c.Lack of information regarding adequacy of sample size to demonstrate a precise effect estimate
+https://doi.org/10.1371/journal.pone.0316825.t003
+PLOS One | https://doi.org/10.1371/journal.pone.0316825  April 30, 2025 15 / 21PLOS One
+Prevention of anxiety and depression in children in LMICs
+On the other hand, Corrieri et. al. ’s review identified 28 RCTs and found that school-
+based interventions had a small effect on both depression and anxiety [ 45]. Similarly, 
+Werner- Seidler et. al. [ 43] concluded from their systematic review and meta-analysis, 
+involving 81 RCTs with a total of 31 794 participants, that school-based prevention 
+programs showed a small beneficial effect on both depressive and anxiety symptoms. An 
+updated review by Werner-Seidler et. al. in 2021, consisting of 118 RCTs and 45,924 par -
+ticipants, again confirmed its previous findings [ 46]. In contrast, Caldwell et. al. ’s review, 
+encompassing 137 randomised trials with 56 620 participants aged 4–18, reported insuf -
+ficient evidence to conclude the effectiveness of school-based interventions in prevent -
+ing anxiety and depression [ 41]. Among the included studies, only 11 were conducted 
+in LMICs. This finding resonates with the evidence pool identified in this review, where 
+limited data from LMICs is noted. These conflicting conclusions can be attributed to the 
+substantial heterogeneity in the included studies, the variation of methodologies employed 
+and the differences in geographical focus.
+Most of the studies included in previous reviews were predominantly centered on HICs, 
+limiting their applicability to LMICs. This is highlighted in a recent overview on depressive 
+disorders prevention in LMICs by Cuijpers et. al. [ 60], who cautioned against disseminating 
+prevention strategies in LMICs as there is limited studies that have explored its effects in 
+these nations. In Cuijpers’ study [ 60], only 6% of the studies were conducted in LMICs and 
+none of the 50 included RCTs took place in a low-income country (LIC), with only three 
+conducted in MICs. This aligns with our findings, where all studies were based in MICs. 
+LMICs constitute a heterogeneous group of countries with unique contextual factors and 
+implementation challenges that must be considered. Factors such as resource constraints, 
+cultural diversity and mental health stigma in LMICs can significantly influence the design 
+and delivery of interventions, potentially leading to different outcomes from those observed 
+in HICs.
+Although there is potential to translate and adapt HICs school-based programs to LMICs, 
+there are several factors that must be considered. Firstly, LMICs may potentially benefit from 
+programs that are cost-effective and less resource-intensive, such as group-based and digital 
+interventions, as suggested by Bradshaw et al. [ 61]. These programs take into account the 
+limited resources and accessibility needs in LMICs. This has also been reflected in the study by 
+Osborn et. al. [ 57], which recognised the cost-effectiveness of the digital Shamiri intervention. 
+This contrasts with HICs, where more abundant resources allow for greater flexibility between 
+individual and group interventions.
+Another factor of consideration is the method of delivery of the intervention program. 
+The choice to have trained mental health professionals or teachers deliver the school-based 
+intervention, as well as the decision to involve parents, often depends on the availability 
+of resources, cultural values and societal stigma [ 62]. Heim et. al. [ 63] demonstrated that 
+cultural values influence the prevalence of mental health disorders. Hierarchy, the legit -
+imisation of inequality, has been depicted to be negatively correlated with mental health 
+disorders, which has been proposed to be due to the stigma of mental health disease found 
+in countries such as China, Turkey and Nigeria. Culturally sensitive school interventions 
+with parental involvement may be especially beneficial in LMICs like China, where family 
+support is a protective factor against mental health disorders [ 64]. However, this should be 
+balance with the associated cost and resources required [ 62]. Conversely, in HICs like the 
+United States, public stigma surrounding mental health has declined in recent years [ 63,64], 
+with egalitarianism potentially contributing to this shift [ 63]. These differences underscore 
+the importance of tailoring interventions specifically to the social and cultural contexts of 
+both LMICs and HICs.
+PLOS One | https://doi.org/10.1371/journal.pone.0316825  April 30, 2025 16 / 21PLOS One
+Prevention of anxiety and depression in children in LMICs
+Strengths and limitations
+One limitation lies in the high heterogeneity observed among the included studies, encom -
+passing differences in their settings, the types of intervention evaluated and how these inter -
+ventions were delivered. Furthermore, the utilisation of a wide range of measurement tools 
+across studies posed challenges in directly comparing the outcomes, impeding the synthesis 
+of a cohesive overview. Our review highlights that the heterogeneity of outcome measures has 
+posed a major challenge for comparing results and determining the effectiveness of inter -
+ventions, aligning with previous literature [ 62,64,65]. Standardising mental health outcome 
+measures would facilitate comparisons across different approaches and programs in future 
+studies [ 66].
+The measurements of anxiety and depression symptoms in all included RCTs relied on 
+subjective reports from participants and parents, as opposed to more reliable clinician-rated 
+outcomes. However, the feasibility of clinicians conducting diagnostic evaluations for all 
+participants in school-based research, particularly given the limited availability of specialised 
+professionals in LMICs, could be challenging. Participant- and parent-reported outcomes are 
+susceptible to reporting and observer bias.
+Another limitation stems from the relatively short follow-up periods employed across the 
+studies, with the longest follow-up extending only up to three months after the intervention. 
+The short duration is not sufficient to allow for an assessment of whether the interventions 
+would be effective in preventing the emergence of anxiety and depression.
+All studies were classified as having either some concerns or a high risk of bias. This is in 
+part due to the nature of the interventions, making it challenging to implement the double- or 
+triple-blinding conditions typically attributed with high-quality clinical trials. Nevertheless, 
+the risk of bias assessments also revealed other deficiencies, including a lack of information 
+regarding allocation concealment and missing data, as well as insufficient data analysis to 
+address the missing data. Furthermore, none of the included studies had a study protocol that 
+outlined a pre-specified analysis plan to counter the risk of selective reporting. In addition, the 
+GRADE assessment revealed that the quality of evidence for anxiety and depression outcomes 
+were classified as very low. This indicates uncertainty about whether the effects observed in 
+the studies accurately reflect the true impact.
+The review’s comprehensive search strategy, which encompassed a diverse set of inclusion 
+criteria coupled with the incorporation of risk factors, contributed to a thorough explora -
+tion of the topic. While the search strategy was comprehensive, there were limitations that 
+emerged from the complexity and low specificity of the search. One significant limitation was 
+restricting the search to only English language studies. Since many of the LMICs and local 
+research may not be in English. The implementation of English language restriction makes 
+this review susceptible to language bias as relevant studies conducted in LMICs might be pub -
+lished in different languages and would have been excluded.
+This research was part of a master’s dissertation. Due to logistical challenges, including 
+a tight timeframe and limited logistical support, the review protocol was not pre-registered 
+at that time. However, it was subsequently registered retrospectively on INPLASY . Due to 
+these challenges, the search was conducted in four electronic databases and included only the 
+published articles. The exclusion of abstracts, ongoing trials without published outcomes and 
+grey literature might result in the exclusion of valuable insights from unpublished research 
+and studies with negative findings [ 67], which might lead to an incomplete and potentially 
+skewed overview of the literature. Studies included in this review may have been susceptible to 
+publication bias.
+The inclusion of only RCTs provided a robust foundation for evaluating the effective -
+ness of interventions, enhancing the internal validity of this research. However, the review 
+PLOS One | https://doi.org/10.1371/journal.pone.0316825  April 30, 2025 17 / 21PLOS One
+Prevention of anxiety and depression in children in LMICs
+also highlighted a key limitation in the lack of sufficient evidence to draw definitive con -
+clusions about the effectiveness of interventions. The scarcity of relevant RCTs conducted 
+in LMICs limits the extent to which meaningful insights can be gleaned from the review’s 
+findings.
+Implications for research and practice
+The current review emphasised the urgent need to design and implement more school-
+based preventive interventions for anxiety and depression, especially in LMICs where 
+the need is the greatest. There is a rise in mental health problems, including anxiety and 
+depression, in LMICs due to rapid urbanisation, environmental challenges and shifting 
+social dynamics, making it critical to extend research beyond the HICs. In general, there 
+is a need for cross culturally adapted intervention to prevent and treat depression and/
+or anxiety among young people [ 68]. As mentioned before, the heterogeneity of outcome 
+measures was highlighted as a significant issue in other systematic reviews that include 
+RCTs on anxiety and depression in children and adolescents. This heterogeneity of 
+outcome measures makes it difficult to compare findings across studies. Consequently, it 
+becomes challenging to determine which interventions are effective for specific groups. 
+Future trials should employ standardised measurement tools to enhance comparability 
+and reliability. Additionally, longer-term follow-up period should be incorporated to 
+allow for the assessment of intervention effectiveness in preventing anxiety and depres -
+sion over time.
+The absence of high-quality studies underscores the need for substantial enhancements in 
+research rigor as well as the reporting of study methodologies and outcomes. Efforts should 
+focus on implementing random sequence generation techniques and adequate allocation 
+concealment, ensuring adequate blinding, providing sufficient information on missing data 
+and conducting analyses that address data gaps. In order to minimise the impact of selective 
+reporting bias, studies should endeavour to register their research protocols that include 
+pre-specified plans for outcome analysis.
+Future reviews should focus on addressing the limitations of this review, such as incorpo -
+rating studies published in different languages and broadening the search scope to encompass 
+relevant studies from diverse sources. Researchers could consider adopting more stringent 
+inclusion criteria to enable a more robust assessment of the evidence.
+Moreover, this review’s alignment and disparities with prior literature highlighted the need 
+to account for the contextual differences when implementing and evaluating interventions in 
+LMICs. There exists a substantial gap in both the comprehensiveness and applicability of the 
+evidence presented in the current review. It remains unclear how effective school-based pre -
+vention programs are in preventing anxiety and depression among children and adolescents 
+in LMICs. Moving forward, it is imperative to expand upon existing school-based prevention 
+programs for real-world implementation.
+Conclusion
+The results indicate the potential effectiveness of school-based interventions in preventing 
+depression in the children and adolescents in the LMICs. However, due to limited evidence 
+and potential biases, it is not possible to draw conclusions about the overall effectiveness of 
+these programs from the current review. Further research is necessary to gain a more com -
+prehensive understanding of this critical topic. By leveraging the strengths of this review and 
+addressing its limitations, researchers and policymakers can collaborate to enhance mental 
+health outcomes for children and adolescents in LMICs.
+PLOS One | https://doi.org/10.1371/journal.pone.0316825  April 30, 2025 18 / 21PLOS One
+Prevention of anxiety and depression in children in LMICs
+Supporting information
+S1 File.  Search strategies for each database. 
+(DOCX)
+S2 File.  Risk of bias assessment. 
+(DOCX)
+S3 File.  PRISMA 2020 Checklist. 
+(DOCX)
+S1 Table.  Studies identified in search. 
+(XLSX)
+S2 Table.  Data extraction. 
+(XLSX)
+Author contributions
+Conceptualization:  Sharone Zhameden Dieu Yin, Masuma Pervin Mishu.
+Data curation:  Sharone Zhameden Dieu Yin, Mei Ken Low, Masuma Pervin Mishu.
+Formal analysis:  Sharone Zhameden Dieu Yin, Masuma Pervin Mishu.
+Investigation:  Sharone Zhameden Dieu Yin, Masuma Pervin Mishu.
+Methodology:  Sharone Zhameden Dieu Yin, Masuma Pervin Mishu.
+Supervision:  Masuma Pervin Mishu.
+Visualization:  Sharone Zhameden Dieu Yin.
+Writing – original draft:  Sharone Zhameden Dieu Yin, Masuma Pervin Mishu.
+Writing – review & editing:  Sharone Zhameden Dieu Yin, Mei Ken Low, Masuma Pervin 
+Mishu.
+References
+ 1. World Health Organization. World mental health report: transforming mental health for all [Internet]. 
+Geneva; 2022 [cited 2023 Jul 7]. Available from: https://www.who.int/publications/i/item/9789240049338
+ 2. United Nations Children’s Fund. State of the world’s children 2021: On my mind - Promoting, protecting 
+and caring for children’s mental health. [Internet]. New Y ork: UNICEF; 2021 [cited 2023 Jul 4]. Available 
+from: https://www.unicef.org/media/114636/file/SOWC-2021-full-report-English.pdf
+ 3. Racine N, McArthur B, Cooke J, Eirich R, Zhu J, Madigan S. Global prevalence of depressive and 
+anxiety symptoms in children and adolescents during COVID-19. JAMA Pediatrics. 2021;175(11):1142.
+ 4. Haikalis M, Doucette H, Meisel M, Birch K, Barnett N. Changes in college student anxiety and depres -
+sion from pre- to during-COVID-19: Perceived stress, academic challenges, loneliness, and positive 
+perceptions. Emerging Adulthood. 2022;10(2):534–45.
+ 5. Camacho-Zuñiga C, Pego L, Escamilla J, Hosseini S. The impact of the COVID-19 pandemic on 
+students’ feelings at high school, undergraduate, and postgraduate levels. Heliyon. 2021;7(3):e06465. 
+https://doi.org/10.1016/j.heliyon.2021 .e06465  PMID: 33768174
+ 6. Theberath M, Bauer D, Chen W, Salinas M, Mohabbat A, Y ang J. Effects of COVID-19 pandemic on 
+mental health of children and adolescents: a systematic review of survey studies. SAGE Open Medi -
+cine. 2022;10:e88312. https://doi.org/10.1177/20503121221088312
+ 7. Ward J, Azzopardi P , Francis K, Santelli J, Skirbekk V, Sawyer S, et al. Global, regional, and national 
+mortality among young people aged 10–24 years, 1950–2019: a systematic analysis for the Global 
+Burden of Disease Study 2019. The Lancet. 2021;398(10311):1593–618. https://doi.org/10.1016/
+S0140-6736(21)01385-3
+ 8. Kessler RC, Berglund P , Demler O, Jin R, Merikangas KR, Walters EE. Lifetime prevalence and age-
+of-onset distributions of DSM-IV disorders in the National Comorbidity Survey Replication. Archives of 
+General Psychiatry. 2005;62(6):593–602. https://doi.org/10.1001/archpsyc.62.6.593
+PLOS One | https://doi.org/10.1371/journal.pone.0316825  April 30, 2025 19 / 21PLOS One
+Prevention of anxiety and depression in children in LMICs
+ 9. Thapar A, Collishaw S, Pine D, Thapar A. Depression in adolescence. The Lancet. 
+2012;379(9820):1056–67 .
+ 10. Supke M, Ferling C, Hahlweg K, Schulz W. Persistence and course of mental health problems from 
+childhood into adolescence: results of a 10-year longitudinal study. BMC Psychol. 2021;9(1):38. 
+https://doi.org/10.1186/s40359-021-00535-4  PMID: 33640034
+ 11. Otto C, Reiss F , Voss C, Wüstner A, Meyrose A, Hölling H. Mental health and well-being from child -
+hood to adulthood: design, methods and results of the 11-year follow-up of the BELLA study. Eur Child 
+Adolesc Psychiatry. 2021;30(10):1559–77 .
+ 12. Avenevoli S. Prevalence, persistence, and sociodemographic correlates of DSM-IV disorders in the 
+National Comorbidity Survey Replication Adolescent Supplement. Archives of General Psychiatry. 
+2012;69(4):372–80. https://doi.org/10.1001/archgenpsychiatry.2011 .160
+ 13. Bastiaansen D, Ferdinand R, Koot H. Predictors of quality of life in children and adolescents with 
+psychiatric disorders. Child Psychiatry and Human Development. 2020;51(1):104–13.
+ 14. Houtrow AJ, Okumura MJ. Pediatric mental health problems and associated burden on families. Vulnera -
+ble Child Y outh Stud. 2011;6(3):222–33. https://doi.org/10.1080/17450128.2011 .580144  PMID: 22135697
+ 15. Smith NR, Marshall L, Albakri M, Smuk M, Hagell A, Stansfeld S. Adolescent mental health diffi -
+culties and educational attainment: findings from the UK household longitudinal study. BMJ Open. 
+2021;11(7):e046792. https://doi.org/10.1136/bmjopen-2020-046792  PMID: 34305046
+ 16. Doran CM, Kinchin I. A review of the economic impact of mental illness. Aust Health Rev. 
+2019;43(1):43–8. https://doi.org/10.1071/AH16115  PMID: 29129189
+ 1 7. Olesen J, Gustavsson A, Svensson M, Wittchen H-U, Jönsson B, CDBE2010 study group, et al. The 
+economic cost of brain disorders in Europe. Eur J Neurol. 2012;19(1):155–62. https://doi.org/10.1111/
+j.1468-1331 .2011 .03590.x  PMID: 22175760
+ 18. Lizheng X, Chaofan L, Jiajing L, Fan Y , Jian W. The economic burden of mental disorders in children 
+and adolescents in China: a cross-sectional study. The Lancet. 2019;394(10):S48.
+ 19. GBD 2019 Mental Disorders Collaborators. Global, regional, and national burden of 12 mental 
+disorders in 204 countries and territories, 1990-2019: a systematic analysis for the Global Bur -
+den of  Disease Study 2019. Lancet Psychiatry. 2022;9(2):137–50. https://doi.org/10.1016/S2215-
+0366(21)00395-3  PMID: 35026139
+ 20. Erskine HE, Baxter AJ, Patton G, Moffitt TE, Patel V, Whiteford HA, et al. The global coverage 
+of prevalence data for mental disorders in children and adolescents. Epidemiol Psychiatr Sci. 
+2017;26(4):395–402. https://doi.org/10.1017/S2045796015001158  PMID: 26786507
+ 21. Rathod S, Pinninti N, Irfan M, Gorczynski P , Rathod P , Gega L. Mental health service provision in low- 
+and middle-income countries. Health Serv Insights. 2017;10:1769435.
+ 22. Wakida EK, Talib ZM, Akena D, Okello ES, Kinengyere A, Mindra A. Barriers and facilitators to 
+the integration of mental health services into primary health care: a systematic review. Systematic 
+Reviews. 2018;7(1):211 .
+ 23. Rathod S, Pinninti N, Irfan M, Gorczynski P , Rathod P , Gega L. Mental health service provision in low- 
+and middle-income countries. Health Services Insights. 2017;10.
+ 24. Sarikhani Y , Bastani P , Rafiee M, Kavosi Z, Ravangard R. Key barriers to the provision and utilization 
+of mental health services in low-and middle-income countries: A scope study. Community Mental 
+Health Journal. 2021;57(5):836–52.
+ 25. Kidman R, Piccolo LR, Kohler H-P . Adverse Childhood Experiences: Prevalence and Association With 
+Adolescent Health in Malawi. Am J Prev Med. 2020;58(2):285–93. https://doi.org/10.1016/j.ame -
+pre.2019.08.028  PMID: 31810632
+ 26. Bellis MA, Hughes K, Ford K, Ramos Rodriguez G, Sethi D, Passmore J. Life course health conse -
+quences and associated annual costs of adverse childhood experiences across Europe and North 
+America: a systematic review and meta-analysis. Lancet Public Health. 2019;4(10):e517–28. https://
+doi.org/10.1016/S2468-2667(19)30145-8  PMID: 31492648
+ 2 7. Hillis S, Mercy J, Amobi A, Kress H. Global Prevalence of Past-year Violence Against Children: A Sys -
+tematic Review and Minimum Estimates. Pediatrics. 2016;137(3):e20154079. https://doi.org/10.1542/
+peds.2015-4079  PMID: 26810785
+ 28. Soares ALG, Howe LD, Matijasevich A, Wehrmeister FC, Menezes AMB, Gonçalves H. Adverse 
+childhood experiences: Prevalence and related factors in adolescents of a Brazilian birth cohort. Child 
+Abuse Negl. 2016;51:21–30. https://doi.org/10.1016/j.chiabu.2015.11 .017  PMID: 26707919
+ 29. Ramiro LS, Madrid BJ, Brown DW. Adverse childhood experiences (ACE) and health-risk behaviors 
+among adults in a developing country setting. Child Abuse Negl. 2010;34(11):842–55. https://doi.
+org/10.1016/j.chiabu.2010.02.012  PMID: 20888640
+PLOS One | https://doi.org/10.1371/journal.pone.0316825  April 30, 2025 20 / 21PLOS One
+Prevention of anxiety and depression in children in LMICs
+ 30. Benjet C. Childhood adversities of populations living in low-income countries: prevalence, charac -
+teristics, and mental health consequences. Curr Opin Psychiatry. 2010;23(4):356–62. https://doi.
+org/10.1097/YCO.0b013e32833ad79b  PMID: 20520546
+ 31. Alloh F , Regmi P , Onche I, Teijlingen EV, Trenoweth S. Mental health in low-and middle income coun -
+tries (LMICs): Going beyond the need for funding. Health Prospect. 2018;17(1):12–7 .
+ 32. Mascayano F , Armijo J, Y ang L. Addressing stigma relating to mental illness in low- and middle- 
+income countries. Frontiers in Psychiatry. 2015;6.
+ 33. Javed A, Lee C, Zakaria H, Buenaventura RD, Cetkovich-Bakmas M, Duailibi K, et al. Reducing the 
+stigma of mental health disorders with a focus on low- and middle-income countries. Asian J Psychi -
+atr. 2021;58:102601 . https://doi.org/10.1016/j.ajp.2021 .102601  PMID: 33611083
+ 34. Breuer E, De Silva M, Shidaye R, Petersen I, Nakku J, Jordans M. Planning and evaluating mental 
+health services in low- and middle-income countries using theory of change. British Journal of Psy -
+chiatry. 2016;208(s56):s55-62.
+ 35. World Health Organization. World Health Organization Regional Office for the Eastern Mediterranean. 
+[cited 2023 Jul 6]. Health promotion and disease prevention through population-based interventions, 
+including action to address social determinants and health inequity. Available from: https://www.emro.
+who.int/about-who/public-health-functions/health-promotion-disease-prevention.html
+ 36. World Health Organization. Prevention of mental disorders: effective interventions and policy options: 
+summary report/ a report of the World Health Organization Dept. of Mental Health and Substance 
+Abuse; in collaboration with the Prevention Research Centre of the Universities of Nijmegen and 
+Maastricht [Internet]. Geneva: Oxford University Press; 2004 [cited 2023 Jul 6]. Available from: https://
+apps.who.int/iris/handle/10665/43027
+ 3 7. McLaughlin CL. International approaches to school-based mental health: Intent of the Special Issue. 
+School Psychology International. 2017;38(4):339–42.
+ 38. Durlak J, Weissberg R, Dymnicki A, Taylor R, Schellinger K. The impact of enhancing students’ social 
+and emotional learning: A meta-analysis of school-based universal interventions. Child Development. 
+2011;82(1):405–32. https://doi.org/10.1111/j.1467-8624.2010.01564.x
+ 39. Local Burden of Disease Educational Attainment Collaborators. Mapping disparities in education 
+across low- and middle-income countries. Nature. 2020;577(7789):235–8.
+ 40. Wils A. Reaching education targets in low and lower middle income countries: Costs and finance 
+gaps to 2030 for pre-primary, primary, lower- and upper secondary schooling [Internet]. 2015 [cited 
+2023 Jul 6]. Available from: https://unesdoc.unesco.org/ark:/48223/pf0000232560
+ 41. Caldwell DM, Davies SR, Hetrick SE, Palmer JC, Caro P , López-López JA, et al. School-based 
+interventions to prevent anxiety and depression in children and young people: a systematic review 
+and network meta-analysis. Lancet Psychiatry. 2019;6(12):1011–20. https://doi.org/10.1016/S2215-
+0366(19)30403-1  PMID: 31734106
+ 42. National Institute for Health and Care Excellence. Common mental health problems: identification and 
+pathways to care [Internet]. 2011 May. Available from: www.nice.org.uk/guidance/cg123
+ 43. Werner-Seidler A, Perry Y , Calear AL, Newby JM, Christensen H. School-based depression and anx -
+iety prevention programs for young people: A systematic review and meta-analysis. Clin Psychol Rev. 
+2017;51:30–47 . https://doi.org/10.1016/j.cpr.2016.10.005  PMID: 27821267
+ 44. Johnstone K, Kemps E, Chen J. A meta-analysis of universal school-based prevention programs for 
+anxiety and depression in children. Clinical Child and Family Psychology Review. 2018;21(4):466–81 .
+ 45. Corrieri S, Heider D, Conrad I, Blume A, Konig H, Riedel-Heller S. School-based prevention programs 
+for depression and anxiety in adolescence: a systematic review. Health Promotion International. 
+2014;29(3):427–41 .
+ 46. Werner-Seidler A, Spanos S, Calear AL, Perry Y , Torok M, O’Dea B, et al. School-based depression 
+and anxiety prevention programs: An updated systematic review and meta-analysis. Clin Psychol Rev. 
+2021;89:102079. https://doi.org/10.1016/j.cpr.2021 .102079  PMID: 34571372
+ 4 7. Page M, McKenzie J, Bossuyt P , Boutron I, Hoffmann T, Mulrow C. The PRISMA 2020 statement: an 
+updated guideline for reporting systematic reviews. BMJ. 2021;372:n71 .
+ 48. Organisation for Economic Co-operation and Development. OECD. DAC List of ODA Recipients: 
+Effective for reporting on 2022 and 2023 flows. . 2022 [cited 2023 Aug 11]. Available from: https://www.
+oecd.org/dac/financing-sustainable-development/development-finance-standards/DAC-List-of-ODA-
+Recipients-for-reporting-2022-23-flows.pdf
+ 49. Lefebvre C, Glanville J, Briscoe S, Featherstone R, Littlewood A, Marshall C, et al. Technical Supple -
+ment to Chapter 4: Searching for and selecting studies. In: Higgins J, Thomas J, Chandler J, Cump -
+ston M, Li T, Page M, et al., editors. Cochrane Handbook for Systematic Reviews of Interventions 
+PLOS One | https://doi.org/10.1371/journal.pone.0316825  April 30, 2025 21 / 21PLOS One
+Prevention of anxiety and depression in children in LMICs
+version 63 [Internet]. Cochrane; 2022 [cited 2023 Aug 12]. Available from: www.training.cochrane.org/
+handbook
+ 50. The EndNote Team. EndNote. Philadelphia: Clarivate; 2013.
+ 51. Ouzzani M, Hammady H, Fedorowicz Z, Elmagarmid A. Rayyan-a web and mobile app for systematic 
+reviews. Syst Rev. 2016;5(1):210. https://doi.org/10.1186/s13643-016-0384-4  PMID: 27919275
+ 52. Sterne J, Savovi ć J, Page M, Elbers R, Blencowe N, Boutron I, et al. RoB 2: a revised tool for assess -
+ing risk of bias in randomised trials. BMJ. 2019;366:l4898.
+ 53. Guyatt G, Oxman A, Kunz R, Falck-Ytter Y , Vist G, Liberati A. Going from evidence to recommenda -
+tions. BMJ. 2008;336(7652):1049–51 . https://doi.org/10.1136/bmj.39500.677199.80
+ 54. Ab Ghaffar S, Mohd Sidik S, Ibrahim N, Awang H, Gyanchand Rampal L. Effect of a school-based 
+anxiety prevention program among primary school children. International Journal of Environmental 
+Research and Public Health. 2019;16(24):4913. https://doi.org/10.3390/ijerph16244913
+ 55. Desan PH, Setton MK, Holzer AA, Y oung KC, Sun Y , He F , et al. Attitude change after a curriculum on 
+the science and philosophy of well ‐being and happiness for high school students: a classroom ‐ran-
+domized trial. British Journal of Educational Psychology. 2021 Dec 24;91(4):1333–48.
+ 56. Maalouf FT, Alrojolah L, Ghandour L, Afifi R, Dirani LA, Barrett P , et al. Building Emotional Resilience 
+in Y outh in Lebanon: a School-Based Randomized Controlled Trial of the FRIENDS Intervention. Prev 
+Sci. 2020;21(5):650–60. https://doi.org/10.1007/s11121-020-01123-5  PMID: 32363411
+ 5 7. Osborn TL, Rodriguez M, Wasil AR, Venturo-Conerly KE, Gan J, Alemu RG, et al. Single-session 
+digital intervention for adolescent depression, anxiety, and well-being: Outcomes of a randomized 
+controlled trial with Kenyan adolescents. J Consult Clin Psychol. 2020;88(7):657–68. https://doi.
+org/10.1037/ccp0000505  PMID: 32391709
+ 58. Rivero LMHN, Andrade ALM, Figueredo LZP , Pinheiro B de O, Micheli DD. Evaluation of Fun -
+FRIENDS program in prevention of anxiety in Brazilian children: a randomized controlled pilot trial. 
+Cien Saude Colet. 2020;25(11):4497–508. https://doi.org/10.1590/1413-812320202511 .33072018  
+PMID: 33175057
+ 59. Singhal M, Munivenkatappa M, Kommu JVS, Philip M. Efficacy of an indicated intervention program 
+for Indian adolescents with subclinical depression. Asian J Psychiatr. 2018;33:99–104. https://doi.
+org/10.1016/j.ajp.2018.03.007  PMID: 29549819
+ 60. Cuijpers P . Preventing the onset of depressive disorders in low-and middle-income countries: an over -
+view. Glob Ment Health (Camb). 2023;10:e28. https://doi.org/10.1017/gmh.2023.22  PMID: 37854437
+ 61. Bradshaw M, Gericke H, Coetzee BJ, Stallard P , Human S, Loades M. Universal school-based mental 
+health programmes in low- and middle-income countries: a systematic review and narrative synthesis. 
+Prev Med. 2021;143:106317 . https://doi.org/10.1016/j.ypmed.2020.106317  PMID: 33159922
+ 62. Barry MM, Clarke AM, Jenkins R, Patel V. A systematic review of the effectiveness of mental health 
+promotion interventions for young people in low and middle income countries. BMC Public Health. 
+2013;13:835. https://doi.org/10.1186/1471-2458-13-835  PMID: 24025155
+ 63. Heim E, Wegmann I, Maercker A. Cultural values and the prevalence of mental disorders in 25 
+countries: A secondary data analysis. Soc Sci Med. 2017;189:96–104. https://doi.org/10.1016/j.
+socscimed.2017 .07 .024  PMID: 28793240
+ 64. Pescosolido B, Medina T, Martin J, Long J. Trends in public stigma of mental illness in 
+the US, 1996-2018. JAMA Network Open. 2021;4(12):e2131234. https://doi.org/10.1001/
+jamanetworkopen.2021 .12345
+ 65. Zbukvic I, McKay S, Cooke S, Anderson R, Pilkington V, McGillivray L, et al. Evidence for targeted and 
+universal secondary school-based programs for anxiety and depression: An overview of systematic 
+reviews. Adolescent research review. 2023;65(1):1–10. https://doi.org/10.1000/j.journal.2023.01 .001
+ 66. Thapa Bajgain K, Amarbayan M, Wittevrongel K, McCabe E, Naqvi SF , Tang K, et al. Patient-reported 
+outcome measures used to improve youth mental health services: a systematic review. J Patient Rep 
+Outcomes. 2023;7(1):14. https://doi.org/10.1186/s41687-023-00556-0  PMID: 36788182
+ 6 7. Mlinarić A, Horvat M, Šupak Smol čić V. Dealing with the positive publication bias: Why you should 
+really publish your negative results. Biochem Med (Zagreb). 2017;27(3):
+ 68. Mishu MP , Tindall L, Kerrigan P , Gega L. Cross-culturally adapted psychological interventions for the 
+treatment of depression and/or anxiety among young people: A scoping review. PLoS One. 2023 Oct 
+25;18(10):e0290653

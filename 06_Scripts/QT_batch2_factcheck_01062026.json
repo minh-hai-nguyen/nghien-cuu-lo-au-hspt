@@ -1,0 +1,1020 @@
+[
+  {
+    "qt": "020",
+    "file": "QT020_Liu_CBT_Delivery_GAD_NMA_2025.docx",
+    "pdf": "QT020_Liu_CBT_Delivery_GAD_NMA_2025.pdf",
+    "total": 5,
+    "matched": 5,
+    "rate": 100.0,
+    "status": "OK",
+    "missed_top": []
+  },
+  {
+    "qt": "021",
+    "file": "QT021_Norway_Brunborg_2025_SocSciMed.docx",
+    "pdf": "QT021_Norway_Brunborg_2025_SocSciMed.pdf",
+    "total": 2,
+    "matched": 0,
+    "rate": 0.0,
+    "status": "SUSPICIOUS",
+    "missed_top": [
+      [
+        "F",
+        "F = 5,4"
+      ],
+      [
+        "F",
+        "F = 5,4"
+      ]
+    ]
+  },
+  {
+    "qt": "022",
+    "file": "QT022_ScreenTime_Li_2025_BJCP.docx",
+    "pdf": "22_Nepal_2023.pdf",
+    "total": 5,
+    "matched": 0,
+    "rate": 0.0,
+    "status": "SUSPICIOUS",
+    "missed_top": [
+      [
+        "%",
+        "52,3%"
+      ],
+      [
+        "%",
+        "44,3%"
+      ],
+      [
+        "%",
+        "2,2%"
+      ],
+      [
+        "p",
+        "p = 0,443"
+      ],
+      [
+        "OR/RR",
+        "OR = 5,00"
+      ]
+    ]
+  },
+  {
+    "qt": "023",
+    "file": "QT023_JAACAP_USA_Mojtabai_Trends_2024.docx",
+    "pdf": "QT023_JAACAP_USA_Mojtabai_Trends_2024.pdf",
+    "total": 8,
+    "matched": 3,
+    "rate": 37.5,
+    "status": "LOW",
+    "missed_top": [
+      [
+        "%",
+        "0,84%"
+      ],
+      [
+        "%",
+        "40,6%"
+      ],
+      [
+        "%",
+        "8,4%"
+      ],
+      [
+        "%",
+        "82,6%"
+      ],
+      [
+        "%",
+        "8,4%"
+      ]
+    ]
+  },
+  {
+    "qt": "024",
+    "file": "QT024_WHO_Europe_2025_LancetRegional.docx",
+    "pdf": "QT024_WHO_Europe_2025_LancetRegional.pdf",
+    "total": 10,
+    "matched": 0,
+    "rate": 0.0,
+    "status": "SUSPICIOUS",
+    "missed_top": [
+      [
+        "%",
+        "50%"
+      ],
+      [
+        "%",
+        "8,4%"
+      ],
+      [
+        "%",
+        "50%"
+      ],
+      [
+        "%",
+        "50%"
+      ],
+      [
+        "%",
+        "50%"
+      ],
+      [
+        "%",
+        "8,4%"
+      ],
+      [
+        "%",
+        "8,4%"
+      ],
+      [
+        "OR/RR",
+        "OR = 0,562"
+      ],
+      [
+        "OR/RR",
+        "OR = 0,562"
+      ],
+      [
+        "OR/RR",
+        "OR = 0,562"
+      ]
+    ]
+  },
+  {
+    "qt": "025",
+    "file": "QT025_EpiPsychSci_Crisp_Australia_2025.docx",
+    "pdf": "QT025_EpiPsychSci_Crisp_Australia_2025.pdf",
+    "total": 14,
+    "matched": 5,
+    "rate": 35.7,
+    "status": "LOW",
+    "missed_top": [
+      [
+        "%",
+        "36,3%"
+      ],
+      [
+        "%",
+        "70,7%"
+      ],
+      [
+        "%",
+        "43,3%"
+      ],
+      [
+        "%",
+        "40,7%"
+      ],
+      [
+        "%",
+        "58,3%"
+      ],
+      [
+        "%",
+        "47,9%"
+      ],
+      [
+        "%",
+        "36,3%"
+      ],
+      [
+        "p",
+        "p<0,001"
+      ],
+      [
+        "p",
+        "p<0,001"
+      ]
+    ]
+  },
+  {
+    "qt": "026",
+    "file": "QT026_UK_NHS_Parliament_2025.docx",
+    "pdf": "QT026_UK_NHS_Parliament_2025.pdf",
+    "total": 21,
+    "matched": 11,
+    "rate": 52.4,
+    "status": "LOW",
+    "missed_top": [
+      [
+        "%",
+        "31,7%"
+      ],
+      [
+        "%",
+        "36,1%"
+      ],
+      [
+        "%",
+        "25,8%"
+      ],
+      [
+        "%",
+        "18,9%"
+      ],
+      [
+        "%",
+        "25,8%"
+      ],
+      [
+        "%",
+        "36,1%"
+      ],
+      [
+        "%",
+        "16,3%"
+      ],
+      [
+        "%",
+        "10,3%"
+      ],
+      [
+        "%",
+        "31,7%"
+      ],
+      [
+        "%",
+        "25,4%"
+      ]
+    ]
+  },
+  {
+    "qt": "027",
+    "file": "QT027_NatureHumanBehav_Fassi_SocialMedia_2025.docx",
+    "pdf": "QT027_NatureHumanBehav_Fassi_SocialMedia_2025.pdf",
+    "total": 4,
+    "matched": 2,
+    "rate": 50.0,
+    "status": "LOW",
+    "missed_top": [
+      [
+        "OR/RR",
+        "OR = 5,00"
+      ],
+      [
+        "OR/RR",
+        "OR = 5,00"
+      ]
+    ]
+  },
+  {
+    "qt": "028",
+    "file": "QT028_AJP_Zugman_PediatricAnxiety_2024.docx",
+    "pdf": "QT028_AJP_Zugman_PediatricAnxiety_2024.pdf",
+    "total": 11,
+    "matched": 3,
+    "rate": 27.3,
+    "status": "SUSPICIOUS",
+    "missed_top": [
+      [
+        "%",
+        "66%"
+      ],
+      [
+        "%",
+        "8,4%"
+      ],
+      [
+        "%",
+        "66%"
+      ],
+      [
+        "%",
+        "8,4%"
+      ],
+      [
+        "%",
+        "66%"
+      ],
+      [
+        "%",
+        "60%"
+      ],
+      [
+        "%",
+        "66%"
+      ],
+      [
+        "OR/RR",
+        "OR=0,562"
+      ]
+    ]
+  },
+  {
+    "qt": "029",
+    "file": "QT029_BMC_Li_CBT_NMA_2025.docx",
+    "pdf": "QT029_BMC_Li_CBT_NMA_2025.pdf",
+    "total": 2,
+    "matched": 0,
+    "rate": 0.0,
+    "status": "SUSPICIOUS",
+    "missed_top": [
+      [
+        "%",
+        "66%"
+      ],
+      [
+        "OR/RR",
+        "OR = 0,562"
+      ]
+    ]
+  },
+  {
+    "qt": "030",
+    "file": "QT030_GBD_Trends_10-24y_2025.docx",
+    "pdf": "QT030_GBD_Trends_10-24y_2025.pdf",
+    "total": 7,
+    "matched": 2,
+    "rate": 28.6,
+    "status": "SUSPICIOUS",
+    "missed_top": [
+      [
+        "%",
+        "0,84%"
+      ],
+      [
+        "%",
+        "41,5%"
+      ],
+      [
+        "%",
+        "25,4%"
+      ],
+      [
+        "F",
+        "F = 6,6"
+      ],
+      [
+        "F",
+        "F=6,6"
+      ]
+    ]
+  },
+  {
+    "qt": "031",
+    "file": "QT031_Islam_59Countries_2025.docx",
+    "pdf": "QT031_Islam_59Countries_2025.pdf",
+    "total": 19,
+    "matched": 2,
+    "rate": 10.5,
+    "status": "SUSPICIOUS",
+    "missed_top": [
+      [
+        "%",
+        "3,6%"
+      ],
+      [
+        "%",
+        "40,6%"
+      ],
+      [
+        "%",
+        "86,2%"
+      ],
+      [
+        "%",
+        "3,6%"
+      ],
+      [
+        "%",
+        "14,6%"
+      ],
+      [
+        "%",
+        "11,0%"
+      ],
+      [
+        "%",
+        "10%"
+      ],
+      [
+        "%",
+        "3,6%"
+      ],
+      [
+        "%",
+        "3,6%"
+      ],
+      [
+        "%",
+        "2,3%"
+      ]
+    ]
+  },
+  {
+    "qt": "032",
+    "file": "QT032_Ireland_Fitzgerald_MyWorld_2024.docx",
+    "pdf": "QT032_Ireland_Fitzgerald_MyWorld_2024.pdf",
+    "total": 7,
+    "matched": 4,
+    "rate": 57.1,
+    "status": "LOW",
+    "missed_top": [
+      [
+        "%",
+        "100%"
+      ],
+      [
+        "%",
+        "41,5%"
+      ],
+      [
+        "%",
+        "25,4%"
+      ]
+    ]
+  },
+  {
+    "qt": "033",
+    "file": "QT033_JAMA_SchmidtPersson_ScreenMedia_2024.docx",
+    "pdf": "QT033_JAMA_SchmidtPersson_ScreenMedia_2024.pdf",
+    "total": 2,
+    "matched": 0,
+    "rate": 0.0,
+    "status": "SUSPICIOUS",
+    "missed_top": [
+      [
+        "OR/RR",
+        "OR = 5,00"
+      ],
+      [
+        "OR/RR",
+        "OR = 5,00"
+      ]
+    ]
+  },
+  {
+    "qt": "034",
+    "file": "QT034_Korea_Cho_MH_Trends_NatSciRep_2024.docx",
+    "pdf": "QT034_Korea_Cho_MH_Trends_NatSciRep_2024.pdf",
+    "total": 12,
+    "matched": 0,
+    "rate": 0.0,
+    "status": "SUSPICIOUS",
+    "missed_top": [
+      [
+        "%",
+        "62,8%"
+      ],
+      [
+        "%",
+        "40,1%"
+      ],
+      [
+        "%",
+        "62,8%"
+      ],
+      [
+        "%",
+        "40,1%"
+      ],
+      [
+        "%",
+        "28,2%"
+      ],
+      [
+        "%",
+        "13,9%"
+      ],
+      [
+        "%",
+        "41,5%"
+      ],
+      [
+        "%",
+        "25,4%"
+      ],
+      [
+        "%",
+        "0,84%"
+      ],
+      [
+        "%",
+        "40,1%"
+      ]
+    ]
+  },
+  {
+    "qt": "035",
+    "file": "QT035_Jefferies_SocialAnxiety_7Countries_2020.docx",
+    "pdf": "QT035_Jefferies_SocialAnxiety_7Countries_2020.pdf",
+    "total": 29,
+    "matched": 8,
+    "rate": 27.6,
+    "status": "SUSPICIOUS",
+    "missed_top": [
+      [
+        "%",
+        "30,7%"
+      ],
+      [
+        "%",
+        "2,3%"
+      ],
+      [
+        "%",
+        "40,6%"
+      ],
+      [
+        "%",
+        "40,3%"
+      ],
+      [
+        "%",
+        "30,7%"
+      ],
+      [
+        "%",
+        "42,4%"
+      ],
+      [
+        "%",
+        "32,1%"
+      ],
+      [
+        "%",
+        "27,0%"
+      ],
+      [
+        "%",
+        "41,4%"
+      ],
+      [
+        "%",
+        "30,7%"
+      ]
+    ]
+  },
+  {
+    "qt": "036",
+    "file": "QT036_Moon_Korea_GAD_ML_2025.docx",
+    "pdf": "QT036_Moon_Korea_GAD_ML_2025.pdf",
+    "total": 13,
+    "matched": 7,
+    "rate": 53.8,
+    "status": "LOW",
+    "missed_top": [
+      [
+        "%",
+        "46,2%"
+      ],
+      [
+        "%",
+        "46,2%"
+      ],
+      [
+        "%",
+        "40,6%"
+      ],
+      [
+        "%",
+        "36%"
+      ],
+      [
+        "F",
+        "F=16.646"
+      ],
+      [
+        "F",
+        "F=5,2"
+      ]
+    ]
+  },
+  {
+    "qt": "037",
+    "status": "NO_PDF",
+    "file": "QT037_Praptomojati_CA-CBT_SEA_AJP_2024.docx"
+  },
+  {
+    "qt": "038",
+    "file": "QT038_DeSilva_SriLanka_RCT_2024.docx",
+    "pdf": "QT038_DeSilva_SriLanka_RCT_2024.pdf",
+    "total": 11,
+    "matched": 8,
+    "rate": 72.7,
+    "status": "OK",
+    "missed_top": [
+      [
+        "p",
+        "p = 0,038"
+      ],
+      [
+        "p",
+        "p < 0,05"
+      ],
+      [
+        "β",
+        "β = +0,811"
+      ]
+    ]
+  },
+  {
+    "qt": "039",
+    "file": "QT039_Xian_NMA_SAD_JAD_2024.docx",
+    "pdf": "QT039_Xian_NMA_SAD_JAD_2024.pdf",
+    "total": 4,
+    "matched": 4,
+    "rate": 100.0,
+    "status": "OK",
+    "missed_top": []
+  },
+  {
+    "qt": "040",
+    "file": "QT040_Walder_JMIR_DMHI_SAD_2025.docx",
+    "pdf": "QT040_Walder_JMIR_DMHI_SAD_2025.pdf",
+    "total": 2,
+    "matched": 2,
+    "rate": 100.0,
+    "status": "OK",
+    "missed_top": []
+  },
+  {
+    "qt": "041",
+    "file": "QT041_Zheng_China_MXH_PRBM_2025.docx",
+    "pdf": "QT041_Zheng_China_MXH_PRBM_2025.pdf",
+    "total": 10,
+    "matched": 7,
+    "rate": 70.0,
+    "status": "OK",
+    "missed_top": [
+      [
+        "β",
+        "β = 0,615"
+      ],
+      [
+        "β",
+        "β = 0,223"
+      ],
+      [
+        "β",
+        "β = 0,153"
+      ]
+    ]
+  },
+  {
+    "qt": "042",
+    "file": "QT042_BrownCarter_UK_School_JMH_2025.docx",
+    "pdf": "QT042_BrownCarter_UK_School_JMH_2025.pdf",
+    "total": 2,
+    "matched": 1,
+    "rate": 50.0,
+    "status": "LOW",
+    "missed_top": [
+      [
+        "N",
+        "8.376"
+      ]
+    ]
+  },
+  {
+    "qt": "043",
+    "file": "QT043_Bress_JAMA_Maya_App_2024.docx",
+    "pdf": "QT043_Bress_JAMA_Maya_App_2024.pdf",
+    "total": 3,
+    "matched": 3,
+    "rate": 100.0,
+    "status": "OK",
+    "missed_top": []
+  },
+  {
+    "qt": "044",
+    "file": "QT044_Cai_Resilience_Frontiers_2025.docx",
+    "pdf": "QT044_Cai_Resilience_Frontiers_2025.pdf",
+    "total": 1,
+    "matched": 1,
+    "rate": 100.0,
+    "status": "OK",
+    "missed_top": []
+  },
+  {
+    "qt": "045",
+    "file": "QT045_Matsumoto_Japan_iCBT_JMIR_2024.docx",
+    "pdf": "QT045_Matsumoto_Japan_iCBT_JMIR_2024.pdf",
+    "total": 4,
+    "matched": 4,
+    "rate": 100.0,
+    "status": "OK",
+    "missed_top": []
+  },
+  {
+    "qt": "046",
+    "file": "QT046_Jagiello_AcademicStress_SR_2025.docx",
+    "pdf": "QT046_Jagiello_AcademicStress_SR_2025.pdf",
+    "total": 5,
+    "matched": 0,
+    "rate": 0.0,
+    "status": "SUSPICIOUS",
+    "missed_top": [
+      [
+        "%",
+        "50 %"
+      ],
+      [
+        "%",
+        "15 %"
+      ],
+      [
+        "OR/RR",
+        "OR = 11,58"
+      ],
+      [
+        "β",
+        "β = 4,73"
+      ],
+      [
+        "N",
+        "8.376"
+      ]
+    ]
+  },
+  {
+    "qt": "047",
+    "file": "QT047_Dong_PLOS_DASS_YaAn_2025.docx",
+    "pdf": "QT047_Dong_PLOS_DASS_YaAn_2025.pdf",
+    "total": 15,
+    "matched": 9,
+    "rate": 60.0,
+    "status": "LOW",
+    "missed_top": [
+      [
+        "%",
+        "78%"
+      ],
+      [
+        "%",
+        "63%"
+      ],
+      [
+        "%",
+        "55%"
+      ],
+      [
+        "p",
+        "p > 0,1"
+      ],
+      [
+        "p",
+        "p < 0,05"
+      ],
+      [
+        "p",
+        "p > 0,2"
+      ]
+    ]
+  },
+  {
+    "qt": "048",
+    "status": "NO_PDF",
+    "file": "QT048_Chen_COVID_Meta141_JAD_2025_ABSTRACT.docx"
+  },
+  {
+    "qt": "049",
+    "status": "NO_PDF",
+    "file": "QT049_Zhang_Bayesian_CBT_JCP_2026_ABSTRACT.docx"
+  },
+  {
+    "qt": "050",
+    "status": "NO_PDF",
+    "file": "QT050_Qiaochu_MobileCBT_CPP_2025_ABSTRACT.docx"
+  },
+  {
+    "qt": "051",
+    "status": "NO_PDF",
+    "file": "QT051_Menon_LMIC_SEA_Pacific_APJPH_2025_ABSTRACT.docx"
+  },
+  {
+    "qt": "052",
+    "file": "QT052_Mindfulness_NatureMH_IPD_MA_2023.docx",
+    "pdf": "QT052_Mindfulness_NatureMH_IPD_MA_2023.pdf",
+    "total": 0,
+    "matched": 0,
+    "rate": 0,
+    "status": "SUSPICIOUS",
+    "missed_top": []
+  },
+  {
+    "qt": "053",
+    "file": "QT053_Pharmacotherapy_Anxiety_Review_Frontiers_2020.docx",
+    "pdf": "QT053_Pharmacotherapy_Anxiety_Review_Frontiers_2020.pdf",
+    "total": 0,
+    "matched": 0,
+    "rate": 0,
+    "status": "SUSPICIOUS",
+    "missed_top": []
+  },
+  {
+    "qt": "054",
+    "file": "QT054_ChronicStress_Neuroinflammation_FrontPsych_2023.docx",
+    "pdf": "QT054_ChronicStress_Neuroinflammation_FrontPsych_2023.pdf",
+    "total": 0,
+    "matched": 0,
+    "rate": 0,
+    "status": "SUSPICIOUS",
+    "missed_top": []
+  },
+  {
+    "qt": "055",
+    "file": "QT055_Parade_Epigenetics_ChildhoodMaltreatment_TranslPsych_2021.docx",
+    "pdf": "QT055_Parade_Epigenetics_Maltreatment_TranslPsych_2021.pdf",
+    "total": 0,
+    "matched": 0,
+    "rate": 0,
+    "status": "SUSPICIOUS",
+    "missed_top": []
+  },
+  {
+    "qt": "056",
+    "file": "QT056_Jiang_Microbiota_GutBrain_Anxiety_FrontNeuro_2024.docx",
+    "pdf": "QT056_Jiang_Microbiota_GutBrain_Anxiety_FrontNeuro_2024.pdf",
+    "total": 0,
+    "matched": 0,
+    "rate": 0,
+    "status": "SUSPICIOUS",
+    "missed_top": []
+  },
+  {
+    "qt": "057",
+    "file": "QT057_NeuralCircuits_Anxiety_FrontNeuralCirc_2025.docx",
+    "pdf": "QT057_NeuralCircuits_Mechanisms_Anxiety_FrontNeuralCirc_2025.pdf",
+    "total": 0,
+    "matched": 0,
+    "rate": 0,
+    "status": "SUSPICIOUS",
+    "missed_top": []
+  },
+  {
+    "qt": "058",
+    "file": "QT058_Guo_Neuroinflammation_Neuromodulation_TranslPsych_2022.docx",
+    "pdf": "QT058_Guo_Neuroinflammation_Neuromodulation_TranslPsych_2022.pdf",
+    "total": 0,
+    "matched": 0,
+    "rate": 0,
+    "status": "SUSPICIOUS",
+    "missed_top": []
+  },
+  {
+    "qt": "059",
+    "status": "NO_PDF",
+    "file": "QT059_Cai_SchoolResilience_SR_MA_FrontPsych_2025.docx"
+  },
+  {
+    "qt": "060",
+    "file": "QT060_Bie_GlobalAnxiety_GBD_10-24y_1990_2021_FrontPsych_2024.docx",
+    "pdf": "QT060_Bie_GlobalAnxiety_GBD_10-24y_1990_2021_FrontPsych_2024.pdf",
+    "total": 4,
+    "matched": 4,
+    "rate": 100.0,
+    "status": "OK",
+    "missed_top": []
+  },
+  {
+    "qt": "061",
+    "file": "QT061_LiSH_ClearlyMe_CoDesign_CambridgeCBT_2024.docx",
+    "pdf": "QT061_LiSH_ClearlyMe_CoDesign_CambridgeCBT_2024.pdf",
+    "total": 0,
+    "matched": 0,
+    "rate": 0,
+    "status": "SUSPICIOUS",
+    "missed_top": []
+  },
+  {
+    "qt": "062",
+    "file": "QT062_Samele_ClearFear_App_JMIRFormative_2025.docx",
+    "pdf": "QT062_Samele_ClearFear_App_JMIRFormative_2025.pdf",
+    "total": 11,
+    "matched": 10,
+    "rate": 90.9,
+    "status": "OK",
+    "missed_top": [
+      [
+        "p",
+        "p = 0,01"
+      ]
+    ]
+  },
+  {
+    "qt": "063",
+    "file": "QT063_ChenSJ_AppCBTI_DepressionPrev_PLOSMed_2025.docx",
+    "pdf": "QT063_ChenSJ_AppCBTI_DepressionPrev_PLOSMed_2025.pdf",
+    "total": 0,
+    "matched": 0,
+    "rate": 0,
+    "status": "SUSPICIOUS",
+    "missed_top": []
+  },
+  {
+    "qt": "064",
+    "file": "QT064_Stephens_Photovoice_ScopingReview_IntlJAdolYouth_2023.docx",
+    "pdf": "QT064_Stephens_Photovoice_ScopingReview_IntlJAdolYouth_2023.pdf",
+    "total": 1,
+    "matched": 1,
+    "rate": 100.0,
+    "status": "OK",
+    "missed_top": []
+  },
+  {
+    "qt": "065",
+    "file": "QT065_Bradshaw_Lochman_EACP_RCT_JSchPsy_2025.docx",
+    "pdf": "QT065_Bradshaw_Lochman_EACP_RCT_JSchPsy_2025.pdf",
+    "total": 10,
+    "matched": 10,
+    "rate": 100.0,
+    "status": "OK",
+    "missed_top": []
+  },
+  {
+    "qt": "066",
+    "file": "QT066_Murphy_PeerSupport_ScopingReview_JCommPsych_2024.docx",
+    "pdf": "QT066_Murphy_PeerSupport_ScopingReview_JCommPsych_2024.pdf",
+    "total": 0,
+    "matched": 0,
+    "rate": 0,
+    "status": "SUSPICIOUS",
+    "missed_top": []
+  },
+  {
+    "qt": "067",
+    "file": "QT067_Pascoe_AcademicStress_IJAY_2020.docx",
+    "pdf": "QT067_Pascoe_AcademicStress_IJAY_2020.pdf",
+    "total": 0,
+    "matched": 0,
+    "rate": 0,
+    "status": "SUSPICIOUS",
+    "missed_top": []
+  },
+  {
+    "qt": "068",
+    "status": "NO_PDF",
+    "file": "QT068_Urao_2018_JapanCBT_BMC.docx"
+  },
+  {
+    "qt": "069",
+    "status": "NO_PDF",
+    "file": "QT069_Urao_2022_JourneyBrave_14sessions_BMC.docx"
+  },
+  {
+    "qt": "070",
+    "status": "NO_PDF",
+    "file": "QT070_Moore_2017_BullyingMeta_WorldJPsy.docx"
+  },
+  {
+    "qt": "071",
+    "status": "NO_PDF",
+    "file": "QT071_MatsumotoK_2024_iCBT_SAD_JMIR.docx"
+  },
+  {
+    "qt": "072",
+    "file": "QT072_Lee_2025_CyberbullyingMeta_TVA.docx",
+    "pdf": "QT072_Lee_2025_CyberbullyingMeta_TVA.pdf",
+    "total": 8,
+    "matched": 2,
+    "rate": 25.0,
+    "status": "SUSPICIOUS",
+    "missed_top": [
+      [
+        "p",
+        "p < 0,001"
+      ],
+      [
+        "p",
+        "p = 0,006"
+      ],
+      [
+        "p",
+        "p < 0,001"
+      ],
+      [
+        "OR/RR",
+        "OR=1,77"
+      ],
+      [
+        "β",
+        "β = 0,037"
+      ],
+      [
+        "β",
+        "β = 0,009"
+      ]
+    ]
+  },
+  {
+    "qt": "073",
+    "file": "QT073_He_2025_PowerUpCBTD_China_JAD.docx",
+    "pdf": "QT073_He_2025_PowerUpCBTD_China_JAD.pdf",
+    "total": 6,
+    "matched": 4,
+    "rate": 66.7,
+    "status": "LOW",
+    "missed_top": [
+      [
+        "p",
+        "p < 0,001"
+      ],
+      [
+        "p",
+        "p < 0,001"
+      ]
+    ]
+  }
+]

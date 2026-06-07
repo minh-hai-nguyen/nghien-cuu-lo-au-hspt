@@ -1,51 +1,37 @@
 # AUDIT 02_Papers-goc/ vs CSDL + KG + RAG (07/06/2026)
 ## Tổng quan
-- **Tổng số PDF trong `02_Papers-goc/`:** 157
-- **canonical_index.json:** 97 entries (trong đó 82 có file PDF)
+- **Tổng số PDF trong `02_Papers-goc/`:** 160
+- **canonical_index.json:** 117 entries (trong đó 100 có file PDF)
 - **KG v2 papers:** 75 nodes
-- **PDF không có trong canonical:** 76
+- **PDF không có trong canonical:** 61
 - **Canonical trỏ tới PDF KHÔNG tồn tại:** 1
 
 ## Phân bố PDF theo folder
 | Folder | Số PDF |
 |---|---|
-| `Chua-phan-loai` | 37 |
-| `The-gioi_Au-My-Uc` | 28 |
+| `Chua-phan-loai` | 35 |
+| `The-gioi_Au-My-Uc` | 35 |
 | `The-gioi_Khac` | 25 |
 | `Viet-Nam` | 23 |
 | `11-bai-ban-dau-va-mo-rong` | 15 |
 | `(root)` | 8 |
-| `Chua-phan-loai\tai-them-27052026` | 4 |
-| `Dong-Nam-A` | 4 |
+| `Dong-Nam-A` | 5 |
 | `Viet-Nam\_Archive_LoiFile` | 4 |
 | `Chua-phan-loai\Viet-nam` | 3 |
+| `Chua-phan-loai\tai-them-27052026` | 2 |
 | `Coping_Effectiveness` | 2 |
 | `GBD_WHO` | 2 |
 | `UK_BESST_PLACES` | 2 |
 | `The-gioi-moi` | 1 |
 
-## PDF chưa có trong canonical_index (76)
+## PDF chưa có trong canonical_index (61)
 Cần phân loại + thêm vào canonical_index.json:
 
-- `11-bai-ban-dau-va-mo-rong\03_Mandaknalli_Malusare_2021.pdf`
-- `11-bai-ban-dau-va-mo-rong\05_Alharbi_et_al_2019.pdf`
-- `11-bai-ban-dau-va-mo-rong\06_Nakie_et_al_2022.pdf`
-- `11-bai-ban-dau-va-mo-rong\07_Chen_et_al_2023.pdf`
-- `11-bai-ban-dau-va-mo-rong\08_Wen_et_al_2020.pdf`
-- `11-bai-ban-dau-va-mo-rong\09_Qiu_et_al_2022.pdf`
 - `Dong-Nam-A\1-s2.0-S1876201823004537-main.pdf`
 - `Chua-phan-loai\1-s2.0-S266691532500054X-main.pdf`
-- `11-bai-ban-dau-va-mo-rong\11_Saikia_2023_IJCM.pdf`
-- `11-bai-ban-dau-va-mo-rong\12_VNAMHS_2023.pdf`
-- `11-bai-ban-dau-va-mo-rong\14_Vietnam_COVID_DAS.pdf`
 - `Chua-phan-loai\Viet-nam\16.-NguyenThiVan.pdf`
-- `11-bai-ban-dau-va-mo-rong\18_Rising_Burden_2024.pdf`
-- `11-bai-ban-dau-va-mo-rong\19_LMIC_Prevention_2024.pdf`
-- `11-bai-ban-dau-va-mo-rong\22_Nepal_2023.pdf`
 - `Viet-Nam\2617-Văn bản của bài báo-2387-1-10-20250619 (1).pdf`
-- `11-bai-ban-dau-va-mo-rong\_MISLABELED_QT002_Saikia_actually_Bhardwaj_2020.pdf`
 - `Chua-phan-loai\Bhardwaj_2020_Chandigarh_DASS21.pdf`
-- `biosketch_karasu_062112.pdf`
 - `The-gioi-moi\British J Clinic Psychol - 2025 - Li - Cross‐sectional and longitudinal associations of screen time with adolescent.pdf`
 - `UK_BESST_PLACES\Brown_2022_PLACES_IJERPH.pdf`
 - `UK_BESST_PLACES\Brown_2024_BESST_Lancet_Psychiatry.pdf`
@@ -53,28 +39,26 @@ Cần phân loại + thêm vào canonical_index.json:
 - `Chua-phan-loai\Chen_2023_Chinese_SecondarySchool_BMCPsych.pdf`
 - `Chua-phan-loai\Child Adoles Psych Nursing - 2025 - Anderson - Contributing Factors to the Rise in Adolescent Anxiety and Associated Mental.pdf`
 - `Chua-phan-loai\Chronic_Stress_Neuroinflammation_FrontPsych_2023.pdf`
-- `Chua-phan-loai\tai-them-27052026\Compas_2017_Coping_MetaAnalysis.pdf`
+- `The-gioi_Au-My-Uc\Compas_2017_Coping_MetaAnalysis.pdf`
 - `Chua-phan-loai\Viet-nam\CVv443S402020122.pdf`
 - `Chua-phan-loai\Digital_MH_SocialAnxiety_MetaAnalysis_2025.pdf`
 - `Chua-phan-loai\Epigenetics_Childhood_Maltreatment_TranslPsych_2021.pdf`
 - `Chua-phan-loai\fpubh-12-1232856.pdf`
 - `GBD_WHO\GBD_2019_Mental_Disorders_Lancet_Psychiatry_2022.pdf`
-- `Chua-phan-loai\GWAS_122K_GABAergic_NatGenetics_2025.pdf`
-- `Chua-phan-loai\GWAS_Anxiety_NatHumBehav_2023.pdf`
-- `Chua-phan-loai\GWAS_MultiAncestry_NatGenetics_2024.pdf`
+- `The-gioi_Au-My-Uc\GWAS_122K_GABAergic_NatGenetics_2025.pdf`
+- `The-gioi_Au-My-Uc\GWAS_Anxiety_NatHumBehav_2023.pdf`
+- `The-gioi_Au-My-Uc\GWAS_MultiAncestry_NatGenetics_2024.pdf`
 - `Coping_Effectiveness\Herres_Ohannessian_2015_Adolescent_Coping_Profiles_JAD.pdf`
 - `Chua-phan-loai\HoangTrungHoc_2025_COVID_VN.pdf`
-- `Chua-phan-loai\Indonesia_Adolescent_MH_2024.pdf`
+- `Dong-Nam-A\Indonesia_Adolescent_MH_2024.pdf`
 - `The-gioi_Khac\Japan_Youth_Suicide_Hikikomori_2025.pdf`
 - `Chua-phan-loai\journal.pone.0316825.pdf`
-- `karasu1986.pdf`
 - `Chua-phan-loai\Korea_Adolescent_MH_Trends_2024.pdf`
 - `Viet-Nam\_Archive_LoiFile\LongBinh_AnGiang_2024_DASS21.pdf`
 - `Chua-phan-loai\Microbiota_GutBrain_Anxiety_2024_FrontNeuro.pdf`
 - `Chua-phan-loai\Mindfulness_Nature_MentalHealth_2023.pdf`
 - `Chua-phan-loai\Nakie_2022_Ethiopia_HighSchool_BMCPsych.pdf`
-- `Chua-phan-loai\Neural_Circuit_Pathological_Anxiety_NatRevNeuro_2024.pdf`
-- `Chua-phan-loai\Neural_Circuits_Mechanisms_Anxiety_2025_FrontNeuralCirc.pdf`
+- `The-gioi_Au-My-Uc\Neural_Circuit_Pathological_Anxiety_NatRevNeuro_2024.pdf`
 - `Chua-phan-loai\Neuroinflammation_Neuromodulation_TranslPsych_2022.pdf`
 - `Viet-Nam\_Archive_LoiFile\NgoAnhVinh_2024_DTTS_LangSon.pdf`
 - `Viet-Nam\_Archive_LoiFile\NguyenDanhLam_2024_YenDinh_ThanhHoa.pdf`
@@ -90,7 +74,8 @@ Cần phân loại + thêm vào canonical_index.json:
 - `s41182-025-00697-6.pdf`
 - `Chua-phan-loai\SchoolFactors_VN_Anxiety_2021.pdf`
 - `Chua-phan-loai\Social_Anxiety_Young_People_7Countries_2020_PLOSONE.pdf`
-- `Chua-phan-loai\tai-them-27052026\Steare_2023_AcademicPressure_SR.pdf`
+- `Chua-phan-loai\Stankov_2010_Confucian_Academic_ScienceDirect.pdf`
+- `The-gioi_Au-My-Uc\Steare_2023_AcademicPressure_SR.pdf`
 - `Coping_Effectiveness\Steinhoff_2023_Longitudinal_Coping_COVID_JEA.pdf`
 - `Chua-phan-loai\Study on school-related factors impacting mental health and well-being of adolescents in Viet Nam.pdf`
 - `Chua-phan-loai\TCNCYH_2025_LoAu_TramCam.pdf`
@@ -121,5 +106,5 @@ Cần phân loại + thêm vào canonical_index.json:
 
 1. **Thêm `karasu1986.pdf` và `biosketch_karasu_062112.pdf` vào `canonical_index.json`** — em sẽ làm trong vòng tiếp theo.
 2. **Download 3 PDF còn thiếu** (Rose 2002, Stankov 2010, Small & Blanc 2021) — Rose + Stankov paywall, Small & Blanc mở qua PMC PMC7820702.
-3. **76 PDF chưa categorize** trong 02_Papers-goc/ — chủ yếu là `Chua-phan-loai/` và `11-bai-ban-dau-va-mo-rong/`. Cần script categorize + metadata extraction.
+3. **61 PDF chưa categorize** trong 02_Papers-goc/ — chủ yếu là `Chua-phan-loai/` và `11-bai-ban-dau-va-mo-rong/`. Cần script categorize + metadata extraction.
 4. **RAG rebuild** sau khi categorize: chạy `tro-ly-nghien-cuu-tam-ly/build_rag.py`.

@@ -816,5 +816,46 @@
     "summary": "QT073_He_2025_PowerUpCBTD_China_JAD.docx",
     "pdf": "QT073_He_2025_PowerUpCBTD_China_JAD.pdf",
     "pdf_folder": "02_Papers-goc"
+  },
+  "QT074": {
+    "id": "QT074",
+    "descriptor": "Karasu_1986_USA_Psychotherapies",
+    "summary": null,
+    "translation": null,
+    "pdf": "karasu1986.pdf",
+    "pdf_path": "02_Papers-goc/karasu1986.pdf",
+    "authors": [
+      "T. Byram Karasu"
+    ],
+    "title": "The Psychotherapies: Benefits and Limitations",
+    "journal": "American Journal of Psychotherapy",
+    "volume": "40",
+    "issue": "3",
+    "pages": "324-342",
+    "year": 1986,
+    "pmid": "3094389",
+    "doi": "10.1176/appi.psychotherapy.1986.40.3.324",
+    "topic": "Psychotherapy schools / Number of approaches",
+    "key_finding": "over 450 types polled nationwide (page 325)",
+    "used_for": "Verify_BaoVeLA Q&A 2 (số trường phái tâm lý trị liệu)",
+    "added": "2026-06-07"
+  },
+  "QT075": {
+    "id": "QT075",
+    "descriptor": "Karasu_BioSketch_Einstein_2014",
+    "summary": null,
+    "translation": null,
+    "pdf": "biosketch_karasu_062112.pdf",
+    "pdf_path": "02_Papers-goc/biosketch_karasu_062112.pdf",
+    "authors": [
+      "T. Byram Karasu"
+    ],
+    "title": "Biographical sketch (T. Byram Karasu, M.D.)",
+    "source": "Albert Einstein College of Medicine official bio",
+    "date": "2014-02-14",
+    "topic": "Author credentials verification",
+    "key_facts": "21 books, 100+ papers, Distinguished Life Fellow APA, Editor-in-Chief emeritus AJ Psychotherapy, 400+ scholars task force chair (1981)",
+    "used_for": "Verify_BaoVeLA Karasu authority confirmation",
+    "added": "2026-06-07"
   }
 }

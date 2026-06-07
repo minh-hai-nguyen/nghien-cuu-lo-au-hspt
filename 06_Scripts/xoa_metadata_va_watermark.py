@@ -24,6 +24,10 @@ FILES = [
     'bai-bao-Q1/Draft_Q1_SongNgu_v1_01062026.docx',
     'bai-bao-Q1/Draft_Q1_SongNgu_v2_01062026.docx',
     'bai-bao-Q1/Draft_Q1_SongNgu_v3_01062026.docx',
+    'bai-bao-Q1/4VanDe_BLOCKING_Q1Q3_01062026.docx',
+    'bai-bao-Q1/Verify_BaoVeLA_DSM_ICD_Karasu_01062026.docx',
+    'bai-bao-Q1/Verify_BaoVeLA_DSM_ICD_Karasu_v2_01062026.docx',
+    'bai-bao-Q1/Verify_BaoVeLA_DSM_ICD_Karasu_v3_01062026.docx',
     'bai-bao-Q1/AuditBaoCao_ThamKhao_Titles_01062026.docx',
 ]
 

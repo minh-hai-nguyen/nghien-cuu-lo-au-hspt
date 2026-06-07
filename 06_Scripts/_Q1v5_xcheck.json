@@ -1,0 +1,306 @@
+{
+  "total": 37,
+  "counts": {
+    "NOT_IN_CANONICAL": 25,
+    "HAS_PDF": 8,
+    "CANONICAL_NO_PDF": 4
+  },
+  "results": [
+    {
+      "status": "NOT_IN_CANONICAL",
+      "author": "American Psychiatric Association",
+      "year": "2013",
+      "desc": "DSM-5",
+      "matched": null,
+      "matched_desc": null
+    },
+    {
+      "status": "HAS_PDF",
+      "author": "Anderson",
+      "year": "2025",
+      "desc": "Narrative review adolescent anxiety LMIC",
+      "matched": "QT014",
+      "matched_desc": "Anderson_2025_Wiley_Narrative"
+    },
+    {
+      "status": "NOT_IN_CANONICAL",
+      "author": "Blos",
+      "year": "1979",
+      "desc": "Adolescent passage",
+      "matched": null,
+      "matched_desc": null
+    },
+    {
+      "status": "NOT_IN_CANONICAL",
+      "author": "Bowlby",
+      "year": "1988",
+      "desc": "Secure base",
+      "matched": null,
+      "matched_desc": null
+    },
+    {
+      "status": "NOT_IN_CANONICAL",
+      "author": "Braun & Clarke",
+      "year": "2006",
+      "desc": "Thematic analysis",
+      "matched": null,
+      "matched_desc": null
+    },
+    {
+      "status": "NOT_IN_CANONICAL",
+      "author": "Cheung & Rensvold",
+      "year": "2002",
+      "desc": "Measurement invariance fit indexes",
+      "matched": null,
+      "matched_desc": null
+    },
+    {
+      "status": "HAS_PDF",
+      "author": "Chen Z, Ren S, He R",
+      "year": "2023",
+      "desc": "Depressive anxiety Chinese secondary BMC Psychiatry",
+      "matched": "QT007",
+      "matched_desc": "Chen_et_al_2023_China_BMCPsych"
+    },
+    {
+      "status": "NOT_IN_CANONICAL",
+      "author": "Chorpita",
+      "year": "2000",
+      "desc": "RCADS scale",
+      "matched": null,
+      "matched_desc": null
+    },
+    {
+      "status": "NOT_IN_CANONICAL",
+      "author": "Compas BE, Jaser SS",
+      "year": "2017",
+      "desc": "Coping emotion regulation meta-analysis Psychological Bulletin",
+      "matched": null,
+      "matched_desc": null
+    },
+    {
+      "status": "NOT_IN_CANONICAL",
+      "author": "Creswell & Plano Clark",
+      "year": "2018",
+      "desc": "Mixed methods research",
+      "matched": null,
+      "matched_desc": null
+    },
+    {
+      "status": "NOT_IN_CANONICAL",
+      "author": "Goodenow",
+      "year": "1993",
+      "desc": "PSSM scale",
+      "matched": null,
+      "matched_desc": null
+    },
+    {
+      "status": "NOT_IN_CANONICAL",
+      "author": "Grummitt L, O'Dean S",
+      "year": "2025",
+      "desc": "OurFutures Mental Health eClinicalMedicine",
+      "matched": null,
+      "matched_desc": null
+    },
+    {
+      "status": "HAS_PDF",
+      "author": "Hoang Trung Hoc",
+      "year": "2025",
+      "desc": "Vietnam students anxiety N=8389",
+      "matched": "VN014",
+      "matched_desc": "HoangTrungHoc_2025_VN_COVID"
+    },
+    {
+      "status": "HAS_PDF",
+      "author": "GBD ASEAN",
+      "year": "2025",
+      "desc": "ASEAN children mental disorders Lancet Reg Health WPac",
+      "matched": "QT012",
+      "matched_desc": "GBD_ASEAN_2025_Lancet"
+    },
+    {
+      "status": "NOT_IN_CANONICAL",
+      "author": "Hu & Bentler",
+      "year": "1999",
+      "desc": "Cutoff fit indexes",
+      "matched": null,
+      "matched_desc": null
+    },
+    {
+      "status": "NOT_IN_CANONICAL",
+      "author": "Kieling C",
+      "year": "2024",
+      "desc": "Worldwide prevalence JAMA Psychiatry",
+      "matched": null,
+      "matched_desc": null
+    },
+    {
+      "status": "NOT_IN_CANONICAL",
+      "author": "Kroger",
+      "year": "2007",
+      "desc": "Identity development",
+      "matched": null,
+      "matched_desc": null
+    },
+    {
+      "status": "NOT_IN_CANONICAL",
+      "author": "Kwon M, Lee JY",
+      "year": "2013",
+      "desc": "SAS-SV scale",
+      "matched": null,
+      "matched_desc": null
+    },
+    {
+      "status": "NOT_IN_CANONICAL",
+      "author": "Lazarus & Folkman",
+      "year": "1984",
+      "desc": "Stress appraisal coping",
+      "matched": null,
+      "matched_desc": null
+    },
+    {
+      "status": "NOT_IN_CANONICAL",
+      "author": "Markus & Kitayama",
+      "year": "1991",
+      "desc": "Culture and self",
+      "matched": null,
+      "matched_desc": null
+    },
+    {
+      "status": "NOT_IN_CANONICAL",
+      "author": "McLean CP",
+      "year": "2011",
+      "desc": "Gender differences anxiety disorders",
+      "matched": null,
+      "matched_desc": null
+    },
+    {
+      "status": "NOT_IN_CANONICAL",
+      "author": "Niwenahisemo LC, Su H, Kuang L",
+      "year": "2024",
+      "desc": "Rwandese adolescents GAD-7 invariance Front Psychiatry",
+      "matched": null,
+      "matched_desc": null
+    },
+    {
+      "status": "NOT_IN_CANONICAL",
+      "author": "Olweus",
+      "year": "1996",
+      "desc": "OBVQ",
+      "matched": null,
+      "matched_desc": null
+    },
+    {
+      "status": "HAS_PDF",
+      "author": "Pascoe MC",
+      "year": "2020",
+      "desc": "Stress students secondary higher ed",
+      "matched": "QT067",
+      "matched_desc": "Pascoe_AcademicStress_IJAY_2020"
+    },
+    {
+      "status": "NOT_IN_CANONICAL",
+      "author": "Robson EM, Husin HM, Dashti SG",
+      "year": "2025",
+      "desc": "CATS depressive anxiety Lancet Psychiatry",
+      "matched": null,
+      "matched_desc": null
+    },
+    {
+      "status": "CANONICAL_NO_PDF",
+      "author": "Rose AJ",
+      "year": "2002",
+      "desc": "Co-rumination Child Development PMID 12487497",
+      "matched": "QT078",
+      "matched_desc": "Rose_2002_USA_CoRumination"
+    },
+    {
+      "status": "CANONICAL_NO_PDF",
+      "author": "Small S & Blanc J",
+      "year": "2021",
+      "desc": "Tam Giao Vietnam COVID Front Psychiatry 10.3389/fpsyt.2020.589618",
+      "matched": "QT076",
+      "matched_desc": "Small_Blanc_2021_USA_TamGiao_VN"
+    },
+    {
+      "status": "CANONICAL_NO_PDF",
+      "author": "Stankov L",
+      "year": "2010",
+      "desc": "Confucian culture test anxiety Learn Indiv Diff 10.1016/j.lindif.2010.05.003",
+      "matched": "QT077",
+      "matched_desc": "Stankov_2010_Australia_ConfucianAcademic"
+    },
+    {
+      "status": "NOT_IN_CANONICAL",
+      "author": "Rosenberg",
+      "year": "1965",
+      "desc": "RSES scale",
+      "matched": null,
+      "matched_desc": null
+    },
+    {
+      "status": "CANONICAL_NO_PDF",
+      "author": "Saikia S",
+      "year": "2023",
+      "desc": "Northeast Indian adolescents anxiety",
+      "matched": "QT002",
+      "matched_desc": "Saikia_et_al_2023_India_Assam"
+    },
+    {
+      "status": "NOT_IN_CANONICAL",
+      "author": "Steare T",
+      "year": "2023",
+      "desc": "Academic pressure adolescent mental health systematic review",
+      "matched": null,
+      "matched_desc": null
+    },
+    {
+      "status": "NOT_IN_CANONICAL",
+      "author": "Sun J, Dunne MP, Hou XY, Xu A",
+      "year": "2011",
+      "desc": "ESSA scale",
+      "matched": null,
+      "matched_desc": null
+    },
+    {
+      "status": "NOT_IN_CANONICAL",
+      "author": "Triandis",
+      "year": "1995",
+      "desc": "Individualism collectivism",
+      "matched": null,
+      "matched_desc": null
+    },
+    {
+      "status": "HAS_PDF",
+      "author": "V-NAMHS",
+      "year": "2022",
+      "desc": "Vietnam Adolescent Mental Health Survey",
+      "matched": "VN002",
+      "matched_desc": "VNAMHS_2022_National"
+    },
+    {
+      "status": "HAS_PDF",
+      "author": "Wen F",
+      "year": "2020",
+      "desc": "Chinese rural adolescents mental health",
+      "matched": "QT008",
+      "matched_desc": "Wen_et_al_2020_China_Rural"
+    },
+    {
+      "status": "HAS_PDF",
+      "author": "Xu J",
+      "year": "2021",
+      "desc": "Chinese adolescents prevalence N=373216",
+      "matched": "QT010",
+      "matched_desc": "Xu_et_al_2021_China_LargestEpi"
+    },
+    {
+      "status": "NOT_IN_CANONICAL",
+      "author": "Zimet GD",
+      "year": "1988",
+      "desc": "MSPSS scale",
+      "matched": null,
+      "matched_desc": null
+    }
+  ]
+}

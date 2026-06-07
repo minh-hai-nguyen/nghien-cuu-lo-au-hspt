@@ -1,0 +1,182 @@
+{
+  "bai-bao-Q1/BaiA_JAD_OUTLINE_v1_30052026.docx": {
+    "words": 3201,
+    "total_cites": 3,
+    "verified": 0,
+    "unverified": [
+      [
+        "Borkovec et al.",
+        "2004"
+      ],
+      [
+        "Raniti et al.",
+        "2022"
+      ],
+      [
+        "WHO",
+        "2022"
+      ]
+    ],
+    "verified_list": []
+  },
+  "bai-bao-Q1/BaiD_StressHealth_OUTLINE_v1_30052026.docx": {
+    "words": 2089,
+    "total_cites": 3,
+    "verified": 1,
+    "unverified": [
+      [
+        "Carver",
+        "1997"
+      ],
+      [
+        "Compas et al.",
+        "2017"
+      ]
+    ],
+    "verified_list": [
+      [
+        "Rose",
+        "2002",
+        [
+          "QT078"
+        ]
+      ]
+    ]
+  },
+  "bai-bao-Q1/Outline_Q1_v3_01062026.docx": {
+    "words": 1877,
+    "total_cites": 1,
+    "verified": 0,
+    "unverified": [
+      [
+        "McLean",
+        "2011"
+      ]
+    ],
+    "verified_list": []
+  },
+  "bai-bao-Q1/Outline_Q3_v3_01062026.docx": {
+    "words": 2078,
+    "total_cites": 5,
+    "verified": 1,
+    "unverified": [
+      [
+        "Nunnally",
+        "1978"
+      ],
+      [
+        "Chorpita",
+        "2000"
+      ],
+      [
+        "McLean",
+        "2011"
+      ],
+      [
+        "Beesdo-Baum et al.",
+        "2022"
+      ]
+    ],
+    "verified_list": [
+      [
+        "Anderson",
+        "2025",
+        [
+          "QT014"
+        ]
+      ]
+    ]
+  },
+  "bai-bao-Q1/OutlineBilingual_Q1_01062026.docx": {
+    "words": 8792,
+    "total_cites": 11,
+    "verified": 2,
+    "unverified": [
+      [
+        "Rosenberg",
+        "1965"
+      ],
+      [
+        "Zimet et al.",
+        "1988"
+      ],
+      [
+        "Goodenow",
+        "1993"
+      ],
+      [
+        "Olweus",
+        "1996"
+      ],
+      [
+        "Carver",
+        "1997"
+      ],
+      [
+        "Chorpita",
+        "2000"
+      ],
+      [
+        "Sun et al.",
+        "2011"
+      ],
+      [
+        "Kwon et al.",
+        "2013"
+      ],
+      [
+        "V-NAMHS",
+        "2022"
+      ]
+    ],
+    "verified_list": [
+      [
+        "Chen et al.",
+        "2023",
+        [
+          "QT007",
+          "BB07"
+        ]
+      ],
+      [
+        "Anderson et al.",
+        "2025",
+        [
+          "QT014"
+        ]
+      ]
+    ]
+  },
+  "bai-bao-Q1/OutlineBilingual_Q3_01062026.docx": {
+    "words": 5698,
+    "total_cites": 5,
+    "verified": 1,
+    "unverified": [
+      [
+        "Nunnally",
+        "1978"
+      ],
+      [
+        "Chorpita",
+        "2000"
+      ],
+      [
+        "McLean et al.",
+        "2011"
+      ],
+      [
+        "Beesdo-Baum et al.",
+        "2022"
+      ]
+    ],
+    "verified_list": [
+      [
+        "Anderson et al.",
+        "2025",
+        [
+          "QT014"
+        ]
+      ]
+    ]
+  }
+}

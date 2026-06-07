@@ -1,0 +1,37 @@
+PLAGIARISM CHECK: Q1 Vietnamese paragraphs vs LA chinh
+Total checked: 57, Flagged: 5
+
+
+[1] Q1 Para #2:
+Text: Rối loạn lo âu là một trong những vấn đề sức khỏe tâm thần hàng đầu ở thanh thiếu niên trên toàn cầu, và khu vực châu Á ghi nhận mức gia tăng chuẩn hóa theo tuổi cao nhất trong giai đoạn 1990–2021. Mặ
+Matches (3):
+  - một trong những vấn đề sức khỏe
+  - trong những vấn đề sức khỏe tâm
+  - mô hình phương trình cấu trúc sem
+
+[2] Q1 Para #14:
+Text: Một điểm cốt lõi của nghiên cứu này là sự thừa nhận rằng "lo âu" không phải là một hiện tượng đơn nhất. Sổ tay Chẩn đoán và Thống kê các Rối loạn Tâm thần phiên bản thứ năm (Hiệp hội Tâm thần học Hoa 
+Matches (3):
+  - các rối loạn tâm thần phiên bản
+  - rối loạn tâm thần phiên bản thứ
+  - loạn tâm thần phiên bản thứ năm
+
+[3] Q1 Para #24:
+Text: H1: Cả ba yếu tố nguy cơ (áp lực học tập, nghiện điện thoại, bắt nạt học đường) đều có đường dẫn dương có ý nghĩa tới GAD, SAD và SocAD.
+Matches (5):
+  - áp lực học tập nghiện điện thoại
+  - lực học tập nghiện điện thoại bắt
+  - học tập nghiện điện thoại bắt nạt
+  - tập nghiện điện thoại bắt nạt học
+  - nghiện điện thoại bắt nạt học đường
+
+[4] Q1 Para #40:
+Text: Phân tích định lượng tiến hành theo năm bước trên AMOS 31.0 và SPSS 31.0. Bước 1 tạo thống kê mô tả và ước lượng độ tin cậy (Cronbach α, McDonald ω). Bước 2 chạy phân tích nhân tố khẳng định (CFA) cho
+Matches (1):
+  - phân tích nhân tố khẳng định cfa
+
+[5] Q1 Para #70:
+Text: Đường dẫn của tự trọng tới GAD (β = −0,455) gần bằng độ lớn của đường dẫn nguy cơ từ áp lực học tập (β = 0,510), và đường dẫn của tự trọng tới tổng RLLA đạt β = −0,457 (R² = 0,209). Các phát hiện này 
+Matches (2):
+  - phân tích tổng hợp của compas và
+  - tích tổng hợp của compas và cộng

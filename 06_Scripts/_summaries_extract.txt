@@ -1,0 +1,231 @@
+
+
+========== QT001 : Tom-tat-tung-bai/QT001_Jenkins_et_al_2023_USA.docx ==========
+Tóm tắt bài 1
+Tên công trình, tác giả, năm, mẫu khảo sát, đối tượng, khách thể, địa bàn khảo sát
+BÀI BÁO 1: Trầm cảm và lo âu ở học sinh trung học cơ sở đa sắc tộc: Tuổi, giới tính và môi trường văn hóa xã hội Tiêu đề gốc (English):** Depression and anxiety among multiethnic middle school students: Age, gender, and sociocultural environment Tiêu đề dịch (Vietnamese):** Trầm cảm và lo âu ở học sinh trung học cơ sở đa sắc tộc: Tuổi, giới tính và môi trường văn hóa xã hội Tác giả:** Janis H. Jenkins, Giselle Sanchez, Eric A. Miller, Nadia Irina Santillanes Allande, Grace Urano, Alexandra J. Pr
+Phương pháp nghiên cứu
+Tổng quan về thiết kế và quy trình nghiên cứu Nghiên cứu này được thiết kế để khảo sát trải nghiệm sống và sức khỏe tâm thần trong giai đoạn tuổi vị thành niên thông qua phương pháp hỗn hợp và tiếp cận dân tộc học. Bối cảnh của nghiên cứu phi lâm sàng này là một trường học và cộng đồng đa sắc tộc thu nhập thấp ở Nam California, Hoa Kỳ. Kế hoạch nghiên cứu tập trung vào việc khảo sát các thói quen hàng ngày, tình trạng sức khỏe tâm thần và sự tham gia giáo dục của học sinh trung học cơ sở được tuyển chọn ở trình độ lớp sáu (độ tuổi 10-11). Việc lựa chọn từ nhóm tuổi trẻ hơn này nhằm đóng góp và
+Kết quả nghiên cứu định lượng
+Nữ có điểm PHQ-9A cao hơn nam (p = 0,002, kiểm định Mann-Whitney) và điểm GAD-10 cao hơn (p = 0,016).
+Đặc điểm nhân khẩu xã hội Bảng 1 liệt kê các đặc điểm nhân khẩu xã hội của mẫu nghiên cứu, bao gồm giới tính, tuổi, trình độ lớp, nền tảng sắc tộc và loại hộ gia đình. Tuổi trung bình là 11,2 với phạm vi tuổi hạn chế giữa các học sinh tham gia. Trong mẫu này, phần lớn học sinh xác định là nam hoặc nữ; tuy nhiên, điều đáng lưu ý là trong các cuộc phỏng vấn, một số học sinh đang đặt câu hỏi về bản dạng giới tính và xu hướng tình dục của mình, cho thấy những hạn chế của việc mã hóa giới tính hoặc tính dục theo kiểu nhị phân. Nhận dạng sắc tộc phổ biến nhất là gốc Mexico, tiếp theo là các tổ hợp nền tảng Âu-Mỹ. Các nhận dạng bổ sung bao gồm người Mỹ gốc Phi và Da đen, Trung Mỹ, quần đảo Thái Bình Dương, Nam Á và Đông Á, và người bản địa Mỹ. Về nền tảng sắc tộc, chúng tôi lưu ý rằng đối với một
+Nhận xét, phát hiện qua kết quả nghiên cứu
+Phát hiện về tuổi trong trầm cảm và lo âu Chúng tôi nhận thấy 44% thanh thiếu niên trong nghiên cứu rơi vào phạm vi nhẹ đến nặng của thang sàng lọc trầm cảm PHQ-9A, trong khi các phản hồi GAD-10 cho thấy khoảng một nửa (50,6%) thanh thiếu niên rơi vào phạm vi sàng lọc lo âu từ nhẹ đến cực kỳ nặng. Với đây là một nghiên cứu phi lâm sàng, dựa trên trường học, kết quả của chúng tôi cho thấy việc sàng lọc các vấn đề sức khỏe tâm thần phổ biến này có thể quan trọng cho việc nhận diện sớm các tình trạng khó chịu có thể tiếp tục hoặc trở nên trầm trọng hơn sau 11 tuổi. Nghiên cứu của chúng tôi là một
+Kết luận
+Dữ liệu của chúng tôi, cho thấy sự hiện diện của các mức độ triệu chứng trầm cảm và lo âu từ nhẹ đến nặng trong một mẫu phi lâm sàng gồm các học sinh trung học cơ sở trẻ tuổi, gợi ý rằng cần chú ý nghiên cứu ở độ tuổi sớm hơn cho các quy trình sàng lọc cơ bản. Những phát hiện ở trẻ 11 tuổi này có ý nghĩa lâm sàng tiềm năng cho việc nhận diện các tình trạng dưới ngưỡng hội chứng trong giai đoạn đầu tuổi vị thành niên. Sự khác biệt giới tính có ý nghĩa, trước đây được tìm thấy ở thanh thiếu niên l
+Phản biện
+Cỡ mẫu rất nhỏ (N=75), snowball sampling tại 1 trường duy nhất — không đại diện. GAD-10 sửa đổi thiếu dữ liệu xác thực. Thiết kế kéo dài 2018-2021 trùng COVID-19 nhưng không kiểm soát hiệu ứng thời điểm. Phương pháp hỗn hợp là điểm sáng.
+Hướng nghiên cứu tiếp theo
+Mở rộng cỡ mẫu. Phát triển công cụ sàng lọc nhạy cảm văn hóa. Nghiên cứu dọc theo dõi từ đầu vị thành niên. Đánh giá can thiệp giải quyết yếu tố văn hóa xã hội.
+Đánh giá chất lượng: ⭐⭐⭐ Trung bình-Khá
+Bảng 1. Tỷ lệ trầm cảm và lo âu — Jenkins et al. 2023
+Bảng 2. Yếu tố liên quan — Jenkins et al. 2023
+
+========== QT010 : Tom-tat-tung-bai/QT010_Xu_et_al_2021_China_LargestEpi_FIXED_27052026.docx ==========
+Tóm tắt bài 10
+Tên công trình, tác giả, năm, mẫu khảo sát, đối tượng, khách thể, địa bàn khảo sát
+Công trình « Tỷ lệ và các yếu tố nguy cơ đối với triệu chứng lo âu trong thời kỳ bùng phát COVID-19: Khảo sát quy mô lớn trên 373.216 học sinh trung học tại Trung Quốc » (Prevalence and Risk Factors for Anxiety Symptoms during the Outbreak of COVID-19), do Qingqing Xu và cộng sự (2021), khảo sát trên 373.216 học sinh (244.193 THCS + 129.023 THPT, tuổi TB 15,24) tại 3 thành phố tỉnh Hà Nam, Trung Quốc, trong 8 ngày (4–12/02/2020 — đỉnh dịch COVID-19), xuất bản trên Journal of Affective Disorders, 288:17–22 (tạp chí Q1).
+Phương pháp nghiên cứu
+Công trình sử dụng GAD-7 (Thang đo Rối loạn Lo âu Tổng quát, ngưỡng ≥10 cho dương tính) kết hợp đánh giá kiến thức COVID-19 (3 mục), mức lo lắng (Likert 5 điểm) và hành vi phòng ngừa (4 mục). Nói cách khác, đây là khảo sát cắt ngang trực tuyến quy mô cực lớn — CỠ MẪU LỚN NHẤT TOÀN CẦU về lo âu thanh thiếu niên.
+Kết quả nghiên cứu định lượng
+Bảng 1. Tỷ lệ lo âu VTN Trung Quốc
+Yếu tố liên quan (hồi quy logistic đa biến, THCS):
+Bảng 2. Yếu tố liên quan
+Khác biệt giới tính : Trái ngược với đa số y văn, nam có tỷ lệ lo âu cao hơn nữ (10,11% vs 9,66%, P < 0,001). Trong 11 bài NC của Đề tài, chỉ có 2 nghiên cứu cho thấy nam > nữ: Saikia 2023 (Đông Bắc Ấn Độ) và Xu 2021 (bài này). Điều này có thể do bối cảnh COVID-19 và đặc thù nông thôn.
+Nhận xét, phát hiện qua kết quả nghiên cứu
+*Cỡ mẫu kỷ lục.* 373.216 học sinh là cỡ mẫu lớn nhất toàn cầu về lo âu thanh thiếu niên, đảm bảo sức mạnh thống kê rất cao. Tỷ lệ 9,89% sử dụng ngưỡng GAD-7 ≥10 (trung bình-nặng) là bảo thủ so với ngưỡng ≥5.
+*Nông thôn > thành thị.* Khoảng cách nông thôn-thành thị (11,33% vs 8,77%, OR = 1,30) phản ánh bất bình đẳng trong tiếp cận dịch vụ SKTT, tương tự phát hiện của Nakie (2022) tại Ethiopia.
+Kết luận
+Tỷ lệ lo âu 9,89% trong đỉnh dịch COVID-19 ở 373.216 học sinh Trung Quốc. Nông thôn, THCS và hành vi phòng ngừa kém là yếu tố nguy cơ. Sợ hãi quá mức về COVID-19 liên quan mạnh đến lo âu (OR sợ hãi cao gấp 5 lần). Can thiệp cần giảm sợ hãi không hợp lý và tăng cường dịch vụ SKTT tại vùng nông thôn.
+Phản biện
+J Affect Disord Q1, cỡ mẫu kỷ lục. Tuy nhiên, khảo sát trực tuyến trong 8 ngày có thiên lệch tự chọn. Chỉ dùng GAD-7 (sàng lọc, không chẩn đoán). Thu thập đỉnh dịch (02/2020) — kết quả phản ánh bối cảnh khủng hoảng cấp tính, không thể khái quát cho thời bình. Kiến thức COVID-19 đánh giá bằng 3 câu chưa xác thực.
+Hướng nghiên cứu tiếp theo
+So sánh dọc lo âu đỉnh dịch vs hậu COVID. Nghiên cứu can thiệp giảm sợ hãi không hợp lý ở thanh thiếu niên. Mở rộng đến nhiều tỉnh ngoài Hà Nam.
+Đánh giá chất lượng: ⭐⭐⭐⭐ Cao. Q1, cỡ mẫu kỷ lục 373.216, GAD-7 xác thực, nhưng bối cảnh COVID-19 hạn chế tính khái quát.
+
+========== QT020 : Tom-tat-tung-bai/QT020_Liu_CBT_Delivery_GAD_NMA_2025.docx ==========
+QT020 — Tóm tắt bài nghiên cứu
+Phương pháp nghiên cứu
+• Systematic review + network meta-analysis
+• Mẫu: 52 RCTs, N = 4.361 bệnh nhân GAD (tuổi TB 43, nữ 69,7 %)
+• Công cụ: Bayesian/frequentist NMA, random-effects, pairwise + network
+Kết quả nghiên cứu
+• Individual CBT > Remote CBT: SMD 0,96 [95% CI: 0,13; 1,79]
+• Individual CBT > Treatment-as-usual (TAU): SMD 1,12 [0,24; 2,00]
+• Individual CBT > Waitlist: SMD 1,62 [1,03; 2,22]
+• Group CBT (số liệu chi tiết ở chương Results — cần đọc full)
+• 75 % RCTs có low/unclear risk of bias
+Điểm mạnh
+• NMA 52 RCT — cỡ bằng chứng LỚN cho GAD
+• Transl Psychiatry — tạp chí Nature Q1
+• So sánh nhiều format CBT: individual, group, remote, self-help
+• Clear effect sizes với CI
+Hạn chế
+• ⚠ SCOPE KHÁC: đối tượng là NGƯỜI LỚN (tuổi TB 43) — KHÔNG PHẢI VTN. Áp dụng cho HS VN cần ngoại suy thận trọng
+• Nữ 69,7 % — không cân bằng giới
+• Remote CBT có SMD rộng 0,13-1,79 → heterogeneity cao
+• Tìm kiếm đến 9/2023 — một số RCT mới hơn có thể chưa được gộp
+Phản biện ngắn
+NMA lớn về CBT FORMAT — nhưng đối tượng là NGƯỜI LỚN GAD (TB 43 tuổi), KHÔNG PHẢI VTN. Kết quả "Individual > Remote > TAU > Waitlist" là hữu ích làm reference hierarchy, nhưng effect size (SMD 0,96-1,62) KHÔNG THỂ áp dụng trực tiếp cho HS/VTN vì: (1) tâm lý phát triển khác; (2) động lực trị liệu khác (VTN ít tự giác hơn); (3) Individual CBT với VTN cần involve phụ huynh. Cần NMA tương tự nhưng restrict to < 18 tuổi.
+Hướng nghiên cứu tiếp theo
+Lặp lại NMA nhưng chỉ với RCT ở trẻ em/VTN (< 18). Có thể so sánh với QT029 Li 2025 (NMA 30 RCT trẻ em/VTN). Phân tích subgroup format theo tuổi.
+Đánh giá chất lượng: ⭐⭐⭐ (3/5)
+Key fact cho RAG: Người lớn GAD. Individual CBT > Remote > TAU > Waitlist (SMD 0,96-1,62). KHÔNG phải VTN — dùng tham chiếu hierarchy, không copy effect size.
+
+========== QT030 : Tom-tat-tung-bai/QT030_GBD_Trends_10-24y_2025.docx ==========
+Tóm tắt bài QT-30
+Tên công trình, tác giả, năm, mẫu khảo sát, đối tượng, khách thể, địa bàn khảo sát
+Công trình « Xu hướng rối loạn trầm cảm và lo âu ở thanh thiếu niên và thanh niên (10–24 tuổi) từ 1990 đến 2021: Phân tích từ nghiên cứu Gánh nặng Bệnh tật Toàn cầu » (Trends in Depressive and Anxiety Disorders among Adolescents and Young Adults Aged 10–24 from 1990 to 2021: A GBD Study Analysis), do Zhang Dongjun, Wu Mingyue và cộng sự (2025), Đại học Y khoa Tân Hương, Trung Quốc, xuất bản trên Journal of Affective Disorders, 387:119491 (Q1, IF ≈ 6,6). Dữ liệu GBD 2021 từ 204 nước/vùng lãnh thổ. 14 trang, 2 bảng, 4 hình.
+Phương pháp nghiên cứu
+Công trình sử dụng dữ liệu Gánh nặng Bệnh tật Toàn cầu (GBD 2021) phân tích xu hướng tỷ suất mới mắc, tỷ lệ hiện mắc và DALYs cho trầm cảm và lo âu ở nhóm 10–24 tuổi. Nói cách khác, đây là phân tích xu hướng 31 năm (1990–2021) trên quy mô toàn cầu sử dụng hai phương pháp thống kê nâng cao: hồi quy Joinpoint và phân tích Tuổi-Giai đoạn-Đoàn hệ (APC).
+Joinpoint regression xác định các điểm bẻ (inflection points) trong xu hướng dài hạn, ước tính AAPC (Average Annual Percent Change) cho từng giai đoạn. Bất bình đẳng giữa các nước được đánh giá bằng SII (slope index of inequality) và CI (concentration index).
+Kết quả nghiên cứu định lượng
+Bảng 1 (từ Table 1 gốc). Xu hướng toàn cầu 1990–2021:
+Bảng 2. Phân tầng theo giới, tuổi, vùng và SDI:
+Đối chiếu liên bài : AAPC lo âu 0,84%/năm trong 31 năm nhất quán với JAACAP 2024 (Mỹ: tăng gấp đôi 8 năm), Na Uy 2025 (tăng 13 năm), Ireland 2024 (tăng 7 năm). Đáng chú ý, Đông Á tăng CHẬM NHẤT — có thể do hệ thống giáo dục tập trung + gia đình gắn kết. Tại VN, Hoàng Trung Học 2025 cho thấy lo âu giảm sau COVID (41,5% → 25,4%) — phù hợp xu hướng phục hồi tại châu Á.
+Nhận xét, phát hiện qua kết quả nghiên cứu
+*Tăng tốc sau 2014.* Joinpoint xác định điểm bẻ 2014 — gánh nặng tăng nhanh từ đó. Trùng với sự phổ biến của smartphone/MXH (phù hợp Nature 2025, Norway 2025).
+*SDI cao gánh nặng lớn nhất.* Nghịch lý: nước giàu có dịch vụ tốt nhưng gánh nặng lo âu cao nhất. Có thể do phát hiện tốt hơn + áp lực xã hội hiện đại.
+*Bất bình đẳng tuyệt đối mở rộng.* SII cho thấy khoảng cách giàu-nghèo về gánh nặng SKTT tăng theo thời gian.
+Kết luận
+Dữ liệu GBD 2021 từ 204 nước, cho thấy gánh nặng trầm cảm và lo âu ở VTN 10–24 tuổi tăng liên tục 31 năm (AAPC 0,84–0,97%), tăng tốc mạnh sau 2014, với nước SDI cao gánh nặng lớn nhất và Đông Á chậm nhất, gợi ý rằng xu hướng tăng là toàn cầu nhưng tốc độ phụ thuộc bối cảnh kinh tế xã hội — VN cần theo dõi xu hướng dài hạn để can thiệp kịp thời.
+Phản biện
+J Affect Disord Q1 IF = 6,6. GBD 2021, 204 nước, 31 năm, Joinpoint + APC nâng cao. Tuy nhiên, GBD phụ thuộc dữ liệu báo cáo quốc gia (VN thiếu dữ liệu chất lượng). Tăng có thể phản ánh tăng phát hiện + tăng thực. COVID-19 (2020–2021) ảnh hưởng mạnh nhưng chỉ 2 năm dữ liệu.
+Hướng nghiên cứu tiếp theo
+Phân tích riêng ASEAN/VN từ GBD. Giải thích tại sao Đông Á tăng chậm nhất. Đánh giá tác động COVID dài hạn (GBD 2024+).
+Đánh giá: ⭐⭐⭐⭐⭐ Rất cao. Q1 IF=6,6, GBD 204 nước, 31 năm, Joinpoint+APC.
+
+========== QT040 : Tom-tat-tung-bai/QT040_Walder_JMIR_DMHI_SAD_2025.docx ==========
+Tóm tắt bài QT40 — Meta-analysis Can thiệp Sức khoẻ Tâm thần Số (DMHI) cho lo âu xã hội
+Tên công trình, tác giả, năm, mẫu khảo sát, đối tượng, khách thể, địa bàn khảo sát
+"Digital mental health interventions for prevention and treatment of social anxiety disorder in children, adolescents and young adults: Systematic review and meta-analysis" của Walder, N., Frey, A., Berger, T. và cộng sự (2025), đăng trên Journal of Medical Internet Research (JMIR — Q1, IF ≈ 7,4). DOI 10.2196/preprints.67067. PROSPERO CRD42023424181. Phân tích tổng hợp 21 RCT về DMHI cho rối loạn lo âu xã hội (SAD) ở trẻ em, vị thành niên và thanh niên (TB < 25 tuổi).
+Phương pháp nghiên cứu
+Tìm kiếm hệ thống RCT đánh giá DMHI (internet, app, VR) cho lo âu xã hội ở người trẻ. 2 tác giả độc lập sàng lọc, trích xuất, đánh giá thiên lệch. Random-effects meta-analysis sử dụng Hedges g. Phân tích phụ theo: nền tảng (CBT vs khác), thiết kế (SAD-specific vs tổng quát), có hướng dẫn người vs tự học, đối chứng (WL vs khác).
+Kết quả nghiên cứu
+DMHI có hiệu lực TRUNG BÌNH so với bất kỳ đối chứng nào (g = 0,508; KTC 95 %: 0,308–0,707). Hai phát hiện cốt lõi: (1) DMHI thiết kế ĐẶC THÙ cho SAD có hiệu lực LỚN NHẤT (g = 0,878), gần gấp đôi DMHI tổng quát; (2) DMHI có HƯỚNG DẪN người (g = 0,825) hiệu lực gần gấp đôi DMHI không hướng dẫn (g ≈ 0,3–0,4).
+Phản biện
+Đây là bằng chứng MẠNH NHẤT về DMHI / iCBT cho SAD ở trẻ và VTN trong toàn bộ tài liệu. JMIR Q1 IF ≈ 7,4. PROSPERO tiền đăng ký. Two-key takeaways có ý nghĩa thực hành rõ ràng: app phải SAD-specific + có hỗ trợ người. Hạn chế: chủ yếu các RCT từ phương Tây + Đông Á phát triển; ít dữ liệu LMIC; định nghĩa "guided" rất khác nhau giữa các nghiên cứu (chat, email, video); chưa rõ liều tối ưu (số tuần, số module).
+Hướng nghiên cứu tiếp theo
+Phát triển app iCBT tiếng Việt cho SAD với hỗ trợ chat người, dựa trên hai điều kiện cốt lõi của Walder. So sánh mức độ guided khác nhau (chat thường vs định kỳ vs sự kiện). RCT VN cho HS THCS/THPT với app này.
+Đánh giá chất lượng: ⭐⭐⭐⭐⭐ Rất cao. MA 21 RCT, JMIR Q1, định hướng phát triển app.
+
+========== QT052 : Tom-tat-tung-bai/QT052_Mindfulness_NatureMH_IPD_MA_2023.docx ==========
+QT052 — Tóm tắt ngắn (bài bonus)
+Phát hiện/kết luận chính
+IPD MA (individual participant data) — phương pháp cao nhất trong MA. RCT mindfulness cho MH. Tạp chí Nature Q1.
+Khi nào dùng
+Bài này thuộc nhóm BONUS (basic science/review ngoài scope HS THCS/THPT). Chỉ dùng khi cần tham chiếu cơ chế sinh học/dược lý/neuromodulation. KHÔNG dùng trực tiếp cho khuyến nghị can thiệp trường học VN. Nếu cần tóm tắt đầy đủ Jenkins template, cần đọc kỹ PDF và mở rộng.
+Đánh giá: ⭐⭐⭐⭐ (4/5 — chất lượng NC; riêng scope-fit đã ghi trên)
+
+========== QT060 : Tom-tat-tung-bai/QT060_Bie_GlobalAnxiety_GBD_10-24y_1990_2021_FrontPsych_2024.docx ==========
+QT060 — Tóm tắt bài nghiên cứu (cào từ web)
+Phương pháp
+• Phân tích thứ cấp dữ liệu GBD 2021
+• Mẫu: GBD 2021 — 204 quốc gia, độ tuổi 10-24
+• Công cụ: GBD 2021 dataset, Joinpoint regression, age-standardized rates
+Kết quả nghiên cứu
+• Tăng 52 % số ca lo âu mới ở 10-24 tuổi toàn cầu (1990 → 2021)
+• Tỷ lệ mới mắc: 708 → 883 / 100.000 dân
+• Nhóm 20-24 tuổi tăng nhiều nhất: +28,33 %
+• Nhóm 10-14 tuổi DUY TRÌ tỷ lệ cao nhất xuyên suốt
+• Nữ > nam ở mọi nhóm tuổi (consistent)
+• Khu vực: Latin Mỹ Tropical cao nhất; Đông Á giảm nhiều nhất
+• Nam Á dẫn đầu số ca tuyệt đối: 3,5 triệu (Ấn Độ chủ yếu)
+• COVID-19 tăng tốc rõ rệt 2019-2021
+• Yếu tố nguy cơ chính: BULLYING victimization (gánh nặng disability lớn nhất)
+Điểm mạnh
+• GBD 2021 — dữ liệu cập nhật mới nhất
+• Phân tầng nhiều chiều: tuổi, giới, khu vực, SDI, COVID
+• 32 năm theo dõi 1990-2021
+• Frontiers Psychiatry Q1 Open Access ✓
+• Ngoại suy mạnh cho VN (LMIC Đông Nam Á)
+Hạn chế
+• GBD dùng modeling (DisMod-MR) — không phải đo trực tiếp
+• Tin cậy thấp ở các nước có dữ liệu sơ sài (nhiều LMIC)
+• Lo âu trong GBD là "anxiety disorders" tổng hợp — không tách subtype
+• Bullying là proxy yếu tố nguy cơ — không factor analysis chi tiết
+Phản biện ngắn
+Bài QUAN TRỌNG để có baseline GLOBAL trends 10-24 tuổi 1990-2021. Xu hướng +52 % toàn cầu, nhưng tách theo khu vực: Đông Á GIẢM (Hàn Quốc + Nhật) trái với Tây phương tăng. VN ít data direct nhưng Nam Á + ASEAN có tăng. Cho thầy: dùng GBD trends làm BACKDROP cho luận điểm "VN cần khảo sát quốc gia lặp lại để có xu hướng riêng".
+Hướng nghiên cứu tiếp theo
+So sánh trends VN với Hàn Quốc (giảm) và Tây phương (tăng) để xác định mô hình VN. Phân tích bullying VN qua các NC hiện có (VN015, VN022 UNICEF).
+Đánh giá chất lượng: ⭐⭐⭐⭐⭐ (5/5)
+Key fact cho RAG: GBD 2021 anxiety 10-24y: +52% global 1990-2021, từ 708 → 883 per 100k. Nữ > nam, Latin Tropical cao nhất, Đông Á giảm, Nam Á số tuyệt đối lớn nhất, bullying yếu tố chính.
+
+========== QT072 : Tom-tat-tung-bai/QT072_Lee_2025_CyberbullyingMeta_TVA.docx ==========
+QT072 — Tóm tắt: Lee và cộng sự (2025) Meta-analysis dọc cyberbullying
+Tên công trình:
+"Cyberbullying Victimization and Mental Health Symptoms Among Children and Adolescents: A Meta-Analysis of Longitudinal Studies" — Jungup Lee, Hoi Shan Cheung, Qiyang Zhang, Rebecca P. Ang (2025), Trauma, Violence, & Abuse, 27(2), 391–406. DOI: 10.1177/15248380241313051. Tạp chí Q1 SAGE.
+Phương pháp:
+META-ANALYSIS DỌC ĐẦU TIÊN về cyberbullying → mental health (các meta-analysis trước chỉ cắt ngang). 27 nghiên cứu thuần tập, N = 27.133 trẻ em + vị thành niên qua 9 quốc gia: Mỹ (12), Trung Quốc (7), Tây Ban Nha (2), Thụy Điển, Hà Lan, Bỉ, Thụy Sĩ, Úc, New Zealand. Random-effects model. Singapore Ministry of Education tài trợ.
+Kết quả CỐT LÕI:
+Cyberbullying → Mental health overall: r = 0,232 (KTC 95% 0,190–0,274); k=27. → Depression r = 0,269 (k=23, KTC 0,211–0,325). → ANXIETY r = 0,229 (k=16, KTC 0,162–0,294). → Loneliness r = 0,170. Tất cả heterogeneity I² = 92,25% (rất cao).
+Moderator analyses:
+Tuổi (β = 0,037, p < 0,001) — tuổi càng cao tác động càng mạnh; Tỷ lệ nữ (β = −0,003, p = 0,006) — nữ % cao hơn → tác động giảm (NGƯỢC giả thuyết); Năm công bố (β = 0,009, p < 0,001) — bài mới hơn có hiệu ứng lớn hơn (cyberbullying ngày càng nghiêm trọng); Văn hóa Tây vs Á: KHÔNG khác biệt; Time interval: KHÔNG khác biệt.
+Phát hiện ĐẶC BIỆT:
+Cyberbullying là vấn đề TOÀN CẦU vượt văn hóa (Western vs Asian KHÔNG khác biệt). Internet "san phẳng" khác biệt văn hóa. Hiệu ứng MẠNH HƠN ở tuổi cao hơn (đỉnh 14-15 tuổi theo Pichel 2021). Hiệu ứng tăng theo năm — phản ánh cyberbullying ngày càng phổ biến.
+Đánh giá chất lượng:
+⭐⭐⭐⭐⭐ Rất cao. Meta-analysis DỌC đầu tiên (chỉ longitudinal, KHÔNG cắt ngang). Trauma, Violence, & Abuse Q1 SAGE. PRISMA. N=27.133 lớn. Đáng tin cậy cao.
+Ý nghĩa cho VN:
+Bổ sung cho Moore 2017 (QT070) bullying truyền thống. Cyberbullying r = 0,229 cho anxiety NHẸ HƠN traditional bullying (Moore OR=1,77). Tham chiếu cho phản biện về NĐT + bắt nạt online — đặc biệt khi luận án CTH chỉ đo "bắt nạt thể chất" (Bảng 3.21), CHƯA đo cyberbullying riêng.
+
+========== VN001 : Tom-tat-tung-bai/VN001_Hoa_2024_Frontiers_HaNoi_FIXED_27052026.docx ==========
+Tóm tắt bài VN-1: Hoa et al. 2024
+Tên công trình, tác giả, năm, mẫu khảo sát, đối tượng, khách thể, địa bàn
+Công trình « Triệu chứng lo âu và chiến lược ứng phó ở học sinh THPT tại Việt Nam sau đại dịch COVID-19 » (Anxiety Symptoms and Coping Strategies among High School Students in Vietnam after COVID-19 Pandemic), do Phạm Thị Thu Hoa, Đỗ Thị Trang, Nguyễn Thị Liên và Ngô Anh Vinh (2024), khảo sát 3.910 học sinh từ 13 trường THPT tại Hà Nội, Việt Nam. Frontiers in Public Health, 12:1232856. DOI: 10.3389/fpubh.2024.1232856.
+Phương pháp nghiên cứu
+Công trình sử dụng Thang đo Rối loạn Lo âu Tổng quát 7 mục (GAD-7 — Generalized Anxiety Disorder 7-item Scale) kết hợp phỏng vấn sâu (in-depth interviews). Nói cách khác, đây là phương pháp hỗn hợp (mixed methods) kết hợp nghiên cứu cắt ngang và phỏng vấn định tính.
+GAD-7 (Spitzer et al., 2006) với Cronbach alpha = 0,916 — độ tin cậy rất cao. Mẫu 3.910 HS từ 13 trường THPT Hà Nội.
+Kết quả nghiên cứu định lượng
+Bảng 1. Tỷ lệ lo âu GAD-7 HS THPT Hà Nội
+Bảng 2. Khác biệt giới tính
+Khác biệt giới tính : Nữ có điểm GAD-7 trung bình cao hơn nam (1,74 vs 1,50, P < 0,01) — phù hợp xu hướng quốc tế.
+Nhận xét, phát hiện qua kết quả nghiên cứu
+• Tỷ lệ 40,6% là mức cao — nhưng cần lưu ý đây là sàng lọc (GAD-7 ≥5), không phải chẩn đoán. So với V-NAMHS 2022 (chẩn đoán DISC-5: chỉ 2,3%), chênh lệch 17 lần.
+• Phỏng vấn sâu phát hiện 4 nguồn lo âu: áp lực học tập, quan hệ xã hội, định kiến xã hội, kỳ vọng gia đình — tương tự Jenkins 2023 (COVID, phân biệt đối xử) và Wen 2020 (áp lực học tập OR=11,6).
+Kết luận
+Lo âu 40,6% ở 3.910 HS THPT Hà Nội sau COVID-19. Nữ > nam (P<0,01). Cần can thiệp nhắm vào áp lực học tập và kỳ vọng gia đình — hai nguồn lo âu phổ biến nhất theo phỏng vấn định tính.
+Phản biện
+Frontiers in Public Health (Q1, PubMed). Phương pháp hỗn hợp sáng tạo, GAD-7 alpha=0,916. Tuy nhiên, chỉ Hà Nội (đô thị) — không đại diện nông thôn/DTTS. Thiết kế cắt ngang. Phỏng vấn sâu không nêu rõ số lượng và cách chọn mẫu định tính.
+Hướng nghiên cứu tiếp theo
+Mở rộng ra nông thôn và vùng DTTS. So sánh GAD-7 với DISC-5 trên cùng mẫu để ước tính khoảng cách sàng lọc–chẩn đoán. Nghiên cứu dọc theo dõi lo âu hậu COVID.
+Đánh giá: ⭐⭐⭐⭐ Cao. Q1, n=3.910, GAD-7 alpha=0,916, phương pháp hỗn hợp.
+
+========== VN002 : Tom-tat-tung-bai/VN002_VNAMHS_2022_National.docx ==========
+Tóm tắt bài VN002 — Khảo sát Sức khoẻ Tâm thần Vị thành niên Việt Nam (V-NAMHS 2022)
+Cập nhật từ PDF gốc (14/04/2026) — rebuild theo Framework Jenkins + Nguyên tắc dịch v2.
+Tên công trình, tác giả, năm, mẫu khảo sát, đối tượng, khách thể, địa bàn khảo sát
+Công trình "Viet Nam Adolescent Mental Health Survey (V-NAMHS): Report on Main Findings" của Vũ Mạnh Lợi, Nguyễn Đức Vinh (Viện Xã hội học, VASS); Đào Thị Khánh Hoa (Hội Xã hội học Việt Nam); Holly E. Erskine, Cartiah McGrath, Krystina Wallis, Sarah J. Blondell, Harvey A. Whiteford, James G. Scott (The University of Queensland); Robert Blum, Shoshanna Fine, Mengmeng Li, Astha Ramaiya (Johns Hopkins Bloomberg School of Public Health). Publish tháng 11/2022 bởi Institute of Sociology, Hà Nội. Báo cáo điều tra quốc gia ĐẦU TIÊN của Việt Nam về rối loạn sức khoẻ tâm thần ở vị thành niên 10–17 tuổi theo chuẩn chẩn đoán DSM-5 (DISC-5). Mẫu 5.996 cặp phụ huynh–vị thành niên từ 38 tỉnh/thành phố trải 4 vùng địa lý (Trung du miền núi phía Bắc + Tây Nguyên, Đồng bằng sông Hồng, Bắc Trung Bộ + Duyên hải miền Trung, Đông Nam Bộ + ĐBSCL), bao phủ cả đô thị và nông thôn.
+Phương pháp nghiên cứu
+Điều tra cắt ngang hộ gia đình. Chọn ngẫu nhiên 200 Enumeration Areas (EA) phân đều 50 EA/vùng (25 đô thị + 25 nông thôn), 38 hộ/EA. Tổng 7.599 hộ được tiếp cận, 6.048 đủ điều kiện tham gia (response rate 81,1 %), loại 52 hộ dữ liệu không đầy đủ → mẫu cuối cùng 5.996 cặp. Công cụ đo: DISC-5 (Diagnostic Interview Schedule for Children Version 5) trên vị thành niên cho 5 module (social phobia, generalised anxiety disorder, major depressive disorder, PTSD, conduct disorder); module ADHD hỏi phụ huynh. Phụ huynh cũng hoàn thành PSC-17, PHQ-9, GAD-7. Vị thành niên còn trả lời Rosenberg Self-Esteem, bắt nạt, ACE, peer relationships, GEAS Family Connectedness, self-rated health, physical activity, sexual behaviour (12–17 tuổi, self-administered). Module COVID-19 phát triển riêng. Thu thập dữ liệu 21/9/2021 – 16/12/2021 (bắt đầu miền Bắc, sau miền Nam) với 127 phỏng vấn viên được đào tạo. Tỷ lệ và số lượng weighted theo phân bố tuổi–giới–đô thị/nông thôn của quần thể VTN VN 10–17. Adaptation: dịch tiếng Việt → dịch ngược tiếng Anh → rà soát bác sĩ lâm sàng VN → phản hồi tập huấn → pilot tại Hà Nội + Đồng Nai 2019–2020.
+Kết quả nghiên cứu (đã verify 42/42 claims vs PDF gốc)
+1. Đặc điểm mẫu
+• n = 5.996 cặp phụ huynh–VTN; tuổi VTN trung bình 13,3; 54,2 % ở 10–13 tuổi, 45,8 % ở 14–17
+• 52,6 % nam, 47,5 % nữ [lưu ý bản gốc có thể đảo cột tỷ lệ nam/nữ]; 94,5 % hiện đi học; 94,6 % chưa từng làm việc
+• Phụ huynh TB 44,2 tuổi; 71,7 % nữ; 63,6 % là mẹ/mẹ kế; 47 % hoàn thành ≤ THCS; 54,1 % toàn thời gian
+2. Vấn đề SKTT (mental health problem, 12 tháng qua, weighted)
+Không có khác biệt theo giới (nam 20,8 % vs nữ 22,6 %) hay nhóm tuổi (10–13: 20,8 % vs 14–17: 22,7 %).
+3. Rối loạn tâm thần (DSM-5 full criteria, 12 tháng qua)
+Anxiety disorders cao hơn có ý nghĩa so với tất cả rối loạn khác. Không khác biệt theo giới hay tuổi.
+4. Lĩnh vực suy giảm chức năng (impairment domains)
+5. Hành vi tự sát & tự làm hại (12 tháng qua)
+• Ý nghĩ tự sát 1,4 %; lập kế hoạch 0,4 %; toan tự sát 0,2 %; từng toan trong đời 1,6 %
+• Tự làm hại 12 tháng 1 %; từng tự làm hại trong đời 4,7 %
+• 73,5 % có ý nghĩ tự sát đồng thời có vấn đề SKTT; 76,3 % tự làm hại có vấn đề SKTT
+• Note: tỷ lệ thấp hơn GSHS 2019 (ý nghĩ tự sát 15,6 %, toan 3,1 %) — có thể do phỏng vấn trực tiếp face-to-face underestimate do stigma
+6. Sử dụng dịch vụ
+• 8,4 % VTN có vấn đề SKTT đã sử dụng dịch vụ; 6,5 % toàn mẫu (n = 389)
+• 56,2 % đến bác sĩ/điều dưỡng; 10,7 % nhân viên y tế cộng đồng; 5,5 % nhân viên trường; chỉ 1,4 % chuyên gia tâm thần
+• Chỉ 5,1 % phụ huynh xác định con cần trợ giúp; 37,7 % trong số đó đã nhận đủ trợ giúp
+• Rào cản hàng đầu: "tự giải quyết trong gia đình" 20,4 %; "không chắc con có cần" 10,7 %; "không biết chỗ tìm" 10,0 %
+• Hỗ trợ phi chính thức: 73,9 % VTN nói với gia đình; 38,2 % với bạn bè; 9,5 % không nói với ai
+7. Tác động COVID-19
+• 7,7 % VTN "rất đồng ý" thường xuyên có vấn đề cảm xúc/hành vi nhiều hơn bình thường (cộng cả "đồng ý" = 67 %)
+• 71,5 % hộ giảm thu nhập; 12,3 % thường xuyên thiếu tiền nhu yếu phẩm
+• 7,1 % phụ huynh báo cáo con cần trợ giúp trong đại dịch; 80,3 % không tiếp cận (69,2 % sợ nhiễm COVID-19)
+Nhận xét, phát hiện qua kết quả nghiên cứu
+• Lần ĐẦU TIÊN có dữ liệu đại diện quốc gia về tỷ lệ rối loạn tâm thần VTN VN theo chuẩn DSM-5 — lấp khoảng trống thông tin chiến lược
+• Khoảng cách rất lớn giữa sàng lọc (GAD-7 VN001 = 40,6 %, SDQ VN022 = 26,1 %, DASS-21 VN029 = 50,3 % lo âu) và chẩn đoán DSM-5 (anxiety disorders 2,3 %) — xác nhận sự cần thiết phân biệt giữa symptom và disorder khi tư vấn chính sách
+• Khoảng trống can thiệp/điều trị rất lớn: chỉ 8,4 % VTN có vấn đề SKTT đã sử dụng bất kỳ dịch vụ nào; 73,9 % dựa vào gia đình — tương quan với mental health literacy thấp và kỳ thị
+• Tỷ lệ tự sát thấp hơn GSHS 2019 đáng kể — gợi ý method effect (phỏng vấn vs self-administered) + stigma
+Kết luận
+V-NAMHS 2022 

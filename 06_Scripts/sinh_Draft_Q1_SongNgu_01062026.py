@@ -13,7 +13,7 @@ from docx.shared import Pt, Cm, RGBColor
 from docx.enum.text import WD_ALIGN_PARAGRAPH
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
-OUT = os.path.join(ROOT, 'bai-bao-Q1', 'Draft_Q1_SongNgu_v3_01062026.docx')
+OUT = os.path.join(ROOT, 'bai-bao-Q1', 'Draft_Q1_SongNgu_v7_01062026.docx')
 
 d = Document()
 for sec in d.sections:
@@ -89,7 +89,7 @@ def set_col_widths(t, widths_cm):
 # ============================================================
 p = d.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER
 p.paragraph_format.space_before = Pt(24); p.paragraph_format.space_after = Pt(12)
-r = p.add_run('Draft Q1 — BMC Psychiatry (v3, bilingual)')
+r = p.add_run('Draft Q1 — BMC Psychiatry (v7, bilingual)')
 r.font.name = 'Times New Roman'; r.font.size = Pt(11); r.italic = True
 r.font.color.rgb = RGBColor(0x70, 0x70, 0x70)
 
@@ -102,13 +102,14 @@ H1('Integrated risk-protective structural equation modelling of '
 
 p = d.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER
 p.paragraph_format.space_after = Pt(4)
-r = p.add_run('Hang Thi Cong¹*, Nguyen Minh Duc², Duc Minh Dao¹†')
+r = p.add_run('Hang Thi Cong¹*, Duc Minh Dao¹, Nguyen Minh Duc²†')
 r.font.name = 'Times New Roman'; r.font.size = Pt(12); r.bold = True
 
 p = d.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER
 p.paragraph_format.space_after = Pt(12)
 r = p.add_run('¹ Hanoi National University of Education, Vietnam | '
-              '² [Affiliation TBD] | * Corresponding author | † Senior author')
+              '² [Affiliation TBD] | * Corresponding author | '
+              '† Senior author (last position, per Western convention)')
 r.font.name = 'Times New Roman'; r.font.size = Pt(10); r.italic = True
 
 
@@ -288,25 +289,27 @@ PP('Critical to the present study is the recognition that "anxiety" is '
    '– bảo vệ theo từng phân loại trong bối cảnh Việt Nam.')
 
 PP('The Vietnamese context introduces three culturally specific '
-   'considerations [Anderson et al. 2025]. First, a Confucian academic '
-   'culture frames high-stakes examinations as the principal gateway '
-   'to social mobility, intensifying chronic academic stress. Second, '
-   'a hierarchical family structure constrains emotional disclosure '
-   'between adolescents and parents, potentially attenuating parental '
-   'support efficacy. Third, a collectivist orientation may uniformly '
-   'shape attachment processes across genders, with theoretical '
-   'implications for separation anxiety [Triandis 1995; Markus & '
-   'Kitayama 1991]. These culture-specific features call for empirical '
-   'examination beyond imported Western frameworks.',
-   'Bối cảnh Việt Nam đặt ra ba yếu tố đặc thù văn hóa. Thứ nhất, văn '
-   'hóa học thuật Nho giáo coi các kỳ thi áp lực cao là cửa ngõ chính '
-   'để di chuyển xã hội, làm gia tăng stress học tập kéo dài. Thứ hai, '
-   'cấu trúc gia đình thứ bậc hạn chế việc bộc lộ cảm xúc giữa thanh '
-   'thiếu niên và cha mẹ, có thể làm suy giảm hiệu lực của hỗ trợ cha '
-   'mẹ. Thứ ba, định hướng tập thể có thể định hình các quá trình gắn '
-   'bó một cách đồng nhất giữa các giới, với hàm ý lý thuyết cho lo âu '
-   'chia ly. Các đặc trưng văn hóa này đòi hỏi kiểm chứng thực nghiệm '
-   'vượt ra ngoài các khung lý thuyết phương Tây nhập khẩu.')
+   'considerations [Anderson et al. 2025]. First, a Confucian '
+   'academic culture [Stankov 2010] frames high-stakes examinations '
+   'as the principal gateway to social mobility, intensifying chronic '
+   'academic stress. Second, a hierarchical family structure '
+   'constrains emotional disclosure between adolescents and parents, '
+   'potentially attenuating parental support efficacy. Third, a '
+   'collectivist orientation may uniformly shape attachment processes '
+   'across genders, with theoretical implications for separation '
+   'anxiety [Triandis 1995; Markus & Kitayama 1991]. These '
+   'culture-specific features call for empirical examination beyond '
+   'imported Western frameworks.',
+   'Bối cảnh Việt Nam đặt ra ba yếu tố đặc thù văn hóa. Thứ nhất, '
+   'văn hóa học thuật Nho giáo (Stankov 2010) coi các kỳ thi áp lực '
+   'cao là cửa ngõ chính để di chuyển xã hội, làm gia tăng stress '
+   'học tập kéo dài. Thứ hai, cấu trúc gia đình thứ bậc hạn chế '
+   'việc bộc lộ cảm xúc giữa thanh thiếu niên và cha mẹ, có thể '
+   'làm suy giảm hiệu lực của hỗ trợ cha mẹ. Thứ ba, định hướng '
+   'tập thể có thể định hình các quá trình gắn bó một cách đồng '
+   'nhất giữa các giới, với hàm ý lý thuyết cho lo âu chia ly. Các '
+   'đặc trưng văn hóa này đòi hỏi kiểm chứng thực nghiệm vượt ra '
+   'ngoài các khung lý thuyết phương Tây nhập khẩu.')
 
 
 H3('1.2 Risk-protective framework and the integration imperative',
@@ -811,7 +814,7 @@ H3('3.6 Multi-group invariance by gender — H3 supported',
 PP('Configural invariance was achieved (both groups fitted the same '
    'structural model), supporting subsequent invariance comparisons, '
    'following procedures established for cross-gender invariance of '
-   'GAD-7 in adolescent samples [Niwenahisemo, Su, & Kuang 2024]. '
+   'GAD-7 in adolescent samples [Niwenahisemo, Hong, & Kuang 2024]. '
    'Mean scores diverged significantly by gender for GAD '
    '(Female M = 59.47 vs Male M = 51.43; F = 44.48, p < 0.001) and '
    'SocAD (Female M = 52.74 vs Male M = 43.20; F = 45.98, '
@@ -823,7 +826,7 @@ PP('Configural invariance was achieved (both groups fitted the same '
    'Bất biến cấu hình được đạt (cả hai nhóm vừa khít cùng một mô hình '
    'cấu trúc), hỗ trợ các so sánh bất biến tiếp theo, theo các quy trình '
    'đã được thiết lập cho bất biến giữa các giới của GAD-7 trên mẫu '
-   'thanh thiếu niên (Niwenahisemo, Su, & Kuang 2024). Điểm trung bình '
+   'thanh thiếu niên (Niwenahisemo, Hong, & Kuang 2024). Điểm trung bình '
    'khác biệt có ý nghĩa theo giới với GAD (nữ M = 59,47 so với '
    'nam M = 51,43; F = 44,48; p < 0,001) và SocAD (nữ M = 52,74 '
    'so với nam M = 43,20; F = 45,98; p < 0,001). Đáng chú ý, SAD '
@@ -959,29 +962,37 @@ H3('4.4 Peer support null effects: the co-rumination hypothesis',
 PP('Western literature consistently identifies peer support as '
    'protective against adolescent internalising symptoms. Our null '
    'and marginally significant results across all three subtypes '
-   'depart from this expectation. We propose two non-mutually-exclusive '
-   'interpretations: first, in a Confucian-influenced collectivist '
-   'context, peer disclosure norms may emphasise emotional regulation '
-   '("nhẫn", endurance) over expressive sharing, attenuating the '
+   'depart from this expectation. We propose two non-mutually-'
+   'exclusive interpretations: first, in a Confucian-influenced '
+   'collectivist context shaped by the tam giao tradition (the '
+   'coexistence of Confucianism, Buddhism and Taoism), peer '
+   'disclosure norms may emphasise emotional restraint over '
+   'expressive sharing [Small & Blanc 2021], attenuating the '
    'support-seeking buffer mechanism; second, the co-rumination '
-   'hypothesis suggests that frequent peer disclosure can recursively '
-   'amplify worry rather than dissipate it, especially when academic-'
-   'competition norms are operative. Future research employing '
-   'qualitative deep-probes of peer support content (rather than '
-   'frequency) is warranted.',
-   'Y văn phương Tây thường xuyên xác định hỗ trợ bạn bè là yếu tố '
-   'bảo vệ chống lại các triệu chứng nội hóa ở thanh thiếu niên. Các '
-   'kết quả không có ý nghĩa và cận biên của chúng tôi xuyên suốt cả '
-   'ba phân loại lệch khỏi kỳ vọng này. Chúng tôi đề xuất hai cách '
-   'diễn giải không loại trừ lẫn nhau: thứ nhất, trong bối cảnh tập '
-   'thể ảnh hưởng Nho giáo, chuẩn mực giãi bày với bạn bè có thể nhấn '
-   'mạnh điều tiết cảm xúc ("nhẫn") hơn là chia sẻ biểu cảm, làm suy '
-   'giảm cơ chế đệm tìm kiếm hỗ trợ; thứ hai, giả thuyết co-rumination '
-   'gợi ý rằng giãi bày thường xuyên với bạn bè có thể khuếch đại lo '
-   'lắng theo vòng lặp thay vì tiêu tan, đặc biệt khi chuẩn mực cạnh '
-   'tranh học thuật đang vận hành. Nghiên cứu trong tương lai sử dụng '
-   'thăm dò định tính sâu về nội dung hỗ trợ bạn bè (thay vì tần suất) '
-   'là cần thiết.')
+   'hypothesis — defined as extensively discussing problems, '
+   'speculating about them and focusing on negative feelings '
+   '[Rose 2002] — suggests that frequent peer disclosure can '
+   'recursively amplify worry rather than dissipate it, especially '
+   'when academic-competition norms are operative. Future research '
+   'employing qualitative deep-probes of peer support content '
+   '(rather than frequency) is warranted.',
+   'Y văn phương Tây thường xuyên xác định hỗ trợ bạn bè là yếu '
+   'tố bảo vệ chống lại các triệu chứng nội hóa ở thanh thiếu '
+   'niên. Các kết quả không có ý nghĩa và cận biên của chúng tôi '
+   'xuyên suốt cả ba phân loại lệch khỏi kỳ vọng này. Chúng tôi '
+   'đề xuất hai cách diễn giải không loại trừ lẫn nhau: thứ nhất, '
+   'trong bối cảnh tập thể ảnh hưởng Nho giáo được định hình bởi '
+   'truyền thống tam giáo (sự cộng tồn của Nho giáo, Phật giáo và '
+   'Đạo giáo), chuẩn mực giãi bày với bạn bè có thể nhấn mạnh sự '
+   'chừng mực cảm xúc hơn là chia sẻ biểu cảm (Small & Blanc '
+   '2021), làm suy giảm cơ chế đệm tìm kiếm hỗ trợ; thứ hai, giả '
+   'thuyết co-rumination — định nghĩa là sự thảo luận sâu rộng, '
+   'suy tư phỏng đoán và tập trung vào cảm xúc tiêu cực (Rose '
+   '2002) — gợi ý rằng giãi bày thường xuyên với bạn bè có thể '
+   'khuếch đại lo lắng theo vòng lặp thay vì tiêu tan, đặc biệt '
+   'khi chuẩn mực cạnh tranh học thuật đang vận hành. Nghiên cứu '
+   'trong tương lai sử dụng thăm dò định tính sâu về nội dung hỗ '
+   'trợ bạn bè (thay vì tần suất) là cần thiết.')
 
 
 H3('4.5 Separation anxiety gender invariance — novel interpretation',
@@ -1132,7 +1143,7 @@ P_ref = ['American Psychiatric Association. (2013). Diagnostic and '
          'Kieling, C., Buchweitz, C., Caye, A., et al. (2024). '
          'Worldwide prevalence and disability from mental disorders '
          'across childhood and adolescence: Evidence from the Global '
-         'Burden of Disease Study. JAMA Psychiatry, 81(4), 347–356.',
+         'Burden of Disease Study. JAMA Psychiatry, 81(4), 347-356.',
          'Kroger, J. (2007). Identity development: Adolescence through '
          'adulthood (2nd ed.). Thousand Oaks, CA: Sage.',
          'Kwon, M., Lee, J. Y., Won, W. Y., et al. (2013). SAS-SV: '
@@ -1144,7 +1155,7 @@ P_ref = ['American Psychiatric Association. (2013). Diagnostic and '
          'McLean, C. P., et al. (2011). Gender differences in anxiety '
          'disorders: Prevalence, course of illness, comorbidity and '
          'burden of illness.',
-         'Niwenahisemo, L. C., Su, H., & Kuang, L. (2024). Assessing '
+         'Niwenahisemo, L. C., Hong, S., & Kuang, L. (2024). Assessing'
          'anxiety symptom severity in Rwandese adolescents: '
          'Cross-gender measurement invariance of GAD-7. Frontiers in '
          'Psychiatry.',
@@ -1154,7 +1165,17 @@ P_ref = ['American Psychiatric Association. (2013). Diagnostic and '
          'Robson, E. M., Husin, H. M., Dashti, S. G., et al. (2025). '
          'Tracking the course of depressive and anxiety symptoms '
          'across adolescence (the CATS study). Lancet Psychiatry, '
-         '12, 44–53.',
+         '12(1), 44-53.',
+         'Rose, A. J. (2002). Co-rumination in the friendships of '
+         'girls and boys. Child Development, 73(6), 1830–1843. '
+         'PMID: 12487497.',
+         'Small, S., & Blanc, J. (2021). Mental Health During '
+         'COVID-19: Tam Giao and Vietnam\'s Response. Frontiers '
+         'in Psychiatry, 11, 589618. DOI: 10.3389/fpsyt.2020.589618.',
+         'Stankov, L. (2010). Unforgiving Confucian culture: A '
+         'breeding ground for high academic achievement, test '
+         'anxiety and self-doubt? Learning and Individual '
+         'Differences, 20(6), 555–563. DOI: 10.1016/j.lindif.2010.05.003.',
          'Rosenberg, M. (1965). Rosenberg Self-Esteem Scale.',
          'Saikia, S., et al. (2023). Prevalence and correlates of '
          'anxiety in Northeast Indian adolescents. Indian Journal '

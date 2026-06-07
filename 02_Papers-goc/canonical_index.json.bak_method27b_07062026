@@ -5,8 +5,7 @@
     "summary": "QT001_Jenkins_et_al_2023_USA.docx",
     "translation": "QT001_Jenkins_2023_USA_SanDiego.docx",
     "pdf": "QT001_Jenkins_2023_USA_SanDiego.pdf",
-    "pdf_folder": "11-bai-ban-dau-va-mo-rong",
-    "pdf_path": "02_Papers-goc/11-bai-ban-dau-va-mo-rong/QT001_Jenkins_2023_USA_SanDiego.pdf"
+    "pdf_folder": "11-bai-ban-dau-va-mo-rong"
   },
   "QT002": {
     "id": "QT002",
@@ -48,8 +47,7 @@
     "summary": "QT006_Nakie_et_al_2022_Ethiopia.docx",
     "translation": null,
     "pdf": "QT006_Nakie_et_al_2022_Ethiopia.pdf",
-    "pdf_folder": "The-gioi_Khac",
-    "pdf_path": "02_Papers-goc/The-gioi_Khac/QT006_Nakie_et_al_2022_Ethiopia.pdf"
+    "pdf_folder": "The-gioi_Khac"
   },
   "QT007": {
     "id": "QT007",
@@ -57,8 +55,7 @@
     "summary": "QT007_Chen_et_al_2023_China_BMCPsych.docx",
     "translation": null,
     "pdf": "QT007_Chen_et_al_2023_China_BMCPsych.pdf",
-    "pdf_folder": "The-gioi_Khac",
-    "pdf_path": "02_Papers-goc/The-gioi_Khac/QT007_Chen_et_al_2023_China_BMCPsych.pdf"
+    "pdf_folder": "The-gioi_Khac"
   },
   "QT008": {
     "id": "QT008",
@@ -66,8 +63,7 @@
     "summary": "QT008_Wen_et_al_2020_China_Rural.docx",
     "translation": "QT008_Wen_2020_China_Rural_LPA.docx",
     "pdf": "QT008_Wen_2020_China_Rural_LPA.pdf",
-    "pdf_folder": "The-gioi_Khac",
-    "pdf_path": "02_Papers-goc/The-gioi_Khac/QT008_Wen_2020_China_Rural_LPA.pdf"
+    "pdf_folder": "The-gioi_Khac"
   },
   "QT009": {
     "id": "QT009",
@@ -75,8 +71,7 @@
     "summary": "QT009_Qiu_et_al_2022_China_Parenting.docx",
     "translation": null,
     "pdf": "QT009_Qiu_et_al_2022_China_Parenting.pdf",
-    "pdf_folder": "The-gioi_Khac",
-    "pdf_path": "02_Papers-goc/The-gioi_Khac/QT009_Qiu_et_al_2022_China_Parenting.pdf"
+    "pdf_folder": "The-gioi_Khac"
   },
   "QT010": {
     "id": "QT010",
@@ -84,8 +79,7 @@
     "summary": "QT010_Xu_et_al_2021_China_LargestEpi.docx",
     "translation": "QT010_Xu_2021_China_LargestEpi.docx",
     "pdf": "QT010_Xu_2021_China_LargestEpi.pdf",
-    "pdf_folder": "11-bai-ban-dau-va-mo-rong",
-    "pdf_path": "02_Papers-goc/11-bai-ban-dau-va-mo-rong/QT010_Xu_2021_China_LargestEpi.pdf"
+    "pdf_folder": "11-bai-ban-dau-va-mo-rong"
   },
   "QT011": {
     "id": "QT011",
@@ -93,8 +87,7 @@
     "summary": "QT011_Bhardwaj_et_al_2020_India_Chandigarh.docx",
     "translation": null,
     "pdf": "QT011_Bhardwaj_et_al_2020_India_Chandigarh.pdf",
-    "pdf_folder": "The-gioi_Khac",
-    "pdf_path": "02_Papers-goc/The-gioi_Khac/QT011_Bhardwaj_et_al_2020_India_Chandigarh.pdf"
+    "pdf_folder": "The-gioi_Khac"
   },
   "QT012": {
     "id": "QT012",
@@ -102,8 +95,7 @@
     "summary": "QT012_GBD_ASEAN_2025_Lancet.docx",
     "translation": "QT012_GBD_ASEAN_2025_Lancet.docx",
     "pdf": "QT012_GBD_ASEAN_2025_Lancet.pdf",
-    "pdf_folder": "Dong-Nam-A",
-    "pdf_path": "02_Papers-goc/Dong-Nam-A/QT012_GBD_ASEAN_2025_Lancet.pdf"
+    "pdf_folder": "Dong-Nam-A"
   },
   "QT013": {
     "id": "QT013",
@@ -111,8 +103,7 @@
     "summary": "QT013_Zhameden_2025_PLOSONE_LMIC.docx",
     "translation": "QT013_Zhameden_2025_PLOSONE_LMIC.docx",
     "pdf": "QT013_Zhameden_2025_PLOSONE_LMIC.pdf",
-    "pdf_folder": "The-gioi_Au-My-Uc",
-    "pdf_path": "02_Papers-goc/The-gioi_Au-My-Uc/QT013_Zhameden_2025_PLOSONE_LMIC.pdf"
+    "pdf_folder": "The-gioi_Au-My-Uc"
   },
   "QT014": {
     "id": "QT014",
@@ -120,8 +111,7 @@
     "summary": "QT014_Anderson_2025_Wiley_Narrative.docx",
     "translation": "QT014_Anderson_2025_Wiley_Narrative.docx",
     "pdf": "QT014_Anderson_2025_Wiley_Narrative.pdf",
-    "pdf_folder": "The-gioi_Au-My-Uc",
-    "pdf_path": "02_Papers-goc/The-gioi_Au-My-Uc/QT014_Anderson_2025_Wiley_Narrative.pdf"
+    "pdf_folder": "The-gioi_Au-My-Uc"
   },
   "QT015": {
     "id": "QT015",
@@ -129,8 +119,7 @@
     "summary": "QT015_Zhu_2025_BMC_China.docx",
     "translation": "QT015_Zhu_2025_BMC_China.docx",
     "pdf": "QT015_Zhu_2025_BMC_China.pdf",
-    "pdf_folder": "The-gioi_Khac",
-    "pdf_path": "02_Papers-goc/The-gioi_Khac/QT015_Zhu_2025_BMC_China.pdf"
+    "pdf_folder": "The-gioi_Khac"
   },
   "QT016": {
     "id": "QT016",
@@ -138,8 +127,7 @@
     "summary": "QT016_Mudunna_2025_LancetSEA_SouthAsia.docx",
     "translation": "QT016_Mudunna_2025_LancetSEA_SouthAsia.docx",
     "pdf": "QT016_Mudunna_2025_LancetSEA_SouthAsia.pdf",
-    "pdf_folder": "Dong-Nam-A",
-    "pdf_path": "02_Papers-goc/Dong-Nam-A/QT016_Mudunna_2025_LancetSEA_SouthAsia.pdf"
+    "pdf_folder": "Dong-Nam-A"
   },
   "QT017": {
     "id": "QT017",
@@ -147,8 +135,7 @@
     "summary": "QT017_Puyat_2025_Filipino_Youth.docx",
     "translation": "QT017_Puyat_2025_Filipino_Youth.docx",
     "pdf": "QT017_Puyat_2025_Filipino_Youth.pdf",
-    "pdf_folder": "Dong-Nam-A",
-    "pdf_path": "02_Papers-goc/Dong-Nam-A/QT017_Puyat_2025_Filipino_Youth.pdf"
+    "pdf_folder": "Dong-Nam-A"
   },
   "QT021": {
     "id": "QT021",
@@ -156,8 +143,7 @@
     "summary": "QT021_Norway_Brunborg_2025_SocSciMed.docx",
     "translation": "QT021_Norway_Brunborg_2025_SocSciMed.docx",
     "pdf": "QT021_Norway_Brunborg_2025_SocSciMed.pdf",
-    "pdf_folder": "The-gioi_Au-My-Uc",
-    "pdf_path": "02_Papers-goc/The-gioi_Au-My-Uc/QT021_Norway_Brunborg_2025_SocSciMed.pdf"
+    "pdf_folder": "The-gioi_Au-My-Uc"
   },
   "QT022": {
     "id": "QT022",
@@ -165,8 +151,7 @@
     "summary": "QT022_ScreenTime_Li_2025_BJCP.docx",
     "translation": "QT022_ScreenTime_Li_2025_BJCP.docx",
     "pdf": "QT022_ScreenTime_Li_2025_BJCP.pdf",
-    "pdf_folder": "The-gioi_Au-My-Uc",
-    "pdf_path": "02_Papers-goc/The-gioi_Au-My-Uc/QT022_ScreenTime_Li_2025_BJCP.pdf"
+    "pdf_folder": "The-gioi_Au-My-Uc"
   },
   "QT023": {
     "id": "QT023",
@@ -174,8 +159,7 @@
     "summary": "QT023_JAACAP_USA_Mojtabai_Trends_2024.docx",
     "translation": "QT023_JAACAP_USA_Mojtabai_Trends_2024.docx",
     "pdf": "QT023_JAACAP_USA_Mojtabai_Trends_2024.pdf",
-    "pdf_folder": "The-gioi_Au-My-Uc",
-    "pdf_path": "02_Papers-goc/The-gioi_Au-My-Uc/QT023_JAACAP_USA_Mojtabai_Trends_2024.pdf"
+    "pdf_folder": "The-gioi_Au-My-Uc"
   },
   "QT024": {
     "id": "QT024",
@@ -183,8 +167,7 @@
     "summary": "QT024_WHO_Europe_2025_LancetRegional.docx",
     "translation": "QT024_WHO_Europe_2025_LancetRegional.docx",
     "pdf": "QT024_WHO_Europe_2025_LancetRegional.pdf",
-    "pdf_folder": "The-gioi_Au-My-Uc",
-    "pdf_path": "02_Papers-goc/The-gioi_Au-My-Uc/QT024_WHO_Europe_2025_LancetRegional.pdf"
+    "pdf_folder": "The-gioi_Au-My-Uc"
   },
   "QT025": {
     "id": "QT025",
@@ -192,8 +175,7 @@
     "summary": "QT025_EpiPsychSci_Crisp_Australia_2025.docx",
     "translation": "QT025_EpiPsychSci_Crisp_Australia_2025.docx",
     "pdf": "QT025_EpiPsychSci_Crisp_Australia_2025.pdf",
-    "pdf_folder": "The-gioi_Au-My-Uc",
-    "pdf_path": "02_Papers-goc/The-gioi_Au-My-Uc/QT025_EpiPsychSci_Crisp_Australia_2025.pdf"
+    "pdf_folder": "The-gioi_Au-My-Uc"
   },
   "QT026": {
     "id": "QT026",
@@ -201,8 +183,7 @@
     "summary": "QT026_UK_NHS_Parliament_2025.docx",
     "translation": "QT026_UK_NHS_Parliament_2025.docx",
     "pdf": "QT026_UK_NHS_Parliament_2025.pdf",
-    "pdf_folder": "The-gioi_Au-My-Uc",
-    "pdf_path": "02_Papers-goc/The-gioi_Au-My-Uc/QT026_UK_NHS_Parliament_2025.pdf"
+    "pdf_folder": "The-gioi_Au-My-Uc"
   },
   "QT027": {
     "id": "QT027",
@@ -210,8 +191,7 @@
     "summary": "QT027_NatureHumanBehav_Fassi_SocialMedia_2025.docx",
     "translation": "QT027_NatureHumanBehav_Fassi_SocialMedia_2025.docx",
     "pdf": "QT027_NatureHumanBehav_Fassi_SocialMedia_2025.pdf",
-    "pdf_folder": "The-gioi_Au-My-Uc",
-    "pdf_path": "02_Papers-goc/The-gioi_Au-My-Uc/QT027_NatureHumanBehav_Fassi_SocialMedia_2025.pdf"
+    "pdf_folder": "The-gioi_Au-My-Uc"
   },
   "QT028": {
     "id": "QT028",
@@ -219,8 +199,7 @@
     "summary": "QT028_AJP_Zugman_PediatricAnxiety_2024.docx",
     "translation": "QT028_AJP_Zugman_PediatricAnxiety_2024.docx",
     "pdf": "QT028_AJP_Zugman_PediatricAnxiety_2024.pdf",
-    "pdf_folder": "The-gioi_Au-My-Uc",
-    "pdf_path": "02_Papers-goc/The-gioi_Au-My-Uc/QT028_AJP_Zugman_PediatricAnxiety_2024.pdf"
+    "pdf_folder": "The-gioi_Au-My-Uc"
   },
   "QT029": {
     "id": "QT029",
@@ -228,8 +207,7 @@
     "summary": "QT029_BMC_Li_CBT_NMA_2025.docx",
     "translation": "QT029_BMC_Li_CBT_NMA_2025.docx",
     "pdf": "QT029_BMC_Li_CBT_NMA_2025.pdf",
-    "pdf_folder": "The-gioi_Khac",
-    "pdf_path": "02_Papers-goc/The-gioi_Khac/QT029_BMC_Li_CBT_NMA_2025.pdf"
+    "pdf_folder": "The-gioi_Khac"
   },
   "QT030": {
     "id": "QT030",
@@ -237,8 +215,7 @@
     "summary": "QT030_GBD_Trends_10-24y_2025.docx",
     "translation": "QT030_GBD_Trends_10-24y_2025.docx",
     "pdf": "QT030_GBD_Trends_10-24y_2025.pdf",
-    "pdf_folder": "The-gioi_Khac",
-    "pdf_path": "02_Papers-goc/The-gioi_Khac/QT030_GBD_Trends_10-24y_2025.pdf"
+    "pdf_folder": "The-gioi_Khac"
   },
   "QT031": {
     "id": "QT031",
@@ -246,8 +223,7 @@
     "summary": "QT031_Islam_59Countries_2025.docx",
     "translation": "QT031_Islam_59Countries_2025.docx",
     "pdf": "QT031_Islam_59Countries_2025.pdf",
-    "pdf_folder": "The-gioi_Khac",
-    "pdf_path": "02_Papers-goc/The-gioi_Khac/QT031_Islam_59Countries_2025.pdf"
+    "pdf_folder": "The-gioi_Khac"
   },
   "QT032": {
     "id": "QT032",
@@ -255,8 +231,7 @@
     "summary": "QT032_Ireland_Fitzgerald_MyWorld_2024.docx",
     "translation": "QT032_Ireland_Fitzgerald_MyWorld_2024.docx",
     "pdf": "QT032_Ireland_Fitzgerald_MyWorld_2024.pdf",
-    "pdf_folder": "The-gioi_Au-My-Uc",
-    "pdf_path": "02_Papers-goc/The-gioi_Au-My-Uc/QT032_Ireland_Fitzgerald_MyWorld_2024.pdf"
+    "pdf_folder": "The-gioi_Au-My-Uc"
   },
   "QT033": {
     "id": "QT033",
@@ -264,8 +239,7 @@
     "summary": "QT033_JAMA_SchmidtPersson_ScreenMedia_2024.docx",
     "translation": "QT033_JAMA_SchmidtPersson_ScreenMedia_2024.docx",
     "pdf": "QT033_JAMA_SchmidtPersson_ScreenMedia_2024.pdf",
-    "pdf_folder": "The-gioi_Au-My-Uc",
-    "pdf_path": "02_Papers-goc/The-gioi_Au-My-Uc/QT033_JAMA_SchmidtPersson_ScreenMedia_2024.pdf"
+    "pdf_folder": "The-gioi_Au-My-Uc"
   },
   "QT034": {
     "id": "QT034",
@@ -273,8 +247,7 @@
     "summary": "QT034_Korea_Cho_MH_Trends_NatSciRep_2024.docx",
     "translation": "QT034_Korea_Cho_MH_Trends_NatSciRep_2024.docx",
     "pdf": "QT034_Korea_Cho_MH_Trends_NatSciRep_2024.pdf",
-    "pdf_folder": "The-gioi_Khac",
-    "pdf_path": "02_Papers-goc/The-gioi_Khac/QT034_Korea_Cho_MH_Trends_NatSciRep_2024.pdf"
+    "pdf_folder": "The-gioi_Khac"
   },
   "QT035": {
     "id": "QT035",
@@ -282,8 +255,7 @@
     "summary": "QT035_Jefferies_SocialAnxiety_7Countries_2020.docx",
     "translation": "QT035_Jefferies_SocialAnxiety_7Countries_2020.docx",
     "pdf": "QT035_Jefferies_SocialAnxiety_7Countries_2020.pdf",
-    "pdf_folder": "The-gioi_Au-My-Uc",
-    "pdf_path": "02_Papers-goc/The-gioi_Au-My-Uc/QT035_Jefferies_SocialAnxiety_7Countries_2020.pdf"
+    "pdf_folder": "The-gioi_Au-My-Uc"
   },
   "QT036": {
     "id": "QT036",
@@ -291,8 +263,7 @@
     "summary": "QT036_Moon_Korea_GAD_ML_2025.docx",
     "translation": "QT036_Moon_Korea_GAD_ML_2025.docx",
     "pdf": "QT036_Moon_Korea_GAD_ML_2025.pdf",
-    "pdf_folder": "The-gioi_Khac",
-    "pdf_path": "02_Papers-goc/The-gioi_Khac/QT036_Moon_Korea_GAD_ML_2025.pdf"
+    "pdf_folder": "The-gioi_Khac"
   },
   "QT037": {
     "id": "QT037",
@@ -308,8 +279,7 @@
     "summary": "QT038_DeSilva_SriLanka_RCT_2024.docx",
     "translation": "QT038_DeSilva_SriLanka_RCT_2024.docx",
     "pdf": "QT038_DeSilva_SriLanka_RCT_2024.pdf",
-    "pdf_folder": "The-gioi_Khac",
-    "pdf_path": "02_Papers-goc/The-gioi_Khac/QT038_DeSilva_SriLanka_RCT_2024.pdf"
+    "pdf_folder": "The-gioi_Khac"
   },
   "QT039": {
     "id": "QT039",
@@ -317,8 +287,7 @@
     "summary": "QT039_Xian_NMA_SAD_JAD_2024.docx",
     "translation": "QT039_Xian_NMA_SAD_JAD_2024.docx",
     "pdf": "QT039_Xian_NMA_SAD_JAD_2024.pdf",
-    "pdf_folder": "The-gioi_Khac",
-    "pdf_path": "02_Papers-goc/The-gioi_Khac/QT039_Xian_NMA_SAD_JAD_2024.pdf"
+    "pdf_folder": "The-gioi_Khac"
   },
   "QT040": {
     "id": "QT040",
@@ -326,8 +295,7 @@
     "summary": "QT040_Walder_JMIR_DMHI_SAD_2025.docx",
     "translation": "QT040_Walder_JMIR_DMHI_SAD_2025.docx",
     "pdf": "QT040_Walder_JMIR_DMHI_SAD_2025.pdf",
-    "pdf_folder": "The-gioi_Au-My-Uc",
-    "pdf_path": "02_Papers-goc/The-gioi_Au-My-Uc/QT040_Walder_JMIR_DMHI_SAD_2025.pdf"
+    "pdf_folder": "The-gioi_Au-My-Uc"
   },
   "QT041": {
     "id": "QT041",
@@ -335,8 +303,7 @@
     "summary": "QT041_Zheng_China_MXH_PRBM_2025.docx",
     "translation": "QT041_Zheng_China_MXH_PRBM_2025.docx",
     "pdf": "QT041_Zheng_China_MXH_PRBM_2025.pdf",
-    "pdf_folder": "The-gioi_Khac",
-    "pdf_path": "02_Papers-goc/The-gioi_Khac/QT041_Zheng_China_MXH_PRBM_2025.pdf"
+    "pdf_folder": "The-gioi_Khac"
   },
   "QT042": {
     "id": "QT042",
@@ -344,8 +311,7 @@
     "summary": "QT042_BrownCarter_UK_School_JMH_2025.docx",
     "translation": "QT042_BrownCarter_UK_School_JMH_2025.docx",
     "pdf": "QT042_BrownCarter_UK_School_JMH_2025.pdf",
-    "pdf_folder": "The-gioi_Au-My-Uc",
-    "pdf_path": "02_Papers-goc/The-gioi_Au-My-Uc/QT042_BrownCarter_UK_School_JMH_2025.pdf"
+    "pdf_folder": "The-gioi_Au-My-Uc"
   },
   "QT043": {
     "id": "QT043",
@@ -353,8 +319,7 @@
     "summary": "QT043_Bress_JAMA_Maya_App_2024.docx",
     "translation": "QT043_Bress_JAMA_Maya_App_2024.docx",
     "pdf": "QT043_Bress_JAMA_Maya_App_2024.pdf",
-    "pdf_folder": "The-gioi_Au-My-Uc",
-    "pdf_path": "02_Papers-goc/The-gioi_Au-My-Uc/QT043_Bress_JAMA_Maya_App_2024.pdf"
+    "pdf_folder": "The-gioi_Au-My-Uc"
   },
   "QT044": {
     "id": "QT044",
@@ -362,8 +327,7 @@
     "summary": "QT044_Cai_Resilience_Frontiers_2025.docx",
     "translation": "QT044_Cai_Resilience_Frontiers_2025.docx",
     "pdf": "QT044_Cai_Resilience_Frontiers_2025.pdf",
-    "pdf_folder": "The-gioi_Khac",
-    "pdf_path": "02_Papers-goc/The-gioi_Khac/QT044_Cai_Resilience_Frontiers_2025.pdf"
+    "pdf_folder": "The-gioi_Khac"
   },
   "QT045": {
     "id": "QT045",
@@ -371,8 +335,7 @@
     "summary": "QT045_Matsumoto_Japan_iCBT_JMIR_2024.docx",
     "translation": "QT045_Matsumoto_Japan_iCBT_JMIR_2024.docx",
     "pdf": "QT045_Matsumoto_Japan_iCBT_JMIR_2024.pdf",
-    "pdf_folder": "The-gioi_Khac",
-    "pdf_path": "02_Papers-goc/The-gioi_Khac/QT045_Matsumoto_Japan_iCBT_JMIR_2024.pdf"
+    "pdf_folder": "The-gioi_Khac"
   },
   "QT046": {
     "id": "QT046",
@@ -380,8 +343,7 @@
     "summary": "QT046_Jagiello_AcademicStress_SR_2025.docx",
     "translation": "QT046_Jagiello_AcademicStress_SR_2025.docx",
     "pdf": "QT046_Jagiello_AcademicStress_SR_2025.pdf",
-    "pdf_folder": "The-gioi_Au-My-Uc",
-    "pdf_path": "02_Papers-goc/The-gioi_Au-My-Uc/QT046_Jagiello_AcademicStress_SR_2025.pdf"
+    "pdf_folder": "The-gioi_Au-My-Uc"
   },
   "QT047": {
     "id": "QT047",
@@ -389,8 +351,7 @@
     "summary": "QT047_Dong_PLOS_DASS_YaAn_2025.docx",
     "translation": "QT047_Dong_PLOS_DASS_YaAn_2025.docx",
     "pdf": "QT047_Dong_PLOS_DASS_YaAn_2025.pdf",
-    "pdf_folder": "The-gioi_Khac",
-    "pdf_path": "02_Papers-goc/The-gioi_Khac/QT047_Dong_PLOS_DASS_YaAn_2025.pdf"
+    "pdf_folder": "The-gioi_Khac"
   },
   "QT048": {
     "id": "QT048",
@@ -430,8 +391,7 @@
     "summary": "VN001_Hoa_2024_Frontiers_HaNoi.docx",
     "translation": "VN001_Hoa_2024_Frontiers_HaNoi.docx",
     "pdf": "VN001_Hoa_2024_Frontiers_HaNoi.pdf",
-    "pdf_folder": "Viet-Nam",
-    "pdf_path": "02_Papers-goc/Viet-Nam/VN001_Hoa_2024_Frontiers_HaNoi.pdf"
+    "pdf_folder": "Viet-Nam"
   },
   "VN002": {
     "id": "VN002",
@@ -439,8 +399,7 @@
     "summary": "VN002_VNAMHS_2022_National.docx",
     "translation": "VN002_VNAMHS_2022_National.docx",
     "pdf": "VN002_VNAMHS_2022_National.pdf",
-    "pdf_folder": "Viet-Nam",
-    "pdf_path": "02_Papers-goc/Viet-Nam/VN002_VNAMHS_2022_National.pdf"
+    "pdf_folder": "Viet-Nam"
   },
   "VN003": {
     "id": "VN003",
@@ -448,8 +407,7 @@
     "summary": "VN003_Pham_2024_Hue_SocialSupport.docx",
     "translation": "VN003_Pham_2024_Hue_SocialSupport.docx",
     "pdf": "VN003_Pham_2024_Hue_SocialSupport.pdf",
-    "pdf_folder": "Viet-Nam",
-    "pdf_path": "02_Papers-goc/Viet-Nam/VN003_Pham_2024_Hue_SocialSupport.pdf"
+    "pdf_folder": "Viet-Nam"
   },
   "VN014": {
     "id": "VN014",
@@ -457,8 +415,7 @@
     "summary": "VN014_HoangTrungHoc_2025_VN_COVID.docx",
     "translation": "VN014_HoangTrungHoc_2025_VN_COVID.docx",
     "pdf": "VN014_HoangTrungHoc_2025_VN_COVID.pdf",
-    "pdf_folder": "Viet-Nam",
-    "pdf_path": "02_Papers-goc/Viet-Nam/VN014_HoangTrungHoc_2025_VN_COVID.pdf"
+    "pdf_folder": "Viet-Nam"
   },
   "VN015": {
     "id": "VN015",
@@ -466,8 +423,7 @@
     "summary": "VN015_NgoAnhVinh_2024_LangSon_DTTS.docx",
     "translation": "VN015_NgoAnhVinh_2024_LangSon_DTTS.docx",
     "pdf": "VN015_NgoAnhVinh_2024_LangSon_DTTS.pdf",
-    "pdf_folder": "Viet-Nam",
-    "pdf_path": "02_Papers-goc/Viet-Nam/VN015_NgoAnhVinh_2024_LangSon_DTTS.pdf"
+    "pdf_folder": "Viet-Nam"
   },
   "VN016": {
     "id": "VN016",
@@ -475,8 +431,7 @@
     "summary": "VN016_BaoQuyen_2025_YHCD.docx",
     "translation": "VN016_BaoQuyen_2025_YHCD.docx",
     "pdf": "VN016_BaoQuyen_2025_YHCD.pdf",
-    "pdf_folder": "Viet-Nam",
-    "pdf_path": "02_Papers-goc/Viet-Nam/VN016_BaoQuyen_2025_YHCD.pdf"
+    "pdf_folder": "Viet-Nam"
   },
   "VN017": {
     "id": "VN017",
@@ -484,8 +439,7 @@
     "summary": "VN017_NguyenDanhLam_2022_YHVN.docx",
     "translation": "VN017_NguyenDanhLam_2022_YHVN.docx",
     "pdf": "VN017_NguyenDanhLam_2022_YHVN.pdf",
-    "pdf_folder": "Viet-Nam",
-    "pdf_path": "02_Papers-goc/Viet-Nam/VN017_NguyenDanhLam_2022_YHVN.pdf"
+    "pdf_folder": "Viet-Nam"
   },
   "VN018": {
     "id": "VN018",
@@ -493,8 +447,7 @@
     "summary": "VN018_AnGiang_2025_YHVN.docx",
     "translation": "VN018_AnGiang_2025_YHVN.docx",
     "pdf": "VN018_AnGiang_2025_YHVN.pdf",
-    "pdf_folder": "Viet-Nam",
-    "pdf_path": "02_Papers-goc/Viet-Nam/VN018_AnGiang_2025_YHVN.pdf"
+    "pdf_folder": "Viet-Nam"
   },
   "VN019": {
     "id": "VN019",
@@ -502,8 +455,7 @@
     "summary": "VN019_HoThiTrucQuynh_2025_Hue_TLH.docx",
     "translation": "VN019_HoThiTrucQuynh_2025_Hue_TLH.docx",
     "pdf": "VN019_HoThiTrucQuynh_2025_Hue_TLH.pdf",
-    "pdf_folder": "Viet-Nam",
-    "pdf_path": "02_Papers-goc/Viet-Nam/VN019_HoThiTrucQuynh_2025_Hue_TLH.pdf"
+    "pdf_folder": "Viet-Nam"
   },
   "VN020": {
     "id": "VN020",
@@ -511,8 +463,7 @@
     "summary": "VN020_TranHoVinhLoc_2024_TPHCM_DASS-Y.docx",
     "translation": "VN020_TranHoVinhLoc_2024_TPHCM_DASS-Y.docx",
     "pdf": "VN020_TranHoVinhLoc_2024_TPHCM_DASS-Y.pdf",
-    "pdf_folder": "Viet-Nam",
-    "pdf_path": "02_Papers-goc/Viet-Nam/VN020_TranHoVinhLoc_2024_TPHCM_DASS-Y.pdf"
+    "pdf_folder": "Viet-Nam"
   },
   "VN021": {
     "id": "VN021",
@@ -520,8 +471,7 @@
     "summary": "VN021_TranThaoVi_2024_JRuralMed_Hue.docx",
     "translation": "VN021_TranThaoVi_2024_JRuralMed_Hue.docx",
     "pdf": "VN021_TranThaoVi_2024_JRuralMed_Hue.pdf",
-    "pdf_folder": "Viet-Nam",
-    "pdf_path": "02_Papers-goc/Viet-Nam/VN021_TranThaoVi_2024_JRuralMed_Hue.pdf"
+    "pdf_folder": "Viet-Nam"
   },
   "VN022": {
     "id": "VN022",
@@ -529,8 +479,7 @@
     "summary": "VN022_UNICEF_VN_2022_SchoolFactors.docx",
     "translation": "VN022_UNICEF_VN_2022_SchoolFactors.docx",
     "pdf": "VN022_UNICEF_VN_2022_SchoolFactors.pdf",
-    "pdf_folder": "Viet-Nam",
-    "pdf_path": "02_Papers-goc/Viet-Nam/VN022_UNICEF_VN_2022_SchoolFactors.pdf"
+    "pdf_folder": "Viet-Nam"
   },
   "VN023": {
     "id": "VN023",
@@ -538,8 +487,7 @@
     "summary": "VN023_NguyenLX_VN_COVID_Medicine_2023.docx",
     "translation": "VN023_NguyenLX_VN_COVID_Medicine_2023.docx",
     "pdf": "VN023_NguyenLX_VN_COVID_Medicine_2023.pdf",
-    "pdf_folder": "Viet-Nam",
-    "pdf_path": "02_Papers-goc/Viet-Nam/VN023_NguyenLX_VN_COVID_Medicine_2023.pdf"
+    "pdf_folder": "Viet-Nam"
   },
   "VN024": {
     "id": "VN024",
@@ -547,8 +495,7 @@
     "summary": "VN024_NguyenThanhTruyen_VinhLong_YHVN_2024.docx",
     "translation": "VN024_NguyenThanhTruyen_VinhLong_YHVN_2024.docx",
     "pdf": "VN024_NguyenThanhTruyen_VinhLong_YHVN_2024.pdf",
-    "pdf_folder": "Viet-Nam",
-    "pdf_path": "02_Papers-goc/Viet-Nam/VN024_NguyenThanhTruyen_VinhLong_YHVN_2024.pdf"
+    "pdf_folder": "Viet-Nam"
   },
   "VN025": {
     "id": "VN025",
@@ -556,8 +503,7 @@
     "summary": "VN025_PhamThiNgoc_HaiPhong_VinhBao_2024.docx",
     "translation": "VN025_PhamThiNgoc_HaiPhong_VinhBao_2024.docx",
     "pdf": "VN025_PhamThiNgoc_HaiPhong_VinhBao_2024.pdf",
-    "pdf_folder": "Viet-Nam",
-    "pdf_path": "02_Papers-goc/Viet-Nam/VN025_PhamThiNgoc_HaiPhong_VinhBao_2024.pdf"
+    "pdf_folder": "Viet-Nam"
   },
   "VN026": {
     "id": "VN026",
@@ -565,8 +511,7 @@
     "summary": "VN026_TranDucSi_LongAn_PNT_2025.docx",
     "translation": "VN026_TranDucSi_LongAn_PNT_2025.docx",
     "pdf": "VN026_TranDucSi_LongAn_PNT_2025.pdf",
-    "pdf_folder": "Viet-Nam",
-    "pdf_path": "02_Papers-goc/Viet-Nam/VN026_TranDucSi_LongAn_PNT_2025.pdf"
+    "pdf_folder": "Viet-Nam"
   },
   "VN027": {
     "id": "VN027",
@@ -574,8 +519,7 @@
     "summary": "VN027_Dinh_SchoolFactors_VN_2021.docx",
     "translation": "VN027_Dinh_SchoolFactors_VN_2021.docx",
     "pdf": "VN027_Dinh_SchoolFactors_VN_2021.pdf",
-    "pdf_folder": "Viet-Nam",
-    "pdf_path": "02_Papers-goc/Viet-Nam/VN027_Dinh_SchoolFactors_VN_2021.pdf"
+    "pdf_folder": "Viet-Nam"
   },
   "VN028": {
     "id": "VN028",
@@ -583,8 +527,7 @@
     "summary": "VN028_DaoThiNgoan_TCNCYH_SVY4_HMU_2025.docx",
     "translation": "VN028_DaoThiNgoan_TCNCYH_SVY4_HMU_2025.docx",
     "pdf": "VN028_DaoThiNgoan_TCNCYH_SVY4_HMU_2025.pdf",
-    "pdf_folder": "Viet-Nam",
-    "pdf_path": "02_Papers-goc/Viet-Nam/VN028_DaoThiNgoan_TCNCYH_SVY4_HMU_2025.pdf"
+    "pdf_folder": "Viet-Nam"
   },
   "VN029": {
     "id": "VN029",
@@ -592,8 +535,7 @@
     "summary": "VN029_Duong_SocPsychiatry_2631HS_TPHCM_2025.docx",
     "translation": "VN029_Duong_SocPsychiatry_2631HS_TPHCM_2025.docx",
     "pdf": "VN029_Duong_SocPsychiatry_2631HS_TPHCM_2025.pdf",
-    "pdf_folder": "Viet-Nam",
-    "pdf_path": "02_Papers-goc/Viet-Nam/VN029_Duong_SocPsychiatry_2631HS_TPHCM_2025.pdf"
+    "pdf_folder": "Viet-Nam"
   },
   "VN030": {
     "id": "VN030",
@@ -609,8 +551,7 @@
     "summary": "VN004_NguyenThiVan_2020_STAI_TPHCM.docx",
     "translation": null,
     "pdf": "VN004_NguyenThiVan_2020_STAI_TPHCM.pdf",
-    "pdf_folder": "Viet-Nam",
-    "pdf_path": "02_Papers-goc/Viet-Nam/VN004_NguyenThiVan_2020_STAI_TPHCM.pdf"
+    "pdf_folder": "Viet-Nam"
   },
   "VN005": {
     "id": "VN005",
@@ -618,8 +559,7 @@
     "summary": "VN005_TranNguyenNgoc_2018_LuanAn_ThuGian_GAD.docx",
     "translation": null,
     "pdf": "VN005_TranNguyenNgoc_2018_LuanAn_ThuGian_GAD.pdf",
-    "pdf_folder": "Viet-Nam",
-    "pdf_path": "02_Papers-goc/Viet-Nam/VN005_TranNguyenNgoc_2018_LuanAn_ThuGian_GAD.pdf"
+    "pdf_folder": "Viet-Nam"
   },
   "VN006": {
     "id": "VN006",
@@ -627,8 +567,7 @@
     "summary": "VN006_TranThiMyLuong_2020_DASS42_THPTChuyen.docx",
     "translation": null,
     "pdf": "VN006_TranThiMyLuong_2020_DASS42_THPTChuyen.pdf",
-    "pdf_folder": "Viet-Nam",
-    "pdf_path": "02_Papers-goc/Viet-Nam/VN006_TranThiMyLuong_2020_DASS42_THPTChuyen.pdf"
+    "pdf_folder": "Viet-Nam"
   },
   "QT018": {
     "id": "QT018",
@@ -636,8 +575,7 @@
     "summary": "QT018_Salari_SAD_Prevalence_Global_SR_MA_2024.docx",
     "translation": null,
     "pdf": "QT018_Salari_SAD_Prevalence_Global_SR_MA_2024.pdf",
-    "pdf_folder": "The-gioi_Khac",
-    "pdf_path": "02_Papers-goc/The-gioi_Khac/QT018_Salari_SAD_Prevalence_Global_SR_MA_2024.pdf"
+    "pdf_folder": "The-gioi_Khac"
   },
   "QT019": {
     "id": "QT019",
@@ -645,8 +583,7 @@
     "summary": "QT019_Shibuya_SchoolMH_Literacy_3Asian_2025.docx",
     "translation": null,
     "pdf": "QT019_Shibuya_SchoolMH_Literacy_3Asian_2025.pdf",
-    "pdf_folder": "The-gioi_Khac",
-    "pdf_path": "02_Papers-goc/The-gioi_Khac/QT019_Shibuya_SchoolMH_Literacy_3Asian_2025.pdf"
+    "pdf_folder": "The-gioi_Khac"
   },
   "QT020": {
     "id": "QT020",
@@ -654,8 +591,7 @@
     "summary": "QT020_Liu_CBT_Delivery_GAD_NMA_2025.docx",
     "translation": null,
     "pdf": "QT020_Liu_CBT_Delivery_GAD_NMA_2025.pdf",
-    "pdf_folder": "The-gioi_Khac",
-    "pdf_path": "02_Papers-goc/The-gioi_Khac/QT020_Liu_CBT_Delivery_GAD_NMA_2025.pdf"
+    "pdf_folder": "The-gioi_Khac"
   },
   "QT052": {
     "id": "QT052",
@@ -664,8 +600,7 @@
     "translation": null,
     "pdf": "QT052_Mindfulness_NatureMH_IPD_MA_2023.pdf",
     "pdf_folder": "The-gioi_Au-My-Uc",
-    "scope": "bonus_out_of_scope",
-    "pdf_path": "02_Papers-goc/The-gioi_Au-My-Uc/QT052_Mindfulness_NatureMH_IPD_MA_2023.pdf"
+    "scope": "bonus_out_of_scope"
   },
   "QT053": {
     "id": "QT053",
@@ -674,8 +609,7 @@
     "translation": null,
     "pdf": "QT053_Pharmacotherapy_Anxiety_Review_Frontiers_2020.pdf",
     "pdf_folder": "The-gioi_Au-My-Uc",
-    "scope": "bonus_out_of_scope",
-    "pdf_path": "02_Papers-goc/The-gioi_Au-My-Uc/QT053_Pharmacotherapy_Anxiety_Review_Frontiers_2020.pdf"
+    "scope": "bonus_out_of_scope"
   },
   "QT054": {
     "id": "QT054",
@@ -684,8 +618,7 @@
     "translation": null,
     "pdf": "QT054_ChronicStress_Neuroinflammation_FrontPsych_2023.pdf",
     "pdf_folder": "The-gioi_Au-My-Uc",
-    "scope": "bonus_out_of_scope",
-    "pdf_path": "02_Papers-goc/The-gioi_Au-My-Uc/QT054_ChronicStress_Neuroinflammation_FrontPsych_2023.pdf"
+    "scope": "bonus_out_of_scope"
   },
   "QT055": {
     "id": "QT055",
@@ -694,8 +627,7 @@
     "translation": null,
     "pdf": "QT055_Parade_Epigenetics_Maltreatment_TranslPsych_2021.pdf",
     "pdf_folder": "The-gioi_Au-My-Uc",
-    "scope": "bonus_out_of_scope",
-    "pdf_path": "02_Papers-goc/The-gioi_Au-My-Uc/QT055_Parade_Epigenetics_Maltreatment_TranslPsych_2021.pdf"
+    "scope": "bonus_out_of_scope"
   },
   "QT056": {
     "id": "QT056",
@@ -704,8 +636,7 @@
     "translation": null,
     "pdf": "QT056_Jiang_Microbiota_GutBrain_Anxiety_FrontNeuro_2024.pdf",
     "pdf_folder": "The-gioi_Khac",
-    "scope": "bonus_out_of_scope",
-    "pdf_path": "02_Papers-goc/The-gioi_Khac/QT056_Jiang_Microbiota_GutBrain_Anxiety_FrontNeuro_2024.pdf"
+    "scope": "bonus_out_of_scope"
   },
   "QT057": {
     "id": "QT057",
@@ -714,8 +645,7 @@
     "translation": null,
     "pdf": "QT057_NeuralCircuits_Mechanisms_Anxiety_FrontNeuralCirc_2025.pdf",
     "pdf_folder": "The-gioi_Khac",
-    "scope": "bonus_out_of_scope",
-    "pdf_path": "02_Papers-goc/The-gioi_Khac/QT057_NeuralCircuits_Mechanisms_Anxiety_FrontNeuralCirc_2025.pdf"
+    "scope": "bonus_out_of_scope"
   },
   "QT058": {
     "id": "QT058",
@@ -724,8 +654,7 @@
     "translation": null,
     "pdf": "QT058_Guo_Neuroinflammation_Neuromodulation_TranslPsych_2022.pdf",
     "pdf_folder": "The-gioi_Khac",
-    "scope": "bonus_out_of_scope",
-    "pdf_path": "02_Papers-goc/The-gioi_Khac/QT058_Guo_Neuroinflammation_Neuromodulation_TranslPsych_2022.pdf"
+    "scope": "bonus_out_of_scope"
   },
   "VN007": {
     "id": "VN007",
@@ -761,8 +690,7 @@
     "doi": "10.3389/fpsyt.2024.1489427",
     "source_url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2024.1489427/full",
     "cao_date": "2026-04-24",
-    "scope": "main",
-    "pdf_path": "02_Papers-goc/The-gioi_Au-My-Uc/QT060_Bie_GlobalAnxiety_GBD_10-24y_1990_2021_FrontPsych_2024.pdf"
+    "scope": "main"
   },
   "QT061": {
     "id": "QT061",
@@ -773,8 +701,7 @@
     "pdf_folder": "The-gioi_Au-My-Uc",
     "doi": "10.1017/S1754470X24000345",
     "scope": "main",
-    "cao_date": "2026-04-24",
-    "pdf_path": "02_Papers-goc/The-gioi_Au-My-Uc/QT061_LiSH_ClearlyMe_CoDesign_CambridgeCBT_2024.pdf"
+    "cao_date": "2026-04-24"
   },
   "QT062": {
     "id": "QT062",
@@ -785,8 +712,7 @@
     "pdf_folder": "The-gioi_Au-My-Uc",
     "doi": "10.2196/55603",
     "scope": "main",
-    "cao_date": "2026-04-24",
-    "pdf_path": "02_Papers-goc/The-gioi_Au-My-Uc/QT062_Samele_ClearFear_App_JMIRFormative_2025.pdf"
+    "cao_date": "2026-04-24"
   },
   "QT063": {
     "id": "QT063",
@@ -797,8 +723,7 @@
     "pdf_folder": "The-gioi_Khac",
     "doi": "10.1371/journal.pmed.1004510",
     "scope": "main",
-    "cao_date": "2026-04-24",
-    "pdf_path": "02_Papers-goc/The-gioi_Khac/QT063_ChenSJ_AppCBTI_DepressionPrev_PLOSMed_2025.pdf"
+    "cao_date": "2026-04-24"
   },
   "QT064": {
     "id": "QT064",
@@ -812,8 +737,7 @@
     "open_access_pdf_url": "https://discovery.ucl.ac.uk/id/eprint/10179741/",
     "cao_date": "2026-04-29",
     "scope": "main",
-    "method": "scoping_review_qualitative",
-    "pdf_path": "02_Papers-goc/The-gioi_Au-My-Uc/QT064_Stephens_Photovoice_ScopingReview_IntlJAdolYouth_2023.pdf"
+    "method": "scoping_review_qualitative"
   },
   "QT065": {
     "id": "QT065",
@@ -829,8 +753,7 @@
     "cao_date": "2026-04-29",
     "scope": "main",
     "method": "RCT cluster school-level",
-    "has_pdf": true,
-    "pdf_path": "02_Papers-goc/The-gioi_Au-My-Uc/QT065_Bradshaw_Lochman_EACP_RCT_JSchPsy_2025.pdf"
+    "has_pdf": true
   },
   "QT066": {
     "id": "QT066",
@@ -846,8 +769,7 @@
     "cao_date": "2026-04-29",
     "scope": "main",
     "method": "Scoping review",
-    "has_pdf": true,
-    "pdf_path": "02_Papers-goc/The-gioi_Au-My-Uc/QT066_Murphy_PeerSupport_ScopingReview_JCommPsych_2024.pdf"
+    "has_pdf": true
   },
   "QT067": {
     "id": "QT067",
@@ -863,8 +785,7 @@
     "cao_date": "2026-05-01",
     "scope": "main",
     "method": "Narrative review",
-    "has_pdf": true,
-    "pdf_path": "02_Papers-goc/The-gioi_Au-My-Uc/QT067_Pascoe_AcademicStress_IJAY_2020.pdf"
+    "has_pdf": true
   },
   "QT068": {
     "descriptor": "Urao_2018_JapanCBT_Journey_BMC",
@@ -890,15 +811,13 @@
     "descriptor": "Lee_2025_CyberbullyingMeta_TVA",
     "summary": "QT072_Lee_2025_CyberbullyingMeta_TVA.docx",
     "pdf": "QT072_Lee_2025_CyberbullyingMeta_TVA.pdf",
-    "pdf_folder": "02_Papers-goc",
-    "pdf_path": "02_Papers-goc/QT072_Lee_2025_CyberbullyingMeta_TVA.pdf"
+    "pdf_folder": "02_Papers-goc"
   },
   "QT073": {
     "descriptor": "He_2025_PowerUpCBTD_China_JAD",
     "summary": "QT073_He_2025_PowerUpCBTD_China_JAD.docx",
     "pdf": "QT073_He_2025_PowerUpCBTD_China_JAD.pdf",
-    "pdf_folder": "02_Papers-goc",
-    "pdf_path": "02_Papers-goc/QT073_He_2025_PowerUpCBTD_China_JAD.pdf"
+    "pdf_folder": "02_Papers-goc"
   },
   "QT074": {
     "id": "QT074",
@@ -1352,8 +1271,7 @@
     "country": "Vietnam",
     "sample": "Hoc sinh THPT - khao sat thuc trang",
     "topic": "Roi loan lo au o hoc sinh Trung hoc pho thong",
-    "source": "PHASE2_categorize_chua_phan_loai_07062026",
-    "pdf_path": "02_Papers-goc/Viet-Nam/VN031_TranThiMyLuong_2020_THPT_LoAu.pdf"
+    "source": "PHASE2_categorize_chua_phan_loai_07062026"
   },
   "VN002b": {
     "id": "VN002b",
@@ -1384,8 +1302,7 @@
     "sample": "5996 adolescents (10-17y) - national survey",
     "topic": "V-NAMHS Main Findings Report (51-page short report variant of VN002)",
     "source": "PHASE2_categorize_chua_phan_loai_07062026",
-    "note": "Variant of VN002 - verify if duplicate content before keeping",
-    "pdf_path": "02_Papers-goc/Viet-Nam/VN002b_VNAMHS_2022_Main_Findings.pdf"
+    "note": "Variant of VN002 - verify if duplicate content before keeping"
   },
   "QT083": {
     "id": "QT083",
@@ -1411,8 +1328,7 @@
     "sample": "111 European Australian + 111 Chinese Australian trauma survivors",
     "topic": "Cultural moderators of rumination-PTSD link",
     "source": "PHASE2_categorize_chua_phan_loai_07062026",
-    "note": "Originally planned as QT079 but that ID already assigned to Kieling 2024; reassigned to QT083 on 07/06/2026",
-    "pdf_path": "02_Papers-goc/The-gioi_Au-My-Uc/QT083_Li_2025_Australia_Rumination_PTSD_Chinese_EuroAus.pdf"
+    "note": "Originally planned as QT079 but that ID already assigned to Kieling 2024; reassigned to QT083 on 07/06/2026"
   },
   "QT084": {
     "id": "QT084",

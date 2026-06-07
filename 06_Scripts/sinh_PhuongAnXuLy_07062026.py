@@ -231,7 +231,7 @@ add_heading("2.2. Bảng so sánh ba tạp chí Q2 ứng viên", level=2)
 add_table(
     ["Tiêu chí", "Frontiers in Psychiatry", "BMC Public Health", "Frontiers in Public Health"],
     [
-        ["IF JCR 2024", "≈ 4,2", "≈ 4,5", "≈ 3,0"],
+        ["IF JCR 2024", "≈ 4,2", "≈ 3,8", "≈ 3,0"],
         ["Phân hạng JCR", "Q2 Psychiatry", "Q2 Public Health", "Q2 Public Health"],
         ["Decision time", "2–3 tháng", "3–4 tháng", "≈ 3 tháng"],
         ["Acceptance rate", "≈ 30–35%", "≈ 35–40%", "≈ 30%"],
@@ -286,11 +286,25 @@ add_para(
 )
 
 add_para(
-    "BMC Public Health — IF cao nhất trong ba ứng viên (≈ 4,5). Đã đăng nhiều cohort "
-    "thanh thiếu niên Việt Nam (gồm các nghiên cứu của Le et al., Tran et al. giai đoạn "
-    "2020–2024). Decision time hơi dài hơn (3–4 tháng) do quy trình double-blind review. "
-    "Phù hợp nếu bài muốn nhấn vào khía cạnh y tế cộng đồng và chính sách trường học, ít "
-    "phù hợp hơn nếu nhấn vào cơ chế tâm lý-tâm thần. APC ~2500 GBP. [5]"
+    "BMC Public Health — IF ≈ 3,6–3,8 theo JCR 2024 (Q1 Public, Environmental and "
+    "Occupational Health, ranking 74/408). Đã đăng nhiều cohort thanh thiếu niên châu Á "
+    "và Đông Nam Á. Decision time hơi dài hơn (3–4 tháng) do quy trình double-blind "
+    "review. Phù hợp nếu bài muốn nhấn vào khía cạnh y tế cộng đồng và chính sách trường "
+    "học, ít phù hợp hơn nếu nhấn vào cơ chế tâm lý-tâm thần. APC ~2500 GBP. KHÔNG có "
+    "vấn đề reputational gần đây — được công nhận rộng rãi là tạp chí Q1 legitimate. [5]"
+)
+
+add_para(
+    "CẢNH BÁO RIÊNG VỀ FRONTIERS IN PSYCHIATRY (cập nhật 08/06/2026): Em đã rà soát các "
+    "phát hiện gần đây từ Retraction Watch và Nature về dòng tạp chí Frontiers. (1) Tháng "
+    "12/2024, Finland Publication Forum (JUFO) hạ 271 tạp chí thuộc MDPI và Frontiers "
+    "xuống Level 0 từ 01/2025; chỉ 22 tạp chí Frontiers giữ Level 1 (em chưa xác định "
+    "được Frontiers in Psychiatry có thuộc 22 tạp chí giữ Level 1 hay không — danh sách "
+    "specific đã được gỡ khỏi thông cáo công khai). (2) Tháng 7/2025, Frontiers retract "
+    "122 bài viết trên 5 tạp chí do peer review manipulation và citation fraud. (3) Một "
+    "số bộ môn tâm lý/tâm thần tại Anh-Mỹ-Úc khuyến nghị tránh nộp Frontiers. Khuyến "
+    "nghị: nhóm cân nhắc rủi ro reputational trước khi chọn primary target. Nếu nhóm "
+    "muốn an toàn về reputational, BMC Public Health là phương án primary an toàn hơn."
 )
 
 add_para(
@@ -544,7 +558,7 @@ add_para(
 )
 
 add_bullet(
-    "Cấp 1 — BMC Public Health (IF ≈ 4,5, Q2 Public Health) [5]: Chuyển trong 7 ngày sau "
+    "Cấp 1 — BMC Public Health (IF ≈ 3,8, Q2 Public Health) [5]: Chuyển trong 7 ngày sau "
     "desk-reject. Viết lại Title + Abstract nhấn y tế công cộng và chính sách trường học. "
     "Decision time 3–4 tháng. Đã đăng cohort thanh thiếu niên Việt Nam. APC ~2500 GBP."
 )

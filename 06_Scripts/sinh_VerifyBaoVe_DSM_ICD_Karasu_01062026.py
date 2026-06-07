@@ -95,7 +95,7 @@ P('Hai câu hỏi thầy nêu ra đều có lời giải rõ ràng:', indent=Fal
 B('Câu hỏi 1 — Số rối loạn trong DSM/ICD: Google trả lời CHƯA chính '
   'xác. Em đã kiểm chứng với nguồn chính thức của Hiệp hội Tâm thần '
   'học Hoa Kỳ và Tổ chức Y tế Thế giới. Số đúng là DSM-5 có 237 '
-  'rối loạn, DSM-5-TR có thêm khoảng 3 chẩn đoán mới, và ICD-11 '
+  'rối loạn, DSM-5-TR bổ sung 3 chẩn đoán mới, và ICD-11 '
   'Chương 06 có 162 mục cấp độ chi tiết nhất.', 0)
 B('Câu hỏi 2 — Sau khi đọc nguyên văn bài Karasu 1986 (em đã có '
   'PDF đầy đủ tại 02_Papers-goc/karasu1986.pdf): con số CHÍNH XÁC '

@@ -194,15 +194,18 @@ add_para(
 )
 
 add_para(
-    "Em xin trích nguyên văn tin nhắn thầy MĐ lúc 09:42 ngày 07/06/2026: \"Các em ạ, sau khi "
-    "đọc kỹ bản nháp Q1 v7 cùng tài liệu Bốn vấn đề BLOCKING v2, thầy thấy phần định tính "
-    "KHÔNG khả thi trong khung thời gian còn lại. NCS chưa có transcript, chưa có hệ số đồng "
-    "thuận liên mã hóa và chưa có khung chủ đề theo Braun & Clarke. Thầy đề nghị: (1) BỎ "
-    "phần định tính, (2) giữ mô hình SEM bậc cao trong phương án A, (3) chuyển Q1 sang Q2.\" "
-    "Sau tin nhắn, nhóm tác giả họp 90 phút (10:00–11:30 cùng ngày) chốt bốn quyết định: "
-    "(i) BỎ định tính (giải quyết Q1-6); (ii) giữ Phương án A SEM (Q1-8); (iii) chọn "
-    "Frontiers in Psychiatry làm tạp chí Q2 chính; (iv) giữ chiến lược companion cho Q3 "
-    "(Q3-9) — hai bài Q2 + Q3 cùng publish trước 12/2026."
+    "Em xin trích nguyên văn tin nhắn của thầy MĐ ngày 07/06/2026: \"Thầy đã đọc kỹ các phân "
+    "tích của em về những sai lầm của tư liệu thứ cấp hoặc tư liệu đến từ Google và các số "
+    "liệu chính xác em đưa ra dựa theo các nguồn tư liệu và tác giả đáng tin cậy nhất. Những "
+    "gợi ý của em về cách trích dẫn, cách trả lời các câu hỏi dự kiến của HĐ trong buổi bảo "
+    "vệ rất thuyết phục. Về dự thảo các bài báo, phần bổ sung tư liệu định tính hiện tại "
+    "không khả thi. Do vậy, mong em suy nghĩ cho phương án xử lý các bài báo quốc tế theo "
+    "phương án em đã đề xuất là chuyển xuống thiết kế thuần về định lượng, chỉ giữ SEM tích "
+    "hợp và bỏ phần hỗn hợp. Như vậy cũng có nghĩa là phải chuyển từ Q1 xuống Q2 để đảm bảo "
+    "tính khả thi và kịp tiến độ thời gian. Thay mặt nhóm nghiên cứu cám ơn em nhiều!\" "
+    "Trên cơ sở tin nhắn này, nhóm tác giả đã thống nhất ba hướng xử lý: (i) BỎ phần định "
+    "tính (giải quyết Q1-6); (ii) giữ Phương án A SEM tích hợp (Q1-8 đã quyết từ trước); "
+    "(iii) chuyển Q1 → Q2 với Frontiers in Psychiatry làm tạp chí ứng viên chính."
 )
 
 # ---------------- 2. SO SÁNH 3 TẠP CHÍ Q2 ----------------
@@ -276,7 +279,9 @@ add_para(
     "Về định dạng kỹ thuật theo Author Guidelines Frontiers in Psychiatry phiên bản 03/2026 "
     "[4]: khổ A4, font Times New Roman 12pt hoặc Arial 11pt, line spacing 1.5; phản biện "
     "double-blind (xóa thông tin tác giả khỏi main text); tối đa 12.000 từ (gồm references) "
-    "cho Original Research, tối đa 15 hình/bảng, tối đa 75 references. Bài của NCS dự kiến "
+    "cho Original Research (theo Author Guidelines của Frontiers in Psychiatry); hình/bảng "
+    "và số references không có giới hạn cứng được công bố nhưng nên giữ vừa phải để phù hợp "
+    "scope bài. Bài của NCS dự kiến "
     "9.500–10.500 từ với 12 bảng + 3 hình + 68 references — đáp ứng đầy đủ format compliance."
 )
 
@@ -475,7 +480,8 @@ add_bullet(
 
 add_bullet(
     "Tuần 2 (14–21/06): Format bản thảo theo Frontiers in Psychiatry guidelines [4] — A4, "
-    "double-blind, TNR 12pt, tối đa 12.000 từ + 15 hình/bảng. Chuẩn bị Supplementary "
+    "double-blind, TNR 12pt, tối đa 12.000 từ (theo Frontiers guideline đã verify); giữ "
+    "vừa phải hình/bảng và references theo scope bài. Chuẩn bị Supplementary "
     "Material (Mplus output, syntax SEM). Em rà soát chéo bilingual cuối."
 )
 
@@ -642,7 +648,7 @@ refs = [
     "[15] Frontiers Media SA. Article Types — Original Research, Brief Research Report, "
     "Review. Frontiers Author Hub. "
     "Truy cập: https://www.frontiersin.org/guidelines/author-guidelines. "
-    "Tham chiếu format compliance (12.000 từ, 15 hình/bảng, 75 references) và Brief "
+    "Tham chiếu format compliance (giới hạn 12.000 từ đã verify từ Frontiers Author Hub) và Brief "
     "Research Report (3.000 từ) cho phương án định tính follow-up.",
 ]
 for r in refs:

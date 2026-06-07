@@ -1,0 +1,7811 @@
+{
+  "meta": {
+    "created": "2026-04-15",
+    "last_updated": "2026-06-07",
+    "n_nodes": 260,
+    "n_edges": 824,
+    "node_types": {
+      "Author": 152,
+      "Paper": 75,
+      "Country": 13,
+      "Topic": 20
+    },
+    "v2_changelog": [
+      "2026-06-07: Added 7 new Authors (Karasu, Rose, Stankov, Small, Blanc, First, Pezzella)",
+      "2026-06-07: Added 7 new Papers (Karasu 1986 AJPsy + AJP, Rose 2002, Stankov 2010, Small & Blanc 2021, First 2022, Pezzella 2022)",
+      "2026-06-07: Added 5 new Topics (Psychotherapy schools, Confucian culture, Co-rumination, Tam Giao, DSM/ICD)",
+      "2026-06-07: Karasu 1986 number CORRECTED to 450+ (not 400+) — verified directly from PDF page 325"
+    ]
+  },
+  "nodes": [
+    {
+      "id": "AU_JENKINS_JH",
+      "type": "Author",
+      "label": "Janis H. Jenkins",
+      "surname": "Jenkins",
+      "given": "Janis H.",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "USA"
+    },
+    {
+      "id": "AU_SANCHEZ_G",
+      "type": "Author",
+      "label": "Giselle Sanchez",
+      "surname": "Sanchez",
+      "given": "Giselle",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "USA"
+    },
+    {
+      "id": "AU_MILLER_EA",
+      "type": "Author",
+      "label": "Eric A. Miller",
+      "surname": "Miller",
+      "given": "Eric A.",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "USA"
+    },
+    {
+      "id": "AU_ALLANDE_NIS",
+      "type": "Author",
+      "label": "Nadia Irina Santillanes Allande",
+      "surname": "Allande",
+      "given": "Nadia Irina Santillanes",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "USA"
+    },
+    {
+      "id": "AU_URANO_G",
+      "type": "Author",
+      "label": "Grace Urano",
+      "surname": "Urano",
+      "given": "Grace",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "USA"
+    },
+    {
+      "id": "AU_PR_AJ",
+      "type": "Author",
+      "label": "Alexandra J. Pr",
+      "surname": "Pr",
+      "given": "Alexandra J.",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "USA"
+    },
+    {
+      "id": "AU_MANDAKNALLI_R",
+      "type": "Author",
+      "label": "Rahul Mandaknalli",
+      "surname": "Mandaknalli",
+      "given": "Rahul",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": ""
+    },
+    {
+      "id": "AU_MALUSARE_R",
+      "type": "Author",
+      "label": "Ragini Malusare",
+      "surname": "Malusare",
+      "given": "Ragini",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": ""
+    },
+    {
+      "id": "AU_JENKINS_X",
+      "type": "Author",
+      "label": "Jenkins",
+      "surname": "Jenkins",
+      "given": "",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "USA"
+    },
+    {
+      "id": "AU_ALHARBI_R",
+      "type": "Author",
+      "label": "Reem Alharbi",
+      "surname": "Alharbi",
+      "given": "Reem",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "Saudi Arabia"
+    },
+    {
+      "id": "AU_ALSUHAIBANI_K",
+      "type": "Author",
+      "label": "Khalid Alsuhaibani",
+      "surname": "Alsuhaibani",
+      "given": "Khalid",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "Saudi Arabia"
+    },
+    {
+      "id": "AU_ALMARSHAD_A",
+      "type": "Author",
+      "label": "Abdullah Almarshad",
+      "surname": "Almarshad",
+      "given": "Abdullah",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "Saudi Arabia"
+    },
+    {
+      "id": "AU_ALYAHYA_A",
+      "type": "Author",
+      "label": "Abdulhameed Alyahya",
+      "surname": "Alyahya",
+      "given": "Abdulhameed",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "Saudi Arabia"
+    },
+    {
+      "id": "AU_NAKIE_G",
+      "type": "Author",
+      "label": "Girum Nakie",
+      "surname": "Nakie",
+      "given": "Girum",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "Ethiopia"
+    },
+    {
+      "id": "AU_SEGON_T",
+      "type": "Author",
+      "label": "Tesfaye Segon",
+      "surname": "Segon",
+      "given": "Tesfaye",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "Ethiopia"
+    },
+    {
+      "id": "AU_MELKAM_M",
+      "type": "Author",
+      "label": "Mamaru Melkam",
+      "surname": "Melkam",
+      "given": "Mamaru",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "Ethiopia"
+    },
+    {
+      "id": "AU_DESALEGN_GT",
+      "type": "Author",
+      "label": "Getachew Tesfaw Desalegn",
+      "surname": "Desalegn",
+      "given": "Getachew Tesfaw",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "Ethiopia"
+    },
+    {
+      "id": "AU_ZELEKE_TA",
+      "type": "Author",
+      "label": "Tadele Amare Zeleke",
+      "surname": "Zeleke",
+      "given": "Tadele Amare",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "Ethiopia"
+    },
+    {
+      "id": "AU_CHEN_Z",
+      "type": "Author",
+      "label": "Zhangming Chen",
+      "surname": "Chen",
+      "given": "Zhangming",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "China"
+    },
+    {
+      "id": "AU_REN_S",
+      "type": "Author",
+      "label": "Silan Ren",
+      "surname": "Ren",
+      "given": "Silan",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "China"
+    },
+    {
+      "id": "AU_HE_R",
+      "type": "Author",
+      "label": "Ruini He",
+      "surname": "He",
+      "given": "Ruini",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "China"
+    },
+    {
+      "id": "AU_WEN_X",
+      "type": "Author",
+      "label": "Xiaotong Wen",
+      "surname": "Wen",
+      "given": "Xiaotong",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "China"
+    },
+    {
+      "id": "AU_QIU_Z",
+      "type": "Author",
+      "label": "Zhihai Qiu",
+      "surname": "Qiu",
+      "given": "Zhihai",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "China"
+    },
+    {
+      "id": "AU_GUO_Y",
+      "type": "Author",
+      "label": "Ying Guo",
+      "surname": "Guo",
+      "given": "Ying",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "China"
+    },
+    {
+      "id": "AU_WANG_J",
+      "type": "Author",
+      "label": "Jun Wang",
+      "surname": "Wang",
+      "given": "Jun",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "China"
+    },
+    {
+      "id": "AU_ZHANG_H",
+      "type": "Author",
+      "label": "Hongbo Zhang",
+      "surname": "Zhang",
+      "given": "Hongbo",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "China"
+    },
+    {
+      "id": "AU_XU_Q",
+      "type": "Author",
+      "label": "Qingqing Xu",
+      "surname": "Xu",
+      "given": "Qingqing",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "China"
+    },
+    {
+      "id": "AU_BHARDWAJ_R",
+      "type": "Author",
+      "label": "Ridhul Bhardwaj",
+      "surname": "Bhardwaj",
+      "given": "Ridhul",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "India"
+    },
+    {
+      "id": "AU__GAC",
+      "type": "Author",
+      "label": "GBD  ASEAN Collaborators ()",
+      "surname": "()",
+      "given": "GBD ASEAN Collaborators",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": ""
+    },
+    {
+      "id": "AU_DANG_TTLPHV",
+      "type": "Author",
+      "label": "đăng trên The Lancet Public Health vol",
+      "surname": "đăng",
+      "given": "trên The Lancet Public Health vol",
+      "is_vietnamese": "True",
+      "n_papers": 1,
+      "country_hint": ""
+    },
+    {
+      "id": "AU_SZD_Y",
+      "type": "Author",
+      "label": "Yin SZD",
+      "surname": "SZD",
+      "given": "Yin",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": ""
+    },
+    {
+      "id": "AU_MK_L",
+      "type": "Author",
+      "label": "Low MK",
+      "surname": "MK",
+      "given": "Low",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": ""
+    },
+    {
+      "id": "AU_MP_M",
+      "type": "Author",
+      "label": "Mishu MP",
+      "surname": "MP",
+      "given": "Mishu",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": ""
+    },
+    {
+      "id": "AU_NURSING_AP",
+      "type": "Author",
+      "label": "Adolescent Psychiatric Nursing",
+      "surname": "Nursing",
+      "given": "Adolescent Psychiatric",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": ""
+    },
+    {
+      "id": "AU_ZHU_X",
+      "type": "Author",
+      "label": "Zhu",
+      "surname": "Zhu",
+      "given": "",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "China"
+    },
+    {
+      "id": "AU_MUDUNNA_X",
+      "type": "Author",
+      "label": "Mudunna",
+      "surname": "Mudunna",
+      "given": "",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": ""
+    },
+    {
+      "id": "AU_PUYAT_X",
+      "type": "Author",
+      "label": "Puyat",
+      "surname": "Puyat",
+      "given": "",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "Philippines"
+    },
+    {
+      "id": "AU_BRUNBORG_GS",
+      "type": "Author",
+      "label": "Geir Scott Brunborg",
+      "surname": "Brunborg",
+      "given": "Geir Scott",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "Norway"
+    },
+    {
+      "id": "AU_NILSEN_SA",
+      "type": "Author",
+      "label": "Sondre Aasen Nilsen",
+      "surname": "Nilsen",
+      "given": "Sondre Aasen",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "Norway"
+    },
+    {
+      "id": "AU_SKOGEN_JC",
+      "type": "Author",
+      "label": "Jens Christoffer Skogen",
+      "surname": "Skogen",
+      "given": "Jens Christoffer",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "Norway"
+    },
+    {
+      "id": "AU_BANG_L",
+      "type": "Author",
+      "label": "Lasse Bang",
+      "surname": "Bang",
+      "given": "Lasse",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "Norway"
+    },
+    {
+      "id": "AU_SOCIETY_SLOBOBP",
+      "type": "Author",
+      "label": "Sons Ltd on behalf of British Psychological Society",
+      "surname": "Society",
+      "given": "Sons Ltd on behalf of British Psychological",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": ""
+    },
+    {
+      "id": "AU_MOJTABAI_R",
+      "type": "Author",
+      "label": "Ramin Mojtabai",
+      "surname": "Mojtabai",
+      "given": "Ramin",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "USA"
+    },
+    {
+      "id": "AU_OLFSON_M",
+      "type": "Author",
+      "label": "Mark Olfson",
+      "surname": "Olfson",
+      "given": "Mark",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "USA"
+    },
+    {
+      "id": "AU_TARASENKO_A",
+      "type": "Author",
+      "label": "Anna Tarasenko",
+      "surname": "Tarasenko",
+      "given": "Anna",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": ""
+    },
+    {
+      "id": "AU_CRISP_D",
+      "type": "Author",
+      "label": "Dimity Crisp",
+      "surname": "Crisp",
+      "given": "Dimity",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "Australia"
+    },
+    {
+      "id": "AU_RICKWOOD_D",
+      "type": "Author",
+      "label": "Debra Rickwood",
+      "surname": "Rickwood",
+      "given": "Debra",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "Australia"
+    },
+    {
+      "id": "AU_BURNS_R",
+      "type": "Author",
+      "label": "Richard Burns",
+      "surname": "Burns",
+      "given": "Richard",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "Australia"
+    },
+    {
+      "id": "AU_BARIOLA_E",
+      "type": "Author",
+      "label": "Emily Bariola",
+      "surname": "Bariola",
+      "given": "Emily",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "Australia"
+    },
+    {
+      "id": "AU_BAKER_C",
+      "type": "Author",
+      "label": "Carl Baker",
+      "surname": "Baker",
+      "given": "Carl",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "UK"
+    },
+    {
+      "id": "AU_LIBRARY_HOC",
+      "type": "Author",
+      "label": "House of Commons Library",
+      "surname": "Library",
+      "given": "House of Commons",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "UK"
+    },
+    {
+      "id": "AU_PARLIAMENT_U",
+      "type": "Author",
+      "label": "UK Parliament",
+      "surname": "Parliament",
+      "given": "UK",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "UK"
+    },
+    {
+      "id": "AU_OR_YIUINPBSR",
+      "type": "Author",
+      "label": "your intended use is not permitted by statutory regulation or",
+      "surname": "or",
+      "given": "your intended use is not permitted by statutory regulation",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": ""
+    },
+    {
+      "id": "AU_DONGJUN_Z",
+      "type": "Author",
+      "label": "Zhang Dongjun",
+      "surname": "Dongjun",
+      "given": "Zhang",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": ""
+    },
+    {
+      "id": "AU_MINGYUE_W",
+      "type": "Author",
+      "label": "Wu Mingyue",
+      "surname": "Mingyue",
+      "given": "Wu",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": ""
+    },
+    {
+      "id": "AU_PSYCHOLOGY_SO",
+      "type": "Author",
+      "label": "School of Psychology",
+      "surname": "Psychology",
+      "given": "School of",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "Ireland"
+    },
+    {
+      "id": "AU_DUBLIN_X",
+      "type": "Author",
+      "label": "Dublin",
+      "surname": "Dublin",
+      "given": "",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "Ireland"
+    },
+    {
+      "id": "AU_IRELAND_X",
+      "type": "Author",
+      "label": "Ireland",
+      "surname": "Ireland",
+      "given": "",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "Ireland"
+    },
+    {
+      "id": "AU_SCHMIDTPERSSON_J",
+      "type": "Author",
+      "label": "Jesper Schmidt-Persson",
+      "surname": "Schmidt-Persson",
+      "given": "Jesper",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": ""
+    },
+    {
+      "id": "AU_RASMUSSEN_MGB",
+      "type": "Author",
+      "label": "Martin Gillies Banke Rasmussen",
+      "surname": "Rasmussen",
+      "given": "Martin Gillies Banke",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": ""
+    },
+    {
+      "id": "AU_SRENSEN_SO",
+      "type": "Author",
+      "label": "Sarah Overgaard Sørensen",
+      "surname": "Sørensen",
+      "given": "Sarah Overgaard",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": ""
+    },
+    {
+      "id": "AU_MORTENSEN_SR",
+      "type": "Author",
+      "label": "Sofie Rath Mortensen",
+      "surname": "Mortensen",
+      "given": "Sofie Rath",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": ""
+    },
+    {
+      "id": "AU_OLESEN_LG",
+      "type": "Author",
+      "label": "Line Grønholt Olesen",
+      "surname": "Olesen",
+      "given": "Line Grønholt",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": ""
+    },
+    {
+      "id": "AU_JEFFERIES_P",
+      "type": "Author",
+      "label": "Philip Jefferies",
+      "surname": "Jefferies",
+      "given": "Philip",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": ""
+    },
+    {
+      "id": "AU_UNGAR_M",
+      "type": "Author",
+      "label": "Michael Ungar",
+      "surname": "Ungar",
+      "given": "Michael",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": ""
+    },
+    {
+      "id": "AU_MOON_Y",
+      "type": "Author",
+      "label": "Yonghwan Moon",
+      "surname": "Moon",
+      "given": "Yonghwan",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "Korea"
+    },
+    {
+      "id": "AU_WOO_H",
+      "type": "Author",
+      "label": "Hyekyung Woo",
+      "surname": "Woo",
+      "given": "Hyekyung",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "Korea"
+    },
+    {
+      "id": "AU_INCLUDED_UIOIACLTTMIMIN",
+      "type": "Author",
+      "label": "unless indicated otherwise in a credit line to the material. If material is not included",
+      "surname": "included",
+      "given": "unless indicated otherwise in a credit line to the material. If material is not",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "Sri Lanka"
+    },
+    {
+      "id": "AU_XIAN_J",
+      "type": "Author",
+      "label": "Jinhua Xian",
+      "surname": "Xian",
+      "given": "Jinhua",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": ""
+    },
+    {
+      "id": "AU_ZHANG_Y",
+      "type": "Author",
+      "label": "Yan Zhang",
+      "surname": "Zhang",
+      "given": "Yan",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": ""
+    },
+    {
+      "id": "AU_JIANG_B",
+      "type": "Author",
+      "label": "Bo Jiang",
+      "surname": "Jiang",
+      "given": "Bo",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": ""
+    },
+    {
+      "id": "AU_DOC_LSL",
+      "type": "Author",
+      "label": "độc lập sàng lọc",
+      "surname": "độc",
+      "given": "lập sàng lọc",
+      "is_vietnamese": "True",
+      "n_papers": 1,
+      "country_hint": ""
+    },
+    {
+      "id": "AU_TRICH_X",
+      "type": "Author",
+      "label": "trích xuất",
+      "surname": "trích",
+      "given": "xuất",
+      "is_vietnamese": "True",
+      "n_papers": 1,
+      "country_hint": ""
+    },
+    {
+      "id": "AU_DANH_GTLRMSDHGPTPTNTVK",
+      "type": "Author",
+      "label": "đánh giá thiên lệch. Random-effects meta-analysis sử dụng Hedges g. Phân tích phụ theo: nền tảng (CBT vs khác)",
+      "surname": "đánh",
+      "given": "giá thiên lệch. Random-effects meta-analysis sử dụng Hedges g. Phân tích phụ theo: nền tảng (CBT vs khác)",
+      "is_vietnamese": "True",
+      "n_papers": 1,
+      "country_hint": ""
+    },
+    {
+      "id": "AU_THIET_KVTQ",
+      "type": "Author",
+      "label": "thiết kế (SAD-specific vs tổng quát)",
+      "surname": "thiết",
+      "given": "kế (SAD-specific vs tổng quát)",
+      "is_vietnamese": "True",
+      "n_papers": 1,
+      "country_hint": ""
+    },
+    {
+      "id": "AU_CO_HDNVTH",
+      "type": "Author",
+      "label": "có hướng dẫn người vs tự học",
+      "surname": "có",
+      "given": "hướng dẫn người vs tự học",
+      "is_vietnamese": "True",
+      "n_papers": 1,
+      "country_hint": ""
+    },
+    {
+      "id": "AU_DOI_CVK",
+      "type": "Author",
+      "label": "đối chứng (WL vs khác)",
+      "surname": "đối",
+      "given": "chứng (WL vs khác)",
+      "is_vietnamese": "True",
+      "n_papers": 1,
+      "country_hint": ""
+    },
+    {
+      "id": "AU_ADDICTION_TEOSM",
+      "type": "Author",
+      "label": "The Effects of Social Media Addiction",
+      "surname": "Addiction",
+      "given": "The Effects of Social Media",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "China"
+    },
+    {
+      "id": "AU_ACADEMIC_X",
+      "type": "Author",
+      "label": "Academic",
+      "surname": "Academic",
+      "given": "",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "China"
+    },
+    {
+      "id": "AU_BRESS_JN",
+      "type": "Author",
+      "label": "Jennifer N. Bress",
+      "surname": "Bress",
+      "given": "Jennifer N.",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": ""
+    },
+    {
+      "id": "AU_FALK_A",
+      "type": "Author",
+      "label": "Avital Falk",
+      "surname": "Falk",
+      "given": "Avital",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": ""
+    },
+    {
+      "id": "AU_SCHIER_MM",
+      "type": "Author",
+      "label": "Maddy M. Schier",
+      "surname": "Schier",
+      "given": "Maddy M.",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": ""
+    },
+    {
+      "id": "AU_JAYWANT_A",
+      "type": "Author",
+      "label": "Abhishek Jaywant",
+      "surname": "Jaywant",
+      "given": "Abhishek",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": ""
+    },
+    {
+      "id": "AU_MORONEY_E",
+      "type": "Author",
+      "label": "Elizabeth Moroney",
+      "surname": "Moroney",
+      "given": "Elizabeth",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": ""
+    },
+    {
+      "id": "AU_DARGIS_M",
+      "type": "Author",
+      "label": "Monika Dargis",
+      "surname": "Dargis",
+      "given": "Monika",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": ""
+    },
+    {
+      "id": "AU_CHINH_CCTQHT",
+      "type": "Author",
+      "label": "chính Chenyi Cai). Tổng quan hệ thống",
+      "surname": "chính",
+      "given": "Chenyi Cai). Tổng quan hệ thống",
+      "is_vietnamese": "True",
+      "n_papers": 1,
+      "country_hint": ""
+    },
+    {
+      "id": "AU_PSYCHIATRY_C",
+      "type": "Author",
+      "label": "Child Psychiatry",
+      "surname": "Psychiatry",
+      "given": "Child",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": ""
+    },
+    {
+      "id": "AU__HD",
+      "type": "Author",
+      "label": "Human Development () :–",
+      "surname": ":–",
+      "given": "Human Development ()",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": ""
+    },
+    {
+      "id": "AU_CHAT_LBCNRTKPHNCĐVCĐHTTKRRTTĐN",
+      "type": "Author",
+      "label": "\"Chất lượng bằng chứng nền RẤT THẤP khiến phát hiện này CHƯA ĐỦ vững chắc để hỗ trợ triển khai rộng rãi tại thời điểm này.\"",
+      "surname": "\"Chất",
+      "given": "lượng bằng chứng nền RẤT THẤP khiến phát hiện này CHƯA ĐỦ vững chắc để hỗ trợ triển khai rộng rãi tại thời điểm này.\"",
+      "is_vietnamese": "True",
+      "n_papers": 1,
+      "country_hint": ""
+    },
+    {
+      "id": "AU_HOA_PT",
+      "type": "Author",
+      "label": "Phạm Thị Thu Hoa",
+      "surname": "Phạm",
+      "given": "Thị Thu Hoa",
+      "is_vietnamese": "True",
+      "n_papers": 1,
+      "country_hint": "Vietnam"
+    },
+    {
+      "id": "AU_DO_TT",
+      "type": "Author",
+      "label": "Đỗ Thị Trang",
+      "surname": "Đỗ",
+      "given": "Thị Trang",
+      "is_vietnamese": "True",
+      "n_papers": 1,
+      "country_hint": "Vietnam"
+    },
+    {
+      "id": "AU_NGUYEN_TL",
+      "type": "Author",
+      "label": "Nguyễn Thị Liên",
+      "surname": "Nguyễn",
+      "given": "Thị Liên",
+      "is_vietnamese": "True",
+      "n_papers": 1,
+      "country_hint": "Vietnam"
+    },
+    {
+      "id": "AU_NGO_AV",
+      "type": "Author",
+      "label": "Ngô Anh Vinh",
+      "surname": "Ngô",
+      "given": "Anh Vinh",
+      "is_vietnamese": "True",
+      "n_papers": 2,
+      "country_hint": "Vietnam"
+    },
+    {
+      "id": "AU_VU_ML",
+      "type": "Author",
+      "label": "Vũ Mạnh Lợi",
+      "surname": "Vũ",
+      "given": "Mạnh Lợi",
+      "is_vietnamese": "True",
+      "n_papers": 1,
+      "country_hint": "Vietnam"
+    },
+    {
+      "id": "AU_NGUYEN_ĐVXHH",
+      "type": "Author",
+      "label": "Nguyễn Đức Vinh (Viện Xã hội học",
+      "surname": "Nguyễn",
+      "given": "Đức Vinh (Viện Xã hội học",
+      "is_vietnamese": "True",
+      "n_papers": 1,
+      "country_hint": "Vietnam"
+    },
+    {
+      "id": "AU_VASS_X",
+      "type": "Author",
+      "label": "VASS)",
+      "surname": "VASS)",
+      "given": "",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "Vietnam"
+    },
+    {
+      "id": "AU_DAO_TKHXHHVN",
+      "type": "Author",
+      "label": "Đào Thị Khánh Hoa (Hội Xã hội học Việt Nam)",
+      "surname": "Đào",
+      "given": "Thị Khánh Hoa (Hội Xã hội học Việt Nam)",
+      "is_vietnamese": "True",
+      "n_papers": 1,
+      "country_hint": "Vietnam"
+    },
+    {
+      "id": "AU_PHAM_X",
+      "type": "Author",
+      "label": "Pham",
+      "surname": "Pham",
+      "given": "",
+      "is_vietnamese": "True",
+      "n_papers": 1,
+      "country_hint": "Vietnam"
+    },
+    {
+      "id": "AU_STRESS_LO",
+      "type": "Author",
+      "label": "Levels of Stress",
+      "surname": "Stress",
+      "given": "Levels of",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "Vietnam"
+    },
+    {
+      "id": "AU_ANXIETY_X",
+      "type": "Author",
+      "label": "Anxiety",
+      "surname": "Anxiety",
+      "given": "",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "Vietnam"
+    },
+    {
+      "id": "AU_VU_TMH",
+      "type": "Author",
+      "label": "Vũ Thị Mỹ Hạnh",
+      "surname": "Vũ",
+      "given": "Thị Mỹ Hạnh",
+      "is_vietnamese": "True",
+      "n_papers": 1,
+      "country_hint": "Vietnam"
+    },
+    {
+      "id": "AU_DO_TBV",
+      "type": "Author",
+      "label": "Đỗ Thị Bích Vân",
+      "surname": "Đỗ",
+      "given": "Thị Bích Vân",
+      "is_vietnamese": "True",
+      "n_papers": 1,
+      "country_hint": "Vietnam"
+    },
+    {
+      "id": "AU_DUONG_AT",
+      "type": "Author",
+      "label": "Dương Anh Tài",
+      "surname": "Dương",
+      "given": "Anh Tài",
+      "is_vietnamese": "True",
+      "n_papers": 1,
+      "country_hint": "Vietnam"
+    },
+    {
+      "id": "AU_DO_ML",
+      "type": "Author",
+      "label": "Đỗ Minh Loan",
+      "surname": "Đỗ",
+      "given": "Minh Loan",
+      "is_vietnamese": "True",
+      "n_papers": 1,
+      "country_hint": "Vietnam"
+    },
+    {
+      "id": "AU_LE_TTT",
+      "type": "Author",
+      "label": "Lê Thị Thanh Thùy",
+      "surname": "Lê",
+      "given": "Thị Thanh Thùy",
+      "is_vietnamese": "True",
+      "n_papers": 1,
+      "country_hint": "Vietnam"
+    },
+    {
+      "id": "AU_NGUYEN_NBQ",
+      "type": "Author",
+      "label": "Nguyễn Ngọc Bảo Quyên",
+      "surname": "Nguyễn",
+      "given": "Ngọc Bảo Quyên",
+      "is_vietnamese": "True",
+      "n_papers": 1,
+      "country_hint": "Vietnam"
+    },
+    {
+      "id": "AU_LUU_MĐ",
+      "type": "Author",
+      "label": "Lưu Minh Đức",
+      "surname": "Lưu",
+      "given": "Minh Đức",
+      "is_vietnamese": "True",
+      "n_papers": 1,
+      "country_hint": "Vietnam"
+    },
+    {
+      "id": "AU_VU_MT",
+      "type": "Author",
+      "label": "Vũ Minh Thy",
+      "surname": "Vũ",
+      "given": "Minh Thy",
+      "is_vietnamese": "True",
+      "n_papers": 1,
+      "country_hint": "Vietnam"
+    },
+    {
+      "id": "AU_NGUYEN_YM",
+      "type": "Author",
+      "label": "Nguyễn Yến Minh",
+      "surname": "Nguyễn",
+      "given": "Yến Minh",
+      "is_vietnamese": "True",
+      "n_papers": 1,
+      "country_hint": "Vietnam"
+    },
+    {
+      "id": "AU_NGUYEN_CA",
+      "type": "Author",
+      "label": "Nguyễn Châu Anh",
+      "surname": "Nguyễn",
+      "given": "Châu Anh",
+      "is_vietnamese": "True",
+      "n_papers": 1,
+      "country_hint": "Vietnam"
+    },
+    {
+      "id": "AU_HOANG_LV",
+      "type": "Author",
+      "label": "Hoàng Lan Vân",
+      "surname": "Hoàng",
+      "given": "Lan Vân",
+      "is_vietnamese": "True",
+      "n_papers": 1,
+      "country_hint": "Vietnam"
+    },
+    {
+      "id": "AU_GIAP_TTT",
+      "type": "Author",
+      "label": "Giáp Thị Thanh Tình",
+      "surname": "Giáp",
+      "given": "Thị Thanh Tình",
+      "is_vietnamese": "True",
+      "n_papers": 1,
+      "country_hint": "Vietnam"
+    },
+    {
+      "id": "AU_HO_TTQ",
+      "type": "Author",
+      "label": "Hồ Thị Trúc Quỳnh",
+      "surname": "Hồ",
+      "given": "Thị Trúc Quỳnh",
+      "is_vietnamese": "True",
+      "n_papers": 1,
+      "country_hint": "Vietnam"
+    },
+    {
+      "id": "AU_TRAN_HVL",
+      "type": "Author",
+      "label": "Trần Hồ Vĩnh Lộc",
+      "surname": "Trần",
+      "given": "Hồ Vĩnh Lộc",
+      "is_vietnamese": "True",
+      "n_papers": 1,
+      "country_hint": "Vietnam"
+    },
+    {
+      "id": "AU_HUYNH_NVA",
+      "type": "Author",
+      "label": "Huỳnh Ngọc Vân Anh",
+      "surname": "Huỳnh",
+      "given": "Ngọc Vân Anh",
+      "is_vietnamese": "True",
+      "n_papers": 1,
+      "country_hint": "Vietnam"
+    },
+    {
+      "id": "AU_TO_GK",
+      "type": "Author",
+      "label": "Tô Gia Kiên",
+      "surname": "Tô",
+      "given": "Gia Kiên",
+      "is_vietnamese": "True",
+      "n_papers": 1,
+      "country_hint": "Vietnam"
+    },
+    {
+      "id": "AU_TRAN_TV",
+      "type": "Author",
+      "label": "Thao Vi Tran",
+      "surname": "Tran",
+      "given": "Thao Vi",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "Vietnam"
+    },
+    {
+      "id": "AU_HOANG_TLN",
+      "type": "Author",
+      "label": "Hoang Thuy Linh Nguyen",
+      "surname": "Hoang",
+      "given": "Thuy Linh Nguyen",
+      "is_vietnamese": "True",
+      "n_papers": 1,
+      "country_hint": "Vietnam"
+    },
+    {
+      "id": "AU_TRAN_XMT",
+      "type": "Author",
+      "label": "Xuan Minh Tri Tran",
+      "surname": "Tran",
+      "given": "Xuan Minh Tri",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "Vietnam"
+    },
+    {
+      "id": "AU_TASHIRO_Y",
+      "type": "Author",
+      "label": "Yuri Tashiro",
+      "surname": "Tashiro",
+      "given": "Yuri",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "Vietnam"
+    },
+    {
+      "id": "AU_SEINO_K",
+      "type": "Author",
+      "label": "Kaoruko Seino",
+      "surname": "Seino",
+      "given": "Kaoruko",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "Vietnam"
+    },
+    {
+      "id": "AU_VO_TV",
+      "type": "Author",
+      "label": "Thang Van Vo",
+      "surname": "Vo",
+      "given": "Thang Van",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "Vietnam"
+    },
+    {
+      "id": "AU_NAKAMURA_K",
+      "type": "Author",
+      "label": "Keiko Nakamura",
+      "surname": "Nakamura",
+      "given": "Keiko",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "Vietnam"
+    },
+    {
+      "id": "AU_NGUYEN_HV",
+      "type": "Author",
+      "label": "Hieu Van Nguyen",
+      "surname": "Nguyen",
+      "given": "Hieu Van",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "Vietnam"
+    },
+    {
+      "id": "AU_PHDC_X",
+      "type": "Author",
+      "label": "PhDc",
+      "surname": "PhDc",
+      "given": "",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "Vietnam"
+    },
+    {
+      "id": "AU_NGUYEN_LTM",
+      "type": "Author",
+      "label": "Lan Thi Mai Nguyen",
+      "surname": "Nguyen",
+      "given": "Lan Thi Mai",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "Vietnam"
+    },
+    {
+      "id": "AU_PHDD_X",
+      "type": "Author",
+      "label": "PhDd",
+      "surname": "PhDd",
+      "given": "",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "Vietnam"
+    },
+    {
+      "id": "AU_NGUYEN_PT",
+      "type": "Author",
+      "label": "Phuong Thi Nguyen",
+      "surname": "Nguyen",
+      "given": "Phuong Thi",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "Vietnam"
+    },
+    {
+      "id": "AU_MSA_X",
+      "type": "Author",
+      "label": "MSa",
+      "surname": "MSa",
+      "given": "",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "Vietnam"
+    },
+    {
+      "id": "AU_NGUYEN_TT",
+      "type": "Author",
+      "label": "Thang Thi Nguyen",
+      "surname": "Nguyen",
+      "given": "Thang Thi",
+      "is_vietnamese": "False",
+      "n_papers": 2,
+      "country_hint": "Vietnam"
+    },
+    {
+      "id": "AU_PHDA_X",
+      "type": "Author",
+      "label": "PhDa",
+      "surname": "PhDa",
+      "given": "",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "Vietnam"
+    },
+    {
+      "id": "AU_PHAM_TN",
+      "type": "Author",
+      "label": "Phạm Thị Ngọc",
+      "surname": "Phạm",
+      "given": "Thị Ngọc",
+      "is_vietnamese": "True",
+      "n_papers": 1,
+      "country_hint": "Vietnam"
+    },
+    {
+      "id": "AU_HOANG_TG",
+      "type": "Author",
+      "label": "Hoàng Thị Giang",
+      "surname": "Hoàng",
+      "given": "Thị Giang",
+      "is_vietnamese": "True",
+      "n_papers": 1,
+      "country_hint": "Vietnam"
+    },
+    {
+      "id": "AU_PHAM_KL",
+      "type": "Author",
+      "label": "Phạm Khánh Linh",
+      "surname": "Phạm",
+      "given": "Khánh Linh",
+      "is_vietnamese": "True",
+      "n_papers": 1,
+      "country_hint": "Vietnam"
+    },
+    {
+      "id": "AU_VU_TC",
+      "type": "Author",
+      "label": "Vũ Thị Châu",
+      "surname": "Vũ",
+      "given": "Thị Châu",
+      "is_vietnamese": "True",
+      "n_papers": 1,
+      "country_hint": "Vietnam"
+    },
+    {
+      "id": "AU_SINH_CTC",
+      "type": "Author",
+      "label": "sinh có trầm cảm",
+      "surname": "sinh",
+      "given": "có trầm cảm",
+      "is_vietnamese": "True",
+      "n_papers": 1,
+      "country_hint": "Vietnam"
+    },
+    {
+      "id": "AU_LO_Â",
+      "type": "Author",
+      "label": "lo âu",
+      "surname": "lo",
+      "given": "âu",
+      "is_vietnamese": "True",
+      "n_papers": 1,
+      "country_hint": "Vietnam"
+    },
+    {
+      "id": "AU_STRESS_TĐBTPTA",
+      "type": "Author",
+      "label": "stress trên địa bàn thành phố Tân An",
+      "surname": "stress",
+      "given": "trên địa bàn thành phố Tân An",
+      "is_vietnamese": "True",
+      "n_papers": 1,
+      "country_hint": "Vietnam"
+    },
+    {
+      "id": "AU_TINH_LALL",
+      "type": "Author",
+      "label": "tỉnh Long An lần lượt",
+      "surname": "tỉnh",
+      "given": "Long An lần lượt",
+      "is_vietnamese": "True",
+      "n_papers": 1,
+      "country_hint": "Vietnam"
+    },
+    {
+      "id": "AU_DINH_X",
+      "type": "Author",
+      "label": "Dinh",
+      "surname": "Dinh",
+      "given": "",
+      "is_vietnamese": "True",
+      "n_papers": 1,
+      "country_hint": "Vietnam"
+    },
+    {
+      "id": "AU_DAO_TN",
+      "type": "Author",
+      "label": "Đào Thị Ngoãn",
+      "surname": "Đào",
+      "given": "Thị Ngoãn",
+      "is_vietnamese": "True",
+      "n_papers": 1,
+      "country_hint": "Vietnam"
+    },
+    {
+      "id": "AU_THAI_TT",
+      "type": "Author",
+      "label": "Truc Thanh Thai",
+      "surname": "Thai",
+      "given": "Truc Thanh",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "Vietnam"
+    },
+    {
+      "id": "AU_DUONG_MC",
+      "type": "Author",
+      "label": "Minh Cuong Duong",
+      "surname": "Duong",
+      "given": "Minh Cuong",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "Vietnam"
+    },
+    {
+      "id": "AU_KHONG_ĐLÂR",
+      "type": "Author",
+      "label": "không đo lo âu riêng",
+      "surname": "không",
+      "given": "đo lo âu riêng",
+      "is_vietnamese": "True",
+      "n_papers": 1,
+      "country_hint": "Vietnam"
+    },
+    {
+      "id": "AU_KHONG_RPTDTMBCCTVTN",
+      "type": "Author",
+      "label": "không randomized. PHẢI trích dẫn trong mọi báo cáo can thiệp VN từ nay",
+      "surname": "không",
+      "given": "randomized. PHẢI trích dẫn trong mọi báo cáo can thiệp VN từ nay",
+      "is_vietnamese": "True",
+      "n_papers": 1,
+      "country_hint": "Vietnam"
+    },
+    {
+      "id": "QT001",
+      "type": "Paper",
+      "label": "Jenkins_et_al_2023_USA",
+      "year": "2023",
+      "pdf_folder": "11-bai-ban-dau-va-mo-rong",
+      "has_pdf": "True"
+    },
+    {
+      "id": "QT002",
+      "type": "Paper",
+      "label": "Saikia_et_al_2023_India_Assam",
+      "year": "India",
+      "pdf_folder": "11-bai-ban-dau-va-mo-rong",
+      "has_pdf": "True"
+    },
+    {
+      "id": "QT003",
+      "type": "Paper",
+      "label": "Mandaknalli_Malusare_2021",
+      "year": "Malusare",
+      "pdf_folder": "",
+      "has_pdf": ""
+    },
+    {
+      "id": "QT004",
+      "type": "Paper",
+      "label": "NSCH_2020_USA",
+      "year": "2020",
+      "pdf_folder": "",
+      "has_pdf": ""
+    },
+    {
+      "id": "QT005",
+      "type": "Paper",
+      "label": "Alharbi_et_al_2019_SaudiArabia",
+      "year": "2019",
+      "pdf_folder": "",
+      "has_pdf": ""
+    },
+    {
+      "id": "QT006",
+      "type": "Paper",
+      "label": "Nakie_et_al_2022_Ethiopia",
+      "year": "2022",
+      "pdf_folder": "",
+      "has_pdf": ""
+    },
+    {
+      "id": "QT007",
+      "type": "Paper",
+      "label": "Chen_et_al_2023_China_BMCPsych",
+      "year": "China",
+      "pdf_folder": "",
+      "has_pdf": ""
+    },
+    {
+      "id": "QT008",
+      "type": "Paper",
+      "label": "Wen_et_al_2020_China_Rural",
+      "year": "China",
+      "pdf_folder": "The-gioi_Khac",
+      "has_pdf": "True"
+    },
+    {
+      "id": "QT009",
+      "type": "Paper",
+      "label": "Qiu_et_al_2022_China_Parenting",
+      "year": "China",
+      "pdf_folder": "",
+      "has_pdf": ""
+    },
+    {
+      "id": "QT010",
+      "type": "Paper",
+      "label": "Xu_et_al_2021_China_LargestEpi",
+      "year": "China",
+      "pdf_folder": "11-bai-ban-dau-va-mo-rong",
+      "has_pdf": "True"
+    },
+    {
+      "id": "QT011",
+      "type": "Paper",
+      "label": "Bhardwaj_et_al_2020_India_Chandigarh",
+      "year": "India",
+      "pdf_folder": "",
+      "has_pdf": ""
+    },
+    {
+      "id": "QT012",
+      "type": "Paper",
+      "label": "GBD_ASEAN_2025_Lancet",
+      "year": "2025",
+      "pdf_folder": "Dong-Nam-A",
+      "has_pdf": "True"
+    },
+    {
+      "id": "QT013",
+      "type": "Paper",
+      "label": "Yin_2025_PLOSONE_LMIC",
+      "year": "PLOSONE",
+      "pdf_folder": "The-gioi_Au-My-Uc",
+      "has_pdf": "True"
+    },
+    {
+      "id": "QT014",
+      "type": "Paper",
+      "label": "Anderson_2025_Wiley_Narrative",
+      "year": "Wiley",
+      "pdf_folder": "The-gioi_Au-My-Uc",
+      "has_pdf": "True"
+    },
+    {
+      "id": "QT015",
+      "type": "Paper",
+      "label": "Zhu_2025_BMC_China",
+      "year": "BMC",
+      "pdf_folder": "The-gioi_Khac",
+      "has_pdf": "True"
+    },
+    {
+      "id": "QT016",
+      "type": "Paper",
+      "label": "Mudunna_2025_LancetSEA_SouthAsia",
+      "year": "LancetSEA",
+      "pdf_folder": "Dong-Nam-A",
+      "has_pdf": "True"
+    },
+    {
+      "id": "QT017",
+      "type": "Paper",
+      "label": "Puyat_2025_Filipino_Youth",
+      "year": "Filipino",
+      "pdf_folder": "Dong-Nam-A",
+      "has_pdf": "True"
+    },
+    {
+      "id": "QT021",
+      "type": "Paper",
+      "label": "Norway_Brunborg_2025_SocSciMed",
+      "year": "2025",
+      "pdf_folder": "The-gioi_Au-My-Uc",
+      "has_pdf": "True"
+    },
+    {
+      "id": "QT022",
+      "type": "Paper",
+      "label": "ScreenTime_Li_2025_BJCP",
+      "year": "2025",
+      "pdf_folder": "The-gioi_Au-My-Uc",
+      "has_pdf": "True"
+    },
+    {
+      "id": "QT023",
+      "type": "Paper",
+      "label": "JAACAP_USA_Mojtabai_Trends_2024",
+      "year": "Trends",
+      "pdf_folder": "The-gioi_Au-My-Uc",
+      "has_pdf": "True"
+    },
+    {
+      "id": "QT024",
+      "type": "Paper",
+      "label": "WHO_Europe_2025_LancetRegional",
+      "year": "2025",
+      "pdf_folder": "The-gioi_Au-My-Uc",
+      "has_pdf": "True"
+    },
+    {
+      "id": "QT025",
+      "type": "Paper",
+      "label": "EpiPsychSci_Crisp_Australia_2025",
+      "year": "Australia",
+      "pdf_folder": "The-gioi_Au-My-Uc",
+      "has_pdf": "True"
+    },
+    {
+      "id": "QT026",
+      "type": "Paper",
+      "label": "UK_NHS_Parliament_2025",
+      "year": "Parliament",
+      "pdf_folder": "The-gioi_Au-My-Uc",
+      "has_pdf": "True"
+    },
+    {
+      "id": "QT027",
+      "type": "Paper",
+      "label": "NatureHumanBehav_Fassi_SocialMedia_2025",
+      "year": "SocialMedia",
+      "pdf_folder": "The-gioi_Au-My-Uc",
+      "has_pdf": "True"
+    },
+    {
+      "id": "QT028",
+      "type": "Paper",
+      "label": "AJP_Zugman_PediatricAnxiety_2024",
+      "year": "PediatricAnxiety",
+      "pdf_folder": "The-gioi_Au-My-Uc",
+      "has_pdf": "True"
+    },
+    {
+      "id": "QT029",
+      "type": "Paper",
+      "label": "BMC_Li_CBT_NMA_2025",
+      "year": "NMA",
+      "pdf_folder": "The-gioi_Khac",
+      "has_pdf": "True"
+    },
+    {
+      "id": "QT030",
+      "type": "Paper",
+      "label": "GBD_Trends_10-24y_2025",
+      "year": "10-24y",
+      "pdf_folder": "The-gioi_Khac",
+      "has_pdf": "True"
+    },
+    {
+      "id": "QT031",
+      "type": "Paper",
+      "label": "Islam_59Countries_2025",
+      "year": "59Countries",
+      "pdf_folder": "The-gioi_Khac",
+      "has_pdf": "True"
+    },
+    {
+      "id": "QT032",
+      "type": "Paper",
+      "label": "Ireland_Fitzgerald_MyWorld_2024",
+      "year": "MyWorld",
+      "pdf_folder": "The-gioi_Au-My-Uc",
+      "has_pdf": "True"
+    },
+    {
+      "id": "QT033",
+      "type": "Paper",
+      "label": "JAMA_SchmidtPersson_ScreenMedia_2024",
+      "year": "ScreenMedia",
+      "pdf_folder": "The-gioi_Au-My-Uc",
+      "has_pdf": "True"
+    },
+    {
+      "id": "QT034",
+      "type": "Paper",
+      "label": "Korea_Cho_MH_Trends_NatSciRep_2024",
+      "year": "NatSciRep",
+      "pdf_folder": "The-gioi_Khac",
+      "has_pdf": "True"
+    },
+    {
+      "id": "QT035",
+      "type": "Paper",
+      "label": "Jefferies_SocialAnxiety_7Countries_2020",
+      "year": "7Countries",
+      "pdf_folder": "The-gioi_Au-My-Uc",
+      "has_pdf": "True"
+    },
+    {
+      "id": "QT036",
+      "type": "Paper",
+      "label": "Moon_Korea_GAD_ML_2025",
+      "year": "ML",
+      "pdf_folder": "The-gioi_Khac",
+      "has_pdf": "True"
+    },
+    {
+      "id": "QT037",
+      "type": "Paper",
+      "label": "Praptomojati_CA-CBT_SEA_AJP_2024",
+      "year": "AJP",
+      "pdf_folder": "",
+      "has_pdf": ""
+    },
+    {
+      "id": "QT038",
+      "type": "Paper",
+      "label": "DeSilva_SriLanka_RCT_2024",
+      "year": "RCT",
+      "pdf_folder": "The-gioi_Khac",
+      "has_pdf": "True"
+    },
+    {
+      "id": "QT039",
+      "type": "Paper",
+      "label": "Xian_NMA_SAD_JAD_2024",
+      "year": "JAD",
+      "pdf_folder": "The-gioi_Khac",
+      "has_pdf": "True"
+    },
+    {
+      "id": "QT040",
+      "type": "Paper",
+      "label": "Walder_JMIR_DMHI_SAD_2025",
+      "year": "SAD",
+      "pdf_folder": "The-gioi_Au-My-Uc",
+      "has_pdf": "True"
+    },
+    {
+      "id": "QT041",
+      "type": "Paper",
+      "label": "Zheng_China_MXH_PRBM_2025",
+      "year": "PRBM",
+      "pdf_folder": "The-gioi_Khac",
+      "has_pdf": "True"
+    },
+    {
+      "id": "QT042",
+      "type": "Paper",
+      "label": "BrownCarter_UK_School_JMH_2025",
+      "year": "JMH",
+      "pdf_folder": "The-gioi_Au-My-Uc",
+      "has_pdf": "True"
+    },
+    {
+      "id": "QT043",
+      "type": "Paper",
+      "label": "Bress_JAMA_Maya_App_2024",
+      "year": "App",
+      "pdf_folder": "The-gioi_Au-My-Uc",
+      "has_pdf": "True"
+    },
+    {
+      "id": "QT044",
+      "type": "Paper",
+      "label": "Cai_Resilience_Frontiers_2025",
+      "year": "Frontiers",
+      "pdf_folder": "The-gioi_Khac",
+      "has_pdf": "True"
+    },
+    {
+      "id": "QT045",
+      "type": "Paper",
+      "label": "Matsumoto_Japan_iCBT_JMIR_2024",
+      "year": "JMIR",
+      "pdf_folder": "The-gioi_Khac",
+      "has_pdf": "True"
+    },
+    {
+      "id": "QT046",
+      "type": "Paper",
+      "label": "Jagiello_AcademicStress_SR_2025",
+      "year": "SR",
+      "pdf_folder": "The-gioi_Au-My-Uc",
+      "has_pdf": "True"
+    },
+    {
+      "id": "QT047",
+      "type": "Paper",
+      "label": "Dong_PLOS_DASS_YaAn_2025",
+      "year": "YaAn",
+      "pdf_folder": "The-gioi_Khac",
+      "has_pdf": "True"
+    },
+    {
+      "id": "QT048",
+      "type": "Paper",
+      "label": "Chen_COVID_Meta141_JAD_2025_ABSTRACT",
+      "year": "2025",
+      "pdf_folder": "",
+      "has_pdf": ""
+    },
+    {
+      "id": "QT049",
+      "type": "Paper",
+      "label": "Zhang_Bayesian_CBT_JCP_2026_ABSTRACT",
+      "year": "2026",
+      "pdf_folder": "",
+      "has_pdf": ""
+    },
+    {
+      "id": "QT050",
+      "type": "Paper",
+      "label": "Qiaochu_MobileCBT_CPP_2025_ABSTRACT",
+      "year": "2025",
+      "pdf_folder": "",
+      "has_pdf": ""
+    },
+    {
+      "id": "QT051",
+      "type": "Paper",
+      "label": "Menon_LMIC_SEA_Pacific_APJPH_2025_ABSTRACT",
+      "year": "2025",
+      "pdf_folder": "",
+      "has_pdf": ""
+    },
+    {
+      "id": "VN001",
+      "type": "Paper",
+      "label": "Hoa_2024_Frontiers_HaNoi",
+      "year": "Frontiers",
+      "pdf_folder": "Viet-Nam",
+      "has_pdf": "True"
+    },
+    {
+      "id": "VN002",
+      "type": "Paper",
+      "label": "VNAMHS_2022_National",
+      "year": "2022",
+      "pdf_folder": "Viet-Nam",
+      "has_pdf": "True"
+    },
+    {
+      "id": "VN003",
+      "type": "Paper",
+      "label": "Pham_2024_Hue_SocialSupport",
+      "year": "Hue",
+      "pdf_folder": "Viet-Nam",
+      "has_pdf": "True"
+    },
+    {
+      "id": "VN014",
+      "type": "Paper",
+      "label": "HoangTrungHoc_2025_VN_COVID",
+      "year": "VN",
+      "pdf_folder": "Viet-Nam",
+      "has_pdf": "True"
+    },
+    {
+      "id": "VN015",
+      "type": "Paper",
+      "label": "NgoAnhVinh_2024_LangSon_DTTS",
+      "year": "LangSon",
+      "pdf_folder": "Viet-Nam",
+      "has_pdf": "True"
+    },
+    {
+      "id": "VN016",
+      "type": "Paper",
+      "label": "BaoQuyen_2025_YHCD",
+      "year": "2025",
+      "pdf_folder": "Viet-Nam",
+      "has_pdf": "True"
+    },
+    {
+      "id": "VN017",
+      "type": "Paper",
+      "label": "NguyenDanhLam_2022_YHVN",
+      "year": "2022",
+      "pdf_folder": "Viet-Nam",
+      "has_pdf": "True"
+    },
+    {
+      "id": "VN018",
+      "type": "Paper",
+      "label": "AnGiang_2025_YHVN",
+      "year": "2025",
+      "pdf_folder": "Viet-Nam",
+      "has_pdf": "True"
+    },
+    {
+      "id": "VN019",
+      "type": "Paper",
+      "label": "HoThiTrucQuynh_2025_Hue_TLH",
+      "year": "Hue",
+      "pdf_folder": "Viet-Nam",
+      "has_pdf": "True"
+    },
+    {
+      "id": "VN020",
+      "type": "Paper",
+      "label": "TranHoVinhLoc_2024_TPHCM_DASS-Y",
+      "year": "TPHCM",
+      "pdf_folder": "Viet-Nam",
+      "has_pdf": "True"
+    },
+    {
+      "id": "VN021",
+      "type": "Paper",
+      "label": "TranThaoVi_2024_JRuralMed_Hue",
+      "year": "JRuralMed",
+      "pdf_folder": "Viet-Nam",
+      "has_pdf": "True"
+    },
+    {
+      "id": "VN022",
+      "type": "Paper",
+      "label": "UNICEF_VN_2022_SchoolFactors",
+      "year": "2022",
+      "pdf_folder": "Viet-Nam",
+      "has_pdf": "True"
+    },
+    {
+      "id": "VN023",
+      "type": "Paper",
+      "label": "NguyenLX_VN_COVID_Medicine_2023",
+      "year": "Medicine",
+      "pdf_folder": "Viet-Nam",
+      "has_pdf": "True"
+    },
+    {
+      "id": "VN024",
+      "type": "Paper",
+      "label": "NguyenThanhTruyen_VinhLong_YHVN_2024",
+      "year": "YHVN",
+      "pdf_folder": "Viet-Nam",
+      "has_pdf": "True"
+    },
+    {
+      "id": "VN025",
+      "type": "Paper",
+      "label": "PhamThiNgoc_HaiPhong_VinhBao_2024",
+      "year": "VinhBao",
+      "pdf_folder": "Viet-Nam",
+      "has_pdf": "True"
+    },
+    {
+      "id": "VN026",
+      "type": "Paper",
+      "label": "TranDucSi_LongAn_PNT_2025",
+      "year": "PNT",
+      "pdf_folder": "Viet-Nam",
+      "has_pdf": "True"
+    },
+    {
+      "id": "VN027",
+      "type": "Paper",
+      "label": "Dinh_SchoolFactors_VN_2021",
+      "year": "VN",
+      "pdf_folder": "Viet-Nam",
+      "has_pdf": "True"
+    },
+    {
+      "id": "VN028",
+      "type": "Paper",
+      "label": "DaoThiNgoan_TCNCYH_SVY4_HMU_2025",
+      "year": "HMU",
+      "pdf_folder": "Viet-Nam",
+      "has_pdf": "True"
+    },
+    {
+      "id": "VN029",
+      "type": "Paper",
+      "label": "Duong_SocPsychiatry_2631HS_TPHCM_2025",
+      "year": "TPHCM",
+      "pdf_folder": "Viet-Nam",
+      "has_pdf": "True"
+    },
+    {
+      "id": "VN030",
+      "type": "Paper",
+      "label": "Tran_HappyHouse_Cambridge_2023",
+      "year": "Cambridge",
+      "pdf_folder": "",
+      "has_pdf": ""
+    },
+    {
+      "id": "COUNTRY_USA",
+      "type": "Country",
+      "label": "USA"
+    },
+    {
+      "id": "COUNTRY_PHILIPPINES",
+      "type": "Country",
+      "label": "Philippines"
+    },
+    {
+      "id": "COUNTRY_ETHIOPIA",
+      "type": "Country",
+      "label": "Ethiopia"
+    },
+    {
+      "id": "COUNTRY_SAUDI_ARABIA",
+      "type": "Country",
+      "label": "Saudi Arabia"
+    },
+    {
+      "id": "COUNTRY_UK",
+      "type": "Country",
+      "label": "UK"
+    },
+    {
+      "id": "COUNTRY_IRELAND",
+      "type": "Country",
+      "label": "Ireland"
+    },
+    {
+      "id": "COUNTRY_VIETNAM",
+      "type": "Country",
+      "label": "Vietnam"
+    },
+    {
+      "id": "COUNTRY_CHINA",
+      "type": "Country",
+      "label": "China"
+    },
+    {
+      "id": "COUNTRY_KOREA",
+      "type": "Country",
+      "label": "Korea"
+    },
+    {
+      "id": "COUNTRY_AUSTRALIA",
+      "type": "Country",
+      "label": "Australia"
+    },
+    {
+      "id": "COUNTRY_NORWAY",
+      "type": "Country",
+      "label": "Norway"
+    },
+    {
+      "id": "COUNTRY_INDIA",
+      "type": "Country",
+      "label": "India"
+    },
+    {
+      "id": "COUNTRY_SRI_LANKA",
+      "type": "Country",
+      "label": "Sri Lanka"
+    },
+    {
+      "id": "TOP_ANXIETY",
+      "type": "Topic",
+      "label": "Anxiety"
+    },
+    {
+      "id": "TOP_DEPRESSION",
+      "type": "Topic",
+      "label": "Depression"
+    },
+    {
+      "id": "TOP_CBT",
+      "type": "Topic",
+      "label": "Cbt"
+    },
+    {
+      "id": "TOP_MHPSS",
+      "type": "Topic",
+      "label": "Mhpss"
+    },
+    {
+      "id": "TOP_ADOLESCENT",
+      "type": "Topic",
+      "label": "Adolescent"
+    },
+    {
+      "id": "TOP_COVID",
+      "type": "Topic",
+      "label": "Covid"
+    },
+    {
+      "id": "TOP_DIGITAL",
+      "type": "Topic",
+      "label": "Digital"
+    },
+    {
+      "id": "TOP_RESILIENCE",
+      "type": "Topic",
+      "label": "Resilience"
+    },
+    {
+      "id": "TOP_BULLYING",
+      "type": "Topic",
+      "label": "Bullying"
+    },
+    {
+      "id": "TOP_SUICIDE",
+      "type": "Topic",
+      "label": "Suicide"
+    },
+    {
+      "id": "TOP_SCHOOL_INTERVENTION",
+      "type": "Topic",
+      "label": "School_Intervention"
+    },
+    {
+      "id": "TOP_PREVALENCE",
+      "type": "Topic",
+      "label": "Prevalence"
+    },
+    {
+      "id": "TOP_GENDER",
+      "type": "Topic",
+      "label": "Gender"
+    },
+    {
+      "id": "TOP_VN",
+      "type": "Topic",
+      "label": "Vn"
+    },
+    {
+      "id": "TOP_LMIC",
+      "type": "Topic",
+      "label": "Lmic"
+    },
+    {
+      "id": "AU_KARASU_TB",
+      "type": "Author",
+      "label": "T. Byram Karasu",
+      "surname": "Karasu",
+      "given": "T. Byram",
+      "is_vietnamese": "False",
+      "n_papers": 2,
+      "country_hint": "USA",
+      "affiliation": "Albert Einstein College of Medicine",
+      "titles": "Silverman Professor and Chairman, Dept of Psychiatry & Behavioral Sciences; Distinguished Life Fellow APA; Editor-in-Chief emeritus AJ Psychotherapy",
+      "birth_year": "1935",
+      "verification": "PDF bio sketch + Encyclopedia.com (07/06/2026)"
+    },
+    {
+      "id": "AU_ROSE_AJ",
+      "type": "Author",
+      "label": "Amanda J. Rose",
+      "surname": "Rose",
+      "given": "Amanda J.",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "USA",
+      "concept": "Co-rumination hypothesis",
+      "verification": "PubMed PMID 12487497"
+    },
+    {
+      "id": "AU_STANKOV_L",
+      "type": "Author",
+      "label": "Lazar Stankov",
+      "surname": "Stankov",
+      "given": "Lazar",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "Australia",
+      "concept": "Confucian academic culture",
+      "verification": "ERIC EJ905763 + ScienceDirect"
+    },
+    {
+      "id": "AU_SMALL_S",
+      "type": "Author",
+      "label": "Stuart Small",
+      "surname": "Small",
+      "given": "Stuart",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "USA",
+      "verification": "PMC PMC7820702"
+    },
+    {
+      "id": "AU_BLANC_J",
+      "type": "Author",
+      "label": "Judite Blanc",
+      "surname": "Blanc",
+      "given": "Judite",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "USA",
+      "verification": "PMC PMC7820702"
+    },
+    {
+      "id": "AU_FIRST_MB",
+      "type": "Author",
+      "label": "Michael B. First",
+      "surname": "First",
+      "given": "Michael B.",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "USA",
+      "verification": "PMC PMC9077590 (DSM-5-TR overview)"
+    },
+    {
+      "id": "AU_PEZZELLA_P",
+      "type": "Author",
+      "label": "Pasquale Pezzella",
+      "surname": "Pezzella",
+      "given": "Pasquale",
+      "is_vietnamese": "False",
+      "n_papers": 1,
+      "country_hint": "Italy",
+      "verification": "PMC PMC9077598 (ICD-11 effective announcement)"
+    },
+    {
+      "id": "PA_KARASU_1986_AJPSY",
+      "type": "Paper",
+      "label": "Karasu 1986 — The psychotherapies: benefits and limitations",
+      "authors": [
+        "AU_KARASU_TB"
+      ],
+      "journal": "American Journal of Psychotherapy",
+      "volume": "40",
+      "issue": "3",
+      "pages": "324-342",
+      "year": 1986,
+      "pmid": "3094389",
+      "doi": "10.1176/appi.psychotherapy.1986.40.3.324",
+      "key_finding": "\"over 450 types polled nationwide\" (page 325) — CONFIRMED nguyên văn từ PDF",
+      "pdf_path": "02_Papers-goc/karasu1986.pdf",
+      "verification_status": "PRIMARY_VERIFIED"
+    },
+    {
+      "id": "PA_KARASU_1986_AJP",
+      "type": "Paper",
+      "label": "Karasu 1986 — The specificity vs nonspecificity dilemma",
+      "authors": [
+        "AU_KARASU_TB"
+      ],
+      "journal": "American Journal of Psychiatry",
+      "volume": "143",
+      "issue": "6",
+      "pages": "687-695",
+      "year": 1986,
+      "pmid": "3717390",
+      "note": "Bài KHÁC cùng năm 1986 — không phải nguồn của 450+",
+      "verification_status": "PUBMED_VERIFIED"
+    },
+    {
+      "id": "PA_ROSE_2002",
+      "type": "Paper",
+      "label": "Rose 2002 — Co-rumination in the friendships of girls and boys",
+      "authors": [
+        "AU_ROSE_AJ"
+      ],
+      "journal": "Child Development",
+      "volume": "73",
+      "issue": "6",
+      "pages": "1830-1843",
+      "year": 2002,
+      "pmid": "12487497",
+      "doi": "10.1111/1467-8624.00509",
+      "key_concept": "Co-rumination hypothesis",
+      "verification_status": "PUBMED_VERIFIED"
+    },
+    {
+      "id": "PA_STANKOV_2010",
+      "type": "Paper",
+      "label": "Stankov 2010 — Unforgiving Confucian culture",
+      "authors": [
+        "AU_STANKOV_L"
+      ],
+      "journal": "Learning and Individual Differences",
+      "volume": "20",
+      "issue": "6",
+      "pages": "555-563",
+      "year": 2010,
+      "doi": "10.1016/j.lindif.2010.05.003",
+      "key_concept": "Confucian academic culture, test anxiety, self-doubt",
+      "verification_status": "ERIC_VERIFIED"
+    },
+    {
+      "id": "PA_SMALL_BLANC_2021",
+      "type": "Paper",
+      "label": "Small & Blanc 2021 — Tam Giao Vietnam",
+      "authors": [
+        "AU_SMALL_S",
+        "AU_BLANC_J"
+      ],
+      "journal": "Frontiers in Psychiatry",
+      "volume": "11",
+      "pages": "589618",
+      "year": 2021,
+      "doi": "10.3389/fpsyt.2020.589618",
+      "key_concept": "Tam giao (Confucianism + Buddhism + Taoism); cultural additivity",
+      "verification_status": "PMC_FULLTEXT_VERIFIED"
+    },
+    {
+      "id": "PA_FIRST_2022",
+      "type": "Paper",
+      "label": "First et al 2022 — DSM-5-TR overview",
+      "authors": [
+        "AU_FIRST_MB"
+      ],
+      "journal": "World Psychiatry",
+      "volume": "21",
+      "issue": "2",
+      "pages": "218-219",
+      "year": 2022,
+      "doi": "10.1002/wps.20989",
+      "key_finding": "DSM-5 + 3 new diagnoses + 70 modified criteria sets",
+      "verification_status": "PMC_VERIFIED"
+    },
+    {
+      "id": "PA_PEZZELLA_2022",
+      "type": "Paper",
+      "label": "Pezzella 2022 — ICD-11 now officially in effect",
+      "authors": [
+        "AU_PEZZELLA_P"
+      ],
+      "journal": "World Psychiatry",
+      "volume": "21",
+      "issue": "2",
+      "pages": "331-332",
+      "year": 2022,
+      "doi": "10.1002/wps.20982",
+      "key_finding": "ICD-11 effective globally 01/01/2022",
+      "verification_status": "PMC_VERIFIED"
+    },
+    {
+      "id": "TP_PSYCHOTHERAPY_SCHOOLS",
+      "type": "Topic",
+      "label": "Number of psychotherapy schools",
+      "description": "Karasu 1986 reported \"over 450 types\"; common misattribution as \"400+\""
+    },
+    {
+      "id": "TP_CONFUCIAN_CULTURE",
+      "type": "Topic",
+      "label": "Confucian academic culture",
+      "description": "Stankov 2010: high achievement + test anxiety + self-doubt nexus"
+    },
+    {
+      "id": "TP_CORUMINATION",
+      "type": "Topic",
+      "label": "Co-rumination hypothesis",
+      "description": "Rose 2002: peer disclosure amplifying worry vs dissipating it"
+    },
+    {
+      "id": "TP_TAM_GIAO",
+      "type": "Topic",
+      "label": "Tam Giao (Vietnamese cultural framework)",
+      "description": "Small & Blanc 2021: Confucianism+Buddhism+Taoism cultural additivity in Vietnam"
+    },
+    {
+      "id": "TP_DSM_ICD_CLASSIFICATION",
+      "type": "Topic",
+      "label": "DSM/ICD classification systems",
+      "description": "DSM-5 (237), DSM-5-TR (240+), ICD-11 Chapter 06 (162 four-character categories, 18 groupings, effective 01/01/2022)"
+    }
+  ],
+  "edges": [
+    {
+      "source": "AU_JENKINS_JH",
+      "target": "AU_SANCHEZ_G",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT001",
+      "strength": 1
+    },
+    {
+      "source": "AU_JENKINS_JH",
+      "target": "AU_MILLER_EA",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT001",
+      "strength": 1
+    },
+    {
+      "source": "AU_JENKINS_JH",
+      "target": "AU_ALLANDE_NIS",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT001",
+      "strength": 1
+    },
+    {
+      "source": "AU_JENKINS_JH",
+      "target": "AU_URANO_G",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT001",
+      "strength": 1
+    },
+    {
+      "source": "AU_JENKINS_JH",
+      "target": "AU_PR_AJ",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT001",
+      "strength": 1
+    },
+    {
+      "source": "AU_JENKINS_JH",
+      "target": "COUNTRY_USA",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_SANCHEZ_G",
+      "target": "AU_JENKINS_JH",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT001",
+      "strength": 1
+    },
+    {
+      "source": "AU_SANCHEZ_G",
+      "target": "AU_MILLER_EA",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT001",
+      "strength": 1
+    },
+    {
+      "source": "AU_SANCHEZ_G",
+      "target": "AU_ALLANDE_NIS",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT001",
+      "strength": 1
+    },
+    {
+      "source": "AU_SANCHEZ_G",
+      "target": "AU_URANO_G",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT001",
+      "strength": 1
+    },
+    {
+      "source": "AU_SANCHEZ_G",
+      "target": "AU_PR_AJ",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT001",
+      "strength": 1
+    },
+    {
+      "source": "AU_SANCHEZ_G",
+      "target": "COUNTRY_USA",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_MILLER_EA",
+      "target": "AU_JENKINS_JH",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT001",
+      "strength": 1
+    },
+    {
+      "source": "AU_MILLER_EA",
+      "target": "AU_SANCHEZ_G",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT001",
+      "strength": 1
+    },
+    {
+      "source": "AU_MILLER_EA",
+      "target": "AU_ALLANDE_NIS",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT001",
+      "strength": 1
+    },
+    {
+      "source": "AU_MILLER_EA",
+      "target": "AU_URANO_G",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT001",
+      "strength": 1
+    },
+    {
+      "source": "AU_MILLER_EA",
+      "target": "AU_PR_AJ",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT001",
+      "strength": 1
+    },
+    {
+      "source": "AU_MILLER_EA",
+      "target": "COUNTRY_USA",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_ALLANDE_NIS",
+      "target": "AU_JENKINS_JH",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT001",
+      "strength": 1
+    },
+    {
+      "source": "AU_ALLANDE_NIS",
+      "target": "AU_SANCHEZ_G",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT001",
+      "strength": 1
+    },
+    {
+      "source": "AU_ALLANDE_NIS",
+      "target": "AU_MILLER_EA",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT001",
+      "strength": 1
+    },
+    {
+      "source": "AU_ALLANDE_NIS",
+      "target": "AU_URANO_G",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT001",
+      "strength": 1
+    },
+    {
+      "source": "AU_ALLANDE_NIS",
+      "target": "AU_PR_AJ",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT001",
+      "strength": 1
+    },
+    {
+      "source": "AU_ALLANDE_NIS",
+      "target": "COUNTRY_USA",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_URANO_G",
+      "target": "AU_JENKINS_JH",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT001",
+      "strength": 1
+    },
+    {
+      "source": "AU_URANO_G",
+      "target": "AU_SANCHEZ_G",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT001",
+      "strength": 1
+    },
+    {
+      "source": "AU_URANO_G",
+      "target": "AU_MILLER_EA",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT001",
+      "strength": 1
+    },
+    {
+      "source": "AU_URANO_G",
+      "target": "AU_ALLANDE_NIS",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT001",
+      "strength": 1
+    },
+    {
+      "source": "AU_URANO_G",
+      "target": "AU_PR_AJ",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT001",
+      "strength": 1
+    },
+    {
+      "source": "AU_URANO_G",
+      "target": "COUNTRY_USA",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_PR_AJ",
+      "target": "AU_JENKINS_JH",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT001",
+      "strength": 1
+    },
+    {
+      "source": "AU_PR_AJ",
+      "target": "AU_SANCHEZ_G",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT001",
+      "strength": 1
+    },
+    {
+      "source": "AU_PR_AJ",
+      "target": "AU_MILLER_EA",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT001",
+      "strength": 1
+    },
+    {
+      "source": "AU_PR_AJ",
+      "target": "AU_ALLANDE_NIS",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT001",
+      "strength": 1
+    },
+    {
+      "source": "AU_PR_AJ",
+      "target": "AU_URANO_G",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT001",
+      "strength": 1
+    },
+    {
+      "source": "AU_PR_AJ",
+      "target": "COUNTRY_USA",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_MANDAKNALLI_R",
+      "target": "AU_MALUSARE_R",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT003",
+      "strength": 1
+    },
+    {
+      "source": "AU_MALUSARE_R",
+      "target": "AU_MANDAKNALLI_R",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT003",
+      "strength": 1
+    },
+    {
+      "source": "AU_JENKINS_X",
+      "target": "COUNTRY_USA",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_ALHARBI_R",
+      "target": "AU_ALSUHAIBANI_K",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT005",
+      "strength": 1
+    },
+    {
+      "source": "AU_ALHARBI_R",
+      "target": "AU_ALMARSHAD_A",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT005",
+      "strength": 1
+    },
+    {
+      "source": "AU_ALHARBI_R",
+      "target": "AU_ALYAHYA_A",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT005",
+      "strength": 1
+    },
+    {
+      "source": "AU_ALHARBI_R",
+      "target": "COUNTRY_SAUDI_ARABIA",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_ALSUHAIBANI_K",
+      "target": "AU_ALHARBI_R",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT005",
+      "strength": 1
+    },
+    {
+      "source": "AU_ALSUHAIBANI_K",
+      "target": "AU_ALMARSHAD_A",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT005",
+      "strength": 1
+    },
+    {
+      "source": "AU_ALSUHAIBANI_K",
+      "target": "AU_ALYAHYA_A",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT005",
+      "strength": 1
+    },
+    {
+      "source": "AU_ALSUHAIBANI_K",
+      "target": "COUNTRY_SAUDI_ARABIA",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_ALMARSHAD_A",
+      "target": "AU_ALHARBI_R",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT005",
+      "strength": 1
+    },
+    {
+      "source": "AU_ALMARSHAD_A",
+      "target": "AU_ALSUHAIBANI_K",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT005",
+      "strength": 1
+    },
+    {
+      "source": "AU_ALMARSHAD_A",
+      "target": "AU_ALYAHYA_A",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT005",
+      "strength": 1
+    },
+    {
+      "source": "AU_ALMARSHAD_A",
+      "target": "COUNTRY_SAUDI_ARABIA",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_ALYAHYA_A",
+      "target": "AU_ALHARBI_R",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT005",
+      "strength": 1
+    },
+    {
+      "source": "AU_ALYAHYA_A",
+      "target": "AU_ALSUHAIBANI_K",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT005",
+      "strength": 1
+    },
+    {
+      "source": "AU_ALYAHYA_A",
+      "target": "AU_ALMARSHAD_A",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT005",
+      "strength": 1
+    },
+    {
+      "source": "AU_ALYAHYA_A",
+      "target": "COUNTRY_SAUDI_ARABIA",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_NAKIE_G",
+      "target": "AU_SEGON_T",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT006",
+      "strength": 1
+    },
+    {
+      "source": "AU_NAKIE_G",
+      "target": "AU_MELKAM_M",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT006",
+      "strength": 1
+    },
+    {
+      "source": "AU_NAKIE_G",
+      "target": "AU_DESALEGN_GT",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT006",
+      "strength": 1
+    },
+    {
+      "source": "AU_NAKIE_G",
+      "target": "AU_ZELEKE_TA",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT006",
+      "strength": 1
+    },
+    {
+      "source": "AU_NAKIE_G",
+      "target": "COUNTRY_ETHIOPIA",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_SEGON_T",
+      "target": "AU_NAKIE_G",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT006",
+      "strength": 1
+    },
+    {
+      "source": "AU_SEGON_T",
+      "target": "AU_MELKAM_M",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT006",
+      "strength": 1
+    },
+    {
+      "source": "AU_SEGON_T",
+      "target": "AU_DESALEGN_GT",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT006",
+      "strength": 1
+    },
+    {
+      "source": "AU_SEGON_T",
+      "target": "AU_ZELEKE_TA",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT006",
+      "strength": 1
+    },
+    {
+      "source": "AU_SEGON_T",
+      "target": "COUNTRY_ETHIOPIA",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_MELKAM_M",
+      "target": "AU_NAKIE_G",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT006",
+      "strength": 1
+    },
+    {
+      "source": "AU_MELKAM_M",
+      "target": "AU_SEGON_T",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT006",
+      "strength": 1
+    },
+    {
+      "source": "AU_MELKAM_M",
+      "target": "AU_DESALEGN_GT",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT006",
+      "strength": 1
+    },
+    {
+      "source": "AU_MELKAM_M",
+      "target": "AU_ZELEKE_TA",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT006",
+      "strength": 1
+    },
+    {
+      "source": "AU_MELKAM_M",
+      "target": "COUNTRY_ETHIOPIA",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_DESALEGN_GT",
+      "target": "AU_NAKIE_G",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT006",
+      "strength": 1
+    },
+    {
+      "source": "AU_DESALEGN_GT",
+      "target": "AU_SEGON_T",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT006",
+      "strength": 1
+    },
+    {
+      "source": "AU_DESALEGN_GT",
+      "target": "AU_MELKAM_M",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT006",
+      "strength": 1
+    },
+    {
+      "source": "AU_DESALEGN_GT",
+      "target": "AU_ZELEKE_TA",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT006",
+      "strength": 1
+    },
+    {
+      "source": "AU_DESALEGN_GT",
+      "target": "COUNTRY_ETHIOPIA",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_ZELEKE_TA",
+      "target": "AU_NAKIE_G",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT006",
+      "strength": 1
+    },
+    {
+      "source": "AU_ZELEKE_TA",
+      "target": "AU_SEGON_T",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT006",
+      "strength": 1
+    },
+    {
+      "source": "AU_ZELEKE_TA",
+      "target": "AU_MELKAM_M",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT006",
+      "strength": 1
+    },
+    {
+      "source": "AU_ZELEKE_TA",
+      "target": "AU_DESALEGN_GT",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT006",
+      "strength": 1
+    },
+    {
+      "source": "AU_ZELEKE_TA",
+      "target": "COUNTRY_ETHIOPIA",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_CHEN_Z",
+      "target": "AU_REN_S",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT007",
+      "strength": 1
+    },
+    {
+      "source": "AU_CHEN_Z",
+      "target": "AU_HE_R",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT007",
+      "strength": 1
+    },
+    {
+      "source": "AU_CHEN_Z",
+      "target": "COUNTRY_CHINA",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_REN_S",
+      "target": "AU_CHEN_Z",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT007",
+      "strength": 1
+    },
+    {
+      "source": "AU_REN_S",
+      "target": "AU_HE_R",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT007",
+      "strength": 1
+    },
+    {
+      "source": "AU_REN_S",
+      "target": "COUNTRY_CHINA",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_HE_R",
+      "target": "AU_CHEN_Z",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT007",
+      "strength": 1
+    },
+    {
+      "source": "AU_HE_R",
+      "target": "AU_REN_S",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT007",
+      "strength": 1
+    },
+    {
+      "source": "AU_HE_R",
+      "target": "COUNTRY_CHINA",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_WEN_X",
+      "target": "COUNTRY_CHINA",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_QIU_Z",
+      "target": "AU_GUO_Y",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT009",
+      "strength": 1
+    },
+    {
+      "source": "AU_QIU_Z",
+      "target": "AU_WANG_J",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT009",
+      "strength": 1
+    },
+    {
+      "source": "AU_QIU_Z",
+      "target": "AU_ZHANG_H",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT009",
+      "strength": 1
+    },
+    {
+      "source": "AU_QIU_Z",
+      "target": "COUNTRY_CHINA",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_GUO_Y",
+      "target": "AU_QIU_Z",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT009",
+      "strength": 1
+    },
+    {
+      "source": "AU_GUO_Y",
+      "target": "AU_WANG_J",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT009",
+      "strength": 1
+    },
+    {
+      "source": "AU_GUO_Y",
+      "target": "AU_ZHANG_H",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT009",
+      "strength": 1
+    },
+    {
+      "source": "AU_GUO_Y",
+      "target": "COUNTRY_CHINA",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_WANG_J",
+      "target": "AU_QIU_Z",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT009",
+      "strength": 1
+    },
+    {
+      "source": "AU_WANG_J",
+      "target": "AU_GUO_Y",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT009",
+      "strength": 1
+    },
+    {
+      "source": "AU_WANG_J",
+      "target": "AU_ZHANG_H",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT009",
+      "strength": 1
+    },
+    {
+      "source": "AU_WANG_J",
+      "target": "COUNTRY_CHINA",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_ZHANG_H",
+      "target": "AU_QIU_Z",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT009",
+      "strength": 1
+    },
+    {
+      "source": "AU_ZHANG_H",
+      "target": "AU_GUO_Y",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT009",
+      "strength": 1
+    },
+    {
+      "source": "AU_ZHANG_H",
+      "target": "AU_WANG_J",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT009",
+      "strength": 1
+    },
+    {
+      "source": "AU_ZHANG_H",
+      "target": "COUNTRY_CHINA",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_XU_Q",
+      "target": "COUNTRY_CHINA",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_BHARDWAJ_R",
+      "target": "COUNTRY_INDIA",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU__GAC",
+      "target": "AU_DANG_TTLPHV",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT012",
+      "strength": 1
+    },
+    {
+      "source": "AU_DANG_TTLPHV",
+      "target": "AU__GAC",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT012",
+      "strength": 1
+    },
+    {
+      "source": "AU_SZD_Y",
+      "target": "AU_MK_L",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT013",
+      "strength": 1
+    },
+    {
+      "source": "AU_SZD_Y",
+      "target": "AU_MP_M",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT013",
+      "strength": 1
+    },
+    {
+      "source": "AU_SZD_Y",
+      "target": "TOP_LMIC",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_MK_L",
+      "target": "AU_SZD_Y",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT013",
+      "strength": 1
+    },
+    {
+      "source": "AU_MK_L",
+      "target": "AU_MP_M",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT013",
+      "strength": 1
+    },
+    {
+      "source": "AU_MK_L",
+      "target": "TOP_LMIC",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_MP_M",
+      "target": "AU_SZD_Y",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT013",
+      "strength": 1
+    },
+    {
+      "source": "AU_MP_M",
+      "target": "AU_MK_L",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT013",
+      "strength": 1
+    },
+    {
+      "source": "AU_MP_M",
+      "target": "TOP_LMIC",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_ZHU_X",
+      "target": "COUNTRY_CHINA",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_PUYAT_X",
+      "target": "COUNTRY_PHILIPPINES",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_PUYAT_X",
+      "target": "TOP_ADOLESCENT",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_BRUNBORG_GS",
+      "target": "AU_NILSEN_SA",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT021",
+      "strength": 1
+    },
+    {
+      "source": "AU_BRUNBORG_GS",
+      "target": "AU_SKOGEN_JC",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT021",
+      "strength": 1
+    },
+    {
+      "source": "AU_BRUNBORG_GS",
+      "target": "AU_BANG_L",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT021",
+      "strength": 1
+    },
+    {
+      "source": "AU_BRUNBORG_GS",
+      "target": "COUNTRY_NORWAY",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_NILSEN_SA",
+      "target": "AU_BRUNBORG_GS",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT021",
+      "strength": 1
+    },
+    {
+      "source": "AU_NILSEN_SA",
+      "target": "AU_SKOGEN_JC",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT021",
+      "strength": 1
+    },
+    {
+      "source": "AU_NILSEN_SA",
+      "target": "AU_BANG_L",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT021",
+      "strength": 1
+    },
+    {
+      "source": "AU_NILSEN_SA",
+      "target": "COUNTRY_NORWAY",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_SKOGEN_JC",
+      "target": "AU_BRUNBORG_GS",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT021",
+      "strength": 1
+    },
+    {
+      "source": "AU_SKOGEN_JC",
+      "target": "AU_NILSEN_SA",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT021",
+      "strength": 1
+    },
+    {
+      "source": "AU_SKOGEN_JC",
+      "target": "AU_BANG_L",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT021",
+      "strength": 1
+    },
+    {
+      "source": "AU_SKOGEN_JC",
+      "target": "COUNTRY_NORWAY",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_BANG_L",
+      "target": "AU_BRUNBORG_GS",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT021",
+      "strength": 1
+    },
+    {
+      "source": "AU_BANG_L",
+      "target": "AU_NILSEN_SA",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT021",
+      "strength": 1
+    },
+    {
+      "source": "AU_BANG_L",
+      "target": "AU_SKOGEN_JC",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT021",
+      "strength": 1
+    },
+    {
+      "source": "AU_BANG_L",
+      "target": "COUNTRY_NORWAY",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_MOJTABAI_R",
+      "target": "AU_OLFSON_M",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT023",
+      "strength": 1
+    },
+    {
+      "source": "AU_MOJTABAI_R",
+      "target": "COUNTRY_USA",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_OLFSON_M",
+      "target": "AU_MOJTABAI_R",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT023",
+      "strength": 1
+    },
+    {
+      "source": "AU_OLFSON_M",
+      "target": "COUNTRY_USA",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_CRISP_D",
+      "target": "AU_RICKWOOD_D",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT025",
+      "strength": 1
+    },
+    {
+      "source": "AU_CRISP_D",
+      "target": "AU_BURNS_R",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT025",
+      "strength": 1
+    },
+    {
+      "source": "AU_CRISP_D",
+      "target": "AU_BARIOLA_E",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT025",
+      "strength": 1
+    },
+    {
+      "source": "AU_CRISP_D",
+      "target": "COUNTRY_AUSTRALIA",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_CRISP_D",
+      "target": "TOP_ADOLESCENT",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_RICKWOOD_D",
+      "target": "AU_CRISP_D",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT025",
+      "strength": 1
+    },
+    {
+      "source": "AU_RICKWOOD_D",
+      "target": "AU_BURNS_R",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT025",
+      "strength": 1
+    },
+    {
+      "source": "AU_RICKWOOD_D",
+      "target": "AU_BARIOLA_E",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT025",
+      "strength": 1
+    },
+    {
+      "source": "AU_RICKWOOD_D",
+      "target": "COUNTRY_AUSTRALIA",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_RICKWOOD_D",
+      "target": "TOP_ADOLESCENT",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_BURNS_R",
+      "target": "AU_CRISP_D",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT025",
+      "strength": 1
+    },
+    {
+      "source": "AU_BURNS_R",
+      "target": "AU_RICKWOOD_D",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT025",
+      "strength": 1
+    },
+    {
+      "source": "AU_BURNS_R",
+      "target": "AU_BARIOLA_E",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT025",
+      "strength": 1
+    },
+    {
+      "source": "AU_BURNS_R",
+      "target": "COUNTRY_AUSTRALIA",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_BURNS_R",
+      "target": "TOP_ADOLESCENT",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_BARIOLA_E",
+      "target": "AU_CRISP_D",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT025",
+      "strength": 1
+    },
+    {
+      "source": "AU_BARIOLA_E",
+      "target": "AU_RICKWOOD_D",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT025",
+      "strength": 1
+    },
+    {
+      "source": "AU_BARIOLA_E",
+      "target": "AU_BURNS_R",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT025",
+      "strength": 1
+    },
+    {
+      "source": "AU_BARIOLA_E",
+      "target": "COUNTRY_AUSTRALIA",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_BARIOLA_E",
+      "target": "TOP_ADOLESCENT",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_BAKER_C",
+      "target": "AU_LIBRARY_HOC",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT026",
+      "strength": 1
+    },
+    {
+      "source": "AU_BAKER_C",
+      "target": "AU_PARLIAMENT_U",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT026",
+      "strength": 1
+    },
+    {
+      "source": "AU_BAKER_C",
+      "target": "COUNTRY_UK",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_BAKER_C",
+      "target": "TOP_ADOLESCENT",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_LIBRARY_HOC",
+      "target": "AU_BAKER_C",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT026",
+      "strength": 1
+    },
+    {
+      "source": "AU_LIBRARY_HOC",
+      "target": "AU_PARLIAMENT_U",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT026",
+      "strength": 1
+    },
+    {
+      "source": "AU_LIBRARY_HOC",
+      "target": "COUNTRY_UK",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_LIBRARY_HOC",
+      "target": "TOP_ADOLESCENT",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_PARLIAMENT_U",
+      "target": "AU_BAKER_C",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT026",
+      "strength": 1
+    },
+    {
+      "source": "AU_PARLIAMENT_U",
+      "target": "AU_LIBRARY_HOC",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT026",
+      "strength": 1
+    },
+    {
+      "source": "AU_PARLIAMENT_U",
+      "target": "COUNTRY_UK",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_PARLIAMENT_U",
+      "target": "TOP_ADOLESCENT",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_OR_YIUINPBSR",
+      "target": "TOP_CBT",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_DONGJUN_Z",
+      "target": "AU_MINGYUE_W",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT030",
+      "strength": 1
+    },
+    {
+      "source": "AU_MINGYUE_W",
+      "target": "AU_DONGJUN_Z",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT030",
+      "strength": 1
+    },
+    {
+      "source": "AU_PSYCHOLOGY_SO",
+      "target": "AU_DUBLIN_X",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT032",
+      "strength": 1
+    },
+    {
+      "source": "AU_PSYCHOLOGY_SO",
+      "target": "AU_IRELAND_X",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT032",
+      "strength": 1
+    },
+    {
+      "source": "AU_PSYCHOLOGY_SO",
+      "target": "COUNTRY_IRELAND",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_DUBLIN_X",
+      "target": "AU_PSYCHOLOGY_SO",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT032",
+      "strength": 1
+    },
+    {
+      "source": "AU_DUBLIN_X",
+      "target": "AU_IRELAND_X",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT032",
+      "strength": 1
+    },
+    {
+      "source": "AU_DUBLIN_X",
+      "target": "COUNTRY_IRELAND",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_IRELAND_X",
+      "target": "AU_PSYCHOLOGY_SO",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT032",
+      "strength": 1
+    },
+    {
+      "source": "AU_IRELAND_X",
+      "target": "AU_DUBLIN_X",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT032",
+      "strength": 1
+    },
+    {
+      "source": "AU_IRELAND_X",
+      "target": "COUNTRY_IRELAND",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_SCHMIDTPERSSON_J",
+      "target": "AU_RASMUSSEN_MGB",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT033",
+      "strength": 1
+    },
+    {
+      "source": "AU_SCHMIDTPERSSON_J",
+      "target": "AU_SRENSEN_SO",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT033",
+      "strength": 1
+    },
+    {
+      "source": "AU_SCHMIDTPERSSON_J",
+      "target": "AU_MORTENSEN_SR",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT033",
+      "strength": 1
+    },
+    {
+      "source": "AU_SCHMIDTPERSSON_J",
+      "target": "AU_OLESEN_LG",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT033",
+      "strength": 1
+    },
+    {
+      "source": "AU_RASMUSSEN_MGB",
+      "target": "AU_SCHMIDTPERSSON_J",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT033",
+      "strength": 1
+    },
+    {
+      "source": "AU_RASMUSSEN_MGB",
+      "target": "AU_SRENSEN_SO",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT033",
+      "strength": 1
+    },
+    {
+      "source": "AU_RASMUSSEN_MGB",
+      "target": "AU_MORTENSEN_SR",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT033",
+      "strength": 1
+    },
+    {
+      "source": "AU_RASMUSSEN_MGB",
+      "target": "AU_OLESEN_LG",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT033",
+      "strength": 1
+    },
+    {
+      "source": "AU_SRENSEN_SO",
+      "target": "AU_SCHMIDTPERSSON_J",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT033",
+      "strength": 1
+    },
+    {
+      "source": "AU_SRENSEN_SO",
+      "target": "AU_RASMUSSEN_MGB",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT033",
+      "strength": 1
+    },
+    {
+      "source": "AU_SRENSEN_SO",
+      "target": "AU_MORTENSEN_SR",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT033",
+      "strength": 1
+    },
+    {
+      "source": "AU_SRENSEN_SO",
+      "target": "AU_OLESEN_LG",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT033",
+      "strength": 1
+    },
+    {
+      "source": "AU_MORTENSEN_SR",
+      "target": "AU_SCHMIDTPERSSON_J",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT033",
+      "strength": 1
+    },
+    {
+      "source": "AU_MORTENSEN_SR",
+      "target": "AU_RASMUSSEN_MGB",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT033",
+      "strength": 1
+    },
+    {
+      "source": "AU_MORTENSEN_SR",
+      "target": "AU_SRENSEN_SO",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT033",
+      "strength": 1
+    },
+    {
+      "source": "AU_MORTENSEN_SR",
+      "target": "AU_OLESEN_LG",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT033",
+      "strength": 1
+    },
+    {
+      "source": "AU_OLESEN_LG",
+      "target": "AU_SCHMIDTPERSSON_J",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT033",
+      "strength": 1
+    },
+    {
+      "source": "AU_OLESEN_LG",
+      "target": "AU_RASMUSSEN_MGB",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT033",
+      "strength": 1
+    },
+    {
+      "source": "AU_OLESEN_LG",
+      "target": "AU_SRENSEN_SO",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT033",
+      "strength": 1
+    },
+    {
+      "source": "AU_OLESEN_LG",
+      "target": "AU_MORTENSEN_SR",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT033",
+      "strength": 1
+    },
+    {
+      "source": "AU_JEFFERIES_P",
+      "target": "AU_UNGAR_M",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT035",
+      "strength": 1
+    },
+    {
+      "source": "AU_JEFFERIES_P",
+      "target": "TOP_ANXIETY",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_UNGAR_M",
+      "target": "AU_JEFFERIES_P",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT035",
+      "strength": 1
+    },
+    {
+      "source": "AU_UNGAR_M",
+      "target": "TOP_ANXIETY",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_MOON_Y",
+      "target": "AU_WOO_H",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT036",
+      "strength": 1
+    },
+    {
+      "source": "AU_MOON_Y",
+      "target": "COUNTRY_KOREA",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_MOON_Y",
+      "target": "TOP_ANXIETY",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_WOO_H",
+      "target": "AU_MOON_Y",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT036",
+      "strength": 1
+    },
+    {
+      "source": "AU_WOO_H",
+      "target": "COUNTRY_KOREA",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_WOO_H",
+      "target": "TOP_ANXIETY",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_INCLUDED_UIOIACLTTMIMIN",
+      "target": "COUNTRY_SRI_LANKA",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_XIAN_J",
+      "target": "AU_ZHANG_Y",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT039",
+      "strength": 1
+    },
+    {
+      "source": "AU_XIAN_J",
+      "target": "AU_JIANG_B",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT039",
+      "strength": 1
+    },
+    {
+      "source": "AU_XIAN_J",
+      "target": "TOP_ANXIETY",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_ZHANG_Y",
+      "target": "AU_XIAN_J",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT039",
+      "strength": 1
+    },
+    {
+      "source": "AU_ZHANG_Y",
+      "target": "AU_JIANG_B",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT039",
+      "strength": 1
+    },
+    {
+      "source": "AU_ZHANG_Y",
+      "target": "TOP_ANXIETY",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_JIANG_B",
+      "target": "AU_XIAN_J",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT039",
+      "strength": 1
+    },
+    {
+      "source": "AU_JIANG_B",
+      "target": "AU_ZHANG_Y",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT039",
+      "strength": 1
+    },
+    {
+      "source": "AU_JIANG_B",
+      "target": "TOP_ANXIETY",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_DOC_LSL",
+      "target": "AU_TRICH_X",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT040",
+      "strength": 1
+    },
+    {
+      "source": "AU_DOC_LSL",
+      "target": "AU_DANH_GTLRMSDHGPTPTNTVK",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT040",
+      "strength": 1
+    },
+    {
+      "source": "AU_DOC_LSL",
+      "target": "AU_THIET_KVTQ",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT040",
+      "strength": 1
+    },
+    {
+      "source": "AU_DOC_LSL",
+      "target": "AU_CO_HDNVTH",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT040",
+      "strength": 1
+    },
+    {
+      "source": "AU_DOC_LSL",
+      "target": "AU_DOI_CVK",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT040",
+      "strength": 1
+    },
+    {
+      "source": "AU_DOC_LSL",
+      "target": "TOP_ANXIETY",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_DOC_LSL",
+      "target": "TOP_DIGITAL",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_TRICH_X",
+      "target": "AU_DOC_LSL",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT040",
+      "strength": 1
+    },
+    {
+      "source": "AU_TRICH_X",
+      "target": "AU_DANH_GTLRMSDHGPTPTNTVK",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT040",
+      "strength": 1
+    },
+    {
+      "source": "AU_TRICH_X",
+      "target": "AU_THIET_KVTQ",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT040",
+      "strength": 1
+    },
+    {
+      "source": "AU_TRICH_X",
+      "target": "AU_CO_HDNVTH",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT040",
+      "strength": 1
+    },
+    {
+      "source": "AU_TRICH_X",
+      "target": "AU_DOI_CVK",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT040",
+      "strength": 1
+    },
+    {
+      "source": "AU_TRICH_X",
+      "target": "TOP_ANXIETY",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_TRICH_X",
+      "target": "TOP_DIGITAL",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_DANH_GTLRMSDHGPTPTNTVK",
+      "target": "AU_DOC_LSL",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT040",
+      "strength": 1
+    },
+    {
+      "source": "AU_DANH_GTLRMSDHGPTPTNTVK",
+      "target": "AU_TRICH_X",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT040",
+      "strength": 1
+    },
+    {
+      "source": "AU_DANH_GTLRMSDHGPTPTNTVK",
+      "target": "AU_THIET_KVTQ",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT040",
+      "strength": 1
+    },
+    {
+      "source": "AU_DANH_GTLRMSDHGPTPTNTVK",
+      "target": "AU_CO_HDNVTH",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT040",
+      "strength": 1
+    },
+    {
+      "source": "AU_DANH_GTLRMSDHGPTPTNTVK",
+      "target": "AU_DOI_CVK",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT040",
+      "strength": 1
+    },
+    {
+      "source": "AU_DANH_GTLRMSDHGPTPTNTVK",
+      "target": "TOP_ANXIETY",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_DANH_GTLRMSDHGPTPTNTVK",
+      "target": "TOP_DIGITAL",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_THIET_KVTQ",
+      "target": "AU_DOC_LSL",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT040",
+      "strength": 1
+    },
+    {
+      "source": "AU_THIET_KVTQ",
+      "target": "AU_TRICH_X",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT040",
+      "strength": 1
+    },
+    {
+      "source": "AU_THIET_KVTQ",
+      "target": "AU_DANH_GTLRMSDHGPTPTNTVK",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT040",
+      "strength": 1
+    },
+    {
+      "source": "AU_THIET_KVTQ",
+      "target": "AU_CO_HDNVTH",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT040",
+      "strength": 1
+    },
+    {
+      "source": "AU_THIET_KVTQ",
+      "target": "AU_DOI_CVK",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT040",
+      "strength": 1
+    },
+    {
+      "source": "AU_THIET_KVTQ",
+      "target": "TOP_ANXIETY",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_THIET_KVTQ",
+      "target": "TOP_DIGITAL",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_CO_HDNVTH",
+      "target": "AU_DOC_LSL",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT040",
+      "strength": 1
+    },
+    {
+      "source": "AU_CO_HDNVTH",
+      "target": "AU_TRICH_X",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT040",
+      "strength": 1
+    },
+    {
+      "source": "AU_CO_HDNVTH",
+      "target": "AU_DANH_GTLRMSDHGPTPTNTVK",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT040",
+      "strength": 1
+    },
+    {
+      "source": "AU_CO_HDNVTH",
+      "target": "AU_THIET_KVTQ",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT040",
+      "strength": 1
+    },
+    {
+      "source": "AU_CO_HDNVTH",
+      "target": "AU_DOI_CVK",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT040",
+      "strength": 1
+    },
+    {
+      "source": "AU_CO_HDNVTH",
+      "target": "TOP_ANXIETY",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_CO_HDNVTH",
+      "target": "TOP_DIGITAL",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_DOI_CVK",
+      "target": "AU_DOC_LSL",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT040",
+      "strength": 1
+    },
+    {
+      "source": "AU_DOI_CVK",
+      "target": "AU_TRICH_X",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT040",
+      "strength": 1
+    },
+    {
+      "source": "AU_DOI_CVK",
+      "target": "AU_DANH_GTLRMSDHGPTPTNTVK",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT040",
+      "strength": 1
+    },
+    {
+      "source": "AU_DOI_CVK",
+      "target": "AU_THIET_KVTQ",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT040",
+      "strength": 1
+    },
+    {
+      "source": "AU_DOI_CVK",
+      "target": "AU_CO_HDNVTH",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT040",
+      "strength": 1
+    },
+    {
+      "source": "AU_DOI_CVK",
+      "target": "TOP_ANXIETY",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_DOI_CVK",
+      "target": "TOP_DIGITAL",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_ADDICTION_TEOSM",
+      "target": "AU_ACADEMIC_X",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT041",
+      "strength": 1
+    },
+    {
+      "source": "AU_ADDICTION_TEOSM",
+      "target": "COUNTRY_CHINA",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_ACADEMIC_X",
+      "target": "AU_ADDICTION_TEOSM",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT041",
+      "strength": 1
+    },
+    {
+      "source": "AU_ACADEMIC_X",
+      "target": "COUNTRY_CHINA",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_BRESS_JN",
+      "target": "AU_FALK_A",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT043",
+      "strength": 1
+    },
+    {
+      "source": "AU_BRESS_JN",
+      "target": "AU_SCHIER_MM",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT043",
+      "strength": 1
+    },
+    {
+      "source": "AU_BRESS_JN",
+      "target": "AU_JAYWANT_A",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT043",
+      "strength": 1
+    },
+    {
+      "source": "AU_BRESS_JN",
+      "target": "AU_MORONEY_E",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT043",
+      "strength": 1
+    },
+    {
+      "source": "AU_BRESS_JN",
+      "target": "AU_DARGIS_M",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT043",
+      "strength": 1
+    },
+    {
+      "source": "AU_BRESS_JN",
+      "target": "TOP_CBT",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_BRESS_JN",
+      "target": "TOP_DIGITAL",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_FALK_A",
+      "target": "AU_BRESS_JN",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT043",
+      "strength": 1
+    },
+    {
+      "source": "AU_FALK_A",
+      "target": "AU_SCHIER_MM",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT043",
+      "strength": 1
+    },
+    {
+      "source": "AU_FALK_A",
+      "target": "AU_JAYWANT_A",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT043",
+      "strength": 1
+    },
+    {
+      "source": "AU_FALK_A",
+      "target": "AU_MORONEY_E",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT043",
+      "strength": 1
+    },
+    {
+      "source": "AU_FALK_A",
+      "target": "AU_DARGIS_M",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT043",
+      "strength": 1
+    },
+    {
+      "source": "AU_FALK_A",
+      "target": "TOP_CBT",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_FALK_A",
+      "target": "TOP_DIGITAL",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_SCHIER_MM",
+      "target": "AU_BRESS_JN",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT043",
+      "strength": 1
+    },
+    {
+      "source": "AU_SCHIER_MM",
+      "target": "AU_FALK_A",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT043",
+      "strength": 1
+    },
+    {
+      "source": "AU_SCHIER_MM",
+      "target": "AU_JAYWANT_A",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT043",
+      "strength": 1
+    },
+    {
+      "source": "AU_SCHIER_MM",
+      "target": "AU_MORONEY_E",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT043",
+      "strength": 1
+    },
+    {
+      "source": "AU_SCHIER_MM",
+      "target": "AU_DARGIS_M",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT043",
+      "strength": 1
+    },
+    {
+      "source": "AU_SCHIER_MM",
+      "target": "TOP_CBT",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_SCHIER_MM",
+      "target": "TOP_DIGITAL",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_JAYWANT_A",
+      "target": "AU_BRESS_JN",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT043",
+      "strength": 1
+    },
+    {
+      "source": "AU_JAYWANT_A",
+      "target": "AU_FALK_A",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT043",
+      "strength": 1
+    },
+    {
+      "source": "AU_JAYWANT_A",
+      "target": "AU_SCHIER_MM",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT043",
+      "strength": 1
+    },
+    {
+      "source": "AU_JAYWANT_A",
+      "target": "AU_MORONEY_E",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT043",
+      "strength": 1
+    },
+    {
+      "source": "AU_JAYWANT_A",
+      "target": "AU_DARGIS_M",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT043",
+      "strength": 1
+    },
+    {
+      "source": "AU_JAYWANT_A",
+      "target": "TOP_CBT",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_JAYWANT_A",
+      "target": "TOP_DIGITAL",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_MORONEY_E",
+      "target": "AU_BRESS_JN",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT043",
+      "strength": 1
+    },
+    {
+      "source": "AU_MORONEY_E",
+      "target": "AU_FALK_A",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT043",
+      "strength": 1
+    },
+    {
+      "source": "AU_MORONEY_E",
+      "target": "AU_SCHIER_MM",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT043",
+      "strength": 1
+    },
+    {
+      "source": "AU_MORONEY_E",
+      "target": "AU_JAYWANT_A",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT043",
+      "strength": 1
+    },
+    {
+      "source": "AU_MORONEY_E",
+      "target": "AU_DARGIS_M",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT043",
+      "strength": 1
+    },
+    {
+      "source": "AU_MORONEY_E",
+      "target": "TOP_CBT",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_MORONEY_E",
+      "target": "TOP_DIGITAL",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_DARGIS_M",
+      "target": "AU_BRESS_JN",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT043",
+      "strength": 1
+    },
+    {
+      "source": "AU_DARGIS_M",
+      "target": "AU_FALK_A",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT043",
+      "strength": 1
+    },
+    {
+      "source": "AU_DARGIS_M",
+      "target": "AU_SCHIER_MM",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT043",
+      "strength": 1
+    },
+    {
+      "source": "AU_DARGIS_M",
+      "target": "AU_JAYWANT_A",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT043",
+      "strength": 1
+    },
+    {
+      "source": "AU_DARGIS_M",
+      "target": "AU_MORONEY_E",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT043",
+      "strength": 1
+    },
+    {
+      "source": "AU_DARGIS_M",
+      "target": "TOP_CBT",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_DARGIS_M",
+      "target": "TOP_DIGITAL",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_CHINH_CCTQHT",
+      "target": "TOP_RESILIENCE",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_PSYCHIATRY_C",
+      "target": "AU__HD",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT046",
+      "strength": 1
+    },
+    {
+      "source": "AU__HD",
+      "target": "AU_PSYCHIATRY_C",
+      "type": "CO_AUTHORED",
+      "shared_papers": "QT046",
+      "strength": 1
+    },
+    {
+      "source": "AU_CHAT_LBCNRTKPHNCĐVCĐHTTKRRTTĐN",
+      "target": "TOP_CBT",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_HOA_PT",
+      "target": "AU_DO_TT",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN001",
+      "strength": 1
+    },
+    {
+      "source": "AU_HOA_PT",
+      "target": "AU_NGUYEN_TL",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN001",
+      "strength": 1
+    },
+    {
+      "source": "AU_HOA_PT",
+      "target": "AU_NGO_AV",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN001",
+      "strength": 1
+    },
+    {
+      "source": "AU_HOA_PT",
+      "target": "COUNTRY_VIETNAM",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_HOA_PT",
+      "target": "TOP_VN",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_DO_TT",
+      "target": "AU_HOA_PT",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN001",
+      "strength": 1
+    },
+    {
+      "source": "AU_DO_TT",
+      "target": "AU_NGUYEN_TL",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN001",
+      "strength": 1
+    },
+    {
+      "source": "AU_DO_TT",
+      "target": "AU_NGO_AV",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN001",
+      "strength": 1
+    },
+    {
+      "source": "AU_DO_TT",
+      "target": "COUNTRY_VIETNAM",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_DO_TT",
+      "target": "TOP_VN",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_NGUYEN_TL",
+      "target": "AU_HOA_PT",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN001",
+      "strength": 1
+    },
+    {
+      "source": "AU_NGUYEN_TL",
+      "target": "AU_DO_TT",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN001",
+      "strength": 1
+    },
+    {
+      "source": "AU_NGUYEN_TL",
+      "target": "AU_NGO_AV",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN001",
+      "strength": 1
+    },
+    {
+      "source": "AU_NGUYEN_TL",
+      "target": "COUNTRY_VIETNAM",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_NGUYEN_TL",
+      "target": "TOP_VN",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_NGO_AV",
+      "target": "AU_HOA_PT",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN001",
+      "strength": 1
+    },
+    {
+      "source": "AU_NGO_AV",
+      "target": "AU_DO_TT",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN001",
+      "strength": 1
+    },
+    {
+      "source": "AU_NGO_AV",
+      "target": "AU_NGUYEN_TL",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN001",
+      "strength": 1
+    },
+    {
+      "source": "AU_NGO_AV",
+      "target": "AU_VU_TMH",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN015",
+      "strength": 1
+    },
+    {
+      "source": "AU_NGO_AV",
+      "target": "AU_DO_TBV",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN015",
+      "strength": 1
+    },
+    {
+      "source": "AU_NGO_AV",
+      "target": "AU_DUONG_AT",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN015",
+      "strength": 1
+    },
+    {
+      "source": "AU_NGO_AV",
+      "target": "AU_DO_ML",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN015",
+      "strength": 1
+    },
+    {
+      "source": "AU_NGO_AV",
+      "target": "AU_LE_TTT",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN015",
+      "strength": 1
+    },
+    {
+      "source": "AU_NGO_AV",
+      "target": "COUNTRY_VIETNAM",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_NGO_AV",
+      "target": "TOP_VN",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_VU_ML",
+      "target": "AU_NGUYEN_ĐVXHH",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN002",
+      "strength": 1
+    },
+    {
+      "source": "AU_VU_ML",
+      "target": "AU_VASS_X",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN002",
+      "strength": 1
+    },
+    {
+      "source": "AU_VU_ML",
+      "target": "AU_DAO_TKHXHHVN",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN002",
+      "strength": 1
+    },
+    {
+      "source": "AU_VU_ML",
+      "target": "COUNTRY_VIETNAM",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_VU_ML",
+      "target": "TOP_VN",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_VU_ML",
+      "target": "TOP_ADOLESCENT",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_NGUYEN_ĐVXHH",
+      "target": "AU_VU_ML",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN002",
+      "strength": 1
+    },
+    {
+      "source": "AU_NGUYEN_ĐVXHH",
+      "target": "AU_VASS_X",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN002",
+      "strength": 1
+    },
+    {
+      "source": "AU_NGUYEN_ĐVXHH",
+      "target": "AU_DAO_TKHXHHVN",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN002",
+      "strength": 1
+    },
+    {
+      "source": "AU_NGUYEN_ĐVXHH",
+      "target": "COUNTRY_VIETNAM",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_NGUYEN_ĐVXHH",
+      "target": "TOP_VN",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_NGUYEN_ĐVXHH",
+      "target": "TOP_ADOLESCENT",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_VASS_X",
+      "target": "AU_VU_ML",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN002",
+      "strength": 1
+    },
+    {
+      "source": "AU_VASS_X",
+      "target": "AU_NGUYEN_ĐVXHH",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN002",
+      "strength": 1
+    },
+    {
+      "source": "AU_VASS_X",
+      "target": "AU_DAO_TKHXHHVN",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN002",
+      "strength": 1
+    },
+    {
+      "source": "AU_VASS_X",
+      "target": "COUNTRY_VIETNAM",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_VASS_X",
+      "target": "TOP_VN",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_VASS_X",
+      "target": "TOP_ADOLESCENT",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_DAO_TKHXHHVN",
+      "target": "AU_VU_ML",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN002",
+      "strength": 1
+    },
+    {
+      "source": "AU_DAO_TKHXHHVN",
+      "target": "AU_NGUYEN_ĐVXHH",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN002",
+      "strength": 1
+    },
+    {
+      "source": "AU_DAO_TKHXHHVN",
+      "target": "AU_VASS_X",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN002",
+      "strength": 1
+    },
+    {
+      "source": "AU_DAO_TKHXHHVN",
+      "target": "COUNTRY_VIETNAM",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_DAO_TKHXHHVN",
+      "target": "TOP_VN",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_DAO_TKHXHHVN",
+      "target": "TOP_ADOLESCENT",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_PHAM_X",
+      "target": "COUNTRY_VIETNAM",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_PHAM_X",
+      "target": "TOP_VN",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_STRESS_LO",
+      "target": "AU_ANXIETY_X",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN014",
+      "strength": 1
+    },
+    {
+      "source": "AU_STRESS_LO",
+      "target": "COUNTRY_VIETNAM",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_STRESS_LO",
+      "target": "TOP_COVID",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_STRESS_LO",
+      "target": "TOP_VN",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_ANXIETY_X",
+      "target": "AU_STRESS_LO",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN014",
+      "strength": 1
+    },
+    {
+      "source": "AU_ANXIETY_X",
+      "target": "COUNTRY_VIETNAM",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_ANXIETY_X",
+      "target": "TOP_COVID",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_ANXIETY_X",
+      "target": "TOP_VN",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_VU_TMH",
+      "target": "AU_NGO_AV",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN015",
+      "strength": 1
+    },
+    {
+      "source": "AU_VU_TMH",
+      "target": "AU_DO_TBV",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN015",
+      "strength": 1
+    },
+    {
+      "source": "AU_VU_TMH",
+      "target": "AU_DUONG_AT",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN015",
+      "strength": 1
+    },
+    {
+      "source": "AU_VU_TMH",
+      "target": "AU_DO_ML",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN015",
+      "strength": 1
+    },
+    {
+      "source": "AU_VU_TMH",
+      "target": "AU_LE_TTT",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN015",
+      "strength": 1
+    },
+    {
+      "source": "AU_VU_TMH",
+      "target": "COUNTRY_VIETNAM",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_DO_TBV",
+      "target": "AU_NGO_AV",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN015",
+      "strength": 1
+    },
+    {
+      "source": "AU_DO_TBV",
+      "target": "AU_VU_TMH",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN015",
+      "strength": 1
+    },
+    {
+      "source": "AU_DO_TBV",
+      "target": "AU_DUONG_AT",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN015",
+      "strength": 1
+    },
+    {
+      "source": "AU_DO_TBV",
+      "target": "AU_DO_ML",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN015",
+      "strength": 1
+    },
+    {
+      "source": "AU_DO_TBV",
+      "target": "AU_LE_TTT",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN015",
+      "strength": 1
+    },
+    {
+      "source": "AU_DO_TBV",
+      "target": "COUNTRY_VIETNAM",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_DUONG_AT",
+      "target": "AU_NGO_AV",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN015",
+      "strength": 1
+    },
+    {
+      "source": "AU_DUONG_AT",
+      "target": "AU_VU_TMH",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN015",
+      "strength": 1
+    },
+    {
+      "source": "AU_DUONG_AT",
+      "target": "AU_DO_TBV",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN015",
+      "strength": 1
+    },
+    {
+      "source": "AU_DUONG_AT",
+      "target": "AU_DO_ML",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN015",
+      "strength": 1
+    },
+    {
+      "source": "AU_DUONG_AT",
+      "target": "AU_LE_TTT",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN015",
+      "strength": 1
+    },
+    {
+      "source": "AU_DUONG_AT",
+      "target": "COUNTRY_VIETNAM",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_DO_ML",
+      "target": "AU_NGO_AV",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN015",
+      "strength": 1
+    },
+    {
+      "source": "AU_DO_ML",
+      "target": "AU_VU_TMH",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN015",
+      "strength": 1
+    },
+    {
+      "source": "AU_DO_ML",
+      "target": "AU_DO_TBV",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN015",
+      "strength": 1
+    },
+    {
+      "source": "AU_DO_ML",
+      "target": "AU_DUONG_AT",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN015",
+      "strength": 1
+    },
+    {
+      "source": "AU_DO_ML",
+      "target": "AU_LE_TTT",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN015",
+      "strength": 1
+    },
+    {
+      "source": "AU_DO_ML",
+      "target": "COUNTRY_VIETNAM",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_LE_TTT",
+      "target": "AU_NGO_AV",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN015",
+      "strength": 1
+    },
+    {
+      "source": "AU_LE_TTT",
+      "target": "AU_VU_TMH",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN015",
+      "strength": 1
+    },
+    {
+      "source": "AU_LE_TTT",
+      "target": "AU_DO_TBV",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN015",
+      "strength": 1
+    },
+    {
+      "source": "AU_LE_TTT",
+      "target": "AU_DUONG_AT",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN015",
+      "strength": 1
+    },
+    {
+      "source": "AU_LE_TTT",
+      "target": "AU_DO_ML",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN015",
+      "strength": 1
+    },
+    {
+      "source": "AU_LE_TTT",
+      "target": "COUNTRY_VIETNAM",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_NGUYEN_NBQ",
+      "target": "AU_LUU_MĐ",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN016",
+      "strength": 1
+    },
+    {
+      "source": "AU_NGUYEN_NBQ",
+      "target": "AU_VU_MT",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN016",
+      "strength": 1
+    },
+    {
+      "source": "AU_NGUYEN_NBQ",
+      "target": "AU_NGUYEN_YM",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN016",
+      "strength": 1
+    },
+    {
+      "source": "AU_NGUYEN_NBQ",
+      "target": "AU_NGUYEN_CA",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN016",
+      "strength": 1
+    },
+    {
+      "source": "AU_NGUYEN_NBQ",
+      "target": "AU_HOANG_LV",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN016",
+      "strength": 1
+    },
+    {
+      "source": "AU_NGUYEN_NBQ",
+      "target": "AU_GIAP_TTT",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN016",
+      "strength": 1
+    },
+    {
+      "source": "AU_NGUYEN_NBQ",
+      "target": "COUNTRY_VIETNAM",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_LUU_MĐ",
+      "target": "AU_NGUYEN_NBQ",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN016",
+      "strength": 1
+    },
+    {
+      "source": "AU_LUU_MĐ",
+      "target": "AU_VU_MT",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN016",
+      "strength": 1
+    },
+    {
+      "source": "AU_LUU_MĐ",
+      "target": "AU_NGUYEN_YM",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN016",
+      "strength": 1
+    },
+    {
+      "source": "AU_LUU_MĐ",
+      "target": "AU_NGUYEN_CA",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN016",
+      "strength": 1
+    },
+    {
+      "source": "AU_LUU_MĐ",
+      "target": "AU_HOANG_LV",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN016",
+      "strength": 1
+    },
+    {
+      "source": "AU_LUU_MĐ",
+      "target": "AU_GIAP_TTT",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN016",
+      "strength": 1
+    },
+    {
+      "source": "AU_LUU_MĐ",
+      "target": "COUNTRY_VIETNAM",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_VU_MT",
+      "target": "AU_NGUYEN_NBQ",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN016",
+      "strength": 1
+    },
+    {
+      "source": "AU_VU_MT",
+      "target": "AU_LUU_MĐ",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN016",
+      "strength": 1
+    },
+    {
+      "source": "AU_VU_MT",
+      "target": "AU_NGUYEN_YM",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN016",
+      "strength": 1
+    },
+    {
+      "source": "AU_VU_MT",
+      "target": "AU_NGUYEN_CA",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN016",
+      "strength": 1
+    },
+    {
+      "source": "AU_VU_MT",
+      "target": "AU_HOANG_LV",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN016",
+      "strength": 1
+    },
+    {
+      "source": "AU_VU_MT",
+      "target": "AU_GIAP_TTT",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN016",
+      "strength": 1
+    },
+    {
+      "source": "AU_VU_MT",
+      "target": "COUNTRY_VIETNAM",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_NGUYEN_YM",
+      "target": "AU_NGUYEN_NBQ",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN016",
+      "strength": 1
+    },
+    {
+      "source": "AU_NGUYEN_YM",
+      "target": "AU_LUU_MĐ",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN016",
+      "strength": 1
+    },
+    {
+      "source": "AU_NGUYEN_YM",
+      "target": "AU_VU_MT",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN016",
+      "strength": 1
+    },
+    {
+      "source": "AU_NGUYEN_YM",
+      "target": "AU_NGUYEN_CA",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN016",
+      "strength": 1
+    },
+    {
+      "source": "AU_NGUYEN_YM",
+      "target": "AU_HOANG_LV",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN016",
+      "strength": 1
+    },
+    {
+      "source": "AU_NGUYEN_YM",
+      "target": "AU_GIAP_TTT",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN016",
+      "strength": 1
+    },
+    {
+      "source": "AU_NGUYEN_YM",
+      "target": "COUNTRY_VIETNAM",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_NGUYEN_CA",
+      "target": "AU_NGUYEN_NBQ",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN016",
+      "strength": 1
+    },
+    {
+      "source": "AU_NGUYEN_CA",
+      "target": "AU_LUU_MĐ",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN016",
+      "strength": 1
+    },
+    {
+      "source": "AU_NGUYEN_CA",
+      "target": "AU_VU_MT",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN016",
+      "strength": 1
+    },
+    {
+      "source": "AU_NGUYEN_CA",
+      "target": "AU_NGUYEN_YM",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN016",
+      "strength": 1
+    },
+    {
+      "source": "AU_NGUYEN_CA",
+      "target": "AU_HOANG_LV",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN016",
+      "strength": 1
+    },
+    {
+      "source": "AU_NGUYEN_CA",
+      "target": "AU_GIAP_TTT",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN016",
+      "strength": 1
+    },
+    {
+      "source": "AU_NGUYEN_CA",
+      "target": "COUNTRY_VIETNAM",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_HOANG_LV",
+      "target": "AU_NGUYEN_NBQ",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN016",
+      "strength": 1
+    },
+    {
+      "source": "AU_HOANG_LV",
+      "target": "AU_LUU_MĐ",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN016",
+      "strength": 1
+    },
+    {
+      "source": "AU_HOANG_LV",
+      "target": "AU_VU_MT",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN016",
+      "strength": 1
+    },
+    {
+      "source": "AU_HOANG_LV",
+      "target": "AU_NGUYEN_YM",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN016",
+      "strength": 1
+    },
+    {
+      "source": "AU_HOANG_LV",
+      "target": "AU_NGUYEN_CA",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN016",
+      "strength": 1
+    },
+    {
+      "source": "AU_HOANG_LV",
+      "target": "AU_GIAP_TTT",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN016",
+      "strength": 1
+    },
+    {
+      "source": "AU_HOANG_LV",
+      "target": "COUNTRY_VIETNAM",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_GIAP_TTT",
+      "target": "AU_NGUYEN_NBQ",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN016",
+      "strength": 1
+    },
+    {
+      "source": "AU_GIAP_TTT",
+      "target": "AU_LUU_MĐ",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN016",
+      "strength": 1
+    },
+    {
+      "source": "AU_GIAP_TTT",
+      "target": "AU_VU_MT",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN016",
+      "strength": 1
+    },
+    {
+      "source": "AU_GIAP_TTT",
+      "target": "AU_NGUYEN_YM",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN016",
+      "strength": 1
+    },
+    {
+      "source": "AU_GIAP_TTT",
+      "target": "AU_NGUYEN_CA",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN016",
+      "strength": 1
+    },
+    {
+      "source": "AU_GIAP_TTT",
+      "target": "AU_HOANG_LV",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN016",
+      "strength": 1
+    },
+    {
+      "source": "AU_GIAP_TTT",
+      "target": "COUNTRY_VIETNAM",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_HO_TTQ",
+      "target": "COUNTRY_VIETNAM",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_HO_TTQ",
+      "target": "TOP_VN",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_TRAN_HVL",
+      "target": "AU_HUYNH_NVA",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN020",
+      "strength": 1
+    },
+    {
+      "source": "AU_TRAN_HVL",
+      "target": "AU_TO_GK",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN020",
+      "strength": 1
+    },
+    {
+      "source": "AU_TRAN_HVL",
+      "target": "COUNTRY_VIETNAM",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_TRAN_HVL",
+      "target": "TOP_ANXIETY",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_TRAN_HVL",
+      "target": "TOP_VN",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_HUYNH_NVA",
+      "target": "AU_TRAN_HVL",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN020",
+      "strength": 1
+    },
+    {
+      "source": "AU_HUYNH_NVA",
+      "target": "AU_TO_GK",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN020",
+      "strength": 1
+    },
+    {
+      "source": "AU_HUYNH_NVA",
+      "target": "COUNTRY_VIETNAM",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_HUYNH_NVA",
+      "target": "TOP_ANXIETY",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_HUYNH_NVA",
+      "target": "TOP_VN",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_TO_GK",
+      "target": "AU_TRAN_HVL",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN020",
+      "strength": 1
+    },
+    {
+      "source": "AU_TO_GK",
+      "target": "AU_HUYNH_NVA",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN020",
+      "strength": 1
+    },
+    {
+      "source": "AU_TO_GK",
+      "target": "COUNTRY_VIETNAM",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_TO_GK",
+      "target": "TOP_ANXIETY",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_TO_GK",
+      "target": "TOP_VN",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_TRAN_TV",
+      "target": "AU_HOANG_TLN",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN021",
+      "strength": 1
+    },
+    {
+      "source": "AU_TRAN_TV",
+      "target": "AU_TRAN_XMT",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN021",
+      "strength": 1
+    },
+    {
+      "source": "AU_TRAN_TV",
+      "target": "AU_TASHIRO_Y",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN021",
+      "strength": 1
+    },
+    {
+      "source": "AU_TRAN_TV",
+      "target": "AU_SEINO_K",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN021",
+      "strength": 1
+    },
+    {
+      "source": "AU_TRAN_TV",
+      "target": "AU_VO_TV",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN021",
+      "strength": 1
+    },
+    {
+      "source": "AU_TRAN_TV",
+      "target": "AU_NAKAMURA_K",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN021",
+      "strength": 1
+    },
+    {
+      "source": "AU_TRAN_TV",
+      "target": "COUNTRY_VIETNAM",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_TRAN_TV",
+      "target": "TOP_VN",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_HOANG_TLN",
+      "target": "AU_TRAN_TV",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN021",
+      "strength": 1
+    },
+    {
+      "source": "AU_HOANG_TLN",
+      "target": "AU_TRAN_XMT",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN021",
+      "strength": 1
+    },
+    {
+      "source": "AU_HOANG_TLN",
+      "target": "AU_TASHIRO_Y",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN021",
+      "strength": 1
+    },
+    {
+      "source": "AU_HOANG_TLN",
+      "target": "AU_SEINO_K",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN021",
+      "strength": 1
+    },
+    {
+      "source": "AU_HOANG_TLN",
+      "target": "AU_VO_TV",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN021",
+      "strength": 1
+    },
+    {
+      "source": "AU_HOANG_TLN",
+      "target": "AU_NAKAMURA_K",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN021",
+      "strength": 1
+    },
+    {
+      "source": "AU_HOANG_TLN",
+      "target": "COUNTRY_VIETNAM",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_HOANG_TLN",
+      "target": "TOP_VN",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_TRAN_XMT",
+      "target": "AU_TRAN_TV",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN021",
+      "strength": 1
+    },
+    {
+      "source": "AU_TRAN_XMT",
+      "target": "AU_HOANG_TLN",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN021",
+      "strength": 1
+    },
+    {
+      "source": "AU_TRAN_XMT",
+      "target": "AU_TASHIRO_Y",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN021",
+      "strength": 1
+    },
+    {
+      "source": "AU_TRAN_XMT",
+      "target": "AU_SEINO_K",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN021",
+      "strength": 1
+    },
+    {
+      "source": "AU_TRAN_XMT",
+      "target": "AU_VO_TV",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN021",
+      "strength": 1
+    },
+    {
+      "source": "AU_TRAN_XMT",
+      "target": "AU_NAKAMURA_K",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN021",
+      "strength": 1
+    },
+    {
+      "source": "AU_TRAN_XMT",
+      "target": "COUNTRY_VIETNAM",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_TRAN_XMT",
+      "target": "TOP_VN",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_TASHIRO_Y",
+      "target": "AU_TRAN_TV",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN021",
+      "strength": 1
+    },
+    {
+      "source": "AU_TASHIRO_Y",
+      "target": "AU_HOANG_TLN",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN021",
+      "strength": 1
+    },
+    {
+      "source": "AU_TASHIRO_Y",
+      "target": "AU_TRAN_XMT",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN021",
+      "strength": 1
+    },
+    {
+      "source": "AU_TASHIRO_Y",
+      "target": "AU_SEINO_K",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN021",
+      "strength": 1
+    },
+    {
+      "source": "AU_TASHIRO_Y",
+      "target": "AU_VO_TV",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN021",
+      "strength": 1
+    },
+    {
+      "source": "AU_TASHIRO_Y",
+      "target": "AU_NAKAMURA_K",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN021",
+      "strength": 1
+    },
+    {
+      "source": "AU_TASHIRO_Y",
+      "target": "COUNTRY_VIETNAM",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_TASHIRO_Y",
+      "target": "TOP_VN",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_SEINO_K",
+      "target": "AU_TRAN_TV",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN021",
+      "strength": 1
+    },
+    {
+      "source": "AU_SEINO_K",
+      "target": "AU_HOANG_TLN",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN021",
+      "strength": 1
+    },
+    {
+      "source": "AU_SEINO_K",
+      "target": "AU_TRAN_XMT",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN021",
+      "strength": 1
+    },
+    {
+      "source": "AU_SEINO_K",
+      "target": "AU_TASHIRO_Y",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN021",
+      "strength": 1
+    },
+    {
+      "source": "AU_SEINO_K",
+      "target": "AU_VO_TV",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN021",
+      "strength": 1
+    },
+    {
+      "source": "AU_SEINO_K",
+      "target": "AU_NAKAMURA_K",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN021",
+      "strength": 1
+    },
+    {
+      "source": "AU_SEINO_K",
+      "target": "COUNTRY_VIETNAM",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_SEINO_K",
+      "target": "TOP_VN",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_VO_TV",
+      "target": "AU_TRAN_TV",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN021",
+      "strength": 1
+    },
+    {
+      "source": "AU_VO_TV",
+      "target": "AU_HOANG_TLN",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN021",
+      "strength": 1
+    },
+    {
+      "source": "AU_VO_TV",
+      "target": "AU_TRAN_XMT",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN021",
+      "strength": 1
+    },
+    {
+      "source": "AU_VO_TV",
+      "target": "AU_TASHIRO_Y",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN021",
+      "strength": 1
+    },
+    {
+      "source": "AU_VO_TV",
+      "target": "AU_SEINO_K",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN021",
+      "strength": 1
+    },
+    {
+      "source": "AU_VO_TV",
+      "target": "AU_NAKAMURA_K",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN021",
+      "strength": 1
+    },
+    {
+      "source": "AU_VO_TV",
+      "target": "COUNTRY_VIETNAM",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_VO_TV",
+      "target": "TOP_VN",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_NAKAMURA_K",
+      "target": "AU_TRAN_TV",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN021",
+      "strength": 1
+    },
+    {
+      "source": "AU_NAKAMURA_K",
+      "target": "AU_HOANG_TLN",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN021",
+      "strength": 1
+    },
+    {
+      "source": "AU_NAKAMURA_K",
+      "target": "AU_TRAN_XMT",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN021",
+      "strength": 1
+    },
+    {
+      "source": "AU_NAKAMURA_K",
+      "target": "AU_TASHIRO_Y",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN021",
+      "strength": 1
+    },
+    {
+      "source": "AU_NAKAMURA_K",
+      "target": "AU_SEINO_K",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN021",
+      "strength": 1
+    },
+    {
+      "source": "AU_NAKAMURA_K",
+      "target": "AU_VO_TV",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN021",
+      "strength": 1
+    },
+    {
+      "source": "AU_NAKAMURA_K",
+      "target": "COUNTRY_VIETNAM",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_NAKAMURA_K",
+      "target": "TOP_VN",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_NGUYEN_HV",
+      "target": "AU_PHDC_X",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN023",
+      "strength": 1
+    },
+    {
+      "source": "AU_NGUYEN_HV",
+      "target": "AU_NGUYEN_LTM",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN023",
+      "strength": 1
+    },
+    {
+      "source": "AU_NGUYEN_HV",
+      "target": "AU_PHDD_X",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN023",
+      "strength": 1
+    },
+    {
+      "source": "AU_NGUYEN_HV",
+      "target": "AU_NGUYEN_PT",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN023",
+      "strength": 1
+    },
+    {
+      "source": "AU_NGUYEN_HV",
+      "target": "AU_MSA_X",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN023",
+      "strength": 1
+    },
+    {
+      "source": "AU_NGUYEN_HV",
+      "target": "AU_NGUYEN_TT",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN023",
+      "strength": 1
+    },
+    {
+      "source": "AU_NGUYEN_HV",
+      "target": "AU_PHDA_X",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN023",
+      "strength": 1
+    },
+    {
+      "source": "AU_NGUYEN_HV",
+      "target": "COUNTRY_VIETNAM",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_NGUYEN_HV",
+      "target": "TOP_COVID",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_NGUYEN_HV",
+      "target": "TOP_VN",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_PHDC_X",
+      "target": "AU_NGUYEN_HV",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN023",
+      "strength": 1
+    },
+    {
+      "source": "AU_PHDC_X",
+      "target": "AU_NGUYEN_LTM",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN023",
+      "strength": 1
+    },
+    {
+      "source": "AU_PHDC_X",
+      "target": "AU_PHDD_X",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN023",
+      "strength": 1
+    },
+    {
+      "source": "AU_PHDC_X",
+      "target": "AU_NGUYEN_PT",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN023",
+      "strength": 1
+    },
+    {
+      "source": "AU_PHDC_X",
+      "target": "AU_MSA_X",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN023",
+      "strength": 1
+    },
+    {
+      "source": "AU_PHDC_X",
+      "target": "AU_NGUYEN_TT",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN023",
+      "strength": 1
+    },
+    {
+      "source": "AU_PHDC_X",
+      "target": "AU_PHDA_X",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN023",
+      "strength": 1
+    },
+    {
+      "source": "AU_PHDC_X",
+      "target": "COUNTRY_VIETNAM",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_PHDC_X",
+      "target": "TOP_COVID",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_PHDC_X",
+      "target": "TOP_VN",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_NGUYEN_LTM",
+      "target": "AU_NGUYEN_HV",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN023",
+      "strength": 1
+    },
+    {
+      "source": "AU_NGUYEN_LTM",
+      "target": "AU_PHDC_X",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN023",
+      "strength": 1
+    },
+    {
+      "source": "AU_NGUYEN_LTM",
+      "target": "AU_PHDD_X",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN023",
+      "strength": 1
+    },
+    {
+      "source": "AU_NGUYEN_LTM",
+      "target": "AU_NGUYEN_PT",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN023",
+      "strength": 1
+    },
+    {
+      "source": "AU_NGUYEN_LTM",
+      "target": "AU_MSA_X",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN023",
+      "strength": 1
+    },
+    {
+      "source": "AU_NGUYEN_LTM",
+      "target": "AU_NGUYEN_TT",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN023",
+      "strength": 1
+    },
+    {
+      "source": "AU_NGUYEN_LTM",
+      "target": "AU_PHDA_X",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN023",
+      "strength": 1
+    },
+    {
+      "source": "AU_NGUYEN_LTM",
+      "target": "COUNTRY_VIETNAM",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_NGUYEN_LTM",
+      "target": "TOP_COVID",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_NGUYEN_LTM",
+      "target": "TOP_VN",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_PHDD_X",
+      "target": "AU_NGUYEN_HV",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN023",
+      "strength": 1
+    },
+    {
+      "source": "AU_PHDD_X",
+      "target": "AU_PHDC_X",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN023",
+      "strength": 1
+    },
+    {
+      "source": "AU_PHDD_X",
+      "target": "AU_NGUYEN_LTM",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN023",
+      "strength": 1
+    },
+    {
+      "source": "AU_PHDD_X",
+      "target": "AU_NGUYEN_PT",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN023",
+      "strength": 1
+    },
+    {
+      "source": "AU_PHDD_X",
+      "target": "AU_MSA_X",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN023",
+      "strength": 1
+    },
+    {
+      "source": "AU_PHDD_X",
+      "target": "AU_NGUYEN_TT",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN023",
+      "strength": 1
+    },
+    {
+      "source": "AU_PHDD_X",
+      "target": "AU_PHDA_X",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN023",
+      "strength": 1
+    },
+    {
+      "source": "AU_PHDD_X",
+      "target": "COUNTRY_VIETNAM",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_PHDD_X",
+      "target": "TOP_COVID",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_PHDD_X",
+      "target": "TOP_VN",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_NGUYEN_PT",
+      "target": "AU_NGUYEN_HV",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN023",
+      "strength": 1
+    },
+    {
+      "source": "AU_NGUYEN_PT",
+      "target": "AU_PHDC_X",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN023",
+      "strength": 1
+    },
+    {
+      "source": "AU_NGUYEN_PT",
+      "target": "AU_NGUYEN_LTM",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN023",
+      "strength": 1
+    },
+    {
+      "source": "AU_NGUYEN_PT",
+      "target": "AU_PHDD_X",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN023",
+      "strength": 1
+    },
+    {
+      "source": "AU_NGUYEN_PT",
+      "target": "AU_MSA_X",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN023",
+      "strength": 1
+    },
+    {
+      "source": "AU_NGUYEN_PT",
+      "target": "AU_NGUYEN_TT",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN023",
+      "strength": 1
+    },
+    {
+      "source": "AU_NGUYEN_PT",
+      "target": "AU_PHDA_X",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN023",
+      "strength": 1
+    },
+    {
+      "source": "AU_NGUYEN_PT",
+      "target": "COUNTRY_VIETNAM",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_NGUYEN_PT",
+      "target": "TOP_COVID",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_NGUYEN_PT",
+      "target": "TOP_VN",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_MSA_X",
+      "target": "AU_NGUYEN_HV",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN023",
+      "strength": 1
+    },
+    {
+      "source": "AU_MSA_X",
+      "target": "AU_PHDC_X",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN023",
+      "strength": 1
+    },
+    {
+      "source": "AU_MSA_X",
+      "target": "AU_NGUYEN_LTM",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN023",
+      "strength": 1
+    },
+    {
+      "source": "AU_MSA_X",
+      "target": "AU_PHDD_X",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN023",
+      "strength": 1
+    },
+    {
+      "source": "AU_MSA_X",
+      "target": "AU_NGUYEN_PT",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN023",
+      "strength": 1
+    },
+    {
+      "source": "AU_MSA_X",
+      "target": "AU_NGUYEN_TT",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN023",
+      "strength": 1
+    },
+    {
+      "source": "AU_MSA_X",
+      "target": "AU_PHDA_X",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN023",
+      "strength": 1
+    },
+    {
+      "source": "AU_MSA_X",
+      "target": "COUNTRY_VIETNAM",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_MSA_X",
+      "target": "TOP_COVID",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_MSA_X",
+      "target": "TOP_VN",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_NGUYEN_TT",
+      "target": "AU_NGUYEN_HV",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN023",
+      "strength": 1
+    },
+    {
+      "source": "AU_NGUYEN_TT",
+      "target": "AU_PHDC_X",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN023",
+      "strength": 1
+    },
+    {
+      "source": "AU_NGUYEN_TT",
+      "target": "AU_NGUYEN_LTM",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN023",
+      "strength": 1
+    },
+    {
+      "source": "AU_NGUYEN_TT",
+      "target": "AU_PHDD_X",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN023",
+      "strength": 1
+    },
+    {
+      "source": "AU_NGUYEN_TT",
+      "target": "AU_NGUYEN_PT",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN023",
+      "strength": 1
+    },
+    {
+      "source": "AU_NGUYEN_TT",
+      "target": "AU_MSA_X",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN023",
+      "strength": 1
+    },
+    {
+      "source": "AU_NGUYEN_TT",
+      "target": "AU_PHDA_X",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN023",
+      "strength": 1
+    },
+    {
+      "source": "AU_NGUYEN_TT",
+      "target": "COUNTRY_VIETNAM",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_NGUYEN_TT",
+      "target": "TOP_COVID",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_NGUYEN_TT",
+      "target": "TOP_VN",
+      "type": "STUDIES",
+      "paper_count": 2
+    },
+    {
+      "source": "AU_PHDA_X",
+      "target": "AU_NGUYEN_HV",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN023",
+      "strength": 1
+    },
+    {
+      "source": "AU_PHDA_X",
+      "target": "AU_PHDC_X",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN023",
+      "strength": 1
+    },
+    {
+      "source": "AU_PHDA_X",
+      "target": "AU_NGUYEN_LTM",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN023",
+      "strength": 1
+    },
+    {
+      "source": "AU_PHDA_X",
+      "target": "AU_PHDD_X",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN023",
+      "strength": 1
+    },
+    {
+      "source": "AU_PHDA_X",
+      "target": "AU_NGUYEN_PT",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN023",
+      "strength": 1
+    },
+    {
+      "source": "AU_PHDA_X",
+      "target": "AU_MSA_X",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN023",
+      "strength": 1
+    },
+    {
+      "source": "AU_PHDA_X",
+      "target": "AU_NGUYEN_TT",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN023",
+      "strength": 1
+    },
+    {
+      "source": "AU_PHDA_X",
+      "target": "COUNTRY_VIETNAM",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_PHDA_X",
+      "target": "TOP_COVID",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_PHDA_X",
+      "target": "TOP_VN",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_PHAM_TN",
+      "target": "AU_HOANG_TG",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN025",
+      "strength": 1
+    },
+    {
+      "source": "AU_PHAM_TN",
+      "target": "AU_PHAM_KL",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN025",
+      "strength": 1
+    },
+    {
+      "source": "AU_PHAM_TN",
+      "target": "AU_VU_TC",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN025",
+      "strength": 1
+    },
+    {
+      "source": "AU_PHAM_TN",
+      "target": "COUNTRY_VIETNAM",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_HOANG_TG",
+      "target": "AU_PHAM_TN",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN025",
+      "strength": 1
+    },
+    {
+      "source": "AU_HOANG_TG",
+      "target": "AU_PHAM_KL",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN025",
+      "strength": 1
+    },
+    {
+      "source": "AU_HOANG_TG",
+      "target": "AU_VU_TC",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN025",
+      "strength": 1
+    },
+    {
+      "source": "AU_HOANG_TG",
+      "target": "COUNTRY_VIETNAM",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_PHAM_KL",
+      "target": "AU_PHAM_TN",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN025",
+      "strength": 1
+    },
+    {
+      "source": "AU_PHAM_KL",
+      "target": "AU_HOANG_TG",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN025",
+      "strength": 1
+    },
+    {
+      "source": "AU_PHAM_KL",
+      "target": "AU_VU_TC",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN025",
+      "strength": 1
+    },
+    {
+      "source": "AU_PHAM_KL",
+      "target": "COUNTRY_VIETNAM",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_VU_TC",
+      "target": "AU_PHAM_TN",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN025",
+      "strength": 1
+    },
+    {
+      "source": "AU_VU_TC",
+      "target": "AU_HOANG_TG",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN025",
+      "strength": 1
+    },
+    {
+      "source": "AU_VU_TC",
+      "target": "AU_PHAM_KL",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN025",
+      "strength": 1
+    },
+    {
+      "source": "AU_VU_TC",
+      "target": "COUNTRY_VIETNAM",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_SINH_CTC",
+      "target": "AU_LO_Â",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN026",
+      "strength": 1
+    },
+    {
+      "source": "AU_SINH_CTC",
+      "target": "AU_STRESS_TĐBTPTA",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN026",
+      "strength": 1
+    },
+    {
+      "source": "AU_SINH_CTC",
+      "target": "AU_TINH_LALL",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN026",
+      "strength": 1
+    },
+    {
+      "source": "AU_SINH_CTC",
+      "target": "COUNTRY_VIETNAM",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_LO_Â",
+      "target": "AU_SINH_CTC",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN026",
+      "strength": 1
+    },
+    {
+      "source": "AU_LO_Â",
+      "target": "AU_STRESS_TĐBTPTA",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN026",
+      "strength": 1
+    },
+    {
+      "source": "AU_LO_Â",
+      "target": "AU_TINH_LALL",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN026",
+      "strength": 1
+    },
+    {
+      "source": "AU_LO_Â",
+      "target": "COUNTRY_VIETNAM",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_STRESS_TĐBTPTA",
+      "target": "AU_SINH_CTC",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN026",
+      "strength": 1
+    },
+    {
+      "source": "AU_STRESS_TĐBTPTA",
+      "target": "AU_LO_Â",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN026",
+      "strength": 1
+    },
+    {
+      "source": "AU_STRESS_TĐBTPTA",
+      "target": "AU_TINH_LALL",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN026",
+      "strength": 1
+    },
+    {
+      "source": "AU_STRESS_TĐBTPTA",
+      "target": "COUNTRY_VIETNAM",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_TINH_LALL",
+      "target": "AU_SINH_CTC",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN026",
+      "strength": 1
+    },
+    {
+      "source": "AU_TINH_LALL",
+      "target": "AU_LO_Â",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN026",
+      "strength": 1
+    },
+    {
+      "source": "AU_TINH_LALL",
+      "target": "AU_STRESS_TĐBTPTA",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN026",
+      "strength": 1
+    },
+    {
+      "source": "AU_TINH_LALL",
+      "target": "COUNTRY_VIETNAM",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_DINH_X",
+      "target": "COUNTRY_VIETNAM",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_DINH_X",
+      "target": "TOP_VN",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_DINH_X",
+      "target": "TOP_SCHOOL_INTERVENTION",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_DINH_X",
+      "target": "TOP_ADOLESCENT",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_DAO_TN",
+      "target": "COUNTRY_VIETNAM",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_THAI_TT",
+      "target": "AU_DUONG_MC",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN029",
+      "strength": 1
+    },
+    {
+      "source": "AU_THAI_TT",
+      "target": "COUNTRY_VIETNAM",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_THAI_TT",
+      "target": "TOP_VN",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_THAI_TT",
+      "target": "TOP_ADOLESCENT",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_DUONG_MC",
+      "target": "AU_THAI_TT",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN029",
+      "strength": 1
+    },
+    {
+      "source": "AU_DUONG_MC",
+      "target": "COUNTRY_VIETNAM",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_DUONG_MC",
+      "target": "TOP_VN",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_DUONG_MC",
+      "target": "TOP_ADOLESCENT",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_KHONG_ĐLÂR",
+      "target": "AU_KHONG_RPTDTMBCCTVTN",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN030",
+      "strength": 1
+    },
+    {
+      "source": "AU_KHONG_ĐLÂR",
+      "target": "COUNTRY_VIETNAM",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_KHONG_ĐLÂR",
+      "target": "TOP_SCHOOL_INTERVENTION",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_KHONG_ĐLÂR",
+      "target": "TOP_DIGITAL",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_KHONG_RPTDTMBCCTVTN",
+      "target": "AU_KHONG_ĐLÂR",
+      "type": "CO_AUTHORED",
+      "shared_papers": "VN030",
+      "strength": 1
+    },
+    {
+      "source": "AU_KHONG_RPTDTMBCCTVTN",
+      "target": "COUNTRY_VIETNAM",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "AU_KHONG_RPTDTMBCCTVTN",
+      "target": "TOP_SCHOOL_INTERVENTION",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "AU_KHONG_RPTDTMBCCTVTN",
+      "target": "TOP_DIGITAL",
+      "type": "STUDIES",
+      "paper_count": 1
+    },
+    {
+      "source": "QT001",
+      "target": "AU_JENKINS_JH",
+      "type": "AUTHORED_BY",
+      "position": 1,
+      "is_first_author": "True"
+    },
+    {
+      "source": "QT001",
+      "target": "AU_SANCHEZ_G",
+      "type": "AUTHORED_BY",
+      "position": 2,
+      "is_first_author": "False"
+    },
+    {
+      "source": "QT001",
+      "target": "AU_MILLER_EA",
+      "type": "AUTHORED_BY",
+      "position": 3,
+      "is_first_author": "False"
+    },
+    {
+      "source": "QT001",
+      "target": "AU_ALLANDE_NIS",
+      "type": "AUTHORED_BY",
+      "position": 4,
+      "is_first_author": "False"
+    },
+    {
+      "source": "QT001",
+      "target": "AU_URANO_G",
+      "type": "AUTHORED_BY",
+      "position": 5,
+      "is_first_author": "False"
+    },
+    {
+      "source": "QT001",
+      "target": "AU_PR_AJ",
+      "type": "AUTHORED_BY",
+      "position": 6,
+      "is_first_author": "False"
+    },
+    {
+      "source": "QT003",
+      "target": "AU_MANDAKNALLI_R",
+      "type": "AUTHORED_BY",
+      "position": 1,
+      "is_first_author": "True"
+    },
+    {
+      "source": "QT003",
+      "target": "AU_MALUSARE_R",
+      "type": "AUTHORED_BY",
+      "position": 2,
+      "is_first_author": "False"
+    },
+    {
+      "source": "QT004",
+      "target": "AU_JENKINS_X",
+      "type": "AUTHORED_BY",
+      "position": 1,
+      "is_first_author": "True"
+    },
+    {
+      "source": "QT005",
+      "target": "AU_ALHARBI_R",
+      "type": "AUTHORED_BY",
+      "position": 1,
+      "is_first_author": "True"
+    },
+    {
+      "source": "QT005",
+      "target": "AU_ALSUHAIBANI_K",
+      "type": "AUTHORED_BY",
+      "position": 2,
+      "is_first_author": "False"
+    },
+    {
+      "source": "QT005",
+      "target": "AU_ALMARSHAD_A",
+      "type": "AUTHORED_BY",
+      "position": 3,
+      "is_first_author": "False"
+    },
+    {
+      "source": "QT005",
+      "target": "AU_ALYAHYA_A",
+      "type": "AUTHORED_BY",
+      "position": 4,
+      "is_first_author": "False"
+    },
+    {
+      "source": "QT006",
+      "target": "AU_NAKIE_G",
+      "type": "AUTHORED_BY",
+      "position": 1,
+      "is_first_author": "True"
+    },
+    {
+      "source": "QT006",
+      "target": "AU_SEGON_T",
+      "type": "AUTHORED_BY",
+      "position": 2,
+      "is_first_author": "False"
+    },
+    {
+      "source": "QT006",
+      "target": "AU_MELKAM_M",
+      "type": "AUTHORED_BY",
+      "position": 3,
+      "is_first_author": "False"
+    },
+    {
+      "source": "QT006",
+      "target": "AU_DESALEGN_GT",
+      "type": "AUTHORED_BY",
+      "position": 4,
+      "is_first_author": "False"
+    },
+    {
+      "source": "QT006",
+      "target": "AU_ZELEKE_TA",
+      "type": "AUTHORED_BY",
+      "position": 5,
+      "is_first_author": "False"
+    },
+    {
+      "source": "QT007",
+      "target": "AU_CHEN_Z",
+      "type": "AUTHORED_BY",
+      "position": 1,
+      "is_first_author": "True"
+    },
+    {
+      "source": "QT007",
+      "target": "AU_REN_S",
+      "type": "AUTHORED_BY",
+      "position": 2,
+      "is_first_author": "False"
+    },
+    {
+      "source": "QT007",
+      "target": "AU_HE_R",
+      "type": "AUTHORED_BY",
+      "position": 3,
+      "is_first_author": "False"
+    },
+    {
+      "source": "QT008",
+      "target": "AU_WEN_X",
+      "type": "AUTHORED_BY",
+      "position": 1,
+      "is_first_author": "True"
+    },
+    {
+      "source": "QT009",
+      "target": "AU_QIU_Z",
+      "type": "AUTHORED_BY",
+      "position": 1,
+      "is_first_author": "True"
+    },
+    {
+      "source": "QT009",
+      "target": "AU_GUO_Y",
+      "type": "AUTHORED_BY",
+      "position": 2,
+      "is_first_author": "False"
+    },
+    {
+      "source": "QT009",
+      "target": "AU_WANG_J",
+      "type": "AUTHORED_BY",
+      "position": 3,
+      "is_first_author": "False"
+    },
+    {
+      "source": "QT009",
+      "target": "AU_ZHANG_H",
+      "type": "AUTHORED_BY",
+      "position": 4,
+      "is_first_author": "False"
+    },
+    {
+      "source": "QT010",
+      "target": "AU_XU_Q",
+      "type": "AUTHORED_BY",
+      "position": 1,
+      "is_first_author": "True"
+    },
+    {
+      "source": "QT011",
+      "target": "AU_BHARDWAJ_R",
+      "type": "AUTHORED_BY",
+      "position": 1,
+      "is_first_author": "True"
+    },
+    {
+      "source": "QT012",
+      "target": "AU__GAC",
+      "type": "AUTHORED_BY",
+      "position": 1,
+      "is_first_author": "True"
+    },
+    {
+      "source": "QT012",
+      "target": "AU_DANG_TTLPHV",
+      "type": "AUTHORED_BY",
+      "position": 2,
+      "is_first_author": "False"
+    },
+    {
+      "source": "QT013",
+      "target": "AU_SZD_Y",
+      "type": "AUTHORED_BY",
+      "position": 1,
+      "is_first_author": "True"
+    },
+    {
+      "source": "QT013",
+      "target": "AU_MK_L",
+      "type": "AUTHORED_BY",
+      "position": 2,
+      "is_first_author": "False"
+    },
+    {
+      "source": "QT013",
+      "target": "AU_MP_M",
+      "type": "AUTHORED_BY",
+      "position": 3,
+      "is_first_author": "False"
+    },
+    {
+      "source": "QT014",
+      "target": "AU_NURSING_AP",
+      "type": "AUTHORED_BY",
+      "position": 2,
+      "is_first_author": "False"
+    },
+    {
+      "source": "QT015",
+      "target": "AU_ZHU_X",
+      "type": "AUTHORED_BY",
+      "position": 1,
+      "is_first_author": "True"
+    },
+    {
+      "source": "QT016",
+      "target": "AU_MUDUNNA_X",
+      "type": "AUTHORED_BY",
+      "position": 1,
+      "is_first_author": "True"
+    },
+    {
+      "source": "QT017",
+      "target": "AU_PUYAT_X",
+      "type": "AUTHORED_BY",
+      "position": 1,
+      "is_first_author": "True"
+    },
+    {
+      "source": "QT021",
+      "target": "AU_BRUNBORG_GS",
+      "type": "AUTHORED_BY",
+      "position": 1,
+      "is_first_author": "True"
+    },
+    {
+      "source": "QT021",
+      "target": "AU_NILSEN_SA",
+      "type": "AUTHORED_BY",
+      "position": 2,
+      "is_first_author": "False"
+    },
+    {
+      "source": "QT021",
+      "target": "AU_SKOGEN_JC",
+      "type": "AUTHORED_BY",
+      "position": 3,
+      "is_first_author": "False"
+    },
+    {
+      "source": "QT021",
+      "target": "AU_BANG_L",
+      "type": "AUTHORED_BY",
+      "position": 4,
+      "is_first_author": "False"
+    },
+    {
+      "source": "QT022",
+      "target": "AU_SOCIETY_SLOBOBP",
+      "type": "AUTHORED_BY",
+      "position": 2,
+      "is_first_author": "False"
+    },
+    {
+      "source": "QT023",
+      "target": "AU_MOJTABAI_R",
+      "type": "AUTHORED_BY",
+      "position": 1,
+      "is_first_author": "True"
+    },
+    {
+      "source": "QT023",
+      "target": "AU_OLFSON_M",
+      "type": "AUTHORED_BY",
+      "position": 2,
+      "is_first_author": "False"
+    },
+    {
+      "source": "QT024",
+      "target": "AU_TARASENKO_A",
+      "type": "AUTHORED_BY",
+      "position": 1,
+      "is_first_author": "True"
+    },
+    {
+      "source": "QT025",
+      "target": "AU_CRISP_D",
+      "type": "AUTHORED_BY",
+      "position": 1,
+      "is_first_author": "True"
+    },
+    {
+      "source": "QT025",
+      "target": "AU_RICKWOOD_D",
+      "type": "AUTHORED_BY",
+      "position": 2,
+      "is_first_author": "False"
+    },
+    {
+      "source": "QT025",
+      "target": "AU_BURNS_R",
+      "type": "AUTHORED_BY",
+      "position": 3,
+      "is_first_author": "False"
+    },
+    {
+      "source": "QT025",
+      "target": "AU_BARIOLA_E",
+      "type": "AUTHORED_BY",
+      "position": 4,
+      "is_first_author": "False"
+    },
+    {
+      "source": "QT026",
+      "target": "AU_BAKER_C",
+      "type": "AUTHORED_BY",
+      "position": 1,
+      "is_first_author": "True"
+    },
+    {
+      "source": "QT026",
+      "target": "AU_LIBRARY_HOC",
+      "type": "AUTHORED_BY",
+      "position": 2,
+      "is_first_author": "False"
+    },
+    {
+      "source": "QT026",
+      "target": "AU_PARLIAMENT_U",
+      "type": "AUTHORED_BY",
+      "position": 3,
+      "is_first_author": "False"
+    },
+    {
+      "source": "QT029",
+      "target": "AU_OR_YIUINPBSR",
+      "type": "AUTHORED_BY",
+      "position": 2,
+      "is_first_author": "False"
+    },
+    {
+      "source": "QT030",
+      "target": "AU_DONGJUN_Z",
+      "type": "AUTHORED_BY",
+      "position": 1,
+      "is_first_author": "True"
+    },
+    {
+      "source": "QT030",
+      "target": "AU_MINGYUE_W",
+      "type": "AUTHORED_BY",
+      "position": 2,
+      "is_first_author": "False"
+    },
+    {
+      "source": "QT032",
+      "target": "AU_PSYCHOLOGY_SO",
+      "type": "AUTHORED_BY",
+      "position": 1,
+      "is_first_author": "True"
+    },
+    {
+      "source": "QT032",
+      "target": "AU_DUBLIN_X",
+      "type": "AUTHORED_BY",
+      "position": 2,
+      "is_first_author": "False"
+    },
+    {
+      "source": "QT032",
+      "target": "AU_IRELAND_X",
+      "type": "AUTHORED_BY",
+      "position": 3,
+      "is_first_author": "False"
+    },
+    {
+      "source": "QT033",
+      "target": "AU_SCHMIDTPERSSON_J",
+      "type": "AUTHORED_BY",
+      "position": 1,
+      "is_first_author": "True"
+    },
+    {
+      "source": "QT033",
+      "target": "AU_RASMUSSEN_MGB",
+      "type": "AUTHORED_BY",
+      "position": 3,
+      "is_first_author": "False"
+    },
+    {
+      "source": "QT033",
+      "target": "AU_SRENSEN_SO",
+      "type": "AUTHORED_BY",
+      "position": 5,
+      "is_first_author": "False"
+    },
+    {
+      "source": "QT033",
+      "target": "AU_MORTENSEN_SR",
+      "type": "AUTHORED_BY",
+      "position": 7,
+      "is_first_author": "False"
+    },
+    {
+      "source": "QT033",
+      "target": "AU_OLESEN_LG",
+      "type": "AUTHORED_BY",
+      "position": 9,
+      "is_first_author": "False"
+    },
+    {
+      "source": "QT035",
+      "target": "AU_JEFFERIES_P",
+      "type": "AUTHORED_BY",
+      "position": 1,
+      "is_first_author": "True"
+    },
+    {
+      "source": "QT035",
+      "target": "AU_UNGAR_M",
+      "type": "AUTHORED_BY",
+      "position": 2,
+      "is_first_author": "False"
+    },
+    {
+      "source": "QT036",
+      "target": "AU_MOON_Y",
+      "type": "AUTHORED_BY",
+      "position": 1,
+      "is_first_author": "True"
+    },
+    {
+      "source": "QT036",
+      "target": "AU_WOO_H",
+      "type": "AUTHORED_BY",
+      "position": 2,
+      "is_first_author": "False"
+    },
+    {
+      "source": "QT038",
+      "target": "AU_INCLUDED_UIOIACLTTMIMIN",
+      "type": "AUTHORED_BY",
+      "position": 2,
+      "is_first_author": "False"
+    },
+    {
+      "source": "QT039",
+      "target": "AU_XIAN_J",
+      "type": "AUTHORED_BY",
+      "position": 1,
+      "is_first_author": "True"
+    },
+    {
+      "source": "QT039",
+      "target": "AU_ZHANG_Y",
+      "type": "AUTHORED_BY",
+      "position": 2,
+      "is_first_author": "False"
+    },
+    {
+      "source": "QT039",
+      "target": "AU_JIANG_B",
+      "type": "AUTHORED_BY",
+      "position": 3,
+      "is_first_author": "False"
+    },
+    {
+      "source": "QT040",
+      "target": "AU_DOC_LSL",
+      "type": "AUTHORED_BY",
+      "position": 1,
+      "is_first_author": "True"
+    },
+    {
+      "source": "QT040",
+      "target": "AU_TRICH_X",
+      "type": "AUTHORED_BY",
+      "position": 2,
+      "is_first_author": "False"
+    },
+    {
+      "source": "QT040",
+      "target": "AU_DANH_GTLRMSDHGPTPTNTVK",
+      "type": "AUTHORED_BY",
+      "position": 3,
+      "is_first_author": "False"
+    },
+    {
+      "source": "QT040",
+      "target": "AU_THIET_KVTQ",
+      "type": "AUTHORED_BY",
+      "position": 4,
+      "is_first_author": "False"
+    },
+    {
+      "source": "QT040",
+      "target": "AU_CO_HDNVTH",
+      "type": "AUTHORED_BY",
+      "position": 5,
+      "is_first_author": "False"
+    },
+    {
+      "source": "QT040",
+      "target": "AU_DOI_CVK",
+      "type": "AUTHORED_BY",
+      "position": 6,
+      "is_first_author": "False"
+    },
+    {
+      "source": "QT041",
+      "target": "AU_ADDICTION_TEOSM",
+      "type": "AUTHORED_BY",
+      "position": 1,
+      "is_first_author": "True"
+    },
+    {
+      "source": "QT041",
+      "target": "AU_ACADEMIC_X",
+      "type": "AUTHORED_BY",
+      "position": 2,
+      "is_first_author": "False"
+    },
+    {
+      "source": "QT043",
+      "target": "AU_BRESS_JN",
+      "type": "AUTHORED_BY",
+      "position": 1,
+      "is_first_author": "True"
+    },
+    {
+      "source": "QT043",
+      "target": "AU_FALK_A",
+      "type": "AUTHORED_BY",
+      "position": 3,
+      "is_first_author": "False"
+    },
+    {
+      "source": "QT043",
+      "target": "AU_SCHIER_MM",
+      "type": "AUTHORED_BY",
+      "position": 5,
+      "is_first_author": "False"
+    },
+    {
+      "source": "QT043",
+      "target": "AU_JAYWANT_A",
+      "type": "AUTHORED_BY",
+      "position": 6,
+      "is_first_author": "False"
+    },
+    {
+      "source": "QT043",
+      "target": "AU_MORONEY_E",
+      "type": "AUTHORED_BY",
+      "position": 8,
+      "is_first_author": "False"
+    },
+    {
+      "source": "QT043",
+      "target": "AU_DARGIS_M",
+      "type": "AUTHORED_BY",
+      "position": 10,
+      "is_first_author": "False"
+    },
+    {
+      "source": "QT044",
+      "target": "AU_CHINH_CCTQHT",
+      "type": "AUTHORED_BY",
+      "position": 1,
+      "is_first_author": "True"
+    },
+    {
+      "source": "QT046",
+      "target": "AU_PSYCHIATRY_C",
+      "type": "AUTHORED_BY",
+      "position": 1,
+      "is_first_author": "True"
+    },
+    {
+      "source": "QT046",
+      "target": "AU__HD",
+      "type": "AUTHORED_BY",
+      "position": 2,
+      "is_first_author": "False"
+    },
+    {
+      "source": "QT049",
+      "target": "AU_CHAT_LBCNRTKPHNCĐVCĐHTTKRRTTĐN",
+      "type": "AUTHORED_BY",
+      "position": 1,
+      "is_first_author": "True"
+    },
+    {
+      "source": "VN001",
+      "target": "AU_HOA_PT",
+      "type": "AUTHORED_BY",
+      "position": 1,
+      "is_first_author": "True"
+    },
+    {
+      "source": "VN001",
+      "target": "AU_DO_TT",
+      "type": "AUTHORED_BY",
+      "position": 2,
+      "is_first_author": "False"
+    },
+    {
+      "source": "VN001",
+      "target": "AU_NGUYEN_TL",
+      "type": "AUTHORED_BY",
+      "position": 3,
+      "is_first_author": "False"
+    },
+    {
+      "source": "VN001",
+      "target": "AU_NGO_AV",
+      "type": "AUTHORED_BY",
+      "position": 4,
+      "is_first_author": "False"
+    },
+    {
+      "source": "VN002",
+      "target": "AU_VU_ML",
+      "type": "AUTHORED_BY",
+      "position": 1,
+      "is_first_author": "True"
+    },
+    {
+      "source": "VN002",
+      "target": "AU_NGUYEN_ĐVXHH",
+      "type": "AUTHORED_BY",
+      "position": 2,
+      "is_first_author": "False"
+    },
+    {
+      "source": "VN002",
+      "target": "AU_VASS_X",
+      "type": "AUTHORED_BY",
+      "position": 3,
+      "is_first_author": "False"
+    },
+    {
+      "source": "VN002",
+      "target": "AU_DAO_TKHXHHVN",
+      "type": "AUTHORED_BY",
+      "position": 4,
+      "is_first_author": "False"
+    },
+    {
+      "source": "VN003",
+      "target": "AU_PHAM_X",
+      "type": "AUTHORED_BY",
+      "position": 1,
+      "is_first_author": "True"
+    },
+    {
+      "source": "VN014",
+      "target": "AU_STRESS_LO",
+      "type": "AUTHORED_BY",
+      "position": 1,
+      "is_first_author": "True"
+    },
+    {
+      "source": "VN014",
+      "target": "AU_ANXIETY_X",
+      "type": "AUTHORED_BY",
+      "position": 2,
+      "is_first_author": "False"
+    },
+    {
+      "source": "VN015",
+      "target": "AU_NGO_AV",
+      "type": "AUTHORED_BY",
+      "position": 1,
+      "is_first_author": "True"
+    },
+    {
+      "source": "VN015",
+      "target": "AU_VU_TMH",
+      "type": "AUTHORED_BY",
+      "position": 2,
+      "is_first_author": "False"
+    },
+    {
+      "source": "VN015",
+      "target": "AU_DO_TBV",
+      "type": "AUTHORED_BY",
+      "position": 3,
+      "is_first_author": "False"
+    },
+    {
+      "source": "VN015",
+      "target": "AU_DUONG_AT",
+      "type": "AUTHORED_BY",
+      "position": 4,
+      "is_first_author": "False"
+    },
+    {
+      "source": "VN015",
+      "target": "AU_DO_ML",
+      "type": "AUTHORED_BY",
+      "position": 5,
+      "is_first_author": "False"
+    },
+    {
+      "source": "VN015",
+      "target": "AU_LE_TTT",
+      "type": "AUTHORED_BY",
+      "position": 6,
+      "is_first_author": "False"
+    },
+    {
+      "source": "VN016",
+      "target": "AU_NGUYEN_NBQ",
+      "type": "AUTHORED_BY",
+      "position": 1,
+      "is_first_author": "True"
+    },
+    {
+      "source": "VN016",
+      "target": "AU_LUU_MĐ",
+      "type": "AUTHORED_BY",
+      "position": 2,
+      "is_first_author": "False"
+    },
+    {
+      "source": "VN016",
+      "target": "AU_VU_MT",
+      "type": "AUTHORED_BY",
+      "position": 3,
+      "is_first_author": "False"
+    },
+    {
+      "source": "VN016",
+      "target": "AU_NGUYEN_YM",
+      "type": "AUTHORED_BY",
+      "position": 4,
+      "is_first_author": "False"
+    },
+    {
+      "source": "VN016",
+      "target": "AU_NGUYEN_CA",
+      "type": "AUTHORED_BY",
+      "position": 5,
+      "is_first_author": "False"
+    },
+    {
+      "source": "VN016",
+      "target": "AU_HOANG_LV",
+      "type": "AUTHORED_BY",
+      "position": 6,
+      "is_first_author": "False"
+    },
+    {
+      "source": "VN016",
+      "target": "AU_GIAP_TTT",
+      "type": "AUTHORED_BY",
+      "position": 7,
+      "is_first_author": "False"
+    },
+    {
+      "source": "VN019",
+      "target": "AU_HO_TTQ",
+      "type": "AUTHORED_BY",
+      "position": 1,
+      "is_first_author": "True"
+    },
+    {
+      "source": "VN020",
+      "target": "AU_TRAN_HVL",
+      "type": "AUTHORED_BY",
+      "position": 1,
+      "is_first_author": "True"
+    },
+    {
+      "source": "VN020",
+      "target": "AU_HUYNH_NVA",
+      "type": "AUTHORED_BY",
+      "position": 2,
+      "is_first_author": "False"
+    },
+    {
+      "source": "VN020",
+      "target": "AU_TO_GK",
+      "type": "AUTHORED_BY",
+      "position": 3,
+      "is_first_author": "False"
+    },
+    {
+      "source": "VN021",
+      "target": "AU_TRAN_TV",
+      "type": "AUTHORED_BY",
+      "position": 1,
+      "is_first_author": "True"
+    },
+    {
+      "source": "VN021",
+      "target": "AU_HOANG_TLN",
+      "type": "AUTHORED_BY",
+      "position": 2,
+      "is_first_author": "False"
+    },
+    {
+      "source": "VN021",
+      "target": "AU_TRAN_XMT",
+      "type": "AUTHORED_BY",
+      "position": 3,
+      "is_first_author": "False"
+    },
+    {
+      "source": "VN021",
+      "target": "AU_TASHIRO_Y",
+      "type": "AUTHORED_BY",
+      "position": 4,
+      "is_first_author": "False"
+    },
+    {
+      "source": "VN021",
+      "target": "AU_SEINO_K",
+      "type": "AUTHORED_BY",
+      "position": 5,
+      "is_first_author": "False"
+    },
+    {
+      "source": "VN021",
+      "target": "AU_VO_TV",
+      "type": "AUTHORED_BY",
+      "position": 6,
+      "is_first_author": "False"
+    },
+    {
+      "source": "VN021",
+      "target": "AU_NAKAMURA_K",
+      "type": "AUTHORED_BY",
+      "position": 7,
+      "is_first_author": "False"
+    },
+    {
+      "source": "VN023",
+      "target": "AU_NGUYEN_HV",
+      "type": "AUTHORED_BY",
+      "position": 1,
+      "is_first_author": "True"
+    },
+    {
+      "source": "VN023",
+      "target": "AU_PHDC_X",
+      "type": "AUTHORED_BY",
+      "position": 2,
+      "is_first_author": "False"
+    },
+    {
+      "source": "VN023",
+      "target": "AU_NGUYEN_LTM",
+      "type": "AUTHORED_BY",
+      "position": 3,
+      "is_first_author": "False"
+    },
+    {
+      "source": "VN023",
+      "target": "AU_PHDD_X",
+      "type": "AUTHORED_BY",
+      "position": 4,
+      "is_first_author": "False"
+    },
+    {
+      "source": "VN023",
+      "target": "AU_NGUYEN_PT",
+      "type": "AUTHORED_BY",
+      "position": 5,
+      "is_first_author": "False"
+    },
+    {
+      "source": "VN023",
+      "target": "AU_MSA_X",
+      "type": "AUTHORED_BY",
+      "position": 6,
+      "is_first_author": "False"
+    },
+    {
+      "source": "VN023",
+      "target": "AU_NGUYEN_TT",
+      "type": "AUTHORED_BY",
+      "position": 7,
+      "is_first_author": "False"
+    },
+    {
+      "source": "VN023",
+      "target": "AU_PHDA_X",
+      "type": "AUTHORED_BY",
+      "position": 8,
+      "is_first_author": "False"
+    },
+    {
+      "source": "VN024",
+      "target": "AU_NGUYEN_TT",
+      "type": "AUTHORED_BY",
+      "position": 1,
+      "is_first_author": "True"
+    },
+    {
+      "source": "VN025",
+      "target": "AU_PHAM_TN",
+      "type": "AUTHORED_BY",
+      "position": 1,
+      "is_first_author": "True"
+    },
+    {
+      "source": "VN025",
+      "target": "AU_HOANG_TG",
+      "type": "AUTHORED_BY",
+      "position": 2,
+      "is_first_author": "False"
+    },
+    {
+      "source": "VN025",
+      "target": "AU_PHAM_KL",
+      "type": "AUTHORED_BY",
+      "position": 3,
+      "is_first_author": "False"
+    },
+    {
+      "source": "VN025",
+      "target": "AU_VU_TC",
+      "type": "AUTHORED_BY",
+      "position": 4,
+      "is_first_author": "False"
+    },
+    {
+      "source": "VN026",
+      "target": "AU_SINH_CTC",
+      "type": "AUTHORED_BY",
+      "position": 1,
+      "is_first_author": "True"
+    },
+    {
+      "source": "VN026",
+      "target": "AU_LO_Â",
+      "type": "AUTHORED_BY",
+      "position": 2,
+      "is_first_author": "False"
+    },
+    {
+      "source": "VN026",
+      "target": "AU_STRESS_TĐBTPTA",
+      "type": "AUTHORED_BY",
+      "position": 3,
+      "is_first_author": "False"
+    },
+    {
+      "source": "VN026",
+      "target": "AU_TINH_LALL",
+      "type": "AUTHORED_BY",
+      "position": 4,
+      "is_first_author": "False"
+    },
+    {
+      "source": "VN027",
+      "target": "AU_DINH_X",
+      "type": "AUTHORED_BY",
+      "position": 1,
+      "is_first_author": "True"
+    },
+    {
+      "source": "VN028",
+      "target": "AU_DAO_TN",
+      "type": "AUTHORED_BY",
+      "position": 1,
+      "is_first_author": "True"
+    },
+    {
+      "source": "VN029",
+      "target": "AU_THAI_TT",
+      "type": "AUTHORED_BY",
+      "position": 1,
+      "is_first_author": "True"
+    },
+    {
+      "source": "VN029",
+      "target": "AU_DUONG_MC",
+      "type": "AUTHORED_BY",
+      "position": 2,
+      "is_first_author": "False"
+    },
+    {
+      "source": "VN030",
+      "target": "AU_KHONG_ĐLÂR",
+      "type": "AUTHORED_BY",
+      "position": 3,
+      "is_first_author": "False"
+    },
+    {
+      "source": "VN030",
+      "target": "AU_KHONG_RPTDTMBCCTVTN",
+      "type": "AUTHORED_BY",
+      "position": 4,
+      "is_first_author": "False"
+    },
+    {
+      "type": "AUTHORED_BY",
+      "source": "PA_KARASU_1986_AJPSY",
+      "target": "AU_KARASU_TB"
+    },
+    {
+      "type": "AUTHORED_BY",
+      "source": "PA_KARASU_1986_AJP",
+      "target": "AU_KARASU_TB"
+    },
+    {
+      "type": "AUTHORED_BY",
+      "source": "PA_ROSE_2002",
+      "target": "AU_ROSE_AJ"
+    },
+    {
+      "type": "AUTHORED_BY",
+      "source": "PA_STANKOV_2010",
+      "target": "AU_STANKOV_L"
+    },
+    {
+      "type": "AUTHORED_BY",
+      "source": "PA_SMALL_BLANC_2021",
+      "target": "AU_SMALL_S"
+    },
+    {
+      "type": "AUTHORED_BY",
+      "source": "PA_SMALL_BLANC_2021",
+      "target": "AU_BLANC_J"
+    },
+    {
+      "type": "AUTHORED_BY",
+      "source": "PA_FIRST_2022",
+      "target": "AU_FIRST_MB"
+    },
+    {
+      "type": "AUTHORED_BY",
+      "source": "PA_PEZZELLA_2022",
+      "target": "AU_PEZZELLA_P"
+    },
+    {
+      "type": "CO_AUTHORED",
+      "source": "AU_SMALL_S",
+      "target": "AU_BLANC_J",
+      "paper_id": "PA_SMALL_BLANC_2021"
+    },
+    {
+      "type": "STUDIES",
+      "source": "PA_KARASU_1986_AJPSY",
+      "target": "TP_PSYCHOTHERAPY_SCHOOLS"
+    },
+    {
+      "type": "STUDIES",
+      "source": "PA_STANKOV_2010",
+      "target": "TP_CONFUCIAN_CULTURE"
+    },
+    {
+      "type": "STUDIES",
+      "source": "PA_ROSE_2002",
+      "target": "TP_CORUMINATION"
+    },
+    {
+      "type": "STUDIES",
+      "source": "PA_SMALL_BLANC_2021",
+      "target": "TP_TAM_GIAO"
+    },
+    {
+      "type": "STUDIES",
+      "source": "PA_FIRST_2022",
+      "target": "TP_DSM_ICD_CLASSIFICATION"
+    },
+    {
+      "type": "STUDIES",
+      "source": "PA_PEZZELLA_2022",
+      "target": "TP_DSM_ICD_CLASSIFICATION"
+    }
+  ]
+}

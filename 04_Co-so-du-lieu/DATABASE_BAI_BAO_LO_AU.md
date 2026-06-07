@@ -1832,4 +1832,69 @@ Thư mục: `papers/`
 
 ---
 
-> *Cơ sở dữ liệu này được biên soạn cho mục đích nghiên cứu học thuật. Cập nhật lần cuối: 2026-03-24.*
+## 32. KHUNG LÝ THUYẾT BỔ SUNG CHO BÀI Q1 (Cập nhật 2026-06-07)
+
+### 32.1 Karasu (1986) — Số lượng trường phái tâm lý trị liệu
+
+| Mục | Chi tiết |
+|-----|---------|
+| Tác giả | **T. Byram Karasu, M.D.** — Silverman Professor + Chairman, Dept of Psychiatry, Albert Einstein College of Medicine; Distinguished Life Fellow APA; Editor-in-Chief emeritus, *American Journal of Psychotherapy* |
+| Tiêu đề | The Psychotherapies: Benefits and Limitations |
+| Tạp chí | American Journal of Psychotherapy |
+| Thông tin xuất bản | Vol. 40, No. 3, pp. 324–342, July 1986 |
+| PMID | 3094389 |
+| DOI | 10.1176/appi.psychotherapy.1986.40.3.324 |
+| File PDF | `02_Papers-goc/karasu1986.pdf` (963 KB, đã đối chiếu nguyên văn 07/06/2026) |
+| Bio sketch | `02_Papers-goc/biosketch_karasu_062112.pdf` (Einstein bio sketch 14/02/2014) |
+| Phát hiện chính | **Karasu nguyên văn ghi "My own tally has reached over 450 types polled nationwide" (trang 325)** — TRÊN 450 trường phái tâm lý trị liệu. Y văn thứ cấp đa số gán SAI thành "400+" |
+| Lưu ý quan trọng | Phân biệt với bài cùng năm 1986 của Karasu trên *American Journal of Psychiatry* 143(6):687-695 (PMID 3717390) về specificity vs nonspecificity — KHÔNG phải nguồn của con số 450 |
+
+### 32.2 Rose (2002) — Co-rumination Hypothesis
+
+| Mục | Chi tiết |
+|-----|---------|
+| Tác giả | Amanda J. Rose |
+| Tiêu đề | Co-rumination in the friendships of girls and boys |
+| Tạp chí | Child Development |
+| Thông tin xuất bản | Vol. 73, No. 6, pp. 1830–1843 (Nov–Dec 2002) |
+| PMID | 12487497 |
+| DOI | 10.1111/1467-8624.00509 |
+| Khái niệm chính | "Co-rumination" — sự thảo luận sâu rộng, suy tư phỏng đoán và tập trung vào cảm xúc tiêu cực giữa bạn bè; liên quan thuận với cả tình bạn chất lượng cao VÀ triệu chứng trầm cảm/lo âu |
+| Dùng cho Q1 | Section 4.4 Discussion — diễn giải kết quả null effect của peer support |
+
+### 32.3 Stankov (2010) — Confucian Academic Culture
+
+| Mục | Chi tiết |
+|-----|---------|
+| Tác giả | Lazar Stankov |
+| Tiêu đề | Unforgiving Confucian culture: A breeding ground for high academic achievement, test anxiety and self-doubt? |
+| Tạp chí | Learning and Individual Differences |
+| Thông tin xuất bản | Vol. 20, No. 6, pp. 555–563 (December 2010) |
+| DOI | 10.1016/j.lindif.2010.05.003 |
+| Khái niệm chính | Văn hóa học thuật Nho giáo — thành tích cao đi kèm lo âu kiểm tra và tự nghi ngờ |
+| Dùng cho Q1 | Section 1.1 Introduction — căn cứ trích dẫn cho "Confucian academic culture" framing |
+
+### 32.4 Small & Blanc (2021) — Tam Giao Vietnam
+
+| Mục | Chi tiết |
+|-----|---------|
+| Tác giả | Stuart Small, Judite Blanc |
+| Tiêu đề | Mental Health During COVID-19: Tam Giao and Vietnam's Response |
+| Tạp chí | Frontiers in Psychiatry |
+| Thông tin xuất bản | Vol. 11, Article 589618 (Jan 2021) |
+| DOI | 10.3389/fpsyt.2020.589618 |
+| Khái niệm chính | Tam giáo (Nho-Phật-Đạo) định hình resilience tâm lý người Việt Nam; cultural additivity framework |
+| Dùng cho Q1 | Section 4.4 Discussion — căn cứ trích dẫn cho "emotional restraint" trong văn hóa Việt (thay cho cụm "nhẫn" gốc không có nguồn) |
+
+### 32.5 DSM/ICD chuẩn cho buổi bảo vệ LA
+
+| Hệ phân loại | Số chẩn đoán | Nguồn primary |
+|--------------|--------------|---------------|
+| DSM-IV-TR (2000) | 297 rối loạn | Wikipedia confirm |
+| DSM-5 (2013) | 237 rối loạn, 20 chương, 947 trang | Wikipedia direct; ngày 18/5/2013 |
+| DSM-5-TR (2022) | DSM-5 + 3 mới (prolonged grief, unspecified mood, stimulant-induced mild neurocognitive) + 70 bộ tiêu chuẩn hiệu chỉnh | First et al. 2022 World Psychiatry 21(2):218-219 |
+| ICD-11 Chapter 06 (2022) | ~162 mục cấp four-character, 18 nhóm chính | WHO; hiệu lực toàn cầu 01/01/2022 (Pezzella 2022) |
+
+---
+
+> *Cơ sở dữ liệu này được biên soạn cho mục đích nghiên cứu học thuật. Cập nhật lần cuối: 2026-06-07 (thêm mục 32 — khung lý thuyết Q1 + chuẩn bị bảo vệ LA).*

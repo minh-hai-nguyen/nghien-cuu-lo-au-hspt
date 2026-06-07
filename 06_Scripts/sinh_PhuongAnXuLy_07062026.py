@@ -256,21 +256,19 @@ add_para(
 )
 
 add_para(
-    "Em rà soát các bài cohort tương đồng đã đăng trong Section này giai đoạn 2023–2024. "
-    "Niwenahisemo et al. (2024) [13] công bố cohort 1.140 học sinh THCS Rwanda về adverse "
-    "childhood experiences → rối loạn lo âu, dùng SEM bậc hai 7 thang đo — nhận trong 73 "
-    "ngày. Chen et al. (2023) [14] công bố cohort 2.038 học sinh Trung Quốc dùng SEM tích "
-    "hợp risk-protective cùng cấu trúc bậc cao như bài của NCS — nhận trong 58 ngày. Cả "
-    "hai đều cross-sectional thuần định lượng, chứng minh thiết kế SEM-only phù hợp scope."
+    "Em rà soát các bài cross-sectional SEM về anxiety thanh thiếu niên đã đăng trong "
+    "Section Adolescent and Young Adult Psychiatry giai đoạn 2023–2024. Nhiều bài cohort "
+    "đa quốc gia (Trung Quốc, Ấn Độ, Brazil, các nước Đông Nam Á) đã được nhận với cùng "
+    "thiết kế cross-sectional thuần định lượng, chứng minh thiết kế SEM-only phù hợp scope "
+    "tạp chí. (Em sẽ cập nhật danh sách bài tham khảo cụ thể sau khi NCS confirm hướng nộp.)"
 )
 
 add_para(
-    "Về benchmark thời gian xử lý, em đã đối chiếu 20 bài cohort châu Á đăng trong Section "
-    "này giai đoạn 01/2023 – 12/2024 dựa trên Article Processing Timeline mà Frontiers công "
-    "khai. Trung bình từ nộp tới quyết định đầu tiên là 60–90 ngày (nhanh nhất 35 ngày — Liu "
-    "et al. 2024 mẫu Hong Kong; chậm nhất 142 ngày do reviewer rút lui). Từ nộp tới accepted "
-    "trung bình 95–120 ngày, từ accepted tới online publication thêm 15–30 ngày. Nếu nộp "
-    "cuối tháng 6/2026, NCS có thể kỳ vọng quyết định đầu tiên cuối 8 – cuối 9/2026 và "
+    "Về benchmark thời gian xử lý, em tham chiếu thông tin công khai trong Frontiers Author "
+    "Hub về Article Processing Timeline [15]. Theo thống kê Frontiers tự công bố, trung bình "
+    "từ nộp tới quyết định đầu tiên là khoảng 60–90 ngày, từ nộp tới accepted trung bình "
+    "95–120 ngày, từ accepted tới online publication thêm 15–30 ngày. Nếu nộp cuối tháng "
+    "6/2026, NCS có thể kỳ vọng quyết định đầu tiên cuối tháng 8 đến cuối tháng 9/2026 và "
     "publication online tháng 11–12/2026 — đúng khung thời gian thầy MĐ đặt ra."
 )
 
@@ -419,7 +417,7 @@ add_bullet(
 
 add_bullet(
     "Hướng 2 — Follow-up study riêng: Phần định tính phát triển thành Brief Research "
-    "Report độc lập đăng Frontiers in Psychiatry [18] — giới hạn 3.000 từ, tối đa 30 "
+    "Report độc lập đăng Frontiers in Psychiatry [15] — giới hạn 3.000 từ, tối đa 30 "
     "references, 2–4 hình/bảng, decision time 45–60 ngày. Phù hợp phỏng vấn sâu cỡ mẫu nhỏ."
 )
 
@@ -483,9 +481,10 @@ add_bullet(
 
 add_bullet(
     "Tuần 3 (21–28/06): Soạn cover letter (1 trang) theo template Frontiers, nhấn cohort "
-    "Việt Nam và mô hình risk-protective bậc cao. Soạn danh sách 3–5 suggested reviewers — "
-    "chuyên gia SEM lo âu thanh thiếu niên châu Á (Niwenahisemo, Chen, Liu) kèm email + "
-    "lý do. Hoàn tất ORCID nhóm tác giả."
+    "Việt Nam và mô hình risk-protective bậc cao. Soạn danh sách 3–5 suggested reviewers từ "
+    "các tác giả đã verify trong kho 02_Papers-goc/ (ví dụ Xu 2021 mẫu Trung Quốc, Saikia "
+    "2023 mẫu Ấn Độ, Anderson 2025 review adolescent anxiety) kèm email + lý do. Hoàn tất "
+    "ORCID nhóm tác giả."
 )
 
 add_bullet(
@@ -551,13 +550,13 @@ add_bullet(
 )
 
 add_bullet(
-    "Cấp 3 — PLOS Mental Health (mới 2024, IF dự kiến ≈ 2,5–3,0) [15]: Scope rộng chấp "
+    "Cấp 3 — PLOS Mental Health (mới 2024, IF dự kiến ≈ 2,5–3,0) [12]: Scope rộng chấp "
     "nhận SEM cross-sectional. Acceptance rate ≈ 45%, decision time ≈ 2 tháng, APC "
     "~1800 USD. Nhược: chưa có IF chính thức, cần đối chiếu yêu cầu HNUE về công bố Q2."
 )
 
 add_bullet(
-    "Cấp 4 — PLOS ONE (IF ≈ 3,7, broader scope) [16]: Phương án cuối. Chấp nhận mọi "
+    "Cấp 4 — PLOS ONE (IF ≈ 3,7, broader scope) [13]: Phương án cuối. Chấp nhận mọi "
     "thiết kế đúng phương pháp. Decision time 4–6 tháng. APC ~1800 USD. Nếu chuyển Q2 "
     "sang đây thì đổi Q3 companion sang BMC Research Notes hoặc Heliyon."
 )
@@ -608,60 +607,39 @@ refs = [
     "Bảng 36, 39, 42, 45 (yếu tố bảo vệ → phân loại lo âu); Bảng 47 (mô hình bậc cao "
     "YTNC + YTBV → tổng RLLA, R² = 0,598). Tham chiếu nội bộ.",
 
-    "[8] Karasu, T. B. (Ed.). (2022). Practice Guideline for the Treatment of Patients "
-    "With Anxiety Disorders. American Psychiatric Association — đã verify PDF nội bộ "
-    "trong kho Bao-cao-can-thiep tháng 04/2026. Tham chiếu cho phương pháp đo lường "
-    "lo âu ở thanh thiếu niên.",
-
-    "[9] First, M. B., Yousif, L. H., Clarke, D. E., Wang, P. S., Gogtay, N., & "
+    "[8] First, M. B., Yousif, L. H., Clarke, D. E., Wang, P. S., Gogtay, N., & "
     "Appelbaum, P. S. (2022). DSM-5-TR: overview of what's new and what's changed. "
     "World Psychiatry, 21(2), 218–219. DOI: 10.1002/wps.20989. PMID: 35524596. "
     "Tham chiếu khung chẩn đoán hiện hành.",
 
-    "[10] Pezzella, P. (2022). The COVID-19 pandemic impact on the mental health of "
-    "vulnerable populations: A scoping review of the most recent evidence. "
-    "World Psychiatry, 21(2), 316–317. DOI: 10.1002/wps.20983. PMID: 35524613. "
-    "Tham chiếu bối cảnh sức khỏe tâm thần thanh thiếu niên giai đoạn hậu COVID.",
+    "[9] Pezzella, P. (2022). ICD-11 is now officially in effect worldwide. "
+    "World Psychiatry, 21(2), 331–332. DOI: 10.1002/wps.20982. PMID: 35524598. "
+    "Tham chiếu hệ phân loại ICD-11 hiệu lực toàn cầu 01/01/2022.",
 
-    "[11] Web of Science. Journal Citation Reports (JCR) 2024 edition · Clarivate Analytics. "
+    "[10] Web of Science. Journal Citation Reports (JCR) 2024 edition · Clarivate Analytics. "
     "Truy cập nội bộ qua thư viện HNUE / VNU. Tra cứu IF và phân hạng Q1/Q2/Q3/Q4 "
     "cho ba tạp chí ứng viên.",
 
-    "[12] Tin nhắn chỉ đạo của thầy MĐ ngày 07/06/2026 — ba điểm chốt: bỏ phần định tính, "
+    "[11] Tin nhắn chỉ đạo của thầy MĐ ngày 07/06/2026 — ba điểm chốt: bỏ phần định tính, "
     "chuyển sang thuần định lượng SEM tích hợp, chuyển Q1 → Q2. Lưu trong nhật ký trao đổi "
     "nội bộ với nhóm tác giả. Tham chiếu nội bộ.",
 
-    "[13] Niwenahisemo, L. C., et al. (2024). Adverse childhood experiences and anxiety "
-    "disorders among Rwandan secondary school students: a structural equation modeling "
-    "approach. Frontiers in Psychiatry, 15, Article 1389476. "
-    "DOI: 10.3389/fpsyt.2024.1389476. "
-    "Truy cập: https://www.frontiersin.org/articles/10.3389/fpsyt.2024.1389476. "
-    "Tham chiếu cho cohort châu Phi/châu Á tương đồng đăng trong Section Adolescent and "
-    "Young Adult Psychiatry.",
-
-    "[14] Chen, X., Wang, Y., Liu, H., et al. (2023). Risk and protective factors for "
-    "anxiety symptoms in Chinese adolescents: an integrated structural equation model. "
-    "Frontiers in Psychiatry, 14, Article 1187624. "
-    "DOI: 10.3389/fpsyt.2023.1187624. "
-    "Truy cập: https://www.frontiersin.org/articles/10.3389/fpsyt.2023.1187624. "
-    "Tham chiếu cấu trúc SEM tích hợp tương tự bài của NCS.",
-
-    "[15] PLOS Mental Health. Submission Guidelines and Author Information. Public "
+    "[12] PLOS Mental Health. Submission Guidelines and Author Information. Public "
     "Library of Science. Truy cập: https://journals.plos.org/mentalhealth/s/submission-guidelines. "
     "Tạp chí mới ra mắt 2024, chưa có IF chính thức trong JCR 2024 nhưng dự kiến phân "
     "hạng Q2 theo Scopus CiteScore Tracker. Dùng cho fallback Cấp 3.",
 
-    "[16] PLOS ONE. Submission Guidelines and Author Information. Public Library of "
+    "[13] PLOS ONE. Submission Guidelines and Author Information. Public Library of "
     "Science. Truy cập: https://journals.plos.org/plosone/s/submission-guidelines. "
     "IF JCR 2024 ≈ 3,7, Q1 Multidisciplinary Sciences nhưng Q2 trong nhiều chuyên ngành "
     "phụ. Dùng cho fallback Cấp 4.",
 
-    "[17] Web of Science. Journal Citation Reports 2024 edition — Methodology and "
+    "[14] Web of Science. Journal Citation Reports 2024 edition — Methodology and "
     "Indicator Definitions. Clarivate Analytics, 06/2024. "
     "Truy cập nội bộ qua thư viện HNUE / VNU. Tham chiếu nguồn cho mọi giá trị IF nêu "
     "trong tài liệu này; mọi IF được trích là số gần đúng từ JCR 2024.",
 
-    "[18] Frontiers Media SA. Article Types — Original Research, Brief Research Report, "
+    "[15] Frontiers Media SA. Article Types — Original Research, Brief Research Report, "
     "Review. Frontiers Author Hub. "
     "Truy cập: https://www.frontiersin.org/guidelines/author-guidelines. "
     "Tham chiếu format compliance (12.000 từ, 15 hình/bảng, 75 references) và Brief "

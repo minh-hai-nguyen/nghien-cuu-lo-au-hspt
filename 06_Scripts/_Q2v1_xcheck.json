@@ -1,0 +1,164 @@
+{
+  "total": 35,
+  "has_pdf": [
+    {
+      "author": "Anderson",
+      "year": "2025",
+      "cid": "QT014"
+    },
+    {
+      "author": "Chen",
+      "year": "2023",
+      "cid": "QT007"
+    },
+    {
+      "author": "Grummitt",
+      "year": "2025",
+      "cid": "QT082"
+    },
+    {
+      "author": "Hoang Trung Hoc",
+      "year": "2025",
+      "cid": "VN014"
+    },
+    {
+      "author": "GBD ASEAN",
+      "year": "2025",
+      "cid": "QT012"
+    },
+    {
+      "author": "Kieling",
+      "year": "2024",
+      "cid": "QT079"
+    },
+    {
+      "author": "Pascoe",
+      "year": "2020",
+      "cid": "QT067"
+    },
+    {
+      "author": "Rose",
+      "year": "2002",
+      "cid": "QT078"
+    },
+    {
+      "author": "Small",
+      "year": "2021",
+      "cid": "QT076"
+    },
+    {
+      "author": "Stankov",
+      "year": "2010",
+      "cid": "QT077"
+    },
+    {
+      "author": "Saikia",
+      "year": "2023",
+      "cid": "QT002"
+    },
+    {
+      "author": "Wen",
+      "year": "2020",
+      "cid": "QT008"
+    },
+    {
+      "author": "Xu",
+      "year": "2021",
+      "cid": "QT010"
+    }
+  ],
+  "canonical_no_pdf": [
+    {
+      "author": "Niwenahisemo",
+      "year": "2024",
+      "cid": "QT080"
+    },
+    {
+      "author": "Robson",
+      "year": "2025",
+      "cid": "QT081"
+    }
+  ],
+  "not_in_canonical": [
+    {
+      "author": "APA",
+      "year": "2013"
+    },
+    {
+      "author": "Blos",
+      "year": "1979"
+    },
+    {
+      "author": "Bowlby",
+      "year": "1988"
+    },
+    {
+      "author": "Cheung",
+      "year": "2002"
+    },
+    {
+      "author": "Chorpita",
+      "year": "2000"
+    },
+    {
+      "author": "Compas",
+      "year": "2017"
+    },
+    {
+      "author": "Goodenow",
+      "year": "1993"
+    },
+    {
+      "author": "Hu",
+      "year": "1999"
+    },
+    {
+      "author": "Kroger",
+      "year": "2007"
+    },
+    {
+      "author": "Kwon",
+      "year": "2013"
+    },
+    {
+      "author": "Lazarus",
+      "year": "1984"
+    },
+    {
+      "author": "Markus",
+      "year": "1991"
+    },
+    {
+      "author": "McLean",
+      "year": "2011"
+    },
+    {
+      "author": "Olweus",
+      "year": "1996"
+    },
+    {
+      "author": "Rosenberg",
+      "year": "1965"
+    },
+    {
+      "author": "Steare",
+      "year": "2023"
+    },
+    {
+      "author": "Sun",
+      "year": "2011"
+    },
+    {
+      "author": "Triandis",
+      "year": "1995"
+    },
+    {
+      "author": "V-NAMHS",
+      "year": "2022"
+    },
+    {
+      "author": "Zimet",
+      "year": "1988"
+    }
+  ]
+}

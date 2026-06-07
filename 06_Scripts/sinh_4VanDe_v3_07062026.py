@@ -310,10 +310,10 @@ refs = [
     'for-authors/author-guidelines. ISSN 2296-2565. JCR Impact Factor '
     '2024 = 3,0.',
 
-    '[4] Karasu, T. B. (1986). The specificity versus nonspecificity '
-    'dilemma: Toward identifying therapeutic change agents. American '
-    'Journal of Psychiatry, 143(6), 687-695. DOI: 10.1176/ajp.143.6.687. '
-    'PMID: 3717388. (Em da verify PDF goc trong thu muc Materials.)',
+    '[4] Karasu, T. B. (1986). The psychotherapies: Benefits and '
+    'limitations. American Journal of Psychotherapy, 40(3), 324-342. '
+    'DOI: 10.1176/appi.psychotherapy.1986.40.3.324. PMID: 3094389. '
+    '(Em da verify PDF goc trong thu muc Materials.)',
 
     '[5] First, M. B., Yousif, L. H., Clarke, D. E., Wang, P. S., '
     'Gogtay, N., & Appelbaum, P. S. (2022). DSM-5-TR: overview of '
@@ -321,8 +321,8 @@ refs = [
     '218-219. DOI: 10.1002/wps.20989. PMID: 35524596.',
 
     '[6] Pezzella, P. (2022). The ICD-11 is now officially in effect. '
-    'World Psychiatry, 21(3), 331-332. DOI: 10.1002/wps.21038. PMID: '
-    '36073678.',
+    'World Psychiatry, 21(2), 331-332. DOI: 10.1002/wps.20982. PMID: '
+    '35524598.',
 
     '[7] Tham chieu noi bo: 4VanDe_BLOCKING_Q1Q3_v2_01062026.docx — '
     'ban tien nhiem voi 4 van de goc.',
@@ -343,7 +343,7 @@ for ref in refs:
 # ============================================================
 # FOOTER
 P('', indent=False)
-P('Soan 07/06/2026', italic=True, align_center=True, indent=False)
+P('Soạn 07/06/2026', italic=True, align_center=True, indent=False)
 
 
 # Clean metadata

@@ -8,6 +8,11 @@
 > được xây dựng/trích xuất từ tài liệu nguồn — RAG index, đồ thị tri thức (KG),
 > bản tóm tắt, metadata, chatbot. Mục tiêu: phát hiện sai lệch giữa cơ sở tri
 > thức và **nguồn gốc** trước khi nó lan vào sản phẩm cuối.
+>
+> **Cập nhật 07/06/2026** — thêm yêu cầu Tham khảo bắt buộc (Mục 7) sau khi
+> audit phát hiện 89,8% bản tóm tắt cũ thiếu danh mục Tham khảo vì template
+> gốc chưa quy định. Từ 07/06/2026, MỌI bản tóm tắt/test design phải có mục
+> "Tham khảo / References" ở cuối file.
 
 ---
 
@@ -163,3 +168,81 @@ tóm tắt/báo cáo dẫn xuất → chatbot. Sửa một bản chưa đủ.
 
 *Mỗi đợt audit: xuất một báo cáo gồm phân bố verdict + danh sách mục lỗi
 (kèm trích dẫn nguyên văn + vị trí) — đó là đầu ra để sửa.*
+
+---
+
+## 7. MỤC THAM KHẢO BẮT BUỘC — yêu cầu chuẩn từ 07/06/2026
+
+> **CỔNG CỨNG (HARD GATE):**
+> **KHÔNG nộp summary / test design / báo cáo phân tích nếu thiếu mục Tham khảo.**
+> **Đây là yêu cầu bắt buộc cho mọi summary từ 07/06/2026 trở đi.**
+> Bối cảnh: audit 07/06/2026 phát hiện 89,8% bản tóm tắt cũ thiếu danh mục
+> Tham khảo. Nguyên nhân gốc: template không quy định → người soạn bỏ qua →
+> không truy vết được nguồn → fact-check khó. Quy định này khoá lỗ hổng đó.
+
+### 7.1. Vị trí và tên mục
+- Đặt ở **cuối file**, ngay trước mọi phụ lục/changelog.
+- Tiêu đề chuẩn: `## Tham khảo / References`.
+- Mỗi mục đánh số `[1]`, `[2]`, ... và được trích dẫn trong thân bài bằng số đó.
+
+### 7.2. Yêu cầu định dạng từng entry (APA-7 + định danh số)
+Mỗi entry **bắt buộc đủ** các thành phần sau (theo APA-7):
+
+1. **Tác giả** — Họ, Chữ cái đầu tên (vd `Nguyen, M. H.`). Tối đa 20 tác giả;
+   từ 21+ ghi tác giả đầu + `... ` + tác giả cuối.
+2. **Năm xuất bản** — trong ngoặc, vd `(2024)`. Preprint: `(2024, March 15)`.
+3. **Tiêu đề bài báo** — câu thường, kết bằng dấu chấm.
+4. **Tên tạp chí** *(in nghiêng)* — đầy đủ, không viết tắt.
+5. **Volume(Issue)** — vd `45(3)`. *Volume in nghiêng*, Issue trong ngoặc.
+6. **Trang** — vd `123–145`. Bài online-only: ghi `Article e12345`.
+
+**Định danh số (BẮT BUỘC nếu có):**
+- **DOI** — dạng URL: `https://doi.org/10.xxxx/xxxxx`. **Bắt buộc nếu paper có DOI.**
+- **PMID** — `PMID: 12345678`. **Bắt buộc nếu paper được index trên PubMed.**
+- **URL** — chỉ dùng cho nguồn KHÔNG có DOI (preprint server, báo cáo WHO, web).
+
+**Liên kết nội bộ (BẮT BUỘC nếu paper là từ canonical_index):**
+- **PDF path** — đường dẫn TƯƠNG ĐỐI tới `02_Papers-goc/`, vd:
+  `02_Papers-goc/Smith_2023_Anxiety_Adolescents.pdf`.
+- Ưu tiên tra cứu trong `04_Co-so-du-lieu/canonical_index.json` (hoặc tương đương)
+  để lấy DOI/PMID/PDF path đã verify, **không tự đoán**.
+
+### 7.3. Ví dụ entry chuẩn
+
+```
+[1] Pascoe, M. C., Hetrick, S. E., & Parker, A. G. (2020). The impact of
+    stress on students in secondary school and higher education.
+    *International Journal of Adolescence and Youth*, *25*(1), 104–112.
+    https://doi.org/10.1080/02673843.2019.1596823
+    PMID: 31736680
+    PDF: 02_Papers-goc/Pascoe_2020_Stress_Students.pdf
+
+[2] World Health Organization. (2022). *World mental health report:
+    Transforming mental health for all*. WHO.
+    https://www.who.int/publications/i/item/9789240049338
+    (Không có DOI/PMID — nguồn WHO; PDF: 02_Papers-goc/WHO_2022_WMHR.pdf)
+```
+
+### 7.4. Quy trình verify trước khi đưa vào Tham khảo
+- Tra `04_Co-so-du-lieu/canonical_index.json` trước → copy entry đã verify.
+- Nếu paper CHƯA có trong canonical_index: verify từng trường (PubMed +
+  Crossref + JCR) **trước khi viết vào file** — xem memory
+  `feedback_verify_tung_entry_truoc_khi_gui.md`.
+- KHÔNG dựa trí nhớ hoặc bản tóm tắt nội bộ để tạo entry.
+
+### 7.5. Liên kết tới memory & tài liệu nội bộ
+- `feedback_doc_phai_co_reference.md` — quy định gốc: mọi doc trả lời phải có
+  Tham khảo với DOI/PMID/URL kiểm chứng + truy vết RAG/KG/glossary nội bộ.
+- `feedback_verify_tung_entry_truoc_khi_gui.md` — HARD GATE verify từng entry.
+- `feedback_quy_trinh_fact_check.md` — 17 loại fact-check cho bài báo/luận án.
+- `04_Co-so-du-lieu/canonical_index.json` — nguồn chuẩn để copy entry đã verify.
+
+### 7.6. Checklist trước khi nộp summary
+- [ ] Có mục `## Tham khảo / References` ở cuối file.
+- [ ] Mỗi khẳng định/số liệu trong thân bài có chỉ số `[n]` trỏ về entry.
+- [ ] Mỗi entry đủ 6 trường APA-7 (tác giả/năm/tiêu đề/tạp chí/vol(iss)/trang).
+- [ ] DOI có mặt cho mọi paper có DOI.
+- [ ] PMID có mặt cho mọi paper trên PubMed.
+- [ ] PDF path tương đối có mặt cho mọi paper trong canonical_index.
+- [ ] URL có mặt cho nguồn không-DOI (WHO, báo cáo, preprint không-DOI).
+- [ ] Mỗi entry đã được verify (PubMed/Crossref/JCR HOẶC copy từ canonical_index).

@@ -1,0 +1,1238 @@
+{
+  "QT001": {
+    "id": "QT001",
+    "descriptor": "Jenkins_et_al_2023_USA",
+    "summary": "QT001_Jenkins_et_al_2023_USA.docx",
+    "translation": "QT001_Jenkins_2023_USA_SanDiego.docx",
+    "pdf": "QT001_Jenkins_2023_USA_SanDiego.pdf",
+    "pdf_folder": "11-bai-ban-dau-va-mo-rong"
+  },
+  "QT002": {
+    "id": "QT002",
+    "descriptor": "Saikia_et_al_2023_India_Assam",
+    "summary": "QT002_Saikia_et_al_2023_India_Assam.docx",
+    "translation": "QT002_Saikia_2023_India_Assam.docx",
+    "pdf": "11_Saikia_2023_IJCM.pdf",
+    "pdf_folder": "11-bai-ban-dau-va-mo-rong",
+    "pdf_path": "02_Papers-goc/11-bai-ban-dau-va-mo-rong/11_Saikia_2023_IJCM.pdf",
+    "verification_note": "PDF path corrected 07/06/2026; sample N=360 (180m/180f) — outlines using N=287 are FABRICATED"
+  },
+  "QT003": {
+    "id": "QT003",
+    "descriptor": "Mandaknalli_Malusare_2021",
+    "summary": "QT003_Mandaknalli_Malusare_2021.docx",
+    "translation": null,
+    "pdf": null,
+    "pdf_folder": null
+  },
+  "QT004": {
+    "id": "QT004",
+    "descriptor": "NSCH_2020_USA",
+    "summary": "QT004_NSCH_2020_USA.docx",
+    "translation": null,
+    "pdf": null,
+    "pdf_folder": null
+  },
+  "QT005": {
+    "id": "QT005",
+    "descriptor": "Alharbi_et_al_2019_SaudiArabia",
+    "summary": "QT005_Alharbi_et_al_2019_SaudiArabia.docx",
+    "translation": null,
+    "pdf": null,
+    "pdf_folder": null
+  },
+  "QT006": {
+    "id": "QT006",
+    "descriptor": "Nakie_et_al_2022_Ethiopia",
+    "summary": "QT006_Nakie_et_al_2022_Ethiopia.docx",
+    "translation": null,
+    "pdf": "QT006_Nakie_et_al_2022_Ethiopia.pdf",
+    "pdf_folder": "The-gioi_Khac"
+  },
+  "QT007": {
+    "id": "QT007",
+    "descriptor": "Chen_et_al_2023_China_BMCPsych",
+    "summary": "QT007_Chen_et_al_2023_China_BMCPsych.docx",
+    "translation": null,
+    "pdf": "QT007_Chen_et_al_2023_China_BMCPsych.pdf",
+    "pdf_folder": "The-gioi_Khac"
+  },
+  "QT008": {
+    "id": "QT008",
+    "descriptor": "Wen_et_al_2020_China_Rural",
+    "summary": "QT008_Wen_et_al_2020_China_Rural.docx",
+    "translation": "QT008_Wen_2020_China_Rural_LPA.docx",
+    "pdf": "QT008_Wen_2020_China_Rural_LPA.pdf",
+    "pdf_folder": "The-gioi_Khac"
+  },
+  "QT009": {
+    "id": "QT009",
+    "descriptor": "Qiu_et_al_2022_China_Parenting",
+    "summary": "QT009_Qiu_et_al_2022_China_Parenting.docx",
+    "translation": null,
+    "pdf": "QT009_Qiu_et_al_2022_China_Parenting.pdf",
+    "pdf_folder": "The-gioi_Khac"
+  },
+  "QT010": {
+    "id": "QT010",
+    "descriptor": "Xu_et_al_2021_China_LargestEpi",
+    "summary": "QT010_Xu_et_al_2021_China_LargestEpi.docx",
+    "translation": "QT010_Xu_2021_China_LargestEpi.docx",
+    "pdf": "QT010_Xu_2021_China_LargestEpi.pdf",
+    "pdf_folder": "11-bai-ban-dau-va-mo-rong"
+  },
+  "QT011": {
+    "id": "QT011",
+    "descriptor": "Bhardwaj_et_al_2020_India_Chandigarh",
+    "summary": "QT011_Bhardwaj_et_al_2020_India_Chandigarh.docx",
+    "translation": null,
+    "pdf": "QT011_Bhardwaj_et_al_2020_India_Chandigarh.pdf",
+    "pdf_folder": "The-gioi_Khac"
+  },
+  "QT012": {
+    "id": "QT012",
+    "descriptor": "GBD_ASEAN_2025_Lancet",
+    "summary": "QT012_GBD_ASEAN_2025_Lancet.docx",
+    "translation": "QT012_GBD_ASEAN_2025_Lancet.docx",
+    "pdf": "QT012_GBD_ASEAN_2025_Lancet.pdf",
+    "pdf_folder": "Dong-Nam-A"
+  },
+  "QT013": {
+    "id": "QT013",
+    "descriptor": "Zhameden_2025_PLOSONE_LMIC",
+    "summary": "QT013_Zhameden_2025_PLOSONE_LMIC.docx",
+    "translation": "QT013_Zhameden_2025_PLOSONE_LMIC.docx",
+    "pdf": "QT013_Zhameden_2025_PLOSONE_LMIC.pdf",
+    "pdf_folder": "The-gioi_Au-My-Uc"
+  },
+  "QT014": {
+    "id": "QT014",
+    "descriptor": "Anderson_2025_Wiley_Narrative",
+    "summary": "QT014_Anderson_2025_Wiley_Narrative.docx",
+    "translation": "QT014_Anderson_2025_Wiley_Narrative.docx",
+    "pdf": "QT014_Anderson_2025_Wiley_Narrative.pdf",
+    "pdf_folder": "The-gioi_Au-My-Uc"
+  },
+  "QT015": {
+    "id": "QT015",
+    "descriptor": "Zhu_2025_BMC_China",
+    "summary": "QT015_Zhu_2025_BMC_China.docx",
+    "translation": "QT015_Zhu_2025_BMC_China.docx",
+    "pdf": "QT015_Zhu_2025_BMC_China.pdf",
+    "pdf_folder": "The-gioi_Khac"
+  },
+  "QT016": {
+    "id": "QT016",
+    "descriptor": "Mudunna_2025_LancetSEA_SouthAsia",
+    "summary": "QT016_Mudunna_2025_LancetSEA_SouthAsia.docx",
+    "translation": "QT016_Mudunna_2025_LancetSEA_SouthAsia.docx",
+    "pdf": "QT016_Mudunna_2025_LancetSEA_SouthAsia.pdf",
+    "pdf_folder": "Dong-Nam-A"
+  },
+  "QT017": {
+    "id": "QT017",
+    "descriptor": "Puyat_2025_Filipino_Youth",
+    "summary": "QT017_Puyat_2025_Filipino_Youth.docx",
+    "translation": "QT017_Puyat_2025_Filipino_Youth.docx",
+    "pdf": "QT017_Puyat_2025_Filipino_Youth.pdf",
+    "pdf_folder": "Dong-Nam-A"
+  },
+  "QT021": {
+    "id": "QT021",
+    "descriptor": "Norway_Brunborg_2025_SocSciMed",
+    "summary": "QT021_Norway_Brunborg_2025_SocSciMed.docx",
+    "translation": "QT021_Norway_Brunborg_2025_SocSciMed.docx",
+    "pdf": "QT021_Norway_Brunborg_2025_SocSciMed.pdf",
+    "pdf_folder": "The-gioi_Au-My-Uc"
+  },
+  "QT022": {
+    "id": "QT022",
+    "descriptor": "ScreenTime_Li_2025_BJCP",
+    "summary": "QT022_ScreenTime_Li_2025_BJCP.docx",
+    "translation": "QT022_ScreenTime_Li_2025_BJCP.docx",
+    "pdf": "QT022_ScreenTime_Li_2025_BJCP.pdf",
+    "pdf_folder": "The-gioi_Au-My-Uc"
+  },
+  "QT023": {
+    "id": "QT023",
+    "descriptor": "JAACAP_USA_Mojtabai_Trends_2024",
+    "summary": "QT023_JAACAP_USA_Mojtabai_Trends_2024.docx",
+    "translation": "QT023_JAACAP_USA_Mojtabai_Trends_2024.docx",
+    "pdf": "QT023_JAACAP_USA_Mojtabai_Trends_2024.pdf",
+    "pdf_folder": "The-gioi_Au-My-Uc"
+  },
+  "QT024": {
+    "id": "QT024",
+    "descriptor": "WHO_Europe_2025_LancetRegional",
+    "summary": "QT024_WHO_Europe_2025_LancetRegional.docx",
+    "translation": "QT024_WHO_Europe_2025_LancetRegional.docx",
+    "pdf": "QT024_WHO_Europe_2025_LancetRegional.pdf",
+    "pdf_folder": "The-gioi_Au-My-Uc"
+  },
+  "QT025": {
+    "id": "QT025",
+    "descriptor": "EpiPsychSci_Crisp_Australia_2025",
+    "summary": "QT025_EpiPsychSci_Crisp_Australia_2025.docx",
+    "translation": "QT025_EpiPsychSci_Crisp_Australia_2025.docx",
+    "pdf": "QT025_EpiPsychSci_Crisp_Australia_2025.pdf",
+    "pdf_folder": "The-gioi_Au-My-Uc"
+  },
+  "QT026": {
+    "id": "QT026",
+    "descriptor": "UK_NHS_Parliament_2025",
+    "summary": "QT026_UK_NHS_Parliament_2025.docx",
+    "translation": "QT026_UK_NHS_Parliament_2025.docx",
+    "pdf": "QT026_UK_NHS_Parliament_2025.pdf",
+    "pdf_folder": "The-gioi_Au-My-Uc"
+  },
+  "QT027": {
+    "id": "QT027",
+    "descriptor": "NatureHumanBehav_Fassi_SocialMedia_2025",
+    "summary": "QT027_NatureHumanBehav_Fassi_SocialMedia_2025.docx",
+    "translation": "QT027_NatureHumanBehav_Fassi_SocialMedia_2025.docx",
+    "pdf": "QT027_NatureHumanBehav_Fassi_SocialMedia_2025.pdf",
+    "pdf_folder": "The-gioi_Au-My-Uc"
+  },
+  "QT028": {
+    "id": "QT028",
+    "descriptor": "AJP_Zugman_PediatricAnxiety_2024",
+    "summary": "QT028_AJP_Zugman_PediatricAnxiety_2024.docx",
+    "translation": "QT028_AJP_Zugman_PediatricAnxiety_2024.docx",
+    "pdf": "QT028_AJP_Zugman_PediatricAnxiety_2024.pdf",
+    "pdf_folder": "The-gioi_Au-My-Uc"
+  },
+  "QT029": {
+    "id": "QT029",
+    "descriptor": "BMC_Li_CBT_NMA_2025",
+    "summary": "QT029_BMC_Li_CBT_NMA_2025.docx",
+    "translation": "QT029_BMC_Li_CBT_NMA_2025.docx",
+    "pdf": "QT029_BMC_Li_CBT_NMA_2025.pdf",
+    "pdf_folder": "The-gioi_Khac"
+  },
+  "QT030": {
+    "id": "QT030",
+    "descriptor": "GBD_Trends_10-24y_2025",
+    "summary": "QT030_GBD_Trends_10-24y_2025.docx",
+    "translation": "QT030_GBD_Trends_10-24y_2025.docx",
+    "pdf": "QT030_GBD_Trends_10-24y_2025.pdf",
+    "pdf_folder": "The-gioi_Khac"
+  },
+  "QT031": {
+    "id": "QT031",
+    "descriptor": "Islam_59Countries_2025",
+    "summary": "QT031_Islam_59Countries_2025.docx",
+    "translation": "QT031_Islam_59Countries_2025.docx",
+    "pdf": "QT031_Islam_59Countries_2025.pdf",
+    "pdf_folder": "The-gioi_Khac"
+  },
+  "QT032": {
+    "id": "QT032",
+    "descriptor": "Ireland_Fitzgerald_MyWorld_2024",
+    "summary": "QT032_Ireland_Fitzgerald_MyWorld_2024.docx",
+    "translation": "QT032_Ireland_Fitzgerald_MyWorld_2024.docx",
+    "pdf": "QT032_Ireland_Fitzgerald_MyWorld_2024.pdf",
+    "pdf_folder": "The-gioi_Au-My-Uc"
+  },
+  "QT033": {
+    "id": "QT033",
+    "descriptor": "JAMA_SchmidtPersson_ScreenMedia_2024",
+    "summary": "QT033_JAMA_SchmidtPersson_ScreenMedia_2024.docx",
+    "translation": "QT033_JAMA_SchmidtPersson_ScreenMedia_2024.docx",
+    "pdf": "QT033_JAMA_SchmidtPersson_ScreenMedia_2024.pdf",
+    "pdf_folder": "The-gioi_Au-My-Uc"
+  },
+  "QT034": {
+    "id": "QT034",
+    "descriptor": "Korea_Cho_MH_Trends_NatSciRep_2024",
+    "summary": "QT034_Korea_Cho_MH_Trends_NatSciRep_2024.docx",
+    "translation": "QT034_Korea_Cho_MH_Trends_NatSciRep_2024.docx",
+    "pdf": "QT034_Korea_Cho_MH_Trends_NatSciRep_2024.pdf",
+    "pdf_folder": "The-gioi_Khac"
+  },
+  "QT035": {
+    "id": "QT035",
+    "descriptor": "Jefferies_SocialAnxiety_7Countries_2020",
+    "summary": "QT035_Jefferies_SocialAnxiety_7Countries_2020.docx",
+    "translation": "QT035_Jefferies_SocialAnxiety_7Countries_2020.docx",
+    "pdf": "QT035_Jefferies_SocialAnxiety_7Countries_2020.pdf",
+    "pdf_folder": "The-gioi_Au-My-Uc"
+  },
+  "QT036": {
+    "id": "QT036",
+    "descriptor": "Moon_Korea_GAD_ML_2025",
+    "summary": "QT036_Moon_Korea_GAD_ML_2025.docx",
+    "translation": "QT036_Moon_Korea_GAD_ML_2025.docx",
+    "pdf": "QT036_Moon_Korea_GAD_ML_2025.pdf",
+    "pdf_folder": "The-gioi_Khac"
+  },
+  "QT037": {
+    "id": "QT037",
+    "descriptor": "Praptomojati_CA-CBT_SEA_AJP_2024",
+    "summary": "QT037_Praptomojati_CA-CBT_SEA_AJP_2024.docx",
+    "translation": "QT037_Praptomojati_CA-CBT_SEA_AJP_2024.docx",
+    "pdf": null,
+    "pdf_folder": null
+  },
+  "QT038": {
+    "id": "QT038",
+    "descriptor": "DeSilva_SriLanka_RCT_2024",
+    "summary": "QT038_DeSilva_SriLanka_RCT_2024.docx",
+    "translation": "QT038_DeSilva_SriLanka_RCT_2024.docx",
+    "pdf": "QT038_DeSilva_SriLanka_RCT_2024.pdf",
+    "pdf_folder": "The-gioi_Khac"
+  },
+  "QT039": {
+    "id": "QT039",
+    "descriptor": "Xian_NMA_SAD_JAD_2024",
+    "summary": "QT039_Xian_NMA_SAD_JAD_2024.docx",
+    "translation": "QT039_Xian_NMA_SAD_JAD_2024.docx",
+    "pdf": "QT039_Xian_NMA_SAD_JAD_2024.pdf",
+    "pdf_folder": "The-gioi_Khac"
+  },
+  "QT040": {
+    "id": "QT040",
+    "descriptor": "Walder_JMIR_DMHI_SAD_2025",
+    "summary": "QT040_Walder_JMIR_DMHI_SAD_2025.docx",
+    "translation": "QT040_Walder_JMIR_DMHI_SAD_2025.docx",
+    "pdf": "QT040_Walder_JMIR_DMHI_SAD_2025.pdf",
+    "pdf_folder": "The-gioi_Au-My-Uc"
+  },
+  "QT041": {
+    "id": "QT041",
+    "descriptor": "Zheng_China_MXH_PRBM_2025",
+    "summary": "QT041_Zheng_China_MXH_PRBM_2025.docx",
+    "translation": "QT041_Zheng_China_MXH_PRBM_2025.docx",
+    "pdf": "QT041_Zheng_China_MXH_PRBM_2025.pdf",
+    "pdf_folder": "The-gioi_Khac"
+  },
+  "QT042": {
+    "id": "QT042",
+    "descriptor": "BrownCarter_UK_School_JMH_2025",
+    "summary": "QT042_BrownCarter_UK_School_JMH_2025.docx",
+    "translation": "QT042_BrownCarter_UK_School_JMH_2025.docx",
+    "pdf": "QT042_BrownCarter_UK_School_JMH_2025.pdf",
+    "pdf_folder": "The-gioi_Au-My-Uc"
+  },
+  "QT043": {
+    "id": "QT043",
+    "descriptor": "Bress_JAMA_Maya_App_2024",
+    "summary": "QT043_Bress_JAMA_Maya_App_2024.docx",
+    "translation": "QT043_Bress_JAMA_Maya_App_2024.docx",
+    "pdf": "QT043_Bress_JAMA_Maya_App_2024.pdf",
+    "pdf_folder": "The-gioi_Au-My-Uc"
+  },
+  "QT044": {
+    "id": "QT044",
+    "descriptor": "Cai_Resilience_Frontiers_2025",
+    "summary": "QT044_Cai_Resilience_Frontiers_2025.docx",
+    "translation": "QT044_Cai_Resilience_Frontiers_2025.docx",
+    "pdf": "QT044_Cai_Resilience_Frontiers_2025.pdf",
+    "pdf_folder": "The-gioi_Khac"
+  },
+  "QT045": {
+    "id": "QT045",
+    "descriptor": "Matsumoto_Japan_iCBT_JMIR_2024",
+    "summary": "QT045_Matsumoto_Japan_iCBT_JMIR_2024.docx",
+    "translation": "QT045_Matsumoto_Japan_iCBT_JMIR_2024.docx",
+    "pdf": "QT045_Matsumoto_Japan_iCBT_JMIR_2024.pdf",
+    "pdf_folder": "The-gioi_Khac"
+  },
+  "QT046": {
+    "id": "QT046",
+    "descriptor": "Jagiello_AcademicStress_SR_2025",
+    "summary": "QT046_Jagiello_AcademicStress_SR_2025.docx",
+    "translation": "QT046_Jagiello_AcademicStress_SR_2025.docx",
+    "pdf": "QT046_Jagiello_AcademicStress_SR_2025.pdf",
+    "pdf_folder": "The-gioi_Au-My-Uc"
+  },
+  "QT047": {
+    "id": "QT047",
+    "descriptor": "Dong_PLOS_DASS_YaAn_2025",
+    "summary": "QT047_Dong_PLOS_DASS_YaAn_2025.docx",
+    "translation": "QT047_Dong_PLOS_DASS_YaAn_2025.docx",
+    "pdf": "QT047_Dong_PLOS_DASS_YaAn_2025.pdf",
+    "pdf_folder": "The-gioi_Khac"
+  },
+  "QT048": {
+    "id": "QT048",
+    "descriptor": "Chen_COVID_Meta141_JAD_2025_ABSTRACT",
+    "summary": "QT048_Chen_COVID_Meta141_JAD_2025_ABSTRACT.docx",
+    "translation": "QT048_Chen_COVID_Meta141_JAD_2025_ABSTRACT.docx",
+    "pdf": null,
+    "pdf_folder": null
+  },
+  "QT049": {
+    "id": "QT049",
+    "descriptor": "Zhang_Bayesian_CBT_JCP_2026_ABSTRACT",
+    "summary": "QT049_Zhang_Bayesian_CBT_JCP_2026_ABSTRACT.docx",
+    "translation": "QT049_Zhang_Bayesian_CBT_JCP_2026_ABSTRACT.docx",
+    "pdf": null,
+    "pdf_folder": null
+  },
+  "QT050": {
+    "id": "QT050",
+    "descriptor": "Qiaochu_MobileCBT_CPP_2025_ABSTRACT",
+    "summary": "QT050_Qiaochu_MobileCBT_CPP_2025_ABSTRACT.docx",
+    "translation": "QT050_Qiaochu_MobileCBT_CPP_2025_ABSTRACT.docx",
+    "pdf": null,
+    "pdf_folder": null
+  },
+  "QT051": {
+    "id": "QT051",
+    "descriptor": "Menon_LMIC_SEA_Pacific_APJPH_2025_ABSTRACT",
+    "summary": "QT051_Menon_LMIC_SEA_Pacific_APJPH_2025_ABSTRACT.docx",
+    "translation": "QT051_Menon_LMIC_SEA_Pacific_APJPH_2025_ABSTRACT.docx",
+    "pdf": null,
+    "pdf_folder": null
+  },
+  "VN001": {
+    "id": "VN001",
+    "descriptor": "Hoa_2024_Frontiers_HaNoi",
+    "summary": "VN001_Hoa_2024_Frontiers_HaNoi.docx",
+    "translation": "VN001_Hoa_2024_Frontiers_HaNoi.docx",
+    "pdf": "VN001_Hoa_2024_Frontiers_HaNoi.pdf",
+    "pdf_folder": "Viet-Nam"
+  },
+  "VN002": {
+    "id": "VN002",
+    "descriptor": "VNAMHS_2022_National",
+    "summary": "VN002_VNAMHS_2022_National.docx",
+    "translation": "VN002_VNAMHS_2022_National.docx",
+    "pdf": "VN002_VNAMHS_2022_National.pdf",
+    "pdf_folder": "Viet-Nam"
+  },
+  "VN003": {
+    "id": "VN003",
+    "descriptor": "Pham_2024_Hue_SocialSupport",
+    "summary": "VN003_Pham_2024_Hue_SocialSupport.docx",
+    "translation": "VN003_Pham_2024_Hue_SocialSupport.docx",
+    "pdf": "VN003_Pham_2024_Hue_SocialSupport.pdf",
+    "pdf_folder": "Viet-Nam"
+  },
+  "VN014": {
+    "id": "VN014",
+    "descriptor": "HoangTrungHoc_2025_VN_COVID",
+    "summary": "VN014_HoangTrungHoc_2025_VN_COVID.docx",
+    "translation": "VN014_HoangTrungHoc_2025_VN_COVID.docx",
+    "pdf": "VN014_HoangTrungHoc_2025_VN_COVID.pdf",
+    "pdf_folder": "Viet-Nam"
+  },
+  "VN015": {
+    "id": "VN015",
+    "descriptor": "NgoAnhVinh_2024_LangSon_DTTS",
+    "summary": "VN015_NgoAnhVinh_2024_LangSon_DTTS.docx",
+    "translation": "VN015_NgoAnhVinh_2024_LangSon_DTTS.docx",
+    "pdf": "VN015_NgoAnhVinh_2024_LangSon_DTTS.pdf",
+    "pdf_folder": "Viet-Nam"
+  },
+  "VN016": {
+    "id": "VN016",
+    "descriptor": "BaoQuyen_2025_YHCD",
+    "summary": "VN016_BaoQuyen_2025_YHCD.docx",
+    "translation": "VN016_BaoQuyen_2025_YHCD.docx",
+    "pdf": "VN016_BaoQuyen_2025_YHCD.pdf",
+    "pdf_folder": "Viet-Nam"
+  },
+  "VN017": {
+    "id": "VN017",
+    "descriptor": "NguyenDanhLam_2022_YHVN",
+    "summary": "VN017_NguyenDanhLam_2022_YHVN.docx",
+    "translation": "VN017_NguyenDanhLam_2022_YHVN.docx",
+    "pdf": "VN017_NguyenDanhLam_2022_YHVN.pdf",
+    "pdf_folder": "Viet-Nam"
+  },
+  "VN018": {
+    "id": "VN018",
+    "descriptor": "AnGiang_2025_YHVN",
+    "summary": "VN018_AnGiang_2025_YHVN.docx",
+    "translation": "VN018_AnGiang_2025_YHVN.docx",
+    "pdf": "VN018_AnGiang_2025_YHVN.pdf",
+    "pdf_folder": "Viet-Nam"
+  },
+  "VN019": {
+    "id": "VN019",
+    "descriptor": "HoThiTrucQuynh_2025_Hue_TLH",
+    "summary": "VN019_HoThiTrucQuynh_2025_Hue_TLH.docx",
+    "translation": "VN019_HoThiTrucQuynh_2025_Hue_TLH.docx",
+    "pdf": "VN019_HoThiTrucQuynh_2025_Hue_TLH.pdf",
+    "pdf_folder": "Viet-Nam"
+  },
+  "VN020": {
+    "id": "VN020",
+    "descriptor": "TranHoVinhLoc_2024_TPHCM_DASS-Y",
+    "summary": "VN020_TranHoVinhLoc_2024_TPHCM_DASS-Y.docx",
+    "translation": "VN020_TranHoVinhLoc_2024_TPHCM_DASS-Y.docx",
+    "pdf": "VN020_TranHoVinhLoc_2024_TPHCM_DASS-Y.pdf",
+    "pdf_folder": "Viet-Nam"
+  },
+  "VN021": {
+    "id": "VN021",
+    "descriptor": "TranThaoVi_2024_JRuralMed_Hue",
+    "summary": "VN021_TranThaoVi_2024_JRuralMed_Hue.docx",
+    "translation": "VN021_TranThaoVi_2024_JRuralMed_Hue.docx",
+    "pdf": "VN021_TranThaoVi_2024_JRuralMed_Hue.pdf",
+    "pdf_folder": "Viet-Nam"
+  },
+  "VN022": {
+    "id": "VN022",
+    "descriptor": "UNICEF_VN_2022_SchoolFactors",
+    "summary": "VN022_UNICEF_VN_2022_SchoolFactors.docx",
+    "translation": "VN022_UNICEF_VN_2022_SchoolFactors.docx",
+    "pdf": "VN022_UNICEF_VN_2022_SchoolFactors.pdf",
+    "pdf_folder": "Viet-Nam"
+  },
+  "VN023": {
+    "id": "VN023",
+    "descriptor": "NguyenLX_VN_COVID_Medicine_2023",
+    "summary": "VN023_NguyenLX_VN_COVID_Medicine_2023.docx",
+    "translation": "VN023_NguyenLX_VN_COVID_Medicine_2023.docx",
+    "pdf": "VN023_NguyenLX_VN_COVID_Medicine_2023.pdf",
+    "pdf_folder": "Viet-Nam"
+  },
+  "VN024": {
+    "id": "VN024",
+    "descriptor": "NguyenThanhTruyen_VinhLong_YHVN_2024",
+    "summary": "VN024_NguyenThanhTruyen_VinhLong_YHVN_2024.docx",
+    "translation": "VN024_NguyenThanhTruyen_VinhLong_YHVN_2024.docx",
+    "pdf": "VN024_NguyenThanhTruyen_VinhLong_YHVN_2024.pdf",
+    "pdf_folder": "Viet-Nam"
+  },
+  "VN025": {
+    "id": "VN025",
+    "descriptor": "PhamThiNgoc_HaiPhong_VinhBao_2024",
+    "summary": "VN025_PhamThiNgoc_HaiPhong_VinhBao_2024.docx",
+    "translation": "VN025_PhamThiNgoc_HaiPhong_VinhBao_2024.docx",
+    "pdf": "VN025_PhamThiNgoc_HaiPhong_VinhBao_2024.pdf",
+    "pdf_folder": "Viet-Nam"
+  },
+  "VN026": {
+    "id": "VN026",
+    "descriptor": "TranDucSi_LongAn_PNT_2025",
+    "summary": "VN026_TranDucSi_LongAn_PNT_2025.docx",
+    "translation": "VN026_TranDucSi_LongAn_PNT_2025.docx",
+    "pdf": "VN026_TranDucSi_LongAn_PNT_2025.pdf",
+    "pdf_folder": "Viet-Nam"
+  },
+  "VN027": {
+    "id": "VN027",
+    "descriptor": "Dinh_SchoolFactors_VN_2021",
+    "summary": "VN027_Dinh_SchoolFactors_VN_2021.docx",
+    "translation": "VN027_Dinh_SchoolFactors_VN_2021.docx",
+    "pdf": "VN027_Dinh_SchoolFactors_VN_2021.pdf",
+    "pdf_folder": "Viet-Nam"
+  },
+  "VN028": {
+    "id": "VN028",
+    "descriptor": "DaoThiNgoan_TCNCYH_SVY4_HMU_2025",
+    "summary": "VN028_DaoThiNgoan_TCNCYH_SVY4_HMU_2025.docx",
+    "translation": "VN028_DaoThiNgoan_TCNCYH_SVY4_HMU_2025.docx",
+    "pdf": "VN028_DaoThiNgoan_TCNCYH_SVY4_HMU_2025.pdf",
+    "pdf_folder": "Viet-Nam"
+  },
+  "VN029": {
+    "id": "VN029",
+    "descriptor": "Duong_SocPsychiatry_2631HS_TPHCM_2025",
+    "summary": "VN029_Duong_SocPsychiatry_2631HS_TPHCM_2025.docx",
+    "translation": "VN029_Duong_SocPsychiatry_2631HS_TPHCM_2025.docx",
+    "pdf": "VN029_Duong_SocPsychiatry_2631HS_TPHCM_2025.pdf",
+    "pdf_folder": "Viet-Nam"
+  },
+  "VN030": {
+    "id": "VN030",
+    "descriptor": "Tran_HappyHouse_Cambridge_2023",
+    "summary": "VN030_Tran_HappyHouse_Cambridge_2023.docx",
+    "translation": "VN030_Tran_HappyHouse_Cambridge_2023.docx",
+    "pdf": null,
+    "pdf_folder": null
+  },
+  "VN004": {
+    "id": "VN004",
+    "descriptor": "NguyenThiVan_2020_STAI_TPHCM",
+    "summary": "VN004_NguyenThiVan_2020_STAI_TPHCM.docx",
+    "translation": null,
+    "pdf": "VN004_NguyenThiVan_2020_STAI_TPHCM.pdf",
+    "pdf_folder": "Viet-Nam"
+  },
+  "VN005": {
+    "id": "VN005",
+    "descriptor": "TranNguyenNgoc_2018_LuanAn_ThuGian_GAD",
+    "summary": "VN005_TranNguyenNgoc_2018_LuanAn_ThuGian_GAD.docx",
+    "translation": null,
+    "pdf": "VN005_TranNguyenNgoc_2018_LuanAn_ThuGian_GAD.pdf",
+    "pdf_folder": "Viet-Nam"
+  },
+  "VN006": {
+    "id": "VN006",
+    "descriptor": "TranThiMyLuong_2020_DASS42_THPTChuyen",
+    "summary": "VN006_TranThiMyLuong_2020_DASS42_THPTChuyen.docx",
+    "translation": null,
+    "pdf": "VN006_TranThiMyLuong_2020_DASS42_THPTChuyen.pdf",
+    "pdf_folder": "Viet-Nam"
+  },
+  "QT018": {
+    "id": "QT018",
+    "descriptor": "Salari_SAD_Prevalence_Global_SR_MA_2024",
+    "summary": "QT018_Salari_SAD_Prevalence_Global_SR_MA_2024.docx",
+    "translation": null,
+    "pdf": "QT018_Salari_SAD_Prevalence_Global_SR_MA_2024.pdf",
+    "pdf_folder": "The-gioi_Khac"
+  },
+  "QT019": {
+    "id": "QT019",
+    "descriptor": "Shibuya_SchoolMH_Literacy_3Asian_2025",
+    "summary": "QT019_Shibuya_SchoolMH_Literacy_3Asian_2025.docx",
+    "translation": null,
+    "pdf": "QT019_Shibuya_SchoolMH_Literacy_3Asian_2025.pdf",
+    "pdf_folder": "The-gioi_Khac"
+  },
+  "QT020": {
+    "id": "QT020",
+    "descriptor": "Liu_CBT_Delivery_GAD_NMA_2025",
+    "summary": "QT020_Liu_CBT_Delivery_GAD_NMA_2025.docx",
+    "translation": null,
+    "pdf": "QT020_Liu_CBT_Delivery_GAD_NMA_2025.pdf",
+    "pdf_folder": "The-gioi_Khac"
+  },
+  "QT052": {
+    "id": "QT052",
+    "descriptor": "Mindfulness_NatureMH_IPD_MA_2023",
+    "summary": "QT052_Mindfulness_NatureMH_IPD_MA_2023.docx",
+    "translation": null,
+    "pdf": "QT052_Mindfulness_NatureMH_IPD_MA_2023.pdf",
+    "pdf_folder": "The-gioi_Au-My-Uc",
+    "scope": "bonus_out_of_scope"
+  },
+  "QT053": {
+    "id": "QT053",
+    "descriptor": "Pharmacotherapy_Anxiety_Review_Frontiers_2020",
+    "summary": "QT053_Pharmacotherapy_Anxiety_Review_Frontiers_2020.docx",
+    "translation": null,
+    "pdf": "QT053_Pharmacotherapy_Anxiety_Review_Frontiers_2020.pdf",
+    "pdf_folder": "The-gioi_Au-My-Uc",
+    "scope": "bonus_out_of_scope"
+  },
+  "QT054": {
+    "id": "QT054",
+    "descriptor": "ChronicStress_Neuroinflammation_FrontPsych_2023",
+    "summary": "QT054_ChronicStress_Neuroinflammation_FrontPsych_2023.docx",
+    "translation": null,
+    "pdf": "QT054_ChronicStress_Neuroinflammation_FrontPsych_2023.pdf",
+    "pdf_folder": "The-gioi_Au-My-Uc",
+    "scope": "bonus_out_of_scope"
+  },
+  "QT055": {
+    "id": "QT055",
+    "descriptor": "Parade_Epigenetics_ChildhoodMaltreatment_TranslPsych_2021",
+    "summary": "QT055_Parade_Epigenetics_ChildhoodMaltreatment_TranslPsych_2021.docx",
+    "translation": null,
+    "pdf": "QT055_Parade_Epigenetics_Maltreatment_TranslPsych_2021.pdf",
+    "pdf_folder": "The-gioi_Au-My-Uc",
+    "scope": "bonus_out_of_scope"
+  },
+  "QT056": {
+    "id": "QT056",
+    "descriptor": "Jiang_Microbiota_GutBrain_Anxiety_FrontNeuro_2024",
+    "summary": "QT056_Jiang_Microbiota_GutBrain_Anxiety_FrontNeuro_2024.docx",
+    "translation": null,
+    "pdf": "QT056_Jiang_Microbiota_GutBrain_Anxiety_FrontNeuro_2024.pdf",
+    "pdf_folder": "The-gioi_Khac",
+    "scope": "bonus_out_of_scope"
+  },
+  "QT057": {
+    "id": "QT057",
+    "descriptor": "NeuralCircuits_Anxiety_FrontNeuralCirc_2025",
+    "summary": "QT057_NeuralCircuits_Anxiety_FrontNeuralCirc_2025.docx",
+    "translation": null,
+    "pdf": "QT057_NeuralCircuits_Mechanisms_Anxiety_FrontNeuralCirc_2025.pdf",
+    "pdf_folder": "The-gioi_Khac",
+    "scope": "bonus_out_of_scope"
+  },
+  "QT058": {
+    "id": "QT058",
+    "descriptor": "Guo_Neuroinflammation_Neuromodulation_TranslPsych_2022",
+    "summary": "QT058_Guo_Neuroinflammation_Neuromodulation_TranslPsych_2022.docx",
+    "translation": null,
+    "pdf": "QT058_Guo_Neuroinflammation_Neuromodulation_TranslPsych_2022.pdf",
+    "pdf_folder": "The-gioi_Khac",
+    "scope": "bonus_out_of_scope"
+  },
+  "VN007": {
+    "id": "VN007",
+    "descriptor": "NguyenTL_Gender_PostPandemic_ItalJMed_2025",
+    "summary": "VN007_NguyenTL_Gender_PostPandemic_ItalJMed_2025.docx",
+    "translation": null,
+    "pdf": null,
+    "pdf_folder": null,
+    "doi": "10.4081/itjm.2025.1888",
+    "source_url": "https://www.italjmed.org/ijm/article/view/1888",
+    "cao_date": "2026-04-24",
+    "scope": "web_caugh_no_pdf"
+  },
+  "QT059": {
+    "id": "QT059",
+    "descriptor": "Cai_SchoolResilience_SR_MA_FrontPsych_2025",
+    "summary": "QT059_Cai_SchoolResilience_SR_MA_FrontPsych_2025.docx",
+    "translation": null,
+    "pdf": null,
+    "pdf_folder": null,
+    "doi": "10.3389/fpsyt.2025.1594658",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12127306/",
+    "cao_date": "2026-04-24",
+    "scope": "web_caugh_no_pdf"
+  },
+  "QT060": {
+    "id": "QT060",
+    "descriptor": "Bie_GlobalAnxiety_GBD_10-24y_1990_2021_FrontPsych_2024",
+    "summary": "QT060_Bie_GlobalAnxiety_GBD_10-24y_1990_2021_FrontPsych_2024.docx",
+    "translation": null,
+    "pdf": "QT060_Bie_GlobalAnxiety_GBD_10-24y_1990_2021_FrontPsych_2024.pdf",
+    "pdf_folder": "The-gioi_Au-My-Uc",
+    "doi": "10.3389/fpsyt.2024.1489427",
+    "source_url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2024.1489427/full",
+    "cao_date": "2026-04-24",
+    "scope": "main"
+  },
+  "QT061": {
+    "id": "QT061",
+    "descriptor": "LiSH_ClearlyMe_CoDesign_CambridgeCBT_2024",
+    "summary": "QT061_LiSH_ClearlyMe_CoDesign_CambridgeCBT_2024.docx",
+    "translation": null,
+    "pdf": "QT061_LiSH_ClearlyMe_CoDesign_CambridgeCBT_2024.pdf",
+    "pdf_folder": "The-gioi_Au-My-Uc",
+    "doi": "10.1017/S1754470X24000345",
+    "scope": "main",
+    "cao_date": "2026-04-24"
+  },
+  "QT062": {
+    "id": "QT062",
+    "descriptor": "Samele_ClearFear_App_JMIRFormative_2025",
+    "summary": "QT062_Samele_ClearFear_App_JMIRFormative_2025.docx",
+    "translation": null,
+    "pdf": "QT062_Samele_ClearFear_App_JMIRFormative_2025.pdf",
+    "pdf_folder": "The-gioi_Au-My-Uc",
+    "doi": "10.2196/55603",
+    "scope": "main",
+    "cao_date": "2026-04-24"
+  },
+  "QT063": {
+    "id": "QT063",
+    "descriptor": "ChenSJ_AppCBTI_DepressionPrev_PLOSMed_2025",
+    "summary": "QT063_ChenSJ_AppCBTI_DepressionPrev_PLOSMed_2025.docx",
+    "translation": null,
+    "pdf": "QT063_ChenSJ_AppCBTI_DepressionPrev_PLOSMed_2025.pdf",
+    "pdf_folder": "The-gioi_Khac",
+    "doi": "10.1371/journal.pmed.1004510",
+    "scope": "main",
+    "cao_date": "2026-04-24"
+  },
+  "QT064": {
+    "id": "QT064",
+    "descriptor": "Stephens_Photovoice_ScopingReview_IntlJAdolYouth_2023",
+    "summary": "QT064_Stephens_Photovoice_ScopingReview_IntlJAdolYouth_2023.docx",
+    "translation": "QT064_Stephens_Photovoice_ScopingReview_IntlJAdolYouth_2023.docx",
+    "pdf": "QT064_Stephens_Photovoice_ScopingReview_IntlJAdolYouth_2023.pdf",
+    "pdf_folder": "The-gioi_Au-My-Uc",
+    "doi": "10.1080/02673843.2023.2244043",
+    "source_url": "https://www.tandfonline.com/doi/full/10.1080/02673843.2023.2244043",
+    "open_access_pdf_url": "https://discovery.ucl.ac.uk/id/eprint/10179741/",
+    "cao_date": "2026-04-29",
+    "scope": "main",
+    "method": "scoping_review_qualitative"
+  },
+  "QT065": {
+    "id": "QT065",
+    "descriptor": "Bradshaw_Lochman_EACP_RCT_JSchPsy_2025",
+    "summary": "QT065_Bradshaw_Lochman_EACP_RCT_JSchPsy_2025.docx",
+    "translation": "QT065_Bradshaw_Lochman_EACP_RCT_JSchPsy_2025.docx",
+    "pdf": "QT065_Bradshaw_Lochman_EACP_RCT_JSchPsy_2025.pdf",
+    "pdf_folder": "The-gioi_Au-My-Uc",
+    "doi": "10.1016/j.jsp.2025.101437",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/40506167/",
+    "pmc": "PMC12163234 (embargo đến 2026-06-01)",
+    "lead_author_email": "cpb6n@virginia.edu (Catherine P. Bradshaw, UVA)",
+    "cao_date": "2026-04-29",
+    "scope": "main",
+    "method": "RCT cluster school-level",
+    "has_pdf": true
+  },
+  "QT066": {
+    "id": "QT066",
+    "descriptor": "Murphy_PeerSupport_ScopingReview_JCommPsych_2024",
+    "summary": "QT066_Murphy_PeerSupport_ScopingReview_JCommPsych_2024.docx",
+    "translation": "QT066_Murphy_PeerSupport_ScopingReview_JCommPsych_2024.docx",
+    "pdf": "QT066_Murphy_PeerSupport_ScopingReview_JCommPsych_2024.pdf",
+    "pdf_folder": "The-gioi_Au-My-Uc",
+    "doi": "10.1002/jcop.23090",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/37740958/",
+    "pmc": null,
+    "lead_author_email": "rachel.murphy@ucd.ie (Rachel Murphy, University College Dublin)",
+    "cao_date": "2026-04-29",
+    "scope": "main",
+    "method": "Scoping review",
+    "has_pdf": true
+  },
+  "QT067": {
+    "id": "QT067",
+    "descriptor": "Pascoe_AcademicStress_IJAY_2020",
+    "summary": "QT067_Pascoe_AcademicStress_IJAY_2020.docx",
+    "translation": "QT067_Pascoe_AcademicStress_IJAY_2020.docx",
+    "pdf": "QT067_Pascoe_AcademicStress_IJAY_2020.pdf",
+    "pdf_folder": "The-gioi_Au-My-Uc",
+    "doi": "10.1080/02673843.2019.1596823",
+    "pubmed": null,
+    "pmc": null,
+    "lead_author_email": "michaela.pascoe@vu.edu.au (Michaela Pascoe, Victoria University)",
+    "cao_date": "2026-05-01",
+    "scope": "main",
+    "method": "Narrative review",
+    "has_pdf": true
+  },
+  "QT068": {
+    "descriptor": "Urao_2018_JapanCBT_Journey_BMC",
+    "summary": "QT068_Urao_2018_JapanCBT_BMC.docx",
+    "pdf_folder": "Khac"
+  },
+  "QT069": {
+    "descriptor": "Urao_2022_JourneyBrave_14sessions_BMC",
+    "summary": "QT069_Urao_2022_JourneyBrave_14sessions_BMC.docx",
+    "pdf_folder": "The-gioi_Au-My-Uc"
+  },
+  "QT070": {
+    "descriptor": "Moore_2017_BullyingMeta_WorldJPsy",
+    "summary": "QT070_Moore_2017_BullyingMeta_WorldJPsy.docx",
+    "pdf_folder": "The-gioi_Au-My-Uc"
+  },
+  "QT071": {
+    "descriptor": "MatsumotoK_2024_iCBT_SAD_JMIR",
+    "summary": "QT071_MatsumotoK_2024_iCBT_SAD_JMIR.docx",
+    "pdf_folder": "The-gioi_Au-My-Uc"
+  },
+  "QT072": {
+    "descriptor": "Lee_2025_CyberbullyingMeta_TVA",
+    "summary": "QT072_Lee_2025_CyberbullyingMeta_TVA.docx",
+    "pdf": "QT072_Lee_2025_CyberbullyingMeta_TVA.pdf",
+    "pdf_folder": "02_Papers-goc"
+  },
+  "QT073": {
+    "descriptor": "He_2025_PowerUpCBTD_China_JAD",
+    "summary": "QT073_He_2025_PowerUpCBTD_China_JAD.docx",
+    "pdf": "QT073_He_2025_PowerUpCBTD_China_JAD.pdf",
+    "pdf_folder": "02_Papers-goc"
+  },
+  "QT074": {
+    "id": "QT074",
+    "descriptor": "Karasu_1986_USA_Psychotherapies",
+    "summary": null,
+    "translation": null,
+    "pdf": "karasu1986.pdf",
+    "pdf_path": "02_Papers-goc/karasu1986.pdf",
+    "authors": [
+      "T. Byram Karasu"
+    ],
+    "title": "The Psychotherapies: Benefits and Limitations",
+    "journal": "American Journal of Psychotherapy",
+    "volume": "40",
+    "issue": "3",
+    "pages": "324-342",
+    "year": 1986,
+    "pmid": "3094389",
+    "doi": "10.1176/appi.psychotherapy.1986.40.3.324",
+    "topic": "Psychotherapy schools / Number of approaches",
+    "key_finding": "over 450 types polled nationwide (page 325)",
+    "used_for": "Verify_BaoVeLA Q&A 2 (số trường phái tâm lý trị liệu)",
+    "added": "2026-06-07"
+  },
+  "QT075": {
+    "id": "QT075",
+    "descriptor": "Karasu_BioSketch_Einstein_2014",
+    "summary": null,
+    "translation": null,
+    "pdf": "biosketch_karasu_062112.pdf",
+    "pdf_path": "02_Papers-goc/biosketch_karasu_062112.pdf",
+    "authors": [
+      "T. Byram Karasu"
+    ],
+    "title": "Biographical sketch (T. Byram Karasu, M.D.)",
+    "source": "Albert Einstein College of Medicine official bio",
+    "date": "2014-02-14",
+    "topic": "Author credentials verification",
+    "key_facts": "21 books, 100+ papers, Distinguished Life Fellow APA, Editor-in-Chief emeritus AJ Psychotherapy, 400+ scholars task force chair (1981)",
+    "used_for": "Verify_BaoVeLA Karasu authority confirmation",
+    "added": "2026-06-07"
+  },
+  "BB01": {
+    "id": "BB01",
+    "descriptor": "Jenkins_2023_USA",
+    "summary": null,
+    "translation": null,
+    "pdf": "QT001_Jenkins_2023_USA_SanDiego.pdf",
+    "pdf_path": "02_Papers-goc/11-bai-ban-dau-va-mo-rong/QT001_Jenkins_2023_USA_SanDiego.pdf",
+    "topic": "Anxiety epidemiology - USA (San Diego)",
+    "set": "11-bai-ban-dau-va-mo-rong",
+    "added": "2026-06-07",
+    "note": "Bộ 11 bài ban đầu + mở rộng cho LA NCS Công Thị Hằng"
+  },
+  "BB02": {
+    "id": "BB02",
+    "descriptor": "Bhardwaj_2020_India",
+    "summary": null,
+    "translation": null,
+    "pdf": "_MISLABELED_QT002_Saikia_actually_Bhardwaj_2020.pdf",
+    "pdf_path": "02_Papers-goc/11-bai-ban-dau-va-mo-rong/_MISLABELED_QT002_Saikia_actually_Bhardwaj_2020.pdf",
+    "topic": "Anxiety epidemiology - India (Chandigarh) - filename mislabeled, actual author Bhardwaj 2020",
+    "set": "11-bai-ban-dau-va-mo-rong",
+    "added": "2026-06-07",
+    "note": "Bộ 11 bài ban đầu + mở rộng cho LA NCS Công Thị Hằng"
+  },
+  "BB03": {
+    "id": "BB03",
+    "descriptor": "Mandaknalli_Malusare_2021",
+    "summary": null,
+    "translation": null,
+    "pdf": "03_Mandaknalli_Malusare_2021.pdf",
+    "pdf_path": "02_Papers-goc/11-bai-ban-dau-va-mo-rong/03_Mandaknalli_Malusare_2021.pdf",
+    "topic": "Anxiety / mental health - India",
+    "set": "11-bai-ban-dau-va-mo-rong",
+    "added": "2026-06-07",
+    "note": "Bộ 11 bài ban đầu + mở rộng cho LA NCS Công Thị Hằng"
+  },
+  "BB05": {
+    "id": "BB05",
+    "descriptor": "Alharbi_et_al_2019_SaudiArabia",
+    "summary": null,
+    "translation": null,
+    "pdf": "05_Alharbi_et_al_2019.pdf",
+    "pdf_path": "02_Papers-goc/11-bai-ban-dau-va-mo-rong/05_Alharbi_et_al_2019.pdf",
+    "topic": "Anxiety / mental health - Saudi Arabia",
+    "set": "11-bai-ban-dau-va-mo-rong",
+    "added": "2026-06-07",
+    "note": "Bộ 11 bài ban đầu + mở rộng cho LA NCS Công Thị Hằng"
+  },
+  "BB06": {
+    "id": "BB06",
+    "descriptor": "Nakie_et_al_2022_Ethiopia",
+    "summary": null,
+    "translation": null,
+    "pdf": "06_Nakie_et_al_2022.pdf",
+    "pdf_path": "02_Papers-goc/11-bai-ban-dau-va-mo-rong/06_Nakie_et_al_2022.pdf",
+    "topic": "Anxiety / depression - Ethiopia",
+    "set": "11-bai-ban-dau-va-mo-rong",
+    "added": "2026-06-07",
+    "note": "Bộ 11 bài ban đầu + mở rộng cho LA NCS Công Thị Hằng"
+  },
+  "BB07": {
+    "id": "BB07",
+    "descriptor": "Chen_et_al_2023_China_BMCPsych",
+    "summary": null,
+    "translation": null,
+    "pdf": "07_Chen_et_al_2023.pdf",
+    "pdf_path": "02_Papers-goc/11-bai-ban-dau-va-mo-rong/07_Chen_et_al_2023.pdf",
+    "topic": "Anxiety - China (BMC Psychiatry)",
+    "set": "11-bai-ban-dau-va-mo-rong",
+    "added": "2026-06-07",
+    "note": "Bộ 11 bài ban đầu + mở rộng cho LA NCS Công Thị Hằng"
+  },
+  "BB08": {
+    "id": "BB08",
+    "descriptor": "Wen_et_al_2020_China_Rural",
+    "summary": null,
+    "translation": null,
+    "pdf": "08_Wen_et_al_2020.pdf",
+    "pdf_path": "02_Papers-goc/11-bai-ban-dau-va-mo-rong/08_Wen_et_al_2020.pdf",
+    "topic": "Anxiety - rural China, latent profile analysis",
+    "set": "11-bai-ban-dau-va-mo-rong",
+    "added": "2026-06-07",
+    "note": "Bộ 11 bài ban đầu + mở rộng cho LA NCS Công Thị Hằng"
+  },
+  "BB09": {
+    "id": "BB09",
+    "descriptor": "Qiu_et_al_2022_China_Parenting",
+    "summary": null,
+    "translation": null,
+    "pdf": "09_Qiu_et_al_2022.pdf",
+    "pdf_path": "02_Papers-goc/11-bai-ban-dau-va-mo-rong/09_Qiu_et_al_2022.pdf",
+    "topic": "Anxiety & parenting - China",
+    "set": "11-bai-ban-dau-va-mo-rong",
+    "added": "2026-06-07",
+    "note": "Bộ 11 bài ban đầu + mở rộng cho LA NCS Công Thị Hằng"
+  },
+  "BB10": {
+    "id": "BB10",
+    "descriptor": "Xu_2021_China_LargestEpi",
+    "summary": null,
+    "translation": null,
+    "pdf": "QT010_Xu_2021_China_LargestEpi.pdf",
+    "pdf_path": "02_Papers-goc/11-bai-ban-dau-va-mo-rong/QT010_Xu_2021_China_LargestEpi.pdf",
+    "topic": "Largest anxiety epidemiology study - China",
+    "set": "11-bai-ban-dau-va-mo-rong",
+    "added": "2026-06-07",
+    "note": "Bộ 11 bài ban đầu + mở rộng cho LA NCS Công Thị Hằng"
+  },
+  "BB11": {
+    "id": "BB11",
+    "descriptor": "Saikia_2023_IJCM",
+    "summary": null,
+    "translation": null,
+    "pdf": "11_Saikia_2023_IJCM.pdf",
+    "pdf_path": "02_Papers-goc/11-bai-ban-dau-va-mo-rong/11_Saikia_2023_IJCM.pdf",
+    "topic": "Anxiety - India (Indian J Community Medicine)",
+    "set": "11-bai-ban-dau-va-mo-rong",
+    "added": "2026-06-07",
+    "note": "Bộ 11 bài ban đầu + mở rộng cho LA NCS Công Thị Hằng"
+  },
+  "BB12": {
+    "id": "BB12",
+    "descriptor": "VNAMHS_2023_Vietnam",
+    "summary": null,
+    "translation": null,
+    "pdf": "12_VNAMHS_2023.pdf",
+    "pdf_path": "02_Papers-goc/11-bai-ban-dau-va-mo-rong/12_VNAMHS_2023.pdf",
+    "topic": "Vietnam National Adolescent Mental Health Survey (VNAMHS) 2023",
+    "set": "11-bai-ban-dau-va-mo-rong",
+    "added": "2026-06-07",
+    "note": "Bộ 11 bài ban đầu + mở rộng cho LA NCS Công Thị Hằng"
+  },
+  "BB14": {
+    "id": "BB14",
+    "descriptor": "Vietnam_COVID_DAS",
+    "summary": null,
+    "translation": null,
+    "pdf": "14_Vietnam_COVID_DAS.pdf",
+    "pdf_path": "02_Papers-goc/11-bai-ban-dau-va-mo-rong/14_Vietnam_COVID_DAS.pdf",
+    "topic": "COVID-19 depression/anxiety/stress (DASS) - Vietnam",
+    "set": "11-bai-ban-dau-va-mo-rong",
+    "added": "2026-06-07",
+    "note": "Bộ 11 bài ban đầu + mở rộng cho LA NCS Công Thị Hằng"
+  },
+  "BB18": {
+    "id": "BB18",
+    "descriptor": "Rising_Burden_2024",
+    "summary": null,
+    "translation": null,
+    "pdf": "18_Rising_Burden_2024.pdf",
+    "pdf_path": "02_Papers-goc/11-bai-ban-dau-va-mo-rong/18_Rising_Burden_2024.pdf",
+    "topic": "Rising burden of anxiety/mental disorders - global 2024",
+    "set": "11-bai-ban-dau-va-mo-rong",
+    "added": "2026-06-07",
+    "note": "Bộ 11 bài ban đầu + mở rộng cho LA NCS Công Thị Hằng"
+  },
+  "BB19": {
+    "id": "BB19",
+    "descriptor": "LMIC_Prevention_2024",
+    "summary": null,
+    "translation": null,
+    "pdf": "19_LMIC_Prevention_2024.pdf",
+    "pdf_path": "02_Papers-goc/11-bai-ban-dau-va-mo-rong/19_LMIC_Prevention_2024.pdf",
+    "topic": "Prevention of anxiety in low- and middle-income countries (LMIC) 2024",
+    "set": "11-bai-ban-dau-va-mo-rong",
+    "added": "2026-06-07",
+    "note": "Bộ 11 bài ban đầu + mở rộng cho LA NCS Công Thị Hằng"
+  },
+  "BB22": {
+    "id": "BB22",
+    "descriptor": "Nepal_2023",
+    "summary": null,
+    "translation": null,
+    "pdf": "22_Nepal_2023.pdf",
+    "pdf_path": "02_Papers-goc/11-bai-ban-dau-va-mo-rong/22_Nepal_2023.pdf",
+    "topic": "Anxiety / mental health - Nepal 2023",
+    "set": "11-bai-ban-dau-va-mo-rong",
+    "added": "2026-06-07",
+    "note": "Bộ 11 bài ban đầu + mở rộng cho LA NCS Công Thị Hằng"
+  },
+  "QT076": {
+    "id": "QT076",
+    "descriptor": "Small_Blanc_2021_USA_TamGiao_VN",
+    "summary": null,
+    "translation": null,
+    "pdf": "Small_Blanc_2021_TamGiao_Vietnam.pdf",
+    "pdf_path": "02_Papers-goc/Chua-phan-loai/Small_Blanc_2021_TamGiao_Vietnam.pdf",
+    "authors": [
+      "Sean Small",
+      "Judite Blanc"
+    ],
+    "title": "Mental Health During COVID-19: Tam Giao and Vietnam's Response",
+    "journal": "Frontiers in Psychiatry",
+    "volume": "11",
+    "pages": "589618",
+    "year": 2021,
+    "doi": "10.3389/fpsyt.2020.589618",
+    "pmc": "PMC7820702",
+    "topic": "Tam Giao Vietnam cultural framework",
+    "used_for": "Q1 Section 4.4 — peer support / cultural restraint",
+    "verification_status": "PMC_FULLTEXT_VERIFIED + PDF downloaded",
+    "added": "2026-06-07"
+  },
+  "QT077": {
+    "id": "QT077",
+    "descriptor": "Stankov_2010_Australia_ConfucianAcademic",
+    "summary": null,
+    "translation": null,
+    "pdf": "Stankov_2010_Confucian_Academic.pdf",
+    "pdf_path": "02_Papers-goc/Chua-phan-loai/Stankov_2010_Confucian_Academic.pdf",
+    "authors": [
+      "Lazar Stankov"
+    ],
+    "title": "Unforgiving Confucian culture: A breeding ground for high academic achievement, test anxiety and self-doubt?",
+    "journal": "Learning and Individual Differences",
+    "volume": "20",
+    "issue": "6",
+    "pages": "555-563",
+    "year": 2010,
+    "doi": "10.1016/j.lindif.2010.05.003",
+    "eric_id": "EJ905763",
+    "topic": "Confucian academic culture; test anxiety",
+    "used_for": "Q1 Section 1.1 — Vietnamese context",
+    "verification_status": "PDF DOWNLOADED + page 1 verified directly (07/06/2026)",
+    "added": "2026-06-07",
+    "pdf_backup": "02_Papers-goc/Chua-phan-loai/Stankov_2010_Confucian_Academic_ScienceDirect.pdf",
+    "key_finding_quote": "Confucian Asian students show higher levels of anxiety and self-doubt accompanying high academic achievement — argued as the driving force behind the combination of high achievement and negative psychological outcomes"
+  },
+  "QT078": {
+    "id": "QT078",
+    "descriptor": "Rose_2002_USA_CoRumination",
+    "summary": null,
+    "translation": null,
+    "pdf": "Rose_2002_CoRumination.pdf",
+    "pdf_path": "02_Papers-goc/Chua-phan-loai/Rose_2002_CoRumination.pdf",
+    "authors": [
+      "Amanda J. Rose"
+    ],
+    "title": "Co-rumination in the friendships of girls and boys",
+    "journal": "Child Development",
+    "volume": "73",
+    "issue": "6",
+    "pages": "1830-1843",
+    "year": 2002,
+    "pmid": "12487497",
+    "doi": "10.1111/1467-8624.00509",
+    "topic": "Co-rumination hypothesis; peer disclosure; depression/anxiety symptoms",
+    "used_for": "Q1 Section 4.4 — co-rumination explanation peer support null",
+    "verification_status": "PDF DOWNLOADED + page 1 verified (07/06/2026); N=608 3rd-9th grade",
+    "added": "2026-06-07",
+    "key_passage": "Co-rumination refers to extensively discussing and revisiting problems, speculating about problems, and focusing on negative feelings (page 1830 abstract)"
+  },
+  "QT079": {
+    "id": "QT079",
+    "descriptor": "Kieling_2024_JAMA_Worldwide_Adolescent_GBD",
+    "summary": null,
+    "translation": null,
+    "pdf": null,
+    "pdf_path": null,
+    "authors": [
+      "Christian Kieling",
+      "Claudia Buchweitz",
+      "Arthur Caye",
+      "Juliana Silvani",
+      "Stephanie H Ameis",
+      "André R Brunoni",
+      "Katherine T Cost",
+      "Darren B Courtney",
+      "Katholiki Georgiades",
+      "Kathleen Ries Merikangas",
+      "Joanna L Henderson",
+      "Guilherme V Polanczyk",
+      "Luis Augusto Rohde",
+      "Giovanni A Salum",
+      "Peter Szatmari"
+    ],
+    "title": "Worldwide Prevalence and Disability From Mental Disorders Across Childhood and Adolescence: Evidence From the Global Burden of Disease Study",
+    "journal": "JAMA Psychiatry",
+    "volume": "81",
+    "issue": "4",
+    "pages": "347-356",
+    "year": 2024,
+    "doi": "10.1001/jamapsychiatry.2023.5051",
+    "pmid": "38294785",
+    "pmc": "PMC10831630",
+    "topic": "Worldwide adolescent mental disorder prevalence; GBD 2019",
+    "used_for": "Q1 v6 reference",
+    "verification_status": "EXTERNALLY VERIFIED via PubMed 07/06/2026",
+    "added": "2026-06-07",
+    "pdf_download_status": "FAILED — PMC anti-bot blocks programmatic download (HTML returned). Manual download URLs: https://pubmed.ncbi.nlm.nih.gov/38294785/ | https://pmc.ncbi.nlm.nih.gov/articles/PMC10831630/ | https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2814712"
+  },
+  "QT080": {
+    "id": "QT080",
+    "descriptor": "Niwenahisemo_2024_Frontiers_GAD7_Rwanda",
+    "summary": null,
+    "translation": null,
+    "pdf": "Niwenahisemo_2024_GAD7_Rwanda.pdf",
+    "pdf_path": "02_Papers-goc/Chua-phan-loai/Niwenahisemo_2024_GAD7_Rwanda.pdf",
+    "authors": [
+      "Lambert Curtis Niwenahisemo",
+      "Su Hong",
+      "Li Kuang"
+    ],
+    "title": "Assessing anxiety symptom severity in Rwandese adolescents: cross-gender measurement invariance of the Generalized Anxiety Disorder-7 (GAD-7) scale",
+    "journal": "Frontiers in Psychiatry",
+    "volume": "15",
+    "issue": null,
+    "pages": "1346267",
+    "year": 2024,
+    "doi": "10.3389/fpsyt.2024.1346267",
+    "pmid": "38528981",
+    "topic": "GAD-7 measurement invariance; adolescent anxiety LMIC (Rwanda)",
+    "used_for": "Q1 v6 reference",
+    "verification_status": "EXTERNALLY VERIFIED via PubMed 07/06/2026; author #2 corrected from 'Su H' to 'Hong S' per ORCID/Frontiers",
+    "added": "2026-06-07",
+    "pdf_download_status": "DOWNLOADED 07/06/2026 — Frontiers OA endpoint, 618354 bytes, %PDF-1.4 verified"
+  },
+  "QT081": {
+    "id": "QT081",
+    "descriptor": "Robson_2025_LancetPsychiatry_CATS_Australia",
+    "summary": null,
+    "translation": null,
+    "pdf": null,
+    "pdf_path": null,
+    "authors": [
+      "Elizabeth M Robson",
+      "Hanafi Mohamad Husin",
+      "S Ghazaleh Dashti",
+      "Nandita Vijayakumar",
+      "Margarita Moreno-Betancur",
+      "Paul Moran",
+      "George C Patton",
+      "Susan M Sawyer"
+    ],
+    "title": "Tracking the course of depressive and anxiety symptoms across adolescence (the CATS study): a population-based cohort study in Australia",
+    "journal": "Lancet Psychiatry",
+    "volume": "12",
+    "issue": "1",
+    "pages": "44-53",
+    "year": 2025,
+    "doi": "10.1016/S2215-0366(24)00361-4",
+    "pmid": "39644904",
+    "topic": "Adolescent depression/anxiety symptom trajectories; CATS cohort",
+    "used_for": "Q1 v6 reference",
+    "verification_status": "EXTERNALLY VERIFIED via PubMed 07/06/2026",
+    "added": "2026-06-07",
+    "pdf_download_status": "NOT ATTEMPTED — paywalled (Lancet Psychiatry). Manual download URLs: https://pubmed.ncbi.nlm.nih.gov/39644904/ | https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(24)00361-4/fulltext (institutional access required)"
+  },
+  "QT082": {
+    "id": "QT082",
+    "descriptor": "Grummitt_2025_eClinicalMedicine_OurFutures",
+    "summary": null,
+    "translation": null,
+    "pdf": null,
+    "pdf_path": null,
+    "authors": [
+      "Lucinda Grummitt",
+      "Siobhan O'Dean",
+      "Louise Birrell"
+    ],
+    "title": "OurFutures Mental Health: a universal school-based digital intervention to prevent adolescent anxiety and depression",
+    "journal": "eClinicalMedicine",
+    "volume": "90",
+    "issue": null,
+    "pages": "103672",
+    "year": 2025,
+    "doi": "10.1016/j.eclinm.2025.103672",
+    "pmid": "41399472",
+    "pmc": "PMC12702296",
+    "topic": "School-based digital prevention; adolescent anxiety/depression intervention",
+    "used_for": "Q1 v6 reference",
+    "verification_status": "EXTERNALLY VERIFIED via PubMed 07/06/2026",
+    "added": "2026-06-07",
+    "pdf_download_status": "FAILED — Lancet (Cloudflare 403) + PMC (anti-bot HTML) + Europe PMC (connection reset) all blocked. Manual download URLs: https://pmc.ncbi.nlm.nih.gov/articles/PMC12702296/ | https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(25)00606-6/fulltext | https://linkinghub.elsevier.com/retrieve/pii/S2589-5370(25)00606-6 (Elsevier marked as free OA resource)"
+  }
+}

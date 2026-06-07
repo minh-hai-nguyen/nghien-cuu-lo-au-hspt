@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Sinh file: bai-bao-Q1/PhuongAnXuLy_Q1toQ2_07062026.docx
-Bối cảnh: Quyết định 07/06/2026 của thầy MĐ — bỏ phần định tính, chuyển Q1 → Q2.
+Bối cảnh: Quyết định 07/06/2026 của thầy Nguyễn Minh Đức — bỏ phần định tính, chuyển Q1 → Q2.
 Soạn: 07/06/2026
 """
 
@@ -122,7 +122,7 @@ def add_table(headers, rows):
 
 # Tiêu đề
 add_heading("PHƯƠNG ÁN XỬ LÝ — CHUYỂN BÀI BÁO TỪ Q1 SANG Q2", level=0)
-add_heading("Theo quyết định của thầy MĐ ngày 07/06/2026", level=2)
+add_heading("Theo quyết định của thầy Nguyễn Minh Đức ngày 07/06/2026", level=2)
 p = doc.add_paragraph()
 p.alignment = WD_ALIGN_PARAGRAPH.CENTER
 r = p.add_run("Bản v3 — Phiên 07/06/2026")
@@ -134,7 +134,7 @@ r.font.size = Pt(11)
 add_heading("1. BỐI CẢNH QUYẾT ĐỊNH", level=1)
 
 add_para(
-    "Ngày 07/06/2026, thầy MĐ (cố vấn chính của nhóm tác giả NCS Công Thị Hằng) đã gửi "
+    "Ngày 07/06/2026, thầy Nguyễn Minh Đức (cố vấn chính của nhóm tác giả NCS Công Thị Hằng) đã gửi "
     "tin nhắn chỉ đạo gồm ba điểm chốt sau khi xem bản nháp Q1 phiên bản 7 "
     "(Draft_Q1_SongNgu_v7_01062026.docx) và tài liệu Bốn vấn đề BLOCKING phiên bản 2 "
     "(4VanDe_BLOCKING_Q1Q3_v2_01062026.docx) [1] [2]:"
@@ -194,7 +194,7 @@ add_para(
 )
 
 add_para(
-    "Em xin trích nguyên văn tin nhắn của thầy MĐ ngày 07/06/2026: \"Thầy đã đọc kỹ các phân "
+    "Em xin trích nguyên văn tin nhắn của thầy Nguyễn Minh Đức ngày 07/06/2026: \"Thầy đã đọc kỹ các phân "
     "tích của em về những sai lầm của tư liệu thứ cấp hoặc tư liệu đến từ Google và các số "
     "liệu chính xác em đưa ra dựa theo các nguồn tư liệu và tác giả đáng tin cậy nhất. Những "
     "gợi ý của em về cách trích dẫn, cách trả lời các câu hỏi dự kiến của HĐ trong buổi bảo "
@@ -272,7 +272,7 @@ add_para(
     "từ nộp tới quyết định đầu tiên là khoảng 60–90 ngày, từ nộp tới accepted trung bình "
     "95–120 ngày, từ accepted tới online publication thêm 15–30 ngày. Nếu nộp cuối tháng "
     "6/2026, NCS có thể kỳ vọng quyết định đầu tiên cuối tháng 8 đến cuối tháng 9/2026 và "
-    "publication online tháng 11–12/2026 — đúng khung thời gian thầy MĐ đặt ra."
+    "publication online tháng 11–12/2026 — đúng khung thời gian thầy Nguyễn Minh Đức đặt ra."
 )
 
 add_para(
@@ -412,7 +412,7 @@ add_para(
 )
 
 add_bullet(
-    "Hướng 1 — Q3 companion: Theo chiến lược Q3-9 đã được thầy MĐ phê duyệt, bài Q3 "
+    "Hướng 1 — Q3 companion: Theo chiến lược Q3-9 đã được thầy Nguyễn Minh Đức phê duyệt, bài Q3 "
     "companion (ban đầu là PLOS ONE) có thể tái thiết kế thành nghiên cứu mixed-methods "
     "riêng với trọng tâm là qualitative interview. Q3 mới mô tả khung chủ đề Braun & "
     "Clarke từ 12–15 phỏng vấn sâu + joint-display matrix với SEM đã công bố trong Q2. "
@@ -428,7 +428,7 @@ add_bullet(
 
 add_para(
     "Em khuyến nghị chọn Hướng 1 (Q3 companion) vì tận dụng tối đa tư liệu đã thu thập và "
-    "tăng tính liên kết giữa hai bài đăng song hành. Quyết định cuối phụ thuộc thầy MĐ "
+    "tăng tính liên kết giữa hai bài đăng song hành. Quyết định cuối phụ thuộc thầy Nguyễn Minh Đức "
     "sau khi NCS hoàn tất phỏng vấn quý 4/2026."
 )
 
@@ -445,7 +445,7 @@ add_table(
          "Bản nháp v8 SEM-only · bỏ toàn bộ phần định tính · viết lại Title + Abstract + 2.1 + 4 Discussion",
          "7 ngày"],
         ["Tuần 2 (14–21/06)",
-         "Em rà soát chéo · NCS xác nhận letter đạo đức HNUE · thầy MĐ + thầy NMĐ duyệt v8",
+         "Em rà soát chéo · NCS xác nhận letter đạo đức HNUE · thầy Nguyễn Minh Đức duyệt v8",
          "7 ngày"],
         ["Tuần 3 (21–28/06)",
          "Bản nháp v9 final · dịch bilingual hoàn chỉnh · chuẩn bị cover letter + figure files",
@@ -462,7 +462,7 @@ add_table(
 add_para(
     "Tổng thời gian từ nộp tới publication dự kiến 5–7 tháng, sớm hơn đáng kể so với "
     "phương án Q1 BMC Psychiatry trước đó (8–12 tháng). Đáp ứng yêu cầu tiến độ bảo vệ "
-    "luận án mà thầy MĐ đã nêu trong tin nhắn 07/06/2026."
+    "luận án mà thầy Nguyễn Minh Đức đã nêu trong tin nhắn 07/06/2026."
 )
 
 add_heading("5.1. Chi tiết milestone từng tuần", level=2)
@@ -473,7 +473,7 @@ add_para(
 )
 
 add_bullet(
-    "Tuần 1 (07–14/06): NCS xác nhận letter đạo đức HNUE + IRB number. Thầy MĐ + thầy NMĐ "
+    "Tuần 1 (07–14/06): NCS xác nhận letter đạo đức HNUE + IRB number. Thầy Nguyễn Minh Đức "
     "review Q2 v1 (bản nháp v8 SEM-only) trong 5 ngày. Em xử lý feedback, đánh dấu Q1-6 "
     "GIẢI QUYẾT trong tài liệu 4VanDe v3."
 )
@@ -574,7 +574,7 @@ add_para(
 )
 
 add_para(
-    "Em chờ thầy MĐ + thầy NMĐ phê duyệt; sau khi nhận phản hồi, em triển khai bản nháp v8 "
+    "Em chờ thầy Nguyễn Minh Đức phê duyệt; sau khi nhận phản hồi, em triển khai bản nháp v8 "
     "SEM-only theo lịch trong mục 5."
 )
 
@@ -626,7 +626,7 @@ refs = [
     "Truy cập nội bộ qua thư viện HNUE / VNU. Tra cứu IF và phân hạng Q1/Q2/Q3/Q4 "
     "cho ba tạp chí ứng viên.",
 
-    "[11] Tin nhắn chỉ đạo của thầy MĐ ngày 07/06/2026 — ba điểm chốt: bỏ phần định tính, "
+    "[11] Tin nhắn chỉ đạo của thầy Nguyễn Minh Đức ngày 07/06/2026 — ba điểm chốt: bỏ phần định tính, "
     "chuyển sang thuần định lượng SEM tích hợp, chuyển Q1 → Q2. Lưu trong nhật ký trao đổi "
     "nội bộ với nhóm tác giả. Tham chiếu nội bộ.",
 

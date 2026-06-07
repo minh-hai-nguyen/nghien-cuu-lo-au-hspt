@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """Doc 4 van de BLOCKING - Ban v3 cap nhat 07/06/2026.
-Cap nhat sau tin nhan thay MD: chuyen Q1 -> Q2, bo dinh tinh."""
+Cap nhat sau tin nhan thay Nguyen Minh Duc: chuyen Q1 -> Q2, bo dinh tinh."""
 import os, sys, io
 os.environ['PYTHONIOENCODING'] = 'utf-8'
 if hasattr(sys.stdout, 'buffer'):
@@ -86,7 +86,7 @@ P('Tai lieu chot trang thai 4 van de cu va 2 quyet dinh moi cua nhom '
 
 H2('TOM TAT BOI CANH')
 
-P('Ngay 07/06/2026, sau khi nhan tin nhan tu thay Manh Dung (thay MD) '
+P('Ngay 07/06/2026, sau khi nhan tin nhan tu thay Nguyen Minh Duc '
   've huong xu ly bai bao, nhom tac gia chot hai quyet dinh chien luoc '
   'moi cho lo trinh xuat ban: (1) CHUYEN bai Q1 (du kien BMC '
   'Psychiatry) xuong Q2 vi nhom khong the bo sung phan phong van dinh '
@@ -102,14 +102,14 @@ P('Ngay 07/06/2026, sau khi nhan tin nhan tu thay Manh Dung (thay MD) '
 # 2. CAP NHAT 4 VAN DE CU - BANG (~400 tu)
 H2('PHAN A — CAP NHAT TRANG THAI 4 VAN DE CU')
 
-P('Sau tin nhan thay MD ngay 07/06/2026, trang thai 4 van de BLOCKING '
+P('Sau tin nhan thay Nguyen Minh Duc ngay 07/06/2026, trang thai 4 van de BLOCKING '
   'da neu trong ban v2 (01/06/2026) duoc cap nhat nhu sau. Hai van de '
   'da co quyet dinh dut diem, hai van de con cho NCS xac nhan.')
 
 q_summary = [
     ['Ma', 'Cau hoi goc', 'Quyet dinh moi (07/06/2026)', 'Trang thai'],
     ['Q1-6', 'Du lieu phong van dinh tinh cho bai Q1',
-     'GIAI QUYET — Quyet dinh thay MD: BO HOAN TOAN phan dinh tinh. '
+     'GIAI QUYET — Quyet dinh thay Nguyen Minh Duc: BO HOAN TOAN phan dinh tinh. '
      'Bai chuyen tu thiet ke hon hop sang thuan dinh luong. Khong con '
      'can bo sung n, Cohen kappa, transcripts. Phan 2.3 va 3.7 trong '
      'ban nhap se duoc go bo trong ban v8.',
@@ -154,7 +154,7 @@ set_col_widths(t, [1.2, 3.5, 8.5, 3.5])
 
 # ============================================================
 # 3. HAI QUYET DINH MOI (~500 tu)
-H2('PHAN B — HAI QUYET DINH MOI TU TIN NHAN THAY MD 07/06/2026')
+H2('PHAN B — HAI QUYET DINH MOI TU TIN NHAN THAY NGUYEN MINH DUC 07/06/2026')
 
 H3('Quyet dinh 5 — Chuyen bai Q1 xuong Q2')
 
@@ -163,7 +163,7 @@ P('Ly do: nhom khong the bo sung du lieu phong van dinh tinh kip tien '
   'sang loc cung cua BMC Psychiatry (tap chi yeu cau thiet ke hon hop '
   'phai co chung minh day du: so do chon mau, Cohen kappa, ma tran '
   'joint-display). Khong co phan nay, bai khong vuot duoc vong sang '
-  'loc bien tap. Vi vay, thay MD quyet dinh chuyen muc tieu xuong cap '
+  'loc bien tap. Vi vay, thay Nguyen Minh Duc quyet dinh chuyen muc tieu xuong cap '
   'Q2 voi yeu cau nhe hon ve thiet ke nghien cuu.')
 
 P('Target moi (em de xuat TOP): Frontiers in Psychiatry — la tap chi '
@@ -210,7 +210,7 @@ P('Huong 2 — Q3 = mo hinh SEM phu chuyen sau 1 phenotype. Thay vi '
 REC('Huong 2 (Q3 = SEM phu chuyen sau ve SAD) la lua chon toi uu vi '
     '(a) khong phu thuoc vao viec NCS co hoan thanh dinh tinh hay '
     'khong; (b) tach trong tam rat ro voi Q2; (c) phu hop voi y van '
-    'ICD-11 ve phan loai lo au [6]. Em se cho thay MD va NCS confirm '
+    'ICD-11 ve phan loai lo au [6]. Em se cho thay Nguyen Minh Duc va NCS confirm '
     'truoc khi bat dau soan Q3 v1.')
 
 
@@ -218,9 +218,9 @@ REC('Huong 2 (Q3 = SEM phu chuyen sau ve SAD) la lua chon toi uu vi '
 # 4. BANG ACTION ITEMS 5 COT (~400 tu)
 H2('PHAN C — BANG ACTION ITEMS PHAN CONG NHIEM VU')
 
-P('De thuan tien theo doi tien do, em lap bang phan cong cho 4 '
-  'thanh vien chinh cua nhom: NCS Cong Thi Hang, thay MD (Manh Dung), '
-  'thay NMD (Nguyen Minh Duc), va em (tro ly nghien cuu). Bang gom '
+P('De thuan tien theo doi tien do, em lap bang phan cong cho 3 '
+  'thanh vien chinh cua nhom: NCS Cong Thi Hang, thay Nguyen Minh Duc, '
+  'va em (tro ly nghien cuu). Bang gom '
   '5 cot: Nguoi / Van de / Deadline / Output / Status.')
 
 act_data = [
@@ -241,17 +241,7 @@ act_data = [
      'Ban thao cover letter 1 trang co chu ky NCS',
      'Cho Quyet dinh 5 confirm'],
 
-    ['Thay MD (Manh Dung)', 'Review Q2 v1 draft',
-     '24/06/2026',
-     'Email phan hoi: dong y / sua doi noi dung khoa hoc',
-     'Cho em gui v1'],
-    ['Thay MD (Manh Dung)', 'Xac nhan target Frontiers Psychiatry '
-     '(hoac chon backup)',
-     '12/06/2026',
-     'Tin nhan ngan xac nhan chon tap chi muc tieu',
-     'Dang cho'],
-
-    ['Thay NMD (Nguyen Minh Duc)',
+    ['Thay Nguyen Minh Duc',
      'Review Q2 v1 ve noi dung + format submission',
      '24/06/2026',
      'Email phan hoi tap trung vao format tap chi va dien dat tieng Anh',
@@ -267,7 +257,7 @@ act_data = [
      '05/07/2026',
      'File Draft_Q3_SAD_v1_xxxxx.docx — cau hoi nghien cuu sac net, '
      'tach trong tam voi Q2',
-     'Cho thay MD + NCS confirm Huong 2'],
+     'Cho thay Nguyen Minh Duc + NCS confirm Huong 2'],
     ['Em (tro ly nghien cuu)', 'Plagiarism check Q2 v1 truoc khi '
      'NCS submit',
      '25/06/2026',
@@ -330,7 +320,7 @@ refs = [
     '[7] Tham chieu noi bo: 4VanDe_BLOCKING_Q1Q3_v2_01062026.docx — '
     'ban tien nhiem voi 4 van de goc.',
 
-    '[8] Tham chieu noi bo: Tin nhan thay MD ngay 07/06/2026 chot '
+    '[8] Tham chieu noi bo: Tin nhan thay Nguyen Minh Duc ngay 07/06/2026 chot '
     'hai quyet dinh chuyen Q1 -> Q2 va bo phan dinh tinh.',
 ]
 

@@ -198,11 +198,14 @@ P('Huong 1 — Q3 chua phan dinh tinh (qualitative interview). Vi Q2 '
 
 P('Huong 2 — Q3 = mo hinh SEM phu chuyen sau 1 phenotype. Thay vi '
   'mo ta tat ca lo au, Q3 di sau vao 1 phan loai cu the — vi du SAD '
-  '(Social Anxiety Disorder, lo au xa hoi) — vi day la phenotype dac '
-  'biet quan trong o lua tuoi vi thanh nien Viet Nam theo bao cao cua '
-  'Karasu (1986) [4] va First et al. (2022) DSM-5-TR [5]. Cach nay tao '
-  'ra cau hoi nghien cuu sac net, tach hoan toan voi Q2 Frontiers ve '
-  'mat trong tam.')
+  '(Social Anxiety Disorder, lo au xa hoi). SAD la phenotype dac biet '
+  'quan trong o lua tuoi vi thanh nien vi (a) co tieu chuan chan doan '
+  'rieng trong DSM-5-TR theo First et al. (2022) [5] va ICD-11 [6], '
+  '(b) du lieu Q2 v1 cho thay he so duong dan cao nhat tu bat nat hoc '
+  'duong toi SAD (β = 0,376), gia thuyet la nan nhan bat nat hoc duong '
+  'co the so sai bi danh gia thap boi ban hoc, dan toi ne tranh xa hoi. '
+  'Cach nay tao ra cau hoi nghien cuu sac net, tach hoan toan voi Q2 '
+  'Frontiers ve mat trong tam.')
 
 REC('Huong 2 (Q3 = SEM phu chuyen sau ve SAD) la lua chon toi uu vi '
     '(a) khong phu thuoc vao viec NCS co hoan thanh dinh tinh hay '

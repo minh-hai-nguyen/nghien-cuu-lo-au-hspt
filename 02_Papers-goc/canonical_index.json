@@ -12,8 +12,10 @@
     "descriptor": "Saikia_et_al_2023_India_Assam",
     "summary": "QT002_Saikia_et_al_2023_India_Assam.docx",
     "translation": "QT002_Saikia_2023_India_Assam.docx",
-    "pdf": "QT002_Saikia_2023_India_Assam.pdf",
-    "pdf_folder": "11-bai-ban-dau-va-mo-rong"
+    "pdf": "11_Saikia_2023_IJCM.pdf",
+    "pdf_folder": "11-bai-ban-dau-va-mo-rong",
+    "pdf_path": "02_Papers-goc/11-bai-ban-dau-va-mo-rong/11_Saikia_2023_IJCM.pdf",
+    "verification_note": "PDF path corrected 07/06/2026; sample N=360 (180m/180f) — outlines using N=287 are FABRICATED"
   },
   "QT003": {
     "id": "QT003",

@@ -247,10 +247,10 @@ PB('However, this gender-difference pattern does not consistently '
 H2('1.2. Three explanations for the discrepancy / Ba lời giải '
    'cho khác biệt')
 PB('Có ba cơ chế lý thuyết — đứng riêng lẻ hoặc kết hợp — có '
-   'thể lý giải vì sao khác biệt giới về lo âu xuất hiện rõ ở '
+   'thể lý giải tại sao khác biệt giới về lo âu xuất hiện rõ ở '
    'giai đoạn đầu tuổi vị thành niên (11-14) rồi mờ đi hoặc '
-   'biến mất ở giai đoạn thanh niên (16-29). Đầu tiên là cơ '
-   'chế đỉnh điểm tổn thương phát triển — dựa trên '
+   'biến mất ở giai đoạn thanh niên (16-29). Trước hết là cơ '
+   'chế đỉnh dễ tổn thương ở giai đoạn phát triển — dựa trên '
    'on Hill & Lynch\'s (1983) gender role intensification '
    'hypothesis and Rose\'s (2002) co-rumination research. Both '
    'phenomena reach their highest expression in middle school '
@@ -438,7 +438,7 @@ PB('Hypothesis 1 (measurement invariance): The 8-scale '
    'biệt giới ở mô hình bậc cao): Mô hình bậc cao tích hợp — '
    'với YTNC (nguy cơ) và YTBV (bảo vệ) là hai yếu tố bậc hai '
    'dự đoán RLLA (lo âu tổng) — sẽ thể hiện độ lớn phương sai '
-   'được giải thích khác nhau giữa nam và nữ.')
+   'giải thích được khác nhau giữa nam và nữ.')
 
 
 # ========== METHODS ==========
@@ -813,7 +813,7 @@ PB('We will focus the substantive discussion on non-invariant '
    'dẫn không bất biến đáp ứng hai tiêu chí: (i) kiểm định z '
    'về chênh lệch giữa hai giới có ý nghĩa thống kê tại p < '
    '0,05; (ii) chênh lệch hệ số ảnh hưởng có ý nghĩa thực '
-   'chất |β_nữ - β_nam| > 0,10. Với mỗi đường dẫn đủ điều '
+   'tế |β_nữ - β_nam| > 0,10. Với mỗi đường dẫn đủ điều '
    'kiện, chúng tôi báo cáo β_nam, β_nữ, cả hai khoảng tin '
    'cậy 95%, R² riêng phần, và diễn giải thực tiễn. Chúng '
    'tôi không diễn giải quá mức các đường dẫn chỉ đạt ý '

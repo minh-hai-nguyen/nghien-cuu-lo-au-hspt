@@ -386,13 +386,16 @@ PB('Compare unconstrained vs constrained model. Identify which '
 
 H2('3.4 — Pathway-specific gender effects')
 PB('Focus on substantively interesting non-invariant pathways. '
-   'Expected key finding: bullying → SAD β stronger in girls '
-   '(preliminary β_girls = 0.45, β_boys = 0.30 estimate). Discuss '
-   'effect size magnitude.',
+   'Expected key finding (TO BE CONFIRMED by analysis — NOT a '
+   'fabricated estimate): bullying → SAD β may be stronger in '
+   'girls than boys, but exact β values await multi-group SEM '
+   'computation. Discuss effect size magnitude in narrative form.',
    'Tập trung vào các đường dẫn không bất biến có ý nghĩa thực '
-   'chất. Phát hiện chính dự kiến: bắt nạt → SAD β mạnh hơn ở nữ '
-   '(ước tính sơ bộ β_nữ = 0,45, β_nam = 0,30). Bàn luận về độ '
-   'lớn effect size.')
+   'chất. Phát hiện chính dự kiến (CHỜ XÁC NHẬN từ phân tích — '
+   'KHÔNG phải ước tính bịa): đường dẫn bắt nạt → SAD có thể '
+   'mạnh hơn ở nữ so với nam, nhưng giá trị β chính xác chờ '
+   'kết quả tính toán SEM đa nhóm. Bàn luận độ lớn effect size '
+   'qua mô tả ngôn từ.')
 
 H2('3.5 — Higher-order integrated model')
 PB('Report YTNC and YTBV second-order pathway β by gender. R² '

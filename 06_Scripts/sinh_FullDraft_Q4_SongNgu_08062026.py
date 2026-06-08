@@ -140,9 +140,9 @@ PB('Cross-sectional survey of 1,352 Vietnamese lower '
    'và trường học.')
 
 H2('Results — Kết quả (dự kiến — chờ phân tích)')
-PB('We anticipate identifying 4-5 distinct anxiety phenotype '
-   'profiles. Based on prior LPA studies of adolescent '
-   'anxiety in other countries and our preliminary visual '
+PB('Chúng tôi dự đoán tìm được 4-5 hồ sơ phân loại lo âu '
+   'khác biệt. Dựa trên các nghiên cứu LPA về lo âu vị thành '
+   'niên ở các nước khác và việc kiểm tra trực quan sơ bộ '
    'inspection of the data, we propose the following '
    'expected profiles: (i) resilient majority with low risk '
    '+ high protective + low anxiety; (ii) achievement-driven '

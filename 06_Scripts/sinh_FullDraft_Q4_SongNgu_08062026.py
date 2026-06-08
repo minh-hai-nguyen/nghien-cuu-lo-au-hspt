@@ -309,7 +309,7 @@ PB('LPA-based phenotyping of adolescent anxiety has been '
    'kỷ qua — có thể các hồ sơ phân loại của Việt Nam '
    'khác biệt so với các hồ sơ được nhận diện ở các mẫu '
    'phương Tây hoặc Đông Á khác. Lấp đầy khoảng trống '
-   'này là mục tiêu trung tâm của nghiên cứu hiện tại.')
+   'này là mục tiêu trung tâm của nghiên cứu này.')
 
 H2('1.4. Research questions / Các câu hỏi nghiên cứu')
 PB('Unlike our Q2 and Q3 papers, which test pre-registered '

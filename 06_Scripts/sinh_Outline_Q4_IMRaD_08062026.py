@@ -214,20 +214,30 @@ PB('Most adolescent anxiety research uses variable-centered '
    'Lanza & Cooper 2016).')
 
 H2('1.2 — Why person-centered analyses matter for prevention')
-PB('Public health practice often allocates intervention resources '
+PB('Anxiety disorders are common in adolescence — half of all '
+   'lifetime cases begin by age 14 (Kessler et al. 2005), and '
+   'rates are highest in girls (Hankin et al. 2007; McLean & '
+   'Anderson 2009). Cross-national epidemiology shows the burden '
+   'varies widely across countries (Jefferies & Ungar 2020). '
+   'Public health practice often allocates intervention resources '
    'by risk profile — high-risk youth receive intensive programs, '
    'low-risk youth receive universal prevention. Identifying '
    'meaningful phenotype profiles helps match the intensity and '
    'content of intervention to student needs, avoiding both '
    'under-treatment of high-need students and over-treatment of '
    'low-need students.',
-   'Thực hành y tế công cộng thường phân bổ nguồn lực can thiệp '
-   'theo hồ sơ nguy cơ — thanh thiếu niên nguy cơ cao nhận '
-   'chương trình chuyên sâu, thanh thiếu niên nguy cơ thấp nhận '
-   'phòng ngừa phổ quát. Nhận diện các hồ sơ phân loại có ý '
-   'nghĩa giúp khớp cường độ và nội dung can thiệp với nhu cầu '
-   'học sinh, tránh đồng thời việc thiếu can thiệp cho học sinh '
-   'nhu cầu cao và can thiệp thừa cho học sinh nhu cầu thấp.')
+   'Rối loạn lo âu phổ biến ở vị thành niên — một nửa số ca '
+   'khởi phát trước 14 tuổi (Kessler và cs. 2005), và tỷ lệ '
+   'cao nhất ở nữ (Hankin và cs. 2007; McLean & Anderson 2009). '
+   'Dịch tễ xuyên quốc gia cho thấy gánh nặng khác biệt rộng '
+   'rãi giữa các quốc gia (Jefferies & Ungar 2020). Thực hành '
+   'y tế công cộng thường phân bổ nguồn lực can thiệp theo hồ '
+   'sơ nguy cơ — thanh thiếu niên nguy cơ cao nhận chương trình '
+   'chuyên sâu, thanh thiếu niên nguy cơ thấp nhận phòng ngừa '
+   'phổ quát. Nhận diện các hồ sơ phân loại có ý nghĩa giúp '
+   'khớp cường độ và nội dung can thiệp với nhu cầu học sinh, '
+   'tránh đồng thời việc thiếu can thiệp cho học sinh nhu cầu '
+   'cao và can thiệp thừa cho học sinh nhu cầu thấp.')
 
 H2('1.3 — Gap: no Vietnamese phenotype profiling')
 PB('LPA-based phenotyping of adolescent anxiety has been '
@@ -308,17 +318,19 @@ BB('Step 2: Compare K-profile solutions. Estimate LPA with K = '
    'K = 2, 3, 4, 5, 6 hồ sơ. Dùng maximum likelihood với 500 '
    'điểm khởi đầu ngẫu nhiên để tránh cực đại địa phương.', 0)
 
-BB('Step 3: Model selection criteria. Compare BIC (lower = '
-   'better), AIC (lower = better), entropy (higher = better; '
-   'aim ≥ 0.80), LMR-LRT (significant = larger model preferred), '
-   'and parsimony. No single criterion dictates — consider '
+BB('Step 3: Model selection criteria following Nylund et al. '
+   '(2007) recommendations. Compare BIC (lower = better), AIC '
+   '(lower = better), entropy (higher = better; aim ≥ 0.80), '
+   'LMR-LRT (significant = larger model preferred), and '
+   'parsimony. No single criterion dictates — consider '
    'convergence across criteria + substantive interpretability.',
-   'Bước 3: Tiêu chí chọn mô hình. So sánh BIC (thấp hơn = tốt '
-   'hơn), AIC (thấp hơn = tốt hơn), entropy (cao hơn = tốt hơn; '
-   'mục tiêu ≥ 0,80), LMR-LRT (có ý nghĩa = mô hình lớn hơn '
-   'được ưu tiên), và sự tiết kiệm. Không tiêu chí nào quyết '
-   'định một mình — cân nhắc sự hội tụ qua các tiêu chí + tính '
-   'diễn giải thực chất.', 0)
+   'Bước 3: Tiêu chí chọn mô hình theo khuyến nghị của Nylund '
+   'và cs. (2007). So sánh BIC (thấp hơn = tốt hơn), AIC '
+   '(thấp hơn = tốt hơn), entropy (cao hơn = tốt hơn; mục tiêu '
+   '≥ 0,80), LMR-LRT (có ý nghĩa = mô hình lớn hơn được ưu '
+   'tiên), và sự tiết kiệm. Không tiêu chí nào quyết định một '
+   'mình — cân nhắc sự hội tụ qua các tiêu chí + tính diễn '
+   'giải thực chất.', 0)
 
 BB('Step 4: Profile interpretation. For optimal K, examine '
    'standardized mean profile across indicators. Name each '
@@ -427,7 +439,23 @@ PB('SEM tells us WHAT pathways matter (Q2) and FOR WHOM '
    'phát hiện lấy biến + lấy con người làm trung tâm có thể '
    'hội tụ hoặc phân kỳ (Marsh và cs. 2009).')
 
-H2('4.3 — Cultural-developmental interpretation')
+H2('4.3 — Co-rumination and gender-role implications')
+PB('Some profiles may show distinctive gender distributions '
+   'consistent with co-rumination patterns (Rose 2002) and '
+   'gender-role intensification at this developmental window '
+   '(Hill & Lynch 1983; Hankin et al. 2007; McLean & Anderson '
+   '2009). For example, a "peer-victimization + low-school-'
+   'membership" profile may over-represent girls, paralleling '
+   'our Q3 findings on bullying → SAD pathway non-invariance.',
+   'Một số hồ sơ có thể thể hiện phân bố giới đặc trưng nhất '
+   'quán với mẫu hình co-rumination (Rose 2002) và sự gia '
+   'tăng vai trò giới ở cửa sổ phát triển này (Hill & Lynch '
+   '1983; Hankin và cs. 2007; McLean & Anderson 2009). Ví dụ '
+   'hồ sơ "nạn nhân hóa từ bạn bè + thấp gắn bó trường" có '
+   'thể đại diện quá mức nữ, song song với phát hiện Q3 về '
+   'không bất biến đường dẫn bắt nạt → SAD.')
+
+H2('4.4 — Cultural-developmental interpretation')
 PB('Reuse cultural framing from Q2 v1 Section 4.4 (tam giao + '
    'Confucian + co-rumination) — interpret which profiles '
    'reflect typical Vietnamese socio-cultural niches. For '
@@ -443,7 +471,7 @@ PB('Reuse cultural framing from Q2 v1 Section 4.4 (tam giao + '
    'thấp gắn bó trường" phản ánh sự đổ vỡ của lý tưởng trường '
    'học hài hòa Nho giáo.')
 
-H2('4.4 — Practical implications: profile-tailored intervention')
+H2('4.5 — Practical implications: profile-tailored intervention')
 PB('Each profile suggests a different intervention package. '
    'Resilient majority: universal psycho-education on stress '
    'management. Achievement-driven: cognitive-behavioral '
@@ -459,7 +487,7 @@ PB('Each profile suggests a different intervention package. '
    'chương trình kết nối cha mẹ + quản lý thời gian màn hình. '
    'Lo âu nặng: chuyển tuyến lâm sàng.')
 
-H2('4.5 — Limitations')
+H2('4.6 — Limitations')
 PB('(a) Cross-sectional design: profiles are snapshots, '
    'transitions between profiles over time cannot be tested; '
    '(b) LPA assumes profile homogeneity — within-profile '
@@ -475,7 +503,7 @@ PB('(a) Cross-sectional design: profiles are snapshots, '
    'không đồng ý — chọn mô hình có tính chủ quan không thể '
    'loại bỏ.')
 
-H2('4.6 — Future directions')
+H2('4.7 — Future directions')
 PB('(1) Latent transition analysis (LTA) on a longitudinal '
    'extension to test profile stability over time; (2) '
    'replicate in rural + minority-ethnic cohorts; (3) link '

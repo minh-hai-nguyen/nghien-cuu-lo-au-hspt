@@ -116,6 +116,66 @@ r.font.name = 'Times New Roman'; r.font.size = Pt(11); r.italic = True
 r.font.color.rgb = RGBColor(0x80, 0x80, 0x80)
 
 
+# ============================================================
+# GLOSSARY page
+PAGE_BREAK()
+p = d.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+r = p.add_run('TỪ ĐIỂN THUẬT NGỮ NHANH / QUICK GLOSSARY')
+r.font.name = 'Times New Roman'; r.font.size = Pt(14); r.bold = True
+r.font.color.rgb = RGBColor(0xC0, 0x00, 0x00)
+p = d.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+p.paragraph_format.space_after = Pt(10)
+r = p.add_run('Cứ giở trang này khi gặp từ chưa rõ. Read this page first or whenever a term is unclear.')
+r.font.name = 'Times New Roman'; r.font.size = Pt(11); r.italic = True
+r.font.color.rgb = RGBColor(0x50, 0x50, 0x50)
+
+glossary = [
+    ('Anxiety vs Anxiety Disorder',
+     'Lo âu vs Rối loạn lo âu',
+     'Anxiety = a normal emotion (worry before exam). Anxiety disorder = persistent worry (≥6 months), excessive, and impairing daily life.',
+     'Lo âu = cảm xúc bình thường (lo trước kỳ thi). Rối loạn lo âu = lo lắng dai dẳng (≥6 tháng), quá mức, làm suy giảm sinh hoạt hàng ngày.'),
+    ('RCADS', 'Thang RCADS',
+     'Revised Children\'s Anxiety and Depression Scale — a questionnaire designed for ages 8–18 that produces separate scores for GAD, SAD, SocAD and other subtypes.',
+     'Thang đo lo âu và trầm cảm trẻ em phiên bản sửa đổi — bảng hỏi cho 8–18 tuổi, cho điểm riêng cho từng phân loại lo âu (GAD, SAD, SocAD và các loại khác).'),
+    ('β (beta)', 'Hệ số β (beta)',
+     'A standardized pathway coefficient from −1 to +1. Near 0 = weak effect; near ±1 = strong effect. β = 0.376 means a clearly meaningful effect; β = 0.05 would be trivial.',
+     'Hệ số đường dẫn đã chuẩn hóa, có giá trị từ −1 tới +1. Gần 0 = hiệu ứng yếu; gần ±1 = hiệu ứng mạnh. β = 0,376 = hiệu ứng có ý nghĩa; β = 0,05 = không đáng kể.'),
+    ('R² (R squared)', 'Hệ số R² (R bình phương)',
+     'The proportion of variance explained. R² = 0.598 means the model explains 60% of why anxiety scores differ between students.',
+     'Tỷ lệ phương sai được giải thích. R² = 0,598 nghĩa là mô hình giải thích 60% lý do điểm lo âu của học sinh khác nhau.'),
+    ('SEM', 'SEM (mô hình phương trình cấu trúc)',
+     'Structural Equation Modeling — a statistical method that tests many cause-effect pathways at once in a single model.',
+     'Phương pháp thống kê kiểm tra đồng thời nhiều đường dẫn nguyên nhân-hậu quả trong một mô hình duy nhất.'),
+    ('LPA', 'LPA (phân tích hồ sơ tiềm ẩn)',
+     'Latent Profile Analysis — a method that groups individuals into "types" (e.g., high-stress vs low-stress students) based on patterns of measured variables.',
+     'Phương pháp gộp các cá nhân thành các "loại" (ví dụ học sinh cao áp lực vs thấp áp lực) dựa trên mẫu hình các biến đã đo.'),
+    ('DSM-5 / ICD-11', 'DSM-5 / ICD-11',
+     'Two international classification systems for mental disorders. DSM-5 (2013, American Psychiatric Association) and ICD-11 (2022, World Health Organization).',
+     'Hai hệ phân loại rối loạn tâm thần quốc tế. DSM-5 (2013, Hiệp hội Tâm thần học Hoa Kỳ) và ICD-11 (2022, Tổ chức Y tế Thế giới).'),
+    ('Q1 / Q2 ranking', 'Q1 / Q2 ranking',
+     'Quartile ranking of academic journals. Q1 = top 25% by impact; Q2 = next 25%. Higher Q = harder to publish in.',
+     'Phân hạng theo tứ phân vị của tạp chí học thuật. Q1 = 25% đầu theo hệ số tác động; Q2 = 25% tiếp. Q càng cao = càng khó công bố.'),
+    ('Validated scale', 'Thang đo đã chuẩn hóa',
+     'A questionnaire whose reliability and validity have been tested. We use 8 such scales adapted to Vietnamese.',
+     'Bảng hỏi đã được kiểm chứng độ tin cậy và tính giá trị. Chúng tôi sử dụng 8 thang đo loại này đã được chuyển ngữ sang tiếng Việt.'),
+]
+for term_en, term_vn, def_en, def_vn in glossary:
+    p = d.add_paragraph()
+    p.paragraph_format.space_after = Pt(2)
+    r = p.add_run(term_en + ' / ' + term_vn)
+    r.font.name = 'Times New Roman'; r.font.size = Pt(11); r.bold = True
+    r.font.color.rgb = RGBColor(0x2E, 0x74, 0xB5)
+    p = d.add_paragraph()
+    p.paragraph_format.left_indent = Cm(0.5); p.paragraph_format.space_after = Pt(2)
+    r = p.add_run(def_en)
+    r.font.name = 'Times New Roman'; r.font.size = Pt(10)
+    p = d.add_paragraph()
+    p.paragraph_format.left_indent = Cm(0.5); p.paragraph_format.space_after = Pt(6)
+    r = p.add_run(def_vn)
+    r.font.name = 'Times New Roman'; r.font.size = Pt(10); r.italic = True
+    r.font.color.rgb = RGBColor(0x33, 0x33, 0x33)
+
+
 # ===================== PAGE 1 =====================
 PAGE_BREAK()
 PAGE_HEAD(1, 'Why this topic matters', 'Tại sao đề tài này quan trọng')
@@ -161,6 +221,35 @@ BOX('Anxiety disorders are not "just stress" — they are clinically '
     'Rối loạn lo âu KHÔNG đơn thuần là "căng thẳng" — đó là tình '
     'trạng lâm sàng riêng biệt, có tiêu chí chẩn đoán cụ thể, kéo '
     'dài nhiều tháng và làm suy giảm chức năng sinh hoạt hàng ngày.')
+
+SUB('1.4 — Meet our example student / Làm quen với học sinh ví dụ')
+PB('Throughout this primer we use a hypothetical student, "Mai", to '
+   'ground abstract ideas. Mai is 13 years old, in grade 7 at Tay '
+   'Mo school in Hanoi. She studies hard, but recently has been '
+   'avoiding class presentations and complaining of stomach aches '
+   'on school mornings. Her parents wonder if it is just teenage '
+   'mood or something more. Each page below will return to Mai '
+   'briefly to show how the concept applies in real life.',
+   'Xuyên suốt tài liệu này, chúng ta dùng một học sinh giả định '
+   'tên "Mai" để làm rõ các khái niệm trừu tượng. Mai 13 tuổi, '
+   'học lớp 7 trường Tây Mỗ Hà Nội. Em học chăm, nhưng gần đây hay '
+   'tránh thuyết trình trước lớp và phàn nàn đau bụng vào sáng '
+   'những ngày đi học. Cha mẹ Mai phân vân không biết đây là tâm '
+   'trạng tuổi teen bình thường hay điều gì đó nghiêm trọng hơn. '
+   'Mỗi trang dưới đây sẽ quay lại với Mai một chút để minh họa '
+   'khái niệm áp dụng trong đời thực.')
+
+SUB('1.5 — Self-check / Câu hỏi tự kiểm tra')
+EN('Q: Why does adolescence (ages 11–18) deserve special attention '
+   'in mental health research?')
+VN('Hỏi: Tại sao tuổi vị thành niên (11–18) cần được chú ý đặc biệt '
+   'trong nghiên cứu sức khỏe tâm thần?')
+EN('A: Because half of all lifetime mental disorders begin by age '
+   '14 (Kessler 2005), and the cohort is currently undergoing the '
+   'fastest physical, social, and emotional development of life.')
+VN('Đáp: Vì một nửa số ca rối loạn tâm thần khởi phát trước tuổi '
+   '14 (Kessler 2005), và đây là giai đoạn phát triển nhanh nhất '
+   'về thể chất, xã hội, và cảm xúc trong đời.')
 
 
 # ===================== PAGE 2 =====================
@@ -268,6 +357,33 @@ BOX('All three subtypes share core anxiety machinery (excess fear '
     'Cả ba phân loại đều chia sẻ cơ chế lo âu cốt lõi (sợ quá mức '
     '+ né tránh) nhưng KHÁC nhau ở yếu tố gây sợ. Sự khác biệt '
     'này quan trọng cho thiết kế can thiệp.')
+
+SUB('3.4 — Back to Mai / Quay lại với Mai')
+PB('Mai\'s avoidance of class presentations and physical symptoms '
+   'before school suggest SocAD (Social Anxiety Disorder) is most '
+   'likely — fear of being judged in social situations. She does '
+   'not show separation anxiety (does not refuse to sleep alone) '
+   'or generalized worry about many topics. A clinician would '
+   'screen her using RCADS subscales to confirm.',
+   'Việc Mai tránh thuyết trình và có triệu chứng cơ thể trước khi '
+   'đến trường gợi ý nhiều khả năng là SocAD (Rối loạn Lo âu Xã '
+   'hội) — sợ bị đánh giá trong tình huống xã hội. Mai không có '
+   'biểu hiện lo âu chia ly (không từ chối ngủ một mình) hay lo '
+   'lắng lan tỏa về nhiều chủ đề. Bác sĩ tâm lý sẽ sàng lọc bằng '
+   'các tiểu thang RCADS để xác nhận.')
+
+SUB('3.5 — Self-check / Câu hỏi tự kiểm tra')
+EN('Q: How can a teacher tell SocAD apart from ordinary shyness?')
+VN('Hỏi: Làm sao giáo viên có thể phân biệt SocAD với sự nhút '
+   'nhát thông thường?')
+EN('A: SocAD is persistent (months), excessive (fear far greater '
+   'than the actual risk), and impairing (the student avoids '
+   'school or fails academically). Shyness is mild, transient, '
+   'and does not disrupt functioning.')
+VN('Đáp: SocAD dai dẳng (nhiều tháng), quá mức (sợ vượt xa nguy '
+   'cơ thực), và gây suy giảm (học sinh trốn học hoặc kết quả học '
+   'tập kém). Nhút nhát thì nhẹ, thoáng qua, và không làm gián '
+   'đoạn chức năng.')
 
 
 # ===================== PAGE 4 =====================
@@ -487,6 +603,38 @@ BOX('SEM is the gold-standard method for testing complex multi-'
     'biến phức tạp — đa số các bài Q1/Q2 hiện đại trong tâm lý '
     'học phát triển và tâm thần học đều dùng SEM.')
 
+SUB('7.4 — Helpful analogy / Phép ẩn dụ giúp dễ hình dung')
+PB('Think of SEM as a map of a city. Each road on the map is a '
+   'pathway (β coefficient) between two locations (variables). '
+   'Ordinary regression draws one road at a time. SEM draws the '
+   'whole road network at once — showing not just whether each '
+   'road exists, but whether the whole transport system makes '
+   'sense as a unit. Goodness-of-fit indices are like asking: '
+   'does our map match the real city? CFI ≥ 0.90 = a good '
+   'enough match.',
+   'Hãy tưởng tượng SEM như tấm bản đồ một thành phố. Mỗi con '
+   'đường trên bản đồ là một đường dẫn (hệ số β) giữa hai địa '
+   'điểm (biến). Hồi quy thông thường vẽ một con đường tại một '
+   'thời điểm. SEM vẽ toàn bộ mạng lưới đường cùng lúc — cho '
+   'biết không chỉ từng đường có tồn tại không, mà cả hệ thống '
+   'giao thông có hợp lý không. Các chỉ số độ phù hợp giống như '
+   'hỏi: bản đồ của chúng ta có khớp với thành phố thực không? '
+   'CFI ≥ 0,90 = khớp đủ tốt.')
+
+SUB('7.5 — Self-check / Câu hỏi tự kiểm tra')
+EN('Q: What makes SEM more powerful than running 10 separate '
+   'regressions?')
+VN('Hỏi: Điều gì khiến SEM mạnh hơn việc chạy 10 hồi quy riêng lẻ?')
+EN('A: SEM tests all relationships simultaneously so error '
+   'compounds less, models measurement error in latent variables, '
+   'and provides a single fit statistic showing whether the '
+   'whole theory holds.',
+   )
+VN('Đáp: SEM kiểm tra tất cả mối quan hệ cùng lúc nên sai số ít '
+   'tích lũy hơn, mô hình hóa được sai số đo lường trong biến '
+   'tiềm ẩn, và cho một chỉ số phù hợp duy nhất cho biết toàn bộ '
+   'lý thuyết có đúng không.')
+
 
 # ===================== PAGE 8 =====================
 PAGE_BREAK()
@@ -570,7 +718,23 @@ PB('Q3 tests three sequential levels: (1) configural invariance '
    'có vai trò. Tiêu chí quyết định ΔCFI ≤ 0,01 (Cheung và '
    'Rensvold 2002).')
 
-SUB('9.3 — Cultural-developmental framing / Khung phát triển-văn hóa')
+SUB('9.3 — Invariance analogy / Phép ẩn dụ về bất biến')
+PB('Imagine two versions of the same city map — one for boys, one '
+   'for girls. Configural invariance = both versions have the same '
+   'kind of map (roads, intersections). Metric invariance = the '
+   'roads have the same length in both versions. Scalar invariance '
+   '= the starting point is at the same address. If any level '
+   'fails, the maps differ in a specific way — and that is where '
+   'gender matters.',
+   'Hãy tưởng tượng hai phiên bản của cùng một bản đồ thành phố — '
+   'một cho nam, một cho nữ. Bất biến cấu hình = cả hai phiên bản '
+   'có cùng kiểu bản đồ (đường, giao lộ). Bất biến metric = các '
+   'con đường có cùng độ dài ở cả hai phiên bản. Bất biến scalar '
+   '= điểm xuất phát ở cùng địa chỉ. Nếu bất kỳ mức nào không đạt, '
+   'hai bản đồ khác nhau theo cách cụ thể — và đó là nơi giới '
+   'có vai trò.')
+
+SUB('9.4 — Cultural-developmental framing / Khung phát triển-văn hóa')
 PB('Q3 will provide six arguments for the gender difference '
    'observed in our sample but absent in Jefferies\': (1) the '
    '11–14 developmental window is a peak vulnerability period '
@@ -654,6 +818,35 @@ BOX('Three papers from one large dataset, each with a different '
     'nhau: Q2 (cơ chế tích hợp), Q3 (bất biến giới), Q4 (phân '
     'loại học sinh). Đây là mẫu hình "hat-trick" phổ biến '
     'trong các chương trình cohort có tầm ảnh hưởng cao.')
+
+SUB('10.4 — LPA analogy / Phép ẩn dụ về LPA')
+PB('LPA is like sorting a library. SEM asks "does this book\'s '
+   'thickness predict its number of pages?" — a variable-by-variable '
+   'question. LPA asks "are these books naturally grouped into '
+   'shelves — fiction, science, history — based on patterns of '
+   'multiple features together?" In our data, LPA may reveal '
+   'student profiles such as "high-stress + low-support + high-'
+   'anxiety" vs "moderate-stress + high-self-esteem + low-anxiety".',
+   'LPA giống như sắp xếp thư viện. SEM hỏi "độ dày của cuốn sách '
+   'có dự báo số trang của nó không?" — câu hỏi từng biến một. '
+   'LPA hỏi "các cuốn sách có tự nhiên phân nhóm thành các kệ — '
+   'tiểu thuyết, khoa học, lịch sử — dựa trên mẫu hình của nhiều '
+   'đặc điểm cùng lúc không?" Trong dữ liệu, LPA có thể phát hiện '
+   'các hồ sơ học sinh như "cao áp lực + thấp hỗ trợ + cao lo âu" '
+   'vs "vừa áp lực + cao tự trọng + thấp lo âu".')
+
+SUB('10.5 — Self-check / Câu hỏi tự kiểm tra')
+EN('Q: Why doesn\'t LPA double-publish on Q2/Q3 data?')
+VN('Hỏi: Vì sao LPA không bị tính là tự đạo văn từ dữ liệu Q2/Q3?')
+EN('A: Variable-centered (SEM) and person-centered (LPA) answer '
+   'fundamentally different scientific questions and use different '
+   'statistical mechanics — like asking "how tall is the average '
+   'tree?" vs "what kinds of trees grow here?"')
+VN('Đáp: Cách tiếp cận lấy biến làm trung tâm (SEM) và lấy con '
+   'người làm trung tâm (LPA) trả lời các câu hỏi khoa học khác '
+   'nhau về bản chất và dùng cơ chế thống kê khác nhau — giống '
+   'như hỏi "cây trung bình cao bao nhiêu?" vs "có những loài cây '
+   'gì mọc ở đây?"')
 
 
 # ============================================================

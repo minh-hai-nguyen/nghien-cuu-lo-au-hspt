@@ -163,23 +163,27 @@ H3('B2. Sáu luận chứng đề xuất')
 H3('Luận chứng 1 — Cửa sổ phát triển 11–14 tuổi là đỉnh điểm nguy cơ SAD ở '
    'nữ')
 
-P('Cole và cộng sự (2006) [2] đã chỉ ra rằng sự khác biệt giới về triệu '
-  'chứng nội hóa nói chung — và SAD nói riêng — xuất hiện vào đầu vị '
-  'thành niên (11–13 tuổi) khi nữ bước vào giai đoạn dậy thì sớm hơn '
-  'nam khoảng 2 năm. Rapee và cộng sự (2009) [3] tổng quan rằng đỉnh '
-  'điểm khởi phát SAD rơi vào 11–14 tuổi (median onset 13). Trong khoảng '
-  'thời gian này, nữ trải nghiệm cùng lúc ba yếu tố rủi ro hội tụ: '
-  '(a) thay đổi nội tiết do dậy thì, (b) tăng nhạy cảm với đánh giá của '
-  'bạn bè đồng trang lứa do trưởng thành thần kinh vỏ não trán-rìa, '
-  '(c) nội hóa vai trò giới về ngoại hình + đánh giá xã hội theo lý thuyết '
-  'gender intensification (Hill & Lynch 1983) [4]. Đến 16–29 tuổi trong '
-  'mẫu Jefferies, nam đã trải qua cùng tiến trình dậy thì (chậm hơn 2 '
-  'năm) và đã đạt mức tổn thương tương đương, làm thu hẹp khoảng cách '
-  'giới đo lường được.')
+P('Tổng quan Hankin và cộng sự (2007) [2] trên cohort thanh thiếu niên '
+  'Mỹ cho thấy khác biệt giới về triệu chứng nội hóa (depression, '
+  'anxiety) bắt đầu xuất hiện rõ rệt vào khoảng 13 tuổi và đạt đỉnh ở '
+  '15–17 tuổi. McLean và Anderson (2009) [3] trong tổng quan về khác '
+  'biệt giới trong fear và anxiety chỉ ra rằng SAD cụ thể có xu hướng '
+  'thể hiện sớm hơn ở nữ do trải nghiệm hội tụ ba yếu tố vào đầu vị '
+  'thành niên: (a) thay đổi nội tiết do dậy thì (nữ bước vào dậy thì '
+  'sớm hơn nam khoảng 2 năm), (b) tăng nhạy cảm với đánh giá của bạn '
+  'bè đồng trang lứa do trưởng thành thần kinh vỏ não trán-rìa, '
+  '(c) nội hóa vai trò giới về ngoại hình + đánh giá xã hội theo lý '
+  'thuyết gender intensification (Hill & Lynch 1983) [4]. Theo Kessler '
+  'và cộng sự (2005) [5] từ National Comorbidity Survey Replication, '
+  'một nửa số ca rối loạn lo âu khởi phát trước 14 tuổi — gợi ý rằng '
+  'cửa sổ 11–14 chính là giai đoạn dễ tổn thương nhất. Đến 16–29 tuổi '
+  'trong mẫu Jefferies, nam đã trải qua cùng tiến trình dậy thì (chậm '
+  'hơn 2 năm) và đã đạt mức tổn thương tương đương, làm thu hẹp khoảng '
+  'cách giới đo lường được.')
 
 H3('Luận chứng 2 — Co-rumination peak ở giữa vị thành niên (Rose 2002)')
 
-P('Em đã sử dụng co-rumination hypothesis của Rose (2002) [5] trong '
+P('Em đã sử dụng co-rumination hypothesis của Rose (2002) [6] trong '
   'Discussion Q2 v1 để giải thích kết quả null của peer support. Khái '
   'niệm này cũng giải thích trực tiếp gender difference SAD: trong mẫu '
   'lớp 3, 5, 7, 9 (Rose 2002, N = 608), nữ sinh trung học cơ sở có tần '
@@ -191,14 +195,14 @@ P('Em đã sử dụng co-rumination hypothesis của Rose (2002) [5] trong '
 H3('Luận chứng 3 — Kịch bản giới văn hóa Nho giáo Việt Nam ở tuổi học '
    'sinh THCS')
 
-P('Stankov (2010) [6] đã chỉ ra rằng văn hóa học thuật Nho giáo nuôi '
+P('Stankov (2010) [7] đã chỉ ra rằng văn hóa học thuật Nho giáo nuôi '
   'dưỡng test anxiety + self-doubt ở học sinh Đông Á. Trong bối cảnh '
   'Việt Nam cụ thể, nữ sinh THCS chịu kép áp lực: vừa phải đạt thành '
   'tích học tập cao (theo Confucian achievement script), vừa phải đáp '
   'ứng kỳ vọng giới về tế nhị, kín đáo, thu mình trong giao tiếp xã hội '
   '(theo Confucian feminine script). Nam sinh cùng tuổi chịu áp lực '
   'thành tích nhưng được phép biểu hiện chủ động xã hội. Small & Blanc '
-  '(2021) [7] mô tả tam giáo Nho-Phật-Đạo định hình các chuẩn mực ứng '
+  '(2021) [8] mô tả tam giáo Nho-Phật-Đạo định hình các chuẩn mực ứng '
   'xử kéo dài qua nhiều thế hệ; những kỳ vọng giới này đặc biệt nghiêm '
   'ngặt trong môi trường học đường dưới sự giám sát của giáo viên + '
   'gia đình. Đến 16–29 tuổi (mẫu Jefferies), một bộ phận nữ thanh '
@@ -425,32 +429,35 @@ refs = [
     '02_Papers-goc/The-gioi_Au-My-Uc/QT035_Jefferies_SocialAnxiety_'
     '7Countries_2020.pdf — em đã đối chiếu trực tiếp.',
 
-    '[2] Cole DA, Tram JM, Martin JM, Hoffman KB, Ruiz MD, Jacquez FM, '
-    'Maschman TL. (2002). Individual differences in the emergence of '
-    'depressive symptoms in children and adolescents: A longitudinal '
-    'investigation of parent and child reports. Journal of Abnormal '
-    'Psychology, 111(1), 156–165. PMID: 11866169.',
+    '[2] Hankin BL, Mermelstein R, Roesch L. (2007). Sex differences in '
+    'adolescent depression: Stress exposure and reactivity models. '
+    'Child Development, 78(1), 279–295. PMID: 17328705.',
 
-    '[3] Rapee RM, Schniering CA, Hudson JL. (2009). Anxiety disorders '
-    'during childhood and adolescence: Origins and treatment. Annual '
-    'Review of Clinical Psychology, 5, 311–341. DOI: '
-    '10.1146/annurev.clinpsy.032408.153628. PMID: 19152496.',
+    '[3] McLean CP, Anderson ER. (2009). Brave men and timid women? A '
+    'review of the gender differences in fear and anxiety. Clinical '
+    'Psychology Review, 29(6), 496–505. PMID: 19541399.',
 
     '[4] Hill JP, Lynch ME. (1983). The intensification of gender-related '
     'role expectations during early adolescence. In: Brooks-Gunn J, '
     'Petersen AC (eds.), Girls at puberty: Biological and psychosocial '
     'perspectives. New York: Plenum Press, pp. 201–228.',
 
-    '[5] Rose AJ. (2002). Co-rumination in the friendships of girls and '
+    '[5] Kessler RC, Berglund P, Demler O, Jin R, Merikangas KR, Walters '
+    'EE. (2005). Lifetime prevalence and age-of-onset distributions of '
+    'DSM-IV disorders in the National Comorbidity Survey Replication. '
+    'Archives of General Psychiatry, 62(6), 593–602. PMID: 15939837. '
+    'DOI: 10.1001/archpsyc.62.6.593.',
+
+    '[6] Rose AJ. (2002). Co-rumination in the friendships of girls and '
     'boys. Child Development, 73(6), 1830–1843. PMID: 12487497. DOI: '
     '10.1111/1467-8624.00509.',
 
-    '[6] Stankov L. (2010). Unforgiving Confucian culture: A breeding '
+    '[7] Stankov L. (2010). Unforgiving Confucian culture: A breeding '
     'ground for high academic achievement, test anxiety and self-doubt? '
     'Learning and Individual Differences, 20(6), 555–563. DOI: '
     '10.1016/j.lindif.2010.05.003.',
 
-    '[7] Small S, Blanc J. (2021). Mental Health During COVID-19: Tam '
+    '[8] Small S, Blanc J. (2021). Mental Health During COVID-19: Tam '
     'Giao and Vietnam\'s Response. Frontiers in Psychiatry, 11, 589618. '
     'DOI: 10.3389/fpsyt.2020.589618. PMID: 33536961.',
 ]

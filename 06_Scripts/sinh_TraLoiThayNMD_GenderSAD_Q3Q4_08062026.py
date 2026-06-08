@@ -94,6 +94,54 @@ B('Việc bổ sung 2: Em đề xuất tiêu đề Q3 + Q4 tiềm năng — trì
 
 
 # ============================================================
+H2('PHẦN A bổ sung — Ghi nhận đánh giá của thầy về hàm lượng khoa học '
+   'Q2 v1 so với Jefferies & Ungar 2020')
+
+P('Em cám ơn thầy đã ghi nhận hàm lượng khoa học gắn với văn hóa Á '
+  'Đông và Việt Nam của Q2 v1. Em xin tóm lược năm khía cạnh để hai '
+  'nghiên cứu bổ sung lẫn nhau hơn là cạnh tranh:')
+
+B('Phương pháp phân tích — Q2 v1 sử dụng SEM tích hợp với mô hình '
+  'bậc cao YTNC + YTBV và kiểm định bất biến đa nhóm theo giới '
+  '(configural → metric → scalar), trong khi Jefferies dùng ANOVA + '
+  't-test + chi-square (mô tả). Hai phương pháp có mức độ chặt chẽ '
+  'thống kê khác nhau và phù hợp với câu hỏi nghiên cứu khác nhau.', 0)
+
+B('Khung lý thuyết văn hóa — Q2 v1 áp dụng ba khung lý thuyết Á '
+  'Đông cụ thể: tam giáo Nho-Phật-Đạo (Small & Blanc 2021), văn hóa '
+  'học thuật Nho giáo (Stankov 2010), co-rumination ở vị thành niên '
+  '(Rose 2002). Jefferies dừng ở phân tích descriptive country '
+  'effects — không khai thác sâu vào cơ chế văn hóa.', 0)
+
+B('Bối cảnh phát triển — Q2 v1 tập trung vào cohort phát triển đồng '
+  'nhất (HS THCS 11–14 tuổi, mọi đối tượng đang trong cùng giai '
+  'đoạn dậy thì và xã hội hóa). Jefferies pool ba giai đoạn phát '
+  'triển khác biệt (16–17 tuổi học sinh phổ thông, 18–24 tuổi sinh '
+  'viên đại học, 25–29 tuổi đã đi làm) — phân tích pooled có thể '
+  'che giấu các hiệu ứng đặc thù từng giai đoạn.', 0)
+
+B('Thiết kế lấy mẫu — Q2 v1 sử dụng khảo sát học đường với purposive '
+  'sampling 2 trường tại Hà Nội (đại diện đô thị + ngoại ô), gắn với '
+  'bối cảnh giáo dục cụ thể. Jefferies là secondary analysis trên '
+  'dataset thu thập bởi công ty market research Edelman/Unilever cho '
+  'mục đích nghiên cứu thị trường mỹ phẩm — không gắn với bối cảnh '
+  'lâm sàng hay giáo dục cụ thể nào.', 0)
+
+B('Công cụ đo — Q2 v1 sử dụng RCADS-SocAD (DSM-5 aligned, 4 item '
+  'tối ưu cho 11–14 tuổi). Jefferies sử dụng SIAS 20 item (Social '
+  'Interaction Anxiety Scale, không DSM-5 aligned cụ thể). Hai công '
+  'cụ đo cấu trúc gần kề nhưng không hoàn toàn trùng — RCADS-SocAD '
+  'tập trung vào tiêu chí chẩn đoán SAD, SIAS tập trung vào tương '
+  'tác xã hội tổng quát.', 0)
+
+P('Điểm mạnh của Jefferies là cỡ mẫu lớn (N = 6.825) và phạm vi đa '
+  'quốc gia (7 nước) — Q2 v1 không tham vọng cạnh tranh ở hai khía '
+  'cạnh này. Q2 v1 đóng góp bổ sung ở chiều sâu cơ chế tâm lý-văn hóa '
+  'và phương pháp luận SEM tích hợp cho một cohort phát triển đồng '
+  'nhất tại một quốc gia Á Đông cụ thể.')
+
+
+# ============================================================
 H2('PHẦN B — LUẬN CHỨNG VỀ GENDER DIFFERENCE SAD')
 
 H3('B1. So sánh hai nghiên cứu')

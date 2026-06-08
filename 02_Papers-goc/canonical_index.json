@@ -24,7 +24,9 @@
     "summary": "QT003_Mandaknalli_Malusare_2021.docx",
     "translation": null,
     "pdf": null,
-    "pdf_folder": null
+    "pdf_folder": null,
+    "status": "pending_download",
+    "note": "Entry created but PDF not yet downloaded to repo"
   },
   "QT004": {
     "id": "QT004",
@@ -32,7 +34,9 @@
     "summary": "QT004_NSCH_2020_USA.docx",
     "translation": null,
     "pdf": null,
-    "pdf_folder": null
+    "pdf_folder": null,
+    "status": "pending_download",
+    "note": "Entry created but PDF not yet downloaded to repo"
   },
   "QT005": {
     "id": "QT005",
@@ -40,7 +44,9 @@
     "summary": "QT005_Alharbi_et_al_2019_SaudiArabia.docx",
     "translation": null,
     "pdf": null,
-    "pdf_folder": null
+    "pdf_folder": null,
+    "status": "pending_download",
+    "note": "Entry created but PDF not yet downloaded to repo"
   },
   "QT006": {
     "id": "QT006",
@@ -300,7 +306,9 @@
     "summary": "QT037_Praptomojati_CA-CBT_SEA_AJP_2024.docx",
     "translation": "QT037_Praptomojati_CA-CBT_SEA_AJP_2024.docx",
     "pdf": null,
-    "pdf_folder": null
+    "pdf_folder": null,
+    "status": "pending_download",
+    "note": "Entry created but PDF not yet downloaded to repo"
   },
   "QT038": {
     "id": "QT038",
@@ -398,7 +406,9 @@
     "summary": "QT048_Chen_COVID_Meta141_JAD_2025_ABSTRACT.docx",
     "translation": "QT048_Chen_COVID_Meta141_JAD_2025_ABSTRACT.docx",
     "pdf": null,
-    "pdf_folder": null
+    "pdf_folder": null,
+    "status": "abstract_only",
+    "note": "Abstract-only entry — no full PDF available or used"
   },
   "QT049": {
     "id": "QT049",
@@ -406,7 +416,9 @@
     "summary": "QT049_Zhang_Bayesian_CBT_JCP_2026_ABSTRACT.docx",
     "translation": "QT049_Zhang_Bayesian_CBT_JCP_2026_ABSTRACT.docx",
     "pdf": null,
-    "pdf_folder": null
+    "pdf_folder": null,
+    "status": "abstract_only",
+    "note": "Abstract-only entry — no full PDF available or used"
   },
   "QT050": {
     "id": "QT050",
@@ -414,7 +426,9 @@
     "summary": "QT050_Qiaochu_MobileCBT_CPP_2025_ABSTRACT.docx",
     "translation": "QT050_Qiaochu_MobileCBT_CPP_2025_ABSTRACT.docx",
     "pdf": null,
-    "pdf_folder": null
+    "pdf_folder": null,
+    "status": "abstract_only",
+    "note": "Abstract-only entry — no full PDF available or used"
   },
   "QT051": {
     "id": "QT051",
@@ -422,7 +436,9 @@
     "summary": "QT051_Menon_LMIC_SEA_Pacific_APJPH_2025_ABSTRACT.docx",
     "translation": "QT051_Menon_LMIC_SEA_Pacific_APJPH_2025_ABSTRACT.docx",
     "pdf": null,
-    "pdf_folder": null
+    "pdf_folder": null,
+    "status": "abstract_only",
+    "note": "Abstract-only entry — no full PDF available or used"
   },
   "VN001": {
     "id": "VN001",
@@ -601,7 +617,9 @@
     "summary": "VN030_Tran_HappyHouse_Cambridge_2023.docx",
     "translation": "VN030_Tran_HappyHouse_Cambridge_2023.docx",
     "pdf": null,
-    "pdf_folder": null
+    "pdf_folder": null,
+    "status": "pending_download",
+    "note": "Entry created but PDF not yet downloaded to repo"
   },
   "VN004": {
     "id": "VN004",
@@ -737,7 +755,9 @@
     "doi": "10.4081/itjm.2025.1888",
     "source_url": "https://www.italjmed.org/ijm/article/view/1888",
     "cao_date": "2026-04-24",
-    "scope": "web_caugh_no_pdf"
+    "scope": "web_caugh_no_pdf",
+    "status": "pending_download",
+    "note": "Entry created but PDF not yet downloaded to repo"
   },
   "QT059": {
     "id": "QT059",
@@ -749,7 +769,9 @@
     "doi": "10.3389/fpsyt.2025.1594658",
     "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12127306/",
     "cao_date": "2026-04-24",
-    "scope": "web_caugh_no_pdf"
+    "scope": "web_caugh_no_pdf",
+    "status": "pending_download",
+    "note": "Entry created but PDF not yet downloaded to repo"
   },
   "QT060": {
     "id": "QT060",
@@ -869,22 +891,30 @@
   "QT068": {
     "descriptor": "Urao_2018_JapanCBT_Journey_BMC",
     "summary": "QT068_Urao_2018_JapanCBT_BMC.docx",
-    "pdf_folder": "Khac"
+    "pdf_folder": "Khac",
+    "status": "pending_download",
+    "note": "Entry created but PDF not yet downloaded to repo"
   },
   "QT069": {
     "descriptor": "Urao_2022_JourneyBrave_14sessions_BMC",
     "summary": "QT069_Urao_2022_JourneyBrave_14sessions_BMC.docx",
-    "pdf_folder": "The-gioi_Au-My-Uc"
+    "pdf_folder": "The-gioi_Au-My-Uc",
+    "status": "pending_download",
+    "note": "Entry created but PDF not yet downloaded to repo"
   },
   "QT070": {
     "descriptor": "Moore_2017_BullyingMeta_WorldJPsy",
     "summary": "QT070_Moore_2017_BullyingMeta_WorldJPsy.docx",
-    "pdf_folder": "The-gioi_Au-My-Uc"
+    "pdf_folder": "The-gioi_Au-My-Uc",
+    "status": "pending_download",
+    "note": "Entry created but PDF not yet downloaded to repo"
   },
   "QT071": {
     "descriptor": "MatsumotoK_2024_iCBT_SAD_JMIR",
     "summary": "QT071_MatsumotoK_2024_iCBT_SAD_JMIR.docx",
-    "pdf_folder": "The-gioi_Au-My-Uc"
+    "pdf_folder": "The-gioi_Au-My-Uc",
+    "status": "pending_download",
+    "note": "Entry created but PDF not yet downloaded to repo"
   },
   "QT072": {
     "descriptor": "Lee_2025_CyberbullyingMeta_TVA",
@@ -1293,7 +1323,9 @@
     "used_for": "Q1 v6 reference",
     "verification_status": "EXTERNALLY VERIFIED via PubMed 07/06/2026",
     "added": "2026-06-07",
-    "pdf_download_status": "NOT ATTEMPTED — paywalled (Lancet Psychiatry). Manual download URLs: https://pubmed.ncbi.nlm.nih.gov/39644904/ | https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(24)00361-4/fulltext (institutional access required)"
+    "pdf_download_status": "NOT ATTEMPTED — paywalled (Lancet Psychiatry). Manual download URLs: https://pubmed.ncbi.nlm.nih.gov/39644904/ | https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(24)00361-4/fulltext (institutional access required)",
+    "status": "pending_download_paywall",
+    "note": "Robson 2025 CATS — Lancet Psychiatry paywall, see download URLs in earlier session"
   },
   "QT082": {
     "id": "QT082",

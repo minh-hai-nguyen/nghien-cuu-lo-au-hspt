@@ -17,12 +17,16 @@ ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 def build_qd(out_path, is_blank=True):
     """Build mot ban QD phe duyet (blank template hoac dien san)."""
     d = Document()
+    # DIENSAN: compress de fit 2 trang (margins + spacing)
+    margin = Cm(1.7) if not is_blank else Cm(2.0)
+    line_sp = 1.3 if not is_blank else 1.5
+    body_sz = 11 if not is_blank else 13
     for sec in d.sections:
-        sec.top_margin = Cm(2.0); sec.bottom_margin = Cm(2.0)
-        sec.left_margin = Cm(2.5); sec.right_margin = Cm(2.0)
+        sec.top_margin = margin; sec.bottom_margin = margin
+        sec.left_margin = Cm(2.0); sec.right_margin = Cm(1.7)
     s = d.styles['Normal']
-    s.font.name = 'Times New Roman'; s.font.size = Pt(13)
-    s.paragraph_format.line_spacing = 1.5
+    s.font.name = 'Times New Roman'; s.font.size = Pt(body_sz)
+    s.paragraph_format.line_spacing = line_sp
 
     # Field substitution dict
     if is_blank:
@@ -62,7 +66,8 @@ def build_qd(out_path, is_blank=True):
                           'lo âu ở học sinh trung học cơ sở Việt Nam"',
             'TEN_NCS': 'Công Thị Hằng',
             'DON_VI': 'Khoa Tâm lý Giáo dục, Trường Đại học Sư phạm Hà Nội',
-            'HUONG_DAN': '[Học hàm/học vị] Nguyễn Minh Đức',
+            'HUONG_DAN': 'PGS.TS. Đào Minh Đức (Viện phó Viện Tâm lý '
+                         'học Lâm sàng)',
             'MUC_TIEU': 'Xây dựng và kiểm chứng mô hình tích hợp ba '
                         'yếu tố nguy cơ (bị bắt nạt, áp lực học tập, '
                         'nghiện điện thoại) cùng bốn yếu tố bảo vệ '

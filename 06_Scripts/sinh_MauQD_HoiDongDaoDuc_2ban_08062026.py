@@ -200,28 +200,44 @@ def build_qd(out_path, is_blank=True):
     SUB('Phạm vi công bố kết quả', F['PHAM_VI_CONG_BO'])
 
     DIEU(3, f'Trách nhiệm của Chủ nhiệm đề tài/Nghiên cứu sinh:')
-    SUB('Thu thập sự đồng ý bằng văn bản (informed consent) của '
-        'cha/mẹ/người giám hộ và sự đồng thuận bằng văn bản (assent) '
-        'của học sinh trước khi tiến hành thu dữ liệu', '')
-    SUB('Bảo mật thông tin cá nhân của đối tượng nghiên cứu theo '
-        'quy định', '')
-    SUB('Báo cáo tiến độ thực hiện đề tài hàng năm cho Hội đồng '
-        'Đạo đức', '')
-    SUB('Thông báo kịp thời cho Hội đồng Đạo đức bất kỳ sự kiện bất '
-        'lợi nào hoặc thay đổi đối với đề cương đã được phê duyệt', '')
-    SUB('Lưu trữ hồ sơ nghiên cứu trong thời hạn tối thiểu 05 năm '
-        'kể từ ngày hoàn thành nghiên cứu', '')
-    SUB('Tuân thủ Tuyên bố Helsinki (1964 và các sửa đổi) và Quy chế '
-        'thực hành lâm sàng tốt (GCP)', '')
+
+    def BULL(text, last=False):
+        """Bullet đơn (không có label:value)"""
+        p = d.add_paragraph()
+        p.paragraph_format.left_indent = Cm(1.0); p.paragraph_format.space_after = Pt(2)
+        p.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
+        ending = '.' if last else ';'
+        r = p.add_run(f'• {text}{ending}')
+        r.font.size = Pt(12)
+
+    BULL('Thu thập sự đồng ý bằng văn bản (informed consent) của '
+         'cha/mẹ/người giám hộ và sự đồng thuận bằng văn bản (assent) '
+         'của học sinh trước khi tiến hành thu dữ liệu')
+    BULL('Bảo mật thông tin cá nhân của đối tượng nghiên cứu theo '
+         'quy định hiện hành')
+    BULL('Báo cáo tiến độ thực hiện đề tài hàng năm cho Hội đồng Đạo '
+         'đức')
+    BULL('Thông báo kịp thời cho Hội đồng Đạo đức bất kỳ sự kiện bất '
+         'lợi nào hoặc thay đổi đối với đề cương đã được phê duyệt')
+    BULL('Lưu trữ hồ sơ nghiên cứu trong thời hạn tối thiểu 05 năm '
+         'kể từ ngày hoàn thành nghiên cứu')
+    BULL('Tuân thủ Tuyên bố Helsinki (1964 và các sửa đổi) và Quy chế '
+         'thực hành lâm sàng tốt (GCP)', last=True)
 
     DIEU(4, f'Hiệu lực quyết định: Quyết định này có hiệu lực kể từ '
             f'ngày ký. Phạm vi phê duyệt áp dụng cho toàn bộ thời '
             f'gian triển khai nghiên cứu nêu tại Điều 2 và bao trùm '
             f'tất cả các công bố khoa học phát sinh từ đề tài này.')
 
-    DIEU(5, f'Nơi nhận: NCS {F["TEN_NCS"]}; Người hướng dẫn; Khoa Tâm '
-            f'lý Giáo dục; Phòng Khoa học Công nghệ; Lưu Văn thư - HĐ '
-            f'Đạo đức.')
+    if is_blank:
+        DIEU(5, f'Nơi nhận: Chủ nhiệm đề tài/NCS; Người hướng dẫn; '
+                f'[Đơn vị quản lý chuyên môn của NCS]; [Phòng/Ban Quản '
+                f'lý Khoa học Công nghệ]; Lưu Văn thư - HĐ Đạo đức.')
+    else:
+        DIEU(5, f'Nơi nhận: NCS Công Thị Hằng; Người hướng dẫn '
+                f'(thầy Nguyễn Minh Đức); Khoa Tâm lý Giáo dục - '
+                f'ĐHSPHN; Phòng Quản lý Khoa học Công nghệ - ĐHSPHN; '
+                f'Lưu Văn thư - HĐ Đạo đức.')
 
     # Signature
     p = d.add_paragraph()
@@ -249,7 +265,14 @@ def build_qd(out_path, is_blank=True):
                        'Mẫu này được tổng hợp dựa trên Thông tư '
                        '43/2024/TT-BYT (hiệu lực 01/02/2025) và tham '
                        'khảo cấu trúc QĐ từ ĐH Y Hà Nội + BV Nguyễn '
-                       'Tri Phương.')
+                       'Tri Phương. Lưu ý: Thông tư 43/2024 chính '
+                       'thức áp dụng cho nghiên cứu y sinh học do '
+                       'Bộ Y tế quản lý; đối với nghiên cứu khoa '
+                       'học giáo dục/tâm lý học do Bộ Giáo dục và '
+                       'Đào tạo quản lý, các cơ sở có thể áp dụng '
+                       'theo loại suy hoặc theo Quy chế nội bộ '
+                       'riêng của trường — NCS cần xác minh với '
+                       'Phòng Khoa học Công nghệ của trường mình.')
     else:
         r2 = p.add_run('Đây là BẢN ĐIỀN SẴN ví dụ minh họa cho đề '
                        'tài LA + 3 bài báo Q2/Q3/Q4 của NCS Công Thị '

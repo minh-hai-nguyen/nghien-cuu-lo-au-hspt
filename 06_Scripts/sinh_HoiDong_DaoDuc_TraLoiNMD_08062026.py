@@ -341,6 +341,95 @@ r.font.name = 'Times New Roman'; r.font.size = Pt(11); r.italic = True
 
 
 # ============================================================
+H1('VII. MẪU HỒ SƠ THỰC TẾ TỪ ĐẠI HỌC Y HÀ NỘI (HMU)')
+P('Em đã trích trực tiếp từ PDF chính thức của HMU (Hướng dẫn lập hồ '
+  'sơ xin phê duyệt + nghiệm thu kết quả nghiên cứu, thực hiện đạo '
+  'đức nghiên cứu của đề tài). Tài liệu này dựa trên Quyết định '
+  '111/QĐ-BYT ngày 11/01/2013. Lưu ý: từ 01/02/2025, Thông tư '
+  '43/2024/TT-BYT đã thay thế nên mẫu mới có thể khác đôi chút — '
+  'NCS nên hỏi Phòng KHCN HNUE để cập nhật.')
+
+H2('7.1 — Danh mục hồ sơ xin đánh giá đạo đức (HMU)')
+BB('Đơn xin đánh giá đạo đức trong nghiên cứu (Mẫu 1)')
+BB('Đề cương nghiên cứu (Mẫu 2 — Thuyết minh đề tài)')
+BB('Lý lịch khoa học chủ nhiệm + nghiên cứu viên chính (Mẫu 3)')
+BB('Chứng nhận thực hành lâm sàng tốt (nếu có)')
+BB('Bản cung cấp thông tin cho đối tượng nghiên cứu (Mẫu 4)')
+BB('Đơn tình nguyện tham gia nghiên cứu (Mẫu 5)')
+BB('Bản cam kết thực hiện đúng nguyên tắc đạo đức (Mẫu 6)')
+BB('Cam kết tài trợ cho nghiên cứu (nếu có)')
+
+H2('7.2 — Mẫu 1: Đơn xin đánh giá đạo đức (cấu trúc đầy đủ)')
+P('Kính gửi: Hội đồng Đạo đức trong nghiên cứu Y sinh học - [tên cơ '
+  'quan]')
+P('1. Họ và tên Chủ nhiệm đề tài/dự án + Đơn vị + Địa chỉ + Điện '
+  'thoại + Email + Fax')
+P('2. Tên đề tài/dự án xin đánh giá đạo đức trong nghiên cứu')
+P('3. Tên đơn vị chủ trì đề tài/dự án + Đơn vị + Địa chỉ + Liên hệ')
+P('4. Địa điểm, thời gian triển khai nghiên cứu')
+P('5. Hồ sơ gửi kèm: Đề cương, Lý lịch khoa học, Bản cung cấp thông '
+  'tin + phiếu tình nguyện, Bản cam kết đạo đức, Tài liệu khoa học '
+  'liên quan')
+P('Cuối: Ký tên — Thủ trưởng Cơ quan chủ trì + Chủ nhiệm đề tài')
+
+H2('7.3 — Mẫu 4: Bản cung cấp thông tin cho đối tượng (13 mục)')
+BB('Tên nghiên cứu + Phiên bản + Ngày + Tên nhà tài trợ + Mã số đối '
+   'tượng')
+BB('1. Mục đích nghiên cứu + Khoảng thời gian + Phương pháp')
+BB('2. Tiêu chuẩn lựa chọn đối tượng')
+BB('3. Tiêu chuẩn loại trừ')
+BB('4. Người đánh giá thông tin cá nhân/y khoa để chọn')
+BB('5. Số người sẽ tham gia')
+BB('6. Rủi ro/bất lợi có thể xảy ra')
+BB('7. Lợi ích cho đối tượng + cộng đồng')
+BB('8. Khoản chi trả trong nghiên cứu')
+BB('9. Phương pháp/cách điều trị thay thế')
+BB('10. Phương pháp lưu giữ mật hồ sơ')
+BB('11. Cơ quan quản lý có thể kiểm tra hồ sơ')
+BB('12. Vấn đề bồi thường/điều trị nếu có thương tích')
+BB('13. Người liên hệ khi có câu hỏi + nêu rõ tham gia tình nguyện, '
+   'có quyền rút lui')
+
+H2('7.4 — Mẫu 5-A: Phiếu tình nguyện tham gia (chấp thuận)')
+P('Áp dụng cho đối tượng tình nguyện. Đặc biệt: với học sinh THCS '
+  '(11-14 tuổi, dưới tuổi vị thành niên hợp pháp 18 ở Việt Nam), '
+  'CẦN: (a) Phiếu tình nguyện ký bởi cha/mẹ/người giám hộ, và (b) '
+  'Phiếu đồng thuận ký bởi học sinh.')
+
+H2('7.5 — Mẫu 6: Bản cam kết của nghiên cứu viên')
+P('Nghiên cứu viên cam kết thực hiện đúng các nguyên tắc đạo đức '
+  'theo Tuyên bố Helsinki + GCP (Good Clinical Practice) + quy định '
+  'Việt Nam.')
+
+
+# ============================================================
+H1('VIII. CƠ SỞ PHÁP LÝ HIỆN HÀNH (cập nhật 02/2025)')
+
+H2('8.1 — Văn bản gốc')
+P('Thông tư 43/2024/TT-BYT ban hành ngày 12/12/2024 bởi Bộ Y tế, '
+  'có hiệu lực từ 01/02/2025, quy định việc thành lập, tổ chức và '
+  'hoạt động của Hội đồng đạo đức trong nghiên cứu y sinh học (THAY '
+  'THẾ Quyết định 111/QĐ-BYT năm 2013 cũ). Đây là văn bản chính '
+  'thức hiện hành.')
+P('Link tra cứu: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/'
+  'Thong-tu-43-2024-TT-BYT-thanh-lap-Hoi-dong-dao-duc-trong-nghien-cuu-'
+  'y-sinh-hoc-635867.aspx')
+
+H2('8.2 — 3 loại Quyết định mà HĐ Đạo đức ban hành (theo TT 43/2024)')
+BB('Quyết định THẨM ĐỊNH: chấp thuận về khoa học và đạo đức đối với '
+   'đề tài (mã + tên đề tài + tổ chức chủ trì + địa điểm + nhân sự)')
+BB('Quyết định PHÊ DUYỆT: ban hành Quy chế tổ chức và hoạt động (cho '
+   'cấp HĐ Đạo đức nội bộ)')
+BB('Quyết định KẾT QUẢ: ghi nhận biến cố bất lợi nghiêm trọng '
+   '(SUSAR), thay đổi nhân sự, dữ liệu cung cấp')
+
+H2('8.3 — Trách nhiệm chính của NCS sau khi nhận QĐ')
+BB('Báo cáo HÀNG NĂM tiến độ nghiên cứu cho HĐ Đạo đức')
+BB('Thông báo TỨC THỜI sự kiện bất lợi (nếu có)')
+BB('Chuẩn bị kiểm tra địa điểm nghiên cứu khi HĐ yêu cầu')
+
+
+# ============================================================
 H1('TÀI LIỆU THAM KHẢO')
 
 refs = [
@@ -373,6 +462,22 @@ refs = [
     'chế tổ chức và hoạt động Hội đồng Đạo đức Nghiên cứu. URL: '
     'https://hcmussh.edu.vn/tin-tuc/'
     'ban-hanh-quy-che-to-chuc-va-hoat-dong-hoi-dong-dao-duc-nghien-cuu',
+    'Bộ Y tế. Thông tư 43/2024/TT-BYT ngày 12/12/2024 quy định việc '
+    'thành lập, tổ chức và hoạt động của Hội đồng Đạo đức trong '
+    'nghiên cứu y sinh học. Hiệu lực 01/02/2025. URL: '
+    'https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/'
+    'Thong-tu-43-2024-TT-BYT-thanh-lap-Hoi-dong-dao-duc-trong-nghien-'
+    'cuu-y-sinh-hoc-635867.aspx',
+    'Trường Đại học Y Hà Nội (HMU). Hướng dẫn lập hồ sơ xin phê '
+    'duyệt và nghiệm thu kết quả nghiên cứu, thực hiện đạo đức nghiên '
+    'cứu của đề tài. PDF 24 trang, dựa trên QĐ 111/QĐ-BYT 2013. URL: '
+    'https://sdh.hmu.edu.vn/images/HO%20SO%20XIN%20PHE%20DUYET%20DAO%20'
+    'DUC%20TRONG%20NGHIEN%20CUU%20Y%20HOC.pdf',
+    'Bệnh viện Nguyễn Tri Phương. Quyết định 672/QĐ-BVNTP ngày '
+    '23/05/2025 về việc thành lập Hội đồng Đạo đức trong nghiên cứu '
+    'y sinh học (ví dụ QĐ thành lập theo Thông tư 43/2024). URL: '
+    'https://bvnguyentriphuong.com.vn/quy-trinh-thu-tuc-hanh-chinh/'
+    'quyet-dinh-thanh-lap-hoi-dong-dao-duc-trong-nghien-cuu-y-sinh-hoc',
     'Frontiers in Psychiatry. Author Guidelines — Ethics Statement '
     'Requirements. URL: '
     'https://www.frontiersin.org/journals/psychiatry/for-authors/'

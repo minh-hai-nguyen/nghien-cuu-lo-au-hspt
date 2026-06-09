@@ -63,13 +63,14 @@ def build_qd(out_path, is_blank=True):
             'TEN_NCS': 'Công Thị Hằng',
             'DON_VI': 'Khoa Tâm lý Giáo dục, Trường Đại học Sư phạm Hà Nội',
             'HUONG_DAN': '[Học hàm/học vị] Nguyễn Minh Đức',
-            'MUC_TIEU': 'Khảo sát mô hình tích hợp các yếu tố nguy cơ '
-                        '(bị bắt nạt, áp lực học tập, nghiện điện thoại) và '
-                        'các yếu tố bảo vệ (sự gắn bó với trường, sự hỗ trợ '
-                        'từ cha mẹ, sự hỗ trợ từ bạn bè, lòng tự trọng) đối '
-                        'với ba phân loại rối loạn lo âu (Lo âu Lan tỏa, '
-                        'Lo âu Xã hội, Lo âu Chia ly) theo DSM-5 ở học sinh '
-                        'trung học cơ sở Việt Nam',
+            'MUC_TIEU': 'Xây dựng và kiểm chứng mô hình tích hợp ba '
+                        'yếu tố nguy cơ (bị bắt nạt, áp lực học tập, '
+                        'nghiện điện thoại) cùng bốn yếu tố bảo vệ '
+                        '(gắn bó trường, hỗ trợ từ cha mẹ, hỗ trợ từ '
+                        'bạn bè, lòng tự trọng) đến ba loại rối loạn '
+                        'lo âu theo DSM-5 (Lo âu Lan tỏa, Lo âu Xã '
+                        'hội, Lo âu Chia ly) ở học sinh trung học cơ '
+                        'sở Việt Nam',
             'DOI_TUONG': 'Học sinh trung học cơ sở (tuổi 11-14, lớp 6 đến '
                          'lớp 9)',
             'CO_MAU': '1.352 học sinh',
@@ -77,14 +78,18 @@ def build_qd(out_path, is_blank=True):
                        'cơ sở Tây Mỗ, Hà Nội',
             'THOI_GIAN_BD': '___/2024',
             'THOI_GIAN_KT': '___/2025',
-            'PHAM_VI_CONG_BO': 'Luận án tiến sĩ của nghiên cứu sinh Công Thị '
-                               'Hằng và ba bài báo khoa học công bố trên tạp '
-                               'chí quốc tế thuộc danh mục Scopus/WoS, sử '
-                               'dụng cùng bộ dữ liệu thu thập theo đề cương '
-                               'đã được phê duyệt: (i) bài Q2 về mô hình '
-                               'phương trình cấu trúc tích hợp; (ii) bài Q3 '
-                               'về bất biến cấu trúc theo giới; (iii) bài Q4 '
-                               'về phân tích hồ sơ tiềm ẩn',
+            'PHAM_VI_CONG_BO': 'Bao trùm luận án tiến sĩ của nghiên '
+                               'cứu sinh Công Thị Hằng và ba bài báo '
+                               'khoa học dự kiến công bố trên tạp chí '
+                               'quốc tế thuộc danh mục Scopus/WoS, '
+                               'tất cả đều khai thác cùng bộ dữ liệu '
+                               'thu thập theo đề cương này. Ba bài '
+                               'báo gồm: (i) bài Q2 — mô hình phương '
+                               'trình cấu trúc tích hợp các yếu tố '
+                               'nguy cơ và bảo vệ; (ii) bài Q3 — bất '
+                               'biến của mô hình theo giới; (iii) '
+                               'bài Q4 — phân tích hồ sơ tiềm ẩn '
+                               'nhận diện các nhóm con học sinh',
             'CHU_TICH_HD': '[Học hàm/học vị + Họ tên] Chủ tịch HĐ Đạo đức',
             'SO_QD_THANH_LAP_HD': 'XXX/QĐ-ĐHSPHN',
             'NGAY_QD_HD': '___',
@@ -177,10 +182,11 @@ def build_qd(out_path, is_blank=True):
         r2 = p.add_run(t)
         r2.font.size = Pt(12)
 
-    DIEU(1, f'Phê duyệt đề cương nghiên cứu có tiêu đề {F["TEN_DE_TAI"]} '
-            f'của nghiên cứu sinh {F["TEN_NCS"]} ({F["DON_VI"]}), dưới '
-            f'sự hướng dẫn của {F["HUONG_DAN"]}, về mặt khoa học và '
-            f'đạo đức trong nghiên cứu.')
+    DIEU(1, f'Phê duyệt đề cương nghiên cứu {F["TEN_DE_TAI"]} của '
+            f'nghiên cứu sinh {F["TEN_NCS"]} ({F["DON_VI"]}), do '
+            f'{F["HUONG_DAN"]} hướng dẫn khoa học. Đề cương đạt yêu '
+            f'cầu về tính khoa học và tuân thủ các nguyên tắc đạo '
+            f'đức trong nghiên cứu.')
 
     DIEU(2, f'Phạm vi phê duyệt:')
 
@@ -217,17 +223,18 @@ def build_qd(out_path, is_blank=True):
          'quy định hiện hành')
     BULL('Báo cáo tiến độ thực hiện đề tài hàng năm cho Hội đồng Đạo '
          'đức')
-    BULL('Thông báo kịp thời cho Hội đồng Đạo đức bất kỳ sự kiện bất '
-         'lợi nào hoặc thay đổi đối với đề cương đã được phê duyệt')
-    BULL('Lưu trữ hồ sơ nghiên cứu trong thời hạn tối thiểu 05 năm '
-         'kể từ ngày hoàn thành nghiên cứu')
+    BULL('Báo cáo kịp thời cho Hội đồng Đạo đức mọi sự kiện bất lợi '
+         'xảy ra trong quá trình triển khai, cũng như mọi thay đổi '
+         'so với đề cương đã được phê duyệt')
+    BULL('Lưu trữ hồ sơ nghiên cứu tối thiểu 05 năm kể từ ngày hoàn '
+         'thành nghiên cứu')
     BULL('Tuân thủ Tuyên bố Helsinki (1964 và các sửa đổi) và Quy chế '
          'thực hành lâm sàng tốt (GCP)', last=True)
 
-    DIEU(4, f'Hiệu lực quyết định: Quyết định này có hiệu lực kể từ '
-            f'ngày ký. Phạm vi phê duyệt áp dụng cho toàn bộ thời '
-            f'gian triển khai nghiên cứu nêu tại Điều 2 và bao trùm '
-            f'tất cả các công bố khoa học phát sinh từ đề tài này.')
+    DIEU(4, f'Quyết định này có hiệu lực kể từ ngày ký. Phạm vi phê '
+            f'duyệt áp dụng trong toàn bộ thời gian triển khai nghiên '
+            f'cứu nêu tại Điều 2, đồng thời bao trùm mọi công bố '
+            f'khoa học phát sinh từ đề tài này.')
 
     if is_blank:
         DIEU(5, f'Nơi nhận: Chủ nhiệm đề tài/NCS; Người hướng dẫn; '
